@@ -1,0 +1,1301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_lord_vuntgen</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>241</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Declaiming to the crowd is a well-dressed but sickly-looking man - short, dumpy, and an unhealthy shade of yellow. Despite this, he has the proud demeanor and the stentorian voice of a much larger man.
+
+He booms at you as you approach. "Ah! Another likely fellow. Excellent! The people have called for deliverance from this ravaging stichus, and a hero has answered. Most courageous of you!"</DefaultText>
+      <FemaleText>Declaiming to the crowd is a well-dressed but sickly looking man - short, dumpy, and an unhealthy shade of yellow. Despite this, he has the proud demeanor and the stentorian voice of a much larger man.
+
+He booms at you as you approach. "Ah! Another likely lady. Excellent! The people have called for deliverance from this ravaging stichus, and a hero has answered. Most courageous of you!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>He frowns as he gets a better look at you. "Wait. I know you. You're the one who made peace with the sticha. Commendable, but I'm afraid one of your new friends didn't hear about the end of hostilities. It's running rogue here in Cliff's Edge."
+
+He looks uneasily at the crowd. "If these people get hold of it, things might go badly, and all your work will have been for nothing. Best if you were to find it first, then return and tell me precisely where it is. I'll take it from there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>He smiles as you approach him again. "The likely one is back. Have you found the stichus yet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>He smiles as you approach him again. "Ah! The likely one is back, and you've returned a hero! I heard how you dealt with the sticha. Fine work!"
+
+He shakes his head. "Sadly, the rogue stichus we have been hunting here is still at large. I don't suppose you've spotted it yet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>He smiles as you approach him again. "The hero is back. Have you found my quarry yet? Have you spotted the rogue stichus?"
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Let me ask you something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I know where the stichus is. It's in the dump behind the Fifth Eye."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I killed the stichus. Its body is in the dump behind the Fifth Eye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Why is Cliff's Edge so afraid of this stichus?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Tell me again why the people in Cliff's Edge are afraid of the stichus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"What exactly is a stichus?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Remind me what a stichus is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"How did the sticha come to be in Sagus Cliffs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Tell me again where the sticha came from."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Tell me about yourself again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"What can you tell me about Cliff's Edge?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Can you tell me again what you know about Cliff's Edge?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Do you know the White Death?"
+
+{SCRIPT: Does not play if Matkina is in party.}
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Remind me what you know of the White Death."
+
+{SCRIPT: Does not play if Matkina is in party.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"What else can you tell me about the rogue stichus you're looking for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Tell me again about the stichus that's been terrorizing Cliff's Edge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>He shudders. "The vile thing appeared in Cliff's Edge a few days ago, and has been skulking around ever since. The whole neighborhood lives in fear of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"There's little else to tell. It's been seen all over the neighborhood but no one has managed to catch it yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"It must be destroyed before another house falls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Wonderful! Thank you, friend!"
+
+He turns to the crowd. "Citizens! This brave hero has found the stichus. It is hiding in the dump behind the Fifth Eye. Go forth and bring it to justice!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I found the stichus, but it's harmless. It has deformed claws. It can't dig. We should let it go."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"I spoke to the stichus. It said you captured it and left it in Cliff's Edge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I've learned that you're part yovoki. Abandon your hunt for the stichus, or I'll tell the crowd."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I'm afraid the stichus escaped."
+
+{SCRIPT: Only plays if Player helped the stichus escape.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Vuntgen glares at you. "There he is - the traitor to his own kind. Will you tell us where the stichus is? Or will you let more people die?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Some will tell you it's because this district has suffered the most from the sticha's digging... houses collapsing on the people, others falling into the sea. There's some truth to that. But the real reason is that the people here have become weak and afraid. They aren't prepared to face adversity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Because they are afraid of everything. They should be chasing these vermin into their holes and exterminating them. Instead they run around in circles and wail for the Council to do something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"They are horrible undermining vermin from another world. They tunnel beneath the streets of our city, undermining our homes and causing them to collapse. Our deaths are nothing to them - they don't even believe that humans are sentient creatures."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"I believe them to be malevolent pests who actively seek to ruin the lives of innocent surface dwellers like ourselves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Several members of the Council believe that it's the work of our enemies... that their eggs were brought here from another world. An act of vengeance or sabotage, perhaps. Others think that the eggs were *always* here, and it took them centuries to hatch. But *how* doesn't matter to me. They're here, and they're dangerous, and it's up to every true citizen of Sagus Cliffs to *resist* them!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Who knows. Perhaps someone brought them from another world, or maybe they've been here all along, gestating for millennia under the ground. They're *dangerous* - that's all that matters to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>He puts a hand to his chest and raises his chins. "I am Yars Vuntgen of House Vuntgen, one of the most respected of the Slave Families. I also have the honor of serving on the Council."
+
+He looks around him uneasily. "I don't usually descend to this neighborhood, but in such a crisis, one must put one's finer feelings aside and do what one can for one's city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"I am a public servant and head of a respected Slave Family." He sighs. "I'm far from my usual place in Council Tower, but until this stichus is caught, I will not budge from here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Alas, I rarely pass through these miserable streets, so I know little about them. But I go where my city needs me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Not a thing, as I said before. This is certainly not my home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"W-who? Never heard of her - uh, I mean, if it *is* a woman. Or even a person. It could be a disease, yes?"
+
+He coughs. "Whatever it is, I haven't heard of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Nothing! Absolutely nothing!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>His eyes narrow. "If you have truly done this, then I must chastise you - officially - for no one should take the law into their own hands in a civilized society. Personally, I must thank you, for you have done what neither I nor the citizens of of this district have managed to do. However, others have claimed such things and lied, so you will forgive me if I verify your account."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>He raises an eyebrow. "Harmless? I'll be the judge of that. Where is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>He laughs. "Preposterous. It's lying to you. Why would I do such a thing?"
+
+"And if you spoke to the creature, does that mean you know *where* it is?"
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>He hisses at you under his breath. "You would use my family's shame against me? You poisonous hypocrite. And I'm sure you think yourself noble for doing it."
+
+He swallows. "You know they'll kill me if they find out. Do you really want that on your conscience?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"What? How did this happen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>He smiles. "All you have to do is be the first to find the rogue stichus that's been terrorizing Cliff's Edge. Return here and tell me precisely where it is and I'll take it from there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Who are the Slave Families?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Who are the Slave Families again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>He puffs up with pride. "We are the descendants of the slaves who rose up with Chila the Great. They smashed the oligarchs who ruled this city and replaced their despotism with fair and egalitarian leadership, creating a city where anyone can achieve anything, if they only try."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"We are the descendants of the slaves who joined Chila the Great in her rebellion. This was centuries ago, of course. They tore down the walls of privilege and made Sagus Cliffs into the city of opportunity it is today."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>He leans in, warming to his subject. "Indeed, if the sticha didn't exist I would be tempted to invent them, for they are just what the city needs to stiffen its spine. Sagus Cliffs, our once proud empire, has abandoned its holdings and ceded its territories to autochthonous tribes and wild beasts. It's time to take them back, but how can we do that when our citizens have become lazy, timid children?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>He smacks his fist into his palm. "The people of Sagus Cliffs need to learn to be warriors again, so they can help the Council reclaim the glory that was once their birthright!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"You're right. Without conflict, people grow complacent. Active threats keep them on guard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"But empires only serve the interests of a lucky few. Most people suffer and gain little in return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Can I ask you something else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Indeed." He looks at you with new interest. "You seem a man after my own heart. I shall keep that in mind."
+
+</DefaultText>
+      <FemaleText>"Indeed." He looks at you with new interest. "You seem a woman after my own heart. I shall keep that in mind."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>He frowns. "And how much more would they suffer *without* the empire? The empire serves all. Even the least in a strong civilization is better off than the best of a weak one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"It's in the dump behind the Fifth Eye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"I'm not telling you where it is. You'll kill it."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Thank you. Now we will see."
+
+He turns to the crowd. "Citizens! This man says he found the stichus hiding in the dump behind the Fifth Eye. He claims it is harmless. Go and see if it will come with you willingly!"</DefaultText>
+      <FemaleText>"Thank you. Now we will see."
+
+He turns to the crowd. "Citizens! This woman says she found the stichus hiding in the dump behind the Fifth Eye. She claims it is harmless. Go and see if it will come with you willingly!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"What kind of monster do you think I am? I merely want to see justice done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>With a roar of triumph, the crowd turns and runs for the Fifth Eye. Some of them have weapons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>With cries of excitement, the crowd turns and runs for the Fifth Eye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>He holds up his hands. "Citizens! While I cannot condone you taking the law into your own hands, it cannot be denied that because of you, Cliff's Edge and all of Sagus Cliffs is a safer place!"
+
+He looks out across the crowd. "And I hope you learned a lesson here today, that our enemies are everywhere, and we can only defeat them by staying strong and vigilant!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>As the crowd cheers, Lord Vuntgen turns to you. "And now, friend, for your reward, of which you deserve every shin. Don't forget that I have considerable influence in this city. If you find yourself before the Council, or you need something from the bureaucracy, you can count on my aid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"I told you the stichus was harmless and you still had it killed. Why?"
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>He snorts. "First of all, I did not have it killed. I told the crowd to bring it to justice. I am not to blame for their subsequent actions. Second, there is no such thing as a harmless stichus. Even if it couldn't dig, as you claimed, how do you know it wasn't spying for its cousins?"
+
+"And even if it *was* harmless. Look what its death has done for the people of Cliff's Edge. It has lit a fire in their hearts! They feel like warriors now! Their bonds to one another have never been stronger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>He frowns as he gets a better look at you. "Wait. I know you. You're the hero who forced the sticha to come to terms. I'm proud to have met you, but I'm afraid that one of them has gone rogue. It's been skulking about Cliff's Edge, frightening these people."
+
+He smiles. "If you're interested in more heroics, just be the first one to find the thing. Then return here and tell me precisely where it is. I'll take it from there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"All right. It's in the dump behind the Fifth Eye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Sorry. I don't trust your sense of justice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Then get out of here before I tell these good people whose side you're on, traitor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"You make me sick."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"The stichus escaped. Other sticha dug a tunnel from below to free it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"A strange, half-mechanical stichus dug a tunnel from below and helped the stichus escape."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Some cultists of the Changing God led the stichus away in disguise. It has escaped."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"I'm starting to think you brought the stichus to Cliff's Edge to give the people an enemy to hate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"What proof do you have? The word of a stichus? Do you think anyone would listen to it, even if they could understand it?"
+
+He waves a hand. "Instead of discussing this, why don't you tell me where it was when you spoke to it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>He smiles. "To wake this city up, I might do something very much like that. Not that I did this time, mind you. But I admit it's an appealing idea."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>He shudders. "The vile thing appeared in Cliff's Edge a few days ago, and it's been skulking around ever since. The whole neighborhood lives in fear of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"There's little else to tell. It's been seen all over the district, mostly keeping to the shadows. No one has managed to catch it yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"You're right, that's too cruel. I won't mention it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"I won't have it on my conscience as long as you do as I say and stop hunting the stichus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Thank you. What a relief."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>He lowers his head, furious. "Very well, I'll call it off, but this is not the end for us, friend. You will regret crossing me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>He frowns unhappily. "This is... most disappointing. How did they even know it was there? Very strange." He sighs. "Well, I thank you for trying, but sadly, I cannot reward you for finding the stichus when it is lost. My apologies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>He frowns unhappily. "This is... most disappointing. A half-mechanical stichus, you say? Very strange. Who could have been behind such a thing?" He sighs. "Well, I thank you for trying, but sadly, I cannot reward you for finding the stichus when it is lost. My apologies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>He frowns unhappily. "This is... most disappointing. The cult of the Changing God, you say? Very strange. What is their interest in this?" He sighs. "Well, I thank you for trying, but sadly, I cannot reward you for finding the stichus when it is lost. My apologies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>He turns to the crowd. "Citizens, it seems we are making no headway in the hunt for this stichus, so I am returning home. I, uh... suggest that you all do the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Why did you convince the crowd to kill the stichus?"
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>He laughs. "I told the crowd to bring it to justice. I am not to blame for their subsequent actions. On the other hand, look what it's done for them! It has united them! Awakened them! Invigorated them! They no longer feel like victims. They are heroes! And with conflict simmering all around us, heroes are exactly what Sagus Cliffs needs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Why did you convince the crowd to string up the stichus?"
+
+{SCRIPT: Only plays if crowd strung up the stichus after PC killed it.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>As the crowd cheers, Lord Vuntgen turns to you. "And now, friend, you shall have your reward, but only because I promised it."
+
+His lips curl. "If the public were not watching, I would give you nothing. You may have brought this single stichus to justice, but that hardly makes up for negotiating a peace with its kin when you should have driven them from the city. And don't bother to look for any further favors from me. If we meet again, I will not know you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"I'm not in any way surprised." He winks, then turns away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"You killed an innocent creature. I don't want your reward."
+
+{Only plays if Vuntgen's crowd killed the Stichus.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>He snorts, dismissive. "Then you shant have it. And you'll get no favors from me either. I have no time for the ungrateful."
+
+{SCRIPT: Vuntgen takes back his reward.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>You notice that Lord Vuntgen doesn't seem very surprised to learn of the stichus's deformity. It's as if he already knew.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>He edges closer to you and lowers his voice. "I feel we are of a like mind, you and I. I'd like to refer you to a friend of mine. His name is Jernaugh, and he owns the chiurgical parlor here in Cliff's Edge. Tell him Lord Vuntgen sent you - he may offer you a discount on his services."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Good luck to you all."
+
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Can I ask you more about the stichus and its kind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Can I ask you about the stichus and its kind again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Of course. Knowing the enemy is the first step to defeating it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Certainly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"I'm looking for an albino woman, an assassin named Matkina. Do you know her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Do you know a man named Riastrad? He's a glaive who rarely speaks and has a tattoo like mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"I don't know who that is, and by the sound of it, I don't want to. She sounds like a dreadful person."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>He shrugs. "Neither the name nor the description mean anything to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>As he speaks, his eye twitches. He might be lying.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Are you *certain* you don't know Matkina?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>He avoids your eyes. "I know *of* her. That's not the same as knowing her. And I don't know her as... what was it, 'Matkina?' I know her only as the White Death. The Council has... had dealings with her before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>He gives to a tepid smile as you approach him again. "You're back, and I hear you made peace with the sticha. Commendable. Unfortunately, our rogue stichus hasn't heard about your settlement. It is still very much at large, and if anything were to happen to it, it could ruin all your hard work."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>He nods at your return. "Oh. The peacemaker is back. Have you found my quarry yet? Have you spotted the rogue stichus?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>He smiles as you approach him again. "Welcome back, hero. Have you spotted the stichus yet?"
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Welcome back, peacemaker. Have you spotted the stichus yet?"
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Where's the stichus, traitor? Are you ready to tell me yet?"
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"The stichus has escaped. I set it free."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>His eyes bulge. "What! And you dare show your face? You're a traitor to your own kind! If any more houses fall, it will be on your head! This is a tragedy! An outrage! I have half a mind to call the Levies!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Good day, sir!"</DefaultText>
+      <FemaleText>"Good day, madam!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Sagus Cliffs had an empire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Indeed. We held all the lands from here to Ornu's Unagran. That was before the slave uprising that brought the Slave Families to power. Some of us seek to *reclaim* what we lost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Who are the ghibra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Conniving water-breathers." He whispers, as if one of them might be listening. "Our rivals for power nowadays. How far we've fallen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Bank 171</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Remind me again... how great was this empire you lost?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"From the shores of Garravia Sound to farthest reach of Ornu's Unagran. But this was centuries past, before Chila's rebellion brought the Slave Families to power."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"The people aren't weak. They only need someone to lead them, to inspire them toward a common goal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"And when that leader is gone? The city will fall back into apathy. No... an *enemy* is what this city needs. In strife, we discover our finest selves. So it has always been."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>He pats you on the shoulder. "And you'll be rewarded, I promise you. As the head of a Slave Family, I'll owe you a favor, and my favor carries a good deal of weight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>He turns to the crowd. "Citizens! This man claims to have has killed the rogue stichus! Go and make sure he is telling the truth!"</DefaultText>
+      <FemaleText>He turns to the crowd. "Citizens! This woman claims to have has killed the rogue stichus! Go and make sure she is telling the truth!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Vuntgen raises his hands. He holds up his hands. "Loath as I am to condone this man taking the law into his own hands, it cannot be denied that because of him, Cliff's Edge and all of Sagus Cliffs is a safer place!"
+
+He looks out across the crowd. "And I hope you learned a lesson here today, that our enemies are everywhere, and we can only defeat them by staying strong and vigilant!"</DefaultText>
+      <FemaleText>Vuntgen raises his hands. He holds up his hands. "Loath as I am to condone this woman taking the law into her own hands, it cannot be denied that because of her, Cliff's Edge and all of Sagus Cliffs is a safer place!"
+
+ He looks out across the crowd. "And I hope you learned a lesson here today, that our enemies are everywhere, and we can only defeat them by staying strong and vigilant!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Thanks. I'll take what I can get."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"No thank you. I don't deserve a reward for what I did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"You had an innocent creature killed. I don't want your reward."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Then you shan't have it. I have no time for the ungrateful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>He shrugs. "As you wish."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>As the crowd cheers, Lord Vuntgen turns to you. "And now, friend, you shall have your reward, but only because I promised it."
+
+His lips curl. "If the public were not watching, I would give you nothing. You may have brought this single stichus to justice, but that hardly makes up for negotiating a peace with its kin when you should have driven them from the city. And don't bother to look for any further favors from me. If we meet again, I will not know you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Thank you. I respectfully accept."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"My pleasure. Best of luck to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"I know this man. He has hired me many times. And paid me nearly as often."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"You lied to us!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Ha! Should have known."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"He let it get away!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"I thought we were going to see some blood?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Damn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Script Node 196</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Script Node 197</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>A few moments later they all straggle back, cheering and hooting. Many of them have blood on their hands. They cluster around Lord Vuntgen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Script Node 199</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>A few moments later they all straggle back, cheering and hooting. They cluster around Lord Vuntgen. One of them holds up the stichus's stubby claws.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>[DEBUG] Test the mob moving off to lynch the stichus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>[DEBUG] Test the mob moving off to confirm that the stichus is dead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>[DEBUG] Test Vuntgen retreating after being blackmailed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Script Node 204</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"So... what else are we doing today?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"I need a drink."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Mob justice? More like mob failure. Bah."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Script Node 208</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Vuntgen! Vuntgen! Vuntgen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Vuntgen did his fair share. We did the rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Death to the sticha!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Ha! It's still twitching!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>Script Node 213</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>::spits::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Gonna get a trophy before I go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Not as satisfying as I'd hoped."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Script Node 217</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"The stichus is dead!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Aw, I wanted to kill it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"The beast was mine, dammit!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"I didn't get to see nothing!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Script Node 222</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"F
+
+{GEORGE/COLIN: These lines need a pass. -JF}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Ha, that stichus never knew what hit it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Remind me to never tangle with that guy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Script Node 226</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"We were promised justice!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Who saved it? Who? We want vengeance!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Find it! Smash it! Kill the bugs!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"We wanted blood!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Script Node 231</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"This was pointless. I'm going home."
+
+{GEORGE/COLIN: These lines need a pass. -JF}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Why would anyone help a stichus?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"What is this city coming to?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>Script Node 235</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Did he just say he helped the stichus?"</DefaultText>
+      <FemaleText>"Did she just say she helped the stichus?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"What kind of carked arse would let a murdering bug go free?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Who will stop the houses from collapsing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Did he just say he let the insect *go*?"</DefaultText>
+      <FemaleText>"Did she just say she let the insect *go*?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>Script Node 240</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Go back to your nest, bug-lover!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Let's get out of here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Who chooses bugs over humans?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Finally. Homes should be safe now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"I was hoping for a trophy..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Good. Can sleep safer tonight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Where's the justice in this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Time to move. Can't live near the cliffs anymore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"What kind of monster are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"You made peace with them. Surely you know them better than I do." He shrugs. "But I'll offer my perspective, if you like."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"You may not like my answer to that question. I've always believed them to be malevolent pests who care nothing for human life. I'll allow that a *few* of them must be reasonable, or they never would have stopped their digging... but I assure you, our deaths mean nothing to most of them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Most of them are malevolent pests. They dig beneath our feet and care nothing for a destruction they cause aboveground."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"I have other questions about the sticha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Go on, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>::flrrrrt:: Oom says. It's a very human, very rude sound. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>He looks sharply at your companion, but Oom's attention is firmly fixed at the sky. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4311_airlock_speaker</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A metallic voice echoes from near the door's panel, though you see no speaker or vent.
+
+"Apologies. Sensitivities within Anchorage. No visitors allowed. Return later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>A metallic voice echoes from near the door's panel, though you see no speaker or vent.
+
+"Outworlders! Enemies! Never will you come in again. The Anchorage is sealed to you, even after we are gone. May the stars be blind to your misfortune!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>A metallic voice echoes from near the door's panel, though you can see no speaker or vent. In the strangely accented and tortured phrasing of the lascars, it says: "Luck is with you. Pilot-Major Genjes remains alive. Never again do you enter here, on death's pain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The airlock's access light glows gently. Strange script pulses softly beneath it. You get the sense it means, "Welcome, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The airlock's access light glows gently. Strange script pulses softly beneath it. You get the sense it means, "Welcome, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,1574 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_aligern_stage4</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>292</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>{shaken, terrified, trying to hold it together} "I hate this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"And I hate you. I... I... I can't... I can't...." He closes his eyes, straining. "There is a hole in my mind, and I... I don't know what used to fill it."
+
+He turns away from you. "I hope it was worth the price."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"You're here because of me, so the risks should be mine as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"That... doesn't make any sense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>He thinks a long moment. "It's almost as though... you had your own story in this. That mine isn't the only one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I guess that fits what you told me before, about how we determine the stories of others. It makes me think that *others* matter, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"*All* stories matter - yours, mine, and everyone else's."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Yes... yes, of course." Erritis begins to glow a little brighter, but it's not his normal manic glow. The *timbre* of it has changed somehow. "A hero, then, not only makes stories, but *protects* others as well."
+
+{SCRIPT: Gains new ability that aids his comrades.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Your story only matters in how it helps the stories of others."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I was just playing a part. This *is* your story, but you have a larger part to play later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Yes... yes, of course. I see it all now." Erritis glows a little brighter as he speaks. "My time is only beginning."
+
+{SCRIPT: Gains new ability that makes himself stronger.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"How do you not know this? Of *course* others matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>{Taken aback}"Oh, I didn't mean... But I did." He gets a far off look in his eyes. "{Thinking aloud, growing more confident}You matter, of course. You are a part of my story. A larger story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"So were you ensuring that *your* story mattered then? At the risk of ruining mine?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"This is my quest and my story, Erritis. You joined me, remember?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I don't... Yes, I suppose I did. What a strange thought..."
+
+{SCRIPT: Flag this to give Other Erritis more power and this Erritis less.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"We are both heroes, Erritis. We each have our own story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"What an interesting idea. What if *everyone* was the hero of their own story? {Repeated with sudden shock}What if everyone was the hero of their own story?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I guess that fits what you told me before, about all of us playing a part in a larger narrative. It makes me think that *others* matter, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"But if that's true, then which of our stories matters more? Which of us is the hero?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I didn't think you were strong enough to handle it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I am strong enough to handle anything! I'm the hero!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I didn't want you to get hurt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"How thoughtful and unnecessary!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I can't die, remember? There's nothing it could do to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"But you *can* die. That Sorrow-thing killed so many of you already."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"It's an endless parade of violations, and you have forced me into every one. This was one too many. {shivers}You make Callistege seem benign."
+
+"I'm done. {pause}I hope you rot in here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>He composes himself. "I *saw* it trying to devour a piece of your mind. You could have turned its attention toward me. Why didn't you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"You're my friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I need you at your best. I was afraid it would weaken you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Aligern snorts. "Just a calculation, eh? I'll keep that in mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"You weren't as strong as I thought. It was better that I took the Bloom's attention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"No reason in particular. I just did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Keeping your motives to yourself? Fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I'm sorry your siblings died back in Miel Avest. I... No." He pauses, then frowns. "Truthfully, I'm *not* sorry. The Sorrow is putting things right, and the castoffs have to die for that to happen. You too."
+
+(ADAM or GEORGE: If the Bloom conversation plays the first time you talk to Aligern when you enter the Bloom, when does this conversation play?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>He shrugs. "What I meant to say is, I'm sorry it had to happen, but it had to. Sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Before as in more important? Everyone's story is important."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Really? What an intriguing thought. You know before today, I thought nobody else had a story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"But their stories - fascinating as they were - are over now, aren't they? I mean, unless they come back at some dramatic moment, more powerful than they were before. That's *always* exciting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"But assuming that *doesn't* happen. What does it mean? Their stories mattered to them, I think. But what do they matter now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"We escaped and they didn't. It's up to us to determine whether their lives and deaths matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"*We* determine *their* stories? I've never thought of it that way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"I've always lived life to the next adventure, but now I'm wondering where it will end. What will it be like? {Beat}{Surprised at the thought}What will happen after?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Erritis shakes his head. "I suppose I'll find out. Anyway, what's on your mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Their lives are over. It *doesn't* matter. We must make sure our lives *do*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Erritis nods. "That's what I've always thought."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"I like to think they live on - in our memories, if nowhere else. The stories of theirs that we know are part of something larger now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>{Wistfully}"Yes. A larger narrative."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"They were my brothers and sisters, and now they're gone. It's not really about you, Erritis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"It's not? I fail to see how that could be. Oh! Unless this is part of the sidekick's backstory that I must draw out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Of course they came before. Most of them were born long before any of us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Yes, of course. Every character has their own backstory."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"It doesn't matter. I have other questions for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I suppose you're right. What did you want to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Forget it. Let's continue on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Forget it! Why didn't I think of that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>He shivers. "What a repellant violation. Did you feel the Bloom probe your mind as we entered it?"
+
+{ADAM and COLIN: George has suggested cutting this branch and having Aligern's first conversation in the Bloom be the one that starts at Node 36. What do you think?}
+
+{NATHAN: Yes, I'd cut this section. -cmm}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"I did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Awful, wasn't it? That vast intelligence, forcing itself into every crevasse of your consciousness. The chorus of terrifed voices, all screaming at once."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>He purses his lips, but says nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"That tale you mentioned in the Compound... the Thousand Kisses?"
+
+{SCRIPT: Conditional: Erritis mentioned the Thousand Kisses earlier.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"The Serpentess of a Thousand Kisses, yes. I almost miscounted, that would have cost me my life. Or my dignity. It might have cost my dignity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"She had extremely sensitive lips and needles for teeth that would rotate on a belt. Only once every thousand kiss was safe, it was just a matter of knowing which one not to kiss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Back in the Compound, did you say something about 'Intestinal Jetty of Fem-ra-door?'"
+
+{SCRIPT: Conditional: Erritis mentioned FemRhador earlier.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Oh no, no, no, all one word - *FemRhador*. You have to capitalize the R, and let it roll off the tongue like one word."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"That's why I got thrown in there in the first place, I think - it's hard to recall. They weren't a very nice people. Prone to squirting their consonants and not making much sense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"What was the jetty?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"The jetty was a huge tube that could curl and uncurl like a snake across a mucous field. In order to catch the ship that floated by, you had to enter it, and, uh, get expelled into it. *Not* pleasant. At all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"What's your story?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"I didn't know. I still don't, though I've searched ever since for the answer. Did the creatures drag my people back though the frame? Did they devour them? Did they take them somewhere?"
+
+"I only knew it was the traveller who'd told me how to power the frame, and the traveller who'd told me it was harmless." His eyes narrow with hate. "That day I devoted my life to two things, bringing my family back, and taking my revenge on the traveller, the man I came to know as the Changing God."</DefaultText>
+      <FemaleText>"I didn't know. I still don't, though I've searched ever since for the answer. Did the creatures drag my people back though the frame? Did they devour them? Did they take them somewhere?"
+
+"I only knew it was the traveller who'd told me how to power the frame, and the traveller who'd told me it was harmless." His eyes narrow with hate. "That day I devoted my life to two things, bringing my family back, and taking my revenge on the traveller, the woman I came to know as the Changing God."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Oh that's the best part about me! Well, that's not right. The *best* part about me is my dashing wit, my brazen handsomeness, and my daring do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"But my origins make it so much better, because I was just a farm boy, and now I'm the world's greatest hero. I bet you've never heard a story like *that* before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"I don't remember *where* exactly, but I come from low beginnings. I am every man's everyman. Every woman's too!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"What have you learned about your family?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Tell me again what you know of your family."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"The only person who seems to know anything about it is the Changing God, which is why it is so important that I... speak with him. The Order of Truth has been unable to help me, no book or data device has mentioned it. I have heard no rumors of anything remotely like it."
+
+He pauses. "Wait. I forgot Callistege. She said she knew too. Claimed she had pulled the knowledge from another reality, but she only said it to hurt me. It may have been a lie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Only that the Changing God knows what I need to know about it. So he's the one I need to... talk to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"So you've learned nothing about this 'frame?'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Say again what you know about the frame?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Glow? Oh, right. I often forget how dim and drab other people are. That's just me. When I'm heroic and brave, I glow even brighter. And that means I'm ready for more heroics and braves!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"It's just me. I'm brighter the more amazing I am, and the more amazing I am, the brighter I get. It's a... what do you call it? A back feedery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Are you sure the Changing God's remark wasn't just an innocent farewell?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"I still say the Changing God's remark could have been innocent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Oh, yes! Well, no. That is to say, I don't remember *not* glowing. But then there is a great deal I don't remember. Not *important* things, mind you. Just a lot of things."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"For as long as I can be bothered to remember."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Have you ever confronted the Changing God about what he did?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Remind me again. Did you ever meet the Changing God and ask him about what he did?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"I talked to a reflection of you in the Labyrinth. He said that glow is a cloud of magic that feeds on you and makes you do dangerous things."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Erritis blinks. "{Long beat}I can honestly say I have no idea what you're talking about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"I have other questions, if you don't mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"That's all I wanted. Let's continue on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"I want to talk about you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"You didn't get enough of it the first time?" He sighs. "Fine. You remember I was an Aeon Priest, right? Well that lasted until I found an old portal and tried to make it work."
+
+"If the Changing God hadn't told me its secret, I probably would have given up on the thing, and I'd still be with the Order, and still have a family. As it is, I followed his instructions, turned the machine on, and the... things inside it poured out and stole or killed everyone in my village - including my faimily."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"How are you holding up?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"As well as can be expected." He smirks. "Considering the company I keep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Better than I have been." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>He looks at you, cold. "I don't know. About anything." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>He meets your eye, then looks away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Let's talk about our traveling party."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Who?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"What do you think of Aligern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"He's grumpy, did you notice that? I can't say I like him. At all. {Dramatic whisper}I think something happened to him. You know, in his... what do you call those things that happened before now? In his stories?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"What do you think of Callistege?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Oo, she's *nice*. But I've noticed she's not all *there*, if you know what I mean. I mean, she certainly is *all there*, just not quite all at once."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"What do you think of Satsada?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>He looks you un the eyes, then away again. "I couldn't bear her agony."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"What do you think of Riastrad?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"I feel for him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"What do you think of Matkina?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Like any graceful predator, she's better observed at a distance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"What do you think of Oom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"I would like it better if I understood it. What happens, for instance, if we do something it doesn't like?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"What do you think of Tybir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"A liar and a know-nothing. At least he doesn't expect you to hold up your side of a conversation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"What do you think of Rhin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"You're expecting us to look after a child?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"I have additional questions, if you don't mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"I have a choice?" He sighs. "Go on. What?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"I think it's best we part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Oh, well... hmm. I was having such a good time. I don't suppose I could take Oom with me...? No? Very well, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Oh... well, I shall miss you. And you, my dear Mattie, most of all. May your heart not trip on its own steps until our paths cross again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"I don't blame you, but you should reconsider. Our goals are parallel now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"If you need me again, find me at {X, being wherever Aligern will be}."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"You can't kick me out yet! I - "
+
+"Never mind. I'm going. I'm going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Don't trust me, eh? Well, the feeling's mutual."
+
+"I'll see you. Though you may not see me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Forget it. Let's continue on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>{Furious, shaking with rage}"You truly are your father's child. Treating your companions like infernal experiments, putting science before compassion, before honor!"
+
+"Give me one good reason why I shouldn't leave right now."
+
+{SCRIPT: This should be a triggered conversation that Aligern initiates as soon as he is out of D and O's clutches.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>{Sick, furious}"The Maw took too much. Far too much. And you just left me there!"
+
+"Don't ever try that again. Or anything like it. Fair warning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"I carry the memories of the Changing God. I'm your the only way you find out what happened with your family."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Didn't you put science before the safety of your town? I thought you'd understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Because I will lead you to the Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"I'm sorry. I let my curiosity trump my humanity. Leave if you want. I promise it won't happen again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"I promise, I won't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>(Lie) "I promise, I won't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"No guarantees. Sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"I'm sorry. Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>(Lie) "It didn't do anything like that to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Well it was awful. Trust me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Yes, it was terrible. Let me ask you something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Chorus of voices? I didn't hear anything like that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"I'd rather forget it. Let me ask you something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"No? Strange. They were very clear to me."
+
+"Never mind. What did you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Yes. Let's."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"You want me to live through it all again?" He sighs. "Why not. I deserve the pain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"He was in town seeking some object, I can't remember what, and my youngest girl brought him into my workshop so he could ask me about it. I didn't know he was the Changing God at the time. I didn't know who the Changing God *was* back then. I just thought he was another numenera hunter."
+
+Another sigh escapes him. "Anyhow, when he saw the frame, he said he knew what it was - gave it a name that was nothing but jabber to me, told me it was harmless - then showed me how to power with just a strand of glow braid."</DefaultText>
+      <FemaleText>"She was in town seeking some object, I can't remember what, and my youngest girl brought her into my workshop so she could ask me about it. I didn't know she was the Changing God at the time. I didn't know who the Changing God *was* back then. I just thought she was another numenera hunter."
+
+Another sigh escapes him. "Anyhow, when she saw the frame, she said she knew what it was - gave it a name that was nothing but jabber to me, told me it was harmless - then showed me how to power with just a strand of glow braid."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"I was an Aeon Priest. Lived with my family in an aldeia on the edge of the Protectorate. One day while exploring a ruin, I found a... a gate? A portal? I didn't know, other than it was a heavy, man-high frame of unknown material, and had an interface on the side."
+
+"The villagers helped me get it home, and I spent the next few weeks trying to figure out what it was and how it worked. And that's when the Changing God showed up and stole my life from me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"On second thought, let me ask you something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>He breathes a sigh of relief. "Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"It was as he was leaving that he said the thing that made me realize in retrospect that he knew he was ruining my life. He said, 'Say farewell to your family for me.'"
+
+"The very next day, I got the frame powered, and turned it on, and...." He hangs his head. "Out of it came a swarm of black creatures, like oil-covered sticks, thousands of them. They overwealmed me, knocked me unconscious, and when I awoke... they were gone, and my aldeia them. Everyone. My friends, my wife, my children. I was the only one left - except for a few dead."</DefaultText>
+      <FemaleText>"It was as she was leaving that she said the thing that made me realize in retrospect that she knew she was ruining my life. She said, 'Say farewell to your family for me.'"
+
+"The very next day, I got the frame powered, and turned it on, and...." He hangs his head. "Out of it came a swarm of black creatures, like oil-covered sticks, thousands of them. They overwealmed me, knocked me unconscious, and when I awoke... they were gone, and my aldeia them. Everyone. My friends, my wife, my children. I was the only one left - except for a few dead."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"What happened?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"What a sad story. Let me ask you something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Nothing. In all these years, nothing." He sighs. "I know I should accept the fact that they're dead, but I can't. I would *know* if they were, in my heart. But in my heart they are still very much alive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"I know they are alive, but I have no proof of it. It is only what I feel."
+
+"Sometimes, when I sleep, I hear them calling to me so clearly. I..." He stifles a sob. "Forget it. Foolish I know, especially for an empiricist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Aligern laughs. "Don't be naive. Nothing the Changing God has ever done was innocent. There is motive behind his slightest act."
+
+His face hardens. "He knew *exactly* what he was saying, and *why* he was saying it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"You would."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"I've never had the opportunity."
+
+He smiles, sly. "Unless you are the Changing God, in which case, I have, but my words have fallen on deaf ears."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"You tell me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"How did you come to travel with Callistege?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Tell me again how you and Callistege ended up traveling together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Did you and Callistege have a... relationship?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Tell me again about your relationship with Callistege."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"You seem to think you know me. Who do you think I am?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Who do you think I am again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"How do you think I can help you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Tell me again how you expect me to help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Forget it. Let me ask you something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"So you want me dead?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"You think the Sorrow is a force for good?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Do you see any other way to repair the Tides?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Tell me what you know of the Tides."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Tell me again about the Tides."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"You've proven yourself far better than the man you were, which is why I expect you to understand that this is for the best. There is no other way to repair the damage the Tides have wreaked on the world."
+
+"It's got to be done."
+
+{NATHAN: Doubt the PC should be able to get Aligern to LOVE at this point, but leave it here just in case - cmm}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"I don't have to explain myself to you. Leave or stay. It's all one to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Let me save you the trouble of making a decision. It's time for you to go. Get out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Forget it. Let's move on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Forget it. Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Don't you dare push me off again. Answer the question!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"You utter bastard. You would...." He glares at the ground, his tattoos writhing, then breathes out hard, defeated. "Fine. But I'll remember this, castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>He bites back an angry retort. "I never deliberately gambled someone's life for science. That's the kind of calculation Callistege would make."
+
+He breathes out noisily. "But fine. That's how you want to treat me? Fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Is that enough? I..." He deflates. "My best hope is my worst enemy. I hate irony."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Empathy? From you? After that?" He lets go of his anger with a visible effort. "That was the last time, castoff. Don't try it again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Your true nature comes to the surface at last. I'm not in the least surprised."
+
+"So long, castoff. We will not be friends next time we meet."
+
+{SCRIPT: leaves party.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"And not a moment too soon. Good luck with the Sorrow, castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"I'm sorry. Let's move on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Then there are no guarantees I'll stay with you. Keep it in mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"I don't, but even you must see it's for the best. There is no other way to repair the damage the Tides have wreaked on the world."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"No hard feelings, but it's the only solution. There is no other way to repair the damage the Tides have wreaked on the world."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"If it saves the world, absolutely. And it will. There is no other way to repair the damage the Tides have wreaked on the world."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"A hundred times over. But I'll settle for once if it saves the world. And it will. There is no other way to repair the damage the Tides have wreaked on the world."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"I don't think it would understand the term. It's a force for balance. And since you and your kin are the ones unbalancing everything, you're its targets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"I suppose the Sorrow could kill only the Changing God and let the rest of the castoffs live out the rest of their unnatural lives. The Tides would slowly heal once they're all gone. But I don't know if the world can wait that long. The damage is too much."
+
+"And I doubt the Sorrow could be convinced."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Your promises mean nothing to me after what you just did, but... but I still need you. So... keep your promise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Such sincerity. What do you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Aligern chuckles. "I know more than you'll want to hear. But, put simply, the Tides are the currents of urge and emotion that flow through humanity's collective psyche. Usually, they are as fundamental and inviolate as the air we breathe."
+
+He scowls. "But the Changing God found a way to violate them, to tune the tides in his body to the frequency of another so he could slip from one to the next without the discord between the tunings shaking the second body apart. And he wasn't the first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"They're the currents of emotion that move through all of us. If no one messes with them, the world is sane, but the Changing God has been messing with them for centuries, and so the world is *insane*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"I'm still not sure. Either you're nothing but the latest castoff, or you're the Changing God and you've lost your memory, or you're the Changing God and you've lied to us all. I have plans in place for each of these possibilities, and all of them require staying by your side."
+
+He gives you a not-at-all reassuring smile. "Get used to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"The latest castoff, the Changing God with amnesia, or the Changing God hiding behind a mask. Pick one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"I'm looking for answers. Being near you seems like the best place to find them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"I don't expect any help from you. Everything I want from you, I'll have to take. I'm sure of that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"When the Order of Truth failed me, I sought other help. Callistege was known for finding things so, despite her reputation for being... unreliable, I approached her, and she accepted, provided I help her find a way to achieve her transcendence."
+
+His eyes go far away for a moment. "She seemed so kind at first, but when it became clear neither of us could help the other, she became cruel and spiteful. I don't know why I stayed after that. Or why she stayed with me. Habit, I suppose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"I hired her to help me find my family, then couldn't rid myself of her."
+
+He shakes his head. "Why she wanted to stay with me I don't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>He grunts. "If you can call clawing and scratching at each other a relationship, then I suppose."
+
+His eyes grow far away. "It was pleasant at the beginning. I needed solace and she needed... validation, perhaps. But when I failed her, she grew bitter and cutting, and I never heard the end of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"A brief spark, that took an eternity of pain to fade to nothing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"A true friend wouldn't have put me in there in the first place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"You're calling me weak? You? You've got no leadership skills, no morals... by the Black Three, you don't even have any friends. You're weak in all the ways that count."
+
+He holds a hand across his eyes. "... forget it. Forget it. I'm tired, I'm hurting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"I'm nearly certain the ancients of the previous worlds discovered this power too. And they must have wreaked havoc with it, for why else would someone have created the Sorrow, if not to stop immortals from polluting the world with discord."
+
+"And discord is what happens when you tune the Tides in one particular person. Since everyone is connected, you are also... un-tuning all the people around the first, and the discord of their vibrations spreads to still more, until cacophony reigns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>He shakes his head. "Not many can see it, but that's what's happened everywhere the Changing God has gone. A five way polarization of the extremes of human response. Some become too emotional, some too rational, some too proud, some too profligate - whatever. Normal human interaction becomes impossible. Insanity becomes the norm."
+
+He shrugs. "Left unchecked, the discord could shake down the whole world."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"That's why the Sorrow wants to stop him, so that the Tides will go back to being harmonic, and the world will stop being insane."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"That's why this isn't just about my family for me. What the Changing God did to me is only a drop in the ocean of pain he has inflicted on this world. He must be stopped, and if it takes the Sorrow to stop him, so be it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"And if you're really not the Changing God..." He shrugs. "I want you to distract him so I can get the drop on him and take what I want from him."
+
+"Simple, really."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Thanks. I knew you wouldn't go through with it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>Aligern chokes. "So friends feed each other to maws, but all's forgiven if they pull each other out? I'll remember that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>He scoffs. "You've done a great job showing your friendship."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"I appreciate it, castoff. You're all right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Heh. I need to be at my best too. Better for both of us this way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Well, I'm glad we agree on something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>He nods once, sharply. "Don't miscalculate next time, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"I wish you'd thought of that earlier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Think harder next time. Don't make me suffer for your mistakes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Well, whatever your reasons, thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Then thanks, I guess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Just a whim, eh?" He snorts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>(Lie) "You're right. I let my curiosity trump my humanity. I'm sorry. But I promise it won't happen again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>{sick, furious}"You promised me. You promised you would never again use me against my will."
+
+"Well, I told you that last time was the last time. And I don't lie like some people. We're done.{turns away} I hope you rot in here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>{sick and furious}"And I hate you. You promised me you would never again use me against my will."
+
+"Well, I told you that last time was the last time. And I don't lie like some people. We're done. {pause}I hope you rot in here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>{sick, furious}"You promised you would pull me out! And you just left me there!"
+
+"There's only so much abuse a man can take. I'm done.{turns away} I hope you rot in here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"What do you think of Erritis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Is there any way to... turn him off?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"What happened to them? I've searched all these years for the answer and I still don't know."
+
+"All I know is that the Changing God told me the frame was harmless, and for that I have vowed revenge on him."
+
+He stares into the distance as if it was the past. "'Say farewell to your family for me,' he said. The monster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>[THIS WILL NOT PLAY. THESE ARE NODES i'M SAVING FOR LATER STAGES]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"You're the Changing God's last castoff. I was mistaken before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"The last castoff. How many times do I have to say it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>Aligern laughs, then chokes, then laughs again. "Sorry. Sorry. How do I think you can help me? Help isn't exactly the right word."
+
+He points a finger at you. "I want you to tell me what happened to my family. I want you to admit you deliberately misled me about the harmlessness of the frame. I want you to die so the balance of the Tides will be restored. But do I think you'll willingly help me with those things? No. I expect I'll have to pull your fingernails out to get any of that out of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"You look like you have something to say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Let's get back to Orth, eh? I want to know what he has to say about this frame, what his big secret is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"I... I don't know how to thank you for your help with the frame, with the tattoos... with my *family*. I know I haven't been the easiest companion, or the most trusting. I hope now you know why I behaved as I did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>{Focused, determined} "Let's find that frame, shall we?"
+
+"I've waited long enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"You've helped find out the truth about my family. I wish I'd stopped using these tattoos sooner, but... No changing the past for me, I suppose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"You've done more than I expected of you. I shouldn't have carried so much suspicion. Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"You've done much more than I expected of you. Even if you are the Changing God. You've made it right... at least as right as you could."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"I just wish... I wish we'd known sooner. I'd have stopped using the tattoos. If my family, my friends are damaged..." He swallows.
+
+"I'll guess we'll see what happens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"I met your friend Orth. He wants you to come by."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"No. I just have some questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Not particularly. Let's keep moving."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"All right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>He sighs, and his eyes narrow. "All right. Just... keep me updated if you come across anything I should know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Did he say why? No, actually, don't tell me - I'll get it from his lips. Let's get there now. Was that all, or did you have other questions?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Well? Let's go find Orth Faung!" {Stops to collect himself} 
+
+"Sorry. You probably have something you want to talk about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>For the first time, the pain in Aligern's eyes is gone. The tight lines that surround his mouth have loosened, and something that looks almost like hope struggles to creep into his expression.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"Let's talk about you and your story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"I want to talk about you and your story again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>
+"Aadiriis was right about you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>
+"Aadiriis was right about you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>Script Node 302</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>He purses his lips, but says nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>Script Node 304</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"Gods, that thing... I don't even want to touch it. Let's get it to Orth before something else happens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

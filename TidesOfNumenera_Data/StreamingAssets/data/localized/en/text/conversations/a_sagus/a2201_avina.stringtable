@@ -1,0 +1,1292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_avina</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>238</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The little girl still sits outside the old house, still playing the flute. She smiles as you approach. "Song today, sir?"</DefaultText>
+      <FemaleText>The little girl still sits outside the old house, still playing the flute. She smiles as you approach. "Song today, ma'am?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"How much?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"No, thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"It's [Global: a2201_AvinaSadSong] shins for a sad song, or [Global: a2201_AvinaHappySong] for a happy one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Here's [Global: a2201_AvinaSadSong]. Play me a sad song."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Here's [Global: a2201_AvinaHappySong]. Play me a happy song."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Why are sad songs cheaper than happy songs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Because there are more of them, sir."</DefaultText>
+      <FemaleText>"Because there are more of them, ma'am."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Thank you, sir. This one will break your heart."
+
+{SCRIPT: Plays a sad song.}
+{ADAM and GEORGE: could these songs apply a fettle of some kind?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Thank you sir, this one should give you a lift."
+
+{SCRIPT: Plays a happy song.}
+{ADAM and GEORGE: could these songs apply a fettle of some kind?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Can I ask you some questions?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"All right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Are you sure? It's just [Global: a2201_AvinaSadSong] shins for a sad song, or [Global: a2201_AvinaHappySong] for a happy one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Farewell, sir."</DefaultText>
+      <FemaleText>"Farewell, ma'am."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Do you feel the same way Zebb does about the stichus?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Have you seen a scary-looking glaive around here? Walks like he's asleep?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"What do you know about the Fifth Eye?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"How have the cultists of the Changing God been treating you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"No, thank you. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Thank *you*, sir."</DefaultText>
+      <FemaleText>"Thank *you*, ma'am."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>As you approach, she stops playing and smiles up at you with large, green eyes. "Shins for a song, sir?"</DefaultText>
+      <FemaleText>As you approach, she stops playing and smiles up at you with large, green eyes. "Shins for a song, ma'am?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Avina is playing her flute in front of the empty space where Zebb's house used to be. Her playing is ragged, and she keeps breaking off to sob and wipe away tears. She doesn't look up at your approach. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Let me ask you something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Is this your house? Who lives here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Tell me again who lives here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Tell me about Zebb and Nym."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Tell me again about Zebb and Nym."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Do you know who's stealing things around here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Who did you say was stealing things around here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Avina looks at you with angry eyes. "You told on the stichus, and now it's dead!"
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Do you know who lived in the house next door?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"You said that a woman named Skoura used to live next door?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Have you ever heard of the House of Empty Time? It's a place where children with no family can go to find parents who love them."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"You remind me of someone I met in the Fifth Eye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Someone saw children playing in the ruins of a collapsed house. Was that you?"
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Zebb says you're not related to him and Nym. Where is your family?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Tell me where you're from again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"What's your name?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Zebb and Nym and I live here, but it's their father's house. He's away."
+
+She looks back at the house. "I wish he'd come back and fix it. I think it's going to fall down soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Zebb and Nym and I live here. Zebb and Nym's father lives here too, but he's been gone a long time." She sighs. "I think it's going to fall down before he comes back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"They're my friends. They miss their dad a lot, but we still have fun. Zebb watches out for us, and I'm teaching Nym to play the flute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"They're my friends. They're almost my family."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"A lady named Skoura. She was a nano-sorceress, but a nice one. She let us look at all the things in her workshop. Well, almost everything. There was a room where she said she kept the Iron Wind. We weren't allowed in there."
+
+She frowns. "I think maybe something bad happened to her. One day she wasn't there anymore and she didn't say farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"She was a nano-sorceress, or maybe a witch. I think she got in trouble. She went away one night and never came back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Oh, it's the laaks. They take food or anything that's shiny. You should ask that old beggar about them... the one who talks to them. They're his pets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"The old beggar's pet laaks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"The poor thing. We're all taking care of it. The other sticha abandoned it, so now it has no family, except us."
+
+She leans in. "Please don't tell anyone about it. Zebb would die if anything happened to it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Oh yes! I know the one! I'm always afraid he's going to walk off the cliff, but somehow he doesn't. It's like he has nano-spirits watching over him."
+
+She points down the road. "He goes into the Fifth Eye sometimes. That's the place all the scary people go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"I peeked in once." She shivers. "I almost never see people go in there, but it was full! I don't know where they came from, but something... something was *wrong* about them. Like they walked out of someone's dream."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"They say the silliest things, and they give us lots of food and sweets." She grins. "They don't know how to talk to kids, but they *really* want us to like them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"I don't need to go to a place like that. This is my home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Her eyes narrow suspiciously. "People say that to me sometimes. They think I'm one of those girls who are becoming somebody else. But I'm not... at least, not anymore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>She nods, unashamed. "That was Zebb and me. He got some food that would have gone bad anyway. I found something even better." Her lower lip sticks out. "But it's mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Tell me your story again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I was from outside the city, but I've been here with Zebb and Nym since before their dad went away, so now I'm from here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"I used to be from outside the city. Now I'm from here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"What do you know about the Iron Wind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Just that Skoura thought it was dangerous. We never saw it, though. Maybe she was just pretending there was something bad in that room. I don't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Where can I find the beggar who talks to the laaks?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"He's usually out in the main square, right in front of the Fifth Eye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"I wanted the other Sticha to respect the power of Sagus Cliffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"It couldn't take care of itself. What I did was a kindness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"I don't have to justify myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"I was frustrated with the other sticha. I just snapped."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"That stichus was causing a panic, and your neighbors wanted it removed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"But it was our friend! It was family!"
+
+She hangs her head. "What do you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"What happened here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>She nods and sniffs. "The house fell. And Nym too. She went inside to wash, and..."
+
+She looks over at Zebb. "I wish I could do something for him, but he just sits there. I don't think he even hears me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Maybe I can do something for Zebb."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"I don't know. I'll stay here as long as Zebb needs me, but then..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I hope you can. I don't seem to be helping."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>A little girl stands near the stoop of a house that is no longer there, playing the flute. She wears a simple dress, and her golden hair flows past her shoulders. The tune she plays is sweet and soft, but it somehow carries to every corner of the street.
+
+Her playing is ragged, though, and she keeps breaking off to sob and wipe away tears. She doesn't look up as you approach. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Avina is playing her flute in front of the empty space where her house used to be. She looks up at your approach. "I'm glad you convinced Zebb to go to the House of Empty Time. I don't think he would have ever been happy here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Avina is playing her flute in front of the empty space where her house used to be. Her playing is ragged, and she keeps breaking off to sob and wipe away tears. She doesn't look up at your approach.
+
+"Why did you say such horrible things to Zebb? I'm afraid he's going to do something terrible. You're a bad person!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Avina plays her flute in front of the empty space where her house used to be. She looks up at your approach. "Thank you for trying to talk Zebb into going to the House of Empty Time. It would have been good for him, but he'll be okay here too. I'll keep an eye on him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"The house is in bad shape?"
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>She points to cracks around the base of the walls. "Those weren't here before, and they're getting wider. We don't go inside anymore except to wash or dress. Then we come right back out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"What happened here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Everything is gone," she says. The flute trembles in her hands. "Everything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Everything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"You're a good person, sir."</DefaultText>
+      <FemaleText>"You're a good person, ma'am."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"You're a bad person!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Leave me alone! I don't like you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Where did Zebb's father go?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Where did Zebb's father go again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"He said he was going to go work for someone named the Memovira in the Bloom. He was going to be a guard."
+
+She purses her lips. "He said he would come back every now and then, but he hasn't. I don't know what's happened to him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"He went to work in the Bloom. We haven't heard from him in a long time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Poor Nym. Poor Zebb."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>With that eye contact comes a spark of recognition. Though they hardly look the same, something about her reminds you of the ghost you encountered in the Fifth Eye. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>With that eye contact comes a spark of recognition.  Though they hardly look the same, something about her reminds you of the girl by the bridge, Loss-of-self.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>With that eye contact comes a spark of recognition.  Though she doesn't look much like either of them, something about her reminds you of the ghost you encountered in the Fifth Eye and also the girl by the bridge, Loss-of-self.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"You remind me of someone else I've met in Sagus Cliffs. Do you have a sister? A mother?"
+
+{SCRIPT: Player has only one other echo of TCGs daughter - the ghost in the Fifth Eye, Loss-of-self, Kiyatawa, or Sigyn. Variables currently being checked here are wrong.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>The girl stands outside a crumbling old house, playing the flute. She wears a simple dress, and her golden hair falls past her shoulders. The melody she plays is gentle and soft, but it somehow carries to every corner of the street.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Have you ever heard of the House of Empty Time? It's a place where children with no family can go and find parents who love them."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Maybe it's time to consider going to the House of Empty Time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"I don't need to go to a place like that. Sagus Cliffs is all the home I need."
+
+She looks over at Zebb. "But maybe..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"I still don't want anything like that." She looks over at Zebb. "But maybe..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"All right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Avina edges away from you, angry and frightened. "You killed the stichus! Why? What did it ever do to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"I know it couldn't take care of itself, but that was no reason to kill it! We would have looked after it!"
+
+She hangs her head. "What do you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Show me what you found. I'm curious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"You don't have to show me, but can you tell me what it was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Hesitantly she takes it out of her pocket and shows it to you, though it looks like she might snatch it back at any second.
+
+It looks like a small metallic cube, but there is something off about the geometry, as if you weren't quite seeing it in perspective.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"If that's how you're going to be, then forget it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"It's okay. I'll show you."
+
+She takes something small out of her pocket and shows it to you. It looks like a small metallic cube, but there is something off about the geometry, as if you weren't quite seeing it in perspective.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"It's a trick box. I don't know why, but it just felt right when I picked it up."
+
+She twists it gently, this way and that, but the box remains sealed. You can faintly hear something rattling about inside.
+
+"I haven't figured out how to open it yet. But I will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"That's not yours. I have to return it to its rightful owner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"I met a girl who is very sad to have lost that. Can I bring it back to her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"It's lovely, and I'm sure you'll find the trick of it soon. Good luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"I didn't steal it! I found it!" She snatches it back, but after a second she slumps and holds it out again. 
+
+"But I guess if it's somebody else's, they should have it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>She hesitates for a long moment, then holds it out to you. "I guess so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Thank you. I think it's beautiful."
+
+She puts it back in her pocket.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Yes, they should... you little thief."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"It's for a good cause, I promise you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>She sniffs a little as you take the box. "I told you I didn't steal it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Thank you. I'll take it to her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>She sniffs a little as you take the box. "Okay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>She gazes sadly at the box as you put it away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"You're very kind. The girl is going to be happy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>She manages a quick smile as you take the box. "Tell her I'm glad."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Can I see the puzzle box you showed me before?"
+
+{SCRIPT: PC is on step 3 of Sorrow's Prey AND previously told Avina that she could keep the puzzle box. (The latter variable should already be accounted for, but not the quest phase check.)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>She gives you a suspicious look but takes it out of her pocket and holds it out again. "You said I could keep it before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Again?" She takes out the box. "Why do you keep wanting to see this?"
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Forget it. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Leave her alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText> Follow-up PQ. 155</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Tell me again what happened."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText> Follow-up PQ. 158</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Tell me again what happened."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"You're a good person, sir."</DefaultText>
+      <FemaleText>"You're a good person, ma'am."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Zebb will be okay. I'll watch out for him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>She turns away. "The poor thing. It never did anything to anybody. Why did you do it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Not to me, maybe. But you *know* it was wrong."
+
+She hangs her head. "What do you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Her eyes widen. "I'm sorry... I didn't mean it like that. Here, I'll show you."
+
+She takes something small out of her pocket and shows it to you. It looks like a small metallic cube, but there is something off about the geometry, as if you weren't quite seeing it in perspective.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Let's talk about something else instead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>The box disappears back into her pocket, and she looks relieved. "All right. What do you want to talk about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Avina doesn't look up as you approach. "What do you want now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Zebb and Nym and I live here, but it's their father's house - unless he's dead like you said." 
+
+She looks back at the house. "I hope he's alive. He needs to come back and fix the house or it'll fall down soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Zebb and Nym and I live here, and I guess that's all, if what you said about Zebb's dad is true."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Zebb and Nym and I live here, but it's their father's house - except I guess he's dead now." 
+
+She looks back at the house. "I wish he was alive. Somebody needs to fix the house or it'll fall down soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Zebb and Nym and I live here, and I guess that's all, now that Zebb's dad is dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Go away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"What?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"I still need to talk to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>*sob*</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"I have some questions for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"O-okay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"I had a feeling you were smart. Not like most grown-ups." She shrugs. "Zebb and I rummaged through the house for something to eat. He got some stale bread and dried fruit... but I found something even better. Here, I'll show you."
+
+She pulls something small out of her pocket. It looks like a metallic cube, but there is something strange about the geometry, as if you weren't quite seeing it in perspective.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Here's [Global: a2201_AvinaSadSong]. Play me a sad song."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Here's [Global: a2201_AvinaSadSong]. Play me the sad song again."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Thank you, sir. This one will break your heart."
+</DefaultText>
+      <FemaleText>"Thank you, ma'am. This one will break your heart."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Thank you, sir. Here it is again."</DefaultText>
+      <FemaleText>"Thank you, ma'am. Here it is again."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Thank you, sir. This one will make you miss everyone you ever loved."
+
+{SCRIPT: Plays a sad song.}
+{ADAM and GEORGE: could these songs apply a fettle of some kind?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Actually, I think that's all the sadness I can take for a while. Here, you can have these back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Here's [Global: a2201_AvinaHappySong]. Play me a happy song."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Here's [Global: a2201_AvinaHappySong]. Play me the happy song again."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Thank you sir, this one should give you a lift."
+
+</DefaultText>
+      <FemaleText>"Thank you ma'am, this one should give you a lift."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Thank you sir, always happy to play that one again."
+
+</DefaultText>
+      <FemaleText>"Thank you ma'am, always happy to play that one again."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Script Node 196</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Bank 197</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"It *was* our house - me, Zebb, and... Nym..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"I lived here with Zebb and Nym before it collapsed and... Nym..." She sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"We need to talk about that box you found."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Again?" Her hand drops to her pocket, and she draws out the metallic cube, clutching it protectively. "You want to take it from me, don't you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"No. Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Oh... all right." Confused, she stuffs the cube back into her pocket.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Not anymore? What do you mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Actually, the person you remind me of is a ghost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"When I was younger, I used to feel like there was another person who was always nearby. Just out of sight. Sometimes she'd even slip into my mind, and I'd hear her voice." She glances away. "I think I was supposed to *become* her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Her smile flashes then, and she looks back at you. "But I wouldn't. Every night, in my dreams, we fought. And every night, I *won*. After a while, she got weaker and weaker, until I couldn't hear her voice at all."
+
+"Now she's gone, and I've never heard from her again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Her eyes widen. "I... I look like a *ghost*? I don't know anything about that. Unless *she's* the one who..."
+
+She takes a breath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Remember the puzzle box you gave me? It belonged to another girl who was 'becoming someone else.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Do you know anything more about her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Are you sure you don't know anything more about her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"It did? What if *that's* why it felt so right when I found it?" Her eyes are wide, terrified. "It's a good thing you took it away. If you hadn't, that *thing* might have come back, and I would have had to fight her again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"No... and I don't want to. I don't think we had much in common. Maybe that's why I could fight her off, and the other girls can't." She shivers. "I'm just glad she's gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"No. Nothing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"She'll never trouble anyone again. I shut down the machines that were trying to bring her to life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"So... she wasn't a girl... or even a ghost?" Avina is quiet for a moment. "I still think she was a real person. Otherwise she couldn't have been so sad."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>She nods. "I don't like talking about that other girl. It makes me think about what might have happened if I hadn't fought her so hard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Even in her distraught state, you are struck by a spark of recognition. Though they hardly look the same, something about this girl reminds you of the ghost you encountered in the Fifth Eye. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Even in her distraught state, you are struck by a spark of recognition. Though they hardly look the same, something about this girl reminds you of the ghost you encountered in the Fifth Eye. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>As you regard the girl, you are struck by a spark of recognition. Though they hardly look the same, something about her reminds you of the ghost you encountered in the Fifth Eye. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>As you regard the girl, you are struck by a spark of recognition. Though they hardly look the same, something about her reminds you of the ghost you encountered in the Fifth Eye. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>As you regard the girl, you are struck by a spark of recognition. Though they hardly look the same, something about her reminds you of the ghost you encountered in the Fifth Eye. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>As you regard the girl, you are struck by a spark of recognition. Though they hardly look the same, something about her reminds you of the ghost you encountered in the Fifth Eye. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>As you regard the girl, you are struck by a spark of recognition. Though they hardly look the same, something about her reminds you of the ghost you encountered in the Fifth Eye. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>She nods and sniffs. "The house fell. And Nym too. She went inside to wash, and..."
+
+She looks over at Zebb. "I wish I could do something for him, but he just sits there. I don't think he even hears me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Even in the girl's distraught state, you are struck by a spark of recognition. Though they hardly look the same, something about her reminds you of the ghost you encountered in the Fifth Eye. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Even in her distraught state, you are struck by a spark of recognition. Though they hardly look the same, something about this girl reminds you of the ghost you encountered in the Fifth Eye. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>As you regard the girl, you are struck by a spark of recognition. Though they hardly look the same, something about her reminds you of the ghost you encountered in the Fifth Eye. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"How much for a song?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"No songs, thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"It's [Global: a2201_AvinaSadSong] shins for a sad song, or [Global: a2201_AvinaHappySong] for a happy one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Script Node 241</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>The girl lowers her flute and looks up at you. "Do you want me to play another?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Are you saying he trained them to," Tybir clears his throat, "Fetch things? From people?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"I don't know. But I think that's what they do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>He whistles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>As you regard the girl, you are struck by a spark of recognition. Though they hardly look the same, something about her reminds you of the ghost you encountered in the Fifth Eye. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>Trigger Conv Node 250</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>As you regard this girl, you are struck by a spark of recognition. Though they hardly look the same, something about her reminds you of the ghost you encountered in the Fifth Eye. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>Trigger Conv Node 252</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Pulling her eyes away from the box, she looks up at you. "Was that... was that all you wanted?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>::mmmm:: Oom hums, and the song seems oddly similar to what the girl was just playing. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>She brightens, lifts her flute, and plays along until Oom is distracted by a passing insect. 
+
+Smiling at you, she says. "Free sample."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_ancient_shield_generator</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>47</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This machine towers above you like a dagger driven into the ground by a giant. It seems much older than the surrounding buildings. 
+
+Your hands itch to touch the array of dark panels scattered around the machine... as though they have touched them before. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The rusty monolith stands where you left it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Study</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Your hands slip over the cobbled-together components and greasy cables. The buttons worn by frequent use. It is a strange accomplishment, this machine - clumsy but deft. Amateurish but masterful. Only a brilliant mind could have melded so many disparate parts into a functional device. 
+
+Unfamiliar memories whisper to you. This device was used - though you don't know how - to generate a field that unmoored everything within it from time itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Bank 5</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Try to remember why this machine feels so familiar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Try again to remember why this machine feels familiar. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You close your eyes to better concentrate, sinking into the currents of a memory that does not belong to you - or at least, not to the body you are in... and you hear the thunderous heartbeat of the operational generator calling you from across centuries. 
+
+{SOUND: Slow, deep, bassy THUMMING}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The memory teases you with images of the machine in pieces... but you can remember no more than that. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>One of the consoles surrounding the towering machine appears to be active. A dim light winks at you through grimy layers of dirt and rust. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Bank 11</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Use the functional console. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Use the teleportation console. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You press the button beneath the flickering light. Three painful tugs pull at your abdomen. 
+
+One points toward Sagus's upper cliffs, another toward the city's peak. The third, almost taut, leads back to the teleportation controls in Caravanserai.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>The invisible hook slips beneath your navel, tugging you towards three different destinations. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>You step back. The discomfort fades away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The invisible line yanks you up into roaring darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The invisible line yanks you up into roaring darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Travel to the cliffs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Travel to the peak of the city.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Leave the console alone for now. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Your fingers scrape a rough patch. Lifting them, you see a circinate symbol etched into the side like a maker's mark.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Bank 26</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>... just like on the clock, you realize.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>""
+
+What originally appeared to be a flat surface is instead a panel, the gaps around it caked to the brim with congealed filth. to the brim </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>""
+
+{SCRIPT: Unlocked by noticing that the symbol on the shield device matches the one on the clock. See above branch.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Bank 31</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Examine the device. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Examine the device again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>A tangle of mismatched parts make up this once-functional generator. Once again, you notice the circinate symbol etched into the side like a maker's mark.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Bank 37</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>""
+
+{SCRIPT: Unlocked by noticing that the symbol on the shield device matches the one on the clock. See above branch.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>""
+{LOOT: Player gets Fractal Lattice oddity.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Leave the generator alone. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText> Addend. 43</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>You cannot shake that feeling that you have stood here before, in this machine's broken shadow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>You lean over to examine the coiled symbol, brushing your hand over it. What originally appeared to be a flat surface is instead a panel, the gaps around it caked to the brim with congealed filth. Carefully, you wedge it open. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Inside, disconnected from any of the machine's systems, is a thin metal component composed of a dizzying array of looping, interconnected spirals. You realize that this could be used to fix the broken clock. 
+
+You gently remove the redundant component and put it away. 
+ 
+{LOOT: Player gets Fractal Lattice oddity.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Take a closer look at the maker's mark.
+
+{SCRIPT: Unlocked by noticing that the symbol on the shield device matches the one on the clock. See above branch.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Travel to Caravanserai.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>The invisible line yanks you up into roaring darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>You open cold, focused eyes, ignoring the screams, the drifting tangles of black smoke. Your attention is solely focused on the health of the machine's heartbeat. 
+
+You reach into the hissing guts of the generator, adjusting and tuning. Hoping.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>The heartbeat fades into the past. Your hand - your body's hand - rests on the rusty surface of the long-dead generator.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Script Node 54</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Take a closer look at the maker's mark.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Beneath the coiled sigil, you pry open a loose panel with your fingernail.
+
+In the darkness behind it lies a synth lattice among the debris. Its holes seem to filter the air.
+
+It bears the clock control device's mark. Perhaps it could repair that device.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4301_vrung</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>106</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This sharp-faced young man reminds you of a great rodent, more prone to scampering and sidling than running or walking. Shadows play across his face, distorting his features, and you are unable to get a clear glimpse of his face. Even so - or perhaps especially because of it - he seems to bear a notable resemblance to the young woman standing next to him, their faces shifting and changing in near-perfect time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>At your approach, he sniffles loudly and drools some phlegmy spit across your path. He wipes his mouth with the back of his hand, and though you can't see his face, his tone conveys the sneer clearly enough. "What d'you want, popinjay?"
+
+His voice echoes eerily, a slight delay between the movement of his lips and the sound reaching your ears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"If I hear that you've been bothering Qianne any more, I'll tear your eyes out and wear them as a necklace. Got it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>He steps back, looking you up and down. "Right. Right, I got it. I'll leave her alone, I promise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I've heard that your friend here used to be different. What have you done to change her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You see the woman mouth a plea before the shadows swallow her features again. And then the hostile sneer returns.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Touch the Magmatic Annulet to form a psychic connection.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You touch the Annulet and focus on Vrung. You sense his mind, a nest of rage and envy, Touching it is akin to thrusting your hand into a sack of writhing, biting insects. 
+
+You feel a strong connection between him and Delny, a vise clamped over the girl's mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>As the shadows melt away like a morning mist, his partner's face fills out, revealing pleasant, girlish features. Her true skin is a pale blue, and her hair is bright pink. She smiles broadly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"What if I paid you [Global: c4301_VrungQiannePayment] shins to leave Qianne alone?"
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>He laughs, his contempt apparent in every harsh sound. "I'll take your coin. I'll leave her alone. For a time, at least."
+
+He turns away, dismissing you.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"He's gone! He's out of my head, that parasitic whisper!" Then she looks at him lying on the ground. "But what happens when he wakes up? He'll just reclaim me, won't he? What should I do?"
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"You don't need to do anything. I'll handle it." Kill him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Why don't you turn the tables and burn out his psychic powers? Overload them or something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I'll have a talk with him. I won't hurt him. At least, not physically. But I do plan to scare him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>When Vrung awakens, he is lying on the ground, and you are kneeling next to him. Your finger in his face, you speak quietly but urgently about his life, his sanity, and any surviving members of his family. You reduce him to shivers and trembles. He stammers, "I vow to leave this place, never to return, and I'll never trouble another like this." When you let him up, he flees as if trying to outrun a falling star.
+
+Delny smiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Delny closes her eyes and kneels next to the unconscious man. She places her hands at his temples, and you see a purplish electricity arcing from her fingers. Vrung begins to scream in his sleep, the pitch going higher and higher, until he tears himself from the arms of sleep. He leaps to his feet, and not even looking at his victim, flees as if pursued by a pack of broken hounds.
+
+Delny watches him go, satisfaction wreathing her face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>You reach out to the sleeping man, and you snap his neck with a single practiced twist. Delny's face is satisfied... but underneath that is a frisson of fear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I haven't gone anywhere near her again, I promise!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Vrung smiles as you draw near. "Come to make another deposit? I can always use the shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>He laughs scornfully. The woman at his side echoes him a moment later.
+
+"Sure, boss. I'm leaving her alone right now." His mocking grin turns to a glower. "But just remember you can't watch her forever."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"What? Why do you hound me so?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Are you the pair who've been harassing Qianne?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>He laughs at you. "What, has she been complaining that we're too mean? Too scary? She can afford it, else we'd be visiting someone else more regularly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Who's the girl with you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Her? She's no one. *I* am Vrung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Use the psychic connection you forged to disrupt Vrung's hold over Delny.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>He looks at you, suspicion dawning in his eyes. "What are you doing?" he hisses.
+
+But you have found the cracks in his mental shields, and you imagine them widening, shattering. He realizes too late what you're doing, and his resistance is feeble - especially when compared to the power you can draw upon.
+
+He stiffens and falls backward, convulses, and is still. The shadows slither off his body, evaporating like a foul mist. He's just a scrawny boy, a weasel-faced sneak.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>His psychic shields are strong enough to resist you, but only barely. His eyes wide, their whites showing even through the shadows that crawl across his face, he gathers himself to flee. The shadows swarm over his body and then coalesce into a single point in the air, and he is gone. The rush of displaced air *pops* with his passage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>For the briefest moment, you think you see the face of a victim in her shadows. She casts a despairing eye at you, and then the darkness fills her face with a sneer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Why does the girl's face keep changing when you talk?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Bank 46</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"I asked who the girl with you is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"I want to know about the girl with you. Tell me of her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Why do you keep asking about *her*? Delny is *mine*, and she will stay mine until I say otherwise! *I* am the one who's interesting! *I* am the one you should care about!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Vrung's rage seems to have loosened his control over his companion, for you see a flash of blue skin beneath the shadows. Her mouth works frantically, as if she is trying to tell you something while her captor struggles with his fury.
+
+With an effort of visible will, Vrung brings himself - and her - back under control again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"The psychic bond you have on Delny... remove it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>He laughs again, cold and mirthless.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"I said she's no one you need be concerned about. She's my shadow and my hidden blade, and you should take care I don't stick you with her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"I said she's no one you should be concerned about. She's *no one*. Leave her alone." The shadows on his face are narrower, constricting before your eyes, writhing like serpents made of smoke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Bank 55</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"If you don't let her go, I will teach you what suffering truly is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>The young man opens his mouth for a sarcastic comeback but realizes that you might be serious. He holds his hands up to placate you. "All right. All right. One moment."
+
+He concentrates... or rather, *doesn't* concentrate, and the shadows flow away from his face and body. He's a much scrawnier person than you thought, almost gaunt, and he doesn't look at all dangerous or menacing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Did you learn to talk like that in hero school? Maybe you didn't hear me when I said she was *mine*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Actually, I'd like to ask about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>He snickers. "Of course you would. People like you *always* do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Delny drops to the ground as he vanishes, and her body begins to tremble and shake.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Try to help her remain calm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Try to use the Magmatic Annulet to draw her pain into yourself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Slap her to wake her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Let the seizure run its course.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>She mutters something. An apology, maybe, a prayer? Her back arches, and her eyes roll back in their sockets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>She continues shaking and jerking for a long time. Her heels drum on the ground; her hands beat an uneven tattoo as her arms flail and twist. At last, though, the seizure passes and she opens her bloodshot eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>A roaring nightmare, a blistering wall of fire, memories of blood and pain and tentacled horrors - these frightful images spill into your mind, decaying and corrupting, but they wash past quickly. Your mind reels as if you'd been on a two-day bender with the cheapest alcohol, and a stabbing headache has taken up residence behind your eyes... but Delny is waking, none the worse for wear, her seizures abruptly gone.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Her eyes snap open in blind terror, seeking any refuge from the nightmares that seem to be replaying in her head. She sees you then, and she begins to relax immediately, her muscles unclenching one by one, and she eases out of her seizure.
+
+"Thank the gods you're not Vrung," she whispers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>She gasps. "He's gone! He's out of my head, too!" And then concern crosses her face. "Wh- where did everyone go? It's so *quiet* in my head now..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>The shadows have peeled away, drifting into the air like poisonous smoke and revealing Delny's true form. Her skin is an iridescent blue, and her hair is bright pink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"He's... he's really gone. I can't feel him in my mind. You did it... Fahat be praised, you did it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"I don't like your tone." Strangle him.
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>You reach out and snap his neck before he can react, and his body collapses to the ground at your feet. The shadows slither off his body, evaporating like a foul mist, and his true appearance is revealed: he's just a scrawny boy, a weasel-faced sneak who doesn't look like he could threaten anyone.
+
+{SCRIPT:  Make Vrung fall down and fade his VFX on enter here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>He leans out of the way just in time to avoid your attack, and his eyes fill with fear. He turns to run, and as he does, the shadows surround him completely and then coalesce into a single point. With a loud *pop* of displaced air, he is gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Strangle him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>He cries out as you wrap your hands around his neck. He struggles, clutching at your hands, growing weaker and weaker until he stops moving. Finally he collapses to the ground at your feet. The shadows slither off his body, evaporating like a foul mist, and his true appearance is revealed - he's just a scrawny boy, a weasel-faced sneak who doesn't look like he could threaten anyone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>You grab hold of his neck, but he pries your fingers loose and slips away, eyes filled with fear. He turns to run, and as he does, the shadows surround him completely and then coalesce into a single point. With a loud *pop* of displaced air, he is gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>You don't seem to do any good. Her seizure goes on for minutes, her face contorting in an awful rictus. You watch helplessly as she writhes in agony.
+
+At last the seizure passes, though you can't claim any credit for it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>The shadows have peeled away, drifting into the air like poisonous smoke and revealing Delny's true form. Her skin is an iridescent blue, and her hair is bright pink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Something in your manner, your aura, your possession - you don't know what the deciding factor was, but you manage to ease her into the perfect position and pull her through the worst of the seizure quickly. In no time she is sitting up on her own, and she takes a deep breath of the Bloom's air as if it were the finest draught.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>You don't know what you're doing wrong, but every touch, every word, every action seems to have precisely the opposite effect of what you intended. You struggle with reviving her, but you can feel her life slipping away under your fingertips and then... then it's gone.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>She lolls in your hands, unaffected. Her shaking continues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Bank 86</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Shake her in order to rouse her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Slap her again... harder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>You strike her face again. She thrashes about even more violently than before, and a light blue foam appears at the corner of her mouth. She starts choking and gagging... and then lies still.
+
+You check for a pulse, but the girl is dead. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"What are you doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"What can you tell me about this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>He looks at you, incredulous. His voice dripping with sarcasm, he replies, "We're enjoying the fresh air. Taking in the ambience. We are living our lives to their fullest." He looks at the young woman next to him and she begins to titter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"It's a parade every day. Don't let the looks fool you - Little Nihliesh is all about the laughter. Maybe you could let the fluid out of Gar-koto's tank. That's a prank that never gets old. Make sure you do it while the guards are watching."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Don't come back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>He draws himself up and seems to *loom*. "I am the shadows. I'm the terror in the night and creeping death. I'm the flash of the blade. I. am. VRUNG." He throws his arms wide dramatically; a moment later his companion does as well, the asynchrony somewhat spoiling the effect. He hisses at her, and the looming presence fades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Satsada's voice whispers into your mind. "Her name is Delny. The young man holds her captive in her own mind. We can free her. We need only loosen the bonds he has placed on her - whether by force or by favor, we can free her. Psychic bondage is a terrible thing." Her presence fades from your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Eat skist, human."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"What do you mean, 'reclaim you'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"If he snared me once, he knows the pathways into my mind. He once promised that he'd made a backdoor, and he could take me any time he pleased even if I ran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>As the shadows melt away like a morning mist, his partner's face fills out, revealing more pleasant features. She smiles broadly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Trigger Conv Node 104</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"The psychic bond you have on Delny... remove it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"I tell you again - remove the psychic bond you have on Delny."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>He laughs, a shivering peal of mirthless joy that sounds like ice breaking and glass ringing. "She is *mine*. She'll go on my word, not yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Bank 109</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[DEBUG:  Start the sequence where Vrung pops.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Trigger Conv Node 114</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>He slinks toward the exit quickly and quietly, vanishing around the corner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Script Node 118</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>He steps back at your sudden vehemence, fear writ large across his face. The woman at his side steps back too, mirroring him a moment later. 
+
+"It... it was just a bit of fun. I'll leave her alone, I promise!"
+
+{GEORGE/COLIN: Where should this node lead to? - Adam}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>He laughs scornfully. The woman at his side echoes him.
+
+"Sure, boss. I'm leaving her alone right now." His mocking grin turns to a glower. "Words are wind. You can't watch her forever."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>He jumps back, the fear obvious on his face. "All right! All right, I'll do it. Hang on."
+
+He concentrates... or rather, *doesn't* concentrate, and the shadows flow away from his face and body. He is a much scrawnier person than you thought, almost gaunt, and he doesn't look at all dangerous or menacing.
+
+{SCRIPT: Need to fade Vrung's VFX here on enter.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>He laughs scornfully. Half a second later, she mimics him. They continue laughing for half a minute. When he's done, he looks at you and says, "You're still here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>You reach out and snap his neck before he can react, and his body collapses to the ground at your feet. The shadows slither off his body, evaporating like a foul mist, and his true appearance is revealed: he's just a scrawny boy, a weasel-faced sneak who doesn't look like he could threaten anyone.
+
+{SCRIPT:  Make Vrung's VFX fade on enter here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>He sees your attack coming and laughs. Before you get anywhere near him, the shadows surround him completely and then coalesce into a single point. With a loud *pop* of displaced air, he is gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>You scatter his feeble mental shields with your assault, and his eyes roll back into his head as the muscles of his body lock into place and your mind asserts its control over his. He totters straight backward, and he loses consciousness as his head strikes the ground. He shakes and convulses, and then is still.
+
+The shadows slither off his body, evaporating like a foul mist, and his true appearance is revealed: he's just a scrawny boy, a weasel-faced sneak who doesn't look like he could threaten anyone.
+
+{SCRIPT:  Need to remove Vrung's VFX here.}
+
+{SCRIPT: If player used Effort, the stat points they expended should all be returned to them.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>He must see the intent in your eyes, because he immediately gathers himself to flee. The shadows swarm over his body and then coalesce into a single point in the air, and he is gone. The rush of displaced air *pops* with his passage.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

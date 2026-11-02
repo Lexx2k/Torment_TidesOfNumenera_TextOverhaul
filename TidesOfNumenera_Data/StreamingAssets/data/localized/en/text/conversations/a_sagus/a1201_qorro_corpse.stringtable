@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1201_qorro_corpse</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>49</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The stronglass panel embedded in Qorro's forearm is stained in blood. Beneath it, lights and indicators flicker in time with the spasms of energy at the deactivated bridge ends.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The air smells of ancient oil and sun-baked wiring. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The panel attached to Qorro's gloved palm is still blinking. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The panel in Qorro's palm has gone dark. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Bank 11</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Stomp on the panel. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Try stomping on the panel again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Bank 14</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Figure out how to deactivate the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Try again to figure out how the device needs to be deactivated.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Bank 17</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Open the stronglass panel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Try opening the stronglass panel again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Your heel falls on the device with a satisfying crunch. Ripping off the outer frame reveals an alarming amount of blood and wiring.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You bring your foot down hard, but Qorro's flesh compresses and rolls. The device is unharmed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Your heel falls on the panel in Qorro's palm with a gruesome, glassy crunch. You've just broken his hand, but he's probably not going to notice. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>You completely miss Qorro's hand, and stomp the scaled ground instead. Agony flares in your ankle. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>You carefully examine the exterior of the panel. After a few moments of study, you discover that an odd-looking protrusion is actually a latch - you move it, and the stronglass panel snaps open.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>You study the fluctuations of the light in Qorro's palm while moving his stiffening fingers, but cannot determine the relationship between the two. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Remembering that Qorro made a fist to deactivate the bridges, you move his thumb to the back of his middle finger. The light in his palm immediately goes dark. 
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You pull too hard on his stiffening thumb, and something inside it *snaps*. Nothing you do now causes any change in the intensity of the light. You won't be reactivating the light bridges this way. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You slip a fingernail beneath the panel's edge, slip the latch, and pry it open.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>You grip the edges of the panel and tug, but it will not budge. Qorro must have it locked so only he could open it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>You slip a fingernail beneath the panel's edge and pry it open. The delicate, ancient innards of the device corrode in the salty air before your eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>You grip the edges of the panel and tug, Just when it feels like it's about to give, you touch a small wire and a shock numbs your hand. 
+
+The bridges are still deactivated. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Inside the device, you see a gently flashing button. When you press it, the light generators hum back to life.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The device embedded in Qorro's arm is still blinking and making an insistent chirping noise.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>The stronglass panel has been removed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>The controls have been smashed open, exposing an alarming amount of blood and wiring.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>The power coupling you need to smash should be about four centimeters below Qorro's wrist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>You'll have to open the stronglass panel first, though.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>That power coupling should be housed about four centimeters from Qorro's wrist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>The power coupling should be housed about four centimeters from Qorro's wrist. That's where you need to direct your next strike.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>An array of controls and indicators are laid bare. Now you just need to figure out which ones will deactivate the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>You'll have to sort this mess out to deactivate the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Smash the power coupling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Try to smash the power coupling again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>You bring your fist down precisely where the power coupling should be. The device pops and sizzles, the smell of burning flesh filling your nostrils. Shortly afterwards, the device becomes dark.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>You smash the device with your fist. It cracks, but otherwise nothing else happens. Either you missed the power coupling or you didn't hit it hard enough.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Figure out which of the bloody wires will deactivate the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Try again to figure out how the bloody wires can be used to deactivate the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>You pick your way through bloody circuitry and find something that looks like an organic power coupling. It's a simple matter to disconnect it, after which the device goes dark immediately.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>You try snapping a few wires out, but the device continues to chirp unabated. Sifting through the cables and sinew is both disgusting and fruitless. You're going to need more time to figure this out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Freed from Qorro's restraints, the light bridge generators hum back into life. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>You'll need to remove that stronglass panel first.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

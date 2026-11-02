@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_tcg_energy_shield</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Most of the clifftop is obscured by a dome of energy. When you get close to it, the air hums and your hair stands on end.
+
+{SOUND: Humming energy for the duration of this conversation.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Touch the dome of energy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ignore the interface and touch the dome of energy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The air sizzles as you get closer, popping across your skin like invisible jumping beetles. The heat grows until you are within arm's reach. Suddenly a control interface appears in the air in front of you. It has a glowing circle with random symbols floating at the edges and a vertical bar next to it.
+
+When you step back again, the interface disappears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Whatever energy forms this dome is completely opaque. You can't see anything through it. Oddly, though, you see the shadows of the cliffs and birds on the other side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The air sizzles as you get closer, popping across your skin like invisible jumping beetles. When you are within arm's reach, a control interface appears in the air in front of you. It has a glowing circle with strange symbols floating at the edges and a vertical bar next to it.
+
+When you step back again, the interface disappears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Try to use the interface to open the dome.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Study the interface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Study the interface again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The air heats up, dancing across your skin like fire. Ignoring the minor pain, you press two fingers against the surface of the dome.
+
+Suddenly your fingers are stuck fast to the dome's energy. The burning intensifies, and smoke rises from your fingertips. Screaming, you manage to wrench your fingers away from the dome, stumble, and fall to the ground.
+
+{SOUND: Electrical zapping (think electrical fence, but bigger and deeper), followed by the sound of PC falling on his ass.}
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I'd *like* to think experiences like this would teach you something. But I know better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Oh, child, not *everything* is a door to knowledge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"You could've asked, lad. Any street urchin could've told you *that* would happen."</DefaultText>
+      <FemaleText>"You could've asked, lass. Any street urchin could've told you *that* would happen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I am *so* glad to be following someone as intelligent as you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The circle is likely a place to put one's hand or face - probably the former, since the heat from the dome might burn your face. Presumably, someone with the proper authority could open the dome by using the holographic bar on the side as a kind of latch. The symbols around the circle are unfamiliar, suggesting this installation is very old, perhaps predating the Truth.
+
+Whoever created this dome, then, wanted to keep what was inside a secret from anyone except those to whom he or she had given access.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>It looks simple enough. It almost certainly opens the dome, but you can't tell anything else without actually trying it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Further study reveals no new information. Maybe you should just try it out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>As soon as you place your hand in the circle, the symbols light up and spin rapidly. Apparently *you* have the authority to enter. You slide your other hand up the bar on the side. The interface disappears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>The interface only has two inputs: the circle and the bar. Touching the bar does nothing at first, but the circle lights up as soon as you place your hand inside it. The symbols spin rapidly around. Nothing else happens though, and the circle dims when you remove your hand. 
+
+Again you try putting your hand in the circle, but this time you slide your other hand up the bar. The symbols whirl around... then the interface fades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The air cools immediately, and the dome fades until it is gone entirely...
+
+{SOUND: Need effect of the energy dome deactivating.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Try to see what's inside the dome.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Try to see inside the dome again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>No matter how close you get, you can't see anything inside, only the shadows of whatever lies beyond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Most of the clifftop is obscured by a dome of energy. You step closer, and the air hums, prickling across your skin. Again the control interface appears in front of you - a glowing circle with strange symbols floating at the edges and a vertical bar beside it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Oom gives your foot a consoling pat. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

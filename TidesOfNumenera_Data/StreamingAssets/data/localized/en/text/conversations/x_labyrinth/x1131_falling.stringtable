@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1131_falling</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>102</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Your mind wakes in darkness. Aching cold sets into an unfamiliar body. 
+
+A distant howling surrounds you, louder with each passing second. Insistent and invisible hands slap and tear at the membrane that protects you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Look around.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Look at this body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>A white-pink, fleshy cocoon surrounds you. A small tear rips wider, letting the howling wind in.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Look at the horizon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Flatten out to catch the wind.
+
+{SOUND: The howling wind sound dies back a bit, becomes a more constant "Whoosh"} </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You are spinning too rapidly to get a good look. You *can* see a large landmass, a vast body of water directly below you, and scattered archipelagos, but the detail eludes you. A deep black night is above you, its nocturnal clarity disappearing as the haze of atmosphere envelops you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Instinctively you spread your arms and legs, and they respond sluggishly. You stop tumbling head over heels. Though you are still spinning laterally, that motion has calmed as well, and you have space to assess your situation, and perhaps to understand the predicament - and the body - in which you find yourself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Below you, you see a large landmass. A massive ocean dominates the rest of the visible globe, dotted here and there with island chains. Small moons, unusual structures, and strange machines rush past you in glittering profusion as you plummet toward the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Study the world.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Look at this body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Now you see that this appears to be a huge mega-continent, the only land of any size (on this side of the world at least). Great inland seas and lakes dot the land, and curiously regular mountain ranges march up and down and across. You are falling toward what looks to be a great bay, a sprawling city perched on its shore just to the north.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Further to the north and east, you see a broad plain, scattered with curious structures visible even from this height. The northeastern portion of this land looks to be a desert, a strange blue dot like an eye in its exact center - it seems to hold a city in its watery grasp. To its west is a ring of huge mountains, surmounted by enormous carved peaks spewing magma into a central catch-basin. But what concerns you most right now is the bay below you. It's coming at you quickly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Try to slow the descent even more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>The body is... wait, *you are*... wearing a form-fitting suit of some dark material. You recall that you were wearing something much more elaborate a short time ago. You have smooth, light brown skin, five fingers on each hand, five toes on each foot. Good muscles - strong, but not bulky - and slim hips. Your palms are soft, as if they have not done much labor, but scars and burns on the hands and wrists suggest that you haven't always been careful. Why can't you remember this?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Try to remember what happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>It's... it's hazy. You were in a tall passageway, its side slicked with dew, the air warm and moist, as if you were caught in the breath of a giant organism. You remember fleeing in fear and exhilaration, laughing through the terror. What was it that pursued you?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Something ancient and cold, its coiling power the promise of oblivion. Its shadowed tendrils struck at you, and the walls where they landed were torn apart utterly, destroyed beyond any hope of repair. You leapt into a membranous cocoon and fell from the... the station? the moon?... and then you were empty. But who were you? What was that creature? A word surfaces in your thoughts, and you seize it before it vanishes: Sorrow.
+
+The world fills your sight. You're about to hit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Lie flat to stabilize the fall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Try to turn vertical.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>You spread your arms and legs, and they respond smoothly - a strange sensation, since you realize this body is new to you. The spinning and tumbling stops. The wind still howls past your new ears, a vast roar that deadens a part of your infant mind. Water springs unbidden to your eyes, the tears torn away by the wind. Through the haze of moisture, it is difficult to see - but if you focus your attention, you may be able to make out details of the world.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Focus and look at the world.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Examine this body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Try to remember what happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>You push your arms to your sides, and the monstrous wind tosses your feet above your head. After another small tumble, you manage to orient yourself and you arrow toward the earth below. The incredible cold of the wind claws at your skin, and the speed of the air forces your eyes closed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Now that you can focus on it, you see that the large mass is clearly a gargantuan mega-continent, the only land of any size on this side of the world at least. Great inland seas and lakes dot its enormity and curiously regular mountain ranges march up and down and across its surface. You are falling toward what looks to be a great bay, a sprawling city perched on its shore just to the north.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Further north and east lies a broad plain, scattered with curious structures visible even from this height. The northeastern part of your vision is a perfectly circular desert, a blue dot containing a watery city in its exact center. To the west lies a ring of mountains, surmounted by enormous carven peaks spewing magma into a central catch-basin. What concerns you most right now is the ground. It's coming at you fast. Directly below you is a littered bay.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Look at the bay.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Try to aim for the water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Try to aim for something solid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>You're headed directly for a bright, domed structure. It appears to have been carved from huge crystals, and it's connected via makeshift bridges to other artifacts and flotsam, and thence to the shoreline.
+
+Two people stand just outside the dome. One of them, strangely blurred, looks up at you and points, her other hands - hands? - grasping the sleeve of her companion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>He extends his right arm toward you, and a tangle of jagged lines and multicolor leaps from his hand, enfolding you.  
+
+Your speed slows tremendously, but it is not enough. You strike the crystalline structure with a massive crunch, pain exploding through your body even as you hear the squeal of a sudden energy surge from the underside of the building.
+
+And then...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>... darkness.
+
+{SOUND: a wet thump - not a splatter! - and the sound of glass breaking. Then the sound of suddenly overloaded engines howling in protest}
+
+{SOUND: Fade out on previous sound into a single slow water droplet dripping into an empty cavern's pool}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>You angle your arms and cup your hands, but the wind batters you and you lose control of your fall, and begin to tumble again. You have no idea where you're aimed.
+
+A mass of colors surrounds you, and the sound of roaring wind diminishes noticeably. But it is not enough, and there is a sickening crack as you strike something, the howl of a sudden surge of energy, and then... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>From what you can see of your outstretched figure, you're wearing a black, body-hugging suit of some sort. Your skin is light brown, and you seem to have five fingers on each hand. A good set of muscles helps control your fall - not bulky, but well-toned - but you can't examine yourself too closely without losing the little stability you've gained in the fall. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Sacrifice the stability for a closer look.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Look again at the world.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Try to remember what happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>You pull your hands in for a closer look as the air once again takes hold of you. Your hands are soft but scarred: they were not used for manual labor, but they've clearly seen some hard use. You have fresh wounds, as if from acid, and when you run your hands over your hair, you hiss in pain as you find a burnt and bubbled portion of your scalp.
+
+The ground is getting closer at an alarming rate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Look around.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Try to remember what happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Do something... anything!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Squint and try to look at the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Try to slow the descent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Try to remember what happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>You have just enough time to see that you are rushing at a domed, glassy structure that seems to anchor itself within a littered a bay, that there is a figure who is pointing at you with a jumble of colors pouring from his arms to surround you, and that you are...
+
+... smashing into the building. The squeal of a sudden energy surge rushes into your ears, and a tremendous  pain radiates from every part of your body. And then...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>You close your eyes and remember walking through a hall of breathing greenery, a feeling of fear and exhilaration, and...
+
+... you are jolted from your recollection. An enormous pain crashes through your body, the sound of an energy cycle suddenly thrown out of tune and spiralling rapidly upward, and then...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>You flap your arms. You grasp them. You concentrate hard on not falling. Nothing happens. You have just enough time to see a mass of colors whirling about you before you crash into something unyielding and seemingly impenetrable, agony flaring along your body, the keen of a radically increasing energy cycle, and then... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>In the distance, you see a perfectly circular, golden waste, as well as volcanic fields that must be many kilometers across. A barren valley stretches like a scar across the landscape.
+
+Beneath you - and approaching very quickly - is a wide bay, overlooked by an enormous city perched on the surrounding cliffs. The bay itself is littered with huge artifacts, ancient vessels, wrecked machines, and more.
+
+It looks like you will make impact among the latter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Look around again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Try to remember how this all happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Try to arrest the fall one more time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>You are entirely unsuccessful in this. The pull of the earth is too strong, your leverage non-existent. Nothing happens. You have just enough time to see a mass of colors whirling about you before you crash into the building in the bay, unyielding and seemingly impenetrable, agony flaring along your body, the keen of a radically increasing energy cycle, and then... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>You close your eyes and recall, over the wind roaring in your eyes:
+
+You were being hunted. The feeling of violation in a place that should have been a sanctuary. Your memory is of a shadowy figure of acid and hate, something that sought to destroy you utterly... but the emotions attached to this "you" are not yours, the feelings those of a spectator. But who ran with your legs, whose adrenaline poured through your veins?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>You remember reaching an escape tube, and you remember being struck by a tendril of force, and then the fall -
+
+- the fall! You open your eyes in time to see a riot of color around you, your descent barely slowed, and then agony flares throughout your body as a crunching impact destroys you. The last thing you hear is a rapidly cycling whine of energy, and then... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>You don't seem to have any other option. You close your eyes to the world below you, ignore the rushing of the wind past you, and *concentrate*.
+
+You remember that you were in the hallways of a place that that wove itself through your blood, through your thoughts. The memories project themselves in your mind, a story told to you as if they happened to someone else. Yet it was your body that walked those halls, your lungs that breathed that air...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>You were running, because something was hunting you, a nightmare far more powerful than you. Were you powerful? Examining your stolen memory, you know that you were. What could have stood against you, who wielded instruments of flame and time itself? The name is on the tip of your tongue...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Continue to search these memories.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Try to arrest the fall one more time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Look at the world.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>If you somehow manage to sidestep everything you know about anatomy, physics, and death - and you are surprised to realize that you *do* know something about them - and you survive this fall, you suspect that you might be able to reawaken a dormant strength you sense inside you.
+
+But who could possibly survive a fall from this height?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>There is nothing for  you to grab hold of, and the resistance of your body can only do so much against the insistent grasp of the earth. As you vainly try to grasp at the air, cupping your hands, you can see the watery grave that lies ahead of you... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>But wait! You plummet toward a dome structure of glass or crystal, floating in a bay, and a strangely blurred woman and a man are pointing at you. A mass of colors rushes from his outstretched arm, enfolding you.
+
+But it's too late. You were falling too fast. With a sickening thump, you destroy the glass structure. You hear some strange engine howl as its balance is forever altered, and then... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>A broad forest stretches to your west, perched on the edges of civilization. Smoke from a great city rises to the north of the bay you're going to crash into when you finish this mad dive. To the northeast, you can barely see the edges of a gold-glinting desert. Directly below you, a bright  dome carved of crystal is perched within the littered waters of the bay. Outside it, two figures point at your blazing descent. One throws out a dusky arm and colors surround you, slowing your fall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>But it is not enough. You crash into the crystalline structure with a profound and horrific crunch, pain radiating through every part of your body, and the squeal of tortured machinery echoes simultaneously through your ears. And then... 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>As the water rushes at you horrifyingly quickly, you see a pair of figures standing near a small, glassy dome. You're headed straight for it! One of them looks up, points at you, and you feel your speed slow tremendously... but you are still traveling too fast, and both the figures leap aside as you crash into the crystalline structure with a profound and horrific crunch, pain radiating through every part of your body.
+
+And then...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>For one thing, it's coming up fast. You see a large bluish smear directly below you, some sort of occlusion near that. It's an interesting composition (strange how you know the term composition... were you perhaps an artist?), made less beautiful by the certain knowledge that you're about to smear yourself across it. 
+
+A kaleidoscope of colors erupts across your vision, and you hear the sound of wind change. You're not rushing nearly as fast as you were.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>It's fruitless. You've reached a velocity that could without irony best be named 'terminal'. You spread your arms and legs to try to catch a draft, and it looks like you'll hit the bay that's rushing toward you... unless you hit the building in its littered waters.
+
+A strange web of colors surrounds you, thrown by a figure standing on the balcony of the structure, but it is effective only at slowing your fall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>However, it's fast enough. You crash into something of incredible solidity, the sound of tortured machines cycling into a rapid howl cutting briefly through the agony that fills you.
+
+And then... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>You strike the building hard enough to crack its crystalline structure, and you hear one of the engines that supports it protest and howl, and the agony of the crash overcomes you. And then... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>The Sorrow. Try to remember the Sorrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Lie flat to catch the wind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Try to stop the fall one last time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>It hurts your mind to recall, but you push past it: a creature of a forgotten world seeking you out across the centuries... but it's not you it seeks, is it? It sought the man whose memories you shuffle through now, and you realize suddenly that you are not him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>You manage to stabilize yourself, but the air howls and whips around you, and the bay under your feet is larger by the moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Look around.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Give up and dive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Give up and hope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>You see a small, glassy dome inside the littered bay, two figures outside it. One of them points his arm at you and a riot of colors tangles your fall, slowing you...
+
+... but not enough. You crash into the building, and as your consciousness winks out, you hear the sounds of the structure collapsing around you. And then...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>You close your eyes, and the pain of the crash spikes you to the altar of wakefulness long enough to hear the sounds of some structure collapsing around you, and the agonized scream of overloaded engines cycling into madness. 
+
+And then... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Try to remember what happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Try to remember what happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>You're still plummeting. If it's any consolation, the dizzying fall will be over shortly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Try to judge how far it is to the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>You'd guess that you started at least 100 kilometers above the ground - assuming you fell from the dying moon, that is. You've been blacked out for some time, though - and now it looks like you're perhaps fifty kilometers up, maybe less.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>The wind buffets you and burns your eyes, but you don't need to see the details of the far-away ground to know you're in serious trouble. You won't survive a fall from this stratospheric height (a part of your frantic mind babbles that technically you probably fell from a thermospheric height).
+
+You struggle to stay focused as the ground rushes toward you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Dive toward the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>You put your hands to your sides and you slice through the air. The wind tears at your face and scalp, and your skin burns under the tremendous speed. Your vision blurs, and you are unable to judge how far you've fallen.
+
+{SOUND: Sharpen the howling wind, almost keening. Alternate idea: the sound becomes almost flat, thudding, like the sound from the Felix Baumgartner high-altitude jump}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Keep diving - the faster the better!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Try to flatten out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Look around.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Your eyes are full of tears. You can't see anything except a shapeless mass of green and brown and tan and blue below you. You try to wipe the moisture from your eyes and realize that you'll need to slow yourself before you can even open your eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>A phrase whispers itself into your mind: "terminal velocity". You have reached the limit of the speed the air will grant you, and now that you enter the lower reaches of the atmosphere you can feel it thickening around you, and miraculously you are slowing from the frenzied descent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Slow" is a relative term. You knife through the air, piercing its veils and... you have no time for the poetry of falling. This realization drives itself home as you strike an unyielding surface. As your skin explodes and your organs liquefy on impact, a brief thought flashes through your mind: your life was utterly and completely meaningless.
+
+{SOUND: Sickening thump/splatter, like a bag of meat being dropped from 10 stories and bursting on pavement}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Without warning, the cocoon that surrounds you shreds and tears away.
+
+You are falling.
+
+Above you, a small moon is slowly collapsing in on itself. The world is many kilometers below you.
+
+{SOUND: Wind sound becomes sharper and more immediate - howling wind surrounds the PC now}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>You were... who? Who were you?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>The cocoon rips away, gone before you can grab it, spinning you into a dizzying tumble. 
+
+You are falling, the world many kilometers beneath you.
+
+You catch a glimpse of a curved horizon, and also the ground beneath you that is approaching deceptively quickly. Above you, a small moon is slowly collapsing in upon itself, a corona of acid green and black energy playing around its edges.
+
+{SOUND: Wind sound becomes sharper and more immediate - howling wind surrounds the PC now}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Your first emotion is an involuntary and formless panic. You feel you have forgotten something - something important, as if it once meant the world to you... but the details slip away as you grasp at them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>You start to raise your hand, and your new consciousness flickers. It feels like... like time has passed since you first woke. But you're tired, so tired, and you have to fight the lassitude that grips you.
+
+You close your eyes, nod off, and then snap awake again. You don't know how long you've been asleep.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>You raise your head, a heavy weight on the end of your neck, and struggle to keep your eyes open. Your new consciousness *flickers*, and you have the sense of time passing. It's hard, so hard to stay awake.
+
+You close your eyes, nod off, and then snap awake again. You don't know how long you've been asleep.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>[DEBUG: Skip falling...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>You force your eyes open.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

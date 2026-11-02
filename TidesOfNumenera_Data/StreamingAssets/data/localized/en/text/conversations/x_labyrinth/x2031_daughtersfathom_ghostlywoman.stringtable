@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x2031_daughtersfathom_ghostlywoman</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>107</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>It's the same ghostly woman who strangled you. But the fury is gone from her face, replaced with confusion. She looks around. Her gaze falls on the large machine and lingers there.
+
+Finally she notices you. She steps forward, a hint of trepidation in her eyes. "Where are we? Do you know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"It looks *kind of* like the Buried Crossroads, a laboratory hidden underneath the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I think we're in the Labyrinth, a construct of my mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I don't know exactly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Don't *you* know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"A city? Sagus?" She says this last word softly, to herself. "Why do I remember that name?"
+
+She looks around her again. "This place isn't beneath any city, though. I don't think we are in the real world at all. I wish I could remember more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Of *your* mind? Yet it feels familiar to me..."
+
+She looks around her again, frowning. "But even though it *feels* familiar, I recognize almost nothing in it. Yes, perhaps it is your mind after all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"It feels familiar to me. If you don't know it, then maybe *my* mind created this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>She looks around her again, mostly at the machine. "It's strange, but there *is* something familiar about this place, though I recognize almost nothing in it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I do remember one thing." She puts her hands to the sides of her head. "I was angry, enraged. There are..."
+
+She turns on you. "I... I don't know how, but there are women like me born throughout the city. Repeatedly. Against their will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Have you found any more of the women? We have to help them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Look!" You follow her finger to a glowing form where before there was nothing. "It's a membra. You've found one of them already, the women created by the engine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Can you tell me about the siege again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Can you tell me about the stasis chamber again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"How do I find these women?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Do you have any more impressions of where I might find these women?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Why is this important to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Why is this important again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"They are in the real world, in Sagus. You may have even met them without realizing it. I only have... vague impressions of them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Seek them throughout Sagus Cliffs. I don't know where they'll be, only that they exist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>She bites her lip. "It feels *wrong* - an imbalance, an injustice."
+
+She shakes her head. "I'm sorry I can't be more specific. Find the women like me, and we will know more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"It's a great injustice, several injustices. Find more women like me, and I'll be able to tell you more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Don't forget. We must know more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Can you tell me about that man again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Can you tell me about your death again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Can you tell me about the graves again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Tabaht were everywhere. So many people died. I remember their screams. It's a miracle Sagus Cliffs survived."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"After the siege, I became very sick. My father didn't know what to do, so he put me into stasis until a cure could be found."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"He's my father, at least I'm pretty sure he is. He doesn't *look* right, but he definitely *feels* like my father."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"I don't remember what happened, only that I died in stasis - wholly and completely. I don't know why he thought he could bring me back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"They're the graves of every girl whose life was ever overwritten by my own. I died before I was twenty, so too did every single one of them. They are *still* dying."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"The siege," she says, watching the scene in front of you. "I remember the siege, when the Tabaht came to destroy Sagus Cliffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Her eyes grow wide at the scene in front of you. "That's me! I remember now. The siege ended. The Tabaht were driven back, and I was among the survivors, but..."
+
+She places a hand on the surface of the chamber. "I didn't exactly survive. One of the Tabaht's weapons made me sick somehow, in my mind. My father was an explorer and a tinkerer. He knew something about the numenera. He put me in there to protect me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>A translucent man appears. He is unfamiliar to you, but he seems to be working on the machine.
+
+The ghostly woman watches him, her brow furrowed. "I know him. The engine, it's..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>The machines and the stasis chamber are transformed into shattered, smoking wrecks. The ghostly woman laughs, the first time you've heard her do so, though the humor in it is dubious.
+
+"I died. I *remember* it now. I never survived the stasis chamber, and the probability engines were his vain attempt to resurrect me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Gravestones and cenotaphs surround you. The ghostly woman looks out across the graveyard. "Do you know what these are?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"You killed me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>She cocks her head quizzically. "But you're not dead, and I don't remember killing you. Are you certain it was me?"
+
+She looks around her and sighs. "Then again, there is a *lot* I do not recall."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"What do you mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Why you? Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"I don't have time for this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"They are... *compelled* into existence." She bites her lip, uncertain. Then she nods. "I'm just a memory, but something is *forcing* my memory into the minds of women throughout the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"I don't know. I can't remember. I know I'm not really here. I'm just a memory, but something is *forcing* me into existence - or not me, but people like me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>She takes your hand in hers. "It's wrong. I don't know how I know, but..." She looks away, lost in her own thoughts.
+
+When she turns back to you, there is more certainty in her voice. "Find them - the women becoming like me, or already like me. Maybe I'll remember more. Maybe... maybe we can do something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"You remember it? I think it happened a long time ago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Were you there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"What does this have to do with you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Did it? I'm only a broken memory, apparently. What do I know of time?" A wry smile plays on her lips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"I don't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>After a long, quiet moment, she nods as though coming to a decision. "I was there. I remember the screams, the terror. The Tabaht came, many of them mounted on their dragoliths, each of them with a stranger, more terrifying weapon than the one before. Sagus should have fallen, like Shuenha and Iqa and a hundred villages before us. But it didn't. We fought them off."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>She shakes her head. "But what does that have to do with the other women? I don't know. There is more to this story. I need your help to find it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"But the Aeon Priests and chiurgeons couldn't help me. No one could. My father kept me in stasis until a cure could be found."
+
+She gazes into the distance, as though trying to remember something. "Are the women the result of some attempted cure? I don't know. Please, we're so close. Keep looking so we can find the answer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Who is he?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"What is he doing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Is that machine the source of all this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"I *think* he's my father." She tilts her head. "The memories of this place must be fuzzy. He doesn't *look* right, but he *feels* right. I'm certain it's him."
+
+She reaches out for the translucent figure, but her hand goes right through him. She calls out: "Father? Father!"
+
+The man continues his work as though she weren't there. The ghostly woman sags. "I'm invisible to him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"He's trying to save me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Yes. I don't know how he figured it out, but he knew enough to turn it on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"You!" She places a solid hand on your shoulder, her eyes suddenly lit. "He used that machine, that probability engine, to recreate me in other women. This machine is but a memory, but the engine exists in the real world, I know it."
+
+She looks at the ghostly man. "Speak to him. Find out how to turn it off. Then you can do the same in the real world and end this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"For me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"He won't tell me how to shut it off without a fight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Maybe if you can find more women, I might be able to remember more. But we don't even know if there *are* more..."
+
+She looks at the memory of her father. "He's not real. You won't hurt them. If fighting will stop the injustice that engine has caused, then maybe that's what must be done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Then it's the only way. Please. He's not real - you won't hurt them. The true pain is in the real world where that engine is creating false versions of me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Look!" She points to a membra that wasn't there before. "It appeared when you fell to my father's Tabaht. Maybe it can help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Tell him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Those who died in the siege?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"The copies the machine created of you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"I get the feeling you do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>She nods mutely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"They're the fruit of that damn engine. I remember now. It copied me, over and over and over, overwriting the lives of other girls with *my* life, as if I mattered more than they did."
+
+She wipes the back of her hand across her face. "He thought it was never perfect enough, but it was *too* perfect. I died before I was twenty, so the engine made sure that all of *them* died at the same age."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>She looks at you, ghostly tears glistening in her eyes. "It's still doing it, right now, in the real world. You *have* to stop it. Tell him." She points to the ghostly man. "Tell my father what his obsession is doing. He *has* to stop it, and then you can stop it out there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"He told you how to shut off the engines. Go! Turn them off before it gets any worse!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Where do I find the probability engine in the real world?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"How do I find the probability engine in the real world again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"I don't know, but it looks like that, I'm sure of it." She points to the probability engine nearby. "Keep looking. I know it's there somewhere. It must be hidden if it's still doing its work. Look underneath the city. There are thousands of buried secrets there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"It looks like that." She points to the probability engine nearby. "I don't know where it is for sure, but try looking underneath the city. There are thousands of buried secrets there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"You mentioned earlier that this place looked like somewhere called the Buried Crossroads. There's a reason they look the same. You'll find the engine there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Script Node 88</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Stop the machine, whatever it takes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Can you tell me about the machine again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"It's called a probability engine. Somehow, my father figured out enough to turn it on, and now it's forcing *me* into women all over the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"I know that one of them is a leader. She has sacrificed much of her life and so gained life in return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"One of them offers joy and sorrow for coin. Her family is not her own, it's... borrowed, I think."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"One of them is dead... and yet a piece of her lives. Find that piece."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"One of them *feeds* on suffering, even as she herself suffers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"One of them teeters on the edge of a decision, on the edge of her*self*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"I don't know. Maybe you've found them all, or maybe they..." She shakes her head.
+
+"Talk to *him*." She points to the ghostly man. "Make him tell you how to stop it, before it's too late."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>She shakes her head as though to clear it. "I'm sorry I can't tell you more than that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Speak to my father. We have to know how to shut off those engines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Talk to my father. *Make* him understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"But it doesn't matter. He's *here*. Figure out how to turn off the machine from him, and we can end this *now*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>She looks sadly at the translucent man representing her father. "He doesn't know. He thinks he can save me, but he's lost me forever. Tell him. Tell him he can *never* get me back, not the real me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"You did it." Her smile is warm and genuine. "I can feel it from here... a *peace* I didn't know I was missing. Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Thank you for all you've done. No one will ever know, but *I* do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"You've done more than you can know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"I don't know. Maybe you've found them all, or maybe they..." She shakes her head.
+
+"Seek the membra." She points to the glowing figure nearby. "It may reveal what we need to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

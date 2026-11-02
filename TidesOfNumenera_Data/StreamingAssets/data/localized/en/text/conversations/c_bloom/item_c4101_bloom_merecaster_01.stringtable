@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\item_c4101_bloom_merecaster_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>But even as you gather the threads of familiarity to yourself, the voice of the Bloom spills in, overwhelming the presence, and you sputter back to wakefulness.
+
+{SOUND: Start Bloom voice sound effect.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>No, you remember: it is the cold tones of the Sorrow, its psychic presence a hint of cold and acid. You feel just a fraction of its attention focus toward you... and then the chittering of the Bloom spills in, overwhelming the Sorrow's voice. It issues a muffled shriek of frustration and is gone, and you open your eyes.
+
+{SOUND: Start Bloom voice sound effect.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The Merecaster twists and shifts in your hands, its shape changing into some new configuration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText> Tide T. 7</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Your mind's eye opens in darkness. Your reality lies before you, the end of a tunnel that approaches rapidly - as if you were being born again or pulled from the bottom of a deep well. Although you see the world around you, your consciousness is still far away.
+
+Your mind buzzes with the truth: you have inhabited the life of another again and gained knowledge and experience that you would never have gained otherwise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Your mind's eye opens in darkness. Your reality lies before you, the end of a tunnel that approaches rapidly - as if you were being born again or pulled from the bottom of a deep well. Although you see the world around you, your consciousness is still far away.
+
+Your mind buzzes with the truth: you have inhabited the life of another again, and you may have filled that life with more light.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Your mind's eye opens in darkness. Your reality lies before you, the end of a tunnel that approaches rapidly - as if you were being born again or pulled from the bottom of a deep well. Although you see the world around you, your consciousness is still far away.
+
+Your mind buzzes with the truth: you have inhabited the life of another again, and you may have changed the world for the better.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Your mind's eye opens in darkness. Your reality lies before you, the end of a tunnel that approaches rapidly - as if you were being born again or pulled from the bottom of a deep well. Although you see the world around you, your consciousness is still far away.
+
+Your mind buzzes with the truth: you have inhabited the life of another again, and you may have changed that life for the better.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Your mind's eye opens in darkness. Your reality lies before you, the end of a tunnel that approaches rapidly - as if you were being born again or pulled from the bottom of a deep well. Although you see the world around you, your consciousness is still far away.
+
+Your mind buzzes with the truth: you have inhabited the life of another again. You may have changed that life for the better - a thing no one else can do.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText> Tide T. 13</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>As you swim toward the light, your elation turns to worry, the nagging feeling that you've forgotten something.
+
+Then you feel a presence reaching out to you, seeking you.
+
+It is almost as if someone were calling your name from a distance. You could place the voice, if you just had a moment.
+ 
+{SOUND: Could play a Sorrow sound effect here, but lightly.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>As you swim toward the light, your elation turns to worry, the nagging feeling that you've left some task undone.
+
+Then you feel a presence reaching out to you, seeking you.
+
+It is almost as if someone were calling your name from a distance. You could place the voice, if you just had a moment.
+ 
+{SOUND: Could play a Sorrow sound effect here, but lightly.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>As you swim toward the light, your elation turns to worry, the nagging feeling that you've made the wrong choice somewhere.
+
+Then you feel a presence reaching out to you, seeking you.
+
+It is almost as if someone were calling your name from a distance. You could place the voice, if you just had a moment.
+ 
+{SOUND: Could play a Sorrow sound effect here, but lightly.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>As you swim toward the light, your elation turns to worry, the nagging feeling that you've forgotten something... or left someone behind.
+
+Then you feel a presence reaching out to you, seeking you.
+
+It is almost as if someone were calling your name from a distance. You could place the voice, if you just had a moment.
+ 
+{SOUND: Could play a Sorrow sound effect here, but lightly.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>As you swim toward the light, your elation turns to worry, the nagging feeling that you are powerless.
+
+Then you feel a presence reaching out to you, seeking you.
+
+It is almost as if someone were calling your name from a distance. You could place the voice, if you just had a moment.
+ 
+{SOUND: Could play a Sorrow sound effect here, but lightly.}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

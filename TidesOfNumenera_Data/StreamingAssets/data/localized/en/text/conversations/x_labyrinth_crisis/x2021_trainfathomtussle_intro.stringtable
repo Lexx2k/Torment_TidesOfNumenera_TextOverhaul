@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x2021_trainfathomtussle_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As you cross through the portal, you hear the ringing of synth-plate being battered, followed by frantic shouts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Focus, Villon! Keep the beast away from me! I need just a little more time..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"You think *focus* is my problem? This is a piece of the *Sorrow*, not some broken hound!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Kamose spots you over the writhing haunches of the monster. "Brothers, calm yourselves! Our friend is not lost as we feared! He will help."</DefaultText>
+      <FemaleText>Kamose spots you over the writhing haunches of the monster. "Brothers, calm yourselves! Our friend is not lost as we feared! She will help."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Diviaticu spots you from his defensive position and briefly stops manipulating a cloud of purple-black shapes floating at chest height to gesture in your direction]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I devised a way to banish the Sorrow just as it banished you, but I need a few moments longer to prepare the esotery. Assist Kamose and Villon in defending me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The Sorrow fragment snarls at Villon, preparing another assault. The threat of violence triggers a reflex deep in your mind, and you subconsciously begin to summon Reflections of your current companions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Allow the Reflections to join you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Suppress the reflections and face the Sorrow fragment alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You enter the fathom. The Sorrow fragment continues its assault just as when you fell, as though almost no time has passed.
+
+Again, a subconscious desire to summon reflections of your companions wells within you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Suppress the reflections and face the Sorrow fragment alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Strange. I saw it place a barrier against you mere seconds ago. You broke through so quickly!" It shakes its head. "No matter. I have an esotery that may banish this creature, but I need a few moments longer to prepare it. Assist Kamose and Villon in defending me so I may do so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Complete your esotery, Diviaticu. I'll help them fight it off."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Villon's right. We'd be better off fighting the monster together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"As you say. If you have any knowledge of the numenera, you might also assist me, speeding the process. Get over here if that is true, otherwise I will complete it myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"As you say. Let us join the battle, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Or, you know, he could *help*. How do we know that ritual of yours will even work?"</DefaultText>
+      <FemaleText>"Or, you know, she could *help*. How do we know that ritual of yours will even work?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The Sorrow fragment snarls at Villon, preparing another assault.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>As you emerge into the fathom, you see the Sorrow fragment continuing its assault just as it was when you fell. In fact, it appears as if almost no time has passed in here at all.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

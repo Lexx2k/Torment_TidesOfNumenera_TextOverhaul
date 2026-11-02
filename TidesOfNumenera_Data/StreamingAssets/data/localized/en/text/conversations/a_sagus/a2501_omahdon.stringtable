@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_omahdon</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>119</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This robed man turns a golden-bespectacled gaze and winning smile on you. He seems a charming-enough sort, but it's clear he wants something from you and is perfectly willing to take it - politely and with absolute guile, of course.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Omahdon brightens as he sees you. "Hello again, friend. Any news of Perseia? Have you seen her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Ask Omahdon for further details about his lost love.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"As I said, she is hauntingly beautiful, with purple hair that floats around her head on winged combs. Her speech may seem confused, so pay no mind to what she says. It is only her madness talking. Once she is returned to me, I will be able to cure her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I found this comb in Tranquility's hostel. It has purple hair caught in it. Is it Perseia's?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Yes! That is one of her combs! Incredible!"
+
+He takes it from you with great care. "I knew that witch was lying to me! She told me that Perseia had never stayed with her. Please, go to Tranquility and ask her where Perseia went. Maybe she'll tell *you* the truth!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"The Perseia of your dreams doesn't exist. You're chasing a real woman who hates you. There is no happy ending here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>For a long moment, Omahdon looks like he's about to punch you, but then he turns away. "You're right. My Perseia was the one who slept. The one who woke was a stranger to me, and I have tortured both her and myself by trying to force her reality to match my fantasy. I have been a fool, and worse, a villain. She... she will not see me again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>He snarls. "She only hates me because she doesn't know me. If she would just stand still, I would show her who I am, and then she couldn't help but love me! I *will* show her! Just as soon as I find her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>For a long moment, Omahdon looks like he's about to punch you, but then he turns away. "You're right. My Perseia was the one who slept. The one who woke was a stranger to me, and I have tortured both her and myself by trying to force her reality to match my fantasy. I have been a fool, and worse, a villain. She... she will not see me again."
+
+He bows to you. "Please take this. You have saved me from worse villainy. That is a gift beyond price."
+
+{SCRIPT: Need some kind of reward.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Liar! You know nothing of our love! It was destined! And I will prove it to her! I will make her love me!"
+
+{SCRIPT: No second try at DT?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>(Truth) "Tranquility told me Perseia was indeed here, but she took a ship to the Valley of Dead Heroes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>His brows furrow with concern. "She returns to the grave? That is worrying, but perhaps I will catch her in time. Thank you, friend - you have given me hope. Please take this as a reward. Now I must hurry. Farewell."
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Tranquility told me that Perseia was here, but she took a ship to Sada Imidu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>He smacks his fist into his palm. "Ha! I knew that witch was lying! I..."
+
+He trails off and gives you a crafty look. "But maybe you are too. I think I'll talk to Tranquility and see if your stories match. Good day, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>He shakes his head. "So Tranquility is trying to throw me off the scent by putting words in your mouth with her gentle wiles."
+
+He pats your shoulder. "I don't blame you, friend. She's glamoured wiser folk than you. But I won't listen to you either, not while she's moving your lips. Now I know where Perseia *didn't* go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>He smacks his fist into his palm. "Ha! I knew that witch was lying! Sada Imidu, is it? Then I'd better hurry - the next ship leaves on the turn of the wind."
+
+He bows to you as he backs toward the docks. "Thank you, friend. You have done me a great service today."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>He glares at you. "So you've sided with Tranquility, and you're trying to throw me off the scent. Well, I won't be fooled, friend. I know a liar when I hear one."
+
+He chuckles. "At least you've told me where Perseia *didn't* go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>(Lie) "Go and talk to Tranquility. She regrets lying to you and wants to apologize. She'll tell you the truth this time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Tranquility told me that Perseia was here, but she took a ship to Haref."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>He smacks his fist into his palm. "Ha! I knew that witch was lying! I..."
+
+He trails off and gives you a crafty look. "But maybe you are too. I think I'll talk to Tranquility and see if your stories match. Good day, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>He shakes his head. "So Tranquility is trying to throw me off the scent by putting words in your mouth with her gentle wiles."
+
+He pats your shoulder. "I don't blame you, friend. She's glamoured wiser folk than you. But I won't listen to you either, not while she's moving your lips. Now I know where Perseia *didn't* go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>He smacks his fist into his palm. "Ha! I knew that witch was lying! Haref, is it? Then I'd better hurry - the next ship leaves on the turn of the wind."
+
+He bows to you as he backs toward the docks. "Thank you, friend. You have done me a great service today."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>He glares at you. "So you've sided with Tranquility, and you're trying to throw me off the scent. Well, I won't be fooled, friend. I know a liar when I hear one."
+
+He chuckles. "At least you've told me where Perseia *didn't* go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"'Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Travel safe, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Script Node 27</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Omahdon sneers as he approaches you. "Your lies have found you out, friend. Tranquility told me Perseia was going to Haref, while you said she was going to Sada Imidu."
+
+He chuckles. "And since I now know she is going to neither place, and that the only other ship to have flown from Sagus Cliffs since I arrived was heading to the Valley of Dead Heroes, the two of you have actually pointed me in the right direction. I will find Perseia again where I found her at the beginning, and we will start again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Do you want to be remembered as a lovesick fool who chased a woman who hated him? You're a great man! Think of all you could achieve!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>For a long moment, he looks like isn't going to listen, but then he lifts his chin. "You're right. I'm making a laughing stock of myself. A man of my years and talents shouldn't fall head over heels like some over-eager stripling. It's an embarrassment. Time to return to my work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>He turns from you, disgusted. "What do my accomplishments matter in the face of true love? She is my destiny, and when I catch her, I will show her that I am hers!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>For a long moment, he looks like isn't going to listen, but then he lifts his chin. "You're right. I'm making a laughing stock of myself. A man of my years and talents shouldn't fall head over heels like some over-eager stripling. It's an embarrassment."
+
+He sighs. "Very well, I'll leave her alone. And if you see her, tell her I'm sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>He laughs in your face. "You small-minded fool! Do you think I can't have both greatness *and* love? With her devotion inspiring me, I shall rise to even grander heights! She will be my muse!"
+
+{SCRIPT: No second try at DT?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"I *knew* she was lying! Thank you, friend! I'll go see her now. And if she thinks she's getting away with a mere apology, she's more a fool than she looks!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Script Node 35</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Script Node 36</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Omahdon gives you a friendly smile as he returns. "I'm sorry to have doubted you, friend. I spoke to Tranquility, and your stories match. Perseia has gone to Haref, so I will seek her there. I cannot wait to see my beloved again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"At last! Someone who looks like they can see further than their nose. These Sagusites are as observant as rocks."
+
+He clasps his hands together, pleading. "Please tell me you've seen a beautiful girl with purple hair. Her name is Perseia. She is my beloved, but she suffers from a madness that causes her to fear... everything. She can't stop running from imagined dangers, and I've been chasing her for... oh, years now, trying to catch her and cure her before she hurts herself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Omahdon stands in the entrance of Tranquility's hostel like a living statue, unmoving, and staring glassy-eyed at nothing. He is lost in the world within his mind. 
+
+"Oh, Perseia," he murmurs. "I cannot believe we are together at last. It's like a dream..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Tranquility told me that *you're* the reason Perseia is on the run. She hates and fears you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"*Hates* me?" His shoulders sag. "She's hardly given me a chance. I gave her life! She should be grateful! Instead she runs like I'm some monster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Do you really want someone who doesn't want you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"If she says she doesn't love you, then you should believe her. Do the right thing, and let her go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"You're clearly a man of great abilities. Why waste your time chasing a woman who doesn't appreciate them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"She *must* love me! I freed her from that terrible place, from death itself. She just... she doesn't know it. Doesn't understand. When I have her back, I will prove it to her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>He waves an angry hand. "I *am* doing the right thing. I love her! How can love be wrong?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>He chews his lip. "It's true. She has never acknowledged my finer qualities, but... but isn't that more reason why I must get her back? So I can prove to her that there is no better man for her than me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"I'm sure you're right. Tranquility must be mistaken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Of course she is! Thank you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"You don't know her like I do. Nobody does."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"I guess that's for you to decide. Let me ask you something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>He nods, still pondering. "Hmmm. Very well. What is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"I'm sure you're right. Let me ask you something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Bank 55</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"You hunt a dream, but what you will catch is a living, thinking woman, and she hates you. Leave her be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Bank 58</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"You're wasting your talents by chasing this woman. She's holding you back. Put your abilities to better use!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText> Follow-up PQ. 61</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Can you give me more details of Perseia's appearance?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Can I ask you again what Perseia looks like?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText> Follow-up T. 64</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Tall and queenly, with purple hair that floats on winged combs. Pay no attention to her words. She is not in her right mind. Just tell me when you find her. I have the cure to her madness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Bank 67</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Remind me what you want me to do again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Bank 70</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>He grunts, impatient. "Tell Tranquility about the comb you found. Ask her to tell you the truth about where Perseia has gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Script Node 73</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Script Node 74</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Script Node 75</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Script Node 76</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"I recently tracked her here to Sagus Cliffs, but none of these blind fools can remember seeing her, even though I believe she stayed here for a time."
+
+He grips your arm. "Let me give you a description, so you will know her. She is heartbreakingly beautiful and wears winged hair combs that float around her head, constantly changing the arrangement of her purple hair. Please, if you see her or hear word of her, return and tell me. My name is Omahdon, and I can be most generous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"How did you and Perseia meet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Tell me again how you and Perseia met."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"What caused Perseia to go mad?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Remind me what caused Perseia's madness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"We were at the same grave in the Valley of Dead Heroes. A mutual friend. And in sharing stories of our love for that friend, we found that we were kindred spirits and decided we did not want to part when we left the Valley."
+
+He smiles wistfully. "Odd that a place of death could give birth to something so beautiful and undying."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"We met in the Valley of Dead Heroes. We were visiting the same grave. Our love grew from there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>He frowns, thoughtful. "It is, I believe, some trauma associated with her birth or early life. We found that it could be overcome with love and care and certain medications, but even then, some lapses occur. It was during the last of these that Perseia vanished. I have been on her trail ever since."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Terrors from her early life that reassert themselves occasionally. They are treatable, but only with constant care."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"What sort of things will Perseia say when she's raving?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Almost anything, but one of her more persistent delusions is that I am her enemy. Nothing could be further from the truth. When she is in her right mind, she loves me as I love her, but when her madness is upon her..."
+
+His voice grows soft. "It is more painful than Truth can say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Thank you for all your help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Thank you for all your help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"I heard a different story of how you met Perseia. I heard you fell in love with her corpse and somehow restored her to life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>His face reddens with rage. "Did Tranquility tell you this? Well, she lies! Perseia was not dead. She was... made inanimate by ancient technologies. I merely used other technologies to awaken her from a long slumber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Your story about meeting Perseia is nothing like the one you told me before. You said you were mourning at the same grave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Can you blame me for telling a tale? Small-minded people would focus too much on the resurrection and not on the love that was born of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>He laughs, bitter. "People are happy to say 'love conquers all,' to each other all day long, but break what they naively call the *laws* of nature to achieve it, and they come after you with sticks!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Tell me the truth. Did you wake Perseia from sleep or did you resurrect her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"The distinction is more subtle than you might think. Some of the prior Worlds made no such distinction at all," he waves a hand, "but that isn't important. What *is* important is that we love each other, and I must get her back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"That leaves Haref and the Valley of Dead Heroes. If I were her, I wouldn't go back to the place where we met... too obvious.  So Haref it is." He gives you a little bow and walks away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Thank you for your 'help,' friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"That leaves Haref and the Valley of Dead Heroes. Haref is too far... and too alien. No, I think she's gone back to the Valley, and I know exactly where she'll be." He gives you a little bow and walks away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"That leaves Sada Imidu and the Valley of Dead Heroes. If I were her, I wouldn't go back to the place where we met... too obvious.  Sada Imidu it is." He gives you a little bow and walks away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"That leaves Sada Imidu and the Valley of Dead Heroes. I have friends in Sada Imidu - I know the city well, but she does not. Far too risky for her. No, I think she's gone back to the Valley, and I know exactly where she'll be." He gives you a little bow and walks away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>He snarls. "She only hates me because she doesn't know me. If she would just stand still, I would show her who I am, and then she couldn't help but love me! I *will* show her! Just as soon as I find her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"You leave *me* be! I've already made up my mind. I will find her and she will love me. It is destined."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"And what would those achievements mean, without her love? No. As long I have her, I care nothing for what fools think of me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>He turns from you, disgusted. "I already told you. My accomplishments mean nothing in the face of true love. She is my destiny, and when I catch her, I will show her that I am hers!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"How do you hope to cure Perseia's madness?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Tell me again about your cure for Perseia's madness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"With love, mostly. But also with certain ancient techniques I have learned in my years of study for the cooling and untwisting of fevered and knotted minds. I'm positive that, once I am able to isolate her from the corrupting distractions of the world, I will be able to restore her to her true self."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"I shall cure her with love and patience and isolation from the world and its temptations. When it is just the two of us, it will be a simple matter to calm and untangle her jumbled mind and restore the love we once shared."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"I found a device that 'remembers' everything that happens here. It showed me an image of Perseia talking to the hostel-keeper just before boarding a ship."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"The hostel-keeper... you mean Tranquility? I *knew* that woman was lying to me! She told me that she'd never seen anyone who looked like Perseia."
+ 
+He bares his teeth. "I doubt she'll say anything different if I ask her again. Please, will you speak to her? Confront her with the proof you've found, and perhaps she'll tell you where Perseia went."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>He grunts, impatient. "Tell Tranquility that you saw her with Perseia in that device of yours. If Tranquility helped her leave the city, then she *must* know where Perseia went."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Confront Tranquility with the proof you found - Perseia's comb and the image of them together. Ask her to tell you the truth about where Perseia went." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Script Node 124</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"More proof! Please, will you speak to Tranquility on my behalf? I think she'll admit what she knows about Perseia if the question doesn't come from me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Yes! That is one of her combs!" 
+
+He takes it from you with great care. His eyes soften as he looks upon it, and he seems unable to pull them away. "It's more proof that Tranquility lied to me. Please, will you speak to her on my behalf? I think she'll admit what she knows about Perseia if the question doesn't come from me."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

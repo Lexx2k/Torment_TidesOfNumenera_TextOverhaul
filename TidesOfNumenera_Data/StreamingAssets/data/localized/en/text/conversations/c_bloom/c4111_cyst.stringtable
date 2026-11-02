@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4111_cyst</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>103</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A blister of flesh protrudes from the ground, an irritated, angry pustule. It is almost entirely opaque, but you see the faintest hints of movement within.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Examine the cyst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You study the movement within the cyst more closely. As if in response to your curiosity, the shadow of a hand claws at the interior and vanishes. 
+
+Someone or something is trapped inside the cyst. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The ache in your heart has become familiar, even as the sorrow and heartbreak seem new and fresh each time: different facets of the same emotion, each refracted through a new experience.
+
+The cyst's fibers twitch again, loosening one final time, revealing a frail, angular creature trapped inside. It bursts out of the cyst, leaving a glittering object behind in its haste to escape.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Now that the cyst has disgorged its prisoner, the husk looks hollow, deflated... defeated.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Examine the remains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Leave the cyst alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Something catches your eye. It's a piece of sharp metal that protrudes from just underneath a fold of decaying Bloom-flesh.
+
+You cannot begin to guess at its function, but it's small and easy to carry. You slip it into your pouch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Walk away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Conveniently, the power source you acquired from the catena appears to be a perfect fit for the device, which may now be used.  Congratulations, you just got your hands on a Transdimensional Scalpel!]
+
+{COLIN: This is a dummy node that will be removed when we get item crafting.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[As there is nothing more of interest in the cyst, you walk away.]
+
+{COLIN: This is a dummy node that will be removed when we get item crafting.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Touch the left nerve.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Touch the center nerve.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Touch the right nerve.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[The nerves quiver and a low rumble ripples across the surface of the cyst. The nerves tighten from your touch.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[The nerves quiver and a high pitch squeel of rancid gas leaks from between the cyst membranes. The nerves loosen slightly.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Alien senses flood your mind. You are in an abandoned cavity deep in the Bloom, hearing moisture bead on the veins overhead and creatures chitter nearby. Your blurred vision blooms with colors, each linked to a smell.
+
+The smells are overwhelming, yet your mind instantly sorts them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Your head is throbbing, aching, feels like it's going to split wide open. You are trying to retreat from the battle for this region of the Bloom, holding a tower of iron will against your psion foes, but they batter at it ceaselessly and you feel your defenses crumbling. If you strike back, you can save your allies... but you will open yourself to your enemies' minds.
+
+You saw what they did to Aleto. Every pore in his body started leaking blood. His screams are still haunting you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Rush for your burrow!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Turn to see what stalks you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>You bolt on your four feet, a burst of adrenaline powering your tiny muscles, as the creature behind you snaps and snarls at your fleeing tail. You leap into the burrow, and the monster claws and scratches at the opening behind you, its frilled head blocking the light. 
+
+But it cannot get in after you. The creature stalks the perimeter and waits hours for you to emerge, but you never do. Eventually, it snarls and pads away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>You wake from the vision, your body shaking involuntarily from the experience. A brief moment later and you are reoriented in your own flesh. You find yourself once again standing before the massive cyst in the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>The creature is vaguely feline, enormously tall to your newly tiny form, and thickly muscled. Its purple stripes and rigid frills along its flanks. Killing incisors, each almost as large as you, fill its cavernous mouth, and its powerful claws can smash you flat. It sees you and lunges.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Leap into the safety of the burrow!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Stand your ground to protect your family.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>You turn and rear, filling yourself with air to make yourself seem larger. 
+
+The beast lunges at you, and one of its paws smashes down upon your spine, snapping it in an instant. That enormous mouth closes on you, and a mighty tooth pierces your side. The creature tears savagely at you and then, apparently not liking the taste, spits you out.
+
+It snarls, baffled, and pads back into the dripping darkness of the Bloom. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Keep running - your friends can fend for themselves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Drop your defenses and *strike*!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>You shout for them to come with you, to flee, and you turn to run. You draw your shields into yourself, hardening them, and your squadmates begin dropping, screaming. The head of another explodes as you rush past him.
+
+But you feel your foes' attacks slapping and sliding off your barrier, and they grow weaker the further you get from their nest.
+
+At last you stop, panting, and you realize you stand alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>The moment your shields fall, they pounce on you, feeding you psychoses and traumas dredged up from your ancestral, primitive past. They start to tear apart your concept of self, placing illusions of love lost and lives lived that are not your own. They whip you with empathy and you feel a backdoor attack on your psychomotor functions.
+
+The agony is exquisite. You use the pain and rage to lash out at the weakest mind, and you realize then that you are fighting a hive consciousness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Keep striking back - maybe you can distract the hive for long enough?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>They knew what they were getting into. Defend yourself and run!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>You strike, and you strike, and you strike again. You channel your fear into a devastating blow, aimed at the heart of the nest, but... the energy vanishes. You think. Lines of control snake through your body, dominating you and painting new truths on your mind. Each silver-thin thread draws a universe of pain through your exposed nerves.
+
+As your mind slowly dies, your foes show you the bodies of your fallen comrades. Not one escaped. They died in agony.
+
+So do you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>After what seems like hours of flight, you think you may have found a way to elude the older girls. You've swallowed your pride and buried yourself in the mounded refuse of Little Nihliesh, the smell of rotting food and putrid meat filling your nose. Better this than to suffer the abuse they're likely to hand out.
+
+Buried as you are, you can only hear them as they approach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Hold your breath and keep still.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>The hunters kick desultorily around the trash, one of them coming heart-stoppingly close to your body. You hold your breath, tense to run, and then one of them calls out. "Mierkal! Over here! I think she went this way!"
+
+You hear their footsteps race off. When they vanish from your hearing, you open your eyes and climb stinking from the heap.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Leap out of the garbage heap and attack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>You try to burst from the refuse, imagining a dramatic entrance that will leave them stunned for a moment as you wreak your vengeance on their ringleader.
+
+What happens instead is that as you draw yourself in to leap at them, they see the movement in the pile and they're ready for you... even if you hadn't slipped on the moldering food. Your dramatic leap looks more like an accidental fall into your tormentors' arms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Fight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>You lash out, and your fist actually connects with the ringleader's face, rocking her head back. The blood that spills from her nose is dark and hot, but the rage in her eyes is cold and dead.
+
+She thrusts you back into the garbage, and as you struggle to regain your feet, one of her allies - a girl with snakes for fingers - sees that hate and tries to pull her friend back. "Please, Mierkal - not for this one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Run away, as fast as you can!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>PAIN.
+
+An overwhelming white sheet of pain has draped across your vision. It is difficult for you to think your way around it. You imagine the sun shining upon your green skin, basking in the-
+
+NO. You recognize that you are going into shock. Your mind is shutting itself down to avoid the reality of the situation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Let the shock take you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>The sun is shining upon your green skin. You bask in its warmth. The azure sea laps and nips at the hull of your vessel, and you can hear the natives' drums beating in time with your heart. Their powerful throb is receding in the distance, and the time between each beat grows stedily longer.
+
+The sun goes dim, dimmer... and black.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Fight to hold on. Assess the damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>First you need to remember how you got here. You were on a bridge, yes? You and your companions. The struts gave way, and you went spilling into the abyss below. You saw some of your friends tumble into the great maw that spun and gnashed its teeth. A moment later they were a pink mist, a moment after that gone altogether. You, though...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Try to pry yourself from the stakes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>You push yourself up, and a flare of agony surges along your ruined arm. It's difficult for you to determine what hurts worse, but moving your right hand even the slightest amount flares agony all through your body. You cradle it against your chest again, and try to lift yourself from your imprisonment using only your left hand.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>It seems irreparable. Let the shock take you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>You gaze through the faint shimmer and ripple of the forcefield, down the silent, red-veined tunnel into the pulsating black. 
+
+It looks empty. You know it is now. You feel the eyes on you. The hungry eyes. 
+
+But you feel no fear. You feel *emptiness* within you, under a scab that you want to pick.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Turn away from the forcefield.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>You swallow the memory of anguish that threatens to overwhelm you. You are not alone, you remind yourself. You've lost her, but *you are not alone*.
+
+You pull your hand away from the forcefield's controls, and only then do you realize how close you came to losing it all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Examine the emptiness inside you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>You remember her laughing face. You remember her closing her eyes, the tentacles of her 'hair' writhing around the back of your head, pulling you in for a kiss. You remember her delighted laughter when you told her you'd found a lost settlement at the end of a quiet tunnel in the Bloom, untouched by scavengers - a fortune lying on shelves and in neat crates. You remember leading her by the hand... the pain rises.
+
+Your hand strokes the forcefield's controls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>What happened? Keep digging through the memory.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>You don't want to remember. You *don't*. But you go deeper anyway.
+
+You'd installed the shield to protect your find from other explorers. But when you fled the ruins and the shrieking things beneath, it was the shield that saved you. 
+
+You, and not her. You saw them fall on her ten steps from safety. Pale claws, blood-painted. Screams from beneath the seething pile. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Turn away from the forcefield. *Stop* remembering.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Please," you whisper, hands raised. Clean white dust, untouched by the taint of the Bloom,  cakes your slender fingers. "I worked for years on this sculpture. I've molded it with beams and chisels, and with my bare hands when my tools ran dry. This is the only thing in my life that has meaning. Something in the stone is calling to me. It needs to be given shape!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"If my behavior is that changed, I'll step aside."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>His shock is apparent, but he hides it quickly.
+
+He steps between you and the carved stone and swings his hammer. On the first strike, you swear you hear a high-pitched shriek, but you tell yourself this is just the rock cracking.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"You won't ruin my creation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Step aside. This is your last warning. I *will* destroy it, and if I have to go through you, I will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"I'll protect this sculpture with my life. It is *my* creation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"As you wish." His hammer is faster than you would have believed, and it blasts the bones in your hand to powder. You fall back, the pain following, and he strikes at the statue directly. The first shot elicits a high-pitched shriek from the stone, and you throw yourself in front of the sculpture to keep another one from landing. 
+
+"Don't make me-" He never finishes the sentence, but swings again. Your shoulder collapses with a wet *crunch*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"You feel that strongly? Very well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>You return to your own mind with the death of your host, knowing that what you saw... what you felt... was true. The life you lived was full, rich, and ended here in the Bloom. Your host's  remaining moments were saturated with pain.
+
+Your muscles still twitch with the memory of agony, and your suffering bleeds into the cyst, loosening its fleshy fibers. 
+
+It appears that the Bloom has sealed something within this cyst, and your agony is the key that will set it loose. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Consciousness calls you back to its arms, and you find yourself aching emotionally and physically from these experiences. Your muscles throb and pulse with the residue of the fight-or-flight response, and the cyst again responds to your pain. Its fibers loosen further.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Bank 88</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Touch the cyst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Touch the cyst again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Bank 91</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>You feel something pressing against your mind - a sharp presence like the thought of pain, thrusting its experiences into your imagination.
+
+As your fingers brush the flesh of the cyst, the memories come pouring in, flooding your thoughts with emotions of lives you have never lived, stories from countless lives lost in the Bloom. 
+
+You reach out for a random memory in this swirling maelstrom, and its particulars become immediately, shockingly clear...
+
+{JF:  This was in a follow-up node, but banks can't lead randomly to other nodes, and this appears to have been structured to randomly go to one of the six following stories.  The only way to get this working was to split the two nodes out of the follow-up and have them separately go randomly to the stories.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>You steel yourself for another memory of pain and reach out to touch the cyst again. 
+
+Again, the unbidden memories spring into your mind, and you lose yourself among them until you reach out and seize one...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Where did that little rubar go?" demands one. She's standing right in front of you, and she's breathing hard. From the rage in her voice, you know that the beating will be a savage one. At least four of them are looking for you. But you know, deep down, that if you don't stand up to them at some point, this will just keep happening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"I know that," says the man who used to be your friend. "I've seen what it has done to you." He holds a large hammer in his hands. His fists are shaking. 
+
+"You've changed. Ever since you brought this hunk of rock back from that other world, you've changed. It's not art that compels you. There's life already in that thing. And it's using you to get out."
+
+He hefts the hammer. "I'm here to stop it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Another blow, and another, and chips scatter in a spray of red and white. The shriek has subsided, but your mind is filled with a low and pained moan. 
+
+He holds the hammer aloft for a final blow and brings it down with all his strength. Your statue explodes, and its pieces crumble. He stands and moves to the side, and for a moment you see a pool of blood amidst the shattered pieces.
+
+The memory fades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Food, fetid warmth, family, and shelter lie ahead, beneath the base of a thick, outflung tentacle. It is a burrow opening, just the right size for your tiny body. The globules of Bloom-flesh in your cheeks will sustain your brood for days.
+
+But then the wind shifts, and a sharp scent freezes you in your step. *Fear* suffuses your mind, and you realize that death is at your heels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Gasping, you drag your barely functioning body toward the burrow, but your limbs go numb and stop moving. The world blurs around you.
+Aching with unbearable loneliness, you welcome the sweet release of death... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>You're slicked with grease and rotten food, and they have a hard time holding you. For one moment, you have a chance to break free and run.
+
+Or you can stand and fight, and show them that you're not scared of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>You shove off the ringleader, and your bare feet find traction against the blubbery ground. You throw a shoulder into one of her compatriots, and through some lucky chance it knocks her off her feet. You tear down the alleyway as your foes struggle to find their footing. The last thing you hear is a shouted promise for the next time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Mierkal says, "Oh, yes. Yes for this one." She looks at her friend and says, "And if you don't help, you're next."
+
+The four of them get to work.
+
+An eternity later, they stop. They spit on you as they leave. You try to move, but a sharp and grinding pain in your leg shrills agony into your mind. Your eyes have swollen shut, your teeth are broken, and your shattered fingers are incapable of even the barest movement.
+
+Darkness closes over you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>You embrace the statue, shielding it from the hammer. After a few blows, he focuses entirely instead on you, grunting and growling. Blood spatters the stone beside your cheek. 
+
+At last, you topple bonelessly to the ground, and watch as he reduces your masterpiece to a pile of rubble and splinters. You struggle to summon a single breath. A single sob. 
+
+When the blackness comes, you welcome it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Join her. Open the forcefield.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Your hand slides across the control, and you deactivate the screens. Silence follows. She is *not* still screaming. You feel a moment's relief. The countless nightmares lied to you after all. 
+
+You take a single step into the dark. Another. And then, *they* swarm up the tunnel and fall on you, biting and clawing and chewing and shrieking.
+
+After endless, endless agony, blackness claims you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>So much blood, and she never stopped screaming. Finally, you raised the shield, and *only* then did silence fall. 
+
+You look at your hand, hovering over the shield controls. For all you know, she could still be screaming, down there in the ruins. And it's your fault. 
+
+The life you were going to build together is gone. Erased. You have just one more thing to do.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>... you came down on a network of steel stakes - antennae, perhaps? - and five of them have pierced you, from your left leg to your abdomen. Worse, it seems as if they're barbed. They've torn great holes in your flesh as they passed through.
+
+Your arms aren't in much better condition. Your right wrist has shattered, and bone is poking through.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>You push, and the spikes impaling you bend with the new angle. Each centimeter you move tears fresh paths from your flesh.
+
+Your vision darkens. You have lost too much blood. You fall back, and the spikes rip through you. Your last experience is vertigo and agony.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>You cannot defeat these creatures, united as they are. Your only hope is to defend yourself - or one of your squadmates. But only one of the ten of you can survive the concerted attack of the hive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[DEBUG: Pop the cyst!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>You kept your host safe, but you sense that wasn't what was needed here. This vision - and the others contained within the cyst's fibers - are a lock of sorts. To open it, you will need to suffer. You will need to become prey. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>You kept your host safe again. The lock-cyst -before you is unchanged. If you want to open it, you will need to suffer. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Examine the remains again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Now that you've claimed the object the creature left, the cavity is utterly empty. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>You can't imagine what the creature was doing with the object. A closer examination of the strange artifact might tell you more. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Wonder how the abykos got trapped inside that cyst," he mutters, crossing his arms. "Or how it got its claws on that object you found."
+
+He raises an eyebrow in your direction. "It's powerful, whatever it is. Abykoses only give a damn about transdimensional artifacts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"I'm curious how the Bloom managed to trap that abykos inside the cyst," she says, then shrugs. "No matter. You've found yourself an object of transdimensional power, dear. The abykos must have drained it of energy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"I've never seen anything like that," she mutters, hands on her hips. "But if the abykos was holding that object, it's full of transdimensional energy. Or it *was*."
+
+She pauses. "Probably worth a closer look."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Wasn't that a thing," he says, stroking his mustache. "I'd take a closer look at that bit of numenera if I were you. Abykoses have a taste for transdimensional artifacts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>The creature within the cyst was an abykos, a being that feeds on transdimensional energies. Assuming that it was in the cyst for any length of time, it must have been surviving by draining energy from the object you just found. A closer examination of the object should tell you more.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

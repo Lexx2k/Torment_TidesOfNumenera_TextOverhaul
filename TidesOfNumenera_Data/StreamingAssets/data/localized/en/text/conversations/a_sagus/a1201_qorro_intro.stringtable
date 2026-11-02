@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1201_qorro_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>140</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As you step onto what looks like the back of the enormous construct, four strangers approach you.
+
+In the lead is a wiry man with parallel scars running from cheek to collarbone on the left side of his face. He gives you a welcoming smile, pulling on gray gloves embedded with pulsing lights.
+
+He's about to say something to you when he notices Callistege.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"My name is Qorro," he says, then raises a gloved hand. "No, don't bother introducing yourself. We won't be acquainted for long, one way or the other, and I'm so very bad with names, faces, and people in general. At any rate. Have you have seen a falling star that landed near here, not long ago?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Where did this star land?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"It wasn't a 'star'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>(Truth) "*I* fell from the sky. There was no star.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Qorro. What are you doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[DEBUG: Start Crisis!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"An interesting observation," Qorro says. His three companions tense, though he gives no visible signal. "And why do you say that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>He's about to say something when he notices Callistege next to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Odds and ends, Qorro. Nothing that would interest you, I'm sure." Her words are calm, but she has gone quite still.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Callistege, is something wrong?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I don't like this," Aligern says, loud enough for Callistege to hear. "If *she's* cagey about him, it can only mean trouble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Callistege, what's wrong?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Nothing's wrong, dear. I accompanied Qorro on an expedition once, long ago. His methods were too... crass for my tastes. Though in his defense, he never tried to kill *me* when my back was turned." She beams at Qorro. "Or if he did, he failed, and I didn't notice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Well, it is a veritable delight seeing you again, Cal," Qorro says. "But we aren't here to dig through anyone's pockets."
+
+"Have you seen a falling star that landed near here, not long ago?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I'm also here for the 'star'. Unlike you, I want it - and all its secrets - for myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"What interests you about this 'star'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"An admirable goal. Were I less enamored of-" He blushes. "Of certain pursuits, and in dire need of money, I would likely be doing the same. Good hunting. Perhaps we'll meet again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"It is painfully obvious that you've come from the great smoking crater over there. Furthermore, I know every hunter in the city, and I've never seen your face before. Let's be honest with each other, Fallen Star. You have two choices here, and both of them are dreadful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Turbo bullshit. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Second option - we kill you and the old man, *try* not to kill Callistege, and bring your body to our employers anyway."
+
+He winks at Callistege. "Apologies, sweetness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Qorro motions to his companions, and they move on, leaving you alone on the back of the scaled ruins. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"How kind of you to ask! So few people are interested in the tangled motivations of paid explorers. The world is littered with ruins and fascinating secrets. Trouble is, *anyone* can claim them. But when something falls from the sky? Ah, that's rarer, and a man can make his name off such a find. We're also being paid quite handsomely. That helps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>(Lie) "I'm also here for the star. Unlike you, I want it - and all its secrets - for myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Second option - we kill you and the old man, and bring your body to our employers anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Second option - we kill you, *try* not to kill Callistege, and bring your body to our employers anyway."
+
+He winks at Callistege. "Apologies, sweetness."  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Second option - we kill you, and bring your body to our employers anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>He turns on Callistege. "You *told* him we were here, didn't you? You couldn't resist selling me out one more time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Qorro clenches his gloved fist. A soft whistle sounds. "What do *you* say, Fallen Star?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Oh, darling," Callistege says. "Take your thugs and go home, or I'll have to rip you to pieces, and the world is already *so* untidy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"You're going to enjoy being dead," Aligern says. "Lots of time to rest that mouth of yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I'm not going anywhere with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Bank 43</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"What a shame," Qorro says, and glances at his companions. "Now!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Be strong. I am with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Let's stuff these fools in the ground!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>{SCRIPT: Start Crisis}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Fine. I surrender."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"You've made the right choice." Qorro approaches, smiling. "Now, I suppose we could bind your arms, but... it's probably safer this way." 
+
+He slams his elbow into your face. You black out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"What in the world are you doing?" she hisses. "We can defeat them!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"We can take them!" he whispers. "What are you doing, kid?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"We can defeat them!" she whispers. "What in the world are you doing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>{SCRIPT: Qorro kills player, sending them to Labyrinth.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"She's not wrong, kid. Why are you doing this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"I don't want anyone risking their life for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"I want to see who his 'employer' is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Attack] "Follow my lead..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"First option - you surrender to us, and we convey you to my employer for - well, experimentation and dissection, frankly. It's not pretty, but there it is."
+
+"Second option - we kill you and the old man, *try* not to kill Callistege, and bring your body to our employers anyway." He winks at Callistege. "Apologies, sweetness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Bank 64</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Aligern turns to Callistege.
+
+"Decided you didn't want the kid's blood on your conscience after all?" he says.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"You've got a hell of a gift for lying, kid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Qorro has always prided himself on spotting lies. How embarrassing for him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"I don't need to tell you anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>(Lie) "Your 'star' was an escape vessel. I spotted plating and venting channels before it crash landed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"A fine eye you have there," Qorro says. His partners relax slightly. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Oh, that's true," Qorro says. The lights embedded in his gloves pulse more quickly now. "You certainly don't. But I *should* point out that the truth, unlike its paltry cousins, will keep this conversation from turning in unpleasant directions. Something to consider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[DEBUG: Start Crisis!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"What are you-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Turn to Qorro. "What do you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Right to the point, this one, isn't he? I know most of the draff that scavenges the Reef these days, but it's a rare pleasure to see a *new* face. All I want is information. A falling star landed near here not long ago. I don't suppose you were around to see it?"</DefaultText>
+      <FemaleText>"Right to the point, this one, isn't she? I know most of the draff that scavenges the Reef these days, but it's a rare pleasure to see a *new* face. All I want is information. A falling star landed near here not long ago. I don't suppose you were around to see it?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Know anyone who fell from the sky recently?" she whispers to you, tension in her eyes at odds with her easy smile. "Be careful. Qorro is not a man who can be trusted with unvarnished truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"What does that say about *you*, dear?" She gives Aligern a venomous smile.
+
+"Killer or not," she whispers, "Qorro is not a man who can be trusted with unvarnished truth. Tread lightly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Nice scars. How did you get them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Two things are more dangerous than death in this world," he says. "Asking impolite questions of strangers, and playing with numenera you don't fully understand. My error was in the latter category, and I've grown more careful since."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"What are those gloves for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Unwelcome but anticipated complications." He does not elaborate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"He does so love his ambushes," Callistege whispers in your ear again, even though her mouth is closed and she isn't looking at you. "He didn't have the gloves when I knew him last, but I'd wager they're connected to devices in the area."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Well, if I knew that, I wouldn't be reduced to harassing noble travelers. I never saw it, you see. My employer did, and thought, 'who is the most trustworthy team I can send at a moment's notice?' Luckily, they were on another assignment, we were interested and weren't too drunk yet, so...."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Callistege hisses under her breath, like someone who's stubbed a toe in the dark. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Bank 102</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Good cover, dear," she whispers. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Enough chat, I think," he says, suddenly serious. "Where's the falling star?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Qorro looks jealous. 
+
+"An admirable goal. Were I less enamored of-" He blushes. "Of certain pursuits, and in dire need of money, I would likely be doing the same. Good hunting. Perhaps we'll meet again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"I thought so. To reward your honesty, I shall be honest in turn. You have two choices here. Both of them are dreadful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Qorro is slow to react when you burst into motion, and the smile drops from his face entirely. 
+
+{SCRIPT: Perhaps give the PC initiative in the coming fight.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Bank 108</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>With a low chuckle at the man's surprise, Aligern follows. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Callistege hums a cheerful tune as she prepares for the battle ahead. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"So," Qorro says, apparently unaware of Callistege's interruption. "The star. Have you seen it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"It really is quite painfully obvious that you've come from the great smoking crater over there. Furthermore, I know every hunter in the city, and I've never seen your face before. Let's be honest with each other, Fallen Star. You have two choices here, and both of them are dreadful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Furthermore, I can't help but notice that you haven't answered my question. Why don't you think it was a star?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"And now," Qorro says, apparently unaware of Callistege's interruption. "Answer *my* question. Why don't you think it was a star?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Now that I've been kind enough to answer your question, perhaps you'll tell me why you don't think the star was a star."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>You open your mouth to speak, but Aligern cuts you off with a heavy hand on your shoulder. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Cal! I thought you'd sworn off trawling the Reef. Found anything tasty?" His eyes travel up and down both you and Aligern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"You're in my way. Move, or I'll make you move!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Ah, threats. Thank you *so* much. I've prepared a wonderful trap, and would have hated to see it go to waste."
+
+Qorro clenches his gloved fist and signals his companions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Now!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"I'll be honest with you. I saw the star, but don't know where it landed."
+
+{SCRIPT: This check maxes out at Very Hard, but the following modifiers can apply: 1. a1201_QorroPreCrisis=1 makes the DT slightly easier. 2. a1201_QorroPreCrisis=2 negates the above bonus, making the DT Very Hard again. 3. Each increment of the a1201_PCirritatedQorro variable makes the DT slightly harder.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"All right, Well, do let us know if you spot anything of interest. I'd like to say we'd pay for the privilege, but if we were rich, we wouldn't be down here, would we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"You have such an honest face. Lies don't belong on it! Let's be truthful with each other, Fallen Star. You have two choices here, and both of them are dreadful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"All right, Well, do let us know if you spot anything of interest. I'd like to say we'd pay for the privilege, but if we were rich, we wouldn't be down here, would we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Please! You have such an honest face. Lies don't belong on it. Let's be truthful with each other, Fallen Star. You have two choices here, and both of them are dreadful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Are you really *so* paranoid?" She addresses Qorro. "Darling, take your thugs and go home. Otherwise we'll have to rip you to pieces, and the world is already *so* untidy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Let Qorro and Callistege talk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"You should hear what I tell people about *you*, dear." She gives Aligern a venomous smile. "Killer or not," she whispers, "Qorro is not a man who can be trusted with unvarnished truth. Tread lightly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"May we pass?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>His hand curls into a fist at his side. "I was wondering, specifically, if you had seen a falling star that landed near here not long ago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"I've seen nothing of the sort, dear Qorro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"What about your friends?" He turns to you. "I know most of the draff that scavenges the Reef these days. It's a rare pleasure to see a *new* face."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"I don't trust them," Aligern says, loud enough for Callistege to hear. "Any friend of hers is a cheat, a killer, or both."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Of course! But first a question, one traveler to another. There was a falling star that landed near here not long ago. I was wondering if you knew anything about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Four strangers approach as you step onto what looks like an enormous construct's back.
+
+A wiry man leads them. Scars run from his left cheek to his collarbone. He pulls on gloves embedded with pulsing lights.
+
+"Hey there, friends. I'm looking for information. A falling star landed near here not long ago. I don't suppose you were around to see it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>She leans toward you and whispers, "Don't trust him, child. I know Qorro. I'll wager he knows *exactly* where the 'falling star' is, and he won't let it go without a fight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>[Thus concludes the second Alpha Systems Test. Thank you for playing. Please send us your thoughts via the in-game feedback button, and keep your eyes open for the Crisis Alpha Systems Test in the near future!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>[Thank you for participating in the third Alpha Systems Test for Torment. This systems test focuses on our Crisis system. It picks up immediately where the previous Alpha Systems Test left off. We appreciate any feedback you have as you play.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Four strangers approach as you step onto what looks like the enormous construct's back.
+
+A wiry man leads them. Scars run from his left cheek to his collarbone. He pulls on gray gloves embedded with pulsing lights.
+
+"Hey there, friends. I'm looking for information. A falling star landed near here not long ago. I don't suppose you were around to see it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>She leans toward you and whispers, "Don't trust him, child. I know Qorro. I'll wager he knows *exactly* where - and who - the 'falling star' is, and he won't let it go without a fight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>(Lie) "I'll be honest with you. I saw the star, but don't know where it landed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>(Lie) "I'm also here for the 'star'. Unlike you, I want it - and all its secrets - for myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>[Alpha Systems Test note: This would normally be a difficult task where you could apply Effort to, perhaps, avoid the Crisis. Since the purpose of this AST is to get feedback on the Crisis, we'll cut to the chase instead.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>[Alpha Systems Test note: This would normally be a difficult task where you could apply Effort to, perhaps, avoid the Crisis. Since the purpose of this AST is to get feedback on the Crisis, we'll cut to the chase instead.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Like hell you will! We can take this draff." He grabs the hilt of his weapon and speaks to Qorro. "Move out of our way or you'll see blood."
+
+[Alpha Systems Test note: In the real game, you will of course be allowed to surrender, but that has been temporarily cut for the purpose of this Alpha (namely, to get feedback on Crises).]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>(Truth) "*I* fell from the sky. There was no star.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"I'm not going anywhere with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"She's not wrong, kid. Why are you doing this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"I don't want anyone risking their life for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"At least someone will get out alive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>[Attack] "Follow my lead..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Ah, threats. Thank you *so* much. I've prepared a wonderful trap, and would have hated to see it go to waste."
+
+Qorro clenches his gloved fist and signals his companions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"A trap? Wait! I didn't mean it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>[Attack] "You'll regret this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>[Learn the basics of the Crisis system.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>[When a Crisis begins, turn order is determined with an Initiative roll.]
+
+[On each party member's turn, he or she can do the following:
+ - Move once.
+ - Use one 'quick' action (called Anoetic Actions).
+ - Use one 'standard' action (called Occultic Actions).]
+
+[The player can do these actions in any order during their turn. The player may also use their Occultic Action to take a double move.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>[Your available actions are located in the action bar in the lower-left corner.]
+
+[Anoetic Actions are in the middle row of the action bar. These are simple, quick actions like activating buffs, teleports, easy to manipulate cyphers, or (in future releases) switching weapon sets.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>[Occultic Actions are in the bottom row of the action bar. Attacking an enemy is also an Occultic Action. Occultic Actions are more complex, attention-demanding actions like weapon attacks, casting esoteries, attempting to hide, or taking a turn to rest and recover some Stat pool points.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>[The distance the party member can move is indicated by the dotted line that follows the mouse cursor. If the line is green, the character can move to that point with ease. If the line turns yellow, he or she must sacrifice their Occultic Action to reach the destination.]
+
+{JEREMY: I feel like this is self-explanatory (or if it isn't, then it really should be). I'm inclined to skip this node, but I left it in here in case you feel strongly about keeping it.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>[Party members can also interact with some of the objects in the scene and even talk to some NPCs during a Crisis. Interactions like this will often require an Occultic action (noted by the badge on the interaction button).]
+
+[We hope the rest is self-explanatory. Press Continue to start the Crisis, and if you have any ideas on making Crises more intuitive, don't hesitate to use the Feedback button above!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"What a shame," Qorro says, and glances at his companions. "Now!"
+
+[Alpha Systems Test note: For C0 only, we have included optional basic tutorial information on Crises.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>[Get to the fight.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Qorro is slow to react when you burst into motion, and the smile drops from his face entirely. 
+
+[Alpha Systems Test note: For C0 only, we have included optional basic tutorial information on Crises.]
+
+{SCRIPT: Perhaps give the PC initiative in the coming fight.}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

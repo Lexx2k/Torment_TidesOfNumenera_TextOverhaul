@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c6501_final_conversation_callistege</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>40</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"What more is there to say, child? You have triumphed over your brothers and sisters, and have claimed the whole of this timeline for yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>{surprised, slightly taken aback}"Do? My dear, I don't intend to *do* anything. It is clear to me now the lengths I must go to in order to preserve my spirit beyond death, and it strikes me as somewhat laborious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>{slowly, measured - the player has died, and Matkina survived}"I do not know... who to pity more."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"After all of this? I hardly know what to expect."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"In the end, what else is there to do but to continue? We persist, after all. We survived." She closes her eyes and swallows, taking a deep breath that she releases as a sigh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I believe I shall continue to be a part of your journey, though from afar. Now that I can be anywhere at any time, I trust our paths will cross again." 
+
+She steps back, fading to a faint glimmer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I believe I shall continue to travel with you, to learn as you learn and to  come to know you fully, in time." She offers you the briefest of smiles. "It's what we agreed to, after all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"In the end, you furnished me with no true answers. I don't deny that they were truths. Yet I admit myself...{pause} hm... lost. But I was so before I found you, I now realize, and will perhaps be so again. It is no longer your concern to manage. You have other priorities to advance upon. Without me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Far better to take my chances in the datasphere. For which, once more, I thank you - or perhaps another version of you. It makes little difference." 
+
+She bows her head and steps back, fading from view.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Luckily, you have already saved me some of the work." She smiles at her own joke. "So I suppose I shall continue to learn with you and from you, until the day you tire of me." Her words are light, but her tone is sharp. "Let us hope it does not come too soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Wherever I go, it's clear some changes are in order. You showed me that much - or some version of you did, at any rate - and for this gift I shall be properly grateful. {pause}Though you will, of course, excuse me if I choose to take my leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I shall leave you to this new game of yours, and continue to watch from the datasphere. But I shall not, I think, continue to be involved in any meaningful way." 
+
+"Matkina." The name is both blessing and question. Callistege steps back and fades from view.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Am I now trapped in here with her? Or is it you?" She searches your - Matkina's - face for the answer. "Have I bonded myself to the mind of a woman who despises me, whose own misgivings can form boundaries that defy experiential learning?" She takes a step back.
+
+But, of course, the question is truly whether it matters or not. For bound I am, and bound I shall remain." She bows her head. "Until you tire of me, whoever you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"What is clear is that I have no part to play in this any longer. Nor, perhaps, did I all along."
+
+"For what he taught me, I give him due credit. But it is what remains that I must seek out for myself. Farewell." She steps back reluctantly.</DefaultText>
+      <FemaleText>"What is clear is that I have no part to play in this any longer. Nor, perhaps, did I all along."
+
+"For what she taught me, I give her due credit. But it is what remains that I must seek out for myself. Farewell." She steps back reluctantly.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Which is why you must continue without me. Perhaps I can find my answers in the datasphere. Perhaps I will return to you in time." 
+
+"Nothing in this timeline is certain, that I know. And it is why we must part ways." 
+
+"When you affect true change, I will feel it, and I will come. Until then, child..." Electrical noise drowns out her words as she fades from view.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"For what it means, I am with you." She folds her arms and gives you an appraising look. "If nothing else changed, there is at least that. You will not face future trials alone. At least, until you tire of me." She looks away, the unspoken question in her words denied by her own dismissal of it.
+
+"So, dear. Where to now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I believe..." {trails off}
+
+"I have learned much. It may be time I put that knowledge to use, or at least into practice. Sagus is still my home, after all, and the Order would no doubt have maintained my workspace. So it's only logical I return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"If you have need of me, you can ask. I may respond. I do not know."
+
+"But know this - I will be watching." She steps back and vanishes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"We must continue to seek our answers, to the best of our abilities. I certainly shall strive to do so, and I wish you as much effort as I am sure to exert in pursuit of my own resolution. I can wish you no more and no less."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"See you soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>She bows her head, hiding her face.
+
+"It's what *I* agreed to," she says quietly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"But should you come find me, I would be remiss in my pursuit of knowledge to refuse a second chance to join you." Her smile is almost hesitant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Were I your enemy, I would pity myself, for surely no act so brazen as to convince me to chain myself to one reality alone could have come without a pre-meditated cost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Luckily, for good or ill, I have been stripped of such ambitions. My sisters are gone, and it seems time I took my leave as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I gather, from the outcome, however, that the answer should be myself. The knowledge I could have used to rebuild is lost, and I must re-learn how to live, without the aid of a true immortal. Which is what I suppose I should be getting on with."
+
+She hugs herself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"What is clear to me, at least, is that I am nowhere safer than by your side, despite all the troubles that have befallen us." 
+
+She rubs absently at her arm, where the Attractor once sat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"I have a life to reclaim, or something to that effect. After so many years as one of many, being alone is like learning to walk all over again." 
+
+{pause, considering}"Yes, exactly like that. After all, walking is the first step toward mastering your own destiny."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"But I do not accuse you of dissembling, dear. Merely to state the obvious, that we are both of us well-suited and shall, I hope, continue to be so." 
+
+"If, of course, you will deign to have me."
+
+She hooks her arm graciously through yours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"And that is where I shall leave that particular history, I think. We have traveled well, but now the storm is weathered I find myself with a desire to revisit old haunts. Perhaps old loves."
+
+"I wish you joy, castoff. No less."  She steps back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Don't forget him." She searches your face, then turns away.</DefaultText>
+      <FemaleText>"Don't forget her." She searches your face, then turns away.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"So I will join you, if you will have me." 
+
+"Well, dear? The world awaits our footsteps."
+
+She smiles warmly, without echoes, and takes your arm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Which is why it galls me to say I believe it best that we part." 
+
+"You have taught me much, but nothing more, I fear, lies in our future together. Know that I am grateful."
+
+"Always."  She briefly touches your arm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Trigger Conv Node 41</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,3040 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\si_meres\mere_gs1_steadfastmere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>428</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You look down at yourself. You are a woman, kitted out with sturdy armor, a staff with blades at both ends, and a geometric tracery of filaments all over your body that you somehow know allows you to "fall" up, which is handy for spelunking and scavenging. 
+
+Besides the bearded nano, whose name you remember is Ushrov, the others around you are Marit, your jack marksman, Iom, a self-aware construct, and Arxalin, a varjellen glaive whose reptilian features always seem to be smiling, even now, when he's on the floor, clutching his guts, with black fluids leaking from his nose and mouth. 
+
+"I'm not asking to go back," Arxalin hisses. "Just let me close my eyes and rest a minute." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Let's leave Arxalin here and keep exploring."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Let's give Arxalin a chance to rest. Scavenging can wait a few ticks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Let's head back to Stirthal. We've got to get Arxalin some help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"W-what is it?" asks Marit. 
+
+It takes a moment for Iom to answer. He seems preoccupied. "Some kind of universal energy emitter. I can feel its power, but perhaps some of the energy it emits is deadly to organics."
+
+"The real question," says Ushrov. "Is who planted it on him. Didn't he say he threw it away?"
+
+Everybody looks at everybody else, but then Marit sobs. "It was me! I picked it up when he dropped it and it recharged all my cyphers in a blip. Big money back home for a thing like that, but it made me queasy to touch it, so I slipped it into Arx's pack. I didn't think it was going to kill him!"
+
+As she bursts into tears, you hear the same noise you heard earlier, only closer. The rest hear it too.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Ask Marit what she wants to do. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Right, we're going back to Stirthal. Iom, you can keep the Embrace, but keep it away from us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Right, we're going to continue exploring. Iom, you can keep the Embrace, but keep it away from us."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Right, we're going to figure out what to do about Marit before we go any further. Iom, you can keep the Embrace, but keep it away from us."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>{SCRIPT: Right, we're going to figure out what to do about Marit before we go any further. Iom, you can keep the Embrace, but keep it away from us."}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>After a long trek, you reach the place where you entered the tube, a span called the Forever Bridge that stretches across the voil to where the caravan master waits for your return.
+
+Except for Iom, you're all in bad shape. Marit is hacking her lungs up, and you and Ushrov are starting to sniffle - and to make matters worse, the Forever Bridge is toying with you. Every time you start across it, you find yourself walking back toward the cave. You can't reach the other side. 
+
+Finally, after a third attempt, Marit collapses, barely consious, and Ushrov turns on Iom. "The Embrace is still killing us. You have to get rid of it."
+
+Iom shakes his head. "I won't. I have a right to life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>After a long trek, you reach the place where you entered the tube, a span called the Forever Bridge that stretches across the voil to where the caravan master waits for your return.
+
+Except for Iom, you're all in bad shape. Marit is hacking her lungs up, and you and Ushrov are starting to sniffle - and to make matters worse, the Forever Bridge is toying with you. Every time you start across it, you find yourself walking back toward the cave. You can't reach the other side. 
+
+Finally, after a third attempt, Marit collapses, barely consious, and Ushrov turns on Iom. "You've still got the Embrace, don't you, you bastard? You're killing us all!"
+
+Iom nods. "I have a right to life too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Levitate out by yourself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Grab Ushrov and levitate out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"What kind of life will it be, Iom? Humans are your only friends. Do you want to kill them everywhere you go? It will be a very lonely immortality."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[What a prick. Attack the construct.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Ushrov roars and Marit stares, uncomprehending, as you drift though the gash in the side of the tunnel and rise toward the top of the canyon. 
+
+"What are you doing!" shouts Ushrov up at you. "This doesn't fix anything!"
+
+As you reach the top of the Voil it begins to fade to gold mist below you, and you are wrenched back to your own body, Ushrov's last words ringing in your ears.
+
+"A lot of folk are going to die because of this, you coward!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Marit wails and reaches after you as you and Ushrov drift though the gash in the side of the tunnel and rise toward the top of the canyon. 
+
+"I'm grateful for the rescue," says Ushrov, scowling. "But what exactly did that accomplish? Iom will climb out of there in a heartbeat, and then what happens to Stirthal, or wherever he ends up? He's a walking plague." 
+
+As you reach the top of the Voil it begins to fade to gold mist below you, and you are wrenched back to your own body, Ushrov's last words ringing in your ears.
+
+"A lot of folk are going to die because of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Iom remains still for so long you think he might be broken. Finally he steps to the gash in the side of the tunnel and hurls the Embrace out into the Voil. 
+
+Then he turns to you. "Forgive me, Vic. In my fear, I forgot why being alive is important. I am ready to help you save our friends."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[That's one way to do it. You beat him handily and toss the Embrace over the edge.
+
+Or not. Maybe you keep it and sell it, but we don't have time for more decisions right now. Back to the real world...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>A nano with a heavy beard shouts at you as your other companions stare. "Come on, Vicarian! We can't afford to be nice. If we go back empty-handed our investors will kill us!"
+
+You're in a tube-like cave, several stories high and many kilometers long, that looks like it was chewed from solid rock by a colossal worm. Around you, a hollow square of rust-red columns rises to the ceiling, and you can see further ruins east and west. To your right, a long gash in the north wall of the tube opens to daylight and a vast canyon, as if the titan worm rubbed through the canyon wall in passing. 
+
+Faint memories tell you the tube-cave is a numenera motherlode - and your party is the first one in. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Ask Ushrov why he's worried about the investors.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Ask Arxalin how he got sick. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Step to the break in the cave wall. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Ask Iom what he wants to do.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>As you say it, a faint shifting echoes down the tunnel from the west, as if something was moving in the distance. The party looks toward the sound. Arxalin swallows. "If it's all the same to you," he says. "I'd rather not sit here alone."
+
+"I will carry you, if you like," says Iom. "You will not slow me down."
+
+The varjellen grimaces with embarrassment, then shrugs. "Fine. Just call me dead weight."
+
+As you start forward, Marit sniffs and wipes her nose on her sleeve. 
+
+"Can't you be quiet?" Ushrov snarls. "We don't know what's out there!"
+
+"Sorry," she mumbles. "Arxalin being sick is giving me sympathy sniffles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Looking out through the ragged gash, you see the canyon dropping straight down below you, so deep the afternoon sun doesn't reach the bottom, and so wide you can barely see the other side through the haze. This, you know, is the Voil Chasm, a great gash in the Malevich wilds that sane travelers tend to avoid. 
+
+Pulling your head back in and looking up and down the long cave, you see that it rises slightly to the east, where you entered it. It descends to the west, where you have yet to explore.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>The vargellan moans. "I don't know. Could have been that thing I found back in the forge room. Shiny bit of flex, but when I touched it, it made me queasy, so I tossed it aside. Maybe one touch was enough. Now I've got a fever like a furnace, and I feel like I could drink the Sadara River dry."
+
+"I don't want to hold us up, though. I know there's a lot riding on this venture. Just give me a minute to nap and let the quell root to kick in and I'll be ready to go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>The burly nano blinks at you. "You're asking me? You're the one that got the consortium to put up five thousand shins for this expedition - you and your construct friend. If we come back after one day on-site with nothing but a handful of cyphers to show for it, they're going to have our heads. They'll at least want their investment back, and we haven't got it!"
+
+"Maybe you and Iom will be all right, with your vagabond ways, but I've got a wife and kids. I can't just walk away from Stirthal like some people."
+
+He looks down at Arxalin, then away. "I feel bad about it. I really do, but going back isn't an option. He's going to have to wait until we've stripped this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>She coughs, then looks out at you from under her hood. One of her eyes is white with a red dot in the center - a targeting implant. "I know we'll catch flak from the consortium if we go back with nothing, but poor Arxalin is going to die if we don't get out of here and we might be next. What if whatever he's got is catching? I say we get him back home, get ourselves checked, then come back."
+
+Ushrov laughs at her. "Go home and come back? Fool, almost all our costs in this expedition are in transport. That caravan master who's waiting for us at the bridge charges by the kilometer! We'd have to raise our capital all over again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>To the casual eye, from a distance, Iom might pass for human, but his skin and features are too perfect, and his movements too smooth. You have also seen him lift ten times his weight.  He answers you without gesturing or blinking. "I suggest it will not matter if we leave or stay. Glaive Arxalin will die before he receives medical attention in either case. His illness is too far advanced."
+
+His circuits tick for a moment, then he continues. "You have worked hard to make this expedition happen since I brought you that old journal. Is it really your wish to turn back now, Vic? You said this would all go toward your triumphant return to Sagus Cliffs, remember?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>A while later, as you enter a ring of fallen tents among ancient pylons, Iom stops and lowers Arxalin to the ground. "The glaive is dead," he says. "His heart just stopped."
+
+You and the others look at Arxalin. He is covered in a black slime that leaks from cracks in his reptilian skin. Marit chokes and covers her mouth. "That's not what I've got, is it? Humans and varjellens don't get sick from the same things, right?"
+
+"I am not sure it is a disease at all," says Iom, searching Arxalin's things. "Too quick. I--"
+
+He pauses, then tugs a rolled up piece of silver flex from Arxalin's pack. It is covered with tiny metal studs. "If something killed him, it was likely this."
+
+
+{SCRIPT: Scene 2 takes place on the way back to the Forever Bridge. The art should reflect this.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>You wait for something to come out of the dark, but nothing appears. Then, beside you, Arxalin wakes, choking and clawing at his throat, before he falls back, dead.
+
+You call back Marit and Ushrov and they join you and Iom by Arxalin. He is covered in a black slime that leaks from cracks in his reptilian skin. Marit chokes. "That's not what I've got, is it? Humans and varjellens don't get sick from the same things, right?"
+
+"I am not sure it is a disease at all," says Iom, searching Arxalin's things. "Too quick. I--"
+
+He pauses, then tugs a rolled up piece of silver flex from Arxalin's pack. It is covered with tiny metal studs. "If something killed him, it was likely this."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Ask Marit why she planted the Embrace on Arxalin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Ask Ushrov what he wants to do.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Ask Iom what he wants to do.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Right, we're going back to Stirthal. Iom, you're going to have to get rid of the Embrace. I'm sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Right, we're going to continue exploring. Iom, you're going to have to get rid of the Embrace. I'm sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Right, we're going to figure out what to do about Marit before we go any further. Iom, you're going to have to get rid of the Embrace. I'm sorry."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>She looks down, ashamed. Her tan skin is pale and clammy. "It... it didn't seem to bother him when he touched it like it did me, so I figured it was safe to let him hold it."
+
+She coughs and sniffs, then wipes her eyes and continues. "I hid it because I was pretty sure it was the thing Iom had been talking about, and... well, I knew, if he took it, the rest of us wouldn't get any shins for it, so I thought I'd sell it myself, but now I'm..." She sobs again. "I only touched it once! Is it going to kill me for one touch? It's not fair!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"This is turning into a nightmare. It's completely falling apart." He tugs at his beard, wild eyed. "I say we dump poor Arx into the Voil, throw that Embrace thing after him, and keep going. Yes, with Marit too. We can deal with what she did when we get back, but for now she's an asset we can't afford to lose. We've got to get something out of this disaster. We've *got* to!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I have what I came for," he says. "I am content to follow your lead from here on. If you wish to continue, I will accompany you. If you wish to go back to Stirthal, I am ready."
+
+"As for the girl, she is greedy, but I don't think she meant anyone any harm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>{SCRIPT: "Right, we're going to keep exploring. Iom, you can keep the Embrace, but keep it away from us."}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>You push further west and come to a rubble strewn area full of well preserved transport constructs, half-buried in the drit, that look like they might yield valuable parts. Before you can begin opening them up, however, you hear the same shifting sound you all heard earlier, only much closer now. The ground begins to tremble. 
+
+"Everyone back up!" you cry. "Ready your weapons!"
+
+The others have no time to obey. The ground in front of you suddenly erupts from below, and a large, worm-like horror bursts forth, flailing multiple arms and tentacles at all of you. At the same time, all around it, bits of rubble float up and fling themselves at you.
+
+"An Erynth Grask," states Iom. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>You face Marit, who huddles, coughing and sniffing, before you. "Aren't I already being punished?" She asks. "I've got what Arx had, and it's a death sentence."
+
+Before you can reply, you hear the same shifting sound you all heard earlier, only closer now, and approaching rapidly. The ground begins to tremble. 
+
+"Incoming!" you cry. "Ready your weapons!"  
+
+The others have no time to obey. The ground off to one side suddenly erupts, and a large, worm-like horror bursts forth, flailing multiple arms and tentacles at all of you. At the same time, all around it, bits of rubble float up and fling themselves at you.
+
+"An Erynth Grask," states Iom. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Order the others to attack. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Shout for the others to flee. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Ushrov looks up at you and shakes his head. "I've changed my mind. This expedition's cursed. Let's get of here."
+
+Marit nods. "Please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Looking past the corpse of the creature, you see something peeking out from under a pile of rubbish. You cross to it and pick it up. It's a flat brass disk with a winking pink light in the middle - a glue cypher. You hold it up. "Good omen? Reason to continue?"
+
+Ushrov shakes his head. "I've changed my mind. This expedition's cursed. Let's get of here."
+
+Marit nods. "Please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>You turn with the rest and run up the tunnel. The horror scrabbles after you, and nearly catches Marit, who is wheezing and weak.
+
+You and Ushrov grab her and drag her, but as you pass the square of rust red columns, you realize the thing isn't following anymore. 
+
+"We can stop now," says Iom. "It will not follow unless we steal what it is guarding."
+
+"What is it guarding?" asks Ushrov. "Something valuable?"
+
+"Who can say what an Erynth Grath considers valuable?" says Iom. "It could be anything. It could be nothing."
+
+Ushrov turns to you, eyes bright. "You heard him, Vic. Let's go back and see what it's got."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Agree with the others and head for the exit. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Ignore their pleas and make camp. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>You put up a makeshift camp among the ruined machines, then bandage each other as best you can and lie down to sleep. It isn't easy. Marit's coughing and hacking has gotten worse, and you're not feeling very well yourself. 
+
+Then, in the middle of the night, you wake to find yourself shivering and wheezing. Black snot is streaming from your nose, and when you spit, that's black too. Ushrov is trembling beside you. He's in the same straits. 
+
+"Nano spirits preserve us," he moans. "We've got it too."
+
+He turns to Marit and shakes her, but she doesn't wake. She's long dead. Ushrov sits up and looks around. "Iom! Iom, you bastard! Where are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Go to forever bridge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Call for Ushrov and Marit to fight Iom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Steal the Embrace from Iom</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Rallying to your cry, Ushrov fires blasts of green energy from implants in the palms of his hands, while Marit struggles to raise her beamer and aim it in Iom's direction. The construct rolls aside with alarming speed and picks up heavy peices of masonry in both hands. Each is big enough to cave in a person's chest if thrown. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"And is saving our capital more important than saving our lives?" asks Marit. "The consortium is going to lose just as much if we die out here."
+
+She coughs again, then looks at you. "You're the boss, V. I'll do whatever you say, but if you're taking a vote, I vote for home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Ask Iom if he's really giving you his share. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Of course," he says. "I only want the Embrace. I told you that from the beginning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Ushrov grumbles under his breath, but sits down with the rest of as the suffering glaive closes his eyes. A moment later, a faint shifting echoes down the tunnel from the west, as if something was moving in the distance. The party looks toward the sound. Even Arxalin wakes.
+
+"Creature or claim jumper?" he asks. 
+
+Marit and Ushrov excahnge looks, then start west, angling for vantage points. 
+
+"Can't you be quiet?" Ushrov snarls as Marit sniffs and wipes her nose on her sleeve.
+
+"Sorry," she mumbles. "Arxalin being sick is giving me sympathy sniffles."
+
+{SCRIPT: Scene 2 takes place in the same place as Scene 1. The art should reflect this.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>As you say it, a faint shifting echoes down the tunnel from the west, as if something was moving in the distance. The party looks toward the sound. Arxalin swallows. "Monsters," he says. "Fantastic. And I'm going to be the straggler."
+
+"I will carry you, if you like," says Iom. "You will not slow me down."
+
+The varjellen grimaces with embarrassment, then shrugs. "Fine. Just call me dead weight."
+
+As you start forward, Marit sniffs and wipes her nose on her sleeve. 
+
+"Can't you be quiet?" Ushrov snarls.  "We don't know what's out there!"
+
+"Sorry," she mumbles. "Arxalin being sick is giving me sympathy sniffles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>A while later, as you enter a ravine full of shattered synthsteel pods, Iom stops and lowers Arxalin to the ground. "The glaive is dead," he says. "His heart just stopped."
+
+All of you look at Arxalin. He is covered in a black slime that  leaks from cracks in his reptilian skin. Marit chokes and covers her mouth. "That's not what I've got, is it? Humans and varjellens don't get sick from the same things, right?"
+
+"I am not sure it is a disease at all," says Iom, searching Arxalin's things. "Too quick. I--"
+
+He pauses, then tugs a rolled up piece of silver flex from Arxalin's pack. It is covered with tiny metal studs. "If something killed him, it was likely this."
+
+{SCRIPT: Scene 2 takes place further into the tunnel. The art should reflect this.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Right, we continue heading back to Stirthal. Iom, you're going to have to get rid of the Embrace. I'm sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Right, we continue heading back to Stirthal. Iom, you can keep the Embrace, but keep it away from us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Ask Marit what she wants to do.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>She shivers. "That thing is making us sick! We should get rid of it and head back to Stirthal before any of us get any sicker. I... I don't want to die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Ask Iom how important the Embrace is to him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"It means my life," he says, without inflection. "The energy source that powers me is, as far as I know, unique. I have found no other, nor have I found any other constructs made in the way I am made. That means, that when my power runs out, I die, and cannot be recharged. This Embrace, however, powers everything. I can feel it restoring me even now. With it, I might live forever. Without it, I am mortal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>The construct hesitates, circuits ticking, then nods. "Very well, Vic. I'll put it with Arxalin and drop them both into the Voil"
+
+You give him the nod and watch as he tucks the Embrace under Arxalin's belt, then lifts him and carries him to the gash in the side of the tunnel. He leans out into the evening air and lowers his arms, then lets the varjellen go and bows his head respectfully. 
+
+You and the others follow his lead, observing a moment of silence, then Iom pulls his torso back through the gash and turns to you. 
+
+"Ready, Vic," he says.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Ask Iom if *he* means anyone any harm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"You mean with the Embrace?" he asks. "Not at all. It appears to sicken living beings, but so far only those who have touched it. I will keep it to myself. I promise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>The construct nods. "Very well, Vic. I'll just dispose of Arxalin first."
+
+You give him the nod and watch as he lifts the glaive and carries him to the gash in the side of the tunnel. He leans out into the evening air and lowers his arms, then lets the varjellen go and bows his head respectfully. 
+
+You and the others follow his lead, observing a moment of silence, then Iom pulls his torso back through the gash and turns to you. 
+
+"Ready, Vic," he says.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Grab Marit and levitate out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Ushrov roars after you as you and Marit drift though the gash in the side of the tunnel and rise toward the top of the canyon. 
+
+"Why me?" asks Marit, staring back at the tunnel. "I'm not going to make it. And you left Ushrov alive with that..." 
+
+As you reach the top of the Voil it begins to fade to gold mist below you, and you are wrenched back to your own body, Marit's last words ringing in your ears.
+
+"I don't understand anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Marit and Ushrov fire their beamers and esoteries at the beast as you and Iom rush it, but it is twisty and quick and darts past you to clutch at Ushrov with one of its tentacles, which causes him to twitch and dance, while telekinetically hurling rocks at the rest of you. One of them pastes Marit in the face, and she goes down, reeling, unable to defend herself against the others that are arcing her way. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Use your personal levitation unit and attack the monster from the air. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Hack at the tentacle and try to free Ushrov. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Shield Marit from the rocks. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>You slap the pressure plate at your waist then jolt up into the air and drift over the creature's head. Iom is already tearing its arms off with terrifying strength, but you finish it off by stabbing straight down at its lunging head and impaling its brain. 
+
+As it dies, the floating rocks drop out of the air and its tentacles relax, releasing Ushrov, who collapses in a shaking heap. You land again and look around. Iom's artificial skin is shredded, and Marit is a bloody mess from the rocks that hit her, but she is alive and conscious.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>You sever the tentacle with a single slash and Ushrov recovers enough to stagger the creature with a blast while Iom finishes it off by crushing its heavy skull in his synthsteel hands. As it dies, it's remaining claws tear his artificial skin to shreds. Iom doesn't feel the damage. 
+
+The battle over, you look around. Marit is a bloody mess from the rocks that hit her. She's barely conscious.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>You get between Marit and the rocks and bat them out of the air with your double bladed staff, allowing her to draw a bead on it and put a white hot beam through it as Iom tears its limbs off with terrifying strength. 
+
+As it dies, its tentacles relax, releasing Ushrov, who collapses in a shaking heap. He's barely conscious. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Iom remains still for so long you think he might be broken. Finally he shakes his head. "Forgive me, Vic. I am too afraid. I can't let go of it."
+
+He takes a step back. "Do not try to stop me. I don't want to hurt you anymore than I already have."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>The cave and the Voil fade to gold mist around you as Iom lifts Ushrov and Marit in his arms, and you power up your personal levitation unit. As you start to make your ascent, you feel yourself being wrenched back to your own body. 
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Charge Iom, drawing his attention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Protect Marit and let her get a shot off.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Protect Ushrov and allow him to fire off another blast. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>You leap for Iom, slashing with your double bladed staff and screaming at the top of your lungs.
+
+He reacts as you hoped, throwing both masonry chunks at you and allowing Marit and Ushrov to catch him in a cross fire. Unfortunately, you aren't quite quick enough to dodge both misslies, and the second explodes your ribcage and crushes your heart. 
+
+The cave and the Voil fade to gold mist around you as Ushrov's blasts fry Iom's circuits and Marit's beamer burns a hole through his synthsteel head. As you die, you are wrenched back to your own body, the cheers of the others ringing in your ears. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>It shivers your arms to do it, but you smash aside the chunk of masonry that Iom throws at Marit, and she gets her shot off, putting a white hot beam through his synthsteel face. Ushrov was not so lucky. Iom's second missile crushed his head to paste. 
+
+As Iom twitches and tries to pick up another stone, you rush in and chop his head from his torso. It blinks up at you, the lights in its eyes dying, as the cave and the Voil fade to gold mist around you. As you are wrenched back to your own body, Iom's last words ring in your ears. 
+
+"I only wanted... to live."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>It shivers your arms to do it, but you smash aside the chunk of masonry that Iom throws at Ushrov, and he shoots another green blast, freezing Iom in place and making his circuits sizzle. Marit was not so lucky. Iom's second missile crushed her head to paste. 
+
+As Iom twitches and fries, you rush in and chop his head from his torso. It blinks up at you, the lights in its eyes dying, as the cave and the Voil fade to gold mist around you. As you are wrenched back to your own body, Iom's last words ring in your ears. 
+
+"I only wanted... to live."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>The construct hesitates, circuits ticking, then nods. "Very well, Vic. I'll put it with Arxalin and drop them both into the Voil"
+
+You give him the nod and watch as he tucks the Embrace under Arxalin's belt, then lifts him and carries him to the gash in the side of the tunnel. He leans out into the evening air and lowers his arms, then lets the varjellen go and bows his head respectfully. 
+
+You and the others follow his lead, observing a moment of silence, then Iom pulls his torso back through the gash and turns to you. 
+
+"Ready, Vic," he says.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>The construct hesitates, circuits ticking, then nods. "Very well, Vic. I'll put it with Arxalin and drop them both into the Voil"
+
+You give him the nod and watch as he tucks the Embrace under Arxalin's belt, then lifts him and carries him to the gash in the side of the tunnel. He leans out into the evening air and lowers his arms, then lets the varjellen go and bows his head respectfully. 
+
+You and the others follow his lead, observing a moment of silence, then Iom pulls his torso back through the gash and turns to you. 
+
+"Ready, Vic," he says.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>The construct hesitates, circuits ticking, then nods. "Very well, Vic. I'll put it with Arxalin and drop them both into the Voil"
+
+You give him the nod and watch as he tucks the Embrace under Arxalin's belt, then lifts him and carries him to the gash in the side of the tunnel. He leans out into the evening air and lowers his arms, then lets the varjellen go and bows his head respectfully. 
+
+You and the others follow his lead, observing a moment of silence, then Iom pulls his torso back through the gash and turns to you. 
+
+"Ready, Vic," he says.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>After a long trek, you reach the place where you entered the tube, a span called the Forever Bridge that stretches across the voil to where the caravan master waits for your return.
+
+Except for Iom, you're all in bad shape. Marit is hacking her lungs up, and you and Ushrov are starting to sniffle - and to make matters worse, the Forever Bridge is toying with you. Every time you start across it, you find yourself walking back toward the cave. You can't reach the other side. 
+
+Finally, after a third attempt, Marit collapses, barely consious, and Ushrov turns on Iom. "You've still got the Embrace, don't you, you bastard? You're killing us all!"
+
+Iom nods. "I have a right to life too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Let Iom go. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Thank you, Vic." He backs to the gash in the tunnel wall and climbs out, then up, out of sight, toward to top of the canyon wall. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>The cave and the Voil fade to gold mist around you as Ushrov glares at you. "Well you saved our lives, I suppose, but what's going to happen to Stirthal, or wherever he ends up? He's a walking plague." 
+
+You are wrenched back to your own body, the nano's last words ringing in your ears. 
+
+"A lot of folk are going to die for that little act of 'kindness.'" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Rallying to your cry, Ushrov fires blasts of green energy from implants in the palms of his hands, while Marit struggles to raise her beamer and aim it in Iom's direction. The construct rolls aside with alarming speed and picks up heavy peices of masonry in both hands. Each is big enough to cave in a person's chest if thrown. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Fortunately, you remember the cypher you found after defeating the Erynth Grask, and you lob it at Iom. It explodes on contact, shooting out strands of sticky pink goo all over him. He can't throw or move. 
+
+With cries of relief, Ushrov and Marit catch him in a cross fire, Ushrov frying him with another green blast, and Marit burning a hole through his synthsteel head with her beamer. As he twitches, you deliver the coup de grace, chopping off his head. It blinks up at you, the lights in its eyes dying, as the cave and the Voil fade to gold mist around you. As you are wrenched back to your own body, Iom's last words ring in your ears. 
+
+"I only wanted... to live."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Right. Let's go back and kill it. We know what we're facing now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Marit isn't looking so good. Let's make camp and rest until morning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Let's get out of here while we're all alive. Head for the exit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>You return to the place where the Erynth Grask attacked you, and once again it rises from the ground and attacks with claw and tentacle and telekinesis. 
+
+Marit and Ushrov fire their beamers and esoteries at the beast as you and Iom rush it, but it is twisty and quick and darts past you to clutch at Ushrov with one of its tentacles, which causes him to twitch and dance, while telekinetically hurling rocks at the rest of you. One of them pastes Marit in the face, and she goes down, reeling, unable to defend herself against the others that are arcing her way. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>The construct looks into the tent. "I was patrolling. What's the--?" He stops as he sees you. "Oh."
+
+"You've still got the Embrace, don't you, you murderer?" rasps Ushrov. "You've killed us all!"
+
+Iom stares at you both for a long moment, then speaks. "I did not think it would kill you. Not without you touching it."
+
+As your organs shut down and the cave and the Voil fade to gold mist around you, Iom goes to his pack and pulls out the Embrace. He looks at it for a long moment, then crosses to the gash in the tunnel wall and throws it into the Voil.
+
+His last words echo after you as you are wrenched back to your own body. "I'm sorry, Vic. I was afraid to die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>The construct looks into the tent. "I was patrolling. What's the--?" He stops as he sees you. "Oh."
+
+"The Embrace is still killing us," rasps Ushrov. "You have to get rid of it."
+
+Iom stares at you both for a long moment, then speaks. "I am afraid it's too late for you. But..."
+
+As your organs shut down and the cave and the Voil fade to gold mist around you, Iom goes to his pack and pulls out the Embrace. He looks at it for a long moment, then crosses to the gash in the tunnel wall and throws it into the Voil.
+
+His last words echo after you as you are wrenched back to your own body. "I'm sorry, Vic. This won't happen to anyone else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Talk to Marit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Talk to Ushrov.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Talk to Iom. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"W-what is it?" asks Marit. 
+
+It takes a moment for Iom to answer. He seems preoccupied. "Some kind of... battery? Charging device? It is emitting a broad and powerful specturm of energy, some of which could be dangerous to organics, but the real question is, who planted it on Arxalin? He said he threw it away."
+
+Everybody looks at everybody else, but no one speaks up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Did you do this, Iom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Was it you, Ushrov?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Are you responsible for this, Marit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Marit sobs. "I didn't know! I picked it up when he dropped it and it recharged all my cyphers in a blip. Big money back home for a thing like that, but it made me queasy to touch it, so I slipped it into Arx's pack. I didn't think it was going to kill him!"
+
+As she bursts into tears, you hear the same shifting and rumbling you heard earlier, only closer. The rest hear it too. 
+
+"Whatever that is," says Ushrov. "It's coming this way."
+
+Iom looks at you. "What are your orders, Vic?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Talk to Marit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>She sobs and sniffs as you turn to her. "I'm sorry, V."
+
+GIVE MARIT AND VICARIAN A PAST. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Why did you plant the artifact on Arxalin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>She looks down, ashamed. Her tan skin is pale and clammy. "It... it didn't seem to bother him when he touched it like it did me, so I figured it was safe to let him hold it."
+
+She coughs and sniffs, then wipes her eyes and continues. "I hid it because... well, you know I'm kind of desperate for shins right now, and it'll take forever when we get back for Ushrov to sell off our haul and pay back the investors. So I thought I'd sneak this one piece to sell for myself until we get our shares, but now I'm..." She sobs again. "I only touched it once! Is it going to kill me for one touch? It's not fair!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"What do you think we should do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>She shivers. "That thing is making us sick! We should get rid of it and head back to Stirthal before any of us get any sicker. I... I don't want to die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"That's all for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"All right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Talk to Ushrov.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"What should we do about Marit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>He shoots a hard glare at the shivering jack. "If we were back home I'd break her damned fool neck, but for now she's an asset we can't afford to lose. I say we keep going and wait to do anything about her until after we get back. We have to get something out of this disaster! We *have* to!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"What should be do with the charging device?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Dump it into the Voil, and poor Arxalin with it. I know that's cold-hearted, but he might make us sick. We can't risk it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"That's all for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Talk to Iom. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>The construct waits patiently for you to speak.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"What do you want to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"I will follow wherever you want to go, Vic. Further in or back to Stirthal. It doesn't matter  to me. All I want is to keep the device. It is my salvation." 
+
+Iom looks at you. "And yes, I know. It seems to have killed Arxalin, and maybe sickened Marit, but they touched it. Let me keep it, and I will keep it to myself. I promise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"That's all for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Right, we're going back to Stirthal. Iom, you're going to have to get rid of the Embrace. I'm sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>The construct hesitates, circuits ticking, then nods. "Very well, Vic. I'll put it with Arxalin and drop them both into the Voil"
+
+You give him the nod and watch as he tucks the Embrace under Arxalin's belt, then lifts him and carries him to the gash in the side of the tunnel. He leans out into the evening air and lowers his arms, then lets the varjellen go and bows his head respectfully. 
+
+You and the others follow his lead, observing a moment of silence, then Iom pulls his torso back through the gash and turns to you. 
+
+"Ready, Vic," he says.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>After a long trek, you reach the place where you entered the tube, a span called the Forever Bridge that stretches across the voil to where the caravan master waits for your return.
+
+Except for Iom, you're all in bad shape. Marit is hacking her lungs up, and you and Ushrov are starting to sniffle - and to make matters worse, the Forever Bridge is toying with you. Every time you start across it, you find yourself walking back toward the cave. You can't reach the other side. 
+
+Finally, after a third attempt, Marit collapses, barely consious, and Ushrov turns on Iom. "You've still got the Embrace, don't you, you bastard? You're killing us all!"
+
+Iom nods. "I have a right to life too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"What kind of life will it be, Iom? Humans are your only friends. Do you want to kill them everywhere you go? It will be a very lonely immortality."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Iom remains still for so long you think he might be broken. Finally he steps to the gash in the side of the tunnel and hurls the Embrace out into the Voil. 
+
+Then he turns to you. "Forgive me, Vic. In my fear, I forgot why being alive is important. I am ready to help you save our friends."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>The cave and the Voil fade to gold mist around you as Iom lifts Ushrov and Marit in his arms, and you power up your personal levitation unit. As you start to make your ascent, you feel yourself being wrenched back to your own body. 
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Iom remains still for so long you think he might be broken. Finally he shakes his head. "Forgive me, Vic. I am too afraid. I can't let go of it."
+
+He takes a step back. "Do not try to stop me. I don't want to hurt you anymore than I already have."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Let Iom go. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Thank you, Vic." He backs to the gash in the tunnel wall and climbs out, then up, out of sight, toward to top of the canyon wall. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>The cave and the Voil fade to gold mist around you as Ushrov glares at you. "Well you saved our lives, I suppose, but what's going to happen to Stirthal, or wherever he ends up? He's a walking plague." 
+
+You are wrenched back to your own body, the nano's last words ringing in your ears. 
+
+"A lot of folk are going to die for that little act of 'kindness.'" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Call for Ushrov and Marit to fight Iom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Rallying to your cry, Ushrov fires blasts of green energy from implants in the palms of his hands, while Marit struggles to raise her beamer and aim it in Iom's direction. The construct rolls aside with alarming speed and picks up heavy peices of masonry in both hands. Each is big enough to cave in a person's chest if thrown. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Charge Iom, drawing his attention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>You leap for Iom, slashing with your double bladed staff and screaming at the top of your lungs.
+
+He reacts as you hoped, throwing both masonry chunks at you and allowing Marit and Ushrov to catch him in a cross fire. Unfortunately, you aren't quite quick enough to dodge both misslies, and the second explodes your ribcage and crushes your heart. 
+
+The cave and the Voil fade to gold mist around you as Ushrov's blasts fry Iom's circuits and Marit's beamer burns a hole through his synthsteel head. As you die, you are wrenched back to your own body, the cheers of the others ringing in your ears. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Protect Marit and let her get a shot off.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>It shivers your arms to do it, but you smash aside the chunk of masonry that Iom throws at Marit, and she gets her shot off, putting a white hot beam through his synthsteel face. Ushrov was not so lucky. Iom's second missile crushed his head to paste. 
+
+As Iom twitches and tries to pick up another stone, you rush in and chop his head from his torso. It blinks up at you, the lights in its eyes dying, as the cave and the Voil fade to gold mist around you. As you are wrenched back to your own body, Iom's last words ring in your ears. 
+
+"I only wanted... to live."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Protect Ushrov and allow him to fire off another blast. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>It shivers your arms to do it, but you smash aside the chunk of masonry that Iom throws at Ushrov, and he shoots another green blast, freezing Iom in place and making his circuits sizzle. Marit was not so lucky. Iom's second missile crushed her head to paste. 
+
+As Iom twitches and fries, you rush in and chop his head from his torso. It blinks up at you, the lights in its eyes dying, as the cave and the Voil fade to gold mist around you. As you are wrenched back to your own body, Iom's last words ring in your ears. 
+
+"I only wanted... to live."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Rallying to your cry, Ushrov fires blasts of green energy from implants in the palms of his hands, while Marit struggles to raise her beamer and aim it in Iom's direction. The construct rolls aside with alarming speed and picks up heavy peices of masonry in both hands. Each is big enough to cave in a person's chest if thrown. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Fortunately, you remember the cypher you found after defeating the Erynth Grask, and you lob it at Iom. It explodes on contact, shooting out strands of sticky pink goo all over him. He can't throw or move. 
+
+With cries of relief, Ushrov and Marit catch him in a cross fire, Ushrov frying him with another green blast, and Marit burning a hole through his synthsteel head with her beamer. As he twitches, you deliver the coup de grace, chopping off his head. It blinks up at you, the lights in its eyes dying, as the cave and the Voil fade to gold mist around you. As you are wrenched back to your own body, Iom's last words ring in your ears. 
+
+"I only wanted... to live."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Grab Ushrov and levitate out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Marit wails and reaches after you as you and Ushrov drift though the gash in the side of the tunnel and rise toward the top of the canyon. 
+
+"I'm grateful for the rescue," says Ushrov, scowling. "But what exactly did that accomplish? Iom will climb out of there in a heartbeat, and then what happens to Stirthal, or wherever he ends up? He's a walking plague." 
+
+As you reach the top of the Voil it begins to fade to gold mist below you, and you are wrenched back to your own body, Ushrov's last words ringing in your ears.
+
+"A lot of folk are going to die because of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Grab Marit and levitate out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Ushrov roars after you as you and Marit drift though the gash in the side of the tunnel and rise toward the top of the canyon. 
+
+"Why me?" asks Marit, staring back at the tunnel. "I'm not going to make it. And you left Ushrov alive with that..." 
+
+As you reach the top of the Voil it begins to fade to gold mist below you, and you are wrenched back to your own body, Marit's last words ringing in your ears.
+
+"I don't understand anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Levitate out by yourself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Ushrov roars and Marit stares, uncomprehending, as you drift though the gash in the side of the tunnel and rise toward the top of the canyon. 
+
+"What are you doing!" shouts Ushrov up at you. "This doesn't fix anything!"
+
+As you reach the top of the Voil it begins to fade to gold mist below you, and you are wrenched back to your own body, Ushrov's last words ringing in your ears.
+
+"A lot of folk are going to die because of this, you coward!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>After a long trek, you reach the place where you entered the tube, a span called the Forever Bridge that stretches across the voil to where the caravan master waits for your return.
+
+Except for Iom, you're all in bad shape. Marit is hacking her lungs up, and you and Ushrov are starting to sniffle - and to make matters worse, the Forever Bridge is toying with you. Every time you start across it, you find yourself walking back toward the cave. You can't reach the other side. 
+
+Finally, after a third attempt, Marit collapses, barely consious, and Ushrov turns on Iom. "The Embrace is still killing us. You have to get rid of it."
+
+Iom shakes his head. "I won't. I have a right to life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>You push further west and come to a rubble strewn area full of well preserved transport constructs, half-buried in the drit, that look like they might yield valuable parts. Before you can begin opening them up, however, you hear the same shifting sound you all heard earlier, only much closer now. The ground begins to tremble. 
+
+"Everyone back up!" you cry. "Ready your weapons!"
+
+The others have no time to obey. The ground in front of you suddenly erupts from below, and a large, worm-like horror bursts forth, flailing multiple arms and tentacles at all of you. At the same time, all around it, bits of rubble float up and fling themselves at you.
+
+"An Erynth Grask," states Iom. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Order the others to attack. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Marit and Ushrov fire their beamers and esoteries at the beast as you and Iom rush it, but it is twisty and quick and darts past you to clutch at Ushrov with one of its tentacles, which causes him to twitch and dance, while telekinetically hurling rocks at the rest of you. One of them pastes Marit in the face, and she goes down, reeling, unable to defend herself against the others that are arcing her way. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Use your personal levitation unit and attack the monster from the air. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>You slap the pressure plate at your waist then jolt up into the air and drift over the creature's head. Iom is already tearing its arms off with terrifying strength, but you finish it off by stabbing straight down at its lunging head and impaling its brain. 
+
+As it dies, the floating rocks drop out of the air and its tentacles relax, releasing Ushrov, who collapses in a shaking heap. You land again and look around. Iom's artificial skin is shredded, and Marit is a bloody mess from the rocks that hit her, but she is alive and conscious.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Looking past the corpse of the creature, you see something peeking out from under a pile of rubbish. You cross to it and pick it up. It's a flat brass disk with a winking pink light in the middle - a glue cypher. You hold it up. "Good omen? Reason to continue?"
+
+Ushrov shakes his head. "I've changed my mind. This expedition's cursed. Let's get of here."
+
+Marit nods. "Please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Agree with the others and head for the exit. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>After a long trek, you reach the place where you entered the tube, a span called the Forever Bridge that stretches across the voil to where the caravan master waits for your return.
+
+Except for Iom, you're all in bad shape. Marit is hacking her lungs up, and you and Ushrov are starting to sniffle - and to make matters worse, the Forever Bridge is toying with you. Every time you start across it, you find yourself walking back toward the cave. You can't reach the other side. 
+
+Finally, after a third attempt, Marit collapses, barely consious, and Ushrov turns on Iom. "You've still got the Embrace, don't you, you bastard? You're killing us all!"
+
+Iom nods. "I have a right to life too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Ignore their pleas and make camp. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>You put up a makeshift camp among the ruined machines, then bandage each other as best you can and lie down to sleep. It isn't easy. Marit's coughing and hacking has gotten worse, and you're not feeling very well yourself. 
+
+Then, in the middle of the night, you wake to find yourself shivering and wheezing. Black snot is streaming from your nose, and when you spit, that's black too. Ushrov is trembling beside you. He's in the same straits. 
+
+"Nano spirits preserve us," he moans. "We've got it too."
+
+He turns to Marit and shakes her, but she doesn't wake. She's long dead. Ushrov sits up and looks around. "Iom! Iom, you bastard! Where are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>The construct looks into the tent. "I was patrolling. What's the--?" He stops as he sees you. "Oh."
+
+"You've still got the Embrace, don't you, you murderer?" rasps Ushrov. "You've killed us all!"
+
+Iom stares at you both for a long moment, then speaks. "I did not think it would kill you. Not without you touching it."
+
+As your organs shut down and the cave and the Voil fade to gold mist around you, Iom goes to his pack and pulls out the Embrace. He looks at it for a long moment, then crosses to the gash in the tunnel wall and throws it into the Voil.
+
+His last words echo after you as you are wrenched back to your own body. "I'm sorry, Vic. I was afraid to die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>The construct looks into the tent. "I was patrolling. What's the--?" He stops as he sees you. "Oh."
+
+"The Embrace is still killing us," rasps Ushrov. "You have to get rid of it."
+
+Iom stares at you both for a long moment, then speaks. "I am afraid it's too late for you. But..."
+
+As your organs shut down and the cave and the Voil fade to gold mist around you, Iom goes to his pack and pulls out the Embrace. He looks at it for a long moment, then crosses to the gash in the tunnel wall and throws it into the Voil.
+
+His last words echo after you as you are wrenched back to your own body. "I'm sorry, Vic. This won't happen to anyone else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Ushrov looks up at you and shakes his head. "I've changed my mind. This expedition's cursed. Let's get of here."
+
+Marit nods. "Please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Hack at the tentacle and try to free Ushrov. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>You sever the tentacle with a single slash and Ushrov recovers enough to stagger the creature with a blast while Iom finishes it off by crushing its heavy skull in his synthsteel hands. As it dies, it's remaining claws tear his artificial skin to shreds. Iom doesn't feel the damage. 
+
+The battle over, you look around. Marit is a bloody mess from the rocks that hit her. She's barely conscious.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Shield Marit from the rocks. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>You get between Marit and the rocks and bat them out of the air with your double bladed staff, allowing her to draw a bead on it and put a white hot beam through it as Iom tears its limbs off with terrifying strength. 
+
+As it dies, its tentacles relax, releasing Ushrov, who collapses in a shaking heap. He's barely conscious. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Shout for the others to flee. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>You turn with the rest and run up the tunnel. The horror scrabbles after you, and nearly catches Marit, who is wheezing and weak.
+
+You and Ushrov grab her and drag her, but as you pass the square of rust red columns, you realize the thing isn't following anymore. 
+
+"We can stop now," says Iom. "It will not follow unless we steal what it is guarding."
+
+"What is it guarding?" asks Ushrov. "Something valuable?"
+
+"Who can say what an Erynth Grath considers valuable?" says Iom. "It could be anything. It could be nothing."
+
+Ushrov turns to you, eyes bright. "You heard him, Vic. Let's go back and see what it's got."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Right. Let's go back and kill it. We know what we're facing now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>You return to the place where the Erynth Grask attacked you, and once again it rises from the ground and attacks with claw and tentacle and telekinesis. 
+
+Marit and Ushrov fire their beamers and esoteries at the beast as you and Iom rush it, but it is twisty and quick and darts past you to clutch at Ushrov with one of its tentacles, which causes him to twitch and dance, while telekinetically hurling rocks at the rest of you. One of them pastes Marit in the face, and she goes down, reeling, unable to defend herself against the others that are arcing her way. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Marit isn't looking so good. Let's make camp and rest until morning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Let's get out of here while we're all alive. Head for the exit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>You face Marit, who huddles, coughing and sniffing, before you. "Aren't I already being punished?" She asks. "I've got what Arx had, and it's a death sentence."
+
+Before you can reply, you hear the same shifting sound you all heard earlier, only closer now, and approaching rapidly. The ground begins to tremble. 
+
+"Incoming!" you cry. "Ready your weapons!"  
+
+The others have no time to obey. The ground off to one side suddenly erupts, and a large, worm-like horror bursts forth, flailing multiple arms and tentacles at all of you. At the same time, all around it, bits of rubble float up and fling themselves at you.
+
+"An Erynth Grask," states Iom. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Right, we're going back to Stirthal. Iom, you can keep the Embrace, but keep it away from us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>The construct nods. "Very well, Vic. I'll just dispose of Arxalin first."
+
+You give him the nod and watch as he lifts the glaive and carries him to the gash in the side of the tunnel. He leans out into the evening air and lowers his arms, then lets the varjellen go and bows his head respectfully. 
+
+You and the others follow his lead, observing a moment of silence, then Iom pulls his torso back through the gash and turns to you. 
+
+"Ready, Vic," he says.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Right, we continue heading back to Stirthal. Iom, you're going to have to get rid of the Embrace. I'm sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>The construct hesitates, circuits ticking, then nods. "Very well, Vic. I'll put it with Arxalin and drop them both into the Voil"
+
+You give him the nod and watch as he tucks the Embrace under Arxalin's belt, then lifts him and carries him to the gash in the side of the tunnel. He leans out into the evening air and lowers his arms, then lets the varjellen go and bows his head respectfully. 
+
+You and the others follow his lead, observing a moment of silence, then Iom pulls his torso back through the gash and turns to you. 
+
+"Ready, Vic," he says.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Right, we continue heading back to Stirthal. Iom, you can keep the Embrace, but keep it away from us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Right, we're going to continue exploring. Iom, you're going to have to get rid of the Embrace. I'm sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>The construct hesitates, circuits ticking, then nods. "Very well, Vic. I'll put it with Arxalin and drop them both into the Voil"
+
+You give him the nod and watch as he tucks the Embrace under Arxalin's belt, then lifts him and carries him to the gash in the side of the tunnel. He leans out into the evening air and lowers his arms, then lets the varjellen go and bows his head respectfully. 
+
+You and the others follow his lead, observing a moment of silence, then Iom pulls his torso back through the gash and turns to you. 
+
+"Ready, Vic," he says.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Right, we're going to continue exploring. Iom, you can keep the Embrace, but keep it away from us."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Right, we're going to figure out what to do about Marit before we go any further. Iom, you're going to have to get rid of the Embrace. I'm sorry."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>The construct hesitates, circuits ticking, then nods. "Very well, Vic. I'll put it with Arxalin and drop them both into the Voil"
+
+You give him the nod and watch as he tucks the Embrace under Arxalin's belt, then lifts him and carries him to the gash in the side of the tunnel. He leans out into the evening air and lowers his arms, then lets the varjellen go and bows his head respectfully. 
+
+You and the others follow his lead, observing a moment of silence, then Iom pulls his torso back through the gash and turns to you. 
+
+"Ready, Vic," he says.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Right, we're going to figure out what to do about Marit before we go any further. Iom, you can keep the Embrace, but keep it away from us."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"I did not," he says. "Why would I have revealed it just now if I had hid it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>He shakes his head. "You know me, Vicarian. If I'd found something worth while I'd have waved it around like a flag. Subtle is one thing I'm not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Make a decision. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>The others wait for you to speak. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Make a decision. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>The others wait for you to speak. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"W-what is it?" asks Marit. 
+
+It takes a moment for Iom to answer. He seems preoccupied. "Some kind of... battery? It is emitting a broad and powerful specturm of energy, some of which could be dangerous to organics, but the real question is, who planted it on him? He said he threw it away."
+
+Everybody looks at everybody else, but no one speaks up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"W-what is it?" asks Marit. 
+
+It takes a moment for Iom to answer. He seems preoccupied. "Some kind of... battery? It is emitting a broad and powerful specturm of energy, some of which could be dangerous to organics, but the real question is, who planted it on him? He said he threw it away."
+
+Everybody looks at everybody else, but no one speaks up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Tell me more about this artifact."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Iom looks at the flex. He doesn't seem to be able to tear his eyes from it. "Vic, I decided to help you in your scavenging all those years ago because I hoped, if we searched enough ruins, that I would find a power source compatable with my construction. We never have, and I feared that I was a one-off, and that, when my battery finally ran down, I would die, never to be recharged. This artifact, however, powers everything. I can feel it restoring me even now. With it, I might live forever. Without it, I am mortal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>A thick-bearded nano shouts at you while others stare on. "Come on, Vicarian! We can't afford to be nice. If we go back empty-handed the Harrows is gone!"
+
+You find yourself in a tube-like cave, several stories high and many kilometers long. It looks like it was chewed from the solid rock by some colossal worm. A hollow square of rust-red columns rises to the ceiling around you. Further ruins lie both east and west. To one side, a long gash in the north wall of the tube opens to daylight and a vast canyon. 
+
+Faint memories tell you the tube-cave is a numenera motherlode - and your party is here to grab as much as they can get.
+
+{ART: Illustration MereGS1_01_VicariansParty}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>The body you wear belongs to a woman, kitted out with sturdy armor, a bladed staff, and a geometric tracery of filaments all over your body that you somehow know gives you the uncanny ability to control your local gravity.
+
+You know, too, the names of those beside you. The bearded nano is Ushrov. The others are Marit, a young markswoman; Iom, a self-aware construct; and Arxalin, a varjellen glaive whose reptilian features always seem to be smiling - even now, when he's on the floor, clutching his guts, with black fluids leaking from his nose and mouth. 
+
+"I'm not asking to go back," Arxalin hisses. "Just let me close my eyes and rest a minute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>Look through the break in the cave wall. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>Looking out through the ragged gash, you see the canyon dropping straight down below you, so deep the afternoon sun doesn't reach the bottom, and so wide you can barely see the other side through the haze. This, you know, is the Voil Chasm, a great gash in the Malevich wilds that sane travelers tend to avoid. 
+
+Pulling your head back in and looking up and down the long cave, you see that it rises slightly to the east, where you entered it. It descends to the west, where you have yet to explore.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"How did you get sick, Arxalin?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>The varjellen moans. "I don't know. Could have been that thing Ushrov and I found back in the forge room. Shiny bit of flex that lit up half my equipment. But when I touched it, it made me queasy, so I got rid of it. Maybe one touch was enough. Now I've got a fever like a furnace, and I feel like I could drink the Sadara River dry."
+
+"I don't want to hold us up, though. I know there's a lot riding on this venture. Just give me a minute to nap and let the quell root kick in and I'll be ready to go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Aren't you exaggerating a little about the fate of the Harrows, Ushrov?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>The burly nano glares at you. "This is what we get for hiring a mercenary. The neighborhood scrounged together the last shins it had for this expedition because you promised we'd bring back enough quality artifacts to purchase the land under the Harrows for ourselves and stop Duke Rask from turning it into a granary. If we go back after one day on-site with only a handful of cyphers to show for it, four thousand people are going to be turned out of their homes. We are their last chance, Vicarian. Don't pretend you don't know it."
+
+He looks down at Arxalin, then away. "I feel bad about Arx, I really do, but going back isn't an option. He'll have to wait until we've stripped this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"What do you want to do, Marit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>She coughs, then looks out from under her hood. One eye is white with a red dot - a targeting implant, the other eye is blue - exactly like Bairn's, your dead husband. 
+
+It all comes back. Marit is Bairn's daughter, who ran to the streets when you moved in, and who you've been trying to tame since he died. A month ago you finally convinced her that joining your salvage company was a safer life than cutting purses. She's still as skittish as a rubar.
+
+"I know we're letting down a lot of people if we go back with nothing," she says. "But the varjellen is gonna die if we don't get him help, and we might be next. What if he's contagious? Let's get him home, get checked, then come back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>Ushrov laughs at her. "Go home and come back? Girl, almost all our costs in this expedition are in transport. That caravan master who's waiting up at the bridge charges by the kilometer! We'd have to raise the money all over again, and the people of Harrows don't have it! You and your mother have already taken all they had!"
+
+"And what happens if we don't come back at all?" asks Marit. "There's nothing you can do to stop Rask if you're dead, is there?"
+
+She coughs again, then looks at you. "You're the boss, Mama V, but if you're taking a vote, I vote for home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"What's your opinion on Arxalin, Iom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>To the casual eye, from a distance, Iom might pass for human, but his skin and features are too perfect, and his movements too smooth. You have also seen him lift ten times his weight.  He answers you without gesturing or blinking. "I suggest it will not matter if we leave or stay. Glaive Arxalin will die before he receives medical attention in either case. His illness is too far advanced."
+
+His circuits tick for a moment, then he continues. "I will of course do as you wish, Vic, but do you really want to turn back now? You said your share of this venture would finally allow you to return to Sagus Cliffs, remember?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>Make a decision. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>The others look to you waiting for you to speak. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"We'll leave Arxalin and keep exploring. Saving the Harrows is more important."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>As you say it, a faint shifting echoes down the tunnel from the west, as if something was moving in the distance. The party looks toward the sound. Arxalin swallows. "If it's all the same to you," he says. "I'd rather not sit here alone."
+
+"I will carry you, if you like," says Iom. "You will not slow me down."
+
+The varjellen grimaces with embarrassment, then shrugs. "Fine. Just call me dead weight."
+
+As you start forward, Marit sniffs and wipes her nose on her sleeve. 
+
+"Can't you be quiet?" Ushrov snarls. "We don't know what's out there!"
+
+"Sorry," she mumbles. "Arxalin being sick is giving me sympathy sniffles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>A while later, as you enter a ravine full of shattered synthsteel pods, Iom stops and lowers Arxalin to the ground. "The glaive is dead," he says. "His heart has stopped."
+
+All of you look at Arxalin. He is covered in a black slime that  leaks from cracks in his reptilian skin. Marit chokes and covers her mouth. "That's not what I've got, is it? Humans and varjellens don't get sick from the same things, right?"
+
+"I am not sure it is a disease at all," says Iom, searching Arxalin's things. "Too quick. I-"
+
+He pauses, then tugs a rolled up piece of silver flex from Arxalin's pack. It is covered with tiny metal studs. "If something killed him, it was likely this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"W-what is it?" asks Marit. 
+
+It takes a moment for Iom to answer. He seems preoccupied. "Some kind of... battery? Charging device? It is emitting a broad and powerful spectrum of energy, some of which could be dangerous to organics. The real question, however, is why did Arxalin have it? He said he threw it away."
+
+Everybody looks at everybody else, but no one speaks up.
+
+{ART: Vicarian Party B}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Some kind of charging device? Sounds like something *you'd* be interested in keeping, Iom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"It does," he admits. "But why would I have revealed it just now if I had hid it? Why would I have not just kept it on my own person?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Weren't you with Arx when he found it, Ushrov? You might have slipped it into his pack when he wasn't looking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"I was the one who told him to get rid of it!" He blinks at you. "Do you seriously think I would do anything to jeopardize this mission? Everything I love is riding on this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Do you know anything about this, Marit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>As Ushrov makes to reply, you hear the same ominous shifting and rumbling you heard earlier, only closer. The rest hear it too. 
+
+"It's coming this way," says Marit. "Let's go."
+
+"This is exactly the kind of thing Arxalin was supposed to take care of," grunts Ushrov. "If we all die, as far as I'm concerned, it's Marit who murdered us!"
+
+Iom looks at you. "What are your orders, Vic?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>Talk to Marit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>She sobs and sniffs as you turn to her. "I'm sorry, Mama V. I... I messed up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Why did you plant the artifact on Arxalin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>She looks down, ashamed. Her brown skin is pale and clammy. "It... it didn't seem to bother Arx when he touched it like it did me, so I figured it was safe to let him hold it."
+
+She coughs and sniffs, then wipes her eyes and continues. "I hid it because... well, I guess I'm just not used to sharing. Not yet. So I thought I'd sneak one good piece to sell for myself , you know, but now I'm sick and..." She sobs again. "I only touched it once! Is it going to kill me for one touch? It's not fair!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"What do you think we should do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>She shivers. "That thing is making us sick! We should get rid of it and head back to Stirthal before any of us get any sicker. I... I don't want to die. You promised me scavenging would be safer than working the streets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"This is what you get for not following my rules. Do what I say and you'll be safe." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"All right, all right. I said I was sorry."
+
+She turns away. The others watch, awaiting your orders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>Talk to Ushrov.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>He folds his arms. "What?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Are we going to fight over my daughter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>He shoots Marit a hard glare. "If she *wasn't* your daughter I would have already broken her damned neck. On the other hand, I guess now that she's killed our glaive, she's an asset we can't afford to lose. But she doesn't get a share when we get back, not after this!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"What should we do with the charging device?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Dump it into the Voil, and poor Arxalin with it. I know that's cold-hearted, but It's too dangerous, and he might make us sick. We can't risk it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"We're in deep now. Fighting each other isn't going to make it any easier. Leave Marit alone until we're safe." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Fine. Until we're safe. But when we are, we're going to have this out."
+
+He crosses his arms across his chest and awaits your orders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>Talk to Iom. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>The construct waits patiently for you to speak.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Tell me more about this artifact."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>Iom looks at the flex. He doesn't seem to be able to tear his eyes from it. "Vic, I've helped you in your scavenging for all these years because I hoped, if we searched enough ruins, I'd find a power source compatible with my construction. We never have, and I've come to believe that I was a one-off, and that, when my batteries finally ran down, I would die, never to be recharged. This artifact, however, powers everything. I can feel it restoring me even now. With it, I might live forever. Without it, I am mortal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"What do you want to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"I'll do whatever you say, Vic - go further in or head back to Stirthal. It doesn't matter to me. But I want to keep the device. It is my salvation." 
+
+Iom looks at you. "And yes, I know. It seems to have killed Arxalin, and maybe sickened Marit, but only because they touched it. Let me keep it, and I will keep it to myself. I promise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"I wish you hadn't found that thing. It scares me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"I'm sorry, Vic. Let me know what you'd like to do with it. I await your orders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>Make a decision. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>The others gather around you, waiting. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"I have to put my family first. We're going back to Stirthal so a chiurgeon can look at Marit. Iom, drop Arxalin in the Voil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>The construct hesitates, circuits ticking, then nods. "Very well, Vic. I'll put it with Arxalin and dispose of them both."
+
+You watch as he tucks the Embrace under Arxalin's belt, then carries him to the gash in the side of the tunnel. He leans out into the evening air and lowers his arms, then lets the varjellen go and bows his head respectfully. 
+
+You and the others follow his lead, observing a moment of silence, then Iom pulls his torso back through the gash and turns to you. 
+
+"Ready, Vic," he says.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"The hell you do!" shouts Ushrov. "Marit's half-dead, and now we're trapped in this gods-forsaken pit. I'm throwing you *and* that damn artifact into the chasm."
+
+Almost imperceptibly, Iom shifts his stance. You realize he's readying to attack. "If you try, I *will* kill you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Think about it, Iom. If you take the flex, you'll kill everyone you meet. It'll be a very lonely immortality."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>Iom remains still for so long you think he might be broken. Finally he steps to the gash in the side of the tunnel and hurls the charging flex out into the Voil. 
+
+Then he turns to you. "Forgive me, Vic. In my fear, I forgot why being alive is important. I am ready to help."
+
+Ushrov breathes a sigh of relief. "Thank you, Iom. Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>The cave and the Voil fade to gold mist around you as she squeezes your hand. The last thing you hear as you are wrenched out of the Mere and back to your own body are her last words. 
+
+"Thank you. I thought you'd hate me. Thank you..."
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>Iom remains still for so long you think he might be broken. Finally he shakes his head. "Forgive me, Vic. I am more afraid of death than loneliness. I can't let it go."
+
+He takes a step back. "Do not try to stop me. I don't want to hurt you anymore than I already have."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"Fine, Iom. Go - and may the ghosts of your future victims travel with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Good luck, Vic." Iom backs to the gash in the tunnel wall and climbs out into the Voil, clamping into the rock with his powerful synth steel fingers, then up, out of sight, toward to top of the canyon wall. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Well you saved our lives, I suppose," says Ushrov when Iom's gone. "But a lot of folk are still going to die because you let him go. I hope you at least plan to continue our mission."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>Ushrov's right. Attack Iom and force him into the chasm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>You leap forward with a shout. Rallying to your cry, Ushrov fires blasts of green energy from implants in the palms of his hands, while Marit struggles to raise her beamer and aim it in Iom's direction.
+
+The construct dodges with alarming speed and picks up heavy pieces of masonry in both hands. Each is big enough to cave in a person's chest if thrown. He could kill both Marit and Ushrov in a single two-handed heave.
+
+{ART: Illustration MereGS1_05_AttackingIom}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>Charge Iom, drawing his attention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>You leap for Iom, slashing with your double bladed staff and screaming at the top of your lungs.
+
+He reacts as you hoped, throwing both masonry chunks at you and allowing Marit and Ushrov to catch him in a deadly cross fire. But you are caught too. Iom's second missile smashes into your torso like a meteor, exploding your ribcage and crushing your heart. You fall to the ground beside Marit as Iom collapses behind you, circuits sizzling and head smoking. 
+
+"I'm sorry, Vic," says Iom. "I'm--"
+
+He dies and you know you'll be following him in seconds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>Protect Marit and let her get a shot off.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>It shivers your arms to do it, but you smash aside the chunk of masonry that Iom throws at Marit, and she gets her shot off, putting a white hot beam through his synthsteel face. Ushrov was not so lucky. Iom's second missile crushed his head to paste. 
+
+As Iom twitches and tries to pick up another stone, you rush in and chop his almost human head from his torso. It blinks up at you, the lights in its eyes dying. "I only wanted... to live."
+
+Beside him lies the charging flex, and as you try to decide what to do with it, Marit pushes to her feet. "Leave it, Mama V. You saved me, now I'll save you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>Protect Ushrov and allow him to fire off another blast. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>It shivers your arms to do it, but you smash aside the chunk of masonry that Iom throws at Ushrov, and he shoots another green blast, freezing Iom in place and making his circuits sizzle. Marit was not so lucky. Iom's second missile crushed her head to paste. 
+
+As Iom twitches and tries to pick up another stone, you rush in and chop his almost human head from his torso. It blinks up at you, the lights in its eyes dying. "I only wanted... to live."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>Rallying to your cry, Ushrov fires blasts of green energy from implants in the palms of his hands, while Marit struggles to raise her beamer and aim it in Iom's direction. The construct rolls aside with alarming speed and picks up heavy peices of masonry in both hands. Each is big enough to cave in a person's chest if thrown. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>You take out the brass disk and lob it at Iom. It explodes on contact, shooting out strands of sticky pink goo all over him. He can't throw or move. 
+
+With cries of relief, Ushrov and Marit catch him in a cross fire, Ushrov frying him with another green blast, and Marit burning a hole through his synthsteel head with her beamer. As he twitches, you chop off his head. It blinks up at you, the lights in its eyes dying. "I only wanted... to live."
+
+Beside Iom lies the charging flex, and as you try to decide what to do with it, Marit pushes to her feet. "Leave it, Mama V. You saved me, now I'll save you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>Grab Ushrov and levitate out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>Marit wails and reaches after you as you and Ushrov drift though the gash in the side of the tunnel and rise toward the top of the canyon. 
+
+"I'm grateful for the rescue," says Ushrov, scowling. "But what exactly did that accomplish? Iom will climb out of there in a heartbeat, and then what happens to Stirthal, or wherever he ends up? He's a walking plague." 
+
+As you reach the top of the Voil it begins to fade to gold mist below you, and you are wrenched back to your own body, Ushrov's last words ringing in your ears.
+
+"A lot of folk are going to die because of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>Grab Marit and float out of the tunnel using your levitating ability.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>You grab Marit and activate your levitation filaments. Ushrov shouts at you as you both drift though the gash in the side of the tunnel. "Come back here, you coward! Do you know how many people you're killing running away like this?"
+
+You continue up, followed by the sounds of Ushrov screaming in agony as Iom tears him apart, when suddenly the Voil begins to fade to red mist below you.
+
+The last thing you hear as you are wrenched out of the Mere is Marit's wet, hacking coughs, and you wonder if there's any saving her at all.
+
+{END OF THE MERE}
+
+{ART: Illustration MereGS1_04_The Voil}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>There's nothing you can do for any of them. Levitate out of the tunnel and save yourself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>Ushrov roars and Marit stares as you drift though the gash in the side of the tunnel and rise toward the top of the canyon. 
+
+"Where are you going, you coward!" shouts Ushrov.
+
+"Mama V!" calls Marit. "Come back! Help us!"
+
+You keep rising, and as you reach the top of the Voil it begins to fade to red mist below you. The last thing you hear as you are wrenched out of the Mere and back to your own body, is Ushrov screaming in agony as Iom tears him apart.
+
+{END OF THE MERE}
+
+{ART: Illustration MereGS1_04_The Voil}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>After a long trek, you reach the place where you entered the tube, a span called the Forever Bridge that stretches across the voil to where the caravan master waits for your return.
+
+Except for Iom, you're all in bad shape. Marit is hacking her lungs up, and you and Ushrov are starting to sniffle - and to make matters worse, the Forever Bridge is toying with you. Every time you start across it, you find yourself walking back toward the cave. You can't reach the other side. 
+
+Finally, after a third attempt, Marit collapses, barely conscious, and Ushrov turns on Iom. "The Embrace is still killing us. You have to get rid of it."
+
+Iom shakes his head. "I won't. I have a right to life."
+
+{ART: Forever Bridge}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>Further west, well-preserved transport constructs lie half-buried in rubble and drit, promising valuable parts. Before you can open them, the shifting sound you heard earlier returns, much closer. The ground trembles. 
+
+Before you can shout an order, the ground in front of you suddenly erupts from below, and a large, worm-like horror bursts forth, flailing multiple arms and tentacles at all of you. All around it, bits of rubble float up and fling themselves at you.
+
+"An Erynth Grask," states Iom. 
+
+{ART: Illustration MereGS1_02_ErynthGraskAttack}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"Attack it! Kill it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>Marit and Ushrov fire beamers and esoteries at the beast as you and Iom rush it, but it is twisty and quick and darts past you to clutch at Ushrov with one of its tentacles, causing him to twitch and dance while it telekinetically hurls rocks at the rest of you. One of them pastes Marit in the face, and she goes down, reeling, unable to defend herself against the others that are arcing her way. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>Levitate up and attack the monster from the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>You mentally activate the filaments that allow you to levitate, and rise up over the creature's head. Iom is already tearing its many arms off with terrifying strength, but you finish it off by stabbing straight down at its lunging head and impaling its brain. 
+
+As it dies, the floating rocks drop out of the air and its tentacles relax, releasing Ushrov, who collapses in a shaking heap. You land again and look around. Iom's artificial skin is shredded, and Marit is a bloody mess from the rocks that hit her, but she is alive and conscious.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>Looking past the corpse of the creature, you see something peeking out from under a pile of rubbish. You cross to it and pick it up. It's a flat brass disk with a winking pink light in the middle - a glue cypher. You pocket it, then turn to the others, who are recovering. 
+
+"Please, V." Marit coughs. There's a thin film of black on her hand as she pulls it away from her mouth. "That was the last straw. This expedition's cursed. Let's get of here."
+
+Ushrov shakes his head. "I won't go back. I made a promise. Let's just make camp and patch ourselves up, then continue on in the morning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"Marit's right. We're in bad shape. It's time to head back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>After a long trek, you reach the place where you entered the tube, a span called the Forever Bridge that stretches across the voil to where the caravan master waits for your return.
+
+Except for Iom, you're all in bad shape. Marit is hacking her lungs up, and you and Ushrov are starting to sniffle - and to make matters worse, the Forever Bridge is toying with you. Every time you start across it, you find yourself walking back toward the cave. You can't reach the other side. 
+
+Finally, after a third attempt, Marit collapses, barely consious, and Ushrov turns on Iom. "You've still got the Embrace, don't you, you bastard? You're killing us all!"
+
+Iom nods. "I have a right to life too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"Ushrov's right. We can't give up. We'll make camp, then press on in the morning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>You put up a makeshift camp among the ruined machines, then bandage each other as best you can and lie down to sleep. It isn't easy. Marit's coughing and hacking has gotten worse, and you're not feeling very well yourself. 
+
+Then, in the middle of the night, you wake to find yourself shivering and wheezing. Black snot is streaming from your nose, and when you spit, that's black too. Ushrov is trembling beside you. He's in the same straits. 
+
+"Nano spirits preserve us," he moans. "We've got it too."
+
+He turns to Marit and shakes her, but she doesn't wake. She's long dead. Ushrov sits up and looks around. "Iom! Iom, you bastard! Where are you?"
+
+{ART: Vicarian's Party B}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>The construct looks into the tent. "I was patrolling. What is the-?" He stops as he sees you. "Oh."
+
+"You've still got the charging flex, don't you, you murderer?" rasps Ushrov. "You've killed us all!"
+
+"I did not think it would kill you," says Iom. "Not without you touching it."
+
+As your organs shut down and the cave and the Voil fade to gold mist around you, Iom goes to his pack and pulls out the flex. For a long moment he looks from the flex to the gash in the tunnel wall and back, circuits clicking. Finally, he puts it back.
+
+His last words echo after you as you are wrenched out of the Mere and back to your own body. "I'm sorry, Vic. I am too afraid to die. I hope you can forgive me."
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>The construct looks into the tent. "I was patrolling. What is the-?" He stops as he sees you. "Oh."
+
+"That charging flex is still killing us," rasps Ushrov. "You have to get rid of it."
+
+Iom stares at you both for a long moment, then speaks. "I did not think it would do this. I..."
+
+As your organs shut down and the cave and the Voil fade to gold mist around you, Iom goes to his pack and pulls out the flex. For a long moment he looks from the flex to the gash in the tunnel wall and back, circuits clicking. Finally, he puts it back.
+
+His last words echo after you as you are wrenched out of the Mere and back to your own body. "I'm sorry, Vic. I am too afraid to die. I hope you can forgive me."
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"Please, V." Marit coughs. There's a thin film of black on her hand as she pulls it away from her mouth. "That was the last straw. This expedition's cursed. Let's get of here."
+
+Ushrov shakes his head. "I won't go back. I made a promise. Let's just make camp and patch ourselves up, then continue on in the morning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>Hack at the tentacle and try to free Ushrov. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>You sever the tentacle with a single slash and Ushrov recovers enough to blast the creature with a pulse while Iom finishes it off by crushing its heavy skull in his synthsteel hands. As it dies, its remaining claws tear his artificial skin to shreds. Iom doesn't feel the damage. 
+
+The battle over, you look around. Marit is a bloody mess from the rocks that hit her. She's barely conscious.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>Protect Marit from the rocks. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>You get between Marit and the rocks and bat them out of the air with your double bladed staff, allowing her to draw a bead on it and shoot a white hot beam through its head as Iom tears its limbs off with terrifying strength. 
+
+As it dies, its tentacles relax, releasing Ushrov, who collapses in a shaking heap. He's barely conscious. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"Get out of here! Run!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>You turn with the others and run up the tunnel. The horror scrabbles after you, nearly catching Marit, who is wheezing and weak.
+
+You and Ushrov grab her and drag her, but as you pass the square of rust red columns, you realize the thing isn't following anymore. 
+
+"We can stop now," says Iom. "It will not follow unless we steal what it is guarding."
+
+"What is it guarding?" asks Ushrov. "Something valuable?"
+
+"Who can say what an Erynth Grask considers valuable?" says Iom. "It could be anything. It could be nothing."
+
+Ushrov turns to you, eyes bright. "You heard him, Vic. Let's go back and see what it's got."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"Right. Let's go back and kill it. We know what we're facing now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>You return to the place where the Erynth Grask attacked you, and once again it rises and attacks you with claw and tentacle and telekinesis. 
+
+Marit and Ushrov fire their beamers and esoteries at the beast as you and Iom rush it, but it is twisty and quick and darts past you to clutch at Ushrov with one of its tentacles, which causes him to twitch and dance, while telekinetically hurling rocks at the rest of you. One of them pastes Marit in the face, and she goes down, reeling, unable to defend herself against the others that are arcing her way. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"Marit isn't looking so good. Let's make camp and rest until morning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"Let's get out of here while we're all alive. Head for the exit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>You face Marit, who huddles, coughing and sniffing, before you. "Aren't I already being punished?" She asks. "I've got what Arx had, and it's a death sentence."
+
+Before you can reply, you hear the same shifting sound you all heard earlier, only closer now, and approaching rapidly. The ground begins to tremble. 
+
+"Incoming!" you cry. "Ready your weapons!"  
+
+The others have no time to obey. The ground off to one side suddenly erupts, and a large, worm-like horror bursts forth, flailing multiple arms and tentacles at all of you. At the same time, all around it, bits of rubble float up and fling themselves at you.
+
+"An Erynth Grask," states Iom. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>The construct nods. "Very well, Vic. I'll just dispose of Arxalin first."
+
+You watch as he carries the glaive to the gash in the side of the tunnel. He leans out into the evening air and lowers his arms, then lets the varjellen go and bows his head respectfully. 
+
+You and the others follow his lead, observing a moment of silence, then Iom pulls his torso back through the gash and turns to you. 
+
+"Ready, Vic," he says.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"I have to put my family first. We're going to keep heading back to Stirthal so a chiurgeon can look at Marit. Iom, drop Arxalin in the Voil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>The construct hesitates, circuits ticking, then nods. "Very well, Vic. I'll put it with Arxalin and dispose of them both."
+
+You watch as he tucks the Embrace under Arxalin's belt, then carries him to the gash in the side of the tunnel. He leans out into the evening air and lowers his arms, then lets the varjellen go and bows his head respectfully. 
+
+You and the others follow his lead, observing a moment of silence, then Iom pulls his torso back through the gash and turns to you. 
+
+"Ready, Vic," he says.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"I promised the people of the Harrows a profit on this expedition. I have to keep that promise. We continue exploring. Iom, drop Arxalin in the Voil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>The construct hesitates, circuits ticking, then nods. "Very well, Vic. I'll put it with Arxalin and dispose of them both."
+
+You watch as he tucks the flex under Arxalin's belt, then carries him to the gash in the side of the tunnel. He leans out into the evening air and lowers his arms, then lets the varjellen go and bows his head respectfully. 
+
+You and the others follow his lead, observing a moment of silence, then Iom pulls his torso back through the gash and turns to you. 
+
+"Ready, Vic," he says. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"Let's start back to Stirthal. We can't risk a man's life over this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"We risk four lives if we stay," growls Ushrov. "And four thousand if we go." Still he follows as you head toward the exit. Then a faint shifting echoes from the west end of the tunnel, far in the distance. Arxalin swallows. "Monsters," he says. "Fantastic. And I'm going to be the straggler."
+
+"I will carry you, if you like," says Iom. "You will not slow me down."
+
+The varjellen grimaces with embarrassment, then shrugs. "Fine. Just call me dead weight."
+
+As you continue on, Marit sniffs and wipes her nose on her sleeve. 
+
+"Can't you be quiet?" Ushrov snarls.  "We don't want it following us, whatever it is!"
+
+"Sorry," she mumbles. "Arxalin being sick is giving me sympathy sniffles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>A while later, as you enter a cluster of ancient pylons you previously searched, Iom stops and lowers Arxalin to the ground. "The glaive is dead," he says. "His heart has stopped."
+
+You and the others look at Arxalin. He is covered in a black slime that leaks from cracks in his reptilian skin. Marit chokes and covers her mouth. "That's not what I've got, is it? Humans and varjellens don't get sick from the same things, right?"
+
+"I am not sure it is a disease at all," says Iom, searching Arxalin's things. "Too quick. I-"
+
+He pauses, then tugs a rolled up piece of silver flex from Arxalin's pack. It is covered with tiny metal studs. "If something killed him, it was likely this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"W-what is it?" asks Marit. 
+
+It takes a moment for Iom to answer. He seems preoccupied. "Some kind of... battery? Charging device? It is emitting a broad and powerful specturm of energy, some of which could be dangerous to organics. The real question, however, is who planted it on Arxalin? He said he threw it away."
+
+Everybody looks at everybody else, but no one speaks up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"Let's give Arxalin a chance to rest. Scavenging can wait a few ticks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>Ushrov grumbles under his breath, but sits down with the rest of as the suffering glaive closes his eyes. A moment later, a faint shifting echoes down the tunnel from the west, as if something was moving in the distance. The party looks toward the sound. Even Arxalin wakes. "Creature or claim jumper?" he asks. 
+
+Marit and Ushrov exchange looks, then start west, angling for vantage points. Marit sniffs and wipes her nose on her sleeve.
+
+"Can't you be quiet?" Ushrov snarls.
+
+"Sorry," she mumbles. "Arxalin being sick is giving me sympathy sniffles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>You wait for something to come out of the dark, but nothing appears. Then, beside you, Arxalin wakes, choking and clawing at his throat, before he falls back, dead.
+
+Marit and Ushrov join you and Iom and look at Arxalin. He is covered in a black slime that leaks from cracks in his reptilian skin. Marit chokes. "That's not what I've got, is it? Humans and varjellens don't get sick from the same things, right?"
+
+"I am not sure it is a disease at all," says Iom, searching Arxalin's things. "Too quick. I-"
+
+He pauses, then tugs a rolled up piece of silver flex from Arxalin's pack. It is covered with tiny metal studs. "If something killed him, it was likely this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"W-what is it?" asks Marit. 
+
+It takes a moment for Iom to answer. He seems preoccupied. "Some kind of... battery? Charging device? It is emitting a broad and powerful specturm of energy, some of which could be dangerous to organics. The real question, however, is who planted it on Arxalin? He said he threw it away."
+
+Everybody looks at everybody else, but no one speaks up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>Marit sobs. "I didn't know! I picked it up when he dropped it and it recharged all my cyphers in a blip. Big money back home for a thing like that, but it made me queasy to touch it, so I slipped it into Arx's pack. I didn't think it was going to kill him!"
+
+"Wonderful," growls Ushrov. "We've been sabotaged by your step-daughter. You promised me the little brat was over her thieving ways. Now she's gotten one of us killed!"
+
+Marit sobs. "I didn't know!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>Ushrov throws up his hands. "You'd rather save one larcenous little pocketsnip than an entire neighborhood of honest folk? Fine!" 
+
+He points a shaking finger at you. "But you'll repay every shin the Harrows collected for this trip when we get back, or I'll see you broken!"
+
+Iom holds up the silvery studded cloth. "What about the charging flex, Vic. Can I keep it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"Sorry, Iom. You're going to have to get rid of it. It's too dangerous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"Yes, you can keep it, but keep it away from us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>Ushrov throws up his hands. "You'd rather save one larcenous little fingersmith than an entire neighborhood of honest folk? Fine!" 
+
+He points a shaking finger at you. "But you'll repay every shin the Harrows collected for this trip when we get back, or I'll see you broken!"
+
+Iom holds up the silvery studded cloth. "What about the charging flex, Vic. Can I keep it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>"Sorry, Iom. You're going to have to get rid of it. It's too dangerous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>"Yes, you can keep it, but keep it away from us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>Marit stares at you, stunned. "You're just going to let me die? I should never have let you talk me off the street. You got my father killed and now you're going to kill me!"
+
+Ushrov snorts. "If you die, it'll be your own fault. And you probably won't anyway. You didn't wear the poisonous thing next to your skin for hours like the poor bastard you planted it on!"
+
+Iom holds up the silvery studded cloth. "What about the charging flex, Vic. Can I keep it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>"Sorry, Iom. You're going to have to get rid of it. It's too dangerous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>"Yes, you can keep it, but keep it away from us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>The construct nods. "Very well, Vic. I'll just dispose of Arxalin first."
+
+You watch as he carries the glaive to the gash in the side of the tunnel. He leans out into the evening air and lowers his arms, then lets the varjellen go and bows his head respectfully. 
+
+You and the others follow his lead, observing a moment of silence, then Iom pulls his torso back through the gash and turns to you. 
+
+"Ready, Vic," he says. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>The construct nods. "Very well, Vic. I'll just dispose of Arxalin first."
+
+You watch as he carries the glaive to the gash in the side of the tunnel. He leans out into the evening air and lowers his arms, then lets the varjellen go and bows his head respectfully. 
+
+You and the others follow his lead, observing a moment of silence, then Iom pulls his torso back through the gash and turns to you. 
+
+"Ready, Vic," he says.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"And what about all the people you're going to hurt when you leave here?" asks Ushrov. He turns to you. "You can't let him take it, Vicarian. You're already failing everyone in the Harrows. If you let this mad machine walk around with that plague cloth for the rest of time, you'll have even more deaths on your conscious! Thousands of them! We have to stop him!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>"Well you saved our lives, I suppose," says Ushrov. "But a lot of folk are still going to die because you let Iom go. At least you don't have any excuse not to continue our expedition anymore. Or do you?"
+
+{NATHAN: See comment on 378. I feel the same here. --AH}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>"Not until I see to my daughter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>"I'm ready. Marit is too far gone to save, and she brought it on herself besides."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>While Ushrov badgers you, you cross to Marit and do what you can for her. Sadly, her condition is far beyond your skills, and she slowly slips away. You and Ushrov, on the other hand, seem to be recovering now that the toxic influence of the flex has been removed.
+
+Near the end, Marit has a moment of lucidity, and looks up at you, taking your hand. "I'm sorry, Mama V. I should never have taken that flex. I ruined everything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>Everything fades to red mist around you as you and Ushrov start deeper into the cave and Marit sobs at your condemnation.The last thing you hear as you are wrenched out of the Mere and into your own body is her feeble voice.
+
+"You're right. It's all my fault. It's all my fault..."
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>With the crisis over, you and Iom and Ushrov do what you can for Marit, but her condition is far beyond any of your skills, and she slowly slips away. You and Ushrov, on the other hand, seem to be recovering now that the toxic influence of the flex has been removed.
+
+Near the end, Marit has a moment of lucidity, and looks up at you, taking your hand. "I'm sorry, Mama V. I should never have taken that flex. I ruined everything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>"How could I judge my daughter? You couldn't have known what would follow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>"I blame myself. I didn't teach you as I should have."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>The cave and the Voil fade to gold mist around you as she squeezes your hand. The last thing you hear as you are wrenched out of the Mere and back to your own body are her last words. 
+
+"No. You can't say that. There wasn't time..."
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>The cave and the Voil fade to gold mist around you as Ushrov and Marit look down at you.
+
+"She died to save us," says Ushrov. "We should finish what she came here to do."
+
+Marit nods, and as you are wrenched back to your own body, her last words echo in your ears. 
+
+"I'm sorry for what I started, Mama V. I've learned my lesson now. I promise."
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>As you look on, she hooks it on the end of her beamer, then stumbles to the gash in the tunnel wall and throws it and the beamer into the Voil.
+
+This effort takes all her strength, and she collapses. You hurry to her and do what you can for her, but her condition is far beyond your skills, and she slowly slips away. You, on the other hand, seem to be recovering now that the toxic influence of the flex has been removed.
+
+Near the end, Marit has a moment of lucidity, and looks up at you, taking your hand. "I'm sorry, Mama V. I should never have taken that flex. I ruined everything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>Beside him lies the charging flex, and as you try to decide what to do with it, Ushrov steps to you. "Leave it. You saved me. I'll save you."
+
+He points a handheld device at the flex and it floats up and drifts at his direction to the gash in the tunnel wall. Then he turns off the device and it the flex drops into the Voil. 
+
+Ushrov turns to you as you look down at Marit's body. "You saved me and not her. Why?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>You and Ushrov watch as she hooks it on the end of her beamer, then stumbles to the gash in the tunnel wall and throws it and the beamer into the Voil before collapsing to her knees. 
+
+Ushrov backs up as if she's contagious, but you cross to her and do what you can for her. Sadly, her condition is far beyond your skills, and she slowly slips away. You and Ushrov, on the other hand, seem to be recovering now that the toxic influence of the flex has been removed.
+
+Near the end, Marit has a moment of lucidity, and looks up at you, taking your hand. "I'm sorry, Mama V. I should never have taken that flex. I ruined everything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>"We failed Ushrov and Arxalin. I won't fail the rest. We're going to strip this place and bring all the good stuff back to the Harrows like we promised."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>"Ushrov's not around to nag us anymore. Let's strip this place clean and head for Sagus Cliffs. The Harrows isn't our problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>As Marit nods and sits up, the cave and the Voil fade to gold mist around you. The last thing you hear as you are wrenched back to your own body is her voice. 
+
+"And here I thought the only difference between us was that I stole little and you stole big. How about that." 
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>As Marit gives you a thoughtful look, the cave and the Voil fade to red mist around you. The last thing you hear as you are wrenched back to your own body is her voice. 
+
+"So, the only difference between us is that I steal little and you steal big. Good to know." 
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>"She was the cause of all this. You were the one who deserved to live."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>"She was too sick. She would not have survived anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>"It was a mistake. I didn't think she would die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>Ushrov grunts, uncomfortable, and turns away. "Well, whatever your reasons. I thank you. But I fear this partnership must now come to an end. Your 'daughter' and your mechanical friend have cost us too much. I can't run the risk that you will do the same." 
+
+The cave and the Voil fade to gold mist around you as Ushrov raises his glowing palms towards you and readies another blast. The last thing you hear as you are wrenched out of the Mere and back to your own body is his voice. 
+
+"I'm sorry, Vicarian. I'm only thinking of the greater good."
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>"You're right. There are enough artifacts here to save the Harrows and make us both rich. Let's get to work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>"Sorry. I'm tired of your nagging. I'm going to keep this place for myself, and you and the Harrows can take a dive into the Voil for all I care. In fact, let me help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>The cave and the Voil fade to gold mist around you as you and Ushrov turn and start deeper into the cave once again. The last thing you hear as you are wrenched back to your own body is his voice. 
+
+"I misjudged you, Vicarian. You're a woman of your word. Thank you."
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>As you attack Ushrov and drive him back toward the gash in the wall, the cave and the Voil fade to red mist around you. The last thing you hear as you are wrenched back to your own body is Ushrov's voice. 
+
+"I should never have trusted you! You're a bigger thief than your daughter!"
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>"No. Marit and I are ready to continue. There are enough artifacts here to save the Harrows and make us all rich. Let's get to work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>"I do. I'm tired of your nagging. Marit and I are going to take all the artifacts here for ourselves, and you and the Harrows can take a dive into the Voil for all I care. In fact, let me help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>The cave and the Voil fade to gold mist around you  as you, Marit, and Ushrov turn and start deeper into the cave once again. The last thing you hear as you are wrenched back to your own body is Ushrov's voice. 
+
+"I misjudged you, Vicarian. You're a woman of your word. Thank you."
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>As you attack Ushrov and drive him back toward the gash in the wall, the cave and the Voil fade to red mist around you. The last thing you hear as you are wrenched back to your own body is Marit's voice. 
+
+"So, the only difference between us is that I steal and you murder. Good to know." 
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>You can't save them all. Pick up Marit and levitate out of the tunnel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>Marit's too far gone and Iom's too dangerous. Take Ushrov and levitate out of the tunnel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>As you and Marit reach the top of the Voil it begins to fade to red mist below you. The last thing you hear as you are wrenched back to your own body, is Marit's voice.
+
+"So, you're saving me and leaving everyone else to die? I guess we really are family."
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>As you and Marit reach the top of the Voil it begins to fade to gold mist below you. The last thing you hear as you are wrenched back to your own body, is Marit's voice.
+
+"So, the only difference between us is that I steal little and you steal big. Good to know." 
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>After a long trek, you reach the place where you entered the tube, a span called the Forever Bridge that stretches across the voil to where the caravan master waits for your return.
+
+Except for Iom, you're all in bad shape. Marit is hacking her lungs up, and you and Ushrov are starting to sniffle - and to make matters worse, the Forever Bridge is toying with you. Every time you start across it, you find yourself walking back toward the cave. You can't reach the other side. 
+
+Finally, after a third attempt, Marit collapses, barely conscious, and Ushrov turns on Iom. "You've still got the Embrace, don't you, you bastard? You're killing us all!"
+
+Iom nods. "I have a right to life too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>After a long trek, you reach the place where you entered the tube, a span called the Forever Bridge that stretches across the voil to where the caravan master waits for your return.
+
+Except for Iom, you're all in bad shape. Marit is hacking her lungs up, and you and Ushrov are starting to sniffle - and to make matters worse, the Forever Bridge is toying with you. Every time you start across it, you find yourself walking back toward the cave. You can't reach the other side. 
+
+Finally, after a third attempt, Marit collapses, barely conscious, and Ushrov turns on Iom. "You've still got the Embrace, don't you, you bastard? You're killing us all!"
+
+Iom nods. "I have a right to life too."
+
+{ART: Forever Bridge}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>Looking past the corpse of the creature, you see something peeking out from under a pile of rubbish. You cross to it and pick it up. It's a flat brass disk with a winking pink light in the middle - a glue cypher. You pocket it, then turn to the others, who are recovering. 
+
+"Please, V." Marit coughs, her face bloodied by the rocks. There's a thin film of black on her hand as she pulls it away from her mouth. "That was the last straw. This expedition's cursed. Let's get of here."
+
+Ushrov shakes his head. "I won't go back. I made a promise. Let's just make camp and patch ourselves up, then continue on in the morning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>Looking past the corpse of the creature, you see something peeking out from under a pile of rubbish. You cross to it and pick it up. It's a flat brass disk with a winking pink light in the middle. Iom identifies it as some kind of glue cypher. You pocket it, then turn to the others, who are recovering. 
+
+"Please, V." Marit coughs. There's a thin film of black on her hand as she pulls it away from her mouth. "That was the last straw. This expedition's cursed. Let's get of here."
+
+Ushrov raises his head. He's still twitching, but it hasn't lessened his resolve. "No. I won't go back. I made a promise. Let's just make camp and patch ourselves up, then continue on in the morning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>After a long trek, you reach the place where you entered the tube, a span called the Forever Bridge that stretches across the voil to where the caravan master waits for your return.
+
+Except for Iom, you're all in bad shape. Marit is hacking her lungs up, and you and Ushrov are starting to sniffle - and to make matters worse, the Forever Bridge is toying with you. Every time you start across it, you find yourself walking back toward the cave. You can't reach the other side. 
+
+Finally, after a third attempt, Marit collapses, barely conscious, and Ushrov turns on Iom. "You've still got the Embrace, don't you, you bastard? You're killing us all!"
+
+Iom nods. "I have a right to life too."
+
+{ART: Forever Bridge}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>"It... it was me!"
+
+Everyone turns as Marit sobs. "I didn't know! I picked it up when he dropped it and it recharged all my cyphers in a blip. Big money back home for a thing like that, but it made me queasy to touch it, so I slipped it into Arx's pack. I didn't think it was going to kill him!"
+
+"Wonderful," growls Ushrov. "We've been sabotaged by your step-daughter. You promised me the little brat was over her thieving ways. Now she's gotten one of us killed!"
+
+Marit sobs. "I didn't know!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>"It... it was me!"
+
+Everyone turns as Marit sobs. "I didn't know! I picked it up when he dropped it and it recharged all my cyphers in a blip. Big money back home for a thing like that, but it made me queasy to touch it, so I slipped it into Arx's pack. I didn't think it was going to kill him!"
+
+"Wonderful," growls Ushrov. "We've been sabotaged by your step-daughter. You promised me the little brat was over her thieving ways. Now she's gotten one of us killed!"
+
+Marit sobs. "I didn't know!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>"I know it's hard to resist falling back on old ways, but you've got to try. For me, all right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>"I know she did wrong, but give her another chance. She's not far different from those you're trying to save."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>"I'm sorry, Vic. Let me know what you'd like to do with it. I await your orders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>"I wish you hadn't shown that thing around. The others are scared of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>"I don't know about that, but... well, just keep her on a shorter leash, eh?"
+
+He crosses his arms across his chest and awaits your orders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>"I know. I'm sorry. I know I owe you."
+
+She turns away. The others watch, awaiting your orders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>Marit wails as you and Ushrov drift though the gash in the side of the tunnel. "Mama V! Come back! Help me!"
+
+You continue up, followed by the sounds of Marit's wailing tears and hacking coughs.
+
+Ushrov is staring below you. "You made the right decision, I guess, but what about the Harrows? Who's going to-" A coughing fit takes him.
+
+The Voil fades to red mist below you. The last thing you see as you are wrenched out of the Mere is Ushrov staring, wide-eyed at his hand. It's covered in a black film.
+
+{END OF THE MERE}
+
+{ART: Illustration MereGS1_04_The Voil}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>Levitate out of the tunnel alone. There's no saving the others.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>Ushrov roars and Marit stares as you drift though the gash in the side of the tunnel and rise toward the top of the canyon. 
+
+"Where are you going, you coward!" shouts Ushrov.
+
+"Mama V!" calls Marit. "Come back! Help us!"
+
+You keep rising, and as you reach the top of the Voil it begins to fade to red mist below youThe last thing you hear as you are wrenched out of the Mere and back to your own body, is Marit, screaming in agony as Iom tears her apart.
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>"I wish I could give you sympathy, but you've reaped what you've sown. I'm sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>The cave and the Voil fade to gold mist around you as her hand goes limp. The last thing you hear as you are wrenched out of the Mere and back to your own body are her last words. 
+
+"You're right. It's all my fault. It's all my... fault..."
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>"No. You're right. I shouldn't have let Iom go. I'm going to stop him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>"This is all a mess. I'm done with it. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>Marit stares as you drift though the gash in the side of the tunnel and rise toward the top of the canyon. 
+
+The tunnel begins to fade to red mist as you begin to levitate toward the gash in the wall. The last thing you hear as Marit and Ushrov stare after you and you are wrenched out of the Mere and back to your own body, is Marit's feeble voice calling after you.
+
+ "Mama V, wait! Where are you going...?"
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>Marit stares as you drift though the gash in the side of the tunnel and rise toward the top of the canyon. 
+
+The tunnel begins to fade to red mist as you begin to levitate toward the gash in the wall. The last thing you hear as Marit and Ushrov stare after you and you are wrenched out of the Mere and back to your own body, is Marit and Ushrov calling after you.
+
+"Mama V, wait! Where are you going...?"
+
+"What about your promises, Vicarian! What about our deal!"
+
+{END OF THE MERE}
+
+{ART: Illustration MereGS1_04_The Voil}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>Marit raises herself up beside you, sobbing. "I'm sorry, Mama V. I should never have taken that flex. I ruined everything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>"How could I judge my daughter? You couldn't have known what would follow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>The cave and the Voil fade to gold mist around you as she squeezes your hand. The last thing you hear as you are wrenched out of the Mere and back to your own body is her voice. 
+
+"Thank you. I thought you'd hate me. Thank you..."
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>"I blame myself. I didn't teach you as I should have."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>The cave and the Voil fade to gold mist around you as she squeezes your hand. The last thing you hear as you are wrenched out of the Mere and back to your own body is her voice. 
+
+"No. You can't say that. There wasn't time..."
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>"I wish I could give you sympathy, but you've reaped what you've sown. I'm sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>The cave and the Voil fade to gold mist around you as she sobs. The last thing you hear as you are wrenched out of the Mere and back to your own body  is her voice. 
+
+"You're right. It's all my fault. It's all my... fault..."
+
+{END OF THE MERE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>Use the glue cypher you took from the Erynth Grask.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>"It doesn't matter. Let's just get rid of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>Before you can finish your sentence, Marit blurts out, "It... it was me!"
+
+Everyone turns as Marit sobs. "I didn't know! I picked it up when he dropped it and it recharged all my cyphers in a blip. Big money back home for a thing like that, but it made me queasy to touch it, so I slipped it into Arx's pack. I didn't think it was going to kill him!"
+
+"Wonderful," growls Ushrov. "We've been sabotaged by your step-daughter. You promised me the little brat was over her thieving ways. Now she's gotten one of us killed!"
+
+Marit sobs. "I didn't know!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>After a long trek, you reach the place where you entered the tube, a span called the Forever Bridge that stretches across the Voil to where the caravan master waits for your return.
+
+Except for Iom, you're all in bad shape. Marit is hacking her lungs up, and you and Ushrov are starting to sniffle - and to make matters worse, the Forever Bridge is toying with you. Every time you start across it, you find yourself walking back toward the cave. You can't reach the other side. 
+
+Finally, after a third attempt, Marit collapses, barely conscious, and Ushrov turns on Iom. "You've still got the Embrace, don't you, you bastard? You're killing us all!"
+
+Iom nods. "I have a right to life too."
+
+{ART: Forever Bridge}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>"Arxalin probably lied and meant to keep it for himself."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

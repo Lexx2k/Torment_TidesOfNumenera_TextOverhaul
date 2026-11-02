@@ -1,0 +1,1930 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_rhin_multistage</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>360</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Her brow furrows, and she clutches her elbow with one hand. "You know some of it - maybe as much as I do. What did you want to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"All right..." she says, her brow furrowing. "What did you want to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Where are you from?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Where are you from again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Can I ask a few questions about your... friend?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I want to talk about Ahl again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>She brings the stone up to her ear and cocks her head a bit. Then she looks up at you and gives a slightly anxious nod. "All right. He's fine with a few questions. A few."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>She brings out the stone again and cocks her head to listen. She looks up with an anxious nod. "Okay. Just a few questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Has Ahl always been in a stone?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"How old is Ahl?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"What does it mean that he's a god?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Tell me about the gods where you come from again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I want to ask something else about yourself again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I want to talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"That's all for now. Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Right. Sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I guess that's all right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>She nods. "He's a very young god. Older gods have usually lived in many bodies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>She grins proudly. "Only a couple of weeks old! He's so strong for a..." 
+
+She breaks off and looks down at her hand. "You don't need to be embarrassed." 
+
+She looks up at you and grins again. Then she says in a stage whisper, "He's embarrassed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Rhin grimaces. "That is a hard question. Where I come from, there are many gods. Gods of health and hearth and home. Gods of road and roam. Where I come from, it's a poor family that has no gods of their own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Where I come from, there are many gods. Gods of health and hearth and home. Gods of road and roam. It's a poor family that has no gods of their own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[I noticed your god's doing a new thing.]
+
+{SCRIPT: Rhin has reached a Tier where her god is doing something obvious and cool (probably Tier 4?).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Right. Where to now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Told you so.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Her expression grows distant. "It's a better place than this. It's safe and warm. And it's a long, long way from here."
+
+For a moment, it seems like she's lost in thought, then she starts talking again. "There are a lot of trees there. It's full of growing things. And a little village with a tall wall to keep bad things way. And I have parents there..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"It's called..." She touches her head, eyes shut as if in pain. "Baranth. Yes, Baranth. That's where my parents are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Follow-up to having told Rhin's Secret already (in Stage 4).]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"It's called Baranth. I know that now. I made a god of going forth and cut a hole from there to here. I remember much more, but... I'm not sure it matters unless I can go home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Before I met you, I asked Ahl if he could bring someone to help me. I know. It's embarrassing. He's not the right sort of god for that. But then you came. And you're even better than anything a god would bring me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"I don't know what I would have done if you hadn't come along and saved me. I don't think I'd be alive any more. I think about that a lot. I don't know how to thank you for it. It's something too big to just thank someone for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"This is such a strange place. I really appreciate you helping me get somewhere safe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I think that sometimes you don't realize how mean you are to people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"I don't want to talk about it. Let's just keep going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>She looks warily over your shoulder. "Really? Who?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"What do you think of Aligern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"He's sweet," she says. "And sad. Like an uncle nobody goes to visit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"What do you think of Callistege?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>She glances toward Callistege and her sisters. "I don't know. I don't like the way she... they... look at me. Like they want something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"What do you think of Erritis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>She smiles. "He makes me laugh. But I can't tell when he's being serious.... {Pause}Is he ever being serious?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"What do you think of Matkina?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"She's a little... cold. Don't tell her I said that!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"What do you think of Tybir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>She frowns. "He acts nice, but I don't think he likes me. I wonder if he really likes anybody."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"I have additional questions, if you don't mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Sure." She glances over your shoulder one more time, then puts on a smile. "What do you want to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[What? Why? You said you would take me home! Is it something I did?]
+
+{SCRIPT: If she Likes/Loves the PC, just suggesting this could act as an abuse for her.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"{Offended and afraid}You think it's 'best'? You asked *me* to stay with *you*, remember? Can I ask why?" She folds her arms across her chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"{Shocked and afraid}What? Why? You said you would help me. Is it something I did?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"I thought you'd get more useful, but you're not. It's too hard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"It's more dangerous for you than I thought it would be. The places I need to go... they aren't safe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"I don't think I *can* help you. You're better off where you were."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Never mind. You can stay. Forget I suggested it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Right." She wipes the back of her hand across her nose. "I'll just..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Nowhere is safe!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>This morning I went to piss behind a bush and it tried to eat me!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>We're surrounded by corpses and the people who killed them!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>We're in the stomach of a giant monster! With more monsters inside it!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Don't leave me. You *can't* leave me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"You think so?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>All I've done so far is starve, get kidnapped, hide, and starve some more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>And how am I supposed to get back to where I was? Even that airship pilot wouldn't stay here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>And how am I supposed to get back to where I was? Go through that... tube... again?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Don't leave me. I have nowhere else to go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Too hard?" Her voice cracks. "I *told* you I couldn't fight. You didn't think it was 'too hard' then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"I'm sorry. It's better this way, you'll see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Tears roll freely down her cheeks. "Please let me stay. I can get better at fighting. I can! Or... or whatever you need me to do. Just give me a chance and I'll show you..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"No, Rhin. Now go!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>She turns and runs, a trail of wet spots on the ground behind her. You can hear her choking back sobs as she goes. Then she turns and disappears.
+
+{VO/SOUND: Rhin sobs, plays on exit. (This is the same sound as in her Stage 4 runaway node).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"{Worried, but not yet scared}I... I need someone to talk to. I need to talk to you." She clutches your hand but won't look into your eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Of course, Rhin. What is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Even though she said she needed to talk, she hesitates. "It's about my memories. I... I feel like I should remember more by now. But I don't. I *can't*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Can it wait?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Her shoulders fall. "Yes," she says. Then, "No!"
+
+She straightens up and looks you in the eye. Her eyes are red and swollen, and the words spill out of her. "Something's going on. I *have* to figure it out before we go further or I'll... I'll... And I don't know who else to talk to, and Ahl doesn't know - or won't say, I don't know. I just... I need to talk to you. Please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>She grins, and her sudden smile is like the sun coming out from behind a cloud. "We're good at hiding," she says.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>A flash of panic crosses her face. "Me," she says, too quickly.
+
+Then she sighs and pulls something from her pocket. It's a small, dark stone with a hole in it. She's outside your arm's reach, but she still holds it close to her chest, protectively.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Those thugs you were hiding from... they seemed to know you were in the building, but they couldn't find you. Why?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Did you say 'we' are good at hiding?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>She looks up at you, then brings the black stone with a hole in it up to her mouth and whispers something you can't hear. Then she tilts her head and brings it up to her ear.
+
+After a moment she nods and returns the stone to her pocket. "I don't think so right now. I'm... He's a little nervous about you. Maybe when we've spent more time together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>She brings the stone to her mouth again and whispers something to it. Then she brings it up to her ear to listen.
+
+She returns it to her pocket and says, "Sorry. He's still a bit nervous about you. Maybe after we've spent more time together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"I can't help but notice that he's, well... a rock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Seriously. What's up with the rock?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Don't you think it's a little odd that you're constantly talking to a rock?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"How did you, umm... meet your... rock?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>She puts 'Ahl' back into her pocket. "He's not a rock. He's a stone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Fine. You're talking to a stone then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"There's a difference between a rock and a stone?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Are you trying to distract me so I won't ask about your imaginary friend?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Listen. I'm telling you this for your own good. If you keep talking to things that aren't there... people will think it's odd."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"No. I'm talking to Ahl. He isn't a stone. He's a god. He lives inside the stone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>She gives an exasperated sigh. "If there wasn't a difference, why would we have two words for them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>She looks offended, then seems to think better of it. "A little bit," she admits. "But Ahl isn't imaginary. And he's not a stone. He's a god. He lives *inside* the stone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"I'm not talking to someone who isn't there." She reaches into her pocket and pulls out the stone. "He's right *here.* And he's not a stone. He's a god. He lives *inside* the stone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"What's the difference then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Because if there's two words, people like us, who have their brains joggled around, have a better chance of remembering one when we need to?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Are you trying to distract me so I won't ask about about your imaginary friend?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Rhin smiles at you. "That *is* a pretty good reason."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>She takes a deep breath, looking thoughtful. "Stones are typically smoother. And wiser. And lazier. And more vain." 
+
+She looks distracted for a moment, then says. "I'm sorry but it's true. Rocks are brash. And they're more jaggedy. They tend to be smaller, too.... Yes I know it's a stereotype. You're being rude. Stop interrupting." 
+
+She looks up at you. "I'm sorry. He's sensitive about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Anyway, the stone isn't Ahl. Ahl's a god. He lives *inside* the stone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"So the stone is like his body? Or is it like his house?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>She smiles. "It's a little like both. It's easier for him to leave than a body. But harder to leave than a house. But either way, the stone isn't really him. It's a little like a cup, too."
+
+Rhin looks up at you hopefully. "Does that make sense?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Moving from body to body. It sounds a little familiar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"As far as crazy rambling goes, it's top notch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"I think I get it... You typically drink different sorts of drinks out of different cups. But you don't have to. The cup really isn't important."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"I think I get it...  It's like how a cup holds water. The water is shaped like the cup, but the water isn't the same as the cup."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"I'm not sure I understand entirely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>She nods and grins. "I've been listening a little. I thought that might be easy for you to understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>She looks down, trying to hide the disappointment on her face. "You're the one that asked. I didn't say I was good at explaining it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>She makes a wavering gesture with one hand. "That's pretty close. It's tricky stuff, and I'm not that great at explaining it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Her face lights up in excitement. "That's it exactly! The water might even taste a little like the cup, if the cup is made of tin. Or it might even taste a little like whatever was in the cup before. But you can pour it somewhere else and it's still the same water."
+
+She hesitates, then adds, "*Almost* the same water. Mostly the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>She nods gravely. "Not many people do. It's tricky stuff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"How old is Ahl again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"He was born only a couple of weeks before I came to the city." She glances at her pocket, then says in another stage whisper, "I'm so proud."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>She looks down at the stone in her hand, speaking softly. "But here there are no gods. It's like finding a place where people don't know what meat is. Or... air. How do you explain something like that?"
+
+"And I haven't seen a single god except for Ahl himself. And he is mine. He simply is. He is my friend..."
+
+Rhin trails off, looking down at the stone in her hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Did you bring Ahl with you from your home?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Where you come from, does everyone have gods they just carry around with them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>She shakes her head, her eyes far away.  "No. I m-"
+
+She breaks off, suddenly, hand tightening around her stone. Then starts again. "Well. Yes. I suppose I did bring him with me. I found him near a stream. I've been carrying him around in my pocket for years."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"It must be comforting having something from home with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"So gods are just laying around on the ground there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"So you come from a magical peaceful land where gods are just laying around, waiting for people to pick them up?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"You said Ahl was a couple of weeks old, but that you've had him for years. Which is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>She nods, absently running her thumb over the smooth surface of the stone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>She hesitates. "Well... no. Not really. Sometimes. But not usually."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>She scowls and puts her hand on her hip. "Yes, I do! And *you* come from a magical *terrible* land where berries explode and water is poisonous and giant lightning bugs try to kill you. What's your point?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"No. Usually the gods stay in a family's home. They give advice. They help with... things."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"What kinds of things do gods help with?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>She looks thoughtful. "Well... gods. You see. They're old. So they know a lot of things. Because they've been around for a long time. And they'll tell you what they know sometimes. Give you advice. Sometimes they just listen if you need to talk. Sometimes that's all you really need."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"What kinds of things do gods help with again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Gods are... old. So they know a lot of things. They'll tell you what they know sometimes or give you advice. And sometimes they just listen, if that's what you need."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"You said he was a god of hiding. Is that more than advice?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"It's nice having friends to talk to. But you're not alone anymore. You can talk to me, now, instead of Ahl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"No offense, but when you talk to rocks or trees or other things... it's kinda crazy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>She nods, and without noticing she lifts up the hand with the stone in it so that she's holding it close to her heart. "Some gods can help you with more than words. Ahl knows everything of hiding. Of being small and silent. He helps me hide. He makes it so no one can find me. He keeps me safe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>She rolls her eyes. "I do talk to..."
+
+She breaks off and gives you a narrow look. "Hold on. You don't think he's real, do you? You think my brains are all scrambled up!"
+
+She crosses her arms and turns away in a huff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>She rolls her eyes. "How could I possibly be offended at that? And anyway, it's not crazy if those things have gods inside them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>She opens her mouth, then closes it again. She's quiet for a moment, then says, "Ahl doesn't want me to talk about this any more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"I just want to make sure you're all right, Rhin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"*Ahl* doesn't want to talk about it, or *you* don't?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"All right. I can respect that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Her laugh has no humor in it. "Of course I'm all right. Why wouldn't I be all right? I'm far from home. I have stitches where hair should be. And everyone thinks I'm crazy - even that man who's scared of his own... what do you call it... levy? Even *he* thought I was crazy!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>She puts a hand to her head wound and squeezes her eyes shut. "I don't want to ask this, but... I don't want to *not* ask it either."
+
+She opens her eyes and looks at you, innocent and pleading. "Do you think I'm... wrong in the head?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Her lips thin. "Neither."
+
+She cocks her head toward her pocket again. "Fine. Fine, I will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"It's just... I know I sound crazy. Everyone from the junkyard to that... circus... to this place - nobody's kept to themselves how crazy they think I am. But I'm not! I just... I just can't remember everything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"I think you've gone through a really hard time, Rhin. Sometimes our minds play tricks on us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"I don't know what to believe, Rhin. Your stories don't match. If you're not lying then..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"It doesn't matter what I believe, Rhin. If you keep talking to rocks and trees and bones, people are going to lock you up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>A horrified expression races across Rhin's face. "Is that what they do here? Is that why you people don't have any proper gods? Did they lock up all the people who talked to them?"
+
+She pulls the stone from her pocket and grips it tightly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Of course I'm not lying! I just... I just..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"So... you *do* think something's wrong with me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"No, that's not what I meant. I'm only trying to make sense of what happened to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"I don't know... Maybe it'll help to remember more of your past. Like what are your parents' names?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"How could there not be, Rhin? You took a terrible crack on your head."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>She wraps her arms around herself and shivers in the warm air. "Me too," she mutters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>She rubs trembling fingers along the edges of her scar. Suddenly her hand freezes, then she yanks it away.
+
+She turns her back to you. "We should keep going. I... We should keep going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Well, my father's name is..." She trails off, her brow furrowing. "My mother is..."
+
+Her expression shifts from confusion to panic. "No." She shakes her head vigorously. "No!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"I know their names. I do! They're..." But again, her mouth stammers silently.
+
+"Ahl!" She pulls out the stone and holds it to her face. Her tears glisten off the stone's black surface. "Ahl, why can't I remember? Why?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"What did I do?" Her shoulders tremble, fighting the sobs that begin to rack her body. "What happened? What's wrong with me?"
+
+She continues like that for a long time, no longer aware that you are even there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Mom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>She shakes her head a bit, and turns back to focus on you. "That's where I belong. That's my home. I have *parents* there. I am *not* an orphan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"It sounds like a lovely town. What's it called?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"If you let me know what it's called, we can help you find your way home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"That doesn't sound like anywhere I've seen or heard of."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"It's okay if you have nowhere to go. You don't have to make anything up. You're safe with me. I won't leave you behind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Sounds very... creative. Have you come up with a name for it yet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>She smiles and opens her mouth to answer. A panicked expression flashes across her face for a moment. Her eyes dart back and forth before she puts one hand to her injured head. "It's... Baranth." 
+
+She looks up, her tiny face grave. "Yes. It's called Baranth. My village. My home. That's where my parents are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>She nods, looking down at her feet. "Like I said, it's really far away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>She looks up at you, surprised. And for a moment it doesn't look as if she knows whether she's going to laugh or cry. Tears win, but she smiles at you as she wipes them away. "Thank you," She says. "But I'm not making it up. It's a real place. That's my home. I have parents there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>She seems caught entirely off guard by your words, and angry tears well up in her eyes. "It's called.... " 
+
+Her expression goes stiff and she closes her mouth. She touches her head as if it pains her. After a long moment she says. "Baranth." 
+
+She looks up, her eyes red. Her face stubborn and angry. "Baranth. My village. My home. That's where my parents are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"How did you get to Sagus Cliffs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"How long have you been away?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Do you think your parents might be looking for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>She shakes her head, tears springing up in her eyes. "I can't remember. I remember... running. And a... fire? But it wasn't the right *color* for a fire. I don't know..." 
+
+Rhin looks around, her eyes lost. "Then I just remember being here. And nothing making sense any more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>She scratches her neck thoughtfully. "Only a few weeks. I think." 
+
+She touches the side of her head again lightly with her fingertips. "It's hard to remember. When I got hurt. I don't remember the time around then very well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>She looks thunderstruck, as if the thought had never occurred to her before.
+
+When she finally speaks, her tone is flat, almost numb. And it's clear that she's talking to herself as much as talking to you. "They know I'm safe. They can't be here. They have to be safe at home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Rhin brings her hands to her mouth slowly, her eyes terrified and oddly flat, almost glazed. She turns away from you, speaking to something in her hands, her voice too soft for you to hear.
+
+She continues like that for a long time, worried and muttering. You realize she has forgotten you are even there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>::whispers::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>{Awkward and apologetic}"I'm sorry... about last time. I know we didn't finish our conversation. I just... {Formally polite}I offer apologies for my rudeness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>{Formally polite}"I must offer apologies again for my rudeness. What would you like to talk about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Are you okay to talk a little more?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Can we finish our previous talk?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Is your crazy time done?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>She nods and gives you a tired smile. "Yes. It's just been... I'm not used to talking to anyone except Ahl about these things. It's harder than I thought it would be. But yes, let's talk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>She frowns at you. "If that's the way you're going to talk to me, then I'm not going to tell you anything else. Ahl says that I don't have to tolerate that kind of abuse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Fine. I don't need to hear more gibberings anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"I need to know things about the people I'm traveling with. So we need to talk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"I'm sorry. Things have been hard for me, too, lately. I shouldn't have said that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>She nods stiffly and turns away from you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>She crosses her arms in front of herself. "Fine. But be polite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>She nods, then straightens and looks you in the eye while placing a hand on her chest. "Your apology is mine. Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>As she speaks, you realize you can't sense her thoughts at all. Perhaps you hadn't noticed because it doesn't feel like a block.
+
+Either her thoughts are hidden or she has none you can read on the surface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Why can't I read your mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>She takes two steps away from you. "You can read minds? You're trying to read *my* mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Yes, but I can't read anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"I'm hardly the only person in the world who can do such a thing. I'm not even the only person in Sagus who can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Not exactly. I hear people's surface thoughts sometimes, but not yours. It's like you don't have any."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"That... Why would you be doing that to me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"That... Why would someone do that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"It's not something I choose to do. You hear people's voices whether you want to or not. For me, their thoughts are the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"It helps me not to accidentally offend anyone. Everyone has so many things they're irrationally touchy about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"It helps me know the best way to talk to people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"It's easier to get people to do what I want when I know what they're thinking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"It's not a bad thing. It's just... numenera. There were probably whole civilizations who could read each others' minds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>She nods slowly. "I suppose. But it seems pretty... invasive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>She nods slowly. "I suppose. But it seems pretty... invasive. That's not something you should do to people. I'm glad it doesn't work on me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>She frowns. "That's... pretty awful. At least you're not lying about it. To me... or to yourself." She crosses her arms in front of herself. "But it's still pretty awful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>Her eyebrows rise. "Oh. I didn't realize. It's still pretty invasive. I wish you didn't have to hear it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>She wraps her arms around herself and shivers. "It sounds awful. I'm glad it doesn't work on me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Sometimes I don't like it, but it also helps me to understand people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"I don't see what the big deal is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"It helps keep me alive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"How else can I tell when people are lying to me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>She shakes her head. "Well, it's not a good thing. You have to know that. It's like eavesdropping. But it's worse than that, because it's more private than a regular conversation. What happens in your head is just for you. It's a conversation a person is having with just themselves. Nothing is more private than that."
+
+She hesitates, then continues in a soft voice. "When a god is strong enough to see into someone's mind, it's a sign the god might be too dangerous. It's a bad th-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>She breaks off suddenly, then reaches into her pocket and pulls out her stone. She stares at it with the slightly vacant expression she gets sometimes, then speaks directly to the stone. "I haven't been keeping it from you, Ahl. There's a lot of things I've never told you. It's something I've never...."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>Another pause, and her face grows increasingly concerned.
+
+"Everyone knows, Ahl. Sometimes a god goes bad. When that happens-" She breaks off, head cocked slightly to one side. Her face growing concerned.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Well," she says, "if a god can move by itself, that's a big one. If it argues constantly with other gods or refuses to talk at all... those are signs that-" She stops again, listening.
+
+"Then you're supposed to take it to the... I can't remember their name. The god fixers." Rhin rubs her forehead with her free hand. "I can't remember what they're called..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Rhin? Ahl? I'm sorry to interrupt, but can we please go back to my original question?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Um... should I just leave and let you guys finish your conversation?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>Continue listening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"I've never seen anyone have an argument with their imaginary friend before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>She looks up, her face worried. "Oh, I'm sorry. We can talk about this later, Ahl. We're being rude."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>She puts the stone back into her pocket and blinks a little as if to clear her head. 
+
+"I don't know why you can't get into my head. Maybe kid's brains are different? Or maybe just my brain. Or maybe that sort of thing doesn't work on people where I'm from. I really don't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>She looks up, her face worried. "That might be best. He's really upset."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"I was just kidding, actually. I need to know what's going on with your mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Before you guys go have your talk, can you just give me your best guess as to why I can't see into your head?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Yeah. I'm sorry I brought it up. Go easy on her, Ahl. She's had a hard couple days."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Fine. Go talk to yourself. I don't know why I bother asking you questions in the first place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>She gives you a thankful smile and walks away, talking intently with the stone in her cupped hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>She scowls at you and walks away, talking intently with the stone in her cupped hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"If a god goes wrong, you take it to the... what are they called? God fixers? I can't remember..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Well, if I can't hear someone's thoughts, I'm glad it's a person I can trust anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Could it be Ahl? Could he be hiding your thoughts from me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Maybe it doesn't work on crazy people who have their heads full of god nonsense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"Well, let me know if you think of anything, will you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>She looks uncomfortable, but she nods in agreement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>She looks down. When she speaks, her voice is subdued. "Yeah. I'm sure that's it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"My nonsense god is strong enough to keep you out of my head. Thief."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>She looks surprised at this suggestion, then gives one of he widest smiles you've ever seen. She reaches into her pocket again, brings out the stone and holds it in front of her face. "Is it true, Ahl? Are you keeping my thoughts hidden?"
+
+She pauses, head cocked to one side, then she laughs and gives the stone a kiss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>She looks up at you. "You were right. He's the one that's doing it. And I'm glad. What's in a person's head is private. You shouldn't go prying into it. That's not what friends do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>Her eyes well up almost immediately, but she sets her chin and says, "So this is forgetting it then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>She looks like she's about to argue, then she shuts her mouth in a tight grimace. A tear rolls down her cheek, but she slaps it away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"You promised!" she shrieks. "You said you would never leave me. Was that a lie?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"Yes, I lied. But this is the truth now - you cannot stay with me. Go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"It wasn't a lie, but... I can't keep that promise anymore. You need to go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"I'd forgotten. I did promise you that. I'm sorry. Forget I suggested it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"I'm not arguing about this anymore. Just leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>She looks like she's about to say something, then she shuts her mouth in a tight grimace. A tear rolls down her cheek, but she slaps it away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"I'm sorry. I don't have time for this. You'll have to get someone else's help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"Right." Her lip trembles. "I understand. I'll just..."
+
+She sets her chin and forces her back to straighten. "Let's go. We don't have time to waste here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>::sniff::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"You asked me before what my parents' names were, and I couldn't remember. I still can't. I can't remember why I left, or how I got to Sagus Cliffs, or... or... or anything that happened to me before that horrible slaver Tol captured me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"I can't remember my parents' names. Why can't I? I can't remember why I left them, or how I got to Sagus Cliffs, or... or... or anything that happened to me before that horrible slaver Tol captured me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>She wraps her arms around herself. "I should remember by now. I can remember everything from the time I got hurt. I remember meeting Otero in the junkyard. I remember making Ahl...."
+
+She looks up, deep lines etched in her brow, that have no place on the face of a child. "But I can't remember anything before that - nothing before the slavers at all. And I don't know why. My head is *fine* now. So why?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"How did you get hurt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Maybe those memories are gone forever, Rhin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Maybe those memories were never real."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"Why do you think that is?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"Oh." Her cheeks become flushed. "I was running away from... someone. I don't know who. Tol and her slavers captured me. They hurt me, then stitched me up so Tol could... *use* me." She shivers, her face twisting into an ugly mask of disgust.
+
+"I escaped later. Days later, I think. Otero found me in the junkyard, and then later I made my home in Sagus Cliffs."
+
+She frowns. "But who was I running from before Tol found me? *That's* what I can't remember, and I don't know why."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"I can't believe that. I *won't* believe that. They're there. They're *real*, but I can only find snatches of them, frayed edges. When I look for the rest of them... they aren't there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>She shakes her head. "I don't know. The memories are *there*. I know it - just like those thugs knew I was in that house on Cliffs Edge. I can feel the memories, hear them... but when I look for them, they aren't there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"Do you mean they're hidden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"How long have they been gone? When is the last time you remember remembering them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"It sounds like amnesia to me. I know the feeling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>She furrows her brow in thought. "They were gone when I met Otero. They were gone when I made Ahl. They were gone when I hurt my..."
+
+She touches her scar. "No, they weren't. I knew my parents. Remembered them, in the cage. It was only afterward, when I ran from Tol, when I..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"It's not, though. I *had* amnesia - a little bit - after I hurt my head. But this..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"Hidden... like the thugs... like..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>She yanks Ahl from her pocket and holds him in front of her face. "Ahl, did... do you know about this?"
+
+She cocks her head the way she does when she listens to him. A worried expression blooms on her face. Suddenly she gasps. A tear drips from the corner of one eye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"Are you all right, Rhin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"It *was* Ahl, wasn't it? *He* hid your memories from you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>Wait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"Yes," she says. Then to the stone: "Why? Why did you do this?"
+
+She listens more. You hear something, like a bird rustling in its egg, but you can't tell if it's from the stone or something else.
+
+Her head still cocked, Rhin speaks to you, her voice strangely flat. "He's been hiding parts of my memory from the beginning. He wanted me to blend in, to avoid undue attention. And he was... *worried*. He thought if I knew the truth, I would have given up a long time ago. From the beginning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"Tell me then!" she says to the stone. Her face reddens, angrier than you've ever seen her. "What have you been keeping from me?"
+
+She listens for what seems a long time, her expression increasingly frightened as she does. Finally, she lets her hands fall and she tells you.
+
+"I ran away. I was angry at them, my parents. Something stupid, something we'd fought over a hundred times. But this time I left. I packed my things, took my coat, and when the moon was high I... just walked out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"I thought I was prepared. Thought I was safe. But they attacked me. Amar... No, I shouldn't say their name. Soldiers. It doesn't matter."
+
+Her knuckles whiten around the stone. "I ran. They ran faster. I made a god somehow, a god of going forth. I must have cut a way into this world and fallen through it. I guess it saved my life, but then... the slavers, my head, Ahl..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"No, I'm not. It was *Ahl*, the whole time." She clutches the stone. "Why?"
+
+She listens more. You hear something, like a bird rustling in its egg, but you can't tell if it's from the stone or not.
+
+Her head still cocked, Rhin speaks to you, her voice flat. "He's been hiding parts of my memory from the beginning. He wanted me to blend in, to avoid undue attention. And he was... *worried*. He thought if I knew the truth, I would have given up a long time ago. From the beginning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>She bites her lip hard. Then, "Why? Why did you do this?"
+
+She listens more. You hear something, like a bird rustling in its egg, but you can't tell if it's from the stone or something else.
+
+Her head still cocked, Rhin speaks to you, her voice strangely flat. "He's been hiding parts of my memory from the beginning. He wanted me to blend in, to avoid undue attention. And he was... *worried*. He thought if I knew the truth, I would have given up a long time ago. From the beginning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"Ahl did what he thought was best for you, Rhin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"It's over. You remember now. *And* you're a part of this world. You should forgive him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"I'm sorry he did that to you, Rhin. It wasn't right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"He hid your thoughts from me too, Rhin, when you didn't know or ask. He's just trying to protect you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"Hmph." She scowls. "Says the man who steals thoughts without trying."</DefaultText>
+      <FemaleText>"Hmph." She scowls. "Says the woman who steals thoughts without trying."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>She stays there on her knees for a long time, sobbing, then sniffling. Finally, she wipes her face on her sleeve.
+
+She stands up and walks over to where she threw Ahl. She stares at the rock for a while, then bends down and puts it in her pocket. "I need him," she says to no one in particular.
+
+She straightens, her face a mask. "Are we going or what?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>She stays on her knees for a while longer, wiping her tears away occasionally. Finally, she looks over to where she threw Ahl. "He's a friend. You don't throw away your friends."
+
+She stands and walks over to the stone. She stares at it for a while then says, "I can't forgive you, Ahl. Not yet... but you *are* my friend." She bends down and picks him up, then places him gently into her pocket.
+
+"We should go," she says without looking at you. "We need to go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>"What's the next... thing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"Why can't you talk to Ahl?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>She shakes her head. "Ahl is... He doesn't know about this, I think. He's too young. He wasn't there. I need to talk to *you*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>She scowls and shouts at the stone. "You *kept* it from me. You walked into my mind and *stole* from me! I can *never* forgive you. Never!"
+
+She pulls back and throws the stone as far away as she can manage. Then she collapses to her knees, her shoulders shuddering with each sob.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"That's true." She sniffs. "But is that any better than what *you* do? I don't know... I don't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"That's true." She sniffs and wipes her face on her sleeve. "But he broke my trust, picked it up and shattered it..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"{Softly, afraid to admit it}This is Ahl. He keeps me safe. He knows everything of hiding."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"Can... can we stop and rest for a bit? {stage whisper}I need to talk to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>"You have a new god now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"Can Varlin actually do anything?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"Oh, yes!" She reaches eagerly into her pocket and pulls out a dull shin. "His name is Varlin. He's a god of shifts and change."
+
+Her smiles fades slightly. "I feel like I need gods that keep me safe. To keep *us* safe. Varlin will help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>She smirks, a confident glint in her eyes. "We'll see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>"Who's Ahl?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>A flash of panic crosses her face. "What? No one," she says, too quickly.
+
+Then she sighs and pulls something from her pocket. It's a small, dark stone with a hole in it. She's outside your arm's reach, but she still holds it close to her chest, protectively.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>"If you're from so far away, why do you speak the same language as everyone here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>She tips her head to the side thoughtfully. "I don't know. I guess I could also wonder why you all speak *my* language."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>"...forget."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>"I'm not sad, kid. Just tired."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"It probably *is* tiring being sad all the time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>"Come now, child. What could my sisters *possibly* want from you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>"I don't know. Hair. Blood. Fingernails. My dying breath caught in a bottle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>Callistege rolls her eyes. "Children have *such* imaginations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"You can't have that either."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>"I hope not!" he says, looking shocked.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>Rhin giggles against the back of her hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>"He doesn't need to. Matkina's ears work just fine."</DefaultText>
+      <FemaleText>"She doesn't need to. Matkina's ears work just fine."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>"She's a little cold. I wish she wasn't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>"Oh... Can you pretend you didn't hear then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>"Let's pretend I said 'yes'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>"What a thing to say, lass," he says, genuinely shocked. "How could anyone not like you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>"*That's* the part of what I said that bothers you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>"Well," he says, clearing his throat. "You're a delight, lass. And that's all I'll say on the matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>Rhin nods to herself a little and says no more. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>"It's called Baranth. I made a god of going forth and cut a hole from there to here." She grabs your hand. "But that doesn't matter now. *You're* my new family, right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>"I *did* have parents there, anyway. You're my family now, right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>Script Node 387</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>"Tell me about Varlin again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>She pulls out the dull shin again. "He's a god of shifts and change. I made him to keep me safe - to keep *us* safe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>"I want to talk about your gods again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>::blrbl::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>"It's nothing you did, Oom. Don't worry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>"It's strange," she says, rubbing her arm. "Oom should be scary, but it makes me laugh. And a little sad. I don't know why."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>"It makes me laugh sometimes, but I feel sad when I look at it for too long. I don't know why."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>"What do you think of Oom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>"What do you think of Oom again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_rhin_not_in_party</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>144</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>{Excited; the player has just rescued her from slavers}"Oh gods, *thank* you! They were going to take me back to that *woman*. I've never met anyone so cruel. When she found me the first time she even... {Clears her throat, suddenly remembering her manners}My apologies. I'm still... out of sorts. You have my thanks and grace, sir."</DefaultText>
+      <FemaleText>{Excited; the player has just rescued her from slavers}"Oh gods, *thank* you! They were going to take me back to that *woman*. I've never met anyone so cruel. When she found me the first time she even... {Clears her throat, suddenly remembering her manners}My apologies. I'm still... out of sorts. You have my thanks and grace, my lady."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Tol Maguur asked me to bring you back to her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What?" She takes several steps back, looking anxiously at the rubble as though wondering whether she could make it. "No. You can't take me back to her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Don't worry. I'll figure out some way to solve this amicably."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"All right." She seems cautious, but trusting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"If you're a slave, then she'll have to make a deal. I'll arrange your freedom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>She furrows her brow. "That sounds fair... I guess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Don't worry about Tol. I'll take care of her, and make sure you *never* have to be a slave again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Just... just don't kill her. All right? Nobody should get hurt for me." She stands silent a moment, considering.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I'm taking you back, Rhin. You don't really have a choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I..." Then before you can stop her, she tears off and *dives* into a small crack in the rubble. You go to search for her, but she's dug herself even deeper, and then she's gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[You can't travel with me. I have too many people with me as it is.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[*dejected* I understand. It's all right. I'll stay hidden.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Bye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Oh, it's you! What brings you back here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[What were those thugs talking about?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Why did those thugs want you again?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[I ran away from Tol Maguur. She abused me. I don't like her, and I'm never going back.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[They were going to take me back to Tol Maguur. I'm never going back there again.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[I'm sorry, Rhin. I can't take care of you. It's too dangerous.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>She looks at the tiny nook she was hiding in, then back at you. "Where are you going?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Let's go!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"It's not safe here. You should come with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I've changed my mind. You should come with me, Rhin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[But... the danger. Will you protect me?]
+
+{SCRIPT: Has never joined party.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[My life is pretty dangerous. Are you sure you *want* to come with me?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Don't worry about that. I'll keep you out of trouble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[You're right. It's too dangerous. You'd be better off staying here.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[I'm not very good in a fight. I mean, maybe I can learn, but... Will you protect me?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"It's dangerous whether you stay here alone or come with me. At least with me, you can learn to take care of yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I guess so..." She sets her jaw then and nods. "All right. I'll do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"All right. That sounds good then. I'll do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>She nods, as though that were the answer she were expecting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[But... won't it be dangerous? I mean, those thugs might have attacked you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>{Fast and excited, also in awe that the PC is alive}"I thought you were dead! After they... hurt you, I hid again, but I could see you lying there. What you did, I... {Takes a deep breath; slows down}You have my thanks and grace, sir. Really."</DefaultText>
+      <FemaleText>{Fast and excited, also in awe that the PC is alive}"I thought you were dead! After they... hurt you, I hid again, but I could see you lying there. What you did, I... {Takes a deep breath; slows down}You have my thanks and grace, my lady. Really."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>For a moment it looks like she might hug you. But at the last moment she seems to think better of it and pulls up short a half-dozen steps away. She collects herself, standing straight with her shoulders back. Then she nods, the gesture so polite it's almost formal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"{Proper, a polite child to an adult}My name is Rhin. My home and hearth and bread are yours to use. {Embarassed}Except I don't have any of those things."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"How long were you hiding in that building?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"This is your home?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>She blinks a little, as if confused or surprised at your question. Then she looks around, shifting nervously from foot to foot. "I... this is my place. This is where I... sleep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>She looks at the shattered wreckage. "No. This is just where I was staying. I ran away from... I ran away. My home is a long way from here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"What happened to your head?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"What happened to your head again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Her body grows tense for a moment, her eyes darting around as if deciding whether or not to run away. She glances at the rubble where she had hidden from the thugs...
+
+She relaxes, though her eyes are still wary. "I was running away. There were some... people. Bad people. I ran away and got hurt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"I was running away from some bad people. I got hurt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Those thugs seemed to know you were here. How come they never found you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Did you say 'we' are good at hiding?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Rhin grins, and her sudden smile is like the sun coming out from behind a cloud. "We're good at hiding," she says.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>A flash of panic crosses her face. "Me," she says, too quickly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"You said 'we' are good at hiding."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>She shakes her head and begins to back away. She brings both her hands up in front of her, and you realize she's clutching something so tightly that her knuckles are white. "It's Ahl. He's my friend. You can take everything else. But you can't take him...."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Tell me about Ahl again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>She blinks. "Who?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Don't worry. I'm not going to take anything, not even Ahl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Who is Ahl?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"What are you talking about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>The girl tenses, and her frightened eyes flicker around the landscape. For a moment it looks like she will run, but then she slowly lowers her hand and opens it, revealing a small dark stone with a hole in it. She's outside your arm's reach, but she still holds it close to her chest, protectively. Her eyes never leave yours, her body is still poised to run. 
+
+"This is Ahl," the girl says softly. "He keeps me safe. He knows everything of hiding."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Ahl is... a rock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Is that an artifact of some kind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"How does Ahl keep you safe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"He's a god," she says with more than a little irritation in her voice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"No! Ahl isn't one of your 'numenera.' He's... he's a god."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"He's a god!" she says, as if that should answer everything.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>She frowns suddenly then, and looks down at the stone. "No. Obvously not." She pauses. "If he *did* he wouldn't have helped us in the first place, would he?" Another pause. "We should ask him." 
+
+It's only after a long moment of confusion that you realize that she's talking to the rock.</DefaultText>
+      <FemaleText>She frowns suddenly then, and looks down at the stone. "No. Obvously not." She pauses. "If she *did* she wouldn't have helped us in the first place, would she?" Another pause. "We should ask her." 
+
+It's only after a long moment of confusion that you realize that she's talking to the rock.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Rhin opens her mouth as if to say something, then looks down at the stone and closes it again. She nods and puts it into her pocket. "I wish I had something to offer you," she says. "I had some food, but it's mostly all gone now. Maybe I could find..."
+
+Rhin picks up a discarded piece of fruit, but when she straightens back up she seems to lose her balance. She staggers a little, then looks down at the rotten fruit and blinks, looking disoriented. "I'm sorry. What were we talking about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"I don't know, but you'll be safer with me than you will here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Maybe we can find you a doctor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Maybe we can find you a new home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"But what about those thugs? What if somebody else comes after me, or after *you*? I'm not a fighter. I can't help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Rhin frowns at that, though she seems to consider your offer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Maybe..." She wraps her arms around herself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"But you admitted it would be dangerous. Are you sure I'll be all right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"You're right. I can't afford to take someone who can't defend themselves. Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"No, I'm not. Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Farewell, Rhin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Where are you from?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>She looks out at the horizon and makes a vague gesture. "Really far away. But... I'm not sure exactly which direction."
+
+She looks around a little, almost as if she were seeking a familiar landmark. "It has to be a long way from here. My home isn't anything like this. There were trees upon trees... The trees here aren't trees like..."
+
+The young girl squints off into the distance. After a moment, her eyes go distant and you realize she probably isn't going to finish her sentence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"You were saying something about trees?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>She looks at you oddly. "What? No I wasn't...."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Where are you from again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Father always said you're never lost so long as you can see the moon..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Without seeming to realize what she's doing, the girl brushes her hand through her hair and you see the side of her head has been shaved. Large stitches run along her scalp, holding together an ugly cut longer than her hand. The wound is purple and angry-looking, only just beginning to heal. It can't be more than a week old.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"What's a little girl doing all alone here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>The girl looks up at you, her forehead creasing a little in irritation. "My name is *Rhin*."
+
+But then she hesitates and looks down, blinking. She reaches into her pocket absentmindedly, "Did I forget to tell him that?" She stands there motionless for a second, then stops and looks up at you again. "No. I think I did."
+
+She looks up at you. "I'm sorry," she says. "My name is Rhin. My food and fire are yours to use before you go."</DefaultText>
+      <FemaleText>The girl looks up at you, her forehead creasing a little in irritation. "My name is *Rhin*."
+
+But then she hesitates and looks down, blinking. She reaches into her pocket absentmindedly, "Did I forget to tell her that?" She stands there motionless for a second, then stops and looks up at you again. "No. I think I did."
+
+She looks up at you. "I'm sorry," she says. "My name is Rhin. My food and fire are yours to use before you go."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Are you okay? You seem a little... out of sorts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>For a second, she looks like she's going to be offended. Then her shoulders slump and she gives you a wry little smile. "I don't know why. Aside from being knocked stupid and attacked by thugs, it's been a pretty great day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Your scar looks pretty bad. Are you okay?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"What people were you running away from?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Who were you running away from again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Who stitched your head back together after you got hurt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"All right. Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Sure...."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>She makes a dismissive gesture toward her temple. "It's fine. It looks a lot worse than it is - and a lot better than *yours*, anyway."
+
+She smirks, touching the side of her head. "The haircut is pretty awful though, isn't it? I don't think they really needed to shave *quite* this much, do you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"I don't know... I think it looks dashing. Fashionable, even. You might start a trend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"If you don't want to talk about it, that's fine. I'm having some trouble with my memory too. I know what it's like."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"It does look pretty ugly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>She gives a wide grin. "I'll be the envy of every homeless waif in this entire..." She gestures grandly at the landscape, then hesitates. "Barrow?" Her grin fades as the word comes out of her mouth. "Sorry, I meant barrow."
+
+She pauses. Then says, "I know that's not the right word. I mean *barrow*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Her grin is entirely gone now, and her hands make fists as she looks down at the ground, concentrating. Her lips move, and at first you can't hear anything except for the hint of a whisper. Finally her body relaxes. "Yes. Neighborhood. That's the word I was looking for. Neighborhood."
+
+She looks up and gives you a shaky smile. "I offer apologies. It's been a long day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>She looks up at you for a long moment, and slowly lets her smile slip away. Without it she seems even smaller. She nods gravely. "At first it was pretty bad. I couldn't stay awake or stand up. Even talking was hard. But it's a little better every day. It doesn't hurt so much any more. But sometimes I still get dizzy when I move around too fast. And I forget things."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>She smiles bravely and touches the side of her head again, pressing with her fingertips. "But it's a little better every day," she says again, in exactly the same tone as before, as though she doesn't realize she already said it. "It doesn't hurt so much any more. But sometimes I still get dizzy when I move around too fast. And I forget things."
+
+There's a long pause. She stares at you blankly for a moment, her mouth open slightly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Suddenly, her eyes lose their vacant look and a grin spreads across her face. "I'm just kidding. I mean, I do sometimes forget things. A little. But that was a joke," she says, then blushes a little and looks down, sheepishly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Her smile slips, then disappears entirely. "Right. It does."
+
+She turns away, slipping her hand into her pocket. Muttering to herself, she says, "No, no. I said it first. How could *he* know?"</DefaultText>
+      <FemaleText>Rhin's smile slips, then disappears entirely. "Right. It does."
+
+She turns away, slipping her hand into her pocket. Muttering to herself, she says, "No, no. I said it first. How could *she* know?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>She relaxes, then looks up at you with a tired smile. "I offer apologies. It's been a long day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>She opens her mouth, then closes it again. She nods and puts her hand back into her pocket absentmindedly. "I don't really remember. I think they were... stealers. No. What's the word? Robbers. They wanted to rob me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"I don't really remember. I think they wanted to rob me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>For just a moment, her eyes flash with panic again, and they dart around like she's getting ready to run. 
+
+Then she touches the side of her head gingerly. "I... don't remember what happened exactly. But I got away. And I ran. And I ended up here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Your story doesn't fit. Who fixed your wound and shaved your head? If you could hardly sit up, how did you keep running?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>She scowls at you fiercely. "I didn't know I was talking to a judge," she says angrily. "I told you I can't remember. Not for days on either side of... whatever happened." 
+
+She looks away, mouth pressed into a firm line.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"I'm sorry, Rhin. I was just trying to help. It seems like you've had a rough couple days."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"If you're going to lie, at least make an attempt to keep your story straight. It's just insulting otherwise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>She gives a wavering smile. "Oh, it's not all bad. I found some shimmery berries today. So that means I get to play I-Wonder-If-This-Will-Poison-Me later. That's always exciting...."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>She glares at you and crosses her arms in front of herself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Is there anything I can do to help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>She shrugs nonchalantly. "I don't know. I'm pretty good here. Unless you happen to have any spare food you aren't using. Or water. Or... a blanket. Or a new bed or a house or... y'know... anything at all..." 
+
+Rhin starts out talking with a playful smile on her face, but then her eyes well up. Her voice stays cheerful even as the tears are running down her cheeks. She wipes them away, embarrassed and angry, but her hands are shaking now, and there are more tears, and words continue to pour out of her...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>She gestures at the rubble and gives a bitter laugh. "Is there anything you could do here that wouldn't help? Right now you could give me half a broken bottle and it would double my available resources."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"I offer apologies. It's just that I've been hungry for days. I don't know where I am. My head hurts and nothing makes sense." 
+
+She laughs then, helplessly, with a tinge of trembling panic finally bleeding into her tone. "Gods around me. I'm all broken in my head. The moon is wrong, and I'm so tired of being scared all the time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Give her a few shins.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"*I'll* take care of you. Come with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"I'm sorry, Rhin. I wish there were more I could do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>She blinks up at you and gives a huge grin. "Really?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Then she looks at your companions and seems to shrink away. "No, I'm all right. I mean, thank you, but... I'm all right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>She blinks at the money in her hand, then looks to you and gives a small, awkward curtsy. "Thanks and grace, sir. Truly."</DefaultText>
+      <FemaleText>She blinks at the money in her hand, then looks to you and gives a small, awkward curtsy. "Thanks and grace, my lady. Truly."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>She nods, her lip still trembling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>(Lie) "Don't worry about Tol. I'll take care of her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>She looks at each of your companions in turn. "I... think I would feel safer here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Why don't you come with us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Are you sure you won't come with us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>She looks at all three of your companions and then back at you. "Quite sure. Yes."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

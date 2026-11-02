@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_jherem</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>188</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Hey, shuva," he pants, shading his eyes from the sun, and grinning up at you. "Never seen you before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Hey, shuva," he pants, grinning up at you. Exhilaration and starlight mingle in his eyes. "Got dark quick today, hey?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The child skids to a halt and rubs his forehead with a grimy forearm, leaving arrow-tracks of dirt across his ruddy skin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"You're back!" Jherem says, squinting up at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"You're back!" Jherem says, scratching his filthy scalp with both hands. "Weird that it's so dark, hey? Maybe the sky forgot what time it is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Paja and Kellenor have been hiding the truth from you. You're from the past."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The words tickle your memory. Your eyelids flutter, and...
+
+You see hands - not yours - carefully turning the crackling pages of an ancient book. The roving eye catches the words "mard" and "siro" - old, old words for "mother" and "father".
+
+Blinking hard, you focus on Jherem once more. He does not appear to have noticed your sudden fugue, but he is not looking at you either.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Don't your parents worry about you running around here alone?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Huh?" Jherem says, looking just as puzzled as if you'd asked him what hands are for. "Mard. Siro. My parents. You asked me about them. Paja and Kellenor are taking care of me until they come back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Cheers, shuva."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Bank 15</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"You keep using words I don't recognize. Where did you hear them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Jherem, tell me where you're from."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Bank 18</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Do you like playing in the market?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Why do you like Zaofi's stall again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Bank 23</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Jherem's face goes white.
+
+"I... uh. I'm not allowed to tell adults about that. Or about where I'm from." His gaze steals to Paja and Kellenor, both of whom are suddenly taking a greater interest in your conversation. "Don't ask, hey?"
+
+{JOURNAL: Journal Entry here, summarizing Jherem's refusal to talk about where he got the lingo from.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Sorry, shuva," Jherem says, studying the ground. "Paja and Kellenor says I'm not supposed to talk about that. With adults, at least."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I'm not an adult," Rhin says cheerfully. "And you can trust him. He knows all sorts of secrets and never tells *anyone*."</DefaultText>
+      <FemaleText>"I'm not an adult," Rhin says cheerfully. "And you can trust her. She knows all sorts of secrets and never tells *anyone*."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Bank 27</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"What do 'mard' and 'siro' mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Remind me what 'mard' and 'siro' mean again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Bank 30</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"My parents?" Jherem says, eyebrows crinkling. "You mean Paja and Kellenor? They're watching me until my mard and siro come back for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Okay," Jherem says, scrubbing tears from his smudged cheeks. "Maybe I... I'll find a way back when I'm old enough to travel like you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I grew up in the Downs. My parents lost their spots on the work chain, and we went to sleep hungry more and more. Neither of them could look at me without crying." He swallows.
+
+"But everyone in the Downs was starving. Wasn't anything new. People started using that archway more and more." He pauses, scanning your face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Oh," Jherem says, chewing his lip. "I guess I can tell *you*. But you can't spread it round, right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText> Follow-up PQ. 35</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"All right. Tell me about where you're from."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Tell me about where you're from again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Not always, but it's better than school, hey? And I like watching Zaofi make sculptures, the ones that go sharp and curly. Reminds me of the monster on the side of Scarrohall."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText> Addend. 40</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText> Follow-up PQ. 42</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Scarrohall? What is that, a building?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Tell me about Scarrohall again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Cascade 45</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"His sculptures," Jherem says simply. "Not good enough for the side of Scarrohall, but close enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Jherem's eyes flicker between you and his wards before he answers.
+
+"It means 'parents', shuva." He laughs, albeit nervously. "I thought *everyone* knew that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>The boy listens as you repeat what his foster parents told you, his eyes growing ever wider and full of tears. 
+
+{JOURNAL: Journal entry here, describing Jherem's reaction, and a tip to go talk to his parents.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Story didn't get any shorter since the last time you asked," Jherem says. "Sure you want to hear it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"C-centuries?" Shining lines streak down his cheeks. "What if I want to g-go back home? Am I stuck here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Don't think about it like that. You live in a better place and time with people who care for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Leave the past behind you and enjoy your new life. Remember, your parents can hear when you laugh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"I've never heard of these doorways, but maybe you'll find one. The world is a big place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"I don't care about that!" Jherem shouts, baring his teeth at you. "I want that cold room back! I want *them* back!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"I'll try," Jherem says, dropping his gaze, and covering his face with his hands. "I really will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Bank 56</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Can we talk about what I said?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Jherem, can we talk?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Bank 59</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Jherem shakes his head, and does not look at you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"No." His voice is a small, trembling thing. A tear flashes down his cheek, and he rubs it away with the heel of his hand. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"I don't know why you told him the truth," Rhin says, her eyes red. "But I like that you gave him hope. I hope you believe what you said."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"What happened to him wasn't fair or right. But you're not wrong. I've heard of stranger things than a kid finding a way back home."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Hope is a fine thing, but I dislike seeing it handed out carelessly," Callistege says, sighing. "Doing so undermines its worth."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"This is not a fate I would have wished for the child, but he will come to agree with you in time."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"He wants to go *home*," Rhin says. "What was wrong with giving him a little hope?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"What happened to him wasn't fair or right. But you're not wrong. He's better off here and now. I would have done what his parents did in a gods-damned heartbeat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Come to grips with the truth, kid. There's no way back. Your parents - that life - they're gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Blood drains from the child's face, as if you had screamed at him. He opens his mouth to speak, and only a sob escapes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"You shouldn't say things like that to people!" Rhin shouts at you, her eyes wide, and filled with tears. "Not unless you *know* for sure!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Knowing the truth doesn't give you the right to slap people with it, kid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"That's... not quite how I would have handled matters, but we all have our little ways."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"He wants to go *home*," Rhin says. "What was wrong with giving him a little hope?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"What happened to him wasn't fair or right. But you're not wrong. He's better off here and now. I would have done what his parents did in a gods-damned heartbeat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"This is not a fate I would have wished for the child, but he will come to agree with you in time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Tear-tracks mar Jherem's dusty cheeks, and he does not look up as you approach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Get gone, wanderer. Leave us alone"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"You've done enough damage. Leave the boy alone!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Can't you leave us be?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Pleases you, does it? Breaking a child's heart?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Tear-tracks mar Jherem's dusty cheeks, and he does not look up as you approach. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"I dunno. Paja and Kellenor make me wash twice a day! Guess the dirt likes me, hey?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Why are you so dirty?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Bank 84</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"You called me 'shuva'. What does that mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"What does 'shuva' mean again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Huh?" Jherem says. A cautious light enters his eyes. "Really? You never heard it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"It's another name for adults. Don't mean nothing by it. Just a word, right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"I have, but not since I was young," Aligern says, smiling at the boy. "Kids are saying that again?"
+
+When Jherem nods quickly, Aligern glances at you, his smile fading into his customary scowl. "It's slang from an older dialect, kid. My grandfather used it when *he* was young. They'd get outsiders coming through the village, dealing tough with the merchants and shoving kids aside as they went about their damned important business. Shuva. Get it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Relief flashes across the child's face.
+
+"It's a nickname for adults, not a mean one - not really. Some adults are nice to kids, right? Pat the head, here's a flower, a bit of gnash, whatever. But some aren't so nice. They curse, they shove us aside when we're in the way. Kids remember shoving more than smiles, right? So: shuva."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>(Lie) "It sounds familiar. What does it mean again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>A nervous blush colors his cheeks. It doesn't seem like he's afraid of *you*, though.
+
+"It's not mean. Uh, not really. It's a nickname for adults." Jherem glances at your face and goes for it.
+
+"Some adults are nice to kids, hey? Pat the head, here's a flower, a bit of gnash, whatever. But some aren't so nice. They curse, they shove us aside when we're in the way. Kids remember shoves more than smiles, right? So: shuva."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Jherem's eyes widen to the size of moons.
+
+"You should probably fix it," he advises with quiet, childlike gravity. "Breaking time's not like dropping a plate, shuva. People are going to notice. You're going to get in *trouble*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"It's dark because I broke the Clock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Oh," Jherem says. A thought strikes him, and he brightens. "Looks like bedtime is either all the time or never, now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Okay," Jherem says, looking relieved. "Glad to be of help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Good point. I'll repair it when I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"I'm not worried. Someone else will fix it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Yeah, shuva," Jherem says, chuckling. "It's just a building at the center of town. A thousand hands tall, with a mural on the side like Zaofi's sculpture, but flat, and in purple rock. Don't think you're going to miss it if you're looking for it, hey?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Huge building in the center of town with a huge mural on the side that looks like one of Zaofi's monsters. You can't miss it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>A wave of dizziness clutches at you, and you close your eyes to steady yourself.
+
+You kneel in a basement, amid rotting rolls of carpet and broken furniture. A stack of paintings, draped in dust and mold, lean against the sweating wall. The painting in front displays the building Jherem is speaking of. But through this body, this mind, you remember that it was torn down centuries ago to build a forgotten ruler's palace. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Wariness steals over Jherem's expression, and he bites his lip, as  though he fears he has said too much, and is trying to hold the rest of his words in. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>The stink of the basement flees your nostrils as you open your eyes. Jherem, fidgeting, has looked away from you to examine an interesting stall nearby. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Yeah, you will," Aligern mutters, studying Jherem from the corner of his eye. "Scarrohall was a huge temple at the center of town, like he says. It was torn down centuries ago. Kid's either a liar or a carker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"We might," Callistege whispers, studying Jherem with something like concern. "The Scarrohall was a grand temple at the center of town, like the child says. I say 'was' because it was torn down centuries ago. I do hope he's lying, because otherwise, he's mad."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Big thing. Always good smells coming out of it, too, like roasting meat and sunny days. I used to watch it, but I was never sure what it was for, you know? And the parents in the Downs never talked about it either."
+
+He shrugs without looking at you. "Then one morning, I saw Corna - a friend of mine - and her mard go up. Mard gives her a kiss, sends her through. And Corna never came out again. Know what did, though?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Never mind the Downs. Tell me about these Crooked Doors instead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Bank 118</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"What are the Downs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Tell me about the Downs again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Bank 121</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Jherem sighs. "If you weren't in the Families in the Up, everywhere else was Downs, inside the wreckage. We'd dig deep, looking for food first, warm second. My neighborhood was inside this curvy spiral. If you've ever seen paintings of a seashell, it's like that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"It's where you live in this town if you don't have coin," he says.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Food."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Music."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Bloody bones."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Gods, shuva," Jherem says, eyeing you with respect. "Wish that were true. Be a lovely story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Close, shuva," Jherem says. "Lovely guess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Ha, no," Jherem said. "That'd be cruel for Corna's mard to lose her girl and gain a meal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"But no, it was a metal ring," he says, lowering his voice to a confidential whisper. "Didn't look to be worth much, but every once in a while, you'd hear Corna laughing. Wherever she was, she was *happy*, right?"
+
+He raises his hand to his cheek, then continues. "Handful of days pass, and my mard takes me for a walk too. Said she'd find me when they'd saved the money, kissed me, and pushed me through it."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Woke up outside another archway, up in Government Square. Paja and Kellenor were waiting for me there." 
+
+Jherem rubs his nose. "They're not so bad, but I keep hoping my parents will stop by to visit. Even if they don't have the money yet, right?"
+
+He pauses, rubbing at the sudden moisture in his eyes. "I try to laugh a lot so they can hear me, though."
+
+{JOURNAL: Journal entry summarizing Jherem's tale, and urging the player to confront Paja and Kellenor about it.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Yes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Give me the short version."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"My mard didn't want me to starve, so she pushed me through an archway. I landed outside another one, where Paja and Kellenor were waiting. They're taking care of me until my mard and siro come."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Here, shuva," he says, brow crinkling in frustration. "I'm from *here*. It just up and changed without me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>::sniffles::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Bank 139</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Why don't you make statues any more?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Cheer up, you old munker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"You've got a red face. You know that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Actually, never mind. I want to talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Suit yourself," Jherem says, shrugging. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Bank 149</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>You turn back to Jherem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Bank 151</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>You turn back to Jherem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Bank 153</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>You turn back to Jherem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Bank 155</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>You turn back to Jherem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Why do your robes make music?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"What you selling?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Can I see your claws again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Can we stay ten more minutes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Look at this rock I found!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Watch how fast I can run!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Anyone ever win, shuva? I bet they don't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"What does the sharp part do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Calm down, shuva. I didn't touch it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"What do you call that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Is the brown one supposed to smell like a sick fish?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"I ate one of those once. Gave me the chamblers for *weeks*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Why'd you make that squidgy bit here, hey?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Is that statue's nose supposed to be crooked?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Huh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Tell me about that archway you mentioned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Tell me about that archway again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Parents sent their kids through so they wouldn't starve at home. It'd spit out a ring that let you could hear the kids sometimes, laughing. My mard thought it'd be better to hear me laugh than see me starve, so she pushed me through one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Uh, yeah, that's it all right." A nervous blush colors his cheeks. It doesn't seem like he's afraid of *Aligern*, though.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Bank 182</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Don't worry. I know all sorts of secrets, and I never tell *anyone*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"You can trust me, Jherem. I won't tell anyone, I promise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"All right. Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Thanks. They're not my parents, but they also don't buy sugar when they're grumbling. You know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Jherem wavers, looking between his adopted parents and the face of his new friend. Finally, he gives up. 
+
+"All right. I guess I can tell you. But you can't spread it round, right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"I can't," he says, looking miserable. "Sorry, shuva."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>He hesitates, then grins.  
+
+"All right, all right. I guess I can tell you. But you can't spread it round, right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"I can't," he says. "Made a promise. Sorry, shuva."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Script Node 193</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>[DEBUG] Pretend you told him the truth - that he's from the past and everyone he knows is DEAD (life's rough, kid).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>You turn back to Jherem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Oh, I hate to see this," Tybir says, raising his eyes to the sky. "Such a bright and promising lad, and he's already keeping terrible secrets from his elders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Let the boy keep his secrets if he wants to, Tybir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"He's right, Jherem. You shouldn't be ashamed of the truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"What?" Jherem says, squinting up at him. "No, it's not like that. It's nothing *rancid*. I just promised I'd stay quiet, right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Tybir gives you a barely perceptible jerk of his chin, urging you on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"If you say so," Tybir says, the faintest hint of puzzlement behind his merry eyes. "But if you ask me, secrets pluck holes in the soul. Look at me, for example."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Tybir nods solemn agreement. You can't help noticing that *he* looks somewhat ashamed. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Jherem stares at Tybir's face for a long moment, then surreptitiously glances down as if checking for the damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Jherem wavers, looking between his adopted parents and the two of you. Finally, he gives up. 
+
+"All right. I guess I can tell you. But you can't spread it round, right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Oom burbles gloomily to itself and does not look up at you. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

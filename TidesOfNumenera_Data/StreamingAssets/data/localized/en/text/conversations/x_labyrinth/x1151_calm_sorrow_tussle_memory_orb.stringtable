@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1151_calm_sorrow_tussle_memory_orb</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The orb's light strobes insistently, a blazing pyre in your mind's eye. 
+
+This is no test, no struggle to define yourself. This orb *needs* you, and it lurches toward you. A staggering blast of immediacy envelops you, dragging you inside.
+
+The memory comes flicker-fast, a welter of impressions: terror, loathing, disgust, but most of all, the primal horror of nothingness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Are these your memories? You don't know. You *can't* know.
+
+Scenes flash before your eyes. A laboratory, a desert arroyo, the darkness of space through an observatory's window... and the constant presence is the black stain of the creature that has hunted you for all these centuries. 
+
+And now the memory solidifies. The name inscribes itself on your heart: The Sorrow. The Sorrow is the hunter. The Sorrow is death. The Sorrow is oblivion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Your memory is a collage of images. In each, the Sorrow descends faster, closer to destroying you. Its malign influence within you is reflected in the fragment before you: your doom, just as your life begins... You tumble out of the memory.
+
+And then a flare overwhelms your vision, and you feel a *familiar*, almost-comforting presence.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

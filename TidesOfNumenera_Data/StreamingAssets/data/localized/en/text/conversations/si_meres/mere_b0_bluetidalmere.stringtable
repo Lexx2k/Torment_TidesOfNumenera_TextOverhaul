@@ -1,0 +1,1565 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\si_meres\mere_b0_bluetidalmere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>227</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Blue. Once, you had two dozen words for all its hues and shades; metaphors to glaives' capes and courtesans' eyes. Now, the sky is just... blue. The ground is stone. The man before you, fat. Now, all is vague and drab, like...{VOICE: : At "like..." the narrator (or anyway the POV MPC) is groping for a metaphor and can't find one.}
+ 
+The Memorialist sees you've stopped, and he halts as well. "Let's have a rest, then," he says, passing you a bottle of fortified water as he catches his breath. You knew a word for that, too, this drink they brew in the Valley of Dead Heroes. Gone. "We aren't far from his cenotaph." The fat man wipes his brow. {VOICE: "Gone" should be a powerful blow with a longer than usual pause after the period.}
+
+Deep in your pocket, your hand feels for the round tin that holds the worms; your fingers clutch it tight and as they do, they brush a piece of paper. {VOICE: "The worms" should be delivered ominously, faintly disgustedly. The worms are the MPC's addiction; he craves and loathes them}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Are you his shadow?" the Memorialist asks abruptly. "Kalaghat Anvor, I mean. The one you came to see."
+
+Without waiting for a response, he barrels onward. "We thought he'd cast his shadows among his own kind. We reasoned that with the Tabaht gone, his line was lost forever."
+
+He stops and flushes more deeply, then, hastily, with a sign, adds, "But shadows fall where they will, as they will." {VOICE: "But shadows fall . . . as they will." This is a kind of catechism-type line, delivered by rote and note entirely believingly. Note that line has a deliberate staccato structure designed to run slightly at odds with the "hastily" - it emphasizes how the Memorialist is a bit thrown off, nervous, jangled.}
+
+Kalaghat Anvor. Tabaht. Shadows. They flit around the edges of your mind, escaping your grasp. But the worms... they are well within reach. {VOICE: Now when the narrator says "worms" the disgust is largely gone: I hear this almost a little huskily, anticipating their pleasure. However, the "they are well within reach" could have a more ominous sound.}
+
+"Shall we continue, pilgrim?" the Memorialist asks, to break the silence. "One more short hike will do it."
+
+Your body is ready. Your mind is not. {VOICE: Similarly, I would add some dread to "your mind is not."}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Examine the paper in your pocket.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Examine the tin in your pocket.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Kalaghat Anvor? Shadows? Tabaht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"What do you know about the tabaht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"What are these 'shadows' you mentioned?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Let's go. I want to see the cenotaph."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Snort a worm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You slip the crisp, neatly folded sheet from your pocket and carefully open it.
+
+"I will want the worms, but I will be strong. I will wonder what I have lost, but they will only rob me further. I will endure, and I will build the tower of my intellect anew. Kalaghat Anvor will furnish the material. The Mindlink, not the worms, will be my tool."
+
+The Mindlink.
+
+A dead-eyed trader from Haref sold it for the last of your once-great heap of prizes and bounties. Now it's slung from your belt, a hideous mask with a synth tube hanging off it like some sathoshi tentacle.
+
+{[B] SOUND: Paper sliding and then being unfolded.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The trembling form of the letters tells more The trembling strokes that poorly form each letter tell more than the rote promises of strength and endurance. It is a letter that has been written many times, and in the end tossed aside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The tin is old and unremarkable: scuffed and dented but sturdy enough. It opens easily.
+
+Inside is a clump of bristly worms, blind and thin, barely moving. Your fingers itch and tremble. Your nostrils flare. You no longer know their name, but you know exactly how to use them.
+
+Careful not to spill the precious contents, you close the tin and slide it back into your pocket.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Each of us is a shadow of a great one interred beneath this ground. The only way to understand the light that shines behind this world of darkness is for the shadow to stand beside the hero who cast it, by each staring at the other, to learn of the light we cannot see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>REMOVE HIGH
+
+What a walk.  Arrive at Cenotaph.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>The Memorialist regards you skeptically, as if he expects to be the butt of a joke. As he looks in your eyes, however, he softens.
+
+"We live in a world of darkness, pilgrim, and each of us is just a shadow of one of the great heroes buried here in this valley. But there's a light that shines behind the world. To know it, we shadows must measure ourselves against the heroes who cast us, and thus learn the light that lives beyond."
+
+He takes a swig from the canteen. "I thought you set out on this pilgrimage to visit the tomb of Kalaghat Anvor because you were his shadow. That you wanted to stand before him and find enlightenment. Am I wrong? Are you his shadow or not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Yes, I'm his shadow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"No, I'm not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I don't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The memorialist nods. "That's how it is. I've met pilgrims who swore they were lords and ladies of old, but when they reached the grave, wept in shame. But I've also seen a novice stumble across her hero by mere chance. If you find Kalaghat Anvor, you will know who you are, or are not."
+
+He gestures to the hilltop toward which you've been hiking. "Just over that rise is the monument. As for his tomb... you said that the cenotaph would lead the way. I can't see how, but for the famous puzzle-breaker of Sagus Cliffs, I'm sure it will be simple."
+
+Your mind might still be clouded, but at least now the form of things has become clearer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The man looks crestfallen at your answer, but in the end he shrugs. "Pilgrims cross the valley for reasons of their own - to mourn, to gawk. It's not my place to judge."
+
+He gestures to the hilltop toward which you've been hiking. "Just over that rise is the monument. As for his tomb... you said that the cenotaph would lead the way. I can't see how, but for the famous puzzle-breaker of Sagus Cliffs, I'm sure it will be simple."
+
+Your mind might still be clouded, but at least now the form of things has become clearer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>The memorialist smiles. "It's a rare honor to join shadow and hero, and a joy for those of us who shepherd pilgrims through the valley."
+
+He gestures to the hilltop toward which you've been hiking. "Just over that rise is the monument. As for his tomb... you said that the cenotaph would lead the way. I can't see how, but for the famous puzzle-breaker of Sagus Cliffs, I'm sure it will be simple."
+
+Your mind might still be clouded, but at least now the form of things has become clearer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"What do you mean, 'shadow'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Duplicate node 14</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>more observant
+
+ARE YOU HIS SHADOW?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Tabaht blah blah.  You're the expert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Gripping a grub between two fingers, you slip it into your nostril and breathe as deeply as you can. The worm works with you, eager to reach its meal.
+
+You feel it squirm the last stretch, and then pain like a knife stabs your brain, and you know the worm is feeding, eating gray matter and pissing neurostimulants, letting your mind reconquer the vast territories it has lost.
+
+Mnemotodes. That's what they're called, not worms. And cerulean. That's the sky's color. Not blue. The rush of understanding overwhelms you: you read the world's unwritten words, devise stratagems, unravel mysteries...
+
+{[A] SOUND: Snorting a worm. Just a hard, drug-snorting sound.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Snort another worm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>You eagerly slip another worm up your nose, </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>As you follow the Memorialist up the crumbling path, he carries on about a time when all the roads in the valley were as well-paved as the streets of Sagus Cliffs. Then, reaching the hillcrest, he falls into reverential silence.
+
+When you catch up, you see the sight that awed him even for the thousandth time: a clutch of exquisite monuments, ranging from vast to miniature, from abstract to eerily lifelike. The Memorialist points to one of them - a many-sided slab of black stone - and gestures for you to follow.
+
+This must be the cenotaph of Kalaghat Anvor, Tabaht general and would-be world conqueror.
+
+{[B] SOUND: Walking up a rocky path.}
+
+{IMAGE 2: The Cenotaph}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Up close, the cenotaph is not so remarkable. Its faces are adorned with gruesome, stylized reliefs depicting the Tabaht and their dragolith mounts trampling the corpses of their foes. Neat, geometric glyphs encircle the panels. Like the images themselves, they are embossed rather than engraved.
+
+The Memorialist clears his throat. "Of course, Kalaghat Anvor isn't *here*. Like the other heroes, his body's in one of the cells in the catacombs beneath us." He nods at the monument. "This is its own sort of shadow - all memorials are."
+
+As your guide mumbles something about the difference between expression, impression, and reality, your attention returns to the cenotaph itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Tell me about the monument."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Study the glyphs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Take another look at the glyphs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Examine graffiti.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Look at the graffiti again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Examine the basin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Examine keypad again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Then it's gone, again. Words and thoughts slip from you as you frantically struggle to hold on to what you can.
+
+The worm's short gift has been squandered. They must be used carefully, sparingly.
+
+With a shaking hand, you twist the tin shut and slip it back into your pocket.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"I'm not ready yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>The memorialist nods, and in a gentle voice says, "A pilgrim must climb more than ridges, and cross more than plains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>The memorialist shrugs. "You have paid me well, pilgrim, and my body has never complained of too much rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Snort a worm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Snort another worm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Use the Mindlink on the Memorialist's corpse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Learn about how to align the portal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Align the portal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Step through the portal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Aligned.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Already knew about aligning</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>You step toward the wavering energy field and stare at the blue-tinged tomb beyond. The blood price has been paid, and Kalaghat Anvor rests within.
+
+Tarrying no longer, you plunge through.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Horrible death!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>You step toward the wavering energy field and stare at the blue-tinged tomb beyond. The resting place of Kalaghat Anvor.
+
+The Memorialist remains at a respectful distance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText> "May you find enlightenment beside your hero, pilgrim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText> "Whatever it is you seek, pilgrim, I hope you find it within."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText> "I will pray that your hero awaits within, pilgrim, and that you find enlightenment at his side."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>The tomb's walls are bare stone, as is its floor. In fact, the room is empty except for the sarcophagus that sits at its center, a crystalline numenera that hums with ancient, indefatigable energy. Bathed in the portal's light, the room feels almost underwater, a sensation heightened by the air's unnatural weight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>War. Blood. Battle. Death. Those symbols are graven in your mind just as they are on the cenotaph. But you can squeeze no more meaning from memory than you can from the stone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>The glyphs contain smaller symbols, linked in intricate chains and knots. They resemble mathematical notation more than language.
+
+The glyphs glow beneath your fingers, then fade.
+
+Perhaps they conceal a formula, a clue to the Tabaht's military mastery. But their secrets slip through your mind like water through a sieve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>As you struggle to decipher the symbols, the Memorialist hurries over. "This one means 'war,'" he says, illuminating a cluster repeated endlessly on the cenotaph. "This one, 'death.'"
+
+He picks out others and shows how the ideogram for "soldier" weaves into "warband," which can in turn mesh into "column" or "army."
+
+Excitement grows in his voice as he leads you to another panel and shows you the unique markings that compose the pattern for "Underspine." "A high council, we think, or god."
+
+He notes what seems to be a structure to the writing - a pattern within the pattern. "Could it be a puzzle to open the way to Kalaghat Anvor?" he asks, expectantly.
+
+You have no answer for his hopes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>In the end, they mean no more to you than the scratches on the wall of an empty cell. Someone was here, and now is gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Now you know the symbol wrapped around the basin's lip. "Blood." Of course. It could be nothing else.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Sacrifice the Memorialist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Spill some of your blood in the basin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Beneath your guide's worried gaze, you nick your wrist and drizzle some blood into the bowl. Nothing comes of it. Whatever flows through your veins will not slake the stone's thirst.
+
+{[B] SOUND: A cutting noise and then a few drips of blood.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Perhaps your guide underestimates the strength still coiled in your sinews; perhaps he imagines your body has gone soft as your mind. Or maybe his faith gives him no cause to fear leaving this world of shadows.
+
+Whatever the case, he hardly seems to flinch as you swing a jagged rock toward his head. The sound is more a thud than a crack, but any fool could see his skull is smashed.
+
+You drag his body to the basin and saw at his neck until the blood begins to run, filling the bowl faster than its narrow drain can empty.
+
+You step back and watch as the glyphs glow bright blue, casting with their light a kind of shimmering portal in the air. Through it, you see hints of a room.
+
+{[A] SOUND: Rock hitting a skull, followed by someone falling.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>The tin is old and unremarkable: scuffed and dented but sturdy enough. It opens easily.
+
+Inside is a mound of worm-like grubs, blind and thin, barely moving. You fingers itch and tremble. Your nostrils flare. You no longer know their name, but you know exactly how to use them.
+
+Careful not to spill the precious contents, you close the tin and slide it back into your pocket.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>The tin is old and unremarkable: scuffed and dented but sturdy enough. It opens easily.
+
+Inside is a mound of worm-like grubs, blind and thin, barely moving. You fingers itch and tremble. Your nostrils flare. You no longer know their name, but you know exactly how to use them.
+
+Careful not to spill the precious contents, you close the tin and slide it back into your pocket.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>You slip the crisp, neatly folded sheet from your pocket and carefully open it.
+
+"I will want the worms, but I will be strong. I will wonder what I have lost, but they will only rob me further. I will endure, and I will build the tower of my intellect anew. Kalaghat Anvor will furnish the material. The Mindlink, not the worms, will be my tool."
+
+The Mindlink.
+
+A dead-eyed trader sold it for the last of your once-great heap of prizes and bounties. Now it's slung from your belt, a hideous mask with a synth tube hanging off it like some sathoshi tentacle.
+
+{[B] SOUND: Paper sliding and then being unfolded.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>You slip the crisp, neatly folded sheet from your pocket and carefully open it.
+
+"I will want the worms, but I will be strong. I will wonder what I have lost, but they will only rob me further. I will endure, and I will build the tower of my intellect anew. Kalaghat Anvor will furnish the material. The Mindlink, not the worms, will be my tool."
+
+The Mindlink.
+
+A dead-eyed trader sold it for the last of your once-great heap of prizes and bounties. Now it's slung from your belt, a hideous mask with a synth tube hanging off it like some sathoshi tentacle.
+
+{[B] SOUND: Paper sliding and then being unfolded.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Try to find the correct sequence of glyphs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Your fingers race across the glyphs, which now do not fade as you progress. Rather, with each touch they grow brighter and brighter.
+
+You can hear the excited gasp from your guide as you reach the last side of the cenotaph. With a flourish, you press the final symbols. The skein ends in "war," of course.
+
+Blue light pours forth from the cenotaph, forming a kind of shimmering portal. Through it, you see hints of a room. "His tomb," whispers the Memorialist.
+
+A smile sneaks onto your face as you see the way before you.
+
+{[A] SOUND: "Sound" of techno-magic lights turning on.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>You trick yourself into thinking that you can crack whatever code the stone holds, but neither logic nor luck makes any headway.
+
+The glyphs shine and fade, but nothing happens. Given the endless combinations, not even the persistence you had of old could break through this lock.
+
+{[A] SOUND: "Sound" of techno-magic lights turning on.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Once again, you guess at possible series of glyphs that might provoke some reaction from the cenotaph. If there is a key, you do not find it.
+
+{[A] SOUND: "Sound" of techno-magic lights turning on.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Open the sarcophagus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>A few twists of the coffin's cylindrical locks, and the lid rises up with a hiss of icy, age-old air. As the mist clears, you see at last the face of Kalaghat Anvor.
+
+You feel nothing at the sight of him, never having known the terror of his triumvirate. His inhuman features are slightly mummified, but well preserved; his ebon tabard is faded with time that even the sarcophagus could not keep at bay.
+
+But it is his head that matters, not his clothes. His head, and its brain, and the insight sheathed within, an edge keen enough to cut through the tangle of your own failures.
+
+{[A] SOUND: Hissing sound of a hermetically sealed coffin opening.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Use the Mindlink on the Tabaht corpse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Once you slip the helmet over your face, you can't see and can barely breathe. Trapped in the mask's damp darkness, you fumble for the socket at the base of the corpse's skull. At last you find it, and - still struggling - try to bring the conduit tube into contact.
+
+Suddenly, the darkness explodes with light: the nebulous, patchwork glow of your own mind and, beyond it, the glorious mandala formed by the thoughts of Kalaghat Anvor.
+
+A mote emerges from that pattern, and a confused voice whispers, "You are not the Underspine."
+
+Almost instantly, the geometry of his mind transforms into a star fortress from whose bastions dagger-like shapes stream forth. {[A] SOUND: Heavy breathing in a mask.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"You will not taint my thoughts," the Tabaht voice rumbles as his fleet soars toward you. There's no time to try and reason with him, if that would ever be possible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Fend him off. You came here to rebuild your mind, not to offer it up for Tabaht pillaging.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Let him in. You came here to fill the vast gaps in your mind, and perhaps this would be the swiftest way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Mount your own attack. You came here to hone your mind, and perhaps this is the way to do so.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Death has not dulled the Tabaht's weapons or his will. But the mind is more than a mere battlefield, and riddled and rotten as yours may be, it is not yet bereft of all its old gifts.
+
+You confound Anvor's vanguard with a flurry of bright weavings, while stabbing your own lines of thought deep into the perfect geometry of his mind. In the end, that is all it takes: his thoughts destroy themselves, unraveling even as they seek to mend the breaches you have cut. Bit by bit, order turns to chaos, and the great light of Kalaghat Anvor to a mere shadow.
+
+As he fades, you slip free of the Mindlink, and - moments later - of the Tabaht's tomb.
+
+{[A] SOUND: Some kind of sound for minds battling: they're kind of shooting out energy at each other, or parts of thoughts. I'm at a loss to what sounds should be, but I think we do need some sound here. Maybe almost TRONish?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Whatever weapons your mind once wielded have long since been worn blunt by the worms, and what remains cannot by any means match the will of Kalaghat Anvor.
+
+He knocks aside your sally and then, with wild violence, hacks apart your memories and fears, doubts and despair, tattering the fabric of your self. You watch helplessly, and with failing comprehension, as blue-black blotches spread across your mind.
+
+In the end, it all means nothing to the masked fool crouched beside a corpse, drooling, moaning, and weeping without knowing why.
+
+{[A] SOUND: Some kind of sound for minds battling: they're kind of shooting out energy at each other, or parts of thoughts. I'm at a loss to what sounds should be, but I think we do need some sound here. Maybe almost TRONish?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>You knit shut the ragged fringes of your mind, focusing and contracting yourself into a tight, hard core bound by its will to live.
+
+The cutting thoughts of Kalaghat Anvor flash at the perimeter of your defenses, probing, testing, seeking entry, but to no avail.
+
+At length they withdraw to the Tabaht's own pattern. For now, you are safe.
+
+{[A] SOUND: Some kind of sound for minds battling: they're kind of shooting out energy at each other, or parts of thoughts. I'm at a loss to what sounds should be, but I think we do need some sound here. Maybe almost TRONish?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>You try to knit shut the ragged fringes of your worm-eaten mind and mount some defense, but Kalaghat Anvor quickly overwhelms you.
+
+With wild violence, his sharp-edged thoughts hack through your memories and fears, doubts and despair, tattering the fabric of your self. You watch helplessly, and with failing comprehension, as blue-black blotches spread across your mind. Too long have you traded the substance of your strength for the worms' flashes of brilliance, and now you've nothing left to stem this rout.
+
+In the end, it all means nothing to the masked fool crouched beside a corpse, drooling, moaning, and weeping without knowing why.
+
+{[A] SOUND: Some kind of sound for minds battling: they're kind of shooting out energy at each other, or parts of thoughts. I'm at a loss to what sounds should be, but I think we do need some sound here. Maybe almost TRONish?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>The vanguard of the general's mind pierces into your own and sweeps across it, surveying the landscape and its defenders before withdrawing to the neutral darkness between you. You can see the Tabaht's disgust in the shape and color of his thoughts.
+
+{[B] SOUND: Variant on the mind-battle. If we can't get to this sound, use the mind battle sound.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>As the vanguard of the general's mind pierces into your own, a sense of revulsion overwhelms you: not your own disgust, but that of Kalaghat Anvor at the rotten husk left by the mnemotodes.
+
+"No!" he roars. "Your trap will not take me!"
+
+His thoughts flee from your mind, and seem to curl in upon themselves in a flurry of self-destruction. Moments later, there is nothing but darkness, and you have no choice but to draw the Mindlink from your head.
+
+{[B] SOUND: Variant on the mind battle sound. See note 139.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>
+
+It seems madness that he fears you could pollute his mind, when merely fending off his force shall be at the limits of your worm-wasted will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>
+
+Against such force of will, you fear your worm-eaten mind can mount no meaningful fight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>The texture of the general's mind ripples as he arranges his thoughts, absorbs what his scouts have scraped from your mind. At last, like a messenger, a sphere splits off from the pattern and floats before you.
+
+"Pilgrim." The word is spat out. "I have seen the secrets you keep from yourself: the Endless Battle you meant to end, and the red wreckage your *solution* left behind. I am unmoved. I killed more, lost more, and fell farther without surrendering the truth."
+
+The sphere shimmers and flattens into a kind of mirror. "You have come because you would prove yourself again. Through me. By me."
+
+The thought floats slowly backward. "But I am not your Underspine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Attack his mind and plunder his knowledge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Attempt to break the Mindlink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Study the sarcophagus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>The sarcophagus is divided into three parts: a wide bier, an elongated pentagonal coffin, and a curved, lens-like lid.
+
+The bier is decorated with familiar glyphs: you recognize "war" and "death" and "purity" among them. But these designs hold little interest: they are just catchwords, and they will teach you nothing of the Tabaht genius.
+
+The coffin, for its part, is a single hunk of milky aquamarine. Its lid is less opaque, and through it you see the corpse's silhouette. Most importantly, you notice a simple locking mechanism holding the two together; opening the sarcophagus would be a straightforward matter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>The sarcophagus is divided into three parts: a wide bier, an elongated pentagonal coffin, and a curved, lens-like lid.
+
+The bier is decorated with meaningless geometric glyphs that hold little interest.
+
+The coffin, for its part, is a single hunk of milky aquamarine. Its lid is less opaque, and through it you see the corpse's silhouette. Most importantly, you notice a simple locking mechanism holding the two together: opening the sarcophagus would be a straightforward matter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Study his mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Study his mind again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"I want to learn the trick of Tabaht warfare."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Tell me more about your philosophy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>A purple ripple runs across the mind of Kalaghat Anvor, and you feel the harsh rasp of Tabaht laughter.
+
+"The weak-willed and degenerate always dream that the great prevail by 'tricks' or cheats or chance." His thoughts array themselves in interlinked chains of blue and black. "But war disabuses tricksters of their vanity. Failure falls upon those proved false by battle, and victory is the stamp of truth."
+
+The chains stretch and run throughout the patterns of his mind. "We did not master deceit or even war; we mastered our own authentic selves. We triumphed by philosophy, not strategy."
+
+{[A] SOUND: Some kind of warping/transforming sound, though remember we're in imaginary space, we're talking about like an energy field changing.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>A small cube of ideas detaches from the pattern of the general's mind and unfolds before you.
+
+"In all systems, the variable is subordinate to the constant. The measure of things must be fixed." Lines of thought stab out from the unfolded eidolon, probing your mind like outriders. "You do not comprehend."
+
+The eidolon rearranges itself into a pyramid. "When one stands at the utmost peak of the highest mountain, an advance is no better than a retreat: all change is decline." Again he probes, and again you are found wanting.
+
+"To not fall, one must say, 'There is no more ascent. Here I stay.' Many have so spoken, but the Tabaht alone spoke truly, resisting the vanity of progress."
+
+{[A] SOUND: Some kind of warping/transforming sound, though remember we're in imaginary space, we're talking about like an energy field changing.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Given the sudden jagged configuration of his mind, Anvor seems affronted by your question. At last, he sends forth a sphere in answer.
+
+"The conqueror's sword flexes, but always straightens to its proper form." The sphere shimmers and turns golden. "All great peoples have found mighty truths, but always they let their truths mingle with falsehood and frivolity until their folkways become fractious, friable. We alone held to our truth with unflinching conviction."
+
+The sphere stretches into a toroid. "Words. Faith. Art. All was held pure and unchanging within the Underspine - a perfect, eternal purpose spanning all generations. What can stand before such united trust?"
+
+{[A] SOUND: Some kind of warping/transforming sound, though remember we're in imaginary space, we're talking about like an energy field changing.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Dark wedges wheel themselves into a wall, shielding the inner citadel of the general's mind.
+
+"You are not fit to know more of our thoughts: you would warp them in your twisted vessel, or else your mind would burst in trying to contain them."
+
+There is no way to pierce the barrier he has raised, and it is clear his mind will not be changed.
+
+{[A] SOUND: Some kind of warping/transforming sound, though remember we're in imaginary space, we're talking about like an energy field changing.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"I want you to fill the emptiness in my mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"I'll ask you again: join me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Death has not dulled the Tabaht's weapons or his will. But the mind is more than a mere battlefield, and riddled and rotten as yours may be, it is not yet bereft of all its old gifts.
+
+You confound Anvor's defenses with a flurry of bright weavings, while stabbing your lines of thought deep into the perfect geometry of his mind. In the end, that is all it takes: his thoughts destroy themselves, unraveling even as they seek to mend the breaches you have cut. Order turns to chaos, and the great light of Kalaghat Anvor to a mere shadow.
+
+In this rout, you rip whatever wisdom you want from his supine mind. Then, as he fades, you slip free of the Mindlink, and - moments later - of the Tabaht's tomb.
+
+{[A] SOUND: Some kind of sound for minds battling: they're kind of shooting out energy at each other, or parts of thoughts. I'm at a loss to what sounds should be, but I think we do need some sound here. Maybe almost TRONish?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Death has not dulled the Tabaht's weapons or his will, and he has used the time in the Mindlink to gather his forces. And your mind, for all your bold gambit, languishes in worm-worn decline.
+
+With wild violence, his sharp-edged thoughts hack through your memories and fears, doubts and despair, tattering the fabric of your self. You watch helplessly, and with failing comprehension, as blue-black blotches spread across your mind. Too long have you traded the substance of your strength for the worms' flashes of brilliance, and now you've nothing left to stem this rout.
+
+In the end, it all means nothing to the masked fool crouched beside a corpse, drooling, moaning, and weeping without knowing why.
+
+{[A] SOUND: Some kind of sound for minds battling: they're kind of shooting out energy at each other, or parts of thoughts. I'm at a loss to what sounds should be, but I think we do need some sound here. Maybe almost TRONish?}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>The texture of the general's mind ripples as he arranges his thoughts, absorbs what his scouts have scraped from your mind. At last, like a messenger, a sphere splits off from the pattern and floats before you.
+
+"Pilgrim." The word is spat out. "I have seen the secrets you keep from yourself: the Endless Battle you meant to end, and the red wreckage your *solution* left behind. I am unmoved. I killed more, lost more, and fell farther without surrendering the truth."
+
+The sphere shimmers and flattens into a kind of mirror. "You have come because you would prove yourself again. Through me. By me."
+
+The thought floats slowly backward. "But I am not your Underspine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>The texture of the general's mind ripples as he arranges his thoughts, absorbs what his scouts have scraped from your mind. At last, like a messenger, a sphere splits off from the pattern and floats before you.
+
+"Pilgrim." The word is spat out. "I have seen the secrets you keep from yourself: the Endless Battle you meant to end, and the red wreckage your *solution* left behind. I am unmoved. I killed more, lost more, and fell farther without surrendering the truth."
+
+The sphere shimmers and flattens into a kind of mirror. "You have come because you would prove yourself again. Through me. By me."
+
+The thought floats slowly backward. "But I am not your Underspine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText> It is a vast force, enough to encircle your own mind completely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText> Their ranks are growing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText> At the moment, they are scattered and in some disarray.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>More battles, bloodshed, and butchery flash before you.
+
+In the depths of the general's mind, jagged, violent thoughts seem to be mustering as if for war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>You see a city, underground, the tunnel walls and vaulting chambers adorned with carvings of fallen enemies.
+
+You see battles, endless battles, the memories sorted with meticulous care, conjoined by formations employed, foes faced, weapons wielded, terrain accommodated. It seems a catalogue without end.
+
+In the depths of the general's mind, jagged, violent thoughts seem to be mustering as if for war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>You see a wide crescent of uraeyl reavers, ready to sweep down on an outnumbered but unfazed band of Tabaht scouts. You know they will fight free because Anvor knew it then, before the battle even began.
+
+You see the city of Sagus Cliffs, rising above the plains like a beacon, a treasure, a false icon to be smashed to pieces.
+
+In the depths of the general's mind, jagged, violent thoughts seem to be mustering as if for war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Death has not dulled the Tabaht's weapons or his will. But the mind is more than a mere battlefield, and riddled and rotten as yours may be, it is not yet bereft of all its old gifts.
+
+Lines of thought race between you, and great jagged rifts are torn in the fabric of your minds. Defenses tighten, feints fly, and wills pound against each other in brute desire.
+
+Plainly, there can be no end to this but the destruction of you both.
+
+{[A] SOUND: Some kind of sound for minds battling: they're kind of shooting out energy at each other, or parts of thoughts. I'm at a loss to what sounds should be, but I think we do need some sound here. Maybe almost TRONish?}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"We're well matched. Join minds with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Break the Mindlink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>With wild violence, his sharp-edged thoughts hack through your memories and fears, doubts and despair, tattering the fabric of your self. You watch helpless, and with failing comprehension, as blue-black blotches spread across your mind. 
+
+In the end, it all means nothing to the masked fool crouched beside a corpse, drooling, moaning, and weeping without knowing why.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Anvor strives to bind you, to encircle and ensnare your thoughts for a final, fatal battle. But your mind is supple and long ago learned to slip free from where it would not dwell.
+
+The darkness between you grows, the light of his pattern dims, and soon you are once more wrapped in a reeking leather mask. 
+
+You pull the Mindlink off and, without a backward glance for the Tabaht corpse, stagger forth from the tomb.
+
+{[A] SOUND: Some kind of sound for minds battling: they're kind of shooting out energy at each other, or parts of thoughts. I'm at a loss to what sounds should be, but I think we do need some sound here. Maybe almost TRONish?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>The blue portal fades behind you; the blue sky spreads above. A breeze blows across your sweat-soaked skin. Monuments stretch as far as the eye can see: shadows, the Memorialist called them.
+
+Your mind has shadows of its own, some blackened by Anvor, some by the worms, and some by older, darker causes. But for now, the sun shines down upon you and you have left death in the tomb. {[A] SOUND: Outdoors-y sounds: wind blowing, maybe birds chirping.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Ending 2.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Ending 3.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Your kind has been wiped out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>As you tell the Tabaht general of his kind's demise, the geometric perfection of his thoughts fractures for a moment - not quite into chaos or organic shapes, but into sharp shards that cannot quite reform. Some of these needles jab into your own mind, probing, confirming that you tell the truth.
+
+"I see," Anvor answers.
+
+Eventually, the fragments of his mind reform, though the ranks of its guardians seem thinned. "At least they are safe from the corruption of change. To be frozen forever in cold death is a better fate than the seamy, teeming welter of your city."
+
+{[A] SOUND: Some kind of warping/transforming sound, though remember we're in imaginary space, we're talking about like an energy field changing.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Tell me more about your philosophy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Examine the images.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>No doubt some historian could tell the tale behind each panel - what doomed race the Tabaht annihilated here, what grand battle was waged there - but to you they're just an ugly blur that tugs at shameful memories without ever quite dragging them to the surface. This is not the knowledge you came for.
+
+On one side of the cenotaph, there's something else: an obscene picture, crudely etched rather than raised, its edges scorched black. The Memorialist clears his throat awkwardly. "A graffito from just after the Tabaht were beaten, carved with a plasma torch by a bitter nano."
+
+He coughs again. "The, ah, visual pun on 'Black Three' must be obvious. Sadly, we can't possibly fix the damage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>
+
+Tarrying no longer, you plunge through.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Examine the portal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Some sort of room, bathed in blue light, lies beyond the portal. The tomb of Kalaghat Anvor, it would seem.
+
+The knowledge you seek awaits within.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Study the basin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Look at the basin again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Neither the smooth, simple form of the basin nor its geometric fringe reveals any new secrets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Carved into the cenotaph's plinth in a wide, shallow bowl, perfectly smooth, perfectly ovoid. In its center is a small drain that runs into the monument. Around its rim is a geometric pattern, simple and composed of a single recurrent shape.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>You recognize the symbol: "Blood." Of course. What else could it be?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>
+
+Your guide keeps back from the basin as you examine it, and shares no thoughts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"What is the Underspine?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>Kalaghat Anvor's mind grows still, with faint flashes of contemplation flickering across its surface.
+
+"The guardian of the Tabaht soul." His mind darkens and storms. "To use your words befouls the meaning of my thoughts. It is obscene that you call this tongue 'Truth.'"
+
+Silence. Then: "The Underspine is a filter through which our minds flow, cleansing us of distraction, subversion, novelty, and doubt."
+
+The darkness dances to the edges of his will. "You cannot comprehend."
+
+{[A] SOUND: Some kind of warping/transforming sound, though remember we're in imaginary space, we're talking about like an energy field changing.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>The sky outside is still blue: blue and vast and unbound. It needs no words to hem it in. Like the pilgrim beneath it, it is fertile in its emptiness, not barren.
+
+With empty pockets and a yearning mind, you return to a journey that is not only unfinished, but barely begun. {[A] SOUND: Outdoors-y sounds: wind blowing, maybe birds chirping.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"What did you see in me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>His mind ripples with amusement. "Fear. Vanity. Weakness. Deceit." There is a long silence. "It is your duty to know yourself, and to be yourself."
+
+A thin, silver sliver of thought shoots out from his mind and stabs into your own. It is an image: a battlefield, strewn with countless corpses and shattered war-machines. A regal woman stands beside you, rigid with rage. "Puzzle-breaker, indeed," she sneers.
+
+The image - be it memory or Tabaht deception - fades away, and Kalaghat Anvor offers no more.
+
+{[A] SOUND: Some kind of warping/transforming sound, though remember we're in imaginary space, we're talking about like an energy field changing.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Bright flashes race through the pathways of his mind as it forms and reforms in myriad shapes and patterns. At last, a single word: "Yes."
+
+The pattern breaks, and its fragments, jagged and disjointed, ricochet across the darkness, crashing into your mind. You feel the terror that has gripped him, the fierce imperative to stand against the outright obliteration of his race, whatever the price. You sense the contempt in which he holds you, mingled with a grudging knowledge that there will come no better chance.
+
+And then there is no more "you" and no more "Anvor", only a madcap image assembled from two puzzles jumbled together, only that and the darkness beyond.
+
+{[B] SOUND: Some kind of "merging" sound. We can use the "warping" sound if we don't get to this.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>The general's mind darkens; its defenses harden. "Conquest holds its own doom. The risk is too great."
+
+{[A] SOUND: Some kind of warping/transforming sound, though remember we're in imaginary space, we're talking about like an energy field changing.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>A row of red-rimmed pyramids sprouts along the fringe of Anvor's mind like quills or border forts.
+
+"Better to be dead and gone than housed in such corruption."
+
+{[A] SOUND: Some kind of warping/transforming sound, though remember we're in imaginary space, we're talking about like an energy field changing.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"No!" Anvor roars. "Never! To even touch your thoughts is corruption!"
+
+And then the attack begins: all his will bent on your destruction, his mind scattered into barbed weapons soaring across the darkness. 
+
+You are barely prepared for the sheer force of his hate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>There is one who slips off the Mindlink's mask and staggers out of the Tabaht's tomb. You are not that one, but you are in it: not as some fraction or separate self, but as an indivisible part of a plural whole.
+
+The newborn one looks with newly opened eyes at the sky, and limns it with newfound words, words exquisite in their precision: blues beyond blue. {[A] SOUND: Outdoors-y sounds: wind blowing, maybe birds chirping.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Death has not dulled the Tabaht's weapons or his will. But the mind is more than a mere battlefield, and riddled and rotten as yours may be, it is not yet bereft of all its old gifts.
+
+You confound Anvor's vanguard with a flurry of bright weavings, while stabbing your own lines of thought deep into the perfect geometry of his mind. In the end, that is all it takes: his thoughts destroy themselves, unraveling even as they seek to mend the breaches you have cut. Bit by bit, order turns to chaos, and the great light of Kalaghat Anvor becomes a mere shadow.
+
+As he fades, you slip free of the Mindlink, and - moments later - of the Tabaht's tomb.
+
+{[A] SOUND: Some kind of sound for minds battling: they're kind of shooting out energy at each other, or parts of thoughts. I'm at a loss to what sounds should be, but I think we do need some sound here. Maybe almost TRONish?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Then it's gone, again. Words and thoughts slip from you as you frantically struggle to hold on to what you can.
+
+The worm's short gift has been squandered. They must be used carefully, sparingly.
+
+With a shaking hand, you twist the tin shut and slip it back into your pocket.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Then it's gone, again. Words and thoughts slip from you as you frantically struggle to hold on to what you can.
+
+The worm's short gift has been squandered. They must be used carefully, sparingly.
+
+With a shaking hand, you twist the tin shut and slip it back into your pocket.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>You flare your nostril and eagerly slip another worm inside, basking in the burst of pleasure it soon releases.
+
+Though for a moment it seems as all existence has unfurled itself before you, you come down no wiser than you were, just sweaty from the brief ecstasy.
+
+{[A] SOUND: Snorting a worm. Just a hard, drug-snorting sound.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>You flare your nostril and eagerly slip another worm inside, basking in the burst of pleasure it soon releases.
+
+Though for a moment it seems as all existence has unfurled itself before you, you come down no wiser than you were, just sweaty from the brief ecstasy.
+
+{[A] SOUND: Snorting a worm. Just a hard, drug-snorting sound.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>You flare your nostril and eagerly slip another worm inside, basking in the burst of pleasure it soon releases.
+
+Though for a moment it seems as all existence has unfurled itself before you, you come down no wiser than you were, just sweaty from the brief ecstasy.
+
+{[A] SOUND: Snorting a worm. Just a hard, drug-snorting sound.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Pain, and then the rush of sheer *knowing* that the worm's waste bestows. 
+
+The symbols that seemed so indecipherable now dance through your mind, arraying themselves in patterns that could not be more obvious. That one is "soldier," and links to "warband," which chains into "army." Here is "battle," and here is "death" - over and over again.
+
+The entire lexicon is yours, elegant in its precision and simplicity: a language bereft of natural disorder.
+
+As your insight begins to slip away, you cling to the worm-won wisdom. It seems you held on tight enough, for the knowledge of Tabaht writing does not leave you when the inevitable stabbing pain fills your brain.
+
+{[A] SOUND: Snorting a worm. Just a hard, drug-snorting sound.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Your brain races with the speed brought on by the worm's piss, and through your thoughts run the Tabaht symbols, spinning, twisting, combining and dividing.
+
+There is a meaning here, tangled amid the knotted glyphs. And your mind is unraveling it, surely...
+
+But not fast enough. You thoughts become painfully, shamefully slow, and the puzzle you felt so close to breaking now seems impregnable.
+
+Another worm. Just one more and your mind, honed like a sword, will slice through the skeins. You're sure of it, so sure of it you find yourself sniffing in anticipation, a predator on the scent.
+
+{[A] SOUND: Snorting a worm. Just a hard, drug-snorting sound.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Seconds after the grub goes up your nose, you feel a flash of joy and insight: *blood*. The cenotaph's basin wants blood.
+
+In your mind's eye, you see it, filled almost to overflowing with its sacrifice, proof that the supplicant before Kalaghat Anvor is as war-eager as the Tabaht.
+
+A moment later, it is a drizzle of your own blood that you are wiping away from your lip, your eyes aching and ears ringing from the loss of the worm's gift.
+
+{[A] SOUND: Snorting a worm. Just a hard, drug-snorting sound.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>Another worm, and the cenotaph's puzzle crumbles before you. It seems so simple now, so obvious: a prayer woven within the story, a prayer of submission to the truth, the truth of war and blood and death.
+
+You need but touch the glyphs and the way will open before you.
+
+{[A] SOUND: Snorting a worm. Just a hard, drug-snorting sound.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>Your mind vastens under the worm's gnashing jaws, and you feel at one with this ancient tomb. Its plain walls reveal the work of ages past; you sense a pattern that long predates the Tabaht, the Memorialists, perhaps even the Ninth World.
+
+As for the general and his crystal coffin, it speaks of the fear of time's defiling touch, a futile need to halt the world's turning. But the Tabaht are gone; nothing can be saved for long.
+
+And so you sink back down from your high, your brain aching as if bruised.
+
+{[A] SOUND: Snorting a worm. Just a hard, drug-snorting sound.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>Carved into the cenotaph's plinth is a wide, shallow bowl: perfectly smooth, perfectly ovoid. In its center is a small drain that runs into the monument. Around its rim is a geometric pattern, simple and composed of a single recurrent shape.
+
+Your guide keeps back from the basin as you examine it, and shares no thoughts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Carved into the cenotaph's plinth is a wide, shallow bowl: perfectly smooth, perfectly ovoid. In its center is a small drain that runs into the monument. Around its rim is a geometric pattern, simple and composed of a single recurrent shape.
+
+You recognize the symbol: "Blood." Of course. It could be nothing else.
+
+Your guide keeps back from the basin as you examine it, and shares no thoughts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>Anvor strives to bind you, to encircle and ensnare your mind for a final, fatal battle. With no hope of prevailing in such a match, you struggle to slip free...
+
+But it's too late. His thoughts have slid inside you, wreaking havoc. You are forced to yield whole swaths of yourself to the invader in hopes of saving a small core of identity.
+
+Something survives, and pulls off the Mindlink's reeking mask. It is you or, at least, a part of you. Neither the best nor the worst, merely that which fled fastest.
+
+Maimed and dazed, you stagger forth from the tomb without a backward glance for the Tabaht corpse.
+
+{[A] SOUND: Some kind of sound for minds battling: they're kind of shooting out energy at each other, or parts of thoughts. I'm at a loss to what sounds should be, but I think we do need some sound here. Maybe almost TRONish?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>Blue. The portal behind you, the sky above you. It is a good, round word. You don't need or want a different one.
+
+"Blue."
+
+You roll the word around the vast cavern of your mind, enjoying the sound of it, enjoying the cool breeze on your skin, the fine monuments all about you.
+
+The rest is gone, for good and for the better. {[A] SOUND: Outdoors-y sounds: wind blowing, maybe birds chirping.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Anvor lets you slip free with but token resistance. The distance between you grows, the light of his pattern dims, and soon you are wrapped once more in a reeking leather mask. 
+
+You pull the Mindlink off and, without a backward glance for the Tabaht corpse, stagger forth from the tomb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>As the worm slithers into your brain and begins to feed, terrible convulsions wrack your body. No pleasure comes, no knowledge, just pain and trembling.
+
+When it is done, the fluid that flows from your nose is not just blood: there is something else, something worse, in it as well.
+
+{[A] SOUND: Snorting a worm. Just a hard, drug-snorting sound.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>As the worm slithers into your brain and begins to feed, terrible convulsions wrack your body. No pleasure comes, no knowledge, just pain and trembling.
+
+When it is done, the fluid that flows from your nose is not just blood; there is something else, something worse in it as well.
+
+{[A] SOUND: Snorting a worm. Just a hard, drug-snorting sound.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>As the worm slithers into your brain and begins to feed, terrible convulsions wrack your body. No pleasure comes, no knowledge, just pain and trembling.
+
+When it is done, the fluid that flows from your nose is not just blood; there is something else, something worse in it as well.
+
+{[A] SOUND: Snorting a worm. Just a hard, drug-snorting sound.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>This time, there is no pain - not even a little - but no pleasure either. Just a dullness, spreading outward and inward until there is nothing at all, just a vast flat expanse left of what were once the great heights of your mind.
+
+And so you end.
+
+{[A] SOUND: Snorting a worm. Just a hard, drug-snorting sound.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>The tomb, like your mind, holds nothing of value: only shades and scratchings of past glories. You leave it, and go back through the portal.
+
+The sky above you is blue no longer. Just gray, with clouds so thick that they seem shapeless. The ground, like the world, is hard and old and as gray as the sky. Once, a visitant told you that it was an orb of blue and green. But that was long ago.
+
+You drop the Mindlink and toss the crumpled note aside. Hand wrapped around the old, battered tin, you make your way between earth and sky, both gray, undifferentiated, indifferent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText> At the moment, they are scattered and in some disarray.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText> Their ranks are growing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText> It is a vast force, enough to encircle your own mind completely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText> At the moment, they are scattered and in some disarray.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText> Their ranks are growing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText> It is a vast force, enough to encircle your own mind completely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>[DEBUG] Test images.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>Which illustration would you like to see?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>Memorialist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>Cenotaph.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>Tomb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>Mind Battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>Ending.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>Start the Mere over.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

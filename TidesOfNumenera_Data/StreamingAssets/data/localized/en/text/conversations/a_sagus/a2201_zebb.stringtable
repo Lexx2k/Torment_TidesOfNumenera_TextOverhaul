@@ -1,0 +1,2017 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_zebb</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>370</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The scrawny boy salutes you as you approach. "Good to see you again, sir. Spare some shins this time for a hungry family?"</DefaultText>
+      <FemaleText>The scrawny boy salutes you as you approach. "Good to see you again, ma'am. Spare some shins this time for a hungry family?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Give him [Global: a2201_ZebbPocketChange] shins.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"You have a family?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Sorry, I can't help you."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Thank you, sir. Good fortune to you."</DefaultText>
+      <FemaleText>"Thank you, ma'am. Good fortune to you."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>He ducks his head. "Yes, sir. There's five... sorry, four of us, counting my father, but he's gone to the Bloom and we don't know when he'll be back."</DefaultText>
+      <FemaleText>He ducks his head. "Yes, ma'am. There's five... sorry, four of us, counting my father, but he's gone to the Bloom and we don't know when he'll be back."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Thank you anyway, sir. Good fortune to you."</DefaultText>
+      <FemaleText>"Thank you anyway, ma'am. Good fortune to you."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Good fortune to you, sir."</DefaultText>
+      <FemaleText>"Good fortune to you, ma'am."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Tell me about your father. What is his name? How long has he been in the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Is Nym okay? This life must be hard on her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Tell me about Avina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Are you sure there are only four of you? I saw you looking down the street. Is there someone else?"
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I'm Zebb, and..." He points toward a little girl kicking a rock in a circle and an older girl who is playing a flute. You notice that they look considerably more well-fed than Zebb. "That's Nym, my little sister. The girl with the flute is Avina. She's not actually our sister, but she's still family. And... there's no one else. That's it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Is this your house? It doesn't look safe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"His name is Zebb too - Zebb Urlalay - and it... it's been a year at least. He went to work for the Memovira. For a while he sent shins back, but then they stopped. Haven't heard from his since."
+
+He squirms, uncomfortable. "The Bloom's like that, though. Sometimes it doesn't let nothing out. I figure he's just waiting 'til it opens up again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"She's okay. Doesn't know anything else, really. She misses my dad, though."
+
+A wistful look clouds his eyes. "At least she never knew mom, so she doesn't miss her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"She's been with us since before dad left, but she's never said where she came from. Maybe she doesn't know."
+
+He looks across at Avina. "I'm glad she's here though. She notices things. Better lookout than I am, and she catches a lot of shins with that flute of hers too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Huh?" He chokes. "No, no! I... I'm just waiting on a friend. There's only four of us. No more, no less."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"We know. That's why we stay outside most of the time - ever since Avina noticed some cracks around the walls. We only go in there to change clothes and stuff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Let me ask you something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"All right, sir."</DefaultText>
+      <FemaleText>"All right, ma'am."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"What do you know about the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"My dad always called it a skist hole. But he said it was a skist hole full of shins, so he was gonna pull up his boots and wade in. I don't know much else about it. They say it's a monster, and people live inside. You can see it from the Caravanserai, but they don't let anybody down there. Well... they didn't let *me* down there, anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"What do you know about the Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"She's the boss in the Bloom. The mayor or something. My dad works for her. He's one of her guards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>A scrawny boy in rags reaches out to you as you pass. "Sir! Please, sir! I know you saw the stichus hiding in the midden. Please don't tell anyone about him, sir. He's not doing anyone any harm."</DefaultText>
+      <FemaleText>A scrawny boy in rags reaches out to you as you pass. "Ma'am! Please, ma'am! I know you saw the stichus hiding in the midden. Please don't tell anyone about him, ma'am. He's not doing anyone any harm."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>The scrawny boy reaches out to you as you pass. "Sir! Please, sir! I know you saw the stichus hiding in the midden. Please don't tell anyone about him, sir. He's not doing anyone any harm."</DefaultText>
+      <FemaleText>The scrawny boy reaches out to you as you pass. "Ma'am! Please, ma'am! I know you saw the stichus hiding in the midden. Please don't tell anyone about him, ma'am. He's not doing anyone any harm."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Leave me alone! I'm not talking to you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>A scrawny boy in rags sits in front of an empty place where his house used to be, staring at nothing. He does not look up at your approach. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>A boy in rags holds out a hand as you pass. He is far too gaunt for his age. His knuckles stand out on his fingers like knots on a twig. "Any shins for a family in need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>He glares at you. "You told them about the stichus. You let them kill him. I hate you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>CULTISTS FEEDING KIDS</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>The boy jumps up as you approach. He's ecstatic. "You got the stichus away! Thank you, sir! We were so worried the locals were going to get him!"</DefaultText>
+      <FemaleText>The boy jumps up as you approach. He's ecstatic. "You got the stichus away! Thank you, ma'am! We were so worried the locals were going to get him!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>PC HAS OFFERED HOUSE OF TIME</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Tell me about your family."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Let's talk about your family again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>He ducks his head. "Yes, sir. There's five... sorry, four of us, counting my father, but he's gone to the Bloom and we don't know when he'll be back."</DefaultText>
+      <FemaleText>He ducks his head. "Yes, ma'am. There's five... sorry, four of us, counting my father, but he's gone to the Bloom and we don't know when he'll be back."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Like I said, there's four of us. Nym, my little sister. Avina, who lives with us. Me, Zebb. And my father, who's away in the Bloom right now."</DefaultText>
+      <FemaleText>"Yes, ma'am. There's four of us. Nym, my little sister. Avina, who lives with us. Me, Zebb. And my father, who's away in the Bloom right now."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"And that's all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Tell me about your father. What's his name? How long has he been in the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Tell me about your father again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"His name is Zebb too - Zebbak Uralau - and it... it's been a year at least. He went to work for the Memovira. For a while he sent shins back, but then they stopped. Haven't heard from him since."
+
+He squirms, uncomfortable. "The Bloom's like that, though. Sometimes it doesn't let anything out. I figure he's just waiting 'til it opens up again."
+
+{JOURNAL: Add a journal note about Zebb's father.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"His name is Zebbak Uralau, and he works in the Bloom as a guard for the Memovira. We... we haven't heard from him for a while though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Is Nym okay? This life must be hard on her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Tell me again about your sister."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Tell me about Avina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Remind me what you know about Avina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"She's okay. Doesn't know anything else, really. She misses our dad, though."
+
+His eyes cloud. "She never really knew our mom, so at least she doesn't miss her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Nym doesn't understand how bad off we are. This is all she's known. I'd really like to make the house safe again though. So she could sleep inside."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"She's been with us since before dad left, but she's never said where she came from. Maybe she doesn't know."
+
+He looks across at Avina. "I'm glad she's here. She notices things. Better lookout than I am, and she catches a lot of shins with that flute of hers too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Not much. She showed up a few years ago and lived with us and our dad. Never says anything about where she came from."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"You saw his hands. They're like human hands. He can't dig like the others. It's not him that's bringing down the houses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"What is this stichus to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"He doesn't belong here, and he might be dangerous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I won't tell anyone. Your secret is safe with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I'm afraid I've already reported him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"The sticha is dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"We found him, sir. My sisters and I. And he was so pitiful. Near to starving. Near to dying. We've been feeding him old devices and power cells ever since, but we've got to get him out of there. The neighbors will find him soon, and that'll be the end of him."</DefaultText>
+      <FemaleText>"We found him, ma'am. My sisters and I. And he was so pitiful. Near to starving. Near to dying. We've been feeding him ever since, but we've got to get him out of there. The neighbors will find him soon, and that'll be the end of him."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"But he's not, sir. I'm telling you. He can't dig. All he wants is to go somewhere safe."</DefaultText>
+      <FemaleText>"But he's not, ma'am. I'm telling you. He can't dig. All he wants is to go somewhere safe."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Thank you, sir. You're a life saver, sir. Now if only we could get him to safety."</DefaultText>
+      <FemaleText>"Thank you, ma'am. You're a life saver, ma'am. Now if only we could get him to safety."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Maybe I can find a way to get him out of here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Could you, sir? That would be wonderful. If you can find the other sticha, maybe they'd help him escape. I heard that some of 'em are down in the Underbelly, but I've never seen them myself."</DefaultText>
+      <FemaleText>"Could you, ma'am? That would be wonderful. If you can find the other sticha, maybe they'd help him. I heard that some of 'em are down in the Underbelly, but I've never seen them myself."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Tell me about the rest of your family."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Er, yes sir. I'm Zebb, and..." He points toward a little girl kicking a rock in a circle and an older girl who plays a flute. You notice they look considerably more well-fed than Zebb. "That's Nym, my little sister. The girl with the flute is Avina. She's not actually our sister, but she's still family. There's also my father, who's been away in the Bloom."</DefaultText>
+      <FemaleText>"Er, yes ma'am. I'm Zebb, and..." He points toward a little girl kicking a rock in a circle and an older girl who plays a flute. You notice they look considerably more well-fed than Zebb. "That's Nym, my little sister. The girl with the flute is Avina. She's not actually our sister, but she's still family. There's also my father, who's been away in the Bloom."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"All right, sir."
+
+</DefaultText>
+      <FemaleText>"All right, ma'am."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Have you seen a scary-looking glaive around here? Big and strong, but he doesn't speak?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>He thinks for a moment, then nods. "I think I've seen him around here, but I can't remember where he went. Avina might know. She notices everything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Here's five shins."
+
+{SCRIPT: Remove five shins from inventory.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"I'm not paying that."
+
+{SCRIPT: Doesn't play if 83 plays.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Let's go back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Thank you, sir. And the five shin answer is, yes, I've seen such a glaive around here, but I can't remember where he went. Avina might know, though, and she'll tell you for free."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Then I'm afraid I can't help you, sir. We have to make a living, you see?""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>He died in the Bloom. His captain told me."
+
+{GEORGE: This node feels odd. It feels strange that you're trying to persuade him when you're just telling him the truth. -JF}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>His shoulders slump. "I guess I knew that already. Just didn't want to admit it to myself... or tell Nym."
+
+He looks around at the crumbling house and his family. "This is it then, for us. Guess we'd better get used to it."
+
+{SCRIPT: Makes the House of Empty Time Difficult Task one difficulty easier.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"You don't know that! You're just saying what other people told you! I'm not going to believe it until I know for myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>His shoulders slump. "I guess I knew that already. Just didn't want to admit it to myself... or tell Nym."
+
+He looks around at the crumbling house and his family. "Maybe its time to start thinking about finding a new place, now that we know dad isn't... coming back."
+
+{SCRIPT: Makes the attempt to get Zebb to go to the House of Empty Time automatically succeed.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"You're lying! He's still alive! I know it!"
+
+{ADAM: what affect could this CF have?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"If your father doesn't come back, I know a place where you could find a new home. It's called the House of Empty Time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Are you sure you won't consider going to the House of Empty Time?"
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"We're not orphans. Our dad works in the Bloom. He's coming back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"I told you, we're not orphans. We're not going anywhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"That sounds... creepy. Besides, we have our own family here. We don't need another one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"We don't need that place. This is our home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"How did you...?" He chokes and holds out his hands to you. "Please, sir! Don't tell anyone about him. He's not doing anybody any harm. Be merciful!!"
+
+</DefaultText>
+      <FemaleText>"How did you...?" He chokes and holds out his hands to you. "Please, ma'am! Don't tell anyone about him. He's not doing anybody any harm. Be merciful!"
+
+</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Him? Who are you hiding down there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"The poor stichus. We're tying to keep him safe, but we don't know what to do. He was born without proper claws, you see? He can't dig, but people want to kill him anyway because of all the falling houses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Go away!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Have the cultists of the Changing God been coming by?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Was it you who sent them? They're kinda strange, but they're nice enough. Bring us food all the time. Give us a few coins. We're obliged to you, sir, for asking them to look out for us."</DefaultText>
+      <FemaleText>"Was it you who sent them? They're kinda strange, but they're very nice. Bring us food all the time. Give us a few coins. We're obliged to you, ma'am, for asking them to look out for us."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"It was the right thing to do."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"I did as I promised."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Just remember that you owe me a favor, Zebb."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"And we appreciate it." He takes something from inside his shirt. It appears to be some sort of small device. "Here, take this. I scrounged it a while back and never found a use for it, but you probably know all about these things."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>He nods, his face solemn. "I won't forget. Here, take this - I found it in a wrecked house. It's not enough to pay you back, but at least it's a start." He takes a small device from inside his shirt and hands it to you.
+{LOOT}</DefaultText>
+      <FemaleText>"Anything, ma'am. Anything."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>The boy sits in front of the place where his house used to be, staring at nothing. He does not look up at your approach. 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"What happened here? Is everyone okay?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"So, the sticha's digging destroyed another house. Those unthinking animals!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"This is my fault. I didn't stop the sticha in time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Zebb doesn't answer. He doesn't seem to have heard. He just keeps staring straight ahead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Nearby, Avina puts down her flute. "Poor Zebb hasn't spoken since the house fell. Nym... Nym had just gone in to wash in the cistern. There was a terrible cracking sound, and then..."
+
+She hangs her head. "We think it was the sticha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Is there anything I can do to help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"I might be able to use the power in me to make you forget your sister and free you from pain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Zebb suddenly jerks out of his stupor, trembling with rage. "We fed him! We hid him! How could he let this happen? How could he let his brothers-"
+
+He cuts off suddenly and draws a rusty knife, his eyes wild. "I'll kill him. I'll kill him!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Zebb slowly pulls out of his stupor. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Maybe this isn't the time, but... is there anything keeping you now from going to the House of Empty Time?"
+
+{SCRIPT: Player is red or gold dominant}
+{SCRIPT: Player knows about the House of Empty Time.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"This isn't my problem. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Farewell..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Once again Zebb does not respond, but Avina looks up. "Zebb, do you hear him? You should go. There's nothing for you here anymore."
+
+{SCRIPT: Speaker for this node should be Avina.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Nearby, the little blonde girl turns on you, angry. "Don't! You can't leave him with a... a *hole* where Nym is supposed to be! It hurts him now, but he'll forget all the good things too!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"You're right. I wasn't thinking. Sorry, Zebb."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Let him answer for himself. He deserves the chance to live without grief. What do you say, Zebb? Will you let me help you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Avina runs off, furious, as she sees what you have done. "You cut poor Nym right out of the world, you monster! Now I'm the only one who will remember her!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>As the surge fades, Zebb blinks and looks around. "W-what happened? Where's Avina?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"That stichus in the alley is your friend. It had nothing to do with this!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"That stichus in the alley is your friend. It had nothing to do with this!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Let him go. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Zebb collapses against you, sobbing uncontrollably. "But Nym is dead! The sticha didn't show any mercy to her!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Zebb charges past you and races for the alley where the stichus is hiding.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Zebb collapses against you, sobbing uncontrollably. "But Nym is dead! Somebody has to pay!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"He could have stopped the others! I hate him!"
+
+As you step into his way, Zebb flails at you with his knife, then spins away and races for the trash dump where the stichus is hiding.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Zebb lets the knife fall from his hands. "You're right. I don't want to kill anybody."
+
+He closes his eyes. "I... I can't believe I almost... I would have felt awful. I don't think I could have lived. It's just... losing Nym hurts so much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"I don't care! If they took one of mine, I'll take one of theirs!"
+
+As you step in the way, Zebb flails at you with his knife, gashing open your hand, then spins away from you and races for the alley where the stichus is hiding.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"What happened here? Is everyone okay?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>The boy doesn't answer. He doesn't seem to have heard. He just keeps staring straight ahead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"I couldn't believe it when the cultists came and disguised him. Such a clever trick!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"I couldn't believe it when the ground opened up and the other sticha took him below. I didn't think they'd ever accept him. You must have spun them quite a tale!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"If you want to kill somebody for it, kill me. I failed to stop the sticha from digging under the city. Do you want to kill me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Maybe so, but do you want to kill someone who doesn't deserve it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Nym's death was nobody's fault. Or everybody's. Either way, killing your friend won't make it better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Use your head. You know your friend is an outcast - it couldn't have stopped this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Would you answer the loss of one life by taking another?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Zebb lets the knife fall from his hands. "No. You're right. It was the other sticha. I was just so... I can't believe I almost... I would have felt awful. I don't think I could have lived. It's just... losing Nym hurts so much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Maybe this isn't the time, but... is there anything keeping you now from going to the House of Empty Time?"
+
+{SCRIPT: Player is red or gold dominant.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>He thinks for a moment, then looks at Avina. "Avina. What should I do? You're all I have left."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Maybe this isn't the time, but... is there anything keeping you now from going to the House of Empty Time?"
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>He thinks for a moment, then looks at Avina. "Avina. What should I do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>He thinks for a moment, then shakes his head. "Maybe I'll go someday, but not yet. I can't leave Nym's ghost all by herself. She won't know where she is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>He thinks for a moment, then looks at Avina. "Avina. Will you be okay if I go?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>He shakes his head. "Why would I go where I don't know anyone? This is my home. Even... even if I'm the only one left in it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>She smiles sadly. "I won't stay here forever, Zebb. You should go find someone who will."
+
+{SCRIPT: Speaker for this node should be Avina.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>He nods and looks back at you. "I... I'm ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"I'll meet you there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>She smiles. "Go on, Zebb. I wasn't going to stay here much longer anyway. I'll be fine."
+
+{SCRIPT: Speaker for this node should be Avina.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>A moment later, he stumbles back out of the alley and staggers toward you, staring at the blood on his hands. "I... I... What have I done?"
+
+Sobs convulse him. He drops the dagger. "I killed my friend!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>A moment later, he stumbles back out of the alley and staggers toward you, staring at the blood on his hands. "I... I... What have I done?"
+
+Sobs convulse him. "I killed my friend!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>KILLS HIMSELF BECAUSE IF CRITICAL FAILURE?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Maybe this isn't the time, but... is there anything keeping you now from going to the House of Empty Time?"
+
+{SCRIPT: Player knows about the House of Empty Time.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Zebb pulls out of himself and looks at her. "But... but I still have you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Once again Zebb does not respond, but Avina looks up. "Zebb, do you hear him?"
+
+{SCRIPT: Speaker for this node should be Avina.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Zebb pulls out of himself and looks at her. "Huh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Avina looks at you. "Ask him again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"I'm sorry. If I had gotten the stichus out of here, this wouldn't have happened."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"I tried to stop you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Get away from me, you murderer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Emotion is no excuse for loss of control."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Nobody'll arrest you for killing a stichus. Your only judge will be yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Zebb wails in horror and self loathing and flees from you, vanishing into the crowd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"What have I done?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"It was a crime of passion. You can't blame yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Zebb continues to sob, unconsoled. "What will I do? How can I live with myself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Avina looks up from her flute and meets your eye. "Now, sir. *This* is the moment he needs to forget. Do it now."
+
+{SCRIPT: If Avina convinced PC not to use tidal surge to make Zebb forget Nym.}</DefaultText>
+      <FemaleText>Avina looks up from her flute and meets your eye. "Now, ma'am. *This* is the moment he needs to forget. Do it now."
+
+{SCRIPT: If Avina convinced PC not to use tidal surge to make Zebb forget Nym.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Avina plays a sad melody on her flute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Maybe this isn't the time, but... is there anything keeping you now from going to the House of Empty Time? It might give you a chance to start over."
+
+{SCRIPT: Player is red or gold dominant.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"I think I can help. You'll forget it ever happened."
+
+Give Zebb a blue and gold tidal surge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Maybe this isn't the time, but... is there anything keeping you now from going to the House of Empty Time? It might give you a chance to start over."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Zebb snuffles and wipes his nose on his ratty sleeve. He looks up at Avina. "Avina, what should I do? You're all I have left."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Zebb snuffles and wipes his nose on his ratty sleeve. He looks up at Avina. "Avina, what should I do? You're all I have left."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>He thinks for a moment, then shakes his head. "Maybe I'll go someday, but not yet. I can't leave Nym's ghost all by herself. She won't know where she is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Zebb snuffles and wipes his nose on his ratty sleeve. He looks up at Avina. "Avina. Will you be okay if I go?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>He shakes his head. "Why would I go where I don't know anyone? This is my home. Even... even if I'm the only one left in it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>[Tidal Surge] Let your empathy grow.
+
+"You don't deserve this. Let me help you forget."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Let the feeling fade. 
+
+"The memories will tear at you, but they will make you wiser in the end. Don't look away from them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"I'll try, but it hurts so much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>The feeling of compassion expands within you, and you mold it with your will, making it into a healing balm. You put a hand on Zebb's forehead and a stream of warmth flows though you into his mind, building up certain memories and diminishing others and washing others entirely away. He shudders under your touch, but then the pain in his eyes clears and he stands taller, though you feel weak and considerably diminished.
+
+You stagger back. He blinks and looks around, wiping his eyes, then sees the blood on his hands. "What... what just happened? Why am I crying? Where did this blood come from?"
+
+{SCRIPT: Increment sorrow urgency.}
+{SCRIPT: Costs DP}
+{SCRIPT: Apply appropriate negative fettle to PC.} </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"You're crying because you lost your sister. You're bloody because I stopped you when you tried to hurt yourself, and you cut me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"You're crying because you lost your sister. You're bloody because I cut myself, and you tried to help me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"You did?" He seems confused. "I don't remember."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"I did?" He seems confused. "I don't remember."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Avina looks up, concerned as you push the tidal energy into Zebb, but then nods approvingly. "Yes. He doesn't need to remember this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Go away!"
+
+{SCRIPT: Zebb won't talk to player again.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Good luck to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Thank you, sir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Maybe this isn't the time, but... is there anything keeping you now from going to the House of Empty Time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"**sob**"
+
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Never mind. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Glad I could help. Good luck to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Maybe that's for the best. Good luck to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>He frowns, still not entirely recovered. "Thank you. I... I think."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"I know it's hard, but you're going to have to live with the consequences of your actions. Good luck to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Reject the feeling and let it die. 
+
+"This isn't my problem. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"I found out what happened to your father."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Y-you did? Tell me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"I'm afraid he died in the Bloom. His captain gave me a locket for you. She said it was his."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Zebb stares at the locket as you hand it to him. He opens it. There is a picture of a woman painted inside. "Yes, this is my dad's. He... he would never have let go of it if he was alive, so I guess..."
+
+His shoulders slump. "I guess I already knew he was dead.I just didn't want to admit it to myself... or tell Nym."
+
+He looks around at the crumbling house and his family. "Maybe it's time to start looking for something better."
+
+{SCRIPT: Makes the attempt to get Zebb to go to the House of Empty Time automatically succeed.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Zebb frowns at where his house used to be, as if trying to remember something important, then he shakes his head. "I guess there's no reason to stay here anymore. But where should I go?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Avina went to look for another place to live. Maybe you should do the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"I don't know, but I think you're on your own now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Zebb frowns at where his house used to be, as if trying to remember something important, then he shakes his head. "I guess I am."
+
+He gives you an uncertain smile. "Where should I go?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Zebb frowns at where his house used to be, as if trying to remember something important, then gives you an uncertain smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Let me ask you something instead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"That's hardly polite, sir. Asking for services rendered without even offering a tip."</DefaultText>
+      <FemaleText>"That's hardly polite, ma'am. Asking for services rendered without even offering a tip."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Fine. Here you are."
+
+Give him [Global: a2201_ZebbPocketChange] shins.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Forget it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Thank you, sir. Now what did you want to ask?"</DefaultText>
+      <FemaleText>"Thank you, ma'am. Now what did you want to ask?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Good fortune to you, sir."</DefaultText>
+      <FemaleText>"Good fortune to you, ma'am."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>His eyes glance further down the street, then snap back to you. He smiles nervously. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>His eyes trail momentarily to the left, then return to you. He gives you a nervous smile. "And that's all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"What's a stichus?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Everybody knows what sticha are. They're diggers. They make tunnels under the ground. People around here think they're the reason the houses are falling down."
+
+He looks back toward the alley. "Except this one can't dig, so the other ones kicked him out. At least I think that's what happened. Anyway, he's all alone, like my sisters and I. So we want to help him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Zebb, wait! I know you're angry, but you called that sticha family, remember?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>The girl with the flute looks up. "Poor Zebb hasn't spoken since the house fell. Nym... Nym had just gone inside to wash in the cistern. There was a terrible cracking sound, and then..."
+
+She hangs her head. "We think it was the sticha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Who is Nym?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"My name is Avina. I'm Zebb's friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Nym was Zebb's little sister. Now she's..."
+
+She looks at the wreckage of the fallen house, then away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>She smiles sadly. "I won't stay with you forever, Zebb. You should go find someone who will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>He nods and looks back at you. "I... I'm ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"I'll meet you in Government Square."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"It's a doorway that will take you to a loving couple who are waiting for a child just like you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>Zebb snuffles and wipes his nose on his ratty sleeve. He looks up at Avina. "Avina, what should I do? You're all I have left."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"It's a doorway that will take you to a loving couple who are waiting for a child just like you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>Zebb snuffles and wipes his nose on his ratty sleev, then nods. "Yes. You're right. I need to get out of here. He looks up at Avina. "Avina. Will you be okay if I go?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>Zebb snuffles and wipes his nose on his ratty sleeve. He looks up at Avina. "Avina, what should I do? You're all I have left."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>He thinks for a moment, then shakes his head. "Maybe I'll go someday, but not yet. I can't leave Nym's ghost all by herself. She won't know where she is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>He shakes his head. "Why would I go where I don't know anyone? This is my home. Even... even if I'm the only one left in it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>Zebb collapses against you, sobbing uncontrollably. "But so was Nym! Somebody has to pay!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>A moment later, he stumbles back out of the alley and staggers toward you, staring at the blood on his hands. "I... I...." Sobs convulse him. He drops the dagger. "I killed my friend!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>As he weeps, you feel a great wellspring of empathy rising within you. Further, you sense that, if you shaped it and let it build, you could transfer it to Zebb to make him forget what he had done. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"It's a doorway to another time. It will take you to a loving couple who are waiting for a child like you. Try it. Nym would have wanted you to be happy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"I know of a place in Government Square that'll give you a new family - the House of Empty Time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"That sounds... weird. How does it work?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Maybe this isn't the time, but would you consider going to the House of Empty Time now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"I still don't know if I like the sound of it. How does it work?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>Zebb nods and looks at Avina. "Thank you, Avina. I probably would have said yes if you hadn't said anything, and that would have been terrible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Let him answer for himself. He deserves the chance to live without grief. What do you say, Zebb?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Let him answer for himself. He deserves the chance to live without grief. What do you say, Zebb?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>Zebb nods and sinks back into his stupor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>Zebb nods, eyes closed. "Yes. Help me forget. I don't want to feel like this anymore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>Zebb shakes his head. "I want it, more than anything in the world, but Avina's right. How can I honor Nym's memory if I don't remember who she was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>Zebb nods, eyes closed. "Yes. Help me forget. It's all I want. Please."
+
+{SCRIPT: Makes the House of Empty Time Difficult Task one difficulty easier.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>Zebb snarls. "Are you trying to rob me of my sister? No! You want to kill her all over again!"
+
+He turns away from you. "You better get out of here. I don't want to talk to you anymore."
+
+{SCRIPT: Zebb won't talk to PC again.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>Avina smiles.  "I wasn't going to stick around forever, Zebb. I think you're doing the right thing." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>He nods and looks back at you. "Then I'm ready. And I guess I won't be needing any of the street gear I've been collecting, so you can have it. And thanks for everything."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>Zebb slowly looks up. "Did... did you say something, sir?"</DefaultText>
+      <FemaleText>Zebb slowly looks up. "Did... did you say something, ma'am?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>As Zebb stares at the ground, lost in his agony, you feel a great wellspring of empathy rising within you. Further, you sense that, if you shaped it and let it build, you could transfer it to Zebb to make him forget his sister entirely. The pain of her death would be gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>Zebb nods, eyes closed. "Yes. Help me forget. It's all I want. Please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>The feeling of compassion expands within you, and you mold it with your will, making it into a healing balm. You put a hand on Zebb's forehead and a stream of warmth flows though you into his mind, building up certain memories and diminishing others and washing others entirely away. He shudders under your touch, but then the pain in his eyes clears and he stands taller, though you feel weak and considerably diminished.
+
+{SCRIPT: Increment sorrow urgency.}
+{SCRIPT: Costs DP}
+{SCRIPT: Apply appropriate negative fettle to PC.} 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>Zebb nods, eyes closed. "Do it. I can't bear the pain another minute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"Thanks for the offer all the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>Zebb nods and sinks back into his stupor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>Zebb lets the knife fall from his hands. "What was I thinking? I was so angry, I... I... I can't believe I almost... I would have felt awful. I don't think I could have lived. It's just... losing Nym hurts so much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>Zebb lets the knife fall from his hands. "I... I don't know why I... Thank you for stopping me. I would have felt awful. I don't think I could have lived. It's just... losing Nym hurts so much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"Never mind. I'll tell you later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>Zebb blinks. "What? Why would you tease me like that? That's not very nice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>The boy still sits in front of his collapsed house. Once again, he does not look up at your approach. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"How did you...?" He chokes and holds out his hands to you. "Please, sir! Don't tell anyone about him. It would break Nym's heart! He's not doing anybody any harm. I promise!"
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"Is this your house? It doesn't look safe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"We know. That's why we stay outside most of the time - ever since Avina noticed some cracks around the walls. We only go in there to change clothes and stuff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>The boy salutes you as you approach. "Good to see you again, sir. How can I help you?"</DefaultText>
+      <FemaleText>The boy salutes you as you approach. "Good to see you again, ma'am. How can I help you?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"That's hardly polite, sir. Asking for services rendered without even offering a tip."</DefaultText>
+      <FemaleText>"That's hardly polite, ma'am. Asking for services rendered without even offering a tip."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"Sorry, sir. Our stomachs are too tight to answer questions for free. "</DefaultText>
+      <FemaleText>"Sorry, ma'am. Our stomachs are too tight to answer questions for free."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"I can't help your stichus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"I just thought... if you see any other sticha, maybe you could tell them that this one's in trouble, and they'd help him escape..." He looks down, and his voice gets softer. "At least don't tell on him. Please?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"I'll try."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"No promises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"Thank you! I had a feeling I could trust you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"I guess I can't force you. Just... please don't tell anyone where he is, or they'll kill him for sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>"Do you have a plan to help him escape?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"No, sir. We can't just walk him down the street or that fat little lord would see him. Not to mention the neighbors. And they'd kill him for sure."</DefaultText>
+      <FemaleText>"No, ma'am. We can't just walk him down the street or that fat little lord would see him. Not to mention the neighbors. And they'd kill him for sure."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>He snarls at you. "You murderer! You killed our stichus! Get out of here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"I couldn't believe it when the ground opened up and that weird stichus took him below. I swear it sounded like it had gears and servos inside."
+
+He smiles. "Maybe it took Mittens to join the Order of Outcast Sticha, and he'll finally be with his own kind!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"You feed him power cells?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"Sticha eat electrical energy. And we can't find nearly enough. He's starving."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"Have you and your friends been picking through the ruins near the chiurgical parlor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>He nods. "That was us. I found some food, but we already ate it... and Avina got some kind of numenera box."
+
+He covers his mouth. "Oh. Maybe I shouldn't have said that. You're not going to take it away from her, are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"Of course not. I was just asking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"If it's what I'm looking for, I might."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"Don't worry about it. Let me ask you something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>"Whew! 'Cause she loves that thing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"I hope it isn't. She loves that thing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"Oh. Uh, okay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"On second thought, let's not talk about it now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>He shrugs. "All right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"I hate you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText> Follow-up PQ. 363</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>"What's a stichus again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>"They're diggers. People say they're making tunnels underneath us, and that's why all the houses are collapsing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"All right. I won't tell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText> Follow-up PQ. 368</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>"Are the cultists still treating you well?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>He nods. "They give us lots of great food... I don't ask them where they get it. And they treat us like highsiders, always bowing and smiling and saying that we're special because we're friends of their god." 
+
+He grins, embarrassed. "Never thought anybody would treat *me* like that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText> Follow-up PQ. 372</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>"What do you know about the Bloom again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>"I don't know much worth telling. It's some kind of monster, and people live inside. Crazy people... and things that aren't people... that's what my dad always said."
+
+"If you go up to the Caravanserai, you might be able to see it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>[Tidal Surge] Allow your empathy to grow.
+
+"Let her go. Live in peace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>"Let me ask you something instead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>"Surely you can answer a quick question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>Erase his memories of Nym, and his pain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>The feeling of compassion expands within you, and you mold it with your will, making it into a healing balm. You put a hand on Zebb's forehead and a stream of warmth flows though you into his mind, building up certain memories and diminishing others and washing others entirely away. He shudders under your touch, but then the pain in his eyes clears and he stands taller, though you feel weak and considerably diminished.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>Avina runs off, furious, as she sees what you have done. "You cut poor Nym right out of the world, you monster! Now I'm the only one who will remember her!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>As the surge fades, Zebb blinks and looks around. "W-what happened? Where's Avina?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>"Avina went to look for another place to live. Maybe you should do the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>Zebb frowns at where his house used to be, as if trying to remember something important, then he shakes his head. "I guess there's no reason to stay here anymore. But where should I go?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>"I don't know, but I think you're on your own now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>Zebb frowns at where his house used to be, as if trying to remember something important, then he shakes his head. "I guess I am."
+
+He gives you an uncertain smile. "Where should I go?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>Zebb frowns at where his house used to be, as if trying to remember something important, then gives you an uncertain smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>Script Node 390</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>Script Node 391</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>The boy sits, still staring where his house used to be. He seems more peaceful now, but there is a confused look on his face.
+
+He notices you approach. "I still don't know where to go. I don't suppose you have any ideas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>"I know a place in Government Square that'll give you a new family - the House of Empty Time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>"There's that place I mentioned to you before in Government Square - the House of Empty Time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>"I don't know, but if I find anything I'll tell you. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>"No idea, kid. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>"I don't have much of a choice. And I guess I won't be needing any of the street gear I've been collecting, so you can have it. Thanks for everything."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>"Thank you, sir. Good fortune to you."</DefaultText>
+      <FemaleText>"Thank you, ma'am. Good fortune to you."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>Still staring at the house, he says, "Oh, right. I'd forgotten. Why did I forget?" He shakes his head, then looks at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>"Does anyone else live back here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>"Can you tell me anything else about the area?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>"There used to be a lady who lived next door. A nano-sorceress. But she disappeared a while back."
+
+"And... and there was a family two doors down. We heard them screaming on the night their house fell into the sea." He shudders and looks away. "My sister Nym was friends with their little girl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>"Hardly anybody comes through here anymore. It's nice and quiet, I guess. Better than the rest of Cliff's Edge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>"People are looking for him. They say he's dangerous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>"Put the knife down. Killing someone is only going to make things worse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>"He could have stopped the others! I hate him!"
+
+As you step into his way, Zebb flails at you with his knife, then spins away and races for the nearby trash dump.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>Zebb collapses against you, sobbing uncontrollably. "But Nym is dead! The sticha didn't show any mercy to her!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>After a moment, he lets the knife fall from his hands. "No... the stichus in the alley, he... he's an outcast. He couldn't have stopped the others. I... I can't believe I almost... I would have felt awful. I don't think I could have lived. It's just... losing my sister hurts so much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>"Lord Vuntgen has been stirring up the neighbors... telling them to look for a 'rogue stichus' and promising them a reward if he's found." The boy gestures toward the west, where you can dimly hear a booming voice and the answering shouts of an angry crowd. 
+
+"They think the stichus is *dangerous*, but he's not. You saw his hands - he can't dig like the others. It's not him that's bringing down the houses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>"I had a talk with Lord Vuntgen. He agreed to call off the hunt for your stichus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>His eyes widen, and he stares at you with obvious awe. "Thank you! I thought *nobody* could tell the Slaves Families what to do. That means the stichus can stay here now. We'll keep him fed and out of sight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>::sssssk:: Oom says, eyeing the structure doubtfully.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

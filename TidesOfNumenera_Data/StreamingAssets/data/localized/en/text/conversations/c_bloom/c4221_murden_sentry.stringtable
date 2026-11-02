@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4221_murden_sentry</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The murden puffs itself up again, clacking its beak and emitting a burst of hateful static that fuzzes your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Where is your leader?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The smaller murden ducks its head, bobbing from side to side to keep you in view, and it points its wicked blade toward an adjoining room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"You need to leave your post. Now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Something in your tone apparently frightens the murden. It hisses and bows as it backs away, retreating for the safety of the adjoining room. Fearful to be left alone, the other murden follows. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Crrrr. Hsssss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Would [Global: c4221_MurdenSentryBribeAmount] shins be enough to make you look away for a few moments?"
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The murden cocks its head at you, then glances at its comrade. You feel the briefest touch of their mental static as they communicate back and forth with one another.
+
+Decision made, the murden holds out one greasy hand to you and waits for you to cross its palm with shins. Once it has them, the two murdens direct their attention toward the ground, scratching at rubbish with their claws, doing their best to seem busy and inattentive.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Your prisoners are gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>The creature looks at you blankly for a moment, then darts a quick glance at its comrade. You sense a staticky psychic exchange between them, and they turn and dash down the hall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The murden cackles and spits at you. On the other side of the room, its comrade defecates on the floor and kicks its refuse in your direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The tone of your voice and the way you carry yourself seems to tap into some primeval, instinctive terror in their hearts, and the murdens scatter before you, fleeing into the next room so quickly that they drop most of their belongings.
+
+Though most of their baubles are shiny, worthless junk, you find a small pouch holding a hundred shins.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Your voice carries no threat to them. In fact, it seems to aggravate them, and rather than submit to your will, they react by flaring their arms outward and threatening you with your weapons. Worse, the abrupt change in tenor of their mental static appears to have some sort of nauseating effect on you, fuzzing your mind and throwing your perceptions awry.
+
+{SCRIPT: Apply Dazed Fettle}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Blood trickles down the murdens' blades, and angry static hisses through your skull. Their yellow eyes are defiant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Attack the murdens!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>They hiss and cackle with rage, and their weapons flash bright murder as they leap to attack!
+
+{SCRIPT:  Start tussle}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[DEBUG:  Win the tussle]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[As the last murden falls, you breathe a sigh of relief. You find a small key on the body of their chieftain.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[DEBUG:  Get murdered by murdens.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Time to respawn!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I'll give you [Global: c4221_MurdenSentryPostAmbushBribe] shins if you let me pass."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>A brief burst of mental static filled with rage and hate disorients you, but they accept your money with poor grace. They glower and mutter to themselves as you pass, and the dark looks they shoot your way suggest that they won't hold their peace for long.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Ignore the murdens and walk past them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Bank 26</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Where can I find your leader again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Sssssss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"...ssss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Awp!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ck-k-k-k!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>The murden ducks its head, bobbing from side to side to keep you in view, and it points its wicked blade toward the adjoining room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Again, the murden points its blade toward the adjoining room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>They hiss and cackle with rage and terror, and they trip over each other in their flight to escape. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The murdens clack their beaks, taunting you, as if to say, *This is how we deal with your kind.*
+
+Rasping and croaking - laughing, you realize - they withdraw into the adjoining room, leaving you alone with the dead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Your ability to read minds only exacerbates the static, amplifying it to painful levels. It takes a severe effort of will to shut out the noise.
+
+Apparently, reading the minds of murdens is a bad idea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The murden puffs itself up, its greasy black down expanding as its beady eyes size you up. You note that this creature is slightly larger than its comrade. It croaks a harsh and glottal challenge, and a burst of mistrustful static fuzzes your thoughts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>The murdens clack their beaks, taunting you, as if to say, *This is how we deal with your kind.*
+
+Rasping and croaking - laughing, you realize - they withdraw into the adjoining room, leaving you alone with Shinwise's corpse.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

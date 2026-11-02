@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x4061_crisis_end</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>With the last of the Sorrow fragments neutralized, you feel a cool breeze flow through you, mind and body. Your muscles tense with dexterity and strength you haven't felt before, and your mind flows gracefully from thought to thought, exploring possibilities and sensations more quickly than ever before.
+
+Gradually, you notice a shadow in your mind - the Sorrow still has one stronghold somewhere in the Labyrinth. You've almost driven it out entirely... but not yet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Script Node 2</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

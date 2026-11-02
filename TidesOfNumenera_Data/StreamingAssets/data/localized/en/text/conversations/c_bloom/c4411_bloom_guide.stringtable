@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_bloom_guide</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This dead woman bears numerous stab wounds, probably inflicted by the predatory 'echoes' that seem to infest the Gullet. Judging by the scrawled maps and notes that are stuffed amongst her things, she may have been an explorer or a Bloom-guide. It looks as though her belts and pouches are mostly intact.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The guide's belt is actually synth rope, about 15 meters long. At your touch, it uncoils toward you... almost as if answering your need. You put it among your possessions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Nothing else of value on the corpse.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You don't find anything else of value.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Search the corpse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Leave the body alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You search the corpse with a trained eye. A bulging pouch yields a handful of shins; you pass over a flat pocket.
+
+The guide's belt is actually synth rope, about 15 meters long. At your touch, it uncoils toward you... almost as if answering your need. You put it among your possessions.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The woman's corpse bears numerous stab wounds, but her belongings are mostly intact. Her flesh is beginning to decay in the moist, acidic air of the Gullet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Going through the corpse's pockets and pouches more carefully, you turn up a fair number of shins.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Bank 10</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Search the corpse again.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

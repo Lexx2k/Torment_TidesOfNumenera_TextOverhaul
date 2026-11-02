@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1131_bowl</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>104</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Jumbled thoughts cloud your head as you study the empty bowl before you. Drops of liquid fall from the ceiling, spattering on the ground next to the bowl. The light from every drop is reflected in the bowl's rounded hollow, as if it *hungers* for that light, and *needs* to be filled. Yet the bowl remains dry.
+
+Another drop falls from the ceiling and splashes across the pylons, wasted.
+
+{SOUND: Dripping - continues until bowl is filled.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Carefully move the bowl beneath the liquid.
+
+{SOUND: Dripping - continues until bowl is filled.}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Shove it over the puddle before any more liquid is wasted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Avoiding the teeth on its serrated rim, you move the bowl over the pool of fallen light.
+{SOUND: Scraping}
+{SOUND: Drips stop.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The serrated rim cuts your hands. You haul the bowl over the pool of fallen light.
+{SOUND: Scraping}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Watch the light grow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The rippling surface of the bowl shines with its own light. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Leave the bowl alone. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Bank 10</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Overturn the bowl. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Try overturning the bowl again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Bank 15</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Touch the surface of the liquid. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Touch the surface of the liquid again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Bank 18</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Touch the surface of the liquid. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Touch the surface of the liquid again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Bank 27</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Ripples bounce away from your finger, rebound against the edges of the bowl, and rush back, countless rings collapsing into a single point... 
+
+The conjoined light pierces your fingertip like a needle, racing up your veins, snapping across your tendons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You touch your finger to the liquid again, and feel the ripples spread across the bowl and into you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Bank 30</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Ripples bounce away from your finger, rebound against the edges of the bowl, and rush back, countless rings collapsing into a single point... 
+
+The conjoined light pierces your fingertip like a needle, racing up your veins, snapping across your tendons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>You touch your finger to the liquid again, and feel the ripples spread across the bowl and into you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Bank 33</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Your head feels tight when you touch the bowl. It is too heavy to move now; trying makes your arms ache and temples throb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>The bowl is just as heavy as before, if not more so. You can't budge it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Clear light spills across the segmented floor, driving back shadows. It pours into your mind, soothing your fractured thoughts. You are not whole yet, but the damage from your fall is beginning to heal.
+
+A voice calls from high above, beyond the spreading light.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Bank 37</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Are you still there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Hello? Can you hear me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Leave the bowl and explore the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Bank 43</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>In the room's crushing silence, you hear the muffled hum of words being spoken far away. If the spectral voice is trying to speak to you, you cannot understand it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>The voice does not respond. You are alone down here once more. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText> Follow-up PQ. 47</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Examine the bowl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Examine the bowl again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText> Follow-up T. 50</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Your fingers trace the bowl's slippery scales. Its toothed rim catches your skin.
+
+Moving it without cutting your fingers will be difficult. You may need to use effort.
+
+Another drop falls from the ceiling, streaking the bowl with reflected light.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Sharp edges between the bowl's slick scales nip your fingers. Each drop of light seems to linger in its polished depths.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Leave the bowl alone. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Avoiding the teeth on its serrated rim, you move the bowl over the pool of fallen light.
+{SOUND: Scraping}
+{SOUND: Drips stop.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Barely feeling the rim cut your hands, you heave the bowl over the pool of fallen light.
+{SOUND: Scraping}
+{SOUND: Drips stop.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Listen. The Sorrow is hunting us, and we are not strong enough to survive it a second time. Not as we are. This is a sanctuary deep within your mind, a place of healing, but you are hardly safer here than when you were falling to your death. Unless you regain a semblance of your former abilities - and soon - that nightmare will breach this fortress and devour us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Bank 57</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Try to remember how you got here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Try once more to gather your memories.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Bank 60</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>You... fell. You remember falling towards the curve of the world. The ground leapt up to claim you. Impact. You should be dead.
+
+But if you are, there is no peace here. Your mind *aches*, and struggles to form simple thoughts. Blurring memories whirl past your inner eye like shards of broken glass. Your body feels sluggish. Clumsy.  
+
+Broken. 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>You fell, but did not die. You are alive, but not whole. 
+
+Another drop of calming light falls from the ceiling, scattering into gemlike beads on the floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Hello? Oh, skist. You're dead, aren't you? {muttering to himself}No, that can't be right. If he were dead, I would be too. {beat}Can you hear me?"</DefaultText>
+      <FemaleText>"Hello? Oh, skist. You're dead, aren't you? {muttering to himself}No, that can't be right. If she were dead, I would be too. {beat}Can you hear me?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"I can hear you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"I can't hear anything. Are you even there? Well, if you can hear me, it means you're still alive. {muttering to himself}But you'd already know that, wouldn't you? {louder, to the PC}Look, I'm just going to assume we're both alive and want to stay that way, all right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I'M HERE!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Bellow as loud as you can.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Say nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"What was that? I can't tell what's real here. Look, build a path *up*. Then we can face this mess together, and you won't be alone. *I* won't be alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Did you say something? Was that even you? I can't tell. It doesn't matter. Just build a path *up*. Then we can face this mess together, and you won't be alone. *I* won't be alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"We're stuck here. That thing'll find us in no time."
+{Quieter, to himself, despondent}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Who am I?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"All right, then. How do I get my abilities back?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Look around you. The fall did not only break your body, it scattered your memories to the corners of your broken mind." 
+
+Your companion is quieter than before, and there is a strange note in his voice. Helplessness? Frustration?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>The voice fades away. Oppressive silence falls, broken only by the hum of new pylons rising below.
+
+{SOUND: Voice fades (maybe done with SOUND fx?)}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"What is the Sorrow?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"For now, it is enough to know that it is raw, relentless hunger and it is seeking your life. If you are to have any hope of stopping it, you must remember some part of who you are, and find me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Bank 92</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Who am I?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Can you tell me anything about who I was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Bank 95</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Don't ask me to summarize your life when that's the very thing at risk. Heal your mind, and your memories will follow, I promise you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Time is short." He seems to force levity into his voice. "Too short for such a long list of accomplishments."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>For a long moment, ringing silence is your only response. Then, someone calls back to you from high above.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>You remember falling toward the curve of the world. Impact. You should be dead.
+
+But your mind aches, struggling to form simple thoughts. There is no peace here.
+
+This feels like neither death nor any life you know.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>For a long moment, ringing silence is your only response. Then, someone calls back to you from high above. His voice is tight with concern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"It frightens me that you do not know, and more so that I cannot see where *you* are. Do you at least know my voice? Do you remember who I am... who *you* are?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Please. I can't remember anything about who I am!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Seek your memories. Claim any you find, breach their defenses, and relive them. If you face challenges, solve them in the way that comes most naturally to you. Your choices will describe you. They will resurrect facets of your buried knowledge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Say nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>You wait only a moment before someone calls to you from high above.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Are you alive? Can you recognize my voice? Do you remember who I am... who *you* are?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Say nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>{Chiding} "There is no need to hide from me, child. I *know* the creature has not broken us so badly that you cannot speak. The fact that we still exist is proof of that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Drop by drop, the bowl fills, ripples spreading over the blurred outline of your reflection. A pale-blue luminescence stretches into the corners of the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Drop by drop, your blood fills the hungry bowl, mingling with the light. The air turns reddish; ripples cross your blurred reflection.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Brilliant liquid continues to drip from the ceiling, splattering on the ground next to the empty bowl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>If so, this is a strange death. There is no peace here, and your mind *aches*, struggling to form simple thoughts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>This doesn't seem like death, nor like any kind of life you recognize.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Do not respond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"You are frightened. Of course, you don't even know who I am or where you are. Listen carefully then. The fall did not only break your body, it scattered your memories to the corners of your broken mind." 
+
+Your companion is quieter than before, and there is a strange note in his voice. Helplessness? Frustration? </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Blood-red light spills across the segmented floor, driving back shadows. It pours into your mind, soothing your fractured thoughts. You are not whole yet, but the damage from your fall is beginning to heal.
+
+A voice calls from high above, beyond the spreading light.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>{Long pause} "Good! We are not so easily separated, you and I. That creature underestimated us!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"A part of you and a friend. We will speak more when you escape."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Where are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Ah! This is *your* mind! I bet your memories are down there. Find them, and you'll repair the path up to where I am. {beat} Are... are you there? Ugh, I'm talking to myself here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"So here's what you have to do. I can't get to you, so you need to build a way up to me... I don't know how you're going to do that. I mean, this is your mind. It's not like I have a map."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>[DEBUG] Move the Bowl and skip all of this.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>[DEBUG] Skip this.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

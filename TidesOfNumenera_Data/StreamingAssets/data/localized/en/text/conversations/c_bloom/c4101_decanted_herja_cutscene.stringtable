@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_decanted_herja_cutscene</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>She looks the Decanted up and down critically, and raises a quizzical eyebrow at you before turning back to the creature. "I'm here to serve my penance. What tasks do you require? I wield blades and beam weapons with equal proficiency. I am skilled in reconnaissance and infiltration, and my small-squad tactics are without equal. Just don't send me against pure-blooded humans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The tortured squeal from the Decanted's grille makes everyone in the vicinity wince. You hear servomotors and gears whirring, and lenses click and switch across its optical sensors with dizzying speed.
+
+"Despite malnourishment and general hygiene concerns, this is an excellent specimen. It will make a fine addition to the Optero Suite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"... the what? Optero Suite?" She turns to you. "I had thought I was to serve in a mercenary capacity, not as some handmaiden for a distant noble. I have no courtly graces, nor do I have the inclination to learn to bend the knee to a politician."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Perhaps it is a misunderstanding. The subject will not be a slave but a valued guest, held in esteem and treated with honor. No servitude is implied."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"You sent this man to fetch me for evaluation without ever seeing me, and now you tell me that I'll be an honored guest? This sounds like forced confinement for the pleasure of wealthy freaks." She shakes her head, backing away. "No. My service is active, and I will return to the mutants if I must. I do *not* trust you, creature."</DefaultText>
+      <FemaleText>"You sent this woman to fetch me for evaluation without ever seeing me, and now you tell me that I'll be an honored guest? This sounds like forced confinement for the pleasure of wealthy freaks." She shakes her head, backing away. "No. My service is active, and I will return to the mutants if I must. I do *not* trust you, creature."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The Decanted takes one lightning-quick step forward, and a jet of gas blasts Herja in the face. She breathes in just a fraction of of the cloud and she drops to the floor instantly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>It leans over her, its lenses again cycling through with a whir. Apparently satisfied, it rights itself. "Regrettable, but necessary. No harm has come to this specimen. The recruit is most suitable indeed."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Your procurement of such subjects is noted. Continue to bring them here and your reward shall be commensurate to their suitability."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Trigger Conv Node 10</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

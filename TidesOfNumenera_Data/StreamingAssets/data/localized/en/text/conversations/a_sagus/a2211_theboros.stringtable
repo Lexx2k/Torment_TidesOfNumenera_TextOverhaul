@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2211_theboros</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>192</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The man is old and strong, his face lined with years of brutal experience. His face is aquiline, his nose sharp. He wears a broad-brimmed hat, and his voice is a low rasp.
+
+"I'm Theboros," he says. "Tell me your story. Make it a good one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I'm the brains of this operation." He gestures with a lazy hand around the table. "Without me, they'd lose the thread of their thoughts and spend all their time wandering in dreams."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>He tilts his glass toward them. "I love my colleagues here, but can they handle the Words of Qra? I don't think so. Right now I've got them locked into a mental construct no one has even the slightest idea how to build."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Do you actually agree with Dhama that action is its own reward?" He seems particularly surly about this. "You know that good wishes don't get the landlord off your back, right? Satisfaction for a job well done doesn't magically bring food to the table? You and Dhama both, it's like you believe in a special world where people get by on the force of their good nature. It's not like that. Maybe in stories. Not here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I'm also the last person in the world to know the lost Words of Qra."
+
+He closes his eyes tightly, and when he opens them again, you see worms of light dancing in his eyes. They're gone again with his next blink.
+
+"They're a weaponized meme. A thought that sticks in your head, a tune you can't get rid of, a saying that echoes in your mind until it drives you mad and melts your brain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>{COLIN: NOT FOR 1E}
+
+Theboros should comment about Riastrad (and Satsada) if the player asks about them, but he refers the player to Dhama (their closest friend amongst the war veterans) if the player wants to know where Riastrad is. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText> If Dhama is already dead or gone (and the player hasn't learned what happened to Riastrad), he'll direct the player to Ziobe instead. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ziobe says one of you veterans is a psychic projection. Is it you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"A psychic projection. That's an interesting way to word it, Z." He tilts his head toward Ziobe. "Couldn't you say that we're all psychic projections, in one way or another?"
+
+He leans in. "Put it this way... are you always how I picture you? Does your behavior change based on my thoughts?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Some damned fool of a nevajin found the scholar who'd released the words in the first place, still alive, still in prison. It released him, and he stumbled out into the world to unleash new horrors."
+
+He closes his eyes and speaks softly. "I tracked the trail of the dead and dying. I took their pain from them, at the cost of their identity. Last of all, I found the scholar, and I... took his identity too. The Words of Qra, I trapped them in a maze in my mind. Only now I fear they're near the exit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>(Possibility: His weaponized meme could even *be* the last Word of Qra, but he describes how he got it differently based on the player's choice in Fathom 1.)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"He saved my life. He saved all our lives. For what? Did he think I'd pick up where he left off? That I'd change my ways and my thinking because of his example?" He pulls his hat down over his eyes. "Dammit. He might've been right. That noble, stupid son of a bitch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Not while Dhama's convinced that one of the Adversaries still lives, no. Besides, I've got other concerns. Maybe later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>He looks up at you, bleary-eyed and weepy, and says, "I've been thinking about our conversation. You know, the one where we were talking about recognition for our work. And I think Dhama might have been right. Gods know I'll remember him, and isn't it enough that we carry the memory of our friends? Who gives a single wet skist about what all those people out there think when the heroes are in here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Glad to know someone around here recognizes that what we do isn't charity. It might be a calling and a necessity, but I need to get something from it besides the satisfaction of job done well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Yes. Depending on that image, anyway, I might change my behavior to improve your opinion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"No. Your thoughts are your own, as are your opinions. They have nothing to do with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I hadn't actually thought about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"So you're influenced by my thoughts, but are my thoughts the whole of you? If they are, then you're my imagination, and the converse. You'd say we're one consciousness subjectively experiencing itself, and that means we're all each other's - and our own - psychic projections." He takes a slow, reflective breath.
+
+"But we're also autonomous, eh? At least to some degree. You exist when I'm not paying attention to you - pretty sure I've no need to imagine someone like you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"We might as well say that we're all interconnected at a fundamental level, that our thoughts and actions have effects on each other. It might not be reality - that is *the* truth, but we each have a perception of *a* truth. It's a guiding star that we use to live our lives. It's not reality for everyone, but it's reality for us. It's our *story*."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"You're back," he says, as if this were an occasion for surprise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Can you tell me about yourself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Can you tell me about yourself again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"What can you tell me about this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Can you tell me about the Fifth Eye again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Heh. So if you hear that I've been telling people that you're a tulky runoff and your body's full of skist, and I'm of a mind to cut you open to prove it, you don't change your behavior? Keep in mind, I've done nothing to you, in this example, not one damned thing. At least not in the physical realm. But I've affected you anyway, purely with the power of my thoughts and my words."
+
+He taps his head with a gnarled finger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Maybe just as well, unless you want to get into the philosophical self-satisfaction game. Like me." He cackles.
+
+"You could argue both side of the case. You exist apart from me - at least I hope you do, or my world has got a whole lot stranger - and you exist *with* me, or else we wouldn't be interacting with each other by squirting words into the air."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Hush, you. I'm lecturing."
+
+He turns back to you. "Even if we don't understand reality, we understand stories. So maybe our best gauge for how we experience each other is through the stories we know and the words we use when we tell those stories."
+
+He laughs. "What I'm really telling you is that I'm not Ziobe's projection. Maybe learn some of our tales and you'll get to the truth. *A* truth, anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>He rolls his eyes. "Oh no. Ziobe, Theboros is getting started again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Clarion needs strong allies to fight in the Endless Battle. Would you be willing to join her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Clarion still needs your help in the Endless Battle..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Convince me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Can you tell me any stories about the others in this bar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"I can, but I won't. Talk to them yourself. They all have a piece of wisdom that they carry in themselves, and I won't dishonor them by telling their stories for them." He scratches under the brim of his hat. "I can eulogize them, but every story would start like... Here's a warrior, selfless and self-absorbed, knowing about themselves so they can help the world..."
+
+"But they're all more than that. See if you can get 'em from a different perspective than me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Dhama would be proud of you, Theboros. It's the actions we take, not the fame we earn, that make us who we are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"But you remember him, don't you? You're going to tell stories about him, and make sure he lives on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Do what you think is right, Theboros."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"You might be on to something. *Dhama* might have been on to something. I'll have to think about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"That I am. Post-mortem reputation doesn't mean anything to us in the now, but maybe it's what people remember about us that makes the world change for the better. I'll think about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Yeah. Yeah, I will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"I was born falling from the sky, and now I'm trying to repair a chamber that will stop a nightmare."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>(Lie) "I'm trying to awaken the constructs in the Reef of Fallen Worlds, and I need mercenaries to help me take over Sagus Cliffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"I've been tasked with recruiting a gang of psychic war veterans to help turn the tide in the Endless Battle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>He watches you intently as you speak, and when you finish, he nods sharply. "You're telling the truth," he says. "A lot of people embellish, or they lie outright. Try to pretend they're more than they are so people will remember 'em as giants... more often than not, they just end up looking ridiculous."
+
+He pats you on the shoulder. "You've given me a rare treat. Thanks. So. What do you want? Can't help you with your chamber, but maybe there's something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"None of your business. I just want a few questions answered."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>He is watching you as you speak, and he laughs as you finish. "A good lie, but you need to control your tells. People remember stories, and if you want to make a story stick, you've got to be convincing." He swigs from his cup. "Not that people don't try what you're talking about."
+
+"Anyway. What do you want with me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Funny you should say that. Been asked before, and recently, but I said no. Who can say what the future holds, though?"
+
+He takes a drink. "Anyway. What do you want from me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>He looks hurt. "Don't like stories? I suppose the one you're living is a quick one, with a no-nonsense hero who just needs to get the job done. Good in the right context, but a lot of times those action stories get dull if they're not told right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"You do the right thing *because* it's right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"So why would anyone do the right thing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>He shakes his head. "Idealists. Bah. There's no talking to you people about this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Fame? Power? Legacy? All of that comes down to this - making life something that's not a complete skist-show. I eat scraps. I have to beg to make my cash, spin stories in seedy taverns, put up with people who've never seen true danger in their lives, and I've got to grin and take the heckling because hey, being an invisible war hero don't pay the rent." He spits on the floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Yeah, sure, do it because it feels good, that's fine. But in the end, you're playing with yourself, giving yourself a good solid stroke of the ego. If that's all you want from your life, go right ahead. Me, I'd prefer to eat a piece of bread that ain't moldy. I *could* plant ideas in people's heads, make myself rich by bending their minds, but if I take away their free will, I'm not any better than the despots I hate, am I?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Why would you handicap yourself? You've got a talent. You should use it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"So you just want to get paid for your work?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Sure, and if I've got a flame lance, I should rob people with it, right? That's what it's there for? You think that's the kind of life I want for myself? They say, oh, Theboros, yeah, the guy who fooled people into thinking he was better than he was. The one who raped their minds into loving him because his talent couldn't support him. That's *just* the kind of legacy I want to leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"It's better than starving."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Do you think the well-off hold back on their talents?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"You've got a point. Make a name for yourself starting from the same level as everyone else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Right. And if Dhama would let us tell people what we did for them, instead of just nodding and smiling, it'd be different. I could tell the story of their salvation, instead of the same old folk tales they always want." He sinks his head into his hands. "Maybe someday. Bah. I'm sick of talking about this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>He stares into your eyes. "You really believe it. Huh. Good to know. I'll think about it." He drinks deep. "What else do you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"No. No, they don't. They don't at all." He sinks into a morose thought. "It ain't the kind of person I want to be, but I'll think on it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Yes! Right now what I'm doing is an amateur hobby - a brain-destroying, reality-saving hobby - and I don't see a single rotten shin for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Would it help if I thanked you and gave you money?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"If no one cares, why not stop?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Is this about making a difference?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I didn't save *your* life. If you gave me money, it'd be charity. I don't take charity, and I don't want yours, either."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"All I really want is some damned gratitude for the life I've sacrificed in this invisible service. Hells, there's a street called Nana Torvus. Maybe she did some good work in her time - saved some orphans, brought hope, who knows. Why not name a street after me? After all of us? But no, we don't even get a trash-strewn alley to our names. Lucky if we get paupers' graves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"You wouldn't believe how many times I've asked myself that. Maybe I'm just a fundamentally nice man."
+
+He sneers, and then hawks some phlegm through a grate in the floor. "Nice. Like it's gotten me anywhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"You know, I've asked myself that plenty of times. Mostly it's about knowing that someone appreciates what I've done for them - that I've turned down opportunities, that I've given my life for them because I believe in what we do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>He sighs. "Fact is, it's likely about my regrets. Way too late in my life to change course. Doubt I'd change a thing about what I've done, to be honest. Being unethical doesn't sit well with me, it turns out, so I'll take what I've got."
+
+"I really wish doing the right thing paid better, though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"And to you, I suppose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Ask Dhama. Ask Leto. Ask Ziobe or Feriok. I just drink here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>He considers. "I don't think I told you anything the first time, so... no."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Not so fast. I've got a bit of a personal problem, and if I don't get it solved, I'm not going anywhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"You remember how I told you about the Words of Qra? Still got that problem, still not going anywhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"We're just trying to get away from your nagging." He tips his friend a wink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"It's that nagging that sharpens my word, Dhama. Though I admit that my words are probably getting duller every second I spend talking to you."
+
+He turns back to you. "I'm... let's call me a warrior of language. Words are my weapons and my treasures. They might be pretty sounds to you, but to me... they're the tools that pry open your imagination and leave you vulnerable to my friends here. I build pictures, set the scenes, and create mazes in your mind." He takes a careful sip of his drink. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"I already told you about the Words of Qra, so let me just say that my mind is still up to the task... but I can feel the walls breaking down in there. I'm afraid it's going to burn me out eventually."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"You already solved the problem I had with the Words of Qra, for which I cannot thank you enough. I mean, I could, I suppose, but we'd both get tired of the sound before long."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>She lays a hand on his arm. "You don't have to talk about this, Theboros." She turns to you. "It's eating away at him. He has it compartmentalized. But he says that he can feel it burning away at his mind. I feel the power in you. Can you help him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"He spends a lot of the day nagging at us, is what he means."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>His long face grows more somber, if that's possible. "Those words were the ruin of an ancient civilization. I had this story from a dying nevajin, before I wrested the last word from its mind."
+
+"Goes like this. The scholarchs of that age had found deep truths about the world, and they stumbled across these words. They wrote the knowledge down and sealed the words away with the strongest warnings they could find, and then they killed themselves so that they wouldn't infect their kind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Not much more than I already have. Even talking about a weaponized meme is dangerous. Brings it closer to the surface, you know. Like when you get a tune stuck in your head, and you can't stop humming it, can't stop - "
+
+He snaps his mouth shut and rolls his eyes back into his head. Sweat beads on his brow.
+
+At last, he releases his breath in an explosive gasp. "Almost got away from me there. Measures and counter-measures work. Rational thinking. But it's..." He rubs his eyes. "Hard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"What can you tell me about the Words of Qra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Can you tell me about the Words of Qra again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Word warrior, language my specialty, constructing dreamscapes and impenetrable logic puzzles for the discerning villain of the story. That would be, of course, anyone who stands against our motley band of heroes. Because, after all, aren't we all heroes to ourselves?"
+
+He briefly tips his hat. "Though admittedly not everyone would see it that way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Then some idiot nevajin found the trapped fool who'd caused all the trouble to begin with. He was still alive. It learned the words from him and started infecting others - other nevajin, travelers come seeking knowledge."
+
+"Have you ever killed a nevajin?" He closes his eyes and speaks softly. "I hadn't, til then. They're kind creatures. Wise. I took their pain from them. I ate the Words of Qra, trapped 'em in a maze in my mind. Only now I fear they're near the exit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"A nevajin - a hero - found the imprisoned scholar. It tried to wipe away the knowledge he'd spoken and removed him from the world. Had the nevajin stuck there, it would have seen the dust itself rewriting the Words of Qra on the floor in the wind."
+
+He bows his head. "But it was too late. The words had infested his mind. I found the words, I burned them from the world... trapped them in a maze in my mind. And... they're near the exit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"The problem was, they didn't count on their writings sticking through the ages. Some skist-brained fool ignored the warnings on the bindings, read the words, and spilled 'em out into the civilization that had grown up in that spot over the millennia. Eight rulers of Qra, eight words, and a continent-spanning empire fell, its people bleeding from their eyes with hatred in their hearts. Survivors tried the scholar who'd released the words, buried him in stone. The words were lost again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"What are you going to do about the weaponized meme that's burning your mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Do you still want my opinion on what to do with the Words of Qra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Well, I could always kill myself. Honestly, I don't think anyone else could carry it, and the alternatives are too horrific to bear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"If it'll solve the problem, I'm ready to hear it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Don't dare to. Not after last time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"I'm the last person in the world to know the lost Words of Qra."
+
+He closes his eyes tightly, and when he opens them again, you see worms of light dancing in his eyes. They're gone again with his next blink.
+
+"They're a weaponized meme. It's a thought that sticks in your head, a tune you can't get rid of, a saying that echoes in your mind until it drives you mad and melts your brain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Your best option may be to eliminate yourself. It's the only way to be sure you destroy the word."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"I do have a space in my mind, and I can contain the Word of Qra there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"You should release the word. Unburden yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"I don't actually have a solution right now, but I do have more questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"If it'll solve the problem, I'm ready to hear it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Actually, forget it. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Figures. What do you want to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"That's great. Devote my life to saving the city, laid low by a brain-eating parasite, and you suggest I kill myself. That's the best possible route for my life." He sighs. "Typical. Everything I do has made a difference, but no one cares."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Are you seriously suggesting that I unleash a civilization-destroying word because I'm *tired*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Yes, I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"No. I thought you'd appreciate the joke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Then you're a damned idiot, and you'll come to no good end. Sorry I asked for your advice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"No. I'm sure your next suggestion will be even worse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"No. I don't trust your judgment at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>He leans back and crosses his arms. "Really. And how is it that you're a better custodian for the last Word of Qra than I am?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"And take the word of Qra to a battlefield, where psychic attacks might weaken my defenses and let it loose? No, you were right. When the time comes, I'll destroy myself... but until then, I don't dare put myself in a place where I might set it free."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>He stares at you for a moment. "No. Not really."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>[B] If the player is on the Call to War quest, and Theboros has passed his meme to the player, then he can then be convinced (another DT, but it's no more than Moderate difficulty) to join the Endless Battle. When he agrees to join, he'll remain where he is until the player completes the quest by talking to Clarion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"It's the solution that makes the most logical sense. It's the only way to be sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"They might not care, but you'll serve them best by taking the burden for them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Most people won't know, but your colleagues will. Other psychics will surely feel this victory."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"I'm more than strong enough. Use your psychic ability to read me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"I'm more than strong enough. Use your psychic ability to read me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Actually, maybe you *are* better off killing yourself. It's the only way to be sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"By the Black Three. Not what I want to hear. But why should I expect gratitude from the world now?"
+
+He slouches in his seat and takes a large swallow of his drink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Oh, the appeal to the masses and my society-loving heart. When will it ever get hold?" He looks up at the ceiling of the bar. "Not as long as this place stands, I'll wager."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Eh, hells take them. No time like the present. Ziobe! I can't take the chance these things'll get out. I can't pass them along, and if I destroy where they're living now, I'll just infect the rest of my mind. You know what to do."
+
+He laughs, almost a sob. "Maybe they'll tell tales about how you destroyed the lost Words of Qra. Burned them out of some addled old man in the bar."
+
+His face hardens as he regains his composure. His voice is firm and sharp. "Do it. Before I change my mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>He sits up in his chair. "That's true. I don't even care what most people think about me. If I'm going to make a sacrifice, I'd rather have the people who understand that sacrifice remembering me. Professional gratitude, knowledge of the burden, all that." He tips his drink to you. "I appreciate the perspective, friend. I truly do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>He focuses on you, and you feel something like the skittering of spiders across your mind. They plunge inside, and suddenly you sense his presence in the Labyrinth, and you feel his mind recoil.
+
+He snaps his eyes back to yours. "Yes. Yes, I think you'd be an excellent vessel. Do not use the word. Keep it *contained*, you hear me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>He focuses on you, and you feel something like the skittering of spiders across your mind. They plunge inside, and suddenly you sense his presence in the Labyrinth, and you feel his mind recoil.
+
+"No. No, I don't think so. It's not just your mind in there. Many minds share that space, and honestly, I just don't trust that you'll guard the word."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>He leans forward and whispers the word into your ear. It is a beautiful word, and you feel your tongue curling to shape it aloud. Theboros claps his hand across your mouth, his eyes tight on yours, and with his mind he drags the knowledge of the word into the Labyrinth, into a disused corner, and he seals it with an image of steel, glass, and dark infinities of space.
+
+He leans back, panting. "Ziobe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Yes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"I need a piece of my mind cauterized. Here." He touches his hands to her temples, and she to his, and they lean forward, their foreheads touching.
+
+You see a flare of light, and he cries out in pain, but he doesn't let go. When they release their hold on each other, you see a small, smoking hole in his forehead.
+
+"I couldn't take the chance it would leave a trace of itself in there," he says. "It's gone from me. It's your responsibility now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"I've done everything you asked of me. I carry the Words of Qra. I helped with the Adversary. You *owe* me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Maybe later. Let me ask more questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Maybe later. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Ask away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>He throws up his hands. "Fine, fair enough. Fair enough. Hope the pay's worth something. Hope there's a chance for glory."
+
+He sips his drink. "Tell her I'm in. Until then, I'm here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Might be. Or it might be that I'm an old man, and I've got nothing I can really offer. I'm sorry, but you're all better off without me. I'll stay here and fade into obscurity, if it's all the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Are you ready to leave for the Endless Battle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Whenever you're ready. Talk to your recruiter, and we'll head out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"All right, Theboros. All right." She kisses him gently. "For what it's worth, I'll remember you."
+
+He laughs, almost tenderly.
+
+He touches his hands to her temples, and she to his, and they lean forward, their foreheads touching.
+
+You see a flare of light, and he cries out with pain, but he doesn't let go. When she releases her hold on him, you see a small, smoking hole in his forehead.
+
+His eyes are blank and empty of life.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"I don't have his gift of words," she says. "But this was a warrior of the highest caliber. A man who knew the strength of his friends, the caliber of his enemies. His story is done now."
+
+She bows her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>This man's mind is unintelligible, like trying to read the thoughts of a book that's been glued shut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Even if we don't understand reality, we understand stories. So maybe our best gauge for how we experience each other is through the stories we know and the words we use when we tell those stories."
+
+He laughs. "What I'm really telling you is that I'm not Ziobe's projection. Maybe learn some of our tales and you'll get to the truth. *A* truth, anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"No, friend, not today. I'll figure out some other way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Maybe there's another option."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"I'm eager to hear about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"I do have a space in my mind, and I can contain the Words of Qra there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Let's talk about that space in my mind again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>He leans back and crosses his arms. "Really. And how is it that you're a better custodian for the Words of Qra than I am?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Yes. Let's. What's your plan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Ask Ziobe or Feriok. I just drink here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Ask Dhama. Ask Ziobe or Feriok. I just drink here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Ask Leto. Ask Ziobe or Feriok. I just drink here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>This man's mind is sealed off from you, like trying to read the thoughts of a book that's been glued shut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"What can you tell me about the Adversaries?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Tell me about the Adversaries again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>His eyes narrow and he leans in close. "I don't want to talk them up. It's important to understand that they are not unbeatable, that they are not immortal. They're tough, hells yes, but they can be stopped."
+
+He leans back. "That said... what are they? You've heard of spirits, beings of pure thought? That's what they are, except that they're more like living hate. Like every nightmare of fear that you can't escape. A vortex of despair. And that's why we fight... because they're *poison*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Monstrously strong beings of the darkest emotions we've ever experienced. They exist only to devour."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"I just wanted to see where the conversation went."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Heh. I like a good contrarian. Attitude like that will take you far. But here's the point of that whole argument."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Until Clarion's ready to go, I plan to drink as much as humanly possible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Got to tell you, it's a real burden off my mind to get the Word out of there. Not many people could contain it, so I'm trusting you. Hells, humanity here in the Protectorate is trusting you. Be mindful of your duty." He nods. "It's a heavy weight, but I think you're up to the task."
+
+He stifles a chuckle. "You and I, we're part of the same story now, eh? Hope you make yours a good one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Word-bearer." He tips his hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>His eyes are closed as if in deep concentration. He's muttering words under his breath, and he doesn't seem to hear you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Talk to Dhama, not me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText> Follow-up T. 205</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Got no time to bandy words with you. We're looking for a way to stop that Adversary, and if you're not willing to help, get the hell out of the way and leave the professionals to do their work. If you want to help, your aid's welcome. But I'm not the one you should be talking to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>His eyes are closed as if in deep concentration. He's muttering words under his breath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Script Node 208</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Script Node 209</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Script Node 210</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Script Node 211</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"The hero of the hour!" He raises his glass and swallows a sizeable amount, apparently in your honor. "You have turned the unlikely into a reality, and for that you have my thanks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x2021_trainerfathom_kamose_villon_diviaticu</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>115</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The three figures before you are disoriented. They don't even seem to notice you at first. All three of them have a tattoo like yours - castoffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I do not believe so." The second figure is tall, dressed all in black. Its height is exaggerated further by a violet, fish-like crest on the top of its head. Its large yellow eyes are squinted, scanning all around. "There was a man *outside* the clock, but it wasn't-"</DefaultText>
+      <FemaleText>"I do not believe so." The second figure is tall, dressed all in black. Its height is exaggerated further by a violet, fish-like crest on the top of its head. Its large yellow eyes are squinted, scanning all around. "There was a woman *outside* the clock, but it wasn't-"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"It was him." The third figure points at you. He is small, wiry, and tense as though he expects danger. He carries a shield on his back. "He's a castoff," he says, looking at your tattoo. "Can't say I recognize him, though."</DefaultText>
+      <FemaleText>"It was her." The third figure points at you. He is small, wiry, and tense as though he expects danger. He carries a shield on his back. "She's a castoff," he says, looking at your tattoo. "Can't say I recognize her, though."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"What happened just now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"What are you talking about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The woman steps forward. "We beg your forgiveness, friend, brother. We have been through quite the trial. I am Kamose. These are my friends, Diviaticu and Villon. We are castoffs, like you." She looks you up and down, her brow slightly furrowed despite her kind demeanor.</DefaultText>
+      <FemaleText>The woman steps forward. "We beg your forgiveness, friend, sister. We have been through quite the trial. I am Kamose. These are my friends, Diviaticu and Villon. We are castoffs, like you." She looks you up and down, her brow slightly furrowed despite her kind demeanor.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"We were *ingested* into your head. I saw it. How is that possible?" He eyes you suspiciously. "Who *are* you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I'm a castoff, like you. I'm the latest one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I'm a castoff, like you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I'll ask the questions. What were you doing in that clock?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"The latest?" She raises one eyebrow significantly higher than the other. "That's not possible. We faced the Changing God mere days ago, and you are not the body he wore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I think we might have been trapped in that clock for centuries, Kamose. Something about it messed with our perception."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The varjellen looks up at the ceiling - or where the ceiling would be if there were one. "Time is an illusion. 'How long?' is the wrong question." It turns its enormous, bulbous eyes to you. "What is this place? Where are we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>(Lie) "Nobody. I'm a victim here like you. I don't know what's going on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>She raises one eyebrow significantly higher than the other. "I've met *scores* of castoffs, yet you are new to my eyes and ears. How can that be? Diviaticu is the youngest castoff *I* am aware of. Have you remained hidden since your birth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"You're not nobody. We've been trapped in that clock for centuries. *Nobody* has gotten us out, and the way you did it-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"One moment. Centuries? I thought it was mere days ago that he imprisoned us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"A fair challenge and a fair question. We thought to catch our sire off-guard, and perhaps we did, but he was still too quick. He did something, *subsuming* us into that clock of his. We've been trapped in there for days, now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Somewhere in my mind, I think."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Inside the clock, perhaps?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I don't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The varjellen shuts its eyes. Six nostrils open wide as it inhales deeply. "Yes, perhaps you are right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>He laughs. "Oh, no. *Believe* me. Perceptions or not, we spent enough time in that clock to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Our consciousnesses were ripped from our bodies when the Changing God activated his clock. Then when you appeared, it happened again - our minds ripped from their chronal prison."
+
+It looks to its friends. "I cannot be certain, but I believe this is part of some vast mental construct." He turns to you. "*Your* mental construct."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>The varjellen shuts its eyes. Six nostrils open wide as it inhales deeply.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>His eyes become nearly as large as the varjellen's. "What? You mean we just went from one prison to another?"
+
+He grips you by the shoulders. "*You* did this. If this is your mind, then let us out!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Why did the Changing God trap you in the clock?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Why did the Changing God trap you in the clock again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ah, yes." She looks down, embarrassed. "The three of us once worked alongside our sire, helping him with his research after he'd brought the Order of Truth to Sagus Cliffs. We... we saw him for what he was - selfish, arrogant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"We betrayed him," she says. "The Changing God. But he was too fast. When he activated the clock, it trapped our minds somehow... the same way you did, in fact."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Why can't *you* get us out of here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Weren't you listening? We were trapped in that clock for centuries. I'm looking for a way out, believe me, but if Diviaticu says it's your mind, then it's your show."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Don't give up hope, friend brother."</DefaultText>
+      <FemaleText>"Don't give up hope, friend sister."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The three of them mutter to each other, looking around this strange space, as they try to find another way out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I don't see any way out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The varjellen stretches its neck, putting its face within a handspan of yours. It seems to be examining you. Then it says, "*Your* mind. Only *you* have the power to change."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"What he's trying to say is that this place was created for your body, or perhaps *by* your body. Our sire placed within each of us unique gifts and abilities. For example, I have never heard tell of another castoff who could trap consciousnesses the way that you have."
+
+She smiles warmly at you. "He would not have created this space for you without also giving you a means by which to move through it. Think. What *other* gifts did our creator bestow upon you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Let me look around. I'll be back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Let me look around a little more. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I'm a fighter, a glaive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"I'm a jack-of-all-trades."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I'm what they call a nano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"So am I, kid. And yet we're both still stuck in here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"You see, that's just the type of thing that you *do*. It was a path you chose, not something our sire gave you, nor a means to freedom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Her smile is wide and friendly. "Of course you are. It is plain we are congeneric by look alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>He laughs. "So's the varjellen, but you don't see him barking about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"I can change the past through the Merecasters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>She and the varjellen pop their eyes wide open in surprise.
+
+"That... is not an ability I've ever heard of."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"I can use the Tides to affect people around me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>The glaive nods. "Yes," she says. "We can all do that to one degree or another. It is our blessing and our curse. I don't think it will help us here, however. What do you think, Diviaticu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>It considers you a moment, then shakes its head. "No. The power of the Tides is an unintended byproduct of the process that created us. But if our sire tied this mental construct to *you*, then he did so intentionally. The solution lies somewhere else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I chose an aspect of myself when I was born, deep in the heart of this labyrinth. Is that it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Diviaticu shakes his head. "I can see what you speak of," it says, and you get a momentary impression that its eyes can see *through* you. "This aspect describes you, just as I am varjellen, Villon is observant, Kamose is foolish."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"I object to that characterization!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>He gives a kind chuckle. "He's not wrong, and you know it."
+
+At her wounded look, he raises his hands placatingly. "It's the truth! Anyway, you've gotten us out of twice as much trouble as you get us into."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>The varjellen speaks to you. "These aspects are descriptors of who we are, but they are not us. That you *chose* your aspect says quite a lot... but I do not believe that is enough to set us free."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"I don't think I have the ability you're talking about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>She gives you a kind smile. "The gift is in you. Perhaps you have just forgotten. Our sire wouldn't have made this place for you without granting you the power to get out. Focus. Find the answer inside yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"You must!" She looks at her compatriots and back to you. "We each have our gifts, given to us by our sire for a specific purpose - *his* purpose of course, but a purpose nonetheless."
+
+She presses a hand to her chest. "They say, for example, that - foolish though I may be - I have nigh magical gifts of speech. That is not something I chose nor learned, but it is who he made me to be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>He rubs his hand along the edge of his shield. "I am a master of defensive arts. Our sire learned them when he was in my body, probably built my body to excel at it. I wouldn't call it a *gift*, but... it's me, yeah."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"I am one with the shadows. I live in them. I *breathe* them. This is not some esotery I discovered, but a unique ability our sire chose for me while he was in my body."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Shut your eyes. Search your memories for this ability they speak of.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>You rifle through your memories, past everything you *actually* remember to those memories you didn't create yourself. There must be a key or a door - anything that would help you to escape this fathom of your mind.
+
+Just as you're about to give up, you find something, a cluster of sparks, nascent abilities deep within the core of your being. You sense the abilities to speak eloquently, to use a shield with a master's skill, to lurk among the shadows as though they were home...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>None of these seem particularly suited to creating a path out of this place. But as you sift through them, you *know* that you are trapped here, not because it is some puzzle your sire left for you to solve, but because you are not yet *whole*. This is another part - the last part - of deciding who you are. In completing yourself, you will be able to open a path back to the calm of your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"That's it! You did it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Does this mean we can go back to the real world?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"I don't think so, Villon. But it does mean we are free. Finally." He turns to you. "Thank you, friend. Go. We will follow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"It is your mind. You should walk the path."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Oh, well done. We are in your debt multiple times now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"In his debt? It's his fault we're trapped here in the first place. By my count-" He stops and stares at his hands. They're transparent and becoming more so. "Hey! What's going on?"</DefaultText>
+      <FemaleText>"In her debt? It's her fault we're trapped here in the first place. By my count-" He stops and stares at his hands. They're transparent and becoming more so. "Hey! What's going on?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Intriguing." It looks at its hands and feet, which are fading in the same way. "We are no longer tied to this place. Our consciousnesses are finding a more suitable location."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"What does that mean? Are we dying? Are we free?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Neither, I think." You see through his head and chest. "It means this part of the mental construct is not ours, not truly. We are being drawn to some place that *is*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>She places a hand on your shoulder. It feels solid, though you can hardly see it anymore. "Farewell, friend brother. I don't know if we will meet again, but until-"
+
+Then they're gone, and you are alone.</DefaultText>
+      <FemaleText>She places a hand on your shoulder. It feels solid, though you can hardly see it anymore. "Farewell, friend sister. I don't know if we will meet again, but until -"
+
+Then they're gone, and you are alone.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"I don't know how to get out of here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Relax, friend brother. Whether for days or centuries, we survived that clock. We will survive this. If time is an illusion, then it is not our enemy. We will find a way."</DefaultText>
+      <FemaleText>"Relax, friend sister. Whether for days or centuries, we survived that clock. We will survive this. If time is an illusion, then it is not our enemy. We will find a way."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"So long as we live, there is hope. One of us will find a way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>He looks back and forth between the other two. "But there aren't any Merecasters here, are there? What can he do?"</DefaultText>
+      <FemaleText>He looks back and forth between the other two. "But there aren't any Merecasters here, are there? What can she do?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>The varjellen sighs. "Villon is correct. If this were the ability that could help us, it would have done so already. It must be something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>All of these and more are in the depths of your memories, as though this body recalls every gift the Changing God ever had. Some sparks are buried deeper than the others, inaccessible at the moment, but *there*. Perhaps with time and experience, you might find a way to access more than just those within easy reach.
+
+{COLIN: At present, it doesn't look like we'll have the bandwidth to create additional foci, so I'm moving this node down where it will never play. If this changes and we get more foci later, please move this node back between 67 and 68.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"He doesn't care about us, not a single one of his children." He crosses his arms and looks away bitterly. "All of his projects were always about him. He didn't care if anyone got hurt in the process."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"We betrayed him." Unlike the others, the varjellen looks you directly in the eye. "We meant to stun him, to capture him before he could escape to another body, but he was too quick for us. He activated the clock, tearing our minds from our bodies and trapping us eternally."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Choose the Brandishes a Silver Tongue focus.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[Choose the Masters Defense focus.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[Choose the Breathes Shadow focus.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[TEMP: The focus selection window will appear here.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[DEBUG: Skip to choosing my focus.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Go ahead. I'd rather make sure it works first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"I'm curious what awaits us next."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>With the fragment of the Sorrow gone, you feel new connections being made in your mind. It's as though the Sorrow itself were keeping you from your full potential.
+
+{OLD TEXT; SHOULD NOT BE USED UNLESS NEW FOCI ARE UNLOCKED: It's as though the Sorrow itself were keeping you from accessing the nascent sparks of abilities buried in your mind.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"I built a path out of a deep fathom in my mind by recovering memories I had lost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Perhaps... if there were any memories here to recover."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>He curls his lip and looks around. "Maybe I just don't know what memories look like, but I don't see *anything*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Hmm. It would seem we are in agreement, Villon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>But that is the only cause for celebration you have. The three castoffs died in the battle with the fragment, after all. 
+
+You are alone here, and the silence weighs down upon you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Oh, well done. I am in your debt multiple times now." She sighs. "If only the others had been as fortunate."
+
+She stares at her hands. They are transparent and becoming more so. She grabs hold of your arm, and her flesh, though barely visible, feels solid. "Something's pulling me away. I think... I think this is goodbye. I don't know if we'll see each other again. Thank you for e-"
+
+And then she is gone, and you are alone. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"I suppose I should thank you," Villon says sourly, "though it's your fault I'm here in the first place. But I'm sure you would have saved the others if you could."
+
+He stops and stares at his hands. They are transparent and becoming more so. He grabs hold of your arm, and his flesh, though barely visible, feels solid. "Something is pulling me away. Somewhere else in the labyrinth... I think-"
+
+And then he is gone, and you are alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Well, that is done, then," it says, looking around with a sigh. "I wish the others had survived, but you did all you could." 
+
+It stops and stares at its hands. They are transparent and becoming more so. It touches your arm gently, and its flesh, though barely visible, feels solid. "Fascinating. This part of the mental construct does not belong to me. I believe I am being drawn to a place that does. Perhaps-"
+
+And then it is gone, and you are alone. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"I suppose I should thank you," Villon says sourly, "though it's your fault I'm here in the first place. But I'm sure you would have saved Kamose if you could." 
+
+He stops and stares at his hands. They are transparent and becoming more so.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Oh, well done. We are in your debt multiple times now." She sighs. "If only Villon had been as fortunate."
+
+She stops and stares at her hands. They are transparent and becoming more so.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Oh, well done. We are in your debt multiple times now." She sighs. "If only Diviaticu had been as fortunate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Intriguing." It looks at its hands and feet, which are fading in the same way. "We are no longer tied to this place. Our consciousnesses are finding a more suitable location."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"What does that mean? Are we dying? Are we free?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Neither, I think." You can see through his head and chest. "It means this part of the mental construct is not ours, not truly. We are being drawn to some place that *is*. I think-"
+
+And then they are gone, and you are alone. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Intriguing." It looks at its hands and feet, which are fading in the same way. "We are no longer tied to this place. Our consciousnesses are finding a more suitable location."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Are we dying then? Or are we free?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Something is pulling us away. I think... I think we weren't supposed to be in this part of the Labyrinth. We're being pulled to where we belong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Let's hope *that's* not a prison, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[DEBUG] "I don't have a class, but if I did then here is where I would say something about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"What befell us?" The woman is dressed in powerful-looking armor. Her face bears several scars, yet her eyes have the innocence of a child. "Did *he* do something? Are we still in the clock?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Well met, brother. Have you discovered anything new about our predicament?"</DefaultText>
+      <FemaleText>"Well met, sister. Have you discovered anything new about our predicament?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Script Node 117</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

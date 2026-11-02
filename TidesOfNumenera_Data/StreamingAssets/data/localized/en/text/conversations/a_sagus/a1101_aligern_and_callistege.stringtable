@@ -1,0 +1,1594 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1101_aligern_and_callistege</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>309</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Oh, yes, it's *obvious*, Callistege." He addresses you. "You're no ordinary mortal, we know that much. Start talking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"You know he's not the Changing God, Aligern."</DefaultText>
+      <FemaleText>"You know she's not the Changing God, Aligern."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"This whole structure seems to be a relic of the Changing God's. I can't say much more about it, though. That's because you broke it in your fall, and frankly I'm not sure how you survived. Your body knitted itself together - I've never seen shattered bone do *that* before, and believe me, I've seen plenty of shattered bone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"It's *his* face! I've never seen any other people rebuild themselves like that. Only the Changing God could have healed so quickly. Maybe you could help *me* for a change. You know what this means to me."</DefaultText>
+      <FemaleText>"It's *her* face! I've never seen any other people rebuild themselves like that. Only the Changing God could have healed so quickly. Maybe you could help *me* for a change. You know what this means to me."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"You're looking for the Changing God?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"What is this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Aligern, really. Where's your mental rigor? What makes you so sure this flesh contains his spirit? Look in his *eyes* - they're scared and lost. This is a castoff, and freshly made. Tell me, child," she asks, leaning toward you. "What is the last thing you remember?"</DefaultText>
+      <FemaleText>"Aligern, really. Where's your mental rigor? What makes you so sure this flesh contains his spirit? Look in her *eyes* - they're scared and lost. This is a castoff, and freshly made. Tell me, child," she asks, leaning toward you. "What is the last thing you remember?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"My apologies for my tone, friend. I just need you to answer a quick question - are you the Changing God?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Bank 10</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText> He has set his face carefully, but his jaw is tight and his eyes smolder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"You need to repair the chamber? No problem. I know *one of your kind*, a woman named Matkina. Her contacts can get us the material we need without the authorities taking an undue interest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Wait. I need to know something first. Who are you *really*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"The Order of Truth? Are you mad? They would sooner take *us* apart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I'd like to go the Order of Truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Who are the right people?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"What did you mean when you said the chamber's *destroyed*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Let me clarify. I don't think it's destroyed. Not necessarily. Damaged, yes. But not, we hope, irrevocably."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Not likely. Though it might not be *impossible*. You need people with the appropriate knowledge. I'm sure the Cult of the Changing God will hold the answer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"The Order of Truth? Are you mad? They would sooner take *us* apart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Her echoes look disgusted; her leading self remains impassive. "You'd turn to the insane to help a newborn. Where's your judgment, Aligern? I would take him to the Order of Truth."</DefaultText>
+      <FemaleText>Her echoes look disgusted; her leading self remains impassive. "You'd turn to the insane to help a newborn. Where's your judgment, Aligern? I would take her to the Order of Truth."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Her only reply is a scornful laugh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I survived that fall, and have skills and powers I don't recall learning. What if I *am* the Changing God?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"There's so much I don't know or remember. I think I must be a castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I'd like to go to those who know about the Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I know *one of your kind*, a woman named Matkina. Her contacts can get us the materials we need to rebuild without the authorities taking an undue interest." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"One of my kind? What do you mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Can either of you fix the chamber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[reply about castoffs. the word sparks a torrent of memories and a flood of emotion]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>As you open your mouth to speak, you feel a sea of swirling, dark emotions rising up, a wave that threatens to engulf. Betrayal, pain, rage, fear, and jealousy crash and churn against each other, demanding your attention, devouring your focus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Betrayal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Pain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Rage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Fear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Jealousy,</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>You snatach at betrayal to anchor your thoughts, and you feel a gush of power spilling out from you. For a moment, you recognize the minds of Aligern and Callistege, held whole in your thoughts, and your energy fills them. You feel their thoughts align with this new pattern, and then your grip on their minds slips away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Callistege says something about Aligern always being on about betrayal, when he carries that burden so heavily himself.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[He looks aghast and then anger fills him. He shouts about how she's always undermining him.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Stop fighting!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Do we have time for this? I need to repair the chamber!."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Please, just stop what you're doing. You can pick it up again later if you need to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"A wise choice. They're not likely to cut you apart, and they're sometimes fools, but they collect knowledge and data. They'll tell you more than you care to know about... whoever you are. They'll give you good counsel. I'll make the introductions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Good counsel? The best counsel is to come with me. I'll accompany the two of you." She glares at Aligern. "*When* you change your mind, you'll need an introduction to the Order of Truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>You snatch at pain to anchor your thoughts, and you feel a gush of power spilling out from you. For a moment, you recognize the minds of Aligern and Callistege, held whole in your thoughts, and your energy fills them. You feel their thoughts align with this new pattern, and then your grip on their minds slips away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>You snatch at rage to anchor your thoughts, and you feel a gush of power spilling out from you. For a moment, you recognize the minds of Aligern and Callistege, held whole in your thoughts, and your energy fills them. You feel their thoughts align with this new pattern, and then your grip on their minds slips away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>You snatch at fear to anchor your thoughts, and you feel a gush of power spilling out from you. For a moment, you recognize the minds of Aligern and Callistege, held whole in your thoughts, and your energy fills them. You feel their thoughts align with this new pattern, and then your grip on their minds slips away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>You snatch at jealousy to anchor your thoughts, and you feel a gush of power spilling out from you. For a moment, you recognize the minds of Aligern and Callistege, held whole in your thoughts, and your energy fills them. You feel their thoughts align with this new pattern, and then your grip on their minds slips away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>He recoils. "... what did you say?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"I honestly don't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Bank 64</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"What's the Order of Truth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Can you tell me about the Order of Truth again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Bank 67</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"What's the Cult of the Changing God?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Can you tell me about the Cultists of the Changing God again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Bank 70</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Despite what she says, they're not insane. They're eccentrics." 
+
+She laughs. "They're worshippers of... well, of you or your sire. The Changing God. They devote their lives to understanding *your kind*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Charitably? Lunatics. Aligern is in fine company with them. They find godhood in a man, obsessively follow his movements, and canonize his get. They'll love *you*, one way or another."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Bank 73</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Knowledge seekers, the learned who try to wrest secrets from the hearts of the prior worlds. They gather in the city to exchange their findings and help humanity to build a brighter future. Our friend Aligern here was once one of them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>For the first time, his composure breaks. "Bumblers who wouldn't know wisdom if they'd given birth to it themselves! They call themselves scientists and chiurgeons, but their true purpose seems to be strangling truth, not serving it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[I'm aligern. This is callistege. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>- offer more background on the room and Reef - through SI interjections and so forth.
+
+
+
+Some world building - what is numenera (high-level overview; not a breakdown of specific terminology), what is the Ninth World, what is the area
+- Where they are (Sagus Cliffs)
+- A bit of background about Sagus Cliffs
+
+Next steps in quest:
+- Go to the Order of Truth (Callistege's suggestion)
+- or go to Cultists of Changing God (Aligern's suggestion)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Bank 78</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"What is this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Can you tell me about this place again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Bank 81</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Can you tell me who you are again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Bank 84</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"I need to find the resonance chamber. Where is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"What's wrong with the resonance chamber again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Bank 87</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[this? the room we're in? It's a chamber of the Changing God]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"We've told you </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Hmph. Only the Changing God could have survived a fall like that, and you know it, Callistege."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Tell me more about this chamber]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Tell me more about Sagus Cliffs]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Bank 93</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Do ignore Aligern, dear. He can be *so* obtuse." Her most solid self curtsies; the others bow or spin. "I - and my sisters - am or are Callistege. This is Aligern. We are seekers after knowledge, hunters of truth. That's how we came to be in this room. A pity you've crashed into the most important part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"I'm Aligern. This is Callistege. We were *trying* to uncover this room's secrets. No more. Not with the place in ruins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Bank 96</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"The only thing around here that looks like a chamber is this device you crashed into. It might have resonated once, but it's not going to do *that* again until someone puts its components back together. It looks like its sensitive machinery is pretty well destroyed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>[You broke it, kid]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[Here is a placeholder dialogue that lets Aligern and Callistege join your party!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Who's the Changing God?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"By all the frozen-hearted... You don't know about the Changing God? You don't know about his habit of skipping bodies and leaving his castoff conscious shells behind? You don't remember *me*? We'll see about this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Do you not remember sparking the Endless Battle? Do you not remember leading Sagus Cliffs against the Tabaht when they came to slaughter us centuries ago?"
+
+His voice trembles despite his composure. "Do you truly not remember *me*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"I knew it." He looks at Callistege. "I *knew* it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"He said 'what if,' Aligern. Honestly! Would one who has lived so cautiously for so many years casually admit his identity to people like us?"</DefaultText>
+      <FemaleText>"She said 'what if,' Aligern. Honestly! Would one who has lived so cautiously for so many years casually admit her identity to people like us?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"We'll see. If you *are* the Changing God, you'll have a lot to answer for - to a lot of people." He looks at her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Even if he *were* the Changing God, you're not likely to trip him with simplistic questions like that. You should help him, guide him. One way or another, it's the wisest path. At least, it's the way *I* think is best, Aligern."</DefaultText>
+      <FemaleText>"Even if she *were* the Changing God, you're not likely to trip her with simplistic questions like that. You should help him, guide him. One way or another, it's the wisest path. At least, it's the way *I* think is best, Aligern."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Look at him. The tattoo, the clothing, the *eyes*... this is a castoff, Aligern, and freshly made. Tell me, child," she asks, leaning toward you. "What is the last thing you remember?"</DefaultText>
+      <FemaleText>"Look at her. The tattoo, the clothing, the *eyes*... this is a castoff, Aligern, and freshly made. Tell me, child," she asks, leaning toward you. "What is the last thing you remember?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Gods, you're so rancid sometimes, Callistege."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Where did he fall from? His body's smashed to tulk. It's a wonder he's still breathing."</DefaultText>
+      <FemaleText>"Where did she fall from? Her body's smashed to tulk. It's a wonder she's still breathing."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"All I saw was the corona, not his origin point. But look! He's healing already! Spontaneous regeneration!"</DefaultText>
+      <FemaleText>"All I saw was the corona, not her origin point. But look! She's healing already! Spontaneous regeneration!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Poor bodger won't survive this. Even with the dampener I threw, the damage is too great."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Wait! Look! His bones are knitting themselves together! Spontaneous regeneration!"</DefaultText>
+      <FemaleText>"Wait! Look! Her bones are knitting themselves together! Spontaneous regeneration!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Bank 115</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Can you tell me more about the room we're in?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Can you tell me about the room we're in again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Bank 118</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"What can you tell me about Sagus Cliffs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Can you tell me about Sagus Cliffs again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Bank 121</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"It's the largest city for hundreds of kilometers. Perched on the headlands just off of Garravia Sound, it's got dizzying wealth and crushing poverty, a vast collection of knowledge paired with boundless human stupidity. The Slave Families rule still, though they haven't been slaves for centuries, and the joke is that they're making slaves of the rest of the citizens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Best to go see for yourself, I think. Should you require a guide, I'm sure we can escort you." Her smile doesn't reach her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Bank 124</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"From what I can tell, the room's function is to act as a housing for some sort of focusing device, probably that sarcophagus. We've been eyeing this place for months now, but were never able to get in. At least, not until you smashed it open. Unfortunately, it looks like we'll never get our answers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Just another piece of flotsam in the Reef, unnoticed for years, if not decades. Strange energies started emanating from here, so we decided we wanted in, and at last we found a way. Then you fell in and smashed it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>A faint smile hints at a private joke, but doesn't reach his hard eyes. "He's lived longer than anyone in the Ninth World. Hasn't been much of a philanthropist in all that time. He's helped some people, sure, but it's always been in his own self-interest. He's gotten away with a load of skist over the years."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"He abandons the bodies when he decides it's time to move on. But his old bodies live on, children abandoned by their creator. I don't know how he does it, but he's gotten away with a load of skist over the years because of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Frauds, quacksalvers, and charlatans. They don't have all the answers, and I'd not trust them with the Changing God's secrets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"You're just angry that they couldn't help you with yours." Her echoes laugh. "But I am being too cruel, dear Aligern. Let us take our new friend to the Order."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Will you look at... wait... *I know that face*!"
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Ugh. What *was* that? What did you do, Callistege?" You open your eyes.
+
+Tattoos writhe across his forearms. He wears a belted dark coat with pockets full of supplies, and travel-worn boots.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"You blame me? He emitted an internal physiological reaction in response to the fall - probably related to that fantastic healing process. *Obviously,* Aligern."
+
+Faint copies trail her movements. Some react to things you cannot see. All share her vivid hair and extravagant clothes.</DefaultText>
+      <FemaleText>"You blame me? She emitted an internal physiological reaction in response to the fall - probably related to that fantastic healing process. *Obviously,* Aligern."
+
+Faint copies trail her movements. Some react to things you cannot see. All share her vivid hair and extravagant clothes.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"If you're truly not the Changing God, that's a terrible choice. But fine. Fine. I'll come with you. Maybe you'll change your mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Change his mind? You? Unlikely." She turns to you. "Let me provide an introduction to the priests, and we'll have your chamber fixed in no time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Come along, come along."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Let's go. Your fall probably attracted scavengers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"I'll decide where I want to go later. Let's get moving."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Hold on. I'll come with you. Wouldn't want you getting lost, would we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Suspicious as always, Aligern. Child, the world is an exciting place, but it is full of dangers. Rest assured, *one* of us will get you safely to where you need to be. I'll be right behind you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>He forces a smile and pats you awkwardly, his brow still furrowed. "You don't know? Perhaps we can talk about what you do know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"He clearly knows enough to evade your clumsy accusations, Aligern. You have nothing to go on but bitterness and bias."</DefaultText>
+      <FemaleText>"She clearly knows enough to evade your clumsy accusations, Aligern. You have nothing to go on but bitterness and bias."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Why do you seem to hate the Changing God so much?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"He's not really a god, of course. Just a man who thinks he is. He stumbled into a secret that let him cheat death for hundreds - maybe thousands - of years in created bodies. He has knowledge, experience, and power, but then so do a myriad of others. What sets *him* apart is that his old bodies live on when he leaves them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"He abandons the bodies when he decides it's time to move on. But that old body lives on, a child abandoned by its creator. I don't know how he does it, but he's gotten away with a load of skist over the years because of it. But I'm going to take you to people who know about your kind. They might have answers. They might be able to help you repair this resonance chamber. And then you can tell me everything I need to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Wait, can you tell me more about the Changing God?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>He smiles thinly. "Oh, of course. Where to start? How about that he's just a man who stumbled into a secret that let him cheat death for hundreds - maybe thousands - of years in created bodies. He has knowledge, experience, and power, but then so do a myriad of others. What sets *him* apart is that his old bodies live on when he leaves them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"He abandons the bodies when he decides it's time to move on. But that old body lives on, a child abandoned by its creator. I don't know how he does it, but he's gotten away with a load of skist over the years because of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Aligern, really. Where's your mental rigor? What makes you so sure this flesh contains the Changing God? Look in his *eyes* - they're scared and lost. This is a castoff, and freshly made. Tell me, child," she asks, leaning toward you. "What is the last thing you remember?"</DefaultText>
+      <FemaleText>"Aligern, really. Where's your mental rigor? What makes you so sure this flesh contains the Changing God? Look in her *eyes* - they're scared and lost. This is a castoff, and freshly made. Tell me, child," she asks, leaning toward you. "What is the last thing you remember?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>test</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>1. Checked out text
+2. Not-checked-out data
+3. Display type: Hidden
+4. Scripting active
+5. Play type: Random
+6. Persistence: Mark as Read
+
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"I can tell you nothing you don't already know." He glances at Callistege. "Do you want to know how it has grown? How the Slave Families rule still? How the hoards of numenera grow, or how people still flock to the city? Maybe you'd like to hear about the crushing poverty, or perhaps you're more concerned with the plight of the wealthy. It's still a place of wonders, I'll give you that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"A city built by your sire - or you, if you tell the truth about your identity. Come and see what has changed since you were here last."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"It was yours, wasn't it? I see your sigil. But whatever this place was, you broke it. And now you're on the shores of Sagus Cliffs, asking questions you should already know the answers to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"You don't recognize me? Really. Then why -  I am Aligern. This is Callistege."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Her selves curtsy, bow, and spin. "I am the nano Callistege, a devotee of knowledge. This is Aligern... a man of wasted potential and nigh-boundless spite." She winks at him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>His face is calm, but his voice is bitter and tired. "You should know, shouldn't you? You've ruined lives. Committed crimes. And now, it seems like you've forgotten the harms you've engineered. You've left a trail of the dead and dying behind you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Based on the design of the place, it was *yours*. We thought it was just another piece of flotsam in the Reef, until strange energies started emanating from it. We've been trying to get in ever since. Then you smashed a hole in the roof, and the door opened. Who knew it would be so easy to enter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Apparently a housing for that sarcophagus. We're still not sure about its function, and it's unlikely we ever will... unless, perhaps, you might have some insights?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>She and her echoes look amused and appalled. "He's not the Changing God, Aligern."</DefaultText>
+      <FemaleText>She and her echoes look amused and appalled. "She's not the Changing God, Aligern."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Yes, the room belonged to the Changing God, clearly. But you still assume this poor creature is the Changing God. That's quite a leap. Even for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>His face is calm, but his voice is tired. "Who would know better than you? You've ruined lives. Committed crimes. Worse, it seems you've forgotten the harms you've engineered. You've left a trail of the dead and dying behind you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>She and her echoes look amused and appalled. "He's not the Changing God, Aligern. You *know* that."</DefaultText>
+      <FemaleText>She and her echoes look amused and appalled. "She's not the Changing God, Aligern. You *know* that."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Despite what she says," he glances at Callistege, "they're not insane. They're eccentrics." She laughs. "They worship *you*. Have you never gone to speak with them?" He addresses you. "Do you not want their devotion? No matter. They devote their lives to understanding you and your creations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Charitably? Lunatics. Aligern is in fine company with them. They find godhood in a man, obsessively follow his movements, and canonize his get. They'll love *you*, one way or another."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Want to meet your worshippers, eh? A wise choice. They're not likely to cut you apart, and they're sometimes fools, but they collect knowledge and data. They'll tell you more than you care to know about... whoever you are. They'll give you good counsel. I'll make the introductions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"He said as much, didn't he? I'll not change my mind until I see proof."</DefaultText>
+      <FemaleText>"She said as much, didn't she? I'll not change my mind until I see proof."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"It's a city of ancient wonders, the first and last defense against the vicious Tabaht - Sagus Cliffs still bears the scars of those battles. Those who seek wisdom flock here to study the numenera. History rubs cheeks with promises for the future, and it's a place to make a name for yourself, no matter what your calling. Is that enough of an answer for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>The machine he points to looks just like the Specter had described it: a transparent sarcophagus inside a crystalline dome, with mechanical arms arrayed around it on a metal ring. Unfortunately, the dome is shattered, the sarcophagus is cracked, and one of the arms is in pieces on the floor.
+
+It's clear that it won't do anything until it's fixed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"I need to find a resonance chamber. Do you know where it is?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"So do you know where a resonance chamber is?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Thank you for your help, but I'll figure this out on my own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Examine the resonance chamber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Aligern, will you take me to the Cult of the Changing God?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"A wise choice. Your worshippers aren't *likely* to cut you apart, and they're sometimes fools, but they collect knowledge and data. They'll tell you more than you care to know about... whoever you are. They could give you good counsel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"You'll end up without your clothes and broken in a ditch while she laughs it off as a good experiment. It's probably best I come with you as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Of course! Once I provide an introduction to the priests, we'll have your chamber fixed in no time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>She glares at Aligern. "Good counsel? The best counsel is to come with me. I'll accompany the two of you. *When* you change your mind, you'll need an introduction to the Order of Truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Callistege, will you take me to the Order of Truth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Fine, we'll both go. But don't be surprised when Callistege leaves you broken in a ditch with your purse empty, while she laughs it off as a good experiment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>[DEBUG: Skip this dialog.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"All right. Then let's go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"What was that surge of energy when I woke up? Was that because I'm a castoff?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"As I was telling my 'colleague,' it was obviously a physiological reaction of some kind. I've never witnessed the birth of a castoff, but yes, it could very well have been caused by your nascent consciousness. Don't worry. I don't believe it caused any real harm. Not to me, at least."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Really? I thought it transmuted you into a Nibovian shrew."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"I saw a vision of myself in another time and place, just now. You didn't see it too, did you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"I saw you stare into space while Callistege graphically described all the ways you could die, but that's about it. I only noticed because I did the same thing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Was I dead?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Ha! Do village fools fall from the sky?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Ahem. What he means to say, dear, is you should have been. Any mortal *would* be dead in your position. But you..." She studies your body, a glint in her eyes. You can't tell whether it's admiration or hunger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Do either of you know anything about the Sorrow?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"I've had my share of sorrows, but never *the* Sorrow. What's that? A disease?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"I know nothing about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"What are you doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Looking for secrets from prior worlds. It's what we do, dear. It's why anyone comes to the Reef."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Why do you want to go with me? What's in it for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"I won't deny that you are an *exciting* find. But it's not about that. I just want to see you safely out of the Reef."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Kid, you're not safe here, and not just because you're 'new.' Treasure hunters trawl the Reef - scavengers who would sell you for parts if they knew where you came from, what you were."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"If you don't remember who *I* am, you're more self-centered than I ever imagined."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Did you say I'm not mortal? What *am* I?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"I'm starting to think you really don't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Yes, Aligern, I believe you are, for the first time, *starting to think*. You, child, are what we call a castoff. The Changing God created you, both physically and... spiritually, I suppose. Your sire created your body so he could use it for a time. Then for some reason he abandoned it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Terminal velocity freefall is a pretty damn good reason."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Her most solid self curtsies; the others bow or spin. "I - and my sisters - am Callistege. This is Aligern. We are explorers, knowledge-seekers. That's how we came to be in this room."
+
+"If I'm not mistaken, *you* are what we call a castoff. The Changing God created you, body and mind. Your sire used your body for a time, then abandoned it for reasons of his own. When his mind departed for a new experience, *you* were born in his castoff shell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"If the Changing God abandoned my body, where is he now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"How can you be sure this body's a castoff?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"If falling from the sky didn't kill me, is there anything that *can*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"I used a cypher to slow your fall further, but the damage still would've killed an ordinary person. But think about it. If you're the kind of person who can make your body into anything you want, what do you do? If you've constructed bodies for centuries, you want to make each one better than the last. You want to live forever - you're not going to let your life end by *accident*. No, you'll make strong bodies - fast, powerful. Maybe throw in regeneration while you're at it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"The Changing God has always been vain. He rarely stays long in a shell that doesn't suit his... self-image."
+
+She studies you with an unnerving smile. "Perhaps the Changing God fled because he didn't want to wear those scars of yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Dozens. Hundreds. Who can say? Your sire has been doing this for several centuries."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Though if all of them were born the way you claim to have been, it's a wonder *any* of them survive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"*If*. If he abandoned your body, then his consciousness fled to another."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Oh, do *stop*!" She and her echoes glare at Aligern. "If there's one thing we know about the Changing God, dear, it's that he *always* has a contingency. This child was born here. The object of your obsession will have been reborn somewhere else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"He could be faking it. You don't live hundreds of years without learning to lie convincingly."</DefaultText>
+      <FemaleText>"She could be faking it. You don't live hundreds of years without learning to lie convincingly."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Oh, for..." She addresses you. "What do *you* think? Are you a newborn child, or are you a powerful immortal whom death has robbed of his memories?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Fine. What *do* you think?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"You obviously knew the Changing God, Aligern. What do *you* think? Am I him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"That is *just* the kind of question he would ask." He studies you anew.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"You carry yourself with the same arrogance - that glint of knowing everything about our world and the worlds before it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"I admit you carry yourself differently. The Changing God I knew had a glint of knowing everything about our world and the worlds before it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Your personality... that's very much the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>Your personality... no, you don't act like him at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"If you're *not* him, you're his gods-damned spitting image. You'll have a lot to answer for, from a lot of people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"You could be him. I hope not, for your sake. You would have a lot to answer for, from a lot of people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"I don't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"And what are you basing that conclusion on, Aligern. Your *feelings*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"You don't know? You just said he was completely different! Really, Aligern, your scientific rigor has faded with age. It wasn't all that *rigorous* to begin with."</DefaultText>
+      <FemaleText>"You don't know? You just said she was completely different! Really, Aligern, your scientific rigor has faded with age. It wasn't all that *rigorous* to begin with."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"An excellent question! Having seen your regenerative abilities in action, I suspect they are primarily physical - a regrowth. If that's the case you'd be unable to survive most varieties of psychic or molecular decomposition - disintegration, conflagration, and so forth. Degenerative diseases could pose a problem, and I know of *several* entities capable of psychic destruction..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>As she speaks, a vision flashes into your mind. It's not *yours*, exactly. Somehow, you know this is a memory of the Changing God's.
+
+You are in a dark room, lit by a myriad of blinking lights and holograms from the many machines surrounding you. "What about a body that can withstand the Sorrow's attacks?" says a voice. It seems to be coming from one of the machines.
+
+"No!" you reply. "The thing has no respect for barriers of any kind - physical, temporal, psychic... *This* is the only way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>With a series of gestures, you bring up an image of a crystalline pod. "If the resonance chamber works, it will give us the power to *stop* the Sorrow's hunt once and for all. We just need the right focal point, a catalyst..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>The memory fades. Callistege is still talking. You realize that the device you saw in the memory is identical to the one behind you now. It looks just like the Specter had described it - a transparent sarcophagus inside a crystalline dome, with mechanical arms arrayed around it on a metal ring. Unfortunately, the dome is shattered, the sarcophagus is cracked, and one of the arms is in pieces on the floor.
+
+Whatever its function, it clearly needs repair.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"...or flesh-eating viruses. One presumes disfigurement by the Iron Wind would likewise be devastating enough to -"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"I *think* he gets the point, Callistege."</DefaultText>
+      <FemaleText>"I *think* she gets the point, Callistege."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"I have some other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Of course, dear, but do hurry. It would be safer to leave this placer sooner than later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"So you say I was born when the Changing God left, but why am I not dead?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Can I ask some more questions about this castoff body?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Powerful and beautiful. Each one likely an improvement over the last. I'm curious what *you're* capable of, child. I suppose we'll find out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Are there other castoffs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Can you tell me about the other castoffs again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"There are hundreds of them, probably. If we use your amazing survival from that fall as a data point, any number of them could still be alive. Some of them for centuries."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"What is this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"What is this place again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"A relic of the Changing God's, hidden away in the Reef for years. It's only because of your grand entrance that we've been able to get in here at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Do either of you know how to fix that crystal chamber there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Who did you say could fix the chamber again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"The Order of Truth, dear. I'll gladly take you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"*Or* the Cult of the Changing God. The Order of Truth knows nothing about this sort of thing. I'll show you where the Cult can be found."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Of course, dear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"I'm no ordinary mortal? What do you mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Who are *you*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Where am I? How did I get here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Was I dead?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"You built the dome. Don't you recognize it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"You're familiar with the word *changing*, Aligern? It implies inconstancy. Thus, the Changing God may well have... changed." She addresses you. "You'll have to forgive him. He believes you're someone he once knew, even though it's painfully obvious to *anyone* that you are newly born."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"You really don't know? I'm starting to think you're not him."</DefaultText>
+      <FemaleText>"You really don't know? I'm starting to think you're not her."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"*Starting to think*, Aligern? Tell me... is it a novel experience?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"You fell an incredible distance. Yet here you are, talking. Do you really not... You don't know, do you? I'm starting to think you're not him."</DefaultText>
+      <FemaleText>"You fell an incredible distance. Yet here you are, talking.  Do you really not... You don't know, do you? I'm starting to think you're not her."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"You mean aside from your miraculous reformation? For one thing, there's your tattoo. All castoffs have one, though its purpose is beyond me. And then, of course, there's your *delicious* naiveté."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"Certainly, dear. What do you want to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"I want to ask about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Of course, child. You must be so disoriented."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"What are the Changing God's bodies like again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"What was that blast of energy when I woke?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Are you sure that surge didn't hurt you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"At least we know it didn't hurt Aligern. *That* skull's as thick as organic stone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"If it did, it was damage in our minds. Though how you'd check if it carked *her*, I couldn't say. Tough to find normalcy there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"Do you know anything about the Tides?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"I've heard that term before. A subject your sire studied in great depth. I'm afraid it isn't my field of inquiry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"Before I woke, I was in some kind of dreamlike labyrinth with a glowing specter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"With how hard you hit the ground? I'm surprised that's *all* you saw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"Really? You've been more abrasive than ever since we came in here." He addresses you. "She just can't empathize with other people, unless she's experimenting on them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>Her only response is an exaggerated sigh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"You see what I deal with?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"Where are we? What is this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"A sanctum of your sire's. The common belief is he has several such places throughout the Ninth World - possibly other worlds as well. We were only just able to gain entry to this one because of your grand entrance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"Who are you again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"Explorers, When you crashed into the dome, we saw an opportunity. Didn't know what *kind* of opportunity though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"Thank you for your help. I'll figure this out on my own. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"Hold on. I'll come with you. Wouldn't want you getting lost, would we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Suspicious as always, Aligern. Child, the world is an exciting place, but it is full of dangers. Rest assured, *one* of us will get you safely to where you need to be. I'll be right behind you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"Who is the Changing God?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"Who is the Changing God again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"Ha! *That's* something coming from *you*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>She glances at Aligern. "The Changing God is your sire, dear. He discovered a path to immortality long ago, a means to transfer his *self* to a new body of his own creation. I don't think he knew, however, that when he abandoned one body, another mind was birthed to fill the void."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"Oh, he knew all right." He looks at you. "The only thing the Changing God cares about is himself. He doesn't give a single thought for those he leaves behind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"Your sire, child. He created your body and lived in it for a time, before abandoning and creating *you*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"If you know the Changing God through *my* body, why do you keep referring to my sire as 'he'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"We know your creator through legend and research. He's taken the form of men, women, visitants, and... other things. His form is fluid, as his name suggests. But the stories about the Changing God always refer to *him*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"It's easier. *You* are a woman. The Changing God is... himself."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

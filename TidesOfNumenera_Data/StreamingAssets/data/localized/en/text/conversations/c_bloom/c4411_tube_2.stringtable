@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_tube_2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>56</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Since you have the Obedient Rope, you tie it up.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Small tube is whipping around, spraying vile liquid all over the floor.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[It is now tied up and not spewing liquid. The pool's water level lowers.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[With the tube tied, it is no longer spewing liquid.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>A cluster of Bloom-tubes sprout from the floor. One of them, thinner than the rest, has developed a leak, and its vile juices flow energetically into the pool.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Now that the tube has been blocked off, the Bloom's juices have stopped leaking into the pool. The cluster of tubes looks like it could support your weight... but they're not long enough to help you climb all the way to the bottom of the empty pool.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The leaking tube continues to spray its noisome fluids across the floor and into the pool.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Use the spray found in the vivaric armature to seal the leak and freeze the tube.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The coolant knits the tube's walls back together and seals the Bloom's juices back where they belong.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The level of the pool drops noticeably.
+
+If you manage to block all the liquid going into the pool, it looks like the remaining rope will be long enough for you to descend into the drain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Use the obedient rope to tie off the tube.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You command the rope to cinch itself tightly around the tube and choke off the flow of Bloom-juice. The vein behind it bulges, then subsides, as the liquid is apparently pumped elsewhere in the Bloom. There's a good length of rope left over. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Leave it.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Try to tie the tube into a knot.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>You deftly manipulate the tube, kinking it to avoid being sprayed you while you work, and you manage... mostly. A few drops of the rancid stuff land on your boots. 
+
+With the fluid pressure momentarily relieved, you expertly tie the Bloom-tube into a knot. When you release it, the knot holds. No more fluid leaks from this cluster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>You grab the tube and begin trying to knot it... but the pressure of the fluid behind it is too great, and the vile Bloom-juice sprays into the air.
+
+You release it, frustrated, but you manage to avoid spattering yourself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>You flex your fingers a few times before you reach out to the Bloom-cluster, and then your hands rocket forward. With a few quick motions, you kink the tube and tie it off, spilling not a single drop on yourself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>You grab the tube and begin trying to knot it... but the pressure of the fluid behind it is too great, and the vile Bloom-juice sprays into the air.
+
+You release it, frustrated, and it flaps from your hands and sprays you directly in the mouth. You stagger away, vomiting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Tie the obedient rope to the tube-cluster and use it to descend into the chamber below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Step away from the tubes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>You grasp the rope, and you feel its texture adjusting itself to your hands - soft but firm, with fibers that grip your flesh. Your descent is quick, safe, and painless, though you have to let go of the rope to drop the last meter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Bank 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Tie the tube into a knot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Try to knot the tube again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>The Egg is almost exactly the right size to shove into the orifice. You can see two ways to do this: either jam it straight in, or kink the tube and wedge the Egg inside. Bending the tube looks like it might be a bit of a challenge, but the pressure of the fluid might result in getting sprayed otherwise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText> You pry open the end of the tube and force the Egg inside. The pressure builds behind the Egg, and the tube begins to convulse violently as if trying to dislodge the blockage, but after a moment, you're satisfied that the seal will hold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>It looks as if the fluid in the pool has lowered considerably, now that one of its main sources has been cut off.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText> Follow-up PQ. 28</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Kink the tube, and then insert the Egg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Try to kink the tube again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText> Follow-up PQ. 35</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Shove the Egg inside the tube.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Try to shove the Egg inside the tube again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Try something else.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Now that the tube has been blocked off, the Bloom's juices have stopped leaking into the pool. The obedient rope remains tied to the cluster, and it appears to be long enough to allow you to descend into the chamber below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Climb down the rope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Step away from the tubes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>In fact, it looks like more than enough to descend into the open drain. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Bank 50</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>It might be long enough for you to descend into the drain, once you get the rest of the tubes blocked.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Climb down the rope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Script Node 55</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>The last bit of liquid in the pool drains out.
+
+It looks like the rope is long enough that you could climb down into the open drain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>The level of the pool drops noticeably.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>The last bit of liquid in the pool drains out. There's a hole at the bottom, an entry into a lower chamber. Now you just need to find a way down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Again you try to maintain a grip on the tube and tie it into a knot, but the pressure of the fluid is too great, and you only succeed in spattering yourself with Bloom-juice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Script Node 60</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

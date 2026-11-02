@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_jernaugh</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>129</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This old man's skin is covered in make-up painstakingly drawn to resemble dark stone. His eyes widen briefly as he notices you and his face and neck hardens into actual obsidian for a moment. Then he smiles and nods at you, his features mobile once more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"You're back!" he says, spreading his arms as if to hug you. "Can I interest you in any of my vastly overpriced items and services?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Welcome, welcome! Sorry about the stone. Polymorphic flesh modification, you see. I didn't see you walk up, and I assumed you were going to cut my throat and take my chiurgical parlor for yourself!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Bank 4</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"How did you come to own this parlor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Remind me how you came to own this parlor again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"It was originally a partnership," he says. "My colleagues and I spent two years digging it out and getting the whole mess working."
+
+He sighs. "Of course, we had to test the drones before we tried them on anyone else. Customers getting skinned alive on opening day is bad for business. Turns out that was a wise move."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"All of my partners died horrific deaths testing the drones," he says, beaming. "I still have nightmares!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You awake, choking, with your new purchase firmly installed and your wounds closed. Jernaugh is leaning over you, fascinated. 
+
+"You were dead," he says. "I was planning to sell you to the Dendra O'Hur like all the others. And then, you started *breathing* again. Remarkable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Bank 10</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Show me your list of items and services."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Show me your list of items and services again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Of course," he says, tapping a few buttons on the broad device encircling his wrist. The lens beams a cone of light directly onto your eye, which immediately begins watering. 
+
+Blinking, you see a menu of items, seemingly hanging in the air. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Certainly," he says, tapping the device on his wrist, and beaming the parlor's menu directly onto your stinging eye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Well spotted," he says, nodding. Clear streaks of quartz run up his prominent cheekbones, revealing the muscle beneath. "It's a side effect of my modifications. Couldn't lie to you if you begged me to." 
+
+He shrugs. "Honesty is usually a hindrance to a businessman, but people seem to like it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I can't help noticing that you're a very honest man."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Why are your prices so expensive?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Bank 19</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"How painful are these procedures?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"How painful are these procedures again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Bank 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"The Clawed Gauntlets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Actually, I might be interested in the Clawed Gauntlets after all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I knew that would catch your eye," he says, digging you in the ribs. "We plant long hollow rods in your forearms with steel blades sheathed inside. Just flick your wrist, and out they pop, surprising anyone who mistook you for unarmed!"
+
+He demonstrates with his unoccupied wrist, making little *shhk* sounds. "[Global: a2201_JernaughClawedGauntletsPrice] shins for the weapon and the work both."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ah, the hidden wrist blades," he says. "[Global: a2201_JernaughClawedGauntletsPrice] shins, and they're yours."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I'll take them."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"No thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Your loss," he says. "Interested in anything else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Finally, they release you, and you flop to the ground, the last of your blood oozing from the hideous mess the machines have made of your fists. 
+
+The last thing you see before you die is the clean blades leaping from your spasming hands. They look *amazing*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Finally, they release you. Wincing through the pain, you flick your wrist as instructed. Long, stylish blades leap through your mangled - but already healing - knuckles. They look *amazing*.
+
+"Those look *amazing*," Jernaugh says. "You looking for anything else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Back again?" Jernaugh says, as you gasp your way back to life. "I was thinking of selling your boots!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"That is a popular question," he says. "And it does vary from procedure to procedure, but if you're seeking a general area..."
+
+He taps his chin thoughtfully. "My customers usually range between 'shrieking for a merciful death' and 'groaning while soiling themselves'. If that helps. But they almost always seem happy with the results. When they survive."
+
+He smiles. "Now, are you ready to buy something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Unbearably," he says. "But only for a moderate to fairly long time. At any rate, what are you interested in?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Bank 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"This," he says with a raised finger, "is a tricky one. It's a mesh that fuses through your skin, leaving jagged marks like tattoos. When you attack, you'll always hit your enemy's old wounds, even if... er, they weren't there before. Told you it was a tricky one."
+
+He beams proudly. "Yours for [Global: a2201_JernaughJaggedMemoryPrice] shins!"
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"The time-traveling-or-maybe-not wound-inflicting implant?" he says. "Yours for [Global: a2201_JernaughJaggedMemoryPrice] shins!"
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I'll take it."
+
+{MONEY}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>You drop to your knees, breathless, the mesh firmly implanted in your arm. An ethereal weapon, called from a distant time, shimmers against your palm, waiting for your summons. 
+
+Unfortunately, however, your heart has stopped. You'll probably have to deal with that first.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Your vision clears along with the smoke rising from your charred flesh. An ethereal weapon, called from a distant time, shimmers against your palm. With a thought, you banish it back to where it came. Summon it again. Banish it. 
+
+Interesting. 
+
+"All done?" Jernaugh says. "Good. Can I interest you in anything else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"No thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"The Jagged Memory."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Let's talk about the Jagged Memory again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Bank 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"It's quite simple," he says. "The drones fill your blood with millions of tiny machines that promptly begin devouring you alive until they learn to differentiate between your body and anything that's *not* supposed to be in there. After that, they'll do their level best to purge toxins and illnesses from your body with every pump of your heart!"
+
+He pauses. "In case I wasn't clear, this one is *really* going to hurt. [Global: a2201_JernaughBloodNanitesPrice] shins, paid in advance please."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Tiny, ravenous biting machine that fight illnesses and toxins in your bloodstream. Remarkable little monsters. [Global: a2201_JernaughBloodNanitesPrice] shins."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"I want them."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>""
+{SCRIPT: Only plays if player dies.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Eventually, the machines learn that you are not food. At some point during the operation, you fell. Now, you rise, panting.
+
+"Don't you look healthy!" Jernaugh proclaims. "Well. You are covered in your own blood. But you clearly have more!"
+
+He rubs his hands together. "Anything else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"No thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"What are Blood Nanites?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"What are Blood Nanites again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Bank 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"It's quite safe," he says, nodding. "Most of the time. In almost three out of five cases. And the procedure couldn't be simpler. The drones simply saw your skull open, shove an implant into the right spot and seal everything back up again."
+
+He clasps his hands. "Once they do that, the implant will help you identify the purposes of unknown numenera. It costs [Global: a2201_JernaughNumeneraAnalyzerPrice] shins, but it pays for itself!" 
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"They can't get it into your brain otherwise," he says. "And they rarely ever cut the wrong parts off. [Global: a2201_JernaughNumeneraAnalyzerPrice] shins, and the analyzer is yours."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"I'll take it."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>After mending your breached skull, the machines release you, and you drop to the ground. Everything is going dark around the edges of your vision. 
+
+The shock of the procedure was clearly too much for your heart. You breathe your last against the blood-splattered floor of the parlor just as the implant begins humming in your head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>After mending your breached skull, the machines release you. You stagger, but keep your feet as the implant begins humming. Swirls of text streak past your vision as the thing comes to life. 
+
+"Interesting little thing, isn't it?" Jernaugh says. "It does, er, get puzzled by larger numenera, but it should be able to handle most smaller things you find scattered around."
+
+He scratches his nose. "Is there anything else I can help you with?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"No thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"The Numenera Analyzer sounds... safest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Tell me about the Numenera Analyzer again. You said the drones saw open my *skull*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Bank 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Very popular item," he says, nodding. "The meat ones wear out so easily. This one never does, and it'll help you spot things normal eyes miss. All it takes is a one-time cost of [Global: a2201_JernaughArtificialEyeballPrice] shins and a tremendously unpleasant operation."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"You won't regret it! Well, you might during the procedure. But after? You *won't* regret it."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I'll take the Eye."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>The drones release you and you fall, convulsing and choking, onto your back. The trauma of the ordeal was just too much. 
+
+The new eye squirms into your socket, connecting with the nerves there. The moment before you die, you can't help noticing how much more detailed the clouds look.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>The drones release you. Groaning and clutching your head, you feel the new eye squirming into your socket, connecting with the nerves there. 
+
+Then, the pain stops. You study your hand, noticing a scar - on *your* hand - that you've never seen before. 
+
+"Amazing, isn't it?" Jernaugh says. "Are you in need of anything else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"No thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"An Artificial Eyeball? Really?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"I'm probably going to regret this, but I'd like to consider getting the 'Artificial Eyeball."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Bank 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"A beguiling name, isn't it?" he says, his laugh-lines crinkling. "I'm glad you like it because, er, I'm not quite sure what it does. It's a living creature, you see, that crawls around your body while you sleep. Eventually, it takes root in your nervous system and, er, does something."
+
+He shrugs. "Could be good, could be bad, could be *both*. It certainly won't be boring. [Global: a2201_JernaughEncroachingDarknessPrice] shins."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Ah, the living tattoos with the mysterious purpose," he says. "Only [Global: a2201_JernaughEncroachingDarknessPrice] shins."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"I'll take the Darkness."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Eventually, you run out of air. You die of asphyxiation while the tendrils continue their horrible, horrible work, and new tattoos bloom across your skin...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>The tendrils release your face. You gasp as your new tenant writhes through your body, leaving tangled marks on your skin. 
+
+"Do you know," Jernaugh says, "that you're the first person to buy this enhancement? Well, I say 'enhancement', but I'm not really sure, as I said. Well. Can I interest you in anything else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"No thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"The Encroaching Darkness?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"I can't get the Encroaching Darkness out of my head."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>The drones swoop down and pull your arms to the sides. With unapologetic speed, they shove long steel tubes into the space between your knuckles one by one. 
+
+{SOUND: During fade out, surgery is happening. Rhythmic CHUNKing, gruesome meat squishing. , screams.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Drones streak past you, dropping layers of fine, flexible mesh over your forearm. The resulting sizzle, you realize, is your flesh melting. You're not quite sure what the popping sensations in your elbow are, but you're too busy screaming to figure it out.  
+
+{Sound: During fade out, surgery is happening. Sizzling flesh, screams.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Things really do start quite calmly. The drones inject you several times, and withdraw to a respectful distance. You breathe. The air seems tinged with a sunset's light. 
+
+Then, you feel the first bite. 
+
+The machines swarm through you like a metal wave, nipping and tearing, devouring flesh, muscle, and organs. You open your mouth to scream, and they pour out in a gleaming flood.
+
+{Sound: During fade out, surgery is happening. Metallic buzzing, crunching, muffled screams.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>The drones' metallic arms pin you in place, and you hear a circular saw spinning faster, faster...
+
+Well, you can't claim Jernaugh didn't warn you. 
+
+The blade clips through your skull in a heartbeat, and pincers pry the loose cap aside. You are distantly aware of struggling against the drones' unyielding arms before a metal spine jams itself into your brain. Everything goes white.
+
+{Sound: During fade out, surgery is happening. Buzzsaws, a single THUNK, screams.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>A drone holds your head mercilessly rigid while another approaches, claws outstretched...
+
+*PLOK*
+
+Your head is screaming at you, and you're pretty sure you're screaming back. A third drone, a gleaming blur behind the pain, approaches with a new eye gently clasped in its claw. 
+
+*SHUNK*
+
+{Sound: During fade out, surgery is happening. Meaty pop, Meaty PLOK, screaming, meaty SHUNK.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>The drones close in, opening various under-hatches. Tendrils plunge out of the cavities, winding around your head. 
+
+Icy, oily daggers plunge through your spine, worming down through your arms and legs. Your muffled screams sound very far away. 
+
+{Sound: During fade out, surgery is happening. Grisly ripping, muffled screams.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Because people will pay it," he says promptly. "I could charge half the amount and live very comfortably, but I'd rather be rich. Who wo after all my expenses are paid, but I'm afraid I just like getting the extra money</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>You topple over, twitching, as the puzzled machines slowly learn that you are not food. Everything goes dark.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>A drone streaks past, dropping a fine, flexible mesh over your forearm. The resulting sizzle, you realize, is your flesh melting. You're not quite sure what the popping sensations in your elbow are, but you're too busy screaming to figure it out.  
+
+{Sound: During fade out, surgery is happening. Sizzling flesh, screams.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>The drones swoop down and pull your arms to the sides. With unapologetic speed, they shove long steel tubes into the space between your knuckles one by one. 
+
+{Sound: During fade out, surgery is happening. Rhythmic CHUNKing, gruesome meat squishing. , screams.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>The drones close in, opening various under-hatches. Tendrils plunge out of the cavities, winding around your head. 
+
+Icy, oily daggers plunge through your spine, worming down through your arms and legs. Your muffled screams sound very far away. 
+
+{Sound: During fade out, surgery is happening. Grisly ripping, muffled screams.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Things really do start quite calmly. The drones inject you several times, and withdraw to a respectful distance. You breathe. The air seems tinged with a sunset's light. 
+
+Then, you feel the first bite. 
+
+The machines swarm through you like a metal wave, nipping and tearing, devouring flesh, muscle, and organs. You open your mouth to scream, and they pour out in a gleaming flood.
+
+{Sound: During fade out, surgery is happening. Metallic buzzing, crunching, muffled screams.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>The drones' metallic arms pin you in place, and you hear a circular saw spinning faster, faster...
+
+Well, you can't claim Jernaugh didn't warn you. 
+
+The blade clips through your skull in a heartbeat, and pincers pry the loose cap aside. You are distantly aware of struggling against the drones' unyielding arms before a metal spine jams itself into your brain. Everything goes white.
+
+{Sound: During fade out, surgery is happening. Buzzsaws, a single THUNK, screams.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>A drone holds your head mercilessly rigid while another approaches, claws outstretched...
+
+*PLOK*
+
+Your head is screaming at you, and you're pretty sure you're screaming back. A third drone, a gleaming blur behind the pain, approaches with a new eye gently clasped in its claw. 
+
+*SHUNK*
+
+{Sound: During fade out, surgery is happening. Meaty pop, Meaty PLONK, screaming.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>He pauses, looking at you out of the corner of his eyes, the quartz fading away. 
+
+"And wouldn't we all be better off if we were honest with each other?" he says at last. "If we were all able to speak our minds without fear?"
+
+He looks down. "I think so."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Can I ask you some questions about something else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"All right," he says, shutting off the beam projecting from his wrist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"I won't miss you, but I'll miss your money!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Piquo, that kid out there, can't decide which service to buy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Children," he says, shaking his head. "I told him to choose muscle over looks. The world's a tough place, and getting tougher. People will respect him if he can *crush* their necks with one hand."
+
+He winks. "Or fear. Same thing, really."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Lord Vuntgen sent me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Really," he says. "Well, that changes things. I can hardly charge full price to a friend of Lord Vuntgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Speak with Clarion in the Fifth Eye," he whispers. "She'll set you on the path to service."
+
+He steps away, smiling widely. "There you are. A clean shoulder, and no drone required!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>His face flashes into obsidian for a split second before flushing into copper. The old man is blushing. 
+
+"Apologies, apologies," he says. "*I* knew you were joking, but the modifications are touchier about such things. And really, I'm glad they are. If I were a younger man looking to make a name for myself in this city, I'd kill me too."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"I do good business here," the old man shrugs. "If I were a younger man looking to make a name for myself in this city, I'd kill me too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Hey, the day's young."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Why would you think such a thing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"My chiurgical parlor is a marvel of the prior world, you see. Just pick an item or a service, pay my outrageous fees, and after only a short to long period of fairly safe but indescribable agony, you walk away with some horrible numenera bits whirring away inside you."
+
+He pokes a few buttons on a device strapped to his wrist, and lights twinkle across its length. A dark, glassy lens focuses on you.
+
+"Well? Interested?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Gornah chose an intelligence modification and the drones cut off his head to work on it more directly. Mior picked strength, and the drones sliced off her arms. They defaulted to 'sever' in those days." He smiles fondly. 
+
+"Anyway, six partners later, I was the sole proprietor. I worked out the kinks, and here we are, with no fatalities in..." He thinks. "Months. No fatalities in months."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Can I buy a full-body modification like the one you offered to Piquo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"No, no," he says. "You're too old. Far too old. Practically ancient compared with that poor, lumpy boy. Those particular augmentations prefer young flesh. But there's plenty of other enhancements here on sale. Which one interests you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"You were going to sell my corpse when you thought I was dead?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Just for money," he says, shrugging. "You weren't using it, or so I thought. And the Dendra O'Hur hate it when food goes to waste."
+
+He claps you on the shoulder. "But here you are, upright and breathing. No harm done, eh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText> Addend. 126</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>
+"Oh, hold on a moment. You have something on your shoulder."
+
+He leans in to brush it away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Script Node 128</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Script Node 129</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Script Node 130</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Script Node 131</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Script Node 132</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Script Node 133</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Script Node 134</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Script Node 135</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Blah!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Script Node 137</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

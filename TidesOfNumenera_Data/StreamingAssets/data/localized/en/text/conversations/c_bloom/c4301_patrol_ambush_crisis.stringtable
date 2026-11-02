@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4301_patrol_ambush_crisis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As you enter the slum, you nearly crash into a small confrontation. Five mutants surround three guards dressed in the distinctive garb of the Memovira's enforcers. This must be one of Brusca's lost patrols.
+
+Before you hear them say a word, you already know the mood here is ugly... and it's likely to turn to violence soon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>A mutant who looks like his face is full of spores or insect eggs leans toward a disgusted, terrified human, and says, "You're leaving a trail of fear-piss. Who'd pay *you* for protection?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>One of the other guards, less fazed, pushes the mutant back. "It ain't fear-piss - it's the spit you're sprayin' when you talk. Why'nt you go hatch your eggs by burying your face in a pillow? Real people are conducting business here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>A second mutant, one who'd been observing the fracas, noticeably bristles - thorns literally emerging from his arms, shoulders, and face, and he pushes forward. "Every. Damned. One of you. Looks the same. Two arms, two legs, no surprises. You want to collect our money? I'll make you eat it and your friends can collect it from your rotting shit." The mutant punctuates each sentence with an increasingly vicious stab of its finger. You feel a bloody tide rising, and if you wish to intervene the clock is winding down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>As you enter the slum, you nearly crash into a small confrontation. Five mutants surround three guards dressed in the distinctive garb of the Memovira's enforcers.
+
+Before you hear them say a word, you already know the mood here is ugly... and it's likely to turn to violence soon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Bank 7</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You'd be hard-pressed to call this a fight. "Slaughter" would be a better term. The mutants lay into the humans in an orgy of blood, their blood-letting enhanced by the growths on their bodies. The mutants make short work of the enforcers, and what is left is more a puddle of gore and viscera than anything resembling a living being.
+
+The mutants finish their bloody business, strip the remains of anything valuable, and walk off sharing stories of their murder.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

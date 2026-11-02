@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1101_thebrokendome_goonambush</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A few well-armed thugs are standing around the dome, inspecting the resonance chamber. One of them is examining the connections between the sarcophagus and the other machines. He glances up, and you see his eyes narrow behind his helmet.
+
+"I thought Fenik was supposed to keep out the draff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[1]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[2]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The man looks you up and down. "Bad timing, friend. The Memovira claimed salvage rights on this dome. If it was up to me, I'd just tell you to piss off, but the boss lady doesn't want any witnesses. Sorry about this."
+
+He draws his weapon, and his comrades do the same...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"He's back! Kill 'im!"</DefaultText>
+      <FemaleText>"She's back! Kill her!"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

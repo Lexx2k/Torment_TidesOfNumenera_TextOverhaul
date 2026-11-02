@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6071_cnpcfathom_village_matkina</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>84</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Matkina holds her weapons tightly and screams.
+
+As you come close, the shadows around her solidify. She is reliving the horrors of the attack on Kholn, and for a moment you're there with her. The First's militia lashes out with their weapons, and the villagers transform into their monstrous forms again. Her weapons have no effect, and her dying friends gout blood that washes around her boots.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>She is not initially aware of the player, but she speaks and the player can speak to her.
+The vision torments her, reminding her of all the betrayal she has ever experienced, how she outlives the people she loves and is endlessly betrayed by her cursed siblings.
+
+The player's choices with her will depend on how he has dealt with her up to this point:
+
+The player can say any of the following. Each has reactivity (at least Tidal, if not reactivity in the end game). Whether or not they pull Matkina from her trap depends on the PC's relationship with her--essentially whether she trusts him or not:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"These deaths are not your fault, Matkina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"You're not dead yet, Matkina. You can still avenge your community."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"These deaths shape you, Matkina - but you decide *how*. Dwell on them or let them make you stronger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Matkina, I will help you avenge their deaths. But you need to wake up!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>If Tash is present, he will be a part of her torment. If the player played Tash as a good character in the Mere, then the player can remind Matkina of that. 
+
+{SCRIPT: Is Tash alive? Conditional current checks to see if he's dealt with - if present.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>She is not looking at you. She's not *talking* to you. But then her head snaps back, and she sees you for the first time. "What are... what are you doing... here..." 
+
+She steps out of your arms and quickly sheathes her weapon. "By the Black Three, that's embarrassing. I suppose I owe you gratitude for getting me out of that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Though Tash can't see you, he can somehow sense your presence. He scowls in concentration, and a psychic barrier keeps you from Matkina. You'll have to deal with him first if you want to free her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Though you freed her from the physical struggle against her ghosts, Matkina remains haunted by the shades of the dead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Tash is nearby, his face contorted with rage. Somehow, he's involved in this.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Got a plan in mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"You want to join me again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>She laughs, sarcastic delight filling her voice.
+
+When she stops, she says three simple words. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Too many people, friend. I'm going to search the place. Find me again if you have a spot to fill."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I'll be here. Waiting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Between that and rot down here... not much of a choice." She claps you on the shoulder. "I'm with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Let's go. Through, down, out... whatever we need to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>You can do nothing to help her. You watch for a moment, and then step away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The faces in her nightmare change and twist. You see the First's mask, Paj's face, Melmoth, the Memovira... countless faces, jeering, mocking, spilling their contempt across her...
+
+She fights savagely against the faces arrayed against her - each another stone in a wall of betrayal and mistrust.
+
+She's muttering and whimpering, as if caught in a living dream, and you hear her whispers. "Traitor... murderer of dreams. Butcher. My fault. Must scatter you... burn you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Matkina - this is a dream. Remember, Tash tried to help you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Leave her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"You're my friend, Matkina. You don't owe me anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I need all the help I can get for what's coming next."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I'll find a way for you to repay me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Her eyes widen for the briefest moment. "I'll hold you to that, shall I? Forget all about that pouch of shins I lifted off you earlier?"
+
+She laughs. "All right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>She flashes a smirk. "Couple extra blades do go over well in negotiations, don't they? Makes sense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>She mutters, "Of course you will. Fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"They're all my fault! I watched them die. I couldn't save them, and I never went... back... and..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Her lips part, a feral sneer of anticipation. "I will. When I find the First, I'll carve her so deep no mask will hide her scars."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Her eyes are still unfocused. She inhales deeply and blows out, hard. "Stronger, then - these shades are nothing but fear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Her eyes are focused on the ghosts of her past, and they fill with rage. "Yes. We will gut them and leave them for the laaks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Head up to the Calm, if you can find a way. It's the center of this dreamspace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Split up and search the place? Good plan. If... if I don't see you again, farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"And good luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>{emphatic, hateful} "No. Not ever."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"No! No! Not Neng!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Damn you to the blackest hells, Paj!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Save the children, Neng! Save them!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"You're killing them! Leave my family alone!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Matkina relives her nightmares of betrayal over and over again, watching her friends die at the hands of those who tormented her through the years.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Shake her to snap her out of it. "Come on, Matkina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Try to shake her again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"I'm here, Matkina. You don't need to fight anymore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Matkina, wake up!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Shout at Matkina again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>You put your hand on her shoulder to shove her, and she lashes out, quick as lightning. You snatch your hand away just in time. 
+
+"Come on, cowards!" she screams. "Come and fight! Come and *die* for what you've done!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>You reach out again, barely pulling away in time to avoid her blade. This isn't working. Her illusion is too strong. You sense the knowledge you need to help her is in the Labyrinth somewhere, but not here in this fathom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"I'm here, Neng," she says.
+
+The shadows leer and twist around her, and a distorted version of Paj's face looms in the air. She raises a flame-lance high over her head and strikes swiftly. Matkina knocks it aside, plunging a knife in the shadow's body.
+
+The ferocious heat from the lance washes over you even as the lance vanishes. This illusion is *powerful* - too powerful to just talk her out of it.
+
+In a whisper almost too soft to hear, you hear Matkina say, "I don't want to fight anymore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>She shows absolutely no indication that she has heard your words. She continues to struggle with her shadows. "Is this a dream?" she mutters. "If so, why can't I wake?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>As before, your words are in vain. She just cannot hear you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Give her a shin. "This is a flame detonation, Matkina. Burn them!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"If only I could burn you all away!" she moans.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>You step forward, arms outstretched. She sees you and attacks, driving her knife into your gut. She's too tortured to hit any vitals, but it still *hurts*. You come closer and put your arms around her.
+
+"Wha...?" She blinks, noticing you for the first time. "Tash? No... who are you?"
+
+She looks around at shades you can barely see. "They're all dead." Tears well up in her eyes. "*All* of them. I did this. If it weren't for me..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"No!" He slashes at you - nowhere near enough to hurt you, but enough to stop what you're trying to do. "Get out of here. You're *not me!*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>He slashes again, keeping you from getting anywhere near Matkina. You'll have to deal with him first.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Try to understand how you can help her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Try again to understand how you can help her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Her illusion is more powerful than it should be. She's aware of you, but just barely. What she *needs* is to stop fighting, and the only way she's going to do that is if she believes her enemies are dead.
+
+Perhaps you need to become one of her enemies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>She's reliving the attack on Kholn Village, that much is obvious. But she has a weapon already, and you can't fight the shades yourself. It's unclear to you what she needs to free her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>You study her for a while longer but come to no new conclusions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>She jerks back at his assault, brandishing her own blade at him. "I'll see you dead three times over, you traitor!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Get close and let her 'kill' you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Try again to get close and let her 'kill' you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Leave her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Come back here! I'll kill you all!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Tash is gone. You're free now, Matkina!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Tash is gone," she mutters to herself. "I killed him. I'm *sure* of it... *So why is he still here?*"
+
+She's only barely aware of your words, not enough to change what she sees. Her torment is particularly strong, and the knowledge you need to free her isn't here. You'll have to search elsewhere in the Labyrinth to find a way to help her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Try to understand how you can help her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Take a look at Tash.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

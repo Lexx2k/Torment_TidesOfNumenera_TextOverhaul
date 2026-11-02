@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4211_ranard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>101</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"You have business with Artaglio's Irregulars, you talk to Artaglio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ranard's features are pinched with contempt. "You should be ashamed of yourself. Taking advantage of an enemy's weakness is one thing, but taking advantage of a drunkard is something else altogether." He looks past you at the open Maw, and says, "I hope the price was worth it." 
+
+He spits at your feet. "Never trust a castoff. You do more damage than ten normal folk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"So you shame our commander into destroying himself?" He spits. "A typical castoff trick, that. Play on pride, play on duty, and use that to destroy a normal mortal. You're just like the rest of your kin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"What did you say to Artaglio? How was it that he walked into the Bloom-tongues without a struggle?" Ranard's face is incredulous. "He's been frightened of it for so long..." He looks at you accusingly. "Did you work some castoff magic on him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I needed to open that Maw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I didn't think it would devour him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I'm about to do a little more damage, if you don't get out of my sight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>He opens his mouth for a snappy retort, and something in your face makes him reconsider. He lets go of the weapon he gripped, and says, "No need for a fight. I chose my words poorly. We'll... we'll be leaving now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>His laughter is full of contempt. "You haven't the speed or the skill to take on the least of us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Snap his neck quickly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"My words were ill-advised. We don't need to fight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"You're right. In fact, with your experience, you should consider taking over the company yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Your hands find his throat before he can finish his laughter. His eyes widen. He claws at your hands. The other mercenaries draw their blades, but before they can step closer you end Ranard's mirth and he drops to the ground. You glare at the others. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>One of them takes the battered standard with her, her eyes on you the entire time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Bank 16</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>He bats yours hands away and snarls, "You want a fight, castoff? You'll drown in blood."
+
+As he attacks, the other soldiers join in!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Oh, to the contrary. Very much to the contrary." 
+
+His words are slow and casual, but he draws his weapon with astonishing speed, and his mercenaries rush to join in!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"It's to be flattery, is it?" His grip on his weapon is tight. "You kill one captain and think to install another?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I haven't even talked to you, Ranard, but I have seen how the others react to you. Provide them with a center. Even now their eyes turn to you for leadership."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I suggest that you take your troops and find employment elsewhere. Make the Irregulars a proud fighting outfit again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Attack] "Actually, maybe I should get rid of you right now." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"You won't have the chance, coward!" His weapon clears its sheath, and the other soldiers rush to join the attack!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>He considers your words, and you see his grip loosening. "Aye, that they do. And there's no point in throwing away our lives on another castoff's whims." He breathes deeply. "Fine. You have the right. But expect no favors from me."
+
+He turns and begins barking orders at the assembled soldiers. They fall in quickly, cleaning and organizing their encampment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>He considers your words, and his grip on his weapon loosens. "We've been wasting away down here, it's true, and taking money from leeches doesn't do much for my disposition. We're a fighting troop, not a guard force."
+
+He signals to the mercenaries, and they pack their gear efficiently and leave within moments.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Look sharp! Get your gear in order, private!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"And what did you think it would do to him, bake him some pies? Maybe give him a comfortable chair and wash his feet for him? There's a reason they call these things 'maws', idiot." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I don't particularly like your tone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I don't particularly care."
+
+He begins snapping orders to his troops, and they start packing up the encampment.
+
+"One good thing has come out of this: we're getting out of the Bloom, one way or another. As usual, a castoff has come and destroyed our way of life." He spits on the ground near your feet, and the soldiers file out of the Slump.
+
+{SCRIPT All soldiers leave}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"There was no other way to do it, was there? Nothing you could have done that would have kept him among the living? You castoffs barge in without thinking of the cost to others. You're a selfish breed, and you always will be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>He calls out orders to his troops, and they start packing up the encampment.
+
+As the soldiers file out of the Slump, it looks like he wants to make another comment, but he reconsiders. They move on, leaving behind non-essential gear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Castoff." He nods and almost smiles. "It's quiet here. Plenty of patients for the doctors, and they should be paying their fees to us soon." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"You again." He makes it a declarative statement, not a question. "What brings you back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I wanted to check in on you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I had some questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Nothing. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Oh, we're having a grand old time. Dancing girls and boys every night, the finest food you can imagine... how do you think it's going? And in case you're planning to offer any aid - " he spits and continues, " - we won't accept it. We've seen what comes of your help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Now leave me alone. I've got troops to maintain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I've got a particularly nasty venereal disease, but you don't see me running to you for help. Find someone else to bother."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"He had the choice to refuse. I didn't force him or trick him into anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Aye, but the end result is the same. He's gone, and we're leaderless. And it's because of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Leaderless? Aren't you his second? You're the one who stepped up to defend him, you're the one who is ready to discuss the future of the troop. The Irregulars already have a leader."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Me? You kill one captain and think to install another?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>He considers your words, and you see tension easing from his shoulders. "Aye, that they do. And there's no point in throwing away our lives on another castoff's whims." He breathes deeply. "Fine. You have the right. And Artaglio did his duty, and you had the right to ask that of him."
+
+He pauses. "We've no quarrel with you, castoff."
+
+He turns and begins barking orders at the assembled soldiers. They fall in quickly, cleaning and organizing their encampment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Look sharp! Get your gear in order, private!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Actually, perhaps I should just be rid of you as well.:"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"You won't have the chance, coward!" His weapon clears its sheath, and the other soldiers rush to join the attack!
+
+{SCRIPT Start Tussle}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"I reminded him of his duty to himself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"I told him that it was better for him to confront his fears than to be captive to them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"If you need a leader, I can offer some guidance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Your offer takes him by surprise. He is so surprised that he bursts out laughing, and the other mercenaries look over to see what he's laughing about. After a moment, he dries his eyes and says, "No. No, I don't think will happen. The troop would never stand for it. What if I were to lead them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"If you do, I'd suggest leading them out of the Bloom and finding employment elsewhere. Make that standard a proud banner again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"I don't think you're fit for command."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>His face darkens. "Tabaht take you, castoff. I'll lead these soldiers to a brighter future."
+
+He signals to the mercenaries, and they pack their gear efficiently and leave within moments.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"And what duty was that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"His duty was to remind himself that he was a brave man."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"His duty was to be an example for his troops."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"His duty to himself was not to be devoured by fear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"You talked him into offering himself to the Maw! How is that bravery?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"He was no good to you anyway. Look around. Is this the fate you wanted?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Think about it. He had already given up. I just showed him a way to die with dignity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"It takes bravery to recognize when you're already dead inside. Now it's time for you to take command."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"But a castoff! Why would he listen to... No. You have insights. You shared something with him that convinced him." He swallows. "We need a leader. Can you help us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"I don't want to lead you. I have too much to do. But if you were to assume the mantle of command, I'd back your play. For a price."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"I don't know that the troops would stand for it. We've been ordered around by too many castoffs already, and taking Artaglio's place because of something a castoff did... it smacks of you choosing our captain for us. Almost as if you want to lead us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>He nods, thinking. "That could work. Might cause some friction... no. They'll understand. They don't want to cross a castoff." More decisively, he says, "Then it's settled. We'll continue our work here - come back and see us every once in a while, aye?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"A pleasure to see you again... and I think you'll find this a pleasure as well." He presses a purse full of coin into your hand. "For your guidance."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"My thanks, castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"How do you earn your money here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Is there anything else I should know about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Thank you, Ranard. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Well, we're making a living providing protection to the leeches, quacksalvers, and mountebanks of the Slump. Most times people around here barter, but protection's a tricky business. We can't eat Obervich's eyes, and Sheen's potions don't fill a belly. Instead of taking it out in trade, they give us shins... about ten percent of their takings. And of course any castoff advisors get their share as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Some mutants rolled in from Little Nihliesh and thought they might sneak out with possessions other than their own. We sent them back to Gar-koto with their tentacles between their head-spires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"The Bloom leaked some sort of poison into the water supply... I suppose it would be more accurate to call it a potent hallucinogen... and some of my people started seeing visions. I calmed them down with some aid from Sheen. I'm a little concerned about their talk of visitants nesting in their innards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"We've had a caravan or two roll through here. The drivers were varjellens, and after they left we noticed that some of our supplies were missing. We're going to be on the lookout for their return, and in the meantime I've sent a couple soldiers after them to keep an eye on their movements. Might be some blood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Some sort of convulsion roiled the area the other day, and it knocked some of Sheen's bottles to the ground. The vapors made a couple residents mad - as in, 'insane' - and we had to put them down."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Some stupid child has been hoarding cyphers. The energy leakage mixed with the biological effects and did something strange to the child. We've taken her - it, now - over to Little Nihliesh, because they know how to handle mutants there. They say she'll stop changing soon. I hope so. She was about five meters tall the last I saw her. She may have infected some people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Something strange happened with the sound in the Slump a while back. It became crystal clear, and we could hear with incredible clarity. I could pick out a heartbeat from 20 meters away. It made eating disgusting, and Vander had some digestive issues... we were all a bit scarred by that. We never figured out what caused it, so I've made a plan in case it comes up again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I have it under control."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Good luck with your company."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>::spits::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Grab him and crush his throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>""
+
+{COLIN:  ???}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Castoff." He inclines his head and almost smiles. "Nothing to report since last you were here. Plenty of patients for the doctors, and people are checking out the new Maw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"You'll get your cut, castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>He draws his blade in a flash and slashes at your arm. He snarls, "You want a fight, castoff? You'll drown in blood."
+
+As he attacks, the other soldiers join in.
+
+{SCRIPT: Start Tussle}
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Your hands find his throat before he can finish his laughter. You end his mirth. He drops at your feet. The other mercenaries who had been watching the confrontation don't even have time to clear their weapons before he hits the ground. As you turn your gaze on them, they release their grips and put their hands in the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>He jumps back at the threat, hastily tucking his weapon away. "N-no need for a fight, castoff. I chose my words poorly. Here." He hands you a small pouch. "Forgive my impunity. We'll... we'll be leaving now."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>(Lie) "I didn't think it would devour him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>The remaining mercenaries bear down upon you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"It's particularly foolish to question my actions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"I don't particularly care."
+
+He begins snapping orders to his troops, and they start packing up the encampment.
+
+"One good thing has come out of this: we're getting out of the Bloom, one way or another. As usual, a castoff has come and destroyed our way of life." He spits on the ground near your feet, and the soldiers file out of the Slump.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"I am no fool."
+
+His words are slow and casual, but he draws his weapon with astonishing speed, and his mercenaries rush to join in!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>He shrugs. "Not really. Nothing important, anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"You talked him into offering himself to the Maw! What kind of example was that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"No, he was devoured by a Maw instead. How is that better, castoff?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Script Node 114</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Script Node 115</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Script Node 116</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

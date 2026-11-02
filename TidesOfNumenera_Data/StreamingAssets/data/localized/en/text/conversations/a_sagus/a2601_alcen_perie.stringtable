@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2601_alcen_perie</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>194</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This woman seems to be absorbed by what she's doing, her blue eyes narrowed in concentration. You realize that she's the nicest-looking person you've seen in a while and feel almost compelled to approach her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Hello again." There's a touch of sympathy to her smile, at once both warm and sad. "I hope you've been keeping well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"You're sure you understand everything? You don't have any more questions?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Hello again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"In fact..." She leans back for a moment and looks you up and down pensively. She nods once to herself, as if pleased.
+
+"As I thought. No touch of a miserly nature in you." She offers you a sweet, shy smile. "We're going to get along just fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>She shakes out the golden cloth she's examining and holds it up to the light.
+
+"Such beautiful colors," she murmurs. She meets your gaze. "It would look lovely on you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"What do you do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Can you tell me about Government Square?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"And you!" She turns to Rhin, crouching down so they're on the same level. "Wait, what's this?"
+
+She reaches behind Rhin's ear. When Rhin turns to look at what she's doing Alcen taps her lightly on the nose. Rhin laughs. Alcen smiles.
+
+"Such a gem! Yours?" She glances up at you. Her expression softens at the look on your face. She stands and takes your hands in hers.
+
+"You're a good person," she says simply, looking into your eyes as if willing you believe it. Then she lets go.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"" [Avina is standing next to the portal.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I heard that you're the keeper of the House of Empty Time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"How does the House of Empty Time work?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Why is the House of Empty Time a secret?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"What happens to the children who pass through the portal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Hello again." She greets you fondly, but her smile is warmest for Rhin. "How can I help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Well, hello there!" she exclaims, catching sight of Rhin. She smiles at you with renewed appreciation. "It's good to see you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Can you tell me about this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Can you tell me about Government Square again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"How does the House of Empty Time work?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"How does the House of Empty Time work again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Why is the House of Empty Time a secret?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Why is the House of Empty Time a secret again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Then you must have questions. Ask away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Of course. This is Government Square, home to the city council and the Order of Truth. The rest is embassies and city records, but you might enjoy a stop at the Red Thicket." She points to a red stone enclosure nearby.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"There's the council tower, the Order of Truth, and the Red Thicket. If you're looking for city records, the council clerk can help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ah." She glances at Rhin, then bows her head for some moments before meeting your gaze again. "What do you want to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"What happens to the children who walk through the gate?"
+
+{SCRIPT: Locked until the PC learns about the HoET.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"What happens to the children who walk through the gate again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"And you want to help." Her face suffused with joy, she pulls you into a quick embrace.
+
+"I knew you were one of us the moment we met! What do you want to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Could I adopt a child?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"A new brother or sister? Wouldn't that be wonderful?" she says to Rhin. At the girl's frown, she laughs.
+
+"I'm afraid not," she says, turning her attention back to you. "One of the main requirements for adoption is a stable environment. If you ever decide to settle in Sagus, then we can talk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"You would make a wonderful father, but no." She smiles apologetically.  "One of the main requirements for adoption is a stable environment. If you ever decide to settle in Sagus, then we can talk."</DefaultText>
+      <FemaleText>"You would make a wonderful mother, but no." She smiles apologetically.  "One of the main requirements for adoption is a stable, constant environment. If you ever decide to settle in Sagus, then we can talk."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"I'm afraid not," she says. "One of the main requirements for adoption is a stable environment. If you ever decide to settle in Sagus, then we can talk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"You already had that chance," she says softly. "I don't think you're ready for fatherhood just yet."</DefaultText>
+      <FemaleText>"You already had that chance," she says softly. "I don't think you're ready for motherhood just yet."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>She crouches down and gently tucks Rhin's hair behind her ears.
+
+"Take care of each other, won't you?" she whispers. Rhin nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Because it's not the strongest system in the world. No one knows how many trips the old thing can stand, so we use it only for those who really have nowhere else to go."
+
+Her face hardens. "And if everyone knew about it, some of them would treat it the same way they do other orphanages. We'd find babies dumped in boxes, small children left crying with nothing but the clothes on their backs..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"We don't want to overburden the gate or burn out whatever makes it work. We save it for those children who most desperately need our help. That way, we can be sure we're using what we have for the best possible good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Take care."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Will they make me... have another sister?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"No, dear heart. Not if you don't want to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Alcen smiles at you. "Hello. You're right on time." 
+
+She strokes Zebb's hair, soothing him. He's wrapped his arms tightly around himself and is staring at something you can't see.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Well, then." She steps into Zebb's line of vision, gently lifting his chin with a finger so he's looking at her.
+
+"Is there anything you'd like to say?" He shakes his head, balling his hands into fists. He looks like he's about to cry.
+
+{SOUND: Time gate activates and is buzzing in the background for subsequent nodes.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"And you?" Alcen's gaze is compassionate yet hopeful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Take care of yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Make this new world your plaything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Just imagine Nym's one step behind you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"We won't forget you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Be brave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"You're stronger than you know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Go on, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Say nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Zebb stares at you, overcome by terror. Alcen places a hand on his shoulder and he startles. His whole body tenses, as if he's about to run away, and then all of the energy drains out of him. He turns to face the gate. Its striating light throws his features into sharp relief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Thanks." He starts walking forward before you or Alcen can reply, his movements stiff and unnatural...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>For a moment, you see the faint outline of his little sister's shadow, reaching out to take his hand. Then he steps through the portal and a flash of blinding light leaves you blinking back tears.
+
+{SCRIPT: Speaker = Zebb}
+
+The gate is empty, and Zebb is gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Well." Alcen smiles at you, exhausted. "I'm sure Zebb's new family are delighted to have him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Can you tell me what happened to Zebb?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"What happened to Zebb, again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>She hesitates for a moment, then shakes her head.
+
+"Unless he was sent into the past, there won't be any record to speak of. The Council Clerk would know." She places a hand on your arm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"You'll have to ask the Council Clerk, I'm afraid. And if Zebb was sent to the future, we'll never know what became of him. Or what... will become of him. At the very least, he may be able to read of us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"A child enters the gate and emerges in another time to find a new family waiting for them. Willing parents register with the keeper in their own time period and, after rigorous questioning, have their names added to the gate itself. After that? Who knows? The children have loving families, and those families have children to love."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"The guardian in each time registers orphans and willing parents. Somehow, the gate matches them, and when the child passes through they find themselves in a new time, with a new family. No one really knows how the gate decides who ends up where, but it seems to work out fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Can you tell me what happened to Rhin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"What happened to Rhin, again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"If the House sent her into the past, the Council Clerk might know a little about her, even if it's just the date she died." She catches your expression and grimaces. "I forget how cold that sounds. I'm sure she lived a full and fulfilling life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>She hesitates, rubbing her left arm distractedly. "I have my theories, but the Council Clerk might know for sure." She spreads her hands in a gesture half pleading, half shrug. "Please go and see for yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Thanks." He starts walking forward before you or Alcen can reply, his movements stiff and unnatural. He hesitates for a moment in front of the portal, half turning to face you.
+
+"I feel like I'm forgetting something," he says, flexing his left hand. With a shrug and a sigh, he turns toward the gate...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"I think Rhin would be better off with a family of her own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I've changed my mind. Rhin would be happier with a family to take care of her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"You don't mean that, surely," Alcen says weakly, a pained expression on her face. She looks between you and Rhin, then bows her head.
+
+"Are you absolutely certain?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Rhin glances at you, startled and hurt.
+
+"Are you absolutely certain?" Alcen asks, looking between the two of you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Oh..." Alcen is momentarily taken aback. Her cheeks flush pink as she realizes you're waiting for an answer.
+
+"That would be all right, I guess," she says, lamely. "Do you mean right now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"As you wish," Alcen murmurs, bowing her head. "Are you ready now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>She smiles at you briefly. "Or you might not. It's a place where secrets are traded, and having few secrets of my own I make a poor visitor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>She realizes Rhin is watching her in growing horror and makes an obvious effort to stop herself. She breathes deeply then smiles at Rhin, though you see her hands are shaking slightly with the effort of controlling her anger.
+
+"So we keep the gate for children who really need it. Do you understand?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>She passes a weary hand in front of her eyes, breathing deeply for a moment. "Sometimes it's not enough. Knowing they're going somewhere better, but not always knowing where or when, or even if they're happy." 
+
+"So I have to make it be enough." She regards you seriously for a moment, then touches you gently on the arm. "Thank you for listening."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>She seems to come to a sudden realization of what she's saying, and two bright spots of color appear on her cheeks. She clears her throat uncomfortably.
+
+"The people of Sagus have been very good to me," she says eventually.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Rhin nods, then moves a step closer to slip her small hand into yours. Alcen smiles warmly at the both of you.
+
+{SCRIPT: Rhin likes/loves the PC.}
+
+{SCRIPT: This node and the one below it (104) could flag Rhin to suggest in conversation with Zebb that he should go to the HoET, or to suggest to the PC that they take Zebb there after Nym has died.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Alcen smiles but says nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Why are you in charge of the House of Empty Time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Why are you in charge of the House of Empty Time again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Because I walked through it." She smiles at your reaction. "So, yes, I was an orphan and, yes, I'm from another time. One much earlier than the present. As a child I had the unique pleasure of being able to read history books and imagine that my real parents were the heroes of ages past." Her smile dims.
+
+"And before you ask, my parents in this time are dead. But we spent many happy years together, and I will always be thankful for the life they gave me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Because I've been through it, so I know what to expect. And because I have the heart for it, which not everyone does."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"As for the gate itself..." She looks at it fondly. "When I am dead, or hopefully before, it will choose a new guardian from those who have passed through it, and I'll have someone to keep me company through the end of my days. Not a bad bargain, all told."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Yes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"No. Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Alcen takes a deep breath and lets it out slowly.
+
+"Well, you know where I'll be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Understand that the more you dither, the harder this will be for everyone." She opens her eyes and gives you a bitter smile. "So choose wisely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>She simply nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>She nods and crouches down in front of Rhin, taking the girl's small hands in her own. She speaks in a low, urgent whisper, of which you can catch only single syllables.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>She yanks her hands out of Alcen's. "No! I *have* a family. I don't need this."
+
+She runs over to you, throwing her arms around your waist and sobbing into your shirt. Between her muffled cries, you manage to catch a single, repeated sentence. "I don't want to go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>She glances at you and maintains eye contact for a moment. Then she lowers her head. You make out the words, "No. He hasn't. Not really."
+
+She turns back to Alcen and says, more clearly, "Maybe this *is* best."</DefaultText>
+      <FemaleText>She glances at you and maintains eye contact for a moment. Then she lowers her head. You make out the words, "No. She hasn't. Not really."
+
+She turns back to Alcen and says, more clearly, "Maybe this *is* best."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"All right," Alcen says, standing slowly. "If you'll both follow me, we can begin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>The gate flickers to life, accompanied by a droning buzz. Rhin stands next to it, small and pale. She makes eye contact and offers a small smile.
+
+{SOUND: Time gate activates and is buzzing in the background for subsequent nodes.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"We had some good times, didn't we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"I'm sorry things turned out this way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Wait!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Rhin looks up at you hopefully.
+
+{SCRIPT: Link to 126.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"No!" Alcen rounds on you, angrier than you've ever seen her. "The House can only save so many! For all we know, after this it may never work again!" She's shaking, badly.
+
+"Rhin has one chance, exactly one, to go through this gate. I will not open it for her again. Do you understand? Will you swear on your life to take care of her if you take that chance away?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Suddenly, Rhin's composure dissolves and she runs over to you, throwing her arms around your waist and sobbing into your shirt. Between her muffled cries, you manage to catch a single, repeated sentence.
+
+"I don't want to go!"
+
+{SOUND: Time gate buzzing in background.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"{Slightly uncertain; she's not sure this is what's best for her.}Thank you. {As if realizing it for the first time}I... I guess this is farewell."
+
+She steps through the gate and vanishes in a flash.
+
+Metal ticks as the gate cools and falls dormant. Rhin's afterimage fades.
+
+{SOUND: Sound of time gate subsides, "tick of cooling metal" as described in text.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>She smiles. Somehow she manages to avoid looking condescending. "Maybe you really *have* forgotten."
+
+Alcen looks at you, her face is carefully neutral. "This is not something you should put a child through twice," she says calmly, though you sense an undercurrent to her words. "You two must decide. Either Rhin goes through today, or she resigns herself to whatever fate this world holds for her. I won't be party to this debate a second time. Choose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Stay with me, Rhin. I won't leave you behind again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"I don't know. It's up to you, Rhin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"I think you should go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Say nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Bravely done, dear. This world is no place for a child."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Did she really have to leave so soon? I don't think she should be questing alone. She's only a squire, after all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Maybe it's for the best." Aligern scratches at his chin, lost in thought. "For us, maybe. For her? Well... we'll see. Or won't, I guess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Oom deflates for a moment, wobbling listlessly in a peculiar circuit. When you start to walk away, it takes some seconds for Oom to follow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Rhin steps back, mouth agape. "I thought... I thought I knew you."
+
+Her face hardens, her mouth forms into a frown. "I misjudged you. Maybe this *is* best then." She turns her back on you and faces Alcen. "Fine. I'm ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Alcen looks at you, then steps between you and Rhin, breaking your line of sight.
+
+"Come on, dear," Alcen says, and gently herds Rhin toward the gate. There's a flash of light, and then the gate is empty again. 
+
+Rhin is gone.
+
+{SCRIPT: Rhin disappears through the gate and gate shuts down.}
+{SOUND: Sound of the time gate subsides, "tick of cooling metal" as described on node 128.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>She squeezes you tightly, crying into your shoulder. Alcen smiles and walks quietly away. Muffled among your clothes, you hear Rhin speak two simple words. "Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>She stands up straight, looking between you and Alcen. She wipes away her tears and says, "Then I won't go. I will find my real home, my *real* parents. I *know* they're real, and I will find them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"But, that perhaps not being the case..." She makes a complicated gesture that seems to have religious significance, then takes both of your hands in hers.
+
+"Don't blame yourself," she says softly. "No one of us can know our destinies, here or in any other time. Trying to give someone a better life doesn't make you accountable for where that future leads." She squeezes your hands briefly, then lets go.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"You should ask the Council Clerk. The city records go back hundreds of years."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"All right," Alcen says, standing slowly. "We can begin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Alcen stares at you as if she's never seen you before. Shaking her head, she turns away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>The blonde woman stares at the empty gate for a few seconds more, then smiles gently at you and turns away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Who are you again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"My name is Alcen Perie. You can call me Alcen. If you like." She offers a tentative smile. "I'm a chiurgeon, but I work mostly with children. You know, healing scraped knees and the occasional broken bone. We're lucky here in Sagus that it's rarely anything more serious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Alcen. Alcen Perie. I'm a chiurgeon for the local children, and anyone else who needs my care."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"My name is Alcen Perie. I'm a chiurgeon, but I mostly treat children. And, as you know, I'm the keeper of the House of Empty Time." She smiles at you warmly. "If Paja and Kellenor have sent you to me, you must be willing to help. Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"I'm Alcen Perie, chiurgeon and keeper of the House of Empty Time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"What are you doing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Waiting for an appointment," she says with a tentative smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Alcen turns on you the moment Zebb is out of sight. "There are times when compassion is the only answer to what life brings us." She unclenches her fists and takes a deep breath. "You had the chance to show that little boy one last scrap of kindness before he stepped into the unknown, and you chose not to. I hope you think differently in future, or you might wind up a very lonely old man." With one last, pitying glance, she walks away.</DefaultText>
+      <FemaleText>Alcen turns on you the moment Zebb is out of sight. "There are times when compassion is the only answer to what life brings us." She unclenches her fists and takes a deep breath. "You had the chance to show that little boy one last scrap of kindness before he stepped into the unknown, and you chose not to. I hope you think differently in future, or you might wind up a very lonely old woman." With one last, pitying glance, she walks away.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Alcen stands quietly for some moments after Zebb has disappeared, then turns to face you. "I had expected better," she murmurs, not meeting your gaze. "You had the chance to show that little boy that the world is a kinder place than he's so far seen. You didn't take it."
+
+She does look you in the eye, now, and the sadness you see there runs deeper than the lack of a few kind words. "Maybe we're not so similar after all," she says, and walks away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Alcen gives you a tired smile and walks away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"How do you know I'm going to be all right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"I don't. I can only tell you that my family loved me more than I had ever thought possible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"All right," Alcen says with a bright smile for Zebb. "If you'll both follow me, we can begin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>The gate flickers to life, accompanied by a droning buzz. Zeb stands next to it, staring into the shifting light. Alcen puts herself between him and the gate, casting him into shadow.
+
+"Is there anything you'd like to say?" He shakes his head, balling his hands into fists. He looks like he's about to cry.
+
+{SOUND: Time gate activates and is buzzing in the background for subsequent nodes.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Try showing some compassion next time. If not for her, then for your own well-being."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"I'll be here if you need anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Whenever you're ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"What do you say, Zebb? Looking forward to having a new family?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Let's get this over with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Actually, I'll come back later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>He's lost in his own thoughts and doesn't respond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Alcen frowns at you and shakes her head, though she's careful not to let Zebb see her actions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"All right." Alcen continues to stroke Zebb's hair, her expression far less tranquil than the motion of her hand. "Don't be long. This is an important moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"It's time to send dear Zebb to his new life. He's waited long enough." Alcen gives you a pointed look. Zebb is staring at the ground and doesn't seem to notice your presence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Hello." Her greeting lacks its customary warmth. With a sigh, she tries again. "It's good to see you. I'm sure Zebb must be getting settled with his new family as we speak."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Hello." She makes eye contact, but quickly looks away. "I'm sure Rhin is doing much better with people who appreciate her presence. It's so important for children to feel loved." She passes a weary hand over her eyes.
+
+"But we are none of us perfect." She offers you a brief smile, a peace offering. "We do the best with what we have."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"What?" She glances at you, startled and hurt. "I *do* have a family. I just... I just..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"You don't know where they are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"*Do* you have a family? Why haven't they come for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>To Alcen: "She's taken a pretty bad hit to the head. She's not... thinking straight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Sorry, Rhin. I forgot. Never mind, Alcen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"No, I don't! I thought..." Her voice grows quieter, making her sound small and alone. Almost in a whisper, she says, "I thought you'd help me find them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Because I'm lost! My home is a long way from here, but it *is* my home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"I told you." She folds her arms across her chest. "I *have* a family."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Your memories are broken, Rhin. What if you're wrong?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"What if we *can't* find them? You don't want to go where I'm going. This way is better for you, trust me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"The places I'm going... it's too dangerous for you. This is for the best."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"All right. Never mind, Alcen. She'll stay with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"I'm not..." She shakes her head, eyes shut. "I don't..."
+
+She opens her eyes, looking uncertainly between you and Alcen. "I don't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"But I... I don't *want*..." She looks uncertainly between you and Alcen. "How can this be best?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>She looks at the gate, then back at you. "I thought I wanted to stay, but... if this is how you treat me - if this is how *everyone* in this world treats each other... Maybe I should leave."
+
+She turns her back on you and faces Alcen. "Very well. I will go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>She gives the girl a sweet smile. "What are your parents' names, child? Do you remember?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Of *course* I remember. Their names are... are..." As she tries to remember, horror creeps onto her face. Her lips tremble. "I don't know. Why don't I know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Very well. It may be that this was a wise decision. Only time will tell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"I guess you can stay with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"You mean orphans." She watches the way you and Alcen are looking at her. "Good thing I'm not one then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Script Node 205</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Script Node 206</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>[DEBUG] Test Rhin going through the HOET gate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Do you think you can help Rhin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>She gazes at the girl for a long moment, fingering her chestnut hair. "The slaver, Tol Maguur, is looking for a girl with dark, curly hair... and a head wound."
+
+Alcen drops Rhin's curls and shakes her head. "I can't help you. I'm sorry, but I can't risk angering the slavers. They could destroy the Gate if they chose. Find a way to free Rhin, then perhaps we can talk again."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

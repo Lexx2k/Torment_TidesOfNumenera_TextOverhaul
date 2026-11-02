@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_rubble_pile</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>53</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A jumble of boulders and debris lies at the foot of the surrounding cliffside. The broken remains of ancient devices lie amongst the fallen stone, while off to one side, a metallic canister sticks out of the top of the pile. 
+
+It appears mostly intact. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The canister and the rest of the fallen rocks remain where you left them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Wait and listen for the beep to occur again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Leave the canister and pile of rocks alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Bank 5</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Attempt to extract one of the devices from the rock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Attempt to extract more of the devices from the rock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>It takes some doing, but you manage to chip away at the side of one of the boulders enough to allow you to wrench free one of the devices embedded in it.
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Just as the device you are picking at comes free, you hear a small pop and see a small wisp of smoke rise from it. Moments later, a series of small pops erupt from the pile, and numerous ribbons of smoke waft toward the sky. Picking up one rock after another, you discover that all of the remaining devices have burnt themselves out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Bank 10</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Attempt to locate the source of the beeping noise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Try once more to locate the source of the beeping noise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>It takes a few soundings of the beeping for you to home in on its origin. Once you're sure you've found the right spot, a fair number of stones need to be moved before you finally discover the source of the noise: a small device that appears battered but functional. As you pick it up, it beeps twice as if to recognize its acquisition, then lapses into a contented silence.
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You seem to come close on a few occasions, but every time you're sure you've finally found the source of the beeping, you hear it again elsewhere in the pile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>You stand still, straining to hear the tone again. After several tense seconds, it sounds again, once more emanating from somewhere within the pile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>As you let a still-smoking rock fall from your grasp in resignation, you hear a faint beep somewhere amidst the pile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The smoke from your previous handling of the rocks has dissipated, and the rocks stand still and quiet.
+
+Other than the occasional beep that sounds from somewhere deep within the pile, that is.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The rock pile lies still, and blissfully silent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Examine the canister.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Examine the rocks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Leaning over, you notice that the container is hollow, with an opening in the top providing full access to the interior. A quick glance reveals that it is empty. While most of the canister is relatively intact, a small part of its exterior wall has been pried open, exposing delicate mechanisms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You notice a slight gleam as the light hits some of the rocks at just the right angle. 
+
+You lean closer. Tiny mechanical devices are embedded in the rock. A quick search of the rest of the pile reveals that only a small percentage of the rocks are more than they appear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Bank 23</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Smash the stones to extract what you can.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Attempt to smash the stones again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>The embedded devices appear to have no function, however, and you doubt any merchant would have any interest in them as they are.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>You gather up all the stones you can find with machinery embedded in them and set to work. Soon you have a tidy pile of components that should serve as shins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You try bashing a few of the stones with other, larger stones from the pile but only manage to chip off useless bits of rock. You pick up a large rock and bring it down with all your might on a stone you haven't tried yet. Upon impact, you are blinded by a flash of light and a deafening sound. When you see again, the stones have all been pulverized to fine dust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You gather up all the stones you can find with machinery close to their surface and set to work. Soon you have a tidy pile of components that should serve as shins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Try putting the rocks in the canister. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>You scoop up a handful of the smaller rocks and start placing them in the canister. As you place some of the rocks, the container beeps. Through trial and error, you discover that it only does this for the stones containing devices.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Press the aqua button.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Press the gold button.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>A translucent, smoky gray film extends over the top of the canister and the buttons retract entirely. 
+
+Dim light flashes once within the dark recesses of the container. Then, the film retracts. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Peeking within the newly opened canister, you see a small pile of shiny components that can be used as shins. These must be all the components that were embedded in the rocks you placed in the canister. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Peeking within the newly opened canister, you see only a small device within. No trace of the rocks remains. You quickly pocket the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Try putting more rocks in the canister. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Quickly gathering up another handful of rocks and pebbles, you dump them into the open canister, but nothing happens. You empty and fill it a few times to be sure, but the device remains silent throughout.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Scavenge what you can from the canister.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Using the pried-open panel as a starting point, you delicately disassemble the exterior of the canister, and manage to retrieve a small number of intact components.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>You attempt to get at more of the device's interior via the panel, but just as the panel comes free, several of the components fall out and disintegrate before your eyes. 
+
+Nothing much of value remains after that beyond a few interesting components. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>You scoop up a handful of the remaining smaller rocks and place them in the canister, but nothing happens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Using the pried-open panel as a starting point, you delicately disassemble the exterior of the canister and manage to retrieve a fair number of intact components.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>You notice a severed finger lying on the ground. Your eyes dart to your hands, but all ten of your digits appear to be intact. 
+
+You pocket the gruesome trophy. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>In response, the two lit buttons dim and retract until they protrude only slightly from the canister's frame.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>You empty the canister and make sure to only place stones with devices into it. Just as you run out of such stones, a low tone sounds and two small buttons extend from the exterior of the canister about half a finger's width. Upon reaching full extension, the buttons light up, one with an aqua-colored light and another with a golden light.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>You remove the stones from the canister and set to work. Soon you have a tidy pile of components that should serve as shins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>You remove the stones from the canister and set to work. Soon you have a tidy pile of components that should serve as shins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>You remove the stones from the canister and try bashing a few of them with other, larger stones from the pile, but you only manage to chip off useless bits of rock. You pick up a large rock and bring it down with all your might on a stone you haven't tried yet. Upon impact, you are blinded by a flash of light and a deafening sound. When you see again, the stones have all been pulverized to fine dust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>When you look back at canister, you find that the buttons have lost their light and receded back into the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>When you look back at the canister, you find that the buttons have lost their light and receded back into the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>You attempt to get at more of the device's interior via the panel, but just as the panel comes free, several of the components fall out and disintegrate before your eyes. 
+
+Nothing much of value remains after that. You recover a few interesting components and a decent amount of shins. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

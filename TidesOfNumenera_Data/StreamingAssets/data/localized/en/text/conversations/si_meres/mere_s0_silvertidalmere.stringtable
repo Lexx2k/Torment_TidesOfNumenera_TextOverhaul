@@ -1,0 +1,1658 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\si_meres\mere_s0_silvertidalmere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>230</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Silver rain pours down on a cratered wasteland, beating endlessly on your headgear, and turning the road into a red slurry that cakes onto your boots and your leggings. Trudging behind you are thirty miserable soldiers - glaives, mostly - all as soaked as you are, and all as heavily laden with weapons and gear. Six are even more weighed down, lugging between them a heavy crate that makes them plunge shin-deep in the muck with every step. 
+
+The only person without a pack walks behind you, flanked by the company's toughest veterans - a scrawny Aeon Priest, whose robes are somehow neither wet nor muddy, but who seems more put out by the rain than anyone else. {VOICE: I think "Aeon Priest" should be sneered a bit.} {SOUND: Heavy rain, troops marching through mud, Rain can be constant throughout the whole mere.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Vostiel rides the skimmer up the column, then turns it over to a groom and steps to you, pulling off his goggles and saluting smartly. He's got a grin on his face. 
+
+"You're luck's holding, captain," he says. "First your win at dares and now this. Just intercepted one of the other side's couriers and found an interesting dispatch on his body after I killed him. Seems the unit that's holding the Silver Monolith has been reduced to a strength of ten by an attack from a rogue construct. They downed the metal beast, but it near to wiped them."
+
+He glances at your lieutenant. "Landi will of course object, but if we were to move fast, we could secure it before the enemy even knows it's threatened. And wouldn't that be a feather in your cap. Command's been wanting that vantage for nigh on a year."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Landi's right. There's no glory if we lose our charge. We will follow our orders and take the priest to headquarters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Very tempting, but I need more information. Vostiel, send a scout to check out the monolith. The company will wait here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Very true, Vostiel. You and I will take a small squad to the monolith. Landi, stay here with the company until we return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Good point, Landi. Vostiel, we will be taking the priest and his weapon with us to the monolith."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>As you choose soldiers for the assault, Landi speaks up. "This is not going to look good, captain. The priest and his device were to be under your direct protection. I will of course do my best to keep him safe, but if something *does* happen, it won't be me who Commander Rekken blames for it. You know that. Please think again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Before you can issue a command, beams of light sizzle from the rusted corpse of a massive titan-class battle construct lying in the trenches to your left. More fire comes from either side of it. Strangely, however, all the beams lance over your heads.
+
+"Ambush!" shouts Landi. "Find cover!"
+
+"To hell with cover! Let's take 'em!" cries Vostiel.
+
+A voice interrupts them, amplified by some crude and screechy artifact. "Send THE PRIest anD THE NUmenERA TO US ANd youR MEn will BE SPArED. DeFY US And all wiLL DIE."
+
+The Aeon Priest squeals from where he lies curled up on the ground. "Don't you dare give me up, you filth! I'm worth more than all your insignificant lives combined!"
+
+{SOUND: Rain and energy weapon fire.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>One of Vostiel's scouts rides off into the rain and the company settles in, the men sitting on their packs or else patrolling the battlefield in wide circles around you. 
+
+Though Vostiel assures you the monolith is only a few kilometers away, the scout fails to return after an hour. You can wait no longer. The evening is turning the rain from silver to slate, and soon the endless trenches and dead constructs that flank the road will vanish beyond your lights. But as you stand to give an order, you hear a cry from one of the patrols, swiftly silenced. 
+
+"What was that?" asks Vostiel. "I better go check."
+
+"You'll wait for orders, curse you," says Landi. "Captain, what should we do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I have every confidence in you, Landi. The priest will remain with you. Keep him safe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Landi, fall back to the trenches and protect the priest. Vostiel, pick four scouts and come with me. We're taking it to the ambushers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Everyone fall back to the trenches on the right and get dug in. We must protect the priest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Landi, bring me the vox. The lives of my troops are more important than an annoying priest and a box. I'm going to surrender him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Vostiel sighs. "Thought you had more spirit, captain, but fair enough. Command it is."
+
+He falls in, and the company starts forward once more, with Landi trying not look smug, and the little Aeon Priest grumbling about unnecessary stops and a lack of concern for his safety.
+
+{SOUND: More rain, more marching}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Though you can see that Vostiel is disappointed, he passes your orders on to his squads without question, just as Vandi does, and under their direction, your company retreats into the trenches to the right of the road with disciplined speed. They are so quick in fact, that the ambushers barely have to time to get off a few quick shots before your soldiers are all taking up defensive positions. Only two men are hit, and neither seriously. 
+
+{SOUND: Energy weapon fire.}
+{ART: Illustration - Diving for Cover}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"If it works it will save lives and time. Very well, priest. Vostiel and Landi, help him set it up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I can't risk the lives of my soldiers with unproven numenera. We do it the old way. Vostiel, Landi, order your people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Your lieutenants grumble but obey, and have the artifact uncrated and on its mount in a few moments. 
+
+"Everyone back!" cries the priest as he steps up behind it. 
+
+Even you take an involuntary step back as he depresses the firing arm and sweeps the thing's muzzle across the enemies positions. 
+
+For a long moment, nothing happens, and Vostiel chuckles derisively off to one side. Then, with the roar of a hundred thunderstorms, every one of the ambushers' weapons explodes at once. The heater, the beamers, the launcher rounds, all unleash their payloads in a single second. Flames billow. Electricity sizzles. Clouds of poison and acid and hallucinogens spread in a multicolored fog. {SOUND: Sonic occilator weapon, followed by Huge Multi Explosion.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Vostiel and Landi look relieved as you tell the priest you will not risk the lives of your troops with an untested weapon. Then they hurry to pass on your orders to their squads. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Vostiel whoops as you and he and your four best skirmishers dive into the trenches to the left of the road.
+
+"Now we'll show 'em!" he shouts. 
+
+Behind you, Landi and the rest of the company pull back to the trenches to the right of the road, dragging the complaining priest with them. They hunker down and fire slugs and sizzling rays across at the ambushers, distracting them and allowing you and Vostiel and your squad to run through the left hand trenches toward the shattered construct. 
+
+{SOUND: Battle sounds.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Both Landi and Vostiel look at you in shock as you use the tannoy to call back to the ambushers and agree to their terms. 
+
+The priest squeals with rage. "You traitorous slime! Command will have your head for this! *I'll* have your head for this!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>As it begins to circle the monolith, you note that the construct is missing an arm and half its plating, and it moves like a crippled yovok, which is encouraging, unforunately, if the lights gleaming in its head are any indication, its long range weapon system is still operational, and that is *not* encouraging. 
+
+Vostiel turns to you and lowers his voice. "That construct changes things. The dead-eye beamer in its head has the range and power to burn us down no matter where we strike, and if its targeting system is functional, it never misses. If we can't take it out right up front, we might as well go back home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>After a half-hour march, you and your squad reach the monolith and creep toward it on elbows and knees. It juts up over a low rise, a silver slab of synthsteel four times the height of a man, sheared off at the top like a knife blade snapped off in someone's gut. You've never known why both sides consider the thing important, but reputations and promotions have been won for taking and holding it, and that's all that matters. 
+
+You spot ten enemy soldiers guarding the monolith, four huddled beside it in a makeshift enclosure made of rags and pitted plates of synth, and six more out in the rain, patrolling in pairs. All are talking to each other on aether-coms. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Very well, priest. Let's see what your contraption can do. Vostiel, help him set it up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"No. I can't risk my soldiers' lives with unproven numenera. Scouts, take position and prepare to fire on the construct's forelegs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"No. I can't risk my soldiers' lives with unproven numenera. Vostiel, with me. We'll hit that thing before it knows we're here. Scouts, cover us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"There will be no opportunity to test your weapon, priest. The situation is more dangerous than anticipated. I won't risk it. Back to the company."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Then we must take it out immediately. Scouts, get in position and prepare to fire on its forelegs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Right. Scouts, stay back and fire on my order. Vostiel, ahead with me. We'll hit that thing before it knows we're here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"This is more resistance than you reported, Vostiel. I won't take the risk. Back to the company."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Your squad slips between the patrols and spreads out wide behind a long low ridge so that, if the construct gets a shot off it won't kill all of you at once. Your troops also mine the approaches to their positions, for when the other squad launches their inevitable counterattack. 
+
+When everyone's in position, you give a hand signal command, and the entire squad pours fire at the construct's front legs, where its armor is most damaged, and which will cause it to fall flat on its face if they succeed, making it much harder to bring its big guns to bear. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Vostiel and the rest of the squad seem sullen at this decision, but they obey the order nonetheless, and, much to the Aeon Priest's relief, within a half hour, you are back with Landi and the main company and back on the road, marching for headquarters once again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Your squad slips between the patrols and spreads out behind a low ridge so the construct will have a harder time killing them all at once. They also mine the approaches to their positions in preparation for the inevitable counterattack. 
+
+When all are in position, you give the signal, and the entire squad pours fire at the construct's front legs, where its synth plating is most damaged, hoping to collapse it. The construct's front legs buckle, and it topples.
+
+Unfortunately, in the second that it takes it to fall on its face, it spits three beams in three different directions and half your squad is dead, burning like candles. {SOUND: Robot's Powerful Beam Weapon}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Pulling singularity detonators from your bandoliers, you and Vostiel slip through the enemy patrols and wait at the crest of a low ridge until the construct has gone behind the monolith, then you creep over. 
+
+And that is how you proceed for the next half hour. Moving only when the monolith blocks the construct's motion sensors, then laying still as it limps around for another pass. 
+
+Finally, you're within throwing range, and as the hulking mantis comes into view once more, you key your aether-com to signal the squad. At the click, they start firing from behind the ridge, drawing the eyes of both the construct and the troopers in the enclosure. Now's your chance!
+
+{SOUND: Energy weapon fire.}
+{ART: Illustration - Sniping the Construct}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Vostiel and the rest of the squad seem sullen at this decision, but they obey the order nonetheless, and within a half hour, you are back with Landi and the main company and back on the road, marching for headquarters once again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>The only person not heavily burdened walks directly behind you, flanked on either side by the company's biggest and most veteran soldiers. He is a small man in the robes of an Aeon Priest, which are somehow neither wet nor muddy, despite the weather. He carries nothing but a small satchel, slung over one shoulder, and walks with a lightness of step that makes you grunt with envy, yet he seems more put out by the rain than anyone else. 
+
+"Why was I not retrieved in a vehicle?" he asks you. "Why am I being escorted home by rag-tag trench fodder with antique weapons. If this is what Command thinks of my work, maybe I should sell it to the other side!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Why was I not retrieved in a vehicle?" he asks. "Why am I being escorted home by poorly armed grunts? If this is what Command thinks of my work, maybe I should sell it to the enemy!" {VOICE: The priest should be shrill, obviojusly. Extra sneer on "trench fodder."}
+
+The woman marching beside you sighs. She has a lieutenant's pips on her tunic, and a scar on her right cheek from temple to jaw. "No vehicles available," she says. "And no other companies. Thanks to the Chalcedon's assault, every other company fit to fight is marching straight for Ansau."
+
+With a curse, one of the men carrying the priest's package sinks to his waist in the mud. The column stops while the soldiers try to extricate him. Your lieutenant stands at attention. The priest watches with a smirk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"How is our side weathering the Chalcedon's assault, Lieutenant?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Tell me about this work of yours, priest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>She sighs. "I'm afraid we're getting our heads handed to us on all fronts, captain, and if it succeeds, the bastards'll have our backsides too. Not the best time to take our leave, I suppose. Or maybe the *absolute* best time, depending on how you look at it."
+
+She peers into the rain behind you. "Vostiel should be back with updated info soon... if he gets back at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>The priest snorts. "As if a glaive like you could even begin to understand. But, very well. I have basically taken a standard wave projector and coupled it with a resonance echolocation device and a self-canceling oscillator to make a weapon that can overamp nearby energy weapons and cause them to suffer spontaneous ignition. Or, to put in words even you might understand, I made a weapon that makes the enemy's weapons blow up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Look around at the wasteland. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>The landscape on either side of the road is as blasted and barren as the surface of a moon. Long-abandoned trenches - whether your side's or the enemy's you can't tell - snake away into the obscuring rain in both directions like the furrows of a tilled field, with the half-buried forms of giant broken battle constructs rising above them like rusted mountains, but these are the only features you see. For ten generations, these fields have known no seed but skulls - not all of them human - and no irrigation but the blood of soldiers and castoffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>You press on through the dismal landscape, but after less than a mile, a harsh whine penetrates the hiss of the rain. 
+
+"It's Vostiel," says your lieutenant, looking around. "Back from his sweep."
+
+Vostiel skims in on a small pod hovering in the air. He stops in front of you, pulls off his goggles and salutes.
+
+"Luck's holding, captain," he says. "Early leave and now this: I intercepted a courier with an interesting dispatch on him. Seems the unit that holds Barhad's Monolith has been reduced to ten men by an attack from a rogue construct. They downed the bastard, but it near to wiped them."
+
+{SOUND: Marching}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>March on. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"And why wouldn't this weapon blow up friendly weapons as well?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>He gives you a sidelong glance. "That is a more perceptive question than I would have given you credit for. The answer is the shielding I created, which makes sure the rays only spread from the front of the gun. Indeed I was out here in no-man's land for the specific purpose of field testing it when..."
+
+He hesitates for a moment, then continues, much more subdued. "It seems the shielding had a flaw that presented itself when the weapon heated up. The first few shots worked just fine, but after too many..." He shrugs. "That is why I required the rescue. The company I was traveling with... Well, yes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>He grins at your lieutenant. "Landi will object, but if we move now, we could secure it before the Chalcedon knows it's threatened. Commander Rekken's been wanting that vantage for a year. Wouldn't that be a feather in your cap?"
+
+"Of course I object!" says Landi. "We have our orders. We should stick to them. Why go hunting uncertain glory when we'll already get a commendation for bringing in the priest and his invention?"
+
+"Escorting the priest will get us a pat on the head," says Vostiel. "So will taking the monolith, but it'll *also* win us the envy of every other company. Do you know how many castoffs have died trying to win that damned thing back for the side? We'll be heroes!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Bringing the priest back will get us a pat on the head," says Vostiel. "But taking the monolith will get us a pat on the head *and* the envy of every officer in ___'s army. Do you know how many men have died trying to win that damned hunk of synth back for the side? And it'll be us that finally does it! We'll be heroes!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Your lieutenants both look at you. 
+
+"What do you say, captain?" asks Vostiel. "Good behavior never won glory, you know that."
+
+"And it never lost honor, either," says Landi. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>An hour later, just as the darkness of evening has begun to turn the rain from silver to slate, and the vista of endless trenches and dead constructs on either side of you begins to vanish beyond your lights, your aether-com hisses to life and you hear a squawk of warning from your point man before the transmission cuts off again just as abruptly. 
+
+"Trouble," says Vostiel. "I'll go ahead."
+
+"You'll wait for orders, curse you," says Landi. "Captain, what should we do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>A voice interrupts them, amplified by some crude artifact. It manages to be both screechy and thunderingly deep all at once.
+
+"Send THE PRIest anD HIS MAchinE TO US ANd youR MEn will BE SPArED. DeFY US And all wiLL DIE."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>But before you can issue a command, sizzling beams of energy shoot from atop the rusted corpse of a massive titan-class battle construct. More fire comes from the trenches to either side of it. Strangely, however, all the beams lance over your heads. Not one of your men is hit.
+
+"Ambush!" shouts Landi. "We need to find cover!"
+
+"To hell with cover! Let's take them!" cries Vostiel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Which of the squads should we tackle first, captain?" asks Vostiel.
+
+You pause at an intersection of trenches. The enemy is in three squads. The squad to the left is launching explosive shells across the road into your company. The squad to the right is moving forward through the maze, laying down pinning fire as they come. The squad firing from the shoulders of the fallen construct has a heavy grade heater and is turning the earth and rocks around the far trenches into boiling slag with every sweep. {SOUND: Battle sounds}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"We're wide open targets while that launcher is up. We'll take them out first. Ahead left."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"That heater will cut off our escape if we don't take it out. Straight ahead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"If the skirmishers are closing, they must have some hidden strength. Let's ambush them before they reach the company. Head right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Working your way through the maze of trenches, you circle around the launch squad and come at them from the left. By the light of their glowglobe you see there are only four of them, a spotter, a gunner, a loader, and a sergeant barking orders. None of them are looking your way.
+
+{ART: Illustration - The Mortar Team}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Working your way through the maze of trenches, you find a position just below and to the left of the construct that gives you a perfect vantage on the heater squad. By the light of their camp torch you see there are seven of them, a spotter, the heater operator, four snipers, and a sergeant barking orders. None of them are looking your way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Working your way through the trenches, you get ahead of the skirmishers and Alvoosh, your sapper, lays traps at a choke point while you and the others find hidden vantages that will allow you to pick off the survivors of the blasts.
+
+A moment later the first scouts appear, creeping into the intersection and looking all around. The first and second miss Alvoosh's traps, but the third is not so lucky. A crackling eruption of electricity shoots through him, then chains to the other scouts and the troops behind. 
+
+A quarter of them die instantly, hearts stopped by the shock. More lie twitching in the mud. The rest surge forward - and trigger a second mine, killing even more. 
+
+{SOUND: Electrical explosion.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"We can't risk this turning into a fire fight if we miss one. Use the Singularity Detonator."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"A detonator would draw too much attention. Let's pick them off quietly. On my signal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>You prime the cypher and overhand it toward the launch crew. They stare in horror as the ovoid lands among them, then it implodes, sucking all air and matter within a ten meter radius into a single point. The crew and the launcher vanish in a deafening thunderclap as the surrounding air rushes in to fill the space they no longer occupy.
+
+{SOUND: Sonic boom.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>You and your soldiers, crack shots all, take your time picking your targets, then, on your whispered order, all fire together - short precise shots that drop the entire crew at once, as silent and sure as flesh-eating gas.
+
+You wait a moment,  but neither of the other two squads seems to have yet noticed the demise of the launcher crew, so you advance to their position and take their weapons, including the launcher.
+
+Vostiel grins at you. "Plenty of ammo left for this little darling, captain. Shall we give these dirty ambushers a taste of their own medicine?"
+
+{SOUND: Energy weapon fire.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>For a brief moment, the firing from the construct and the advancing skirmishers stops, then both turn their focus on you. The heavy heater sweeps your way, melting the ground as it comes, and the skirmishers start firing in your general direction, while dark shapes you hadn't noticed before lope through the trenches toward your position. 
+
+{SOUND: Battle sounds.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Stay low and advance on the heater squad."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Find cover! Prepare to meet the skirmishers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Avoiding the beam of the heater, you and your squad skulk swiftly through the trenches toward the dead construct. Unfortunately, the skirmishers have your position and change tacks to intercept, and before you get halfway there, two hulking quadrupedal shapes are bounding over the earthworks and leaping down at you. Frilled bauls!
+
+You and Vostiel manage to cook one with your beamers before it lands on you, but the other downs one of your soldiers, mauling her with its claws and stinging her with its quills. 
+
+{SOUND: Roaring lions.}
+{ART: Illustration - Frilled bauls}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Your squad dives into an earth-roofed command post just as a pair of hulking frilled bauls leaps into the trench and charges in at you. You and Vostiel fire at them, burning white light through their hearts and brains, and they drop dead at your feet. 
+
+The skirmishers pour in right behind them, however, firing in all directions before your squad can recover. Fortunately, they're shooting in the dark, and only one of your soldiers is hit. 
+
+After that it's all hand to hand, and there you have an advantage. Your squad have fought in the Endless Battle for years, and are expert close-in fighters. It's over in less than a minute, and you have only lost two.
+
+{SOUND: Roaring lions/dinosaurs.}
+{ART: Illustration - Frilled bauls}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>The rest of your squad attacks the surviving beast, turning it into a steaming hash with their beamers, but as it dies, the rest of the skirmishers swarm in from all directions. 
+
+You fight valiantly, but there are too many of them, and your position is indefensible. Bolts and slugs tear you and your companions to pieces as the rippling beam of the heavy heater sweeps back toward your company on the far side of the road.  
+
+{SOUND: Battle sounds.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>The last thing you see as you stare at the sky with your consciousness fading is the endless silver rain, now turned a glittering red from the light of the burning bodies of the troops you left behind. The end has come, but at least it was glorious.
+
+{SOUND: All sounds fade except the rain.}
+{ART: Illustration - Dead Captain}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>The skirmishers are right behind them, however, pouring into the command post and firing in all directions before your squad can bring their slug spitters to bear. Fortunately, they are shooting in the dark, and only one of your troopers is hit in that first wild barrage. 
+
+After that it is all hand to hand, and there you have an advantage. You and your squad have been tunnel laaks and "trench fodder," as the Aeon Priest called you, for years, and know all the tricks of close in fighting. In less than a minute the skirmishers are dead, and you have only lost two.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Vostiel grins and wipes blood from his face. "Time to take out that heater, eh captain?"
+
+There are only four of you now, and Vostiel, though he'd never admit it, is half-blind from a cut over his eye, while there are at least seven of the Chalcedon's best dug in on and around the dead construct. It would be suicide, but if you succeeded you might at least give Landi the opportunity to get the Aon Priest and the rest of the company away. 
+
+On the other hand, maybe if you returned to the company, you could somehow avoid the heater and get everyone away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Move in. Assault the heater squad."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Fall back to the company. An assault is too risky."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Racing from the command post, your squad winds toward the construct, hugging the leeward walls of the trenches to stay hidden. It isn't enough. Plasma blasts and beamer fire scream over your heads with every step.
+
+Finally, you make it into range, miraculously unscathed, and heave your last singularity detonator at the crew where it crouches by the construct's massive head. Unfortunately, a blast blinds you as you release, and the detonator bounces off the side of the construct into the rubble. The ten meter sphere of emptiness that appears as the detonator implodes makes the construct shift and drop, and the enemy crew staggers as they try to catch their balance. {SOUND: Sonic boom.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>You and your soldiers slip from the command post, hugging the trench walls on the way to the road. The enemy spots you almost immediately. Heater blasts and beamer fire scream around you as you dodge and dive. 
+
+Vostiel goes down screaming, a perfect cauterized hole through his knee, and you and the other soldiers instinctively turn back to drag him into cover. 
+
+That's when the heater finds you, turning the ground beneath you into boiling lava, into which you fall as your feet vaporize at the ankles. You begin to burn, and there is nothing and no one to put you out. 
+
+{SOUND: Battle sounds.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>You prime your last singularity detonator and heave it at the heater crew, who crouched on the construct's shoulder and partially sheilded by its head. 
+
+It's a bad throw. The detonater bounces off the back of the construct before dropping into the rubble below it. Still, the sphere-shaped ten meter hole that opens up underneath it as the detonator implodes makes the rusty hulk shift and drop, and the crew on top of it all dance and flail as they try to catch their balance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Vostiel goes down screaming, a perfect cauterized hole through his knee, and you and the rest of the squad instinctively turn back to drag him into cover. 
+
+That's when the heater finds you, turning the ground at your feet into lava, into which you fall as your feet vaporize at the ankles. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>With a cry of triumph, you and your soldiers surge up out of the trench, howling and firing as they run. Their beams cut down one crew member after another, but one takes cover behind the heater, and swings it wildly in your general direction. 
+
+Vostiel is caught in the ray and becomes a cloud of meat-scented steam. The other two soldiers dive to avoid it, but are cooked where they lay. Only you are left, and the beam is swinging toward you. 
+
+With a last desperate leap, you finally get a line of sight on the operator and drill him through the heart, but the beam of the heater is still sweeping your way, and vaporises your legs and lower torso as you hit the ground. 
+
+{SOUND: Battle sounds.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>The last thing you hear as consciousness begins to leave you and the silver rain beats down upon your upturned face, is the cheers and wails of your company, celebrating your victory and mourning your death. The end has come, but at least it was glorious.
+
+{SOUND: All sounds fade except the rain.}
+{ART: Illustration - Dead Captain}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>The last thing you hear as consciousness begins to leave you and the night-black rain beats down upon your upturned face, is the sound of Landi and the rest of the company rising up out of their trenches to avenge you and racing to their certain doom.
+
+{SOUND: All sounds fade except the rain.}
+{ART: Illustration - Dead Captain}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Vostiel turns the launcher and calculates distance and trajectory, then loads a spherical cypher and squeezes the firing bulb. With a sound like a popping cork, the plasma detonator flies toward the shoulder of the dead construct and hits dead on. One moment the crew is crouched down, firing the heater, the next, they are enveloped in a swirling orange conflagration and their limbs are flying everywhere. 
+
+A moment later the heater explodes too, caving in the massive head of the old construct and causing it to slump forward as if it was falling asleep. 
+
+{SOUND: Fiery explosion.}
+{ART: Illustration - Blowing up the Heater}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"The heater squad has the longest range. Fire on them." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"The skirmishers are getting dangerously close to the rest of the company. Fire on them." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Using the launcher will draw too much attention. Advance on the heater squad and take out their long range capability." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Using the launcher will draw too much attention. Advance on the skirmishers before they close with the rest of the company." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Vostiel turns the launcher and calculates distance and trajectory. It's a tricky shot, but Vostiel knows his business. He anticipates their position, loads a spherical cypher and squeezes the firing bulb. With a sound like a popping cork, a plasma detonator launches and hits dead on. The trenches where they were creeping erupt in swirling flames and flying limbs. 
+
+Unfortunately, the blast alerts the heater squad to your presence, and before you can find cover, the heater finds you, turning the ground beneath you into lava, into which you fall as your feet vaporize at the ankles. You begin to burn, and there is nothing and no one to put you out. 
+
+{SOUND: Fiery explosion.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>As you start forward, both the heater squad and the skirmishers notice that the launcher has stopped firing, and look for the cause. From their high vantage point, the heater squad sees the dead launcher crew first, and cries a warning to the skirmishers, who start to circle back to investigate, sending forward dark loping shapes you hadn't noticed before. Running back to the launcher is not an option. There is no way you will get off another round before the skirmishers are upon you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Close with the skirmishers! Hurry!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Find cover! Prepare to meet the skirmishers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>You skulk through the trenches toward the skirmishers, hoping to catch them on the move. Unfortunately, the dark shapes you saw earlier leap up onto the earthworks and bound toward you, roaring. Frilled bauls!
+
+You and Vostiel cook one with your beamers, but the other leaps down and tears a trooper's throat out. Your squad blasts the beast into hash, but as it dies, the rest of the skirmishers swarm in. You fight valiantly, but there are too many, and your position is indefensible. Bolts and slugs tear you all to pieces.
+
+As you bleed out, an enemy sergeant kneels beside you and steals your Singularity Detonators. He chuckles. "These'll make short work of the rest of 'em."
+
+{SOUND: Roaring lions.}
+{ART: Illustration - The Frilled bauls}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Your squad dives into an earth-roofed command post just as a pair of hulking frilled bauls leaps into the trench and charges in at you. You and Vostiel fire at them, burning white light through their hearts and brains, and they drop dead at your feet. 
+
+The skirmishers pour in right behind them, however, firing in all directions before your squad can recover. Fortunately, they're shooting in the dark, and only one of your troopers is hit. 
+
+After that it's all hand to hand, and there you have an advantage. Your squad has fought in the Endless Battle for years, and are expert close-in fighters. It's over in less than a minute, and you have only lost two.
+
+{SOUND: Roaring lions.}
+{ART: Illustration - The Frilled bauls}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Unfortunately, the explosion alerts the skirmishers to your presence, and they turn about, firing as they advance, while dark shapes you hadn't noticed before lope through the trenches toward your position. There is no way you will get off another cypher before they are upon you. 
+
+Vostiel turns to you. "If we serve these as we did the others, the day is ours. What should we do?"
+
+{SOUND: Energy weapon fire.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Your squad attacks the surviving beast, turning it into a steaming hash with their various weapons, but as it dies, the rest of the skirmishers swarm in from all directions. 
+
+You and your companions fight valiantly, but there are too many of them, and your position is indefensible. Bolts and slugs tear you and your squad to pieces and cut you down.  
+
+An enemy sergeant kneels beside you as your life bleed into the mud and pulls your two Singularity Detonators from your bandoleer. He chuckles. "These'll make short work of the rest of 'em."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>The last thing you hear as consciousness begins to leave you, and the night-black rain beats down upon your upturned face, is the sound of Landi and the rest of the company rising up out of their trenches and racing to their certain doom to avenge your brave and glorious death.
+
+{SOUND: All sounds fade except the rain.}
+{ART: Illustration - Dead Captain}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>The skirmishers are right behind them, however, pouring into the command post and firing in all directions before your squad can bring their slug spitters to bear. Fortunately, they are shooting in the dark, and only one of your troopers is hit in that first wild barrage. 
+
+After that it is all hand to hand, and there you have an advantage. You and your squad have been tunnel laaks and "trench fodder," as the Aeon Priest called you, for years, and know all the tricks of close in fighting. In less than a minute the skirmishers are bleeding out, and you have only lost two.
+
+Then you notice that one of the dying skirmishers is laughing at you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Then you notice that one of the dying skirmishers is laughing at you. He holds up a Singularity Detonator. It is primed.  "Didn't notice I plucked this as you put the knife in, did you? Looks like we all die together."
+
+You look down. Your bandolier is missing a detonator. You scream at the others to get out, then race for the command post's exit. 
+
+There is a deafening thunderclap behind you as all matter within the implosion radius is collapsed into a single point. You fall to the wet mud of the trenches, and for a brief moment  you think you escaped the blast, then realize that your legs and lower torso are gone, and your guts are spilling out in a red puddle around you. 
+
+{SOUND: Sonic boom.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>The last thing you hear as the silver rain beats down on the side of your face and consciousness begins to leave you are the distant cheers and wails of your company, celebrating your victory and mourning your death. The end has come, but at least it was glorious.
+
+{SOUND: All sounds fade except the rain.}
+{ART: Illustration - Dead Captain}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Unfortunately, the explosion alerts the heater squad to your presence, and before you can find cover, the heater finds you, turning the ground at your feet into lava, into which you fall as your feet vaporize at the ankles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>The last thing you hear as consciousness begins to leave you and the night-black rain beats down upon your upturned face, is the sound of Landi and the rest of the company rising up out of their trenches and racing to their certain doom to avenge your brave and glorious death. 
+
+{SOUND: All sounds fade except the rain.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"On to the heater squad! Keep going!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Close with the skirmishers! Hurry!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Find cover! Prepare to meet the skirmishers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>You and your squad skulk swiftly through the trenches toward the dead construct. Unfortunately, the skirmishers quickly zero in on your position, and before you get halfway there, two hulking quadrupeds bound over the earthworks and leap down at you. Frilled bauls!
+
+You and Vostiel manage to cook one with your beamers before it lands on you, but the other downs one of your troopers, mauling her with its claws and stinging her with its quills. 
+
+{SOUND: Roaring lions.}
+{ART: Illustration - Frilled bauls}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>There's too many to pick off one at a time. Try the Singularity Detonator.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"A detonator would draw too much attention. We'll pick them off quietly. Each of you call two targets, then fire on my signal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>You prime the cypher and overhand it toward the heater crew. A perfect throw. They stare in horror as the ovoid lands among them, then it implodes, sucking all air and matter within a ten meter radius into a single point. The heater and most of the crew vanish in a deafening thunderclap as the surrounding air rushes in to fill the space they no longer occupy. Unfortunately, one of the snipers was just out of the radius, and he starts shrieking and firing your way.
+
+You duck into cover and pick him off as he pops up for a shot, but his warnings have been heard. Shouting is coming from both the skirmishers and the launcher crew. 
+
+{SOUND: Sonic boom.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>As you try to decide which way to run, the launcher crew acts, and the bright arc of an incendiary cypher rises above you, then drops down right toward your position. 
+
+You shout at your squad to scatter, but it's too late. The cypher explodes ten meters over your heads, showering liquid fire down on everything within a twenty meter radius of you. You are covered in stripes of it that burn you instantly to the bone. Beside you, Vostiel staggers around, his head a charred lump. You reach for him, but your hands are on fire. 
+
+{SOUND: Fiery explosion.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>You shout at your crew to scatter, but it's too late. The inferno detonator explodes ten meters over your heads, showering liquid fire down on everything within a twenty meter radius of you. You are covered in stripes of it that burn you to the bone instantly. Beside you, Vostiel staggers around, his head a charred lump. You reach for him, but your hands are on fire. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>The last thing you hear as the fire kills you by inches and the flame-red rain beats down on the side of your face, is the sound of Landi and the rest of the company rising up out of their trenches and racing to their certain doom to avenge your brave and glorious death. {SOUND: All sounds fade except the rain.} {ART: Illustration - Dead Captain}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>You and your squad, crack shots all, take your time picking your targets, and then, on your whispered order, all fire together - short precise shots - that drop six of the crew in seconds, as silently and surely as flesh-eating gas. 
+
+Unfortunately, one man is only winged, and in the time it takes to adjust your aim for a second shot, he yelps and ducks behind the heater,  then starts shrieking and firing your way.
+
+You duck into cover and pick him off as he pops up for a shot, but his warnings have been heard. Shouting is coming from both the skirmishers and the launcher crew. 
+
+{SOUND: Energy weapon fire.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>A moment later the first scouts appear, creeping into the intersection, and looking all around. The first and second miss Alvoosh's mines, but the third is not so lucky. An crackling eruption of electricity shoots through him, then chains to the other scouts and the troops behind. 
+
+A quarter of them die instantly, hearts shut down by the massive shock. Many more lie twitching in the mud, unable to control their limbs. The rest surge forward - and trigger the second mine, killing even more and putting more on the ground. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>As you shoot the survivors, a roar distracts you. A pair of dark, loping shapes are bounding for you. Frilled bauls! The skirmishers' hidden weapon!
+
+You and Vostiel cook one with your beamers, but the other downs one of your troopers and tears her throat out before your squad can kill it. Worse, fighting it gives the other squads time to find you. The beam of the heater sweeps your way. The bright arc of an incendiary cypher drops down toward your position. 
+
+You shout at your crew to scatter, but it's too late. The round explodes over your heads, showering liquid fire upon you. Vostiel staggers past you, his head a charred lump. You reach for him, but your hands are on fire. 
+
+{SOUND:Roaring lions.}
+{ART: Illustration - Frilled bauls}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Your squad attacks the surviving beast, turning it into a steaming hash with their various weapons, but as it dies, you realize all the commotion has drawn the attention of the other two squads. The shimmering beam of the heater is sweeping your way, and the spotter for the mortar crew is calling your coordinates, and as you try to decide which way to run, the bright arc of a launched round rises above you, then drops down right toward your position. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Both Landi and Vostiel look at you in shock as you use the vox to call back to the ambushers and agree to their terms. 
+
+The priest squeals with rage. "You traitorous slime! Commander Rekken will have your head for this! *I'll* have your head for this!"
+
+Landi nods in horrified agreement. "He's right, captain. I know you're only thinking of our safety, but we'll get shanked for sure if anyone finds out about this. Don't do it."
+
+"Aye," said Vostiel. "You can't cave to these worms. Let's fight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"You're right, Vostiel. Landi, fall back to the trenches and protect the priest. Vostiel, pick four scouts and come with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"You're right, Landi. Everyone fall back to the trenches on the right and get dug in. We'll protect the priest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"They're not going to kill him, so why risk our lives? Get him ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Landi and Vostiel sullenly lower the priest and the six crate-carrying troopers into the left hand trenches. The priest looks back, pleading, but Vostiel trains his beamer on him. 
+
+"Keep walking."
+
+The priest sighs, then he and the troopers walk the crate through the trenches toward the construct as you and your company watch in silence. Finally, after an excruciating interval, a sergeant from the heater crew jumps down and grabs the priest, while six skirmishers take the crate from your men. 
+
+"ThaNK You," comes the amplified voice, as the priest and the crate are led behind the construct. "If it wASN'T FOR COwards like YOU, our jOB WOULD Be mUCH HArder. You're FREe to GO."
+
+{ART: Illustration - Surrendering the Priest}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>The priest sighs, then he and the six soldiers and the crate begins a slow journey through the trenches toward the dead construct as your lieutenants and your company watch in silence. Finally, after what seems like forever, a sergeant from the heater crew jumps down and grabs priest, while six skirmishers take the crate from your men. 
+
+"ThaNK You," comes the amplified voice, as the priest and the crate are led behind the construct. "If it wASN'T FOR COwards like YOU, our jOB WOULD Be so mUCH HArder. You're FREe to GO."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Once the six troopers return to you, you give the order to resume march, and everyone falls in line behind you, but you can't shake the feeling they're all staring at your back. 
+
+{SOUND: All sounds fade except the rain.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>As the ambushers pepper the trench tops with beamer fire, and you start issuing orders for the bombardment of their positions, the Aeon Priest steps in front of you, shouting. "Wait, imbecile, wait! This is a perfect test for my weapon. Let me use it and I can end this battle before it begins!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Vostiel snarls at him. "And have all our own weapons blow up in our hands? I don't think so."
+
+Landi concurs. "We'll stick with the tried and true, thank you very much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>As the ambushers pepper the trench tops with deadly beams of light and you start issuing orders for the bombardment of their positions, the Aeon Priest hurries up to you, shouting. "Wait, imbecile, wait! This is a perfect test for my artifact. Let me use it and I can end this battle before it begins!"
+
+Vostiel snarls at him. "Use an untested weapon in a live battle? Are you mad?"
+
+Landi concurs. "We'll stick with the tried and true, thank you very much."
+
+The priest appeals to you. "Don't listen to them, captain. I repaired the shielding. It should work fine now! I am positive it will!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Even you take an involuntary step back as he grips the firing arm. Then he depresses it and sweeps the muzzle back and forth across the enemies positions. 
+
+For a long moment, nothing happens, in front of or behind the weapon, and Vostiel chuckles derisively off to one side. Then...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>With the crack and roar of a hundred thunderstorms, every weapon the ambushers hold explodes all at once. The heavy heater, the beamers, all the rounds for the mortar, every detonator on every belt of every soldier, all unleashing their various payloads in a single second. Flames billow. Electricity sizzles. Clouds of poison and acid and halucinogens spread in a multicolored fog. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>A moment later the gases clear, revealing a silent and lifeless scene. Not a single enemy survived. The battle, as the Aeon Priest had promised, is over before it could begin. 
+
+Your men cheer and raise the Aeon Priest on their shoulders. He'll probably be the only one rewarded for this, but at least it's still a victory.
+
+{SOUND: Rain and distant cheers.}
+{ART: Illustration - Blowing up the Ambushers}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>It's a long and grueling battle, with casualties on both sides, but finally, after your scouts eliminate the ambusher's launcher crew, and your snipers knock out their heater, the enemy captain calls a retreat and you win the day. A decisive victory, if not a glorious one, but more importantly, you kept the priest and his artifact safe and out of enemy hands. 
+
+As your company marches once more into the endless silver rain, Landi salutes you and Vostiel gives you a nod of respect. Even the little priest thanks you, though he still insists he could have ended the battle quicker all by himself. Surely, Commander Rekken will have nothing to complain about this day.
+
+{SOUND: Battle sounds.}
+{ART: Illustration - Victorious Captain}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>As your company marched away once more into the endless silver rain, Landi saluted you and Vostiel gave you a nod of respect. Even the annoying little priest thanked you, though he still insisted he could have ended the battle quicker all by himself.
+
+Surely, Command would not be able to find anything to complain about in how you'd aquitted yourself this day.
+
+THE END</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Then, as the darkness of evening is beginning to turn the rain from silver to slate, and the vista of endless trenches and dead constructs on either side of you is vanishing beyond your lights, the com hisses to life and you hear a cry of alarm before the transmission cuts off again just as abruptly. 
+
+"That's my man," says Vostiel, jumping up. "I better go find him."
+
+"You'll wait for orders, curse you," says Landi. "Captain, what should we do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Point taken, Landi. It seems I need more information. Vostiel, send a scout to check out the monolith. The company will wait here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"I see your point, Landi. Very well, we will continue to headquarters with the priest as ordered."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>A half hour later, you approach the coordinates of the monolith and slow to a crawl, creeping up on the position on elbows and knees. 
+
+The monolith juts up from a low rise, a slab of silver synth four times the height of a man, with a pitted surface and sheered off top that make it look like a knife blade snapped off in someone's gut. You've never known why both sides consider the thing strategically important, but reputations and commendations have been won for taking it and holding it, and that's all that matters. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Landi gives you a sour look as your squad picks up the priest's device. The priest isn't happy either. 
+
+"I will not be a part of this foolishness!" he screams, but once he realizes the soldiers carrying the crate aren't going to stop, he follows, grumbling the whole way.
+
+A half hour later, you reach the monolith and creep toward it on elbows and knees. It juts up over a low rise, a silver slab of synthsteel four times the height of a man, sheered off at the top like a knife blade snapped off in someone's gut. You've never known why both sides consider it important, but reputations and promotions have been won for taking and holding it, and that's all that matters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>You spot ten soldiers guarding the monolith, four huddled out of the rain in a makeshift gun emplacement made of boulders and scrap and rusted construct parts at the base of the monolith, and six patrolling in pairs. All of them are talking to each other on aether-coms. 
+
+At first you think that's all you're up against, but then the rusted parts start to move and stand, and that's when you realize they're not parts at all. It's a working construct - a hulking metal war-mantis from a bygone era.
+
+Vostiel curses. "Clever bastards. Looks like they not only downed the rust bucket that attacked them, they fixed it up and put a leash on it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>At first you think the men are all you're up against, but then the rusted parts beside them stand, and you realize they're not parts at all, but an ancient metal war-mantis. Vostiel curses. "Clever bastards. They didn't just down the construct that attacked them. They fixed it up and put a leash on it." As it circles the monolith, you are relieved to see that the thing is limping badly, and is missing an arm and some leg plating. Unfortunately, its glowing red eyes tell you its beam weapon is still operational. Vostiel lowers his voice. "This is bad. Those eyes have the range to burn us down a league away, and they never miss. If we can't take it out immediately, we're dead." {SOUND: Robot movement.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"I'm not advancing until we clear the patrols. Scouts, find cover and take the pickets as they come. Quietly!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Your squad spreads out and takes cover in the rubble along the path of the enemy patrols, then takes them out as they pass with silent sliver spitters tipped with arcane chemicals that paralyze them before they can sound the alarm.
+
+All except the last one. A misfire allows the final scout a squawk of surprise before he dies.
+
+{SOUND: Energy weapon fire.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>It works! The construct's front legs buckle under the sustained fire, and it goes down, but you had forgotten the inhuman reaction time of machines. In the second that it takes it to fall, it spits three beams in three different directions and half your squad is dead, burned to the ground like candles. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>As you predicted, the enemy's wide patrols converge on your position, and as you retreat, they discover the mines you left behind. Two of the three pairs are blown to pieces, and you pick off the third with ease, then approach the ridge again to deal with team in the gun emplacement. 
+
+But as you poke your head up to reconnoiter, you see that the construct has raised itself up on its one arm, and is craning its neck around, looking for targets, while the soldiers in the enclosure are doing the same. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>The enemy patrols converge on your position, and quickly discover the traps you left behind. Two are melted to slag, and you pick off the third with ease, then return to the ridge. To your surprise, the construct still lives. It has raised itself on its arm and is scanning for targets while the troopers by the monolith do the same. 
+
+"We can take the squad," whispers Vostiel.  "But that heavy. We're dead as soon as we attack it."
+
+He pats the scope on his beam weapon. "If we can hit its eye, the rest is easy. But it's going to fire on the flash, so whoever pulls the trigger is dead, whether they hit or not." He looks at you. "You want me to try, captain, just say the word."
+
+{SOUND: Fiery explosions.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Vostiel salutes, then swallows. "Tell... tell Landi I'll miss her disapproving glare. Always made my little heart go pitter pat."
+
+He turns and lays himself behind the ridge so his head is level with it, then pokes the barrel of his beamer through the weeds that cover it. You and your last squad member, Alvoosh, stay with him as he waits for the construct to turn its eye his way. Finally, he exhales and fires, and instantly his head explodes. It almost seems as if he shot himself.
+
+You look up. The construct is flat on its face, smoke and sparks coming from its shattered head, while the troopers in the enclosure next to it are firing in all the wrong directions. {SOUND: Robot's powerful beam weapon}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Do it, then, Lieutenant. But do it well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"I'll do it. Give me your weapon. I can't ask anyone else to take a risk like this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"No. There's no point in killing ourselves for this. Fall back and return to the company."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Captain, no!" says Vostiel.
+
+You wave him off and lie behind the ridge, then poke the beamer through the weeds and watch the construct scanning back and forth. It's a machine. Its cycle is predictable. Its eye turns your way every seven heartbeats, all you have to do is aim, count, and fire. The hard part is knowing it will be the last thing you do.
+
+As it faces you again, you exhale and pull the trigger. Your shoulder and torso instantly burn with agony as a beam stabs through you from clavicle to pelvis, cooking everything in between. 
+"Captain!" shouts Vostiel. He turns you over. "Moon of Fortune, he's alive! You got it, captain. The big bastard is dead! You got it!" {SOUND: Robot's powerful beam weapon}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Vostiel and Alvoosh, the other surviving member of the squad are sullen at this decision, but they obey the order nonetheless, and within a half hour, you are back with Landi and the main company and back on the road, marching for headquarters once again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>You and your last squad member, Alvoosh, a sapper, stay with Vostiel as he adjusts his aim and waits for the construct to turn its eye his way. Finally, he exhales and fires, and instantly his head explodes. If you didn't know better, you'd think he'd somehow shot himself.
+
+You raise your head to see if he hit. He did. The construct is flat on its face, smoke and sparks coming from its broken head, while the soldiers in the enclosure next to it are firing in all the wrong directions. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>As the silver rain washes Vostiel's boiling blood down the incline of the ridge, you pick up his long range beamer and then you and Alvoosh get down to the slow but certain work of picking off the last four defenders one by one. 
+
+Glory will be yours for taking the monolith this day, and a promotion too, most likely. Only you will know if they were deserved or not. 
+
+{SOUND: All sounds fade except the rain.}
+{ART: Illustration - Victorious Captain}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>On the constuct's next revolution, you exhale on five and pull the trigger on seven. Your shoulder and torso instantly scream with agony as a searing beam of light stabs straight through your body top to bottom, clavicle to pelvis, and cooking everything in between. If you didn't know better, you'd think you somehow shot yourself. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Captain!" shouts Vostiel. He turns you over. "Moon of Fortune, he's alive! You got it, captain. The big bastard is face down and smoking! You got it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>You can't reply. The world is dilating down to a pinhole, but you feel Vostiel take the beamer from your hands and squeeze your arm. 
+
+The last thing you hear, as the silver rain beats down on your upturned face and consciousness leaves you, is his voice. "We'll take it from here, captain. Only clean up to do now. Hang on. You won the day. The glory is yours."
+
+{SOUND: All sounds fade except the rain.}
+{ART: Illustration - Dead Captain}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Finally, you're within throwing range, and as the hulking mantis comes once more around the monolith, you key your aether-com to signal the squad. At the click, they start firing into the air from behind the ridge, drawing the eyes of both the construct and the soldiers in the enplacement. Now's your time!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>As one, you and Vostiel lob your detonators. Vostiel's bounces right into the enclosure, and you hear the troopers' shriek in fear as they try to escape it. With its inhuman reaction time, however, the construct catches yours in its remaining pincer, but it's not fast enough to stop it from detonating. 
+
+Unfortunately, it *is* fast enough to get off one more shot before the cypher's implosion collapses it and everything around it into a single point. A searing beam stabs through you from clavicle to pelvis, cooking everything in between. 
+
+"Captain!" shouts Vostiel. He turns you over. "Moon of Fortune, you're alive! You got it, captain! The big bastard is dead! And the squad too!"
+
+{SOUND: Two sonic booms.}
+{ART: Illustration - Blowing up the Construct}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Captain!" shouts Vostiel. He turns you over. "Moon of Fortune, you're alive! You got it, captain! The big bastard is gone for good! And the squad too!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>You can't reply. Your world is dilating down to a pinhole. 
+
+The last thing you hear, as the silver rain beats down on your upturned face and consciousness leaves you, is Vostiel's voice. "Hang on, captain. We'll take it from here. Only the patrols to finish off now. You won the day. The glory is yours."
+
+{SOUND: All sounds fade except the rain.}
+{ART: Illustration - Dead Captain}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>You hear shouts of alarm from the enclosure near the monolith, and the ground shakes from the thudding steps of the war-mantis. You order the others to take cover and they hit mud just as the construct tops the low ridge, haloed by the light behind it and dripping with rain. 
+
+It pauses on the ridge top, examining the dead patrols, then starts limping forward, its head swiveling back and forth, looking for movement. It's only a matter of time before it finds you all. Staying still is not an option. You must make a move.
+
+{SOUND: Robot movement.}
+{ART: Illustration - The Construct Scanning}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Fire on its legs! It's our only chance!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Lob a singularity detonator at it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Run! It's our only chance!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>You rise up with the others and fire on the mantis's forelegs, centering your fire where its armor is most damaged, and causing it to fall flat on its face.
+
+Unfortunately, in the second that it takes it to fall, it spits three beams in three different directions and half your squad is dead - including Vostiel - all burning like candles. And a second later it's pushing itself up again on its one remaining arm.
+
+You fire again, trying to hit its single deadly eye, but it is faster - much faster - and a searing beam of light stabs through you from clavicle to pelvis, cooking everything in between. {SOUND: Robot's powerful beam weapon.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>You pull the detonator from your bandolier and prime it, then hurl it at the mantis. Unfortunately, the second after the cypher leaves your hand, the mantis shoots you, sending a searing beam of light straight through your body, and cooking your insides black. In the next second, it has batted the cypher aside, right where your troopers are lying in cover. 
+
+{SOUND: Sonic boom.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>You rise up with the others and flee into the night. Unfortunately, in three seconds it has shot all six of you, and you splash down into the mud, screaming as your insides cook within you. {SOUND: Robot's powerful beam weapon.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>You fire again, trying to hit its single deadly eye, but it is faster - much faster - and a searing beam of light stabs straight through your body top to bottom, clavicle to pelvis, and cooking everything in between. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>The last thing you hear, as the black rain beats down on the side of your face, and consciousness begins to leave you, is the last two members of your squad, screaming for vengeance as they charge toward the construct and their certain doom to avenge your brave and glorious death.
+
+{SOUND: All sounds fade except the rain.}
+{ART: Illustration - Dead Captain}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>The last thing you hear, as the black rain beats down on the side of your face, and consciousness begins to leave you, is the thunderclap of the singularity detonator's implosion swallowing half your squad, and the sizzling whine of the construct's beamer cutting down the rest as they try to flee. The end has come, but at least it was glorious.
+
+{SOUND: All sounds fade except the rain.}
+{ART: Illustration - Dead Captain}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>The last thing you see, as the black rain beats down on the side of your face, and consciousness begins to leave you, is Vostiel lying beside you, staring at you with accusing eyes. 
+
+{SOUND: All sounds fade except the rain.}
+{ART: Illustration - Dead Captain}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Wait," says the Aeon Priest. "This is a perfect test for my weapon. Let me use it and I can end this battle before it begins!"
+
+Vostiel snarls at him. "And have all our own weapons blow up in our hands? I don't think so. We'll stick with the tried and true, thank you very much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>A half hour later, you approach the coordinates of the monolith and slow to a crawl, creeping up on the position on elbows and knees. 
+
+The monolith juts up from a low rise, a slab of silver synth four times the height of a man, with a pitted surface and sheered off top that make it look like a knife blade snapped off in someone's gut. You've never known why both sides consider the thing strategically important, but reputations and commendations have been won for taking it and holding it, and that's all that matters. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Ten enemy soldiers guard the monolith, four huddled in an enclosure made of rags and pitted plates of synth, and six out in the rain, patrolling in pairs. At first you think they're all you're up against, but then a pile of rusted parts stands, and you realize they're not parts at all, but an ancient war-mantis. Its limping badly, and missing an arm and some leg plating, but its glowing eyes tell you its beam weapon still works. 
+
+Vostiel curses. "Clever bastards. They didn't just down the guardian, they fixed it up and put a leash on it. This is bad. Those eyes have the range to burn us down a league away, and they never miss. If we can't kill it immediately, we're dead."
+
+{SOUND: Robot movement.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Wait," says the Aeon Priest. "This is a perfect test for my device. Let me use it and I can end this battle before it begins!"
+
+Vostiel snarls at him. "Use an untested weapon in a live battle? Are you mad?"
+
+The priest appeals to you. "Don't listen to him, captain. I repaired the shielding. It should work fine now! I am positive it will!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"No. I can't risk my soldier's lives with unproven numenera. Scouts, find cover and take the patrols as they come. Quietly!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Vostiel grumbles but obeys, and has the device uncrated and on its mount by the time the rest of the squad readies itself for a counterattack. The difficult part is getting the weapon into range without being spotted, but you manage to run it in between patrols and set it up just behind the ridge so only the muzzle is showing.
+
+"Everyone, well back," whispers the priest as he kneels behind it.
+
+Even you take an involuntary step back as he depresses the firing arm and sweeps the muzzle across the enemies positions on the other side of the ridge. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Even you take an involuntary step back as he grips the firing arm. Then he depresses it and sweeps the muzzle back and forth at the enemies positions on the other side of the hill. 
+
+For a long moment, nothing happens, in front of or behind the weapon, and Vostiel chuckles derisively off to one side. Then...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>With the crack and roar of a hundred thunderstorms, the construct and every weapon the defenders hold explodes all at once. Their beamers, their detonators all unleashing their various payloads in a single second. Flames billow. Electricity sizzles. Clouds of poison and acid and halucinogens spread in a multicolored fog as the war mantis topples to one side, its lights extinguished. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>For a long moment nothing happens, and Vostiel chuckles derisively. Then, with the roar of a hundred thunderstorms, the construct and every weapon the defenders hold explode all at once - beamers and detonators all unleashing their payloads in an orgy of death. Flames billow, electricity sizzles, and clouds of purple gas spread as the war mantis topples to one side, its red eyes dead.
+
+Seconds later, the patrols come hunting the source of the attack, but only two. Apparently, one was in range of the priest's weapon and blew up with the rest. 
+
+Your squad picks them off with ease and the monolith is yours. The battle, as the Aeon Priest had promised, is over before it could begin.
+
+{SOUND: Sonic Occilator Weapon firing followed by Huge Multi Explosion}
+{ART: Illustration - Blowing up Monolith Squad}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>It works! The construct's front legs buckle under the sustained fire, and it goes down, but you had forgotten the inhuman reaction time of machines. In the second that it takes it to fall, it spits three beams in three different directions and half your squad is dead, burned to the ground like candles. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>As you predicted, the enemy's wide patrols converge on your position, and as you retreat, they discover the mines you left behind. Two of the three pairs are blown to pieces, and you pick off the third with ease, then approach the ridge again to deal with team in the gun emplacement. 
+
+But as you poke your head up to reconnoiter, you see that the construct has raised itself up on its one arm, and is craning its neck around, looking for targets, while the soldiers in the enclosure are doing the same. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>The enemy patrols converge on your position, and quickly discover the traps you left behind. Two are melted to slag, and you pick off the third with ease, then return to the ridge. To your surprise, the construct still lives. It has raised itself on its arm and is scanning for targets while the troopers by the monolith do the same. 
+
+"We can take the squad," whispers Vostiel. "But that heavy. We're dead as soon as we attack it."
+
+He pats the scope of his beam weapon. "If we can snipe its eye, the rest is easy. But it's going to fire on the flash, so whoever pulls the trigger is dead, whether they hit or not." He looks at you. "You want me to try, captain, just say the word."
+
+{SOUND: Fiery explosions.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Do it, then, lieutenant. But do it well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Vostiel salutes, then swallows. "Tell... tell Landi I'll miss her disapproving glare. Always made my little heart go pitter pat."
+
+He turns and lays himself behind the ridge so his head is level with it, then pokes the barrel of his beamer through the weeds that cover it. You and your last squad member, Alvoosh, stay with him as he waits for the construct to turn its eye his way. Finally, he exhales and fires, and instantly his head explodes. It almost seems as if he shot himself.
+
+You look up. The construct is flat on its face, smoke and sparks coming from its shattered head, while the soldiers in the enclosure next to it are firing in all the wrong directions. {SOUND: Robot's powerful beam weapon.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>You and your last squad member, Alvoosh, a sapper, stay with Vostiel as he adjusts his aim and waits for the construct to turn its eye his way. Finally, he exhales and fires, and instantly his head explodes. If you didn't know better, you'd think he'd somehow shot himself.
+
+You raise your head to see if he hit. He did. The construct is flat on its face, smoke and sparks coming from its broken head, while the soldiers in the enclosure next to it are firing in all the wrong directions. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>As the silver rain washes Vostiel's boiling blood down the incline of the ridge, you pick up his long range beamer and then you and Alvoosh get down to the slow but certain work of picking off the last four defenders one by one. The victory is yours.
+
+Behind you, the Aeon Priest edges out of hiding and stares at Vostiel's corpse. "Was it worth it, captain. I don't doubt you'll get glory for it, and a promotion too, most likely. But was it really worth it?"
+
+{SOUND: All sounds fade except the rain.}
+{ART: Illustration - Victorious Captain}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"I'll do it. Give me your weapon. I can't ask anyone else to take a risk like this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Captain, no!" says Vostiel.
+
+You wave him off and lay behind the ridge, then poke the beamer through the weeds and watch the construct scanning back and forth. It's a machine. Its cycle is predictable. Its eye turns your way every seven heartbeats, all you have to do is aim, count, and fire. The hard part is knowing it will be the last thing you do.
+
+As it faces you again, you exhale and pull the trigger. Your shoulder and torso instantly burn with agony as a beam stabs through you from clavicle to pelvis, cooking everything in between.
+
+"Captain!" shouts Vostiel. He turns you over. "Moon of Fortune, he's alive! You got it, captain. The big bastard is dead! You got it!" {SOUND: Robot's powerful beam weapon.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>On the constuct's next revolution, you exhale on five and pull the trigger on seven. Your shoulder and torso instantly scream with agony as a searing beam of light stabs straight through your body top to bottom, clavicle to pelvis, and cooking everything in between. If you didn't know better, you'd think you somehow shot yourself. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Captain!" shouts Vostiel. He turns you over. "Moon of Fortune, he's alive! You got it, captain. The big bastard is face down and smoking! You got it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>You can't reply. The world is dilating down to a pinhole, but you feel Vostiel take the beamer from your hands and squeeze your arm. "We'll take it from here, captain. Only clean up to do now. Hang on. You won the day. The glory is yours. Priest, see to him, I beg you!"
+
+The last thing you hear, as the silver rain beats down on your upturned face and consciousness begins to leave you, is the voice of the priest. "You'd be alive if you'd let me use my weapon. Guess you'd rather be a dead hero, damned fool." 
+
+{SOUND: All sounds fade except the rain.}
+{ART: Illustration - Dead Captain}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"No. There's no point in killing ourselves for this.  Fall back and return to the company."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Vostiel and Alvoosh, the other surviving member of the squad, are sullen at this decision, but they obey the order nonetheless, and, much to the Aeon Priest's relief, within a half hour, you are back with Landi and the main company and back on the road, marching for headquarters once again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>As one, you and Vostiel lob your detonators. Vostiel's bounces right into the enclosure, and you hear the enemy shriek in fear as they try to escape it. With its inhuman reaction time, however, the construct catches yours in its remaining pincer, but isn't fast enough to prevent it from detonating. 
+
+Unfortunately, it *is* fast enough to get off one more shot before the cypher's implosion collapses it and everything around it into a single point. A searing beam stabs through you from clavicle to pelvis, cooking everything in between. 
+
+"Captain!" shouts Vostiel. He turns you over. "Moon of Fortune, you're alive! You got it, captain! The big bastard is dead! And the squad too!"
+
+{SOUND: Two sonic booms.}
+{ART: Illustration - Blowing Up the Construct}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Finally, you're within throwing range, and as the hulking mantis comes once more around the monolith, you key your aether-com to signal the squad. At the signal, they start firing into the air from behind the ridge, drawing the eyes of both the construct and the soldiers in the enplacement. Now's your time!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>As one, you and Vostiel lob your detonators - yours at the construct, his at the soldiers. Your throws are perfect. Vostiel's bounces right into the emplacement, and you hear the soldiers' shrieks of fear as they try to escape it. With its inhuman reaction time, the construct catches yours in its remaining pincer, but it's too late to prevent it from detonating. 
+
+Unfortunately, its reaction time *is* fast enough for it to get off one more shot before the cypher's implosion collapses it and everything within a ten meter radius of it into a single point, and a searing beam of light stabs straight through your body top to bottom, clavicle to pelvis, and cooking everything in between. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Captain!" shouts Vostiel. He turns you over. "Moon of Fortune, you're alive! You got it, captain! The big bastard is gone for good! And the squad too!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>You can't reply. The world is dilating down to a pinhole, but you feel Vostiel squeeze your arm. "We'll take it from here, captain. Only the patrols to take care of now. Hang on. You won the day. The glory is yours. Priest, see to him, I beg you!"
+
+The last thing you hear, as the silver rain beats down on your upturned face and consciousness begins to leave you, is the voice of the priest, coming closer."You'd be alive if you'd let me use my weapon. Guess you'd rather be a dead hero, damned fool."  
+
+{SOUND: All sounds fade except the rain.}
+{ART: Illustration - Dead Captain}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Your squad spreads out and takes cover in the rubble along the circuit of the enemy patrols, then takes them out with silent sliver spitters that paralyze them with poison before they can sound the alarm.
+
+Unfortunately, one of your soldiers misfires during the attack on the last pair and the final scout manages a squawk of surprise before she dies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>You hear shouts of alarm from the enclosure near the monolith, and the ground shakes from the thudding steps of the war-mantis. You order the others to take cover and they hit the mud just as the construct tops the low ridge, haloed by the light behind it and dripping with rain. 
+
+It pauses on the ridge top, examining the dead patrols, then starts limping forward, its head swiveling back and forth, looking for movement. It's only a matter of time before it finds you all. Staying still is not an option. You must make a move.
+
+{SOUND: Robot Movement.}
+{ART: Illustration - The Construct Scanning}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Fire on its legs! It's our only chance!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>You rise up with the others and fire on the mantis's forelegs, centering your fire where its armor is most damaged, and causing it to fall flat on its face.
+
+Unfortunately, in the second that it takes it to fall, it spits three beams in three different directions and half your squad is dead - including Vostiel - all burning like candles. And a second later it's pushing itself up again on its one remaining arm.
+
+You fire again, trying to hit its single deadly eye, but it is faster - much faster - and a searing beam of light stabs through you from clavicle to pelvis, cooking everything in between. {SOUND: Robot's powerful beam weapon .}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>You fire again, trying to hit its single deadly eye, but it is faster - much faster - and a searing beam of light stabs straight through your body top to bottom, clavicle to pelvis, and cooking everything in between. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>The last things you hear, as the black rain beats down on the side of your face and consciousness begins to leave you, are the terrified weeping of the Aeon Priest in his hiding place, and the angry screams of your two last squad members as they charge toward the construct and their certain doom to avenge your brave and glorious death.
+
+
+{SOUND: All sounds fade except the rain.}
+{ART: Illustration - Dead Captain}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Lob a singularity detonator at it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>You pull the detonator from your bandolier and prime it, then hurl it at the mantis. Unfortunately, the second after the cypher leaves your hand, the mantis shoots you, sending a searing beam of light straight through your body, and cooking your insides black. In the next second, it has batted the cypher aside, right where your troopers are lying in cover. 
+
+{SOUND: Sonic boom.}
+{ART: Illustration - Blowing up the Construct}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>The second to last thing you hear, as the black rain beats down on the side of your face, and consciousness begins to leave you, is the thunderclap of the singularity detonator's implosion swallowing half your squad, and the sizzling whine of the construct's beamer cutting down the rest as they try to flee.
+
+The very last thing you hear is the hopeless weeping of the Aeon Priest in his hiding place. "You fool," he says. "I told you. I told you."
+
+{SOUND: All sounds fade except the rain.}
+{ART: Illustration - Dead Captain}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Run! It's our only chance!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>You rise up with the others and flee into the night. Unfortunately, in three seconds it has shot all six of you, and you splash down into the mud, screaming as your insides cook within you. 
+
+{SOUND: Robot's powerful beam weapon.}
+{ART: Illustration - Run Away}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>The last thing you see, as the black rain beats down on the side of your face, and consciousness begins to leave you, is the priest lying beside you, pointing at you and mouthing, with his dying breath, one word. 
+
+"Fool."
+
+{SOUND: All sounds fade except the rain.}
+{ART: Illustration - Dead Captain}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"A needless waste of lives," says the priest as your squad slips between the patrols.
+
+They spread out behind a low ridge so the construct will have a harder time killing them all at once, then trap the approaches to their positions in preparation for any counterattack.
+
+When they're ready, you give the signal, and the squad pours fire at the construct's damaged front legs, hoping to collapse it.
+
+It works! The construct's front legs buckle and it topples. Unfortunately, in the second that it takes it to fall on its face, it spits three beams in three different directions and half your squad is dead, burning like candles. {SOUND: Robot's powerful beam weapon}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"A needless waste of lives," says the the priest as you and Vostiel pull singularity detonators from your bandoliers and start forward.
+
+You slip through the patrols to the crest of the ridge, then wait until the construct has gone behind the monolith and creep over. And that is how you proceed for the next half hour. Moving only when the monolith blocks the construct's vision, then holding as it limps by on another pass.
+
+Finally, you're within throwing range, and as it comes into view once more, you key your aether-com to signal the squad. At the click, they start firing from behind the ridge, drawing the eyes of the construct and the troopers in the enclosure. Now's your chance!
+
+{SOUND: Energy weapon fire.}
+{ART: Illustration - Sniping the Construct}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>The priest shakes his head as your squad spreads out and takes cover in the rubble along the path of the enemy patrols. 
+
+"A needless waste of lives," he says. "Disgusting." 
+
+As the patrols pass your troopers take them out with silent sliver spitters tipped with a chemical that paralyses them before they can sound the alarm.
+
+All except the last one. A misfire allows the final scout a squawk of surprise before he dies.
+
+{SOUND: Energy weapon fire.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>The men gratefully drop their packs and huddle together to share some kind of sour, dried meat over the warmth of a heating cypher. Minutes later, a harsh whine penetrates the hiss of the rain. 
+
+"It's Vostiel," says your lieutenant, looking around. "Back from his sweep."
+
+Vostiel skims in on a small pod hovering in the air. He stops in front of you, pulls off his goggles and salutes.
+
+"Luck's holding, captain," he says. "Early leave and now this: I intercepted a courier with an interesting dispatch on him. Seems the unit that holds Barhad's Monolith has been reduced to ten men by an attack from a rogue construct. They downed the bastard, but it near to wiped them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Let's hold until Vostiel returns and we hear his info. Company! Hold and fall out!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Only a short while later, just as evening is turning the rain from silver to slate, and the endless vista of trenches and dead constructs on either side of you begins to vanish beyond your lights, your aether-com squawks a warning from your point man, then cuts off again just as abruptly. 
+
+"Trouble," says Vostiel. "I'll go ahead."
+
+"You'll wait for orders, curse you," says Landi. "Captain, what should we do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Your men cheer and raise the Aeon Priest on their shoulders. He'll probably be the only one rewarded for this, but it's still a victory.
+
+{SOUND: All sounds fade except the rain.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"We're not getting paid enough to die for this priest's hide. Get him ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Fine. Either it ends us or it ends them. Sometimes you have to take the risk. Vostiel and Landi, help the priest set it up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Sorry, priest. If there is glory to be won today, it'll be ours. Vostiel, Landi, order your troops."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>Only a short while later, just as evening is turning the rain from silver to slate, and the endless vista of trenches and dead constructs on either side of you begins to vanish beyond your lights, your aether-com squawks a warning from your point man, then cuts off abruptly. 
+
+"Trouble," says Vostiel. "I'll go ahead."
+
+"You'll wait for orders, curse you," says Landi. "Captain, what should we do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>[DEBUG] Test Mere illustrations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Which illustration do you want to see?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Opening Vista.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>The Monolith.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>The Heater Squad.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>The Priest and His Device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>The Construct Firing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Go back to the Mere.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

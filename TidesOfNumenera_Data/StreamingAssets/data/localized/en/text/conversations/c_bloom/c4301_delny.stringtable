@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4301_delny</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>69</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"There's a new Maw in Little Nihliesh. Can you use your mental powers to find out what it wants?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I... I could, I suppose. But I'd need to get near the Maw to build the proper rapport with it, and I don't think that's a very good idea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>This slim girl is almost a mirror of the boy who stands next to her - they could be twins or clones, so close is the resemblance. You see that her features are sharp, though shadows flit and play too quickly across her face to be sure of anything else. She slumps almost imperceptibly inside her cloak of darkness.
+
+As you open your mouth, her companion interposes himself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText> Follow-up T. 11</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Once again, the young man steps forward to speak for his friend, pushing her behind him protectively.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>With the glamour removed from her, you see Delny for who she truly is - a young mutant woman, slender, her light blue skin accentuated by her bright pink hair. Her features are still sharp, but she still has the softness of youth about her.
+
+Her voice is light but sincere. "Thank you for freeing me of Vrung's influence. His mind was..." She shivers. "This is like waking from a nightmare."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I'm glad to see you again." Her smile seems genuine. "I've been listening for word of your doings." She blushes a little.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>She blinks, clearing her eyes. "What can I do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I was born in Nihliesh, and my parents were good people. I learned the walkways of the Second Tier by heart. That's how I discovered the portal to the Bloom. I kept seeing the traders who came back from here, and they always had such interesting wares! One day I snuck after them... I wanted to see where they came from." Her face darkens. 
+
+"That was the day that Bloom closed its pathway to my home. I used to think it was my fault, but the Bloom doesn't seem to care for me now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"How did you fall in with Vrung in the first place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"He seemed... dark, and fascinating. The adults didn't want me to go near him. But he was like a mirror of what I wanted to be - strong, mysterious, *ambitious*. I let him bend me and use my powers to make him more of what he wanted to be, and I didn't realize I was trapped until it was too late."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Tell me again what you learned about the Maw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I freed you from Vrung, and when your mind rebelled, I helped you, Delny. I suffered for it."
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Then forget it. Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>She considers your words, weighing them carefully. At last, she comes to a decision. "All right. You did help me when you didn't have to. I'll do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Her gentle rebuff becomes much harder. "I said that I didn't think it was a good idea. What I meant to say is that I will not. What if the Maw wants to eat *me*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You feel a slight pulse in your tattoo, and Delny begins to walk quickly toward the Maw. "I'll need to be close to it to understand it," she says, "but it shouldn't take much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I freed you from Vrung. This is all I ask in return."
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>She shivers. "It wants guilt. It wants people who feel their guilt strongly, who bathe in it, whose hearts are stones of remorse. It said it would lay bare that guilt and then take it away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"It was brave of you to save the knight... Herja, I mean. She could have made a mess of herself. She would have been as happy to be dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"It's too bad you couldn't have saved that knight... Herja, I mean. She was a bad person, but I think she could have died better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Fahat be with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"For you? To be a part of your story? Gladly. But I'll need to build a rapport with it first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Bank 36</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Bank 37</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Tell me about yourself again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"I snuck through a portal in Nihliesh. But for the charity of families here, I might have died. I never felt like I fit in... not until I met Vrung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Bank 40</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Bank 41</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Tell me again about how you met Vrung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"He skulked through the dark places of the Bloom, and I thought he was dangerous and alluring. He led me on and took me in, and I didn't realize what sort of person he was until it was far too late."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>She shakes her head as if to clear it, and a small trickle of bluish blood runs from the corner of her mouth, where she bit her tongue or lips.
+
+"I... don't know how to thank you. You must have questions."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>She concentrates a moment as if trying to marshal some inner strength, and panic begins to creep into her voice. "I... I don't feel that strength anymore. Could it be that I have lost my powers?" She looks stricken. "I can't help you. I am so, so sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"You've had quite a time of it. How are you feeling?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Even though I'm still in the Bloom, even though we're still surrounded by all this, even though I need to make amends to everyone I robbed and bullied with Vrung... I feel hopeful. It feels like a new beginning, like... like the night has been peeled away and discarded."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Being free of Vrung is like... like opening my eyes again. But there's another part of my mind that feels like it's *asleep*, and I don't know what happened."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"She wasn't in her right mind. It would have been wrong to let her kill herself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Killing herself would have deprived her of the opportunity to atone for her crimes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Maybe, but I didn't want her to die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Delny looks at you for a moment. "Her choices were your decision? That sounds a lot like what Vrung did to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"You're right, I think. Just giving her life wasn't enough. She needs to *help* her victims." Her voice is fierce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"But... if you're going to kill yourself, aren't you always in despair? I don't understand how doing it in the light of rationality makes a stupid decision any better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"She chose to expiate her sins in the way she thought best."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"She *was* a bad person. The world is a better place without her in it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Saved her? For what?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"It's just sad that she didn't get a chance to make her life *right*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"But doesn't everyone do bad things in their lives? Would the world be better if all the bad people died before they could fix their mistakes? Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Maybe once she saw what the effects of her life were, she could have done something to change them. She seemed genuinely sorry at the end." She shakes her head. "But it's too late to talk about that now. The time for thinking about the effects of a life are during the life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Bank 61</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"After I got here and discovered I couldn't get home, I had to find a way to survive. I found five families who were willing to help me, and who could afford to feed me once every few days. I helped them when I could and kept looking for a way home. But as I got older..." she looks embarrassed. "I needed more excitement. That's when I met Vrung." She looks away, unwilling to say much more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Those times... I'm not proud."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Aligern looks thoughtful, and his fingertip traces a writhing tattoo on his forearm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Trigger Conv Node 65</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"I'm glad to see you again." Her smile seems genuine. "I'm truly grateful for what you did for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>She appears relieved. "What do you want to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>She sighs and says, "You're right, I'm sorry. I owe you at least that much." She turns to walk to the Maw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Her gentle rebuff becomes much harder. "*You* suffered? Have you thought about what *I* suffered under Vrung's grasp? I won't serve another like that again, not ever."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Bank 75</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Bank 78</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Script Node 81</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"I tried to save her, but she was determined to die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"I know... it wasn't your fault. But she had a chance to make up for all the things she did, and she threw it away. Her legacy might have been a beautiful thing, something for people to remember. Now it's nothing but horror."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"It was my psychic power that drew him to me. He saw... what I had. He wanted to take it, use for himself. He called me an empathic amplifier. I could read people, and I could make their feelings stronger. He used me to find out who the scared people were. And then we preyed on them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>She eyes the Maw warily. "Don't get too close if you're feeling guilty," she warns. "It *hungers.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Guilt," she says simply. "It wants those whose guilt overwhelms them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>She eyes the Maw with distaste, but says nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2311_first_time_pc_dies</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>86</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Death. The stink of it, of dried blood and rotting flesh, fills your nostrils. 
+
+This is your first clue that you are somehow still alive. The second is the glow of candlelight, warm on your eyelids, and the icy stone beneath your back.
+
+Slippers scuff the ground near your head.
+
+"Gather around, children," an elderly man says. "Gather for the feast." 
+
+{GAVIN and GEORGE: Add the following content if time allows: "[B] The player's companions can interject in this conversation - the ones from Sagus (Matkina, Riastrad/Satsada, Tybir, Callistege, Aligern) will be familiar with the Dendra and can have advice and comments about them."}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Open your eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Keep them closed. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>""
+
+{SCRIPT: Player opens eyes. Fade in.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Oh dear. Are you sure?" Hot, bony fingers prod your throat for a pulse. It taps along with the beat it finds there. "How very strange. He was *quite* dead a moment ago."</DefaultText>
+      <FemaleText>"Oh dear. Are you sure?" Hot, bony fingers prod your throat for a pulse. "How very strange. She was *quite* dead a moment ago."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You feel *someone* lean over you and snuffle at your face. 
+
+"He is breathing," says a low, raspy, *hungry* voice.</DefaultText>
+      <FemaleText>You feel *someone* lean over you and snuffle at your face. 
+
+"She is breathing," says low, raspy, *hungry* voice.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Death. The stink of it, of dried blood and rotting flesh, fills your nostrils. 
+
+This is your first clue that you are somehow still alive. The second is the glow of candlelight, warm on your eyelids, and the icy stone beneath your back.
+
+Slippers scuff the ground near your head.
+
+"Ah," says an elderly man. "Our mysterious visitor is alive after all. I am glad we waited to feast." He clucks his tongue. "Though you were quite dead when we found you. Open your eyes, child."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Say the word, an' I'll fix that breathing problem," rumbles a man from a greater height than the others.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"You can try."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Open your eyes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You hear a gasp and the quick shuffle of feet away from you. Then a low chuckle from the bigger man. You open your eyes. 
+
+Despite the glare of the dim candles - which seem, at least momentarily, as bright as sunlight - you see a cluster of robed figures. Only the old man remains where he was, clasping his hands together with unfiltered delight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Despite the glare of the dim candles - which seem, at least momentarily, as bright as sunlight - you see the robed figures recoil, shout, and step back. Only the old man remains where he was, clasping his hands together with unfiltered delight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>At first glance, it would be easy to assume that the old man is dying of some wasting disease... or starvation. He is little more than a too-tall skeleton wrapped in translucent flesh and a tattered robe. His hands are essentially bony claws.
+
+And yet... he beams at you, his sunken eyes glittering with suppressed laughter and feverish life.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>He smiles at you. His sharpened teeth are a muddy brown.
+
+"Why, I know you! So many eyes have lingered on that tattoo. That noble brow." He reaches for your forehead with a shivering, skeletal finger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Let him touch your forehead. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>His fingertip traces a hot line over your tattoo.
+"Yesssss," he says. "Now I remember."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Old Cirisa once saw you out of the corner of her eye. A week before his accident, Ulori-mar sold you a small bag of..." he breathes, closing his eyes. "Sugar-dusted almonds. But those aren't the only two. No. You drift through countless lives, altering and ending them. Never leaving a name! Never *dying*!"
+
+He draws in his breath. "Oh, I can't stand mysteries. Love them, but can't stand them. And so, I *must* ask you for a simply unthinkable favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Bat his hand away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>He steps away from the arc of your blow, smiling. 
+
+"I'm very sorry," he says. "I rarely deal with the living. Corpses are not quite so bashful."
+
+He flaps his hands at you. "I remember you now, of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"You may have suspected that we were going to eat you," he says, raising a bony finger. "This is somewhat true. But only so that the wonders of your life would not be lost."
+
+He looks down bashfully. "And now that we know you cannot die, well... would you do us the honor of letting us eat you? Just a little bit? If you do, we will share some of our deepest mysteries - and yours - with you!"
+
+He folds his hands. "And we'll pay you, of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"All right. Let's get this over with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I'd rather not be eaten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Imbitu and his followers lean over you in well-orchestrated unison, cutting slits in your flesh. Hoses dangle from their wrists, leading into their suits. They snake, seemingly of their own accord, into your incisions. 
+
+For a moment, nothing happens. Then, you hear a faint whirring as spinning blades grind your organs, and suck the pulp up through the hoses. 
+
+Someone is screaming, and you have a fairly good idea who. Eventually, mercifully, you die.  
+
+{SOUND: Disgusting hose suction/slurping and crunching sounds.} 
+{SOUND: PC screams.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>After an indefinite amount of time, you open your eyes. Imbitu sits beside you, reading a book. 
+
+"Ah!" he says, setting it down. "Welcome back! What an *exquisite* experience that was... though I'm certain you don't need to hear about it while you're waking up!"
+
+He beams. "At any rate! I took the liberty of adding a token of our gratitude to your belongings. Do come speak to me whenever you're ready to discuss what we learned from our little feast." 
+{LOOT}
+{GAVIN and GEORGE: Add the following information later in the project, given time: The Dendra might also refer to some of the experiences the player has had so far in the game (since they will have acquired some of the player's memories) and could make suggestions about (for example) things the player missed. . Additionally, Imbitu invites the player to learn the mysteries of the cult - if the player is interested, he should speak to Imbitu in private. }</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Of course," he says, raising his hand. His followers step away, looking disappointed. "Do let me know if you change your mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Do take your time getting to your feet. I would imagine you're quite dizzy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Now, if you happen to have another... er, semi-fatal accident, rest assured that we will bear you back to our chapel as tenderly as a bag of baby birds."
+
+He pats your hand gently. "And you have my word that we won't take so much as a *nibble* without your permission."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Bank 29</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"One other thing. You are in our chapel in the Underbelly. If you still wish to find the Cult of the Changing God, you'll find them in Circus Minor. Cross the main cavern of the Underbelly and take the tunnel at the far side."
+
+He winks. "Apologies for eavesdropping on your plans, but our meal was *quite* informative."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Open your eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Groan. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Despite the glare of the dim candles - which seem, at least momentarily, as bright as sunlight - you see a cluster of robed figures. Only Imbitu remains where he was, clasping his hands together with unfiltered delight, his teeth brown and jagged. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>There are others figures in the room. They gasp, staggering away from where you lie. 
+
+Not Imbitu. He leans closer. You crack your eyes open in time to see his smile widening, displaying jagged teeth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"I *knew* that you were special," he whispers. "So many eyes have settled on that face. Moving through the crowds, chin high and proud, sunlight kissing that wonderful tattoo."
+
+He reaches out a trembling finger towards it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Don't touch me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Let him trace your tattoo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Grab his wrist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>You snag his frail wrist and push it away. It should have hurt him, or at least surprised him. 
+
+It doesn't. His grin only widens.
+
+"I'm afraid I must ask you for a simply *unthinkable* favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Of course," he says, lifting his finger. Then, he glances at you sidelong, almost shyly. "I'm afraid I must ask you for a simply *unthinkable* favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>His feverish skin traces over yours, leaving a burning trail. And he smiles. 
+
+"I'm afraid I must ask you for a simply *unthinkable* favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ah, he's alive again. Welcome back."</DefaultText>
+      <FemaleText>"Ah, she's alive again. Welcome back."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Bank 43</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Who *are* you people anyway?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Who are the Dendra O'Hur, and why does being one make *eating* me all right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Oh! Yes, I suppose it must seems strange that a group of strangers is asking to eat your flesh. We are the Dendra O'Hur."
+
+He smiles, as if this answers your question. "Now, shall we get down to it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"That is a good question," Imbitu says gravely. "But I'm afraid we are quite hungry. So if you will not give us your permission, we must carry on to the next corpse. "
+
+He giggles. "Unless *they* are immortal as well!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Who can say? It's always such a *surprise*," he says. "And I expect grand surprises in your case."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"What sort of mysteries do you expect to learn from eating me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"One other thing. You are in our chapel in the Underbelly. If you'd like some fresh air, Circus Minor is lovely this time of day, and home to the Cult of the Changing God. Fascinating bunch, but a little on the, er, unsteady side." He says the last part out of the corner of his mouth, exposing brown, sharpened teeth.  
+
+"Cross the main cavern of the Underbelly and take the tunnel at the far side."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Oh, and I almost forgot!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"You're going to make me fight my way out of here, aren't you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Wait patiently. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"What?" The old man giggles. "Oh, yes. Trapped in the cannibal's cave! Daring escapes by torchlight! *Delightful*. No, no. Just something else I forgot to mention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"A woman brought you here. Messy hair. Lovely mask." He leans in still further, lowering his voice. "Do you know, I think she *killed* you?"
+
+"She left you a little message in case you should awaken. At the time, I thought her mad." He giggles. "Let me think. Ah."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Imbitu closes his eyes and recites Tol Maguur's message from memory. "'I could have destroyed you. Remember that. Don't come looking for me or the girl. You won't see either one of us again.'"
+
+Imbitu frowns. "Oh dear. That does sound rather grim, doesn't it? What an unpleasant person." He pats your knee with a bloodstained hand. "Well, today is a new day, and all that. On your feet!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>::cheerful humming::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Imbitu closes his eyes and recites Tol Maguur's message from memory. "'I could have destroyed you. Remember that. Don't come looking for me. We won't see each other again.'"
+
+Imbitu frowns. "Oh dear. That does sound rather grim, doesn't it? What an unpleasant person." He pats your knee with a bloodstained hand. "Well, today is a new day, and all that. On your feet!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Death. The stink of it, of dried blood and rotting flesh, fills your nostrils. 
+
+This is your first clue that you are somehow still alive. The second is the glow of candlelight, warm on your eyelids, and the icy stone beneath your back.
+
+Slippers scuff the ground near your head.
+
+"Gather around, children," an elderly man says. "Gather for the feast." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[This concludes the third Alpha Systems Test. Thank you for playing. Please send us your thoughts via the in-game feedback button.]
+
+[Stay tuned for a beta release in the near future!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"I hate to interrupt, Imbitu, but I need some words with our... *friend* here."
+
+He takes your sleeve. "Look, Qorro's gang killed you. Callistege wasn't interested in waiting around for you to get back up, and she scarpered before Qorro's toughs could ask her to carry your body away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Probably ran back to her friends at the Order of Truth. Laughing about the mess they got me in. Anyway. She's abandoned you - us - and I gave her some parting words that should keep her from crawling back later. And good riddance." He smiles grimly.
+
+"Anyway. We should be going to see the Cult of the Changing God, up in Circus Minor. If anyone would know how to repair the resonance chamber, it'd be them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Let's go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Sharing knowledge? Yes, go ahead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>You rise through the dark, through the crackle of healing bone, the whisper of mending flesh. Beyond that grotesque symphony, you hear the faint voice of a child calling for help. But it is too far away to understand the words.
+
+You open your eyes. Imbitu, the elderly leader of the Dendra O'Hur, is inches from your face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Welcome back, welcome back," he says. "A woman left you with us. Messy hair. Lovely mask." He leans in still further, lowering his voice. "Do you know, I think she *killed* you?"
+
+He straightens. "She left you a little message. Let me think. Ah."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Imbitu closes his eyes and recites Tol Maguur's message from memory. "'I could have destroyed you. Remember that. Don't come looking for me or the girl. You won't see either one of us again.'"
+
+Imbitu frowns. "Oh dear. That does sound rather grim, doesn't it? What an unpleasant person." He pats your knee with a bloodstained hand. "Well, today is a new day and all that. On your feet!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>::cheerful humming::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Imbitu closes his eyes and recites Tol Maguur's message from memory. "'I could have destroyed you. Remember that. Don't come looking for me. We won't see each other again.'"
+
+Imbitu frowns. "Oh dear. That does sound rather grim, doesn't it? What an unpleasant person." He pats your knee with a bloodstained hand. "Well, today is a new day and all that. On your feet!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Aligern grumbles beneath his breath, but doesn't intervene. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Callistege's eyebrows rise, but she says nothing. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Erritis stares between the two of you, clearly confused by what's about to happen. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Matkina folds her arms, an unreadable expression in her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Rhin claps her hands over her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Tybir's wide grin falters when he realizes you aren't joking. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"If you're done being dinner, can we go now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Thank you for the opportunity to watch the Dendra at work, dear. What a singular experience."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Let's get out of here before you decide to be dinner again. That really was very careless of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Sure you don't want to stick around, brother? They might get hungry again."</DefaultText>
+      <FemaleText>"Sure you don't want to stick around, sister? They might get hungry again."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"I can't believe you let them *eat* you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"I'm not averse to strangers nibbling on my tenders, but I think you took that too far, lad."</DefaultText>
+      <FemaleText>"I'm not averse to strangers nibbling on my tenders, but I think you took that too far, lass."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Now, if you're done letting people snack on you, let's go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Squinting at you with apparent concern, Oom tugs at your ankle, eager to leave. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Oom stares at you, eyes widening until they practically overlap. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

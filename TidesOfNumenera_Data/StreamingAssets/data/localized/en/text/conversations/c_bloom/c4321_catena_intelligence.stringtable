@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4321_catena_intelligence</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>116</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Bereft of its power source, the containment device no longer glows. The control panel is dark and unresponsive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>A pale blue light pulses gently. The air in this space feels charged, almost solid. A small glass control panel - apparently hovering in the air - winks with light and fills with tiny images.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You approach the control panel, and the ghosts materialize from the air again, clustering about you in silent need.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>You raise your hand to touch the panel. Before you touch it, ghosts materialize around you, crowding you with their intangible presence, with their *need*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The nearly-transparent varjellen speaks. "What do you intend with this? Suffering will come if you persist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The woman points to herself and says, "Ahn. These others are Torcra, the varjellen. Bndari and her companion, Methanwi." She gestures.
+
+"We do not exist because we are dead, crushed to death in the crash. We are projections of..." (and now the voice changes) "...my memory. I am the catena's intelligence. These projections are the memorial of my failure to serve my passengers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Your power will not last forever here. Transferring your knowledge to my mind will ensure the survival of your memories."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Ceredig's ghost reflects. "You.. you may be correct. The loss of physical place may be rectified through a longer and more personal memory space. I carry a neural network. Let us establish a direct connection. I have the necessary tool."
+
+A hidden panel slides open. Within lies a vaguely head-shaped mass of metal wire, all spines and jagged edges.
+
+"Place this atop your head," he murmurs. "A few more moments, and we can begin the data transfer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Ahn steps forward. "The procedure seems dangerous. The possibility of failure during transfer is great. We know of few cases where such an interface has been successful. Perhaps it is best if we decline."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"If such a thing is truly possible," says the ghost of the varjellen, "then our duty to the task of memory is clear. How soon can you effect the transfer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The man, Anstoll, speaks for the catena as he demurs. "The loss of physicality is risky. What do we gain by entering a mind? Loss of public exposure for the legacy of one mind? If disaster befalls you, history will forget us all, with no recovery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Do you know that one of the passengers survived? A woman named Qianne still lives nearby."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>The projections speak at once. "My external sensors were destroyed. Some passengers were ejected. Calculations suggested that none could have survived such an event."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Why would you create a memorial for your passengers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Another ghost steps forward. "I retain memories of my passengers' actions. I watched them live. I felt them die within me. What else can I do but provide a memorial for them? They would have lived for many more years, were it not for my failure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Ignore the ghosts and interact with the control panel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>With the catena's intelligence gone, your work proceeds quietly and quickly. You slide the containment device open. Inside the glowing blue tube, you see a rack of ten cylinders. Nine of them are cold and inert, but one of them hums and blurs, a barely perceptible vibration as it fades into and out of this reality.
+
+You gently remove the clamps that hold the powered cylinder in place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The lights wink out. A deep, almost-ultrasonic moan ripples down the catena's walls as the power within the tubes and wires flickers away. An alien voice babbles something over a small speaker near the control panel.
+
+You are left standing in darkness. Everything around you is quiet and still.
+
+{SOUND:  We're currently shutting down the lights here, but might want some SFX to go with it.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You study the control panel carefully. If the catena were in motion, you suspect it would convey much more information than is currently available. As it is, you're able to see that it has traveled to thousands of destinations along a route that follows specific dimensional pathways, on a circuit that - if you're reading this right - reached through the stars.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Eject the power core.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>You ignore him and press another icon. Lightning begins to dance across the panel. If you're not careful, you might get hurt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Continue the process of ejecting the core, working around the arcs of electricity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>It appears that the arcs fire in a complicated pattern, but a few moments of regarding that pattern settles it in your mind. Your fingers dart in and out until at last you manage to complete the process. 
+
+The power core has been ejected from the assembly. Now you need to move it into the containment unit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>After some intense studying, you come to the conclusion that the icons on the panel indicate that the power core remains outside its housing assembly. You'll have to transfer the core to its containment unit before you can remove it. 
+
+A tiny image flashes in the top right corner of the panel. It depicts a broken connection between the control panel and its power source. You won't be able to make that transfer until the control panel receives more power.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Divert power back to the control panel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You tap the broken-power image. The old icons disappear, and a new screen of options appears. You study it carefully. One of the images shows an alien claw swiping through a complicated series of gestures at the panel, and then pushing an icon that looks like a wave.
+
+You imitate its motions, and the panel winks back to full functionality.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>With power restored, the instructions suggest only one step remains to complete the core transfer: remove the containment unit.
+
+But the column of light has locked it in place.
+
+The catena seems to be trying to stop you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The instruments on the panel suggest that the power for the catena is currently housed in the containment unit. The flashing red icon further suggests that the ejection sequence for the containment unit appears to have failed. It seems its holding field hasn't faded, and the field holds it tight. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Force the containment unit out of the pillar of light.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>You rock the unit back and forth, slowly pushing it through the coherent light. At last, you manage to angle it out of the plume. You pull it free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>It is as if you look down upon a billion stars swirling around holes of pure *emptiness*, a darkness deeper than anything you have seen before. You see red lines shift toward infrared and then blackness, and then the holes burst open in a fountain of brilliant white. The foundation scatters stars that circle around new holes, fade to black, and the cycle repeats. 
+
+The catena seems to run on collapsing singularities.
+
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Try as you might, you're unable to dislodge the containment unit. Eventually you step back in frustration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>You rock the unit back and forth, slowly pushing it through the coherent light. At last, you manage to angle it out of the plume of light. You pull it free. 
+
+As you extract it, your elbow somehow strikes a hidden release, and a panel slides open. Some interesting devices are inside, and you slide them into your pouch as you remove the containment unit.
+
+{SCRIPT:  Provide item.}
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>You rock the unit back and forth, slowly unseating it, until you manage to get it angled in such a way that you can slide it out of the column of light. 
+
+But as you begin to pull it out, you manage to trip some failsafe, and the light hardens, pulling the unit from your fingers and snapping it more firmly into place.
+
+{SCRIPT:  Provide a negative asset to reattempting this task or attempting to pick the lock.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Disable the containment field.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Leaning close, you study the icons and symbols, trying to ascertain their meanings. It looks like you need to enter information in the proper order. You settle in for applied experimentation.
+
+Slowly, methodically, you uncover the correct sequence. You enter it, and the containment field winks out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>You poke randomly at the unfamiliar icons on the control panel, but you fail to produce any useful results. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Leaning close, you study the icons and symbols, trying to ascertain their meanings. You're certain that some of these icons have hidden meanings - some sort of higher-frequency light, or a subsonic pulse - that will unlock the secret. With slow, careful experimentation, you uncover the correct sequence. You enter it, and the containment field loosens its grip.
+
+Another panel opens, revealing a strange device. You release the enclosing field and pick up the device.
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>You repeatedly try to find a way to retract the unit, but your unfamiliarity with the control panel means that you're unable to take advantage of your fix to the power drain. The control panel begins to lose power once more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>You poke and prod at the control panel. Nothing. Next you search around for visible wires or connections that might indicate a way to redirect power. Perhaps there's a way to bypass the power source and get the control panel fully functional, but you're completely at a loss.
+
+You realize the ghosts have been silent. They are staring fixedly at the panel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>As you poke at the control panel, you somehow activate a sequence that not only restores power to the panel, but that replaces the power core into the containment unit and ejects the unit itself. You reach in and remove the device from the tube.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Despite your efforts, the control panel's power goes out completely. A soft female voice speaks: 
+
+"Improper access attempted. For safety reasons, the power core has been returned to its original assembly. Please wait before interacting withi this panel again."
+
+After a short time - and a number of sounds that you can only describe as *ominous* - limited power returns to the control panel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>The small arcs fire in a complicated pattern, and you find it difficult to understand them. You keep putting your hands in the wrong places, or not pulling them away quickly enough. You finally manage to finish the sequence, but you take some minor burns.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>You assess the firing pattern of the arcs and quickly enter the ejection sequence for the power core. It seems like a very intuitive process. 
+
+A moment later, you see a new icon light up. Apparently, the power core has been ejected from the main assembly and now must be tranferred to the containment unit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>While working, you suddenly receive a nasty shock, forcing you away from the controls.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Walk away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I may have a way to give your passengers a more lasting memorial. I carry a shared mindspace in my psyche. If we can link our minds, we could preserve the memories of your riders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>One of the ghosts - Bndari, you think - says, "In your mind." It's not a question. "None of my medical records indicate such a thing is possible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Nothing happens as you step up to the control panel. The catena interior is quiet except for the hum of the machinery.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Bank 57</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"The mutants will scavenge this place for parts. Eventually they'll take your power source... and your passengers will be gone forever."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Bank 60</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Place the jagged crown atop your head and attempt to absorb the catena's intelligence into your Labyrinth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Don the neural net and try again to absorb the catena's intelligence into the Labyrinth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Telemetry, destination, access to old records, ambient temperatures... it's almost too much to process, but you manage to tamp down the overwhelming flow and relegate it to the background.
+
+One by one, the ghosts around you begin to wink out of existence. You feel them awakening inside you.
+
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>You place the net atop your head again. This time, you steel yourself against the intrusive wires, and they probe behind your eyes. They strike into your optic nerves, and the agony is intense. 
+
+You catch flickers of strange stellar formations, a wormhole piercing a dark and violet field in the sky, a lush explosion of life behind the hurtling catena...
+
+... but the strain of attempting to join this mind with yours begins to tell - a lancing bolt of pain tears your concentration asunder. You give up, panting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>You place your hands on the catena's core and open the Labyrinth to it. You can feel its memories spilling into the Labyrinth: millennia of passengers, few of them human - at least not in any form you recognize - dimension upon dimension of strange worlds at your feet. You absorb the passengers, and feel them alive again in the Labyrinth even as their ghosts wink out around you.
+
+And you know that one of them has something to tell you.
+
+{GEORGE/ADAM: We need to figure out what this cool thing in the Labyrinth is}
+
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Images of the catena's headlong flight through dimensions erupt in your skull. You revel momentarily in the motion, an involuntary reflex as you recognize the catena's mind alongside your own. It regards you as well, momentarily distracted, and in that critical moment you see a wall of Bloom-flesh rising before you. You plow into it, and you feel your innards explode.
+
+You silently scream as pain erupts in your mind. You tear your mental self away before you do any more damage.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Remove the power source from the containment device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>As you step away from the control panel, the ghostly people vanish one by one, winking from existence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Leave the device alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>The lights in the catena flicker and dim, fading slowly as the residual power within them expires. The further lights go first, darkness marching along the catena toward the power source. 
+
+{SOUND: This could use a powering down sound played here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Can you speak to me? I have questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"We can answer, if we deem the questions worthy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText> Follow-up T. 73</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>The ghosts return, thronging around you, trying to draw your attention away from the panel.
+
+"No."
+"Stop."
+"What will become of us?"
+"Leave us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Bank 76</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Attempt to eject the core again, being mindful of the electricity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Bank 79</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Try to figure out a way to disable the containment field again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Try to divert power back to the control panel again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Bank 85</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Try to force the containment unit out of the containment field again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"I am... grateful... for this information." The catena's voice is subdued, almost pensive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>The other man takes up the thread of the conversation. "I am Ceredig, a merchant-noble. I was on a pleasure cruise and sought to expand my business. Neither do I exist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"I was endowed with a desire to pilot the catena, to cause my passengers to arrive safely. This is denied to me. My secondary objective is retaining the knowledge and memory of the circumstances leading up to and surrounding their deaths. This will aid in reconstructing the events of the crash, and may provide solace to their survivors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Bank 91</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Who *are* you people?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Tell me about these ghosts again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Bank 94</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>One of the men, his fine clothes looking slightly disheveled and stained, looks at you for a moment, as if weighing whether to tell you the truth. At last, he says: "I am Anstoll. I do not exist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>The varjellen answers your question. "We have told you already. We are the projections of - " the voice changes, continuing, " - my  machine mind. They exist now as a memorial to the fallen passengers, a testament to my own failure to save them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Until such time as a qualified diagnostician arrives, I cannot permit my cores to go dormant. Instead, the emotion I quantify as 'grief' powers my display."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Her partner Methanwi adds, "However, I concede that my knowledge is incomplete. If it is possible... but no. My duty is to keep the passengers' memories alive here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Place the net atop your head and force a connection to absorb the catena's memory.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>You push the net down over head, and it drinks of your blood again. This time, as the wires enter your optic nerves, you open yourself to the Tidal forces. You reach across the human/machine connection and draw the catena's data structure into your shared imagination.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>A welter of images rushes into your head. Telemetry, destination, access to old records, ambient temperatures... it's almost too much to process, but you manage to tamp down the flow and relegate it to the background.
+
+One by one, the ghosts around you begin to wink out of existence. You feel them awakening inside you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>The lights in the catena flicker and dim, fading slowly as the residual power within them expires. The further lights go first, darkness marching along the catena toward the power source. As the slow wave of darkness builds, it snatches the ghosts into oblivion as well.
+
+{SOUND: This could use a powering down sound played here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>You study the panel again, and its images again come to life.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>The ghosts of the passengers crowd around you, and though they cannot touch you, they can distract you. Light shines into your eyes, voices fill your ears, and all of them whisper and urge you to stop what you intend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>The panel brings up a wealth of information about the catena's systems in the form of tiny animated images. One of the icons appears to initiate the sequence to eject the catena's power core.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>You press the icon. Immediately, a host of other icons spring to life. From what you can tell, multiple steps must occur before the power core can be removed. You'll have to draw the power source from the assembly, direct it into a containment unit, and then cause the containment anchors to release. Then you can extract the unit from the machine. It seems like this should be fairly straightforward, if laborious.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>The varjellen ghost interposes itself. "We are concerned. We ask you to reconsider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>The ghosts return, thronging around you, trying to draw your attention away from the panel.
+
+"No."
+"Stop."
+"What will become of us?"
+"Leave us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>You start that transfer sequence, but suddenly the control panel goes dark. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>As you complete the ejection, you notice that power is quickly draining from the console. You quickly isolate the source of the electrical arcs to divert power back into the panel. 
+
+With that out of the way, you quickly transfer the core into the containment unit. Now you just need to remove it.
+
+... but wait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"I have questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"I have more questions for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>The woman nods her head slightly. "We can. We can answer, if we deem the questions worthy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[DEBUG] Just remove the power source, already.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Well, dear, you certainly are full of surprises. Do let me know if your mind becomes a little too crowded, won't you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>You close your eyes and listen to the psychic chatter of the ghosts... and then you realize that they have no thoughts of their own. They are being controlled from a central point.
+
+You focus your thoughts at the core, but its psychic defenses are impenetrable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"We must refuse." The voice seems to come from the air around you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>You place the net atop your head, and the metal cuts into your scalp. You feel a coolness as blood trickles upward into the device. Thin wires enter your peripheral vision and slip behind your eyes. They slice into your optic nerves, and the agony paints blossoms across your vision. The ragged shapes of pain resolve into the world around you - the world as the catena sees it. 
+
+"Connection established," the catena announces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>You are unable to make the connection - your mind and the catena's slip past each other, and you give up in frustration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>You lower the cage onto your head, and the jagged points slash into your skin. The net devours your blood. In the periphery of your vision, you see two thin wires. You barely manage to get your hands up in time before they puncture your eyes. You shake the net loose from your head.
+
+The catena's tone is chiding. "You have refused the connection. I assure you, no harm will come to you if you follow the proper procedures."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>The ghosts thicken around you. "You will doom us to oblivion."
+
+Under their voices, a stronger undercurrent thrums, a subsonic pulse that quivers in your gut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>The ghosts shimmer and whisper, and they distract you from your task.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>You're unable to figure out the pattern, and after staring at it for a while, you give up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>The icons of the control panel mean nothing to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Please stop," the ghosts whisper as one. "Please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>You open the containment unit, revealing a single functional power source. The others are silent and dead. You examine the active power supply more closely, and a sudden shift in perspective leaves you nauseous. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>You sense Oom flinching - either beside you, inside your head, or both.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

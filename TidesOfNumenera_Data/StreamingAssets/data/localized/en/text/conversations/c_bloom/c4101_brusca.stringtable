@@ -1,0 +1,1158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_brusca</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>223</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This woman's face is lined with worry, though her thick build suggests that she could snap a spear in two without much effort. She continually glances toward the tunnel leading out of the courtyard, as though she hopes to see somebody.
+
+She runs a hand through her short, graying hair and mutters, "Gods."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I came across one of your patrols in Little Nihliesh, but they were wiped out by some angry mutants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"What? No!" She thrusts her hands into her hair and turns away. "Gods damn those savages. As if I didn't have enough problems."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Brusca tears her gaze away from the courtyard tunnel and glares at you. "You need something? I don't have time to play the guide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"She's someone you don't want to cross, like me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Brusca nods as you approach. "Well met. You need something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"What can you tell me about the Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Brusca looks over to where Coty is standing. "He's just a boy! I'd be afraid of getting him killed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Brusca stares at the boy, grimacing. Finally she nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Sorry, I just can't do it." She shakes her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"If you take him, I'll give you [Global: c4101_BruscaCotyEquipmentPrice] shins for his equipment."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Brusca rubs her chin thoughtfully. "That *would* make things easier, I admit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Brusca looks over to where Coty is standing. "He's young... though he does seem to carry himself well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"That was you? They told me what happened. You have my thanks and theirs. Here, the men agreed you deserved something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Brusca raises an eyebrow. "So you're the one. Yes... you match the description Akin gave me. He stumbled back here a while ago, Zebbak nearly unconscious on his shoulder. Thank you. Here, take this. It's not much, but I owe you something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I found your men in the old slave block, but they were dead already."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Brusca grinds her teeth. "Murdens. I don't suppose you slaughtered them all while you were down there, did you? It doesn't matter. There always seem to be more. I can't see how we'll *ever* be rid of them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Brusca raises an eyebrow. "So you're the one. Yes... you match Akin's description. He stumbled back here a while ago. I wish you could've saved the rest, but..." She sets her shoulders. "Thank you. Here, take this. It's not much, but I owe you something."
+
+{SCRIPT: Give reward.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"That's both my patrols you've rescued. I don't know what we did to earn your help, but I'm truly grateful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"That's both my patrols you've rescued. I am truly grateful. I don't know what possessed you to step in the way like that, but I owe you my thanks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"I found one of your patrols in the old slave block. They're being held captive by murdens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Brusca turns on you, wide-eyed. "They're alive? What happened? Where are they now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"That's both patrols accounted for, I suppose." She takes a deep breath and looks at the tunnel one more time, as though still willing her Little Nihliesh patrol to return. "I owe you my thanks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"That's both patrols accounted for, I suppose." She takes a deep breath and looks at the tunnel one more time, as though still willing her men to return from the old slave block. "I owe you my thanks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"That's all of my men accounted for, I suppose. Gods *damn* them." She takes a deep breath and lets it out slowly, looking at the tunnel one more time as though willing her men to return. "So that's over."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Well, you have my thanks, anyway. All my men are accounted for, and some of them even still live." She sighs, her massive shoulders drooping. "That's something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Well, you have my thanks, anyway. All my men are accounted for, and some of them even still live." She sighs, her massive shoulders drooping. "That's something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"That's all of my men accounted for, I suppose. Gods *damn* them." She takes a deep breath and lets it out slowly, looking at the tunnel one more time as though willing her men to return. "So that's over."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"That's both patrols accounted for, but..." She rubs her forehead and looks at the tunnel. "I know it's not your business, but I can't spare the guards. Please, you found my men in the slave block. If you can help them, I'd be in your debt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"I found both of your patrols, but I couldn't save them. One died in the old slave block, the other in Little Nihliesh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"What? Both? But..." She thrusts both hands into her hair and turns away. "Gods *damn* this place." Her shoulders lift and sag once, then she straightens herself and returns to you. "Thank you for the information. Here's a small reward for your trouble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>She gives you a wry grin. "It's that obvious? I nearly lost two patrols recently. Thankfully most of them came back safe, but I..."
+
+She eyes you up and down suddenly. "You... My patrols gave me a description of a man who helped rescue them - sounded like the same man in both cases. It sounded like you, actually."</DefaultText>
+      <FemaleText>She gives you a wry grin. "It's that obvious? I nearly lost two patrols recently. Thankfully most of them came back safe, but I..."
+
+She eyes you up and down suddenly. "You... My patrols gave me a description of a woman who helped rescue them - sounded like the same woman in both cases. It sounded like you, actually."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Yes, that was me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>(Lie) "No, that must have been someone else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Well, I'll be damned." The lines on her face soften somewhat, even though there's still stone underneath. "I owe you thanks, I suppose. I can't give you much in the way of favors, but take this. It's something the men got off the murdens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Really?" She scrutinizes you once more, apparently unconvinced. Finally she shrugs. "Well, I'm grateful to whoever it was, as are my men and their families. Hopefully karma will have something to say to that man."</DefaultText>
+      <FemaleText>"Really?" She scrutinizes you once more, apparently unconvinced. Finally she shrugs. "Well, I'm grateful to whoever it was, as are my men and their families. Hopefully karma will have something to say to that woman."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"I found one of your men alive in the old slave block and your patrol in Little Nihliesh. They're all right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"I found two of your men alive in the old slave block and your patrol in Little Nihliesh. They're all right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Your guards killed a slave of mine, a boy named Coty. I demand compensation for him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Brusca snaps her fingers, and her fellow guard produces a sheaf of papers and hands it to her. She spends a few minutes flipping through it before stabbing one page with her finger. "Coty. Robust young man, about twenty years old? Yes, my men reported his crime and subsequent end. My apologies for your loss, sir."</DefaultText>
+      <FemaleText>Brusca snaps her fingers, and her fellow guard produces a sheaf of papers and hands it to her. She spends a few minutes flipping through it before stabbing one page with her finger. "Coty. Robust young man, about twenty years old? Yes, my men reported his crime and subsequent end. My apologies for your loss, ma'am."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>She gives you a wry grin. "It's that obvious? You'd be worried too if you had two patrols go missing and you were stuck on guard duty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"What can you tell me about yourself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"I rescued one of your men from the old slave block."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>She gives you a wry grin. "It's that obvious? You'd be worried too if you had a patrol go missing and you were stuck on guard duty. I *should* be glad that my Little Nihliesh patrol got back safe, but I can't be, not while I still have men missing out there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>She gives you a wry grin. "It's that obvious? You'd be worried too if you had men out in the Bloom while you were stuck on guard duty. I guess I should be glad that *anybody* came back alive from the old slave block, but I can't be. I lost a lot of good people, and I still have another patrol missing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"You look worried about something. What's wrong?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"I need to see the Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>She spits a bitter laugh and mutters to herself. "This is just what I need. Two patrols missing, and I'm stuck here playing bouncer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>She spits a bitter laugh and mutters to herself. "This is just what I need. One of my patrols is missing, and I'm stuck here playing bouncer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>She spits a bitter laugh and mutters to herself. "This is just what I need. One of my patrols is missing, and I'm stuck here playing bouncer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>She spits a bitter laugh and mutters to herself. "This is just what I need. My patrols are coming in late, and I'm stuck here playing..."
+
+She stops mid-rant and eyes you up and down. Her brow furrows. "Hold on. You're not the one who helped out my patrols in the old slave block and Little Nihliesh, are you? You almost match the descriptions they gave me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"I rescued two of your men in the old slave block."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"I found one of your patrols in Little Nihliesh. They were about to be killed by some angry mutants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I found your patrol in Little Nihliesh. I also found your men in the old slave block, but I was too late to save them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"I found one of your men in the old slave block. I found the patrol in Little Nihliesh as well, but I couldn't save them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"I found two of your men in the old slave block. I found the patrol in Little Nihliesh as well, but I couldn't save them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Do I look like I'm just standing here for your amusement? Find someone else's history to learn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"One of your patrols was killed by angry mutants in Little Nihliesh. I found the other captured by murdens in the old slave block."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"One of your patrols was in Little Nihliesh. I helped save them from a pack of angry mutants. The other patrol is held captive in the old slave block."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"I convinced them to sit tight until I could figure something out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>She sticks her tongue into her cheek in thought. "It won't be long before they try again. My men aren't the type to wait around, not if it's a choice between death and *maybe* death. They're not your men, I know, but you got down there once. See that they come home, and I'll be the one who owes you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"So it was you?" Brusca sizes you up anew. "Yes, you match their description. I'm in your debt, it appears. Take this. It's not much, but it's what I can give."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"So it was you?" Brusca sizes you up anew. "Yes, you match their description. I'm in your debt, it appears. Take this. It's not much, but it's what I can give."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"What? All of them? Damn those murdens." She looks at the tunnel again, as though willing her men to return. "Yes, the Nihliesh patrol told me what you'd done. You have my thanks for that. Here, it's not much, but it's what I can give."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"You mean the mutants...? *Damn* those savages. They're growing too arrogant." She looks at the tunnel again, as though willing her lost patrol to return. "Well, you've saved one and accounted for the rest. I owe you thanks. Here, it's not much, but it's what I can give."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"You mean the mutants...? *Damn* those savages. They're growing too arrogant." She looks at the tunnel again, as though willing her lost patrol to return. "Well, you've saved two and accounted for the rest. I owe you thanks. Here, it's not much, but it's what I can give."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>She purses her lips into a thin line. "I can't say I'm happy to hear this news. Listen, I know it's not your business, but I don't have the guards to spare. Please, go back to the old slave block and save whoever you can. I'll be in your debt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Yes, I heard what happened in Little Nihliesh. Thank you for you help. Listen, I know it's not your business, but I don't have the guards to spare. Please, go back to the old slave block and save whoever you can. I'll be in your debt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"I've been in the Memovira's service for years, ever since she first came into power. She's not one to mess with, let me tell you. She'll squash anyone in her way just to keep things 'tidy.'"
+
+She gets a faraway look in her eyes. "At least that's how it used to be. Things are different now. The Bloom's acting strange, and even some of the gangs are getting out of control. Never cross the Memovira... but these days it seems there are plenty of others you shouldn't cross either."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"You said the Bloom is acting strangely?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"The gangs are out of control? Can you tell me something about them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"In decreasing order of trouble, there's the murdens in the old slave block, the mutants of so-called 'Little Nihliesh', and Artaglio and his freeloaders - I mean 'mercenaries'. All of them are more work for me and my men."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Bank 116</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Tell me again about the Bloom acting strangely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Bank 119</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Tell me about the gangs again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Brusca barks a short laugh. "No, you don't. Do you think I wouldn't have heard? She doesn't want to see you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"I guess with those headaches out of the way, I can focus on more important matters now." She adds under her breath, "Important to some, anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Bank 129</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"You said you had other important matters to focus on?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Tell me about the Memovira and the Bloom again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Well, it's not really your business... but then neither were my patrols, and I owe you that much."
+
+She shifts her weight and looks sidelong at the fortress door. "The Memovira... you've probably heard she doesn't leave the fortress anymore. Well, that's because of the way the Bloom's been acting lately. And I think I know what the Bloom's behavior means."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>She shakes her head. "It doesn't matter. Strapped as I am for more guards, I just can't afford to train a recruit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"I want to ask about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"How much would it cost to equip him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>She gives the boy another look, then glances at you up and down while she considers. "[Global: c4101_BruscaCotyEquipmentPrice] shins."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"I told you to keep walking, or didn't you hear me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Finally she takes notice of you. The wrinkles on her face harden immediately. "What are you looking at?" She juts a thumb toward the massive gate behind her. "Nobody gets in the Fortress without permission. I can already tell you don't have it, so keep walking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Walk away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"What am I, a porter? I shouldn't have to put up with this tulk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>She places a casual hand on the hilt of a large blade. "*Nobody* sees the Memovira, not unless you got permission from someone who *matters*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"I have permission to see the Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>(Lie) "I have permission to see the Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"You don't understand. I *need* to see the Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>She makes a brusque signal to the guard next to her. He slips inside the fortress, then emerges almost immediately and nods to her.
+
+"She's ready for you," says Brusca. She gestures toward the gate with the hilt of her blade. "The guards will escort you inside."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"I am afraid *you* don't understand. If you persist in your ignorance, I know of one sure way to get it into your head." She grips the hilt of her blade more tightly and sneers. "Let me know if I'm not getting through to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>::grunts::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"They were about to try and escape, but the murdens would've killed them, so I talked them out of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>(Lie) "I told them you would rescue them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Brusca snarls, glaring at the fortress door. "Would that I could."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Is that so? I hope you meant that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"The Memovira's afraid to leave her fortress at all, and it's because of the Bloom's recent... behavior."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Bank 159</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"The Memovira doesn't *ever* leave the fortress?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Why won't the Memovira leave the fortress again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Bank 162</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"What does the Bloom's behavior mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"What does the Bloom's behavior mean again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Bank 165</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"You said the old Memovira just disappeared?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"What happened to the old Memovira again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"I want to ask about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"What do you want to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Bank 170</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Never, not for months. She's afraid of the Bloom, of what it might do to her. She thinks the closing and shifting of Maws is a message... a warning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"She's afraid of what the Bloom might to do her, based on the way it's been acting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>She lowers her voice. "Do you know how the Memovira came to power? They say the Bloom *helped* her, that it turned against the old Memovira and destroyed him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"I was a kid, just a green mercenary at the time, but I remember the way the Bloom changed. The old Memovira could... well, not control the Bloom - I don't think *anyone* can do that - but sort of coax the Bloom to do what he wanted. Then one day the Bloom just... stopped responding. Maws closed, or reopened in horrible places, and a few weeks later the old Memovira was gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>She juts her chin toward the gate. "The Memovira sees the similarities too and doesn't want that to happen to her, so she's shutting the Bloom out. She doesn't know what to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"It's the same kind of thing that happened just before the Memovira took power - when the old Memovira disappeared."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Bank 177</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"They say the Bloom ate him, but I think it's worse than that." Her voice drops to a whisper. "I've seen him, late at night sometimes, or in the dark corners of the Bloom. An old ghost in rags and a long beard. Maybe I'm crazy, or maybe he isn't really dead." She shudders. "Either way, I don't want to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"They say he was eaten, but I think it's worse than that. I've seen his ghost roaming the Bloom - old and ragged, with a long, tangled beard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Still reading, she says, "Further investigation confirms he was a slave, sold to a man matching your description. However, it appears that he was purchased illegally." She gives you a meaningful look as she hands the papers back to the other guard. "I'm going to consider him a runaway, sir, belonging to no one. I *suggest* you leave it at that."</DefaultText>
+      <FemaleText>Still reading, she says, "Further investigation confirms he was a slave, sold to a woman matching your description. However, it appears that he was purchased illegally." She gives you a meaningful look as she hands the papers back to the other guard. "I'm going to consider him a runaway, ma'am, belonging to no one. I *suggest* you leave it at that."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Bank 181</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"There's a boy over there named Coty. I was wondering if you could give him a job."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Can I talk to you about Coty again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"If you want, but like I said, I don't have enough funds to train a green recruit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Bank 188</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>
+Based on equipment of the other guards you've seen, that's a high number. You suspect Brusca is trying to defray additional costs as well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Bank 190</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"He may not look like much, but he's young and good with his hands. He'll learn fast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Please, reconsider Coty. He's desperate and needs a job that doesn't involve stealing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Bank 193</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"He looks the part, at least. He'll be good for that if nothing else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>She accepts the shins you offered as well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Bank 196</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"He'd just get himself killed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Bank 198</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"People are going to think I've gone soft." She stares at the boy a while, then finally nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>She takes the shins you offered as well. "Equipment's not as much as I said. I don't need all this." She gives you some of the shins back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"At least he looks the part. He'll be good for that if nothing else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Ah, right, I've heard about you from folks in the Cliffs. I guess I can't get away from *you* without answering some questions, can I?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Ha! My contacts in the Cliffs have told me about you. You should learn to think before you get yourself killed. Maybe this'll help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>She furrows her brow, considering. "You're the helping type, aren't you? Hmph. Not *my* type, but harmless I guess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"That's the kind of thing *you* like to do, from all I hear. Find someone else's reputation to compete with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"There's not much to tell, but here goes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Do I look like I'm just standing here for-" She looks at your companions and stops. She sighs heavily. "Yeah, sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Bank 210</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Her eyes linger on Riastrad for a moment, then she begins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Would you mind telling me about yourself now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"But you command the Memovira's soldiers. You're important."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Really? Because Dracogen said you'd be more helpful than this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Ugh, fine, but I'm not repeating myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>She snorts. "If I'm important, then you shouldn't make me angry. No means no."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Something like pity flits across her face. "I guess it can't hurt to waste a couple minutes on you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>She sneers. "That's pathetic. You don't need a guide, you need a doctor. There's a couple over in the Slump I could recommend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"You're smooth, I'll give you that. But no."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Really?" She looks over in Dracogen's direction. "That's new. Fine, but I'm not repeating myself."
+
+{ADAM: This doesn't quite match what's in Dracogen's conversation (where he considers Brusca a "friend").}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"You really expect me to believe that *Dracogen* sent you to me? That slimy son of a nychthemeron doesn't even care what my name is."
+
+{ADAM: See tag on node 221}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Bank 226</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"It used to be that the Bloom sort of favored us because we worked for the Memovira. She seemed to predict things it would do or new Maws that would open, but now? It's dangerous for us to go too deep, else the Bloom itself might swallow some of us whole. That's if we can find our way in the first place. With the Maws closing and shifting like they are, it's a wonder my patrols ever get back to the fortress at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"It's like it hates us. It's becoming more aggressive all the time, shifting Maws underneath us sometimes or just closing off the way home entirely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Too many to tell, but I can list a few you're likely to find nearby. There's the murdens down where the old slave block used to be. We've tried to run them out a few times, but there always seem to be more. Can't figure out why the Bloom doesn't bother *them*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Then there's Artaglio and his bunch. They stay mostly in the Slump. They're not so much a gang as they are a bunch of freeloaders, but they cause enough trouble with the other gangs that they're worth mentioning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"There's the mutants in Little Nihliesh. Let me point out that *they* named the place, like they're trying to make a new Nihliesh right here, with them as the rulers. They didn't used to give us trouble, but they've gotten bolder since the Bloom started acting up. I'm not sure which is worse at this point."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"A soldier? I don't know... Seems kinda *mean* for Coty. Can't we find something else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"It's not like we have many options. Otherwise he'll go back to thievery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"He'll toughen up. He volunteered to be a slave, didn't he?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"You're right, Rhin. We'll find something more suitable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"I guess you're right." Her shoulders fall, and she looks over to where the boy is standing. "Poor Coty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>Rhin doesn't say anything, but she flashes you a smile and squeezes your hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>She notices Riastrad first. "You... you're back? I thought you were..." Her brow furrows, taking in his blank expression. Her lips form a thin line. "I see."
+
+Finally she takes notice of you. "What do you want? You can't get in without permission. I suggest you keep walking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>She places a casual hand on the hilt of one large blade. "That *certainly* won't happen, regardless of whose company you keep." She glances at Riastrad. "Perhaps even because of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"She's someone you don't want to cross." She gives Riastrad a look that could easily be mistaken for pity and adds, "No matter *who* you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Listen, if you happen to see my missing soldiers, I'd appreciate whatever news you can give me. They'll be outfitted like me." She indicates her studded leather armor.
+
+"I'd go looking for them myself but..." She gives a kind of surrendered shrug, leaving her thought unfinished.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Bank 244</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Where should I start looking for your missing patrols?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Where should I look for your patrols again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>Bank 247</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Both of the patrols were tasked with collecting duties from the gangs. They're probably somewhere in the Vast Interior or one of the slums, but I haven't heard from them in some time. Given the nature of the Bloom, they could literally be anywhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Somewhere in the Vast Interior, I hope, or maybe one of the slums. If you don't find them there, I'll be lucky to see any of them again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>Script Node 251</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>Script Node 252</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Script Node 253</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Those damned murdens will *bleed* for what they did..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Where *are* they?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"They should have returned by now..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"I need to have a *talk* with Gar-koto about his people..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"I *should* be out there looking for them..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"That's another report of Maws shifting. Gods, I hope this passes soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"If I find your missing people, will you let me inside?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>She gives you a pitying look. "I don't decide who gets in. I just keep everyone else out. But if you find my men, I'll give you something for your trouble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Do you even know what we do? He's a *boy.* The last thing I need is more blood on my hands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"I would like to talk to the Memovira again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>She lets out a long sigh. "You're new, so I'll tell you this once. The Memovira asked you to do something, yes? Well, you *don't* get to see her until you've done it. No exceptions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Mazzof... I mean Ishen... should have found his way back by now. Is he safe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"So his story was true." She looks you up and down with new admiration. "I admit, I didn't expect to see either of you alive again. Yes, he's safe, and the Memovira is expecting you. She will see you whenever you are ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"I would like to talk to the Memovira again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"Please, can I see the Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>She sighs at length. "You're new, so I'll tell you this once. The Memovira asked you to do something, yes? Well, you *don't* get to see her until you've done it. No exceptions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"No." She doesn't even look at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"You look worried about something. What's wrong?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"I need to see the Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>She places a casual hand on the hilt of a large blade. "*Nobody* sees the Memovira, not unless you got permission from someone who *matters*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"But I *do* have permission to see the Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>She makes a brusque signal to the guard next to her. He slips inside the fortress, then emerges almost immediately and nods to her.
+
+"So it's true! Sorry about that. A lot of chagans here think they've got the shine to see her without an invitation. Most of my job is keeping them out."
+
+She gestures toward the gate with the hilt of her blade. "The guards will escort you inside."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>Script Node 278</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>She shifts uncomfortably. "If it was up to me, I'd let you inside. You've earned it. But I've got orders to keep everybody out... and the Memovira doesn't listen to me like she used to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"I'm ready to see the Memovira now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>She nods. "Follow me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>She gives a surreptitious glance to the other guard and says to you in a low tone. "You should know the Memovira seemed... *angry* that you succeeded. I don't understand it either, but I've seen her like this before. My advice? Take care of any unfinished business you have before you go see her... that's assuming you *have* to see her, of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>Her eyes narrow as she scrutinizes your face. Slowly, recognition dawns.
+
+"*You're* the one she sent after Ishen. So his story was true!" She looks you up and down with new admiration. "I admit, I didn't expect to see him alive again, let alone anyone the Memovira sent after him. You're right. The Memovira is expecting you. She will see you whenever you are ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>She gives a surreptitious glance to the other guard and says to you in a low tone. "You should know the Memovira seemed... *angry* that you succeeded. I don't understand it either, but I've seen her like this before. My advice? Take care of any unfinished business you have before you go see her... that's assuming you *have* to see her, of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"If not, then move along. I have other things to worry about right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Let me know when you're ready to see her. Otherwise move along. I've got enough to worry about."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

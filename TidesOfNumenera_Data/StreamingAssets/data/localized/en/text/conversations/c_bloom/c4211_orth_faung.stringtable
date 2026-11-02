@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4211_orth_faung</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>163</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You see a tall, nervous man, pacing back and forth. His hair is a mess, his clothing stained with food and chemicals. His left eye is an engraved orb of metal, and you hear it whirring from a distance. He casts fretful glances all around the space, as if waiting for someone or something.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Aligern! I heard you were in the Bloom, but I didn't dare come to look for you." He looks around anxiously.
+
+"I had a revelation about your tattoos as I was examining the frame, and if I could just compare the windings of your tattoos with the circuitry of the frame, I could verify my hypothesis... unfortunately, murdens stole the frame and I have no idea where it is. Did you get my note?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>He looks you over nervously, and then his gaze narrows. "You were the one who was traveling with Aligern, yes? I sent him a note, and I heard that he had been seen in the company of a man with a tattoo on the side of his head. If you see him, can you tell him that his colleague Orth Faung has some intriguing news for him?"</DefaultText>
+      <FemaleText>He looks you over nervously, and then his gaze narrows. "You were the one who was traveling with Aligern, yes? I sent him a note, and I heard that he had been seen in the company of a woman with a tattoo on the side of her head. If you see him, can you tell him that his colleague Orth Faung has some intriguing news for him?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Aligern!" His smile does not include you. "I hope that all progresses well?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I'm not a courier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"If I see him, I will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Is there anything I can do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Hmm. Well, you could find Aligern. That would be helpful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Hello again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"But murdens swept through and liberated many items of value from their owners. My frame was one of them. I need it to verify my last hypothesis, and with it, I can ease the tortured mind of a friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I'm not particularly charitable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"What do you need done?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I just have some questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Not right now. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Then I must admit that I have little desire to continue speaking with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"You seem to have a capable air. I ask that you find the murdens at their nest in the Old Slave Block, and retrieve my frame by any means necessary." He lowers his voice. "I have a pouchful of shins that I am trying to hide from my new neighbors here. I will give that to you if you're successful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Orth? What in the name of the Black Three are you doing here? Why did you leave the Order of Truth? I got your note, and it said to be careful with my tattoos, but it didn't say why, and it didn't say where you were going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"It didn't? No, that can't be right. I distinctly remember..." He slaps himself on the forehead. "No, of course not. I was being coy and cautious, but I thought you'd divine my meaning."
+
+Slow horror begins to dawn on his face. "Did you stop using the tattoos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Yes, recently. I thought it wouldn't really make a difference."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"No. I've been working on powering them, making them more effective, honing my control."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>He scratches his neck. "Yes. Took a little while, but I decided it was probably better to assume you meant for me to stop."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>He shoots you a quick look. "Yes. Almost as soon as I got your note."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>He pinches the bridge of his nose. "All right. That's my fault. I should have been more clear. And maybe it's nothing. I need the frame to be sure, though. But stop using them. Right now. Keep them close to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Oh, that's a huge relief. If my hypothesis is correct, then... well, we'll see. We just... well, I need the frame to be sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Hmm. Better late than never, I suppose. If my hypothesis is correct, then... well, I don't want to be wrong about this. I just need the frame to be sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Is this the frame you're looking for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"What's your theory about this frame?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Tell me again why you don't want to share your theory about the frame."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Where did the murdens take the frame?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Where did the murdens take the frame again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Why did you come to the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Tell me why you came here again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"I don't want to raise Aligern's hopes if I'm wrong. But if I'm right... well! We'll all be happy if he stopped using them externally."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"I don't believe in raising false hopes. But I *do* believe in an abundance of caution."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Back to their filthy nest, no doubt. I've heard they eat people, and I'm not much of a fighter. Or a negotiator, for that matter. I just don't know for sure." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Probably their nest. That's my bet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Ahh, you've found Aligern! My friend! Your compatriot has found the frame, and now I am prepared to divulge my research at last!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"You've found the frame, for which I thank you, I do... but I need to speak with Aligern. Please bring him to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Not yet. I just had a few questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>He sighs. "I'll answer what I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"I'll help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Not right now, but I had some questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>One quick glance at it is apparently all he needs. He yelps with delight, takes it from your hands, and strokes the joints of the collapsed frame. 
+
+He studies it carefully. "It doesn't appear that the murdens have damaged it extensively. It still seems to have that constant low hum of power, and... yes. Yes, this will do nicely."
+
+He hands you a bag with an impressive amount of shins inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"If you won't help me, why should I help you? I ask again... will you help me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Thank you so much, my friend. May I call you that? These researches will be crucial, *essential*, for helping a tortured man gain critical knowledge. His name is Aligern, and I would love to... I'm sorry, I shouldn't divulge my theories until I can prove them out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"You know Aligern? Dour, with living tattoos on his forearms?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"That's the one!" He looks inward. "He may seem terrible and bitter, but if you can get past that... well, you'll find more bitterness. He is a very bitter man, it's true, but beneath all *that*, he has a deep well of compassion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>One quick glance at it is apparently all he needs. He yelps with delight, takes it from your hands, and strokes the joints of the collapsed frame. "This is exactly it. Exactly!"
+
+He studies it carefully. "It doesn't appear that the murdens have damaged it extensively. It still seems to have that constant low hum of power, and... yes. Yes, this will do nicely."
+
+He hands you a bag with an impressive amount of shins inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>One quick glance at it is apparently all he needs. He yelps with delight, takes it from your hands, and strokes the joints of the collapsed frame. "This is exactly it. Exactly!"
+
+He studies it carefully. "It doesn't appear that the murdens have damaged it extensively. It still seems to have that constant low hum of power, and... yes. Yes, this will do nicely."
+
+He hands you a bag with a large amount of shins inside.
+
+"If you can find Aligern, this will lay much of his pain to rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"I studied that frame for years. *Years*. The more I studied it, the more concerned I was about the effects that I might trigger if I were to activate it somehow. With Aligern's village of Ormen as my first data point, I thought perhaps I should remove myself to someplace where the effects might be less... disastrous."
+
+He gestures to the space around him. "Much safer here. Much less likely to disrupt anything important."
+
+"Also, ahem, the Order of Truth was annoyed with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Two reasons, really. First, the Order of Truth was annoyed I spent so much time on this, and second, I was concerned I might trigger adverse effects."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>He grabs Aligern's forearm. "Pull one of these halfway out, Ali." He keeps his other eye trained on the frame. As Aligern lifts a tattoo, hissing and buzzing from his skin, Orth leans forward, licking his lips.
+
+"Yes," he whispers. "Yes. Yes!"
+
+He grabs Aligern and kisses his friend full on the mouth.
+
+"My friend, I forbid you to use your tattoos anymore. Unless...." He pauses, clearly building for dramatic effect. "Unless you enjoy throwing your family and friends!"
+
+He beams.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>One quick glance at it is apparently all he needs. He yelps with delight, takes it from your hands, and strokes the joints of the collapsed frame. "This is exactly it. Exactly!"
+
+He studies it carefully. "It doesn't appear that the murdens have damaged it extensively. It still seems to have that constant low hum of power, and... yes. Yes, this will do nicely."
+
+He hands you a bag with a large amount of shins inside.
+
+"Now I just need to find my friend Aligern, and his pain will end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"I'll bring him. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"If Aligern's coming, he's coming under his own power. He and I had a falling out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>He scratches his head. "I wish I could say that I'm surprised, but I have had extensive dealings with him. Believe it or not, he's a good man under all that bile and rage. Demanding, judgmental... well, I'm his friend, in theory. I shouldn't be talking about him like this."
+
+He collapses the frame. "I'll go look for him. When I find him, I'll let him know it was through your work that he has found his answers. I appreciate your help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"I'll see what I can do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Excellent. With the knowledge I think I've uncovered, I should be able to to put his pain to rest. This is an exciting time!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"I cannot express to you how much your help has meant to me. I must return to Sagus Cliffs to find him. This will mean the world to him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"I look forward to seeing my colleague again. This is an exciting time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"I'll find him. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Then I shall wait here for your return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Faung waves an embarrassed hand. "You gave me a puzzle, Aligern. It was a delight." He frowns a little. "Though if you could explain to Min just how helpful I've been, and tell him how I unlocked the secret none of them could, that would go a long way toward clearing this debt you mention."
+
+He fakes a cough, as if unused to displaying emotion. "Well! My work is finished. I really must return to my position in the Order. Farewell!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"I'd like to ask a few questions, if I might."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Well... all right. But I do need to talk to Aligern as quickly as possible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Do I know you?" He peers at your tattoo, then at your face. "You seem vaguely familiar. Perhaps I've seen you somewhere before. My name is Orth Faung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Farewell!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Ahem. At any rate. I hope they've kept my desk clear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>He looks up at you hopefully. "Did you bring me the frame?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Well... yes. You have been using them like that. Which is why I suggested that you take special care with them. But they might not have suffered ill effects. I cannot say for sure. All you need to do is reactivate the frame, and they will be restored to you!"
+
+He scuffs the ground with his foot and mutters, "We can evaluate their progress then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>He snatches the frame from Orth and snaps it out to its full expanse. He runs his fingers along the sides, his agitation increasing by the moment. "Why is this not working? Orth, why isn't this working?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"What happened to your left eye?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Tell me again what happened to your left eye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"This? Oh, nothing. I was doing some research in the Order of Truth and found this delightful apparatus. I thought that it appeared to be a prosthetic device, and as I was studying it more closely, it leapt onto my face and devoured my eye. Then it mated itself with my visual cortex. The pain was tremendous, of course, just blinding... ahem, if you'll pardon the phrasing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Just the usual accidents one should expect when tinkering with the numenera!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"But when I woke, I discovered that I could see in multiple spectra, discern remarkably small objects, and occasionally expand my consciousness into other dimensions. Or perhaps those are just the headaches paired with euphoria. Whatever the case, it was a worthwhile sacrifice, and I hardly ever notice it's there anymore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>The smile slowly disappears from his face. "I thought this might be happier news for you, Aligern. Do you understand what I'm saying?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"What *are* you saying?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Say nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Aligern, are you all right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"I'm saying that all this time, Aligern, you have been carrying around your family and friends. They have been transmuted into energy and transplanted onto your forearms. Those creatures you saw... nothing more than a visual representation of the deconstruction process. Your family wasn't devoured, Aligern! They are alive!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"I... Orth, are you saying that I have been using my family and friends as *weapons*? I have been stealing their power to defend myself? Have I... have I damaged them?"
+
+He grabs Faung's arms and rasps, "How do I restore them to humanity?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Hmm. Perhaps... yes. If this device functions as a matter decoherence and imprinting transfer, it would necessarily require a passcode of some sort to unlock it. It wouldn't do the ancient users any good if they accidentally recorporealized their passengers, would it? It would require an act of intentionality."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Perhaps it requires a special activation sequence, Aligern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Say nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Is that true, Orth? Could that be it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>He taps his lips thoughtfully. "So. Do you happen to know any extremely powerful psychics? Someone stronger than a mere mind-reader? One of them might know how to unlock this code from your mind. But I... I am no student of the psionic arts, my friend. I have done for you what I can, and frankly, I think my efforts have been sufficient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>He considers. "I might know just the person. She's back in Sagus Cliffs. Once we're out of the Bloom and I'm done with this castoff business, I'll go find her."
+
+He wraps his arms around Faung in a sudden embrace, and his voice is husky. "I am forever in your debt. You have been sufficient, and more than sufficient, you have been heroic. I will... I will..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Just answer a few questions for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Until you agree to help me, I see no reason I should indulge you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Poor old Aligern. Could have shined that the tats had something to do with his family, but... time's past for that. Hope he can do something about it."
+
+She nods at Orth, studying him keenly. He wilts a little under her gaze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>She faces you. "I hope *we* can do something to help him. He's one of ours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"I can't help you. I have my own business to worry about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Of course! Of course." He scratches his head. "You can't go around solving everyone's problems for them, now, can you?"
+
+He collapses the frame. "I'll go look for him. When I find him, I'll let him know it was through your work that he has found his answers. I appreciate your help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"In that case, it would probably be better if you went back to find him yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>His mouth hangs slightly open, and there is a sunken look to his eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText> Follow-up PQ. 133</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"What can you tell me about yourself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Can you tell me anything more about yourself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText> Follow-up PQ. 136</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"What are you doing in this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Tell me again what you're doing in this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText> Follow-up PQ. 139</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Can I help you retrieve your stolen research?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Tell me again why you don't want my help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText> Follow-up PQ. 142</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"You left a note for Aligern at the Order of Truth, didn't you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText> Follow-up T. 146</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"I seem out of my element, do I? It's the robes." He plucks at the rich fabric, which is far too clean for the Bloom. 
+
+"I needed a quiet place to continue my research project... somewhere I wouldn't be disturbed. I'm not the first Aeon Priest to end up in the Slump, though you wouldn't know it to look at these people. At least there's an educated community here... of sorts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"The Order of Truth objected to the work I was doing. I needed a quiet place to continue my research, and this was the closest thing to a... community of scholars that I could find."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText> Follow-up T. 149</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"I was a researcher at the Order of Truth, but they objected to the work I was doing for a ... a friend. Suffice to say that it's not going well, and I can't talk about it to anyone but him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Nothing that I am comfortable sharing." He smiles weakly at you. "I'm certain you understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText> Follow-up T. 152</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>He looks at you carefully. "Thank you, but I must decline. This is sensitive material, and I cannot entrust it to a passing stranger. Especially..." He drops his voice to a whisper. "... especially not here in the Bloom. One would have thought that they would band together against the darkness, but instead they all become worse and worse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"My work is personal and sensitive, and I take my ethical responsibilities seriously. I cannot foist them off on any passing stranger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Script Node 155</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>He closes his mouth tightly. "I did. Its contents are Aligern's business. And unless he is here with you, I'm afraid I simply cannot speak of his business. I'm sure you understand."
+
+He pauses. "But if you *know* Aligern, as it seems you do, please ask him to meet me here. Or bring him here yourself. It's extremely important that I speak to him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"You're doing research for a friend? Will you tell me his name?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"I suppose it doesn't matter. His name is Aligern." 
+
+Perhaps your face betrays a sense of recognition, or the Aeon Priest is just unusually perceptive, for he immediately brightens. "You *know* him, don't you? Please, if you can get a message to Aligern, ask him to meet me here. Or bring him here yourself. It's extremely important that I speak to him!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Orth? What in the name of the Black Three are you doing here? Why did you leave the Order of Truth?" He reaches out and grabs Orth's lapels and grits, "What note?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"I left you a note at the Order of Truth! I thought you'd *surely* go back there!" 
+
+Slow horror begins to dawn on his face. "Did you stop using the tattoos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Hello again." He peers past you. "You seem to have misplaced our mutual friend, Aligern. Well! How can I help you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"What happened to your left eye?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"This? Oh, nothing. I was doing some research in the Order of Truth and found this delightful apparatus. I thought that it appeared to be a prosthetic device, and as I was studying it more closely, it leapt onto my face and devoured my eye. Then it mated itself with my visual cortex. The pain was tremendous, of course, just blinding... ahem, if you'll pardon the phrasing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"But when I woke, I discovered that I could see in multiple spectra, discern remarkably small objects, and occasionally expand my consciousness into other dimensions. Or perhaps those are just the headaches paired with euphoria. Whatever the case, it was a worthwhile sacrifice, and I hardly ever notice it's there anymore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Tell me again what happened to your left eye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Just the usual accidents one should expect when tinkering with the numenera!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Why did you tell Aligern to stop using his tattoos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Tell me again why you told Aligern to stop using his tattoos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"I have some suspicions... but I can only tell Aligern. If I'm incorrect, there will be minimal harm. If I'm correct... well! I will have some news that he'll be delighted to receive. Delighted!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"I simply cannot tell you yet. My hypothesis must be proven."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"I'll see what I can do. In the meantime, answer some more questions for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"If I can," he mutters, wringing his hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"What are we waiting for? Let's go find it, yeah?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"We have the frame, Orth. Is it still functional?" He passes the frame to his colleague.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>The scratch of tendrils against the ground turns your head. 
+
+Oom is staring at Aligern. You feel the heat of its wordless sorrow rise up inside you. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

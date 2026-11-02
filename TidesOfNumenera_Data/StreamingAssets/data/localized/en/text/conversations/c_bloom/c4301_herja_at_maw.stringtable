@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4301_herja_at_maw</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>With a slight sneer, Herja steps toward the Maw. "I will tell you what I *regret*," she declares. "Let the Bloom do its worst." 
+
+Confidence shines from her face, and her proud carriage - even despite the filth that smears her armor - makes her look every inch the knight she claims to be.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>She doesn't seem to hear, her voice reciting a litany of further crimes. "When we brought the tunnel down on the diggers, I could hear their cries through the rubble. Rather than offer mercy, I gave them fire to steal away their breath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>A piece of shattered synth lies on the ground nearby. Herja snatches it with her free hand and brings it to her neck. Tears pour down her cheeks and she murmurs, "I am so sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Grab her hand.
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Let her choose her own future.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Delny breaks in. "She is about to end her life!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Herja slices deep into her own throat, opening it with a smooth slash. Blood fountains from the wound, splashing across your feet and puddling in front of the Maw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Air stirs around you, slowly at first, and then a gust as the Maw begins to open, expelling atmosphere from an alien world into Little Nihliesh. A black tunnel opens, the skein between worlds stretching taut and then snapping like a caul from an infant's face...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Let. Me. Die," she whispers, and she leans into the synth. You can barely keep it from her. She is strong, and she clearly wants to end her agony. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>She is a trained Angulan Knight, and she can see what you intend before you can do it. Her movement is swift and sure, and she opens her throat with a stroke. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>She is wrapped up in her self-hatred, and does not appear to comprehend that you mean to save her life until you do it. You grab her wrist and disarm her in a smooth motion, casting the synth away where she cannot reach it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You leap upon her, struggling with her for the shard, and you roll amongst the thrashing Bloom-tongues. In your struggle, you inadvertently wrap your fingers around the jagged edge of the synth and cut deep, and as you instinctively snatch your hand free, Herja's hand goes to her throat. In a single motion, she cuts through her neck, and her life's blood spills upon you.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Snatch the synth away from her hands.
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Let her die.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>You manage to pry the synth shard away from her before she can do any lasting damage... to her body, at least. Her mind seems ruined.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>She proves to be stronger than you, and her determination to die is the deciding factor. Her hands perform some complicated martial move, and you find yourself empty-handed and staring as she opens her throat and spills her blood in front of the Maw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Your reach is sure and deft, and you strike the shard from her hands. It goes flying to land a distance away. She looks at it going, her dull gaze watching her momentary salvation disappear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>You two seem evenly matched, but it appears that you might be getting the better of the struggle... until you realize that Herja's past has prepared her well for manipulating her opponents. She has somehow managed to pull the piece of synth close to her neck. In your attempt to keep her from severing her fingers, instead you have slashed her throat. The breath whistles from her severed windpipe, and her blood splashes across your feet. The Bloom-tongues absorb it like sand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Her eyes are distant, almost vacant, and she stands on weakened legs. She totters a short distance and looks back over her shoulder at you. "I... I am so sorry," she whispers, then stumbles away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"You want to atone for what you did? Suicide is the easy way, the coward's way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>She drops the synth and begins to sob, great racking heaves. The Bloom's tongues withdraw from her, leaving her sitting on the ground with her new self-knowledge and her grief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"A moment of truth," she whispers, "against a lifetime of hatred." She redoubles her efforts against you. She slackens in her struggles for a moment, and when you fractionally loosen your grip, she jerks the synth back into her throat. Gagging and choking on her own blood, she pulls it out and begins to topple forward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I have no excuses," she whispers, "no right to live after what I have done. My legacy is pain and terror. My death would be a blessing to the world." She looks at the mutants of Little Nihliesh. "But my life has been rash action after rash action. I need... I need clarity." She drops the jagged synth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>She stops struggling and lowers the synth. "You... you are correct. This is a coward's action." She turns her tear-streaked face to you. "And I have led a coward's life. Help me to stand." She reaches her left hand out to you, and as she clasps your arm, she says, "I deserve to die a coward's death." Faster than you can react, she raises the synth and slashes her throat open, spilling blood across you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Even as the life flees her body, Herja's eyes are haunted, in-drawn, and accusing. As if to make certain she has done the job right, she uses the last bit of her failing strength to drive the shard of synth into her chest.
+
+She falls amidst the Bloom-tongues, and they absorb the last of her life's blood. They shove her corpse aside, as if the meat of this woman were the least important thing about her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Her eyes focus somewhere far away, and she addresses someone who isn't here. She begins to speak through gritted teeth, as if resisting the pull of the Maw on her memories. "The spotted dossi... ha... I cared little for it, sister, but your sadness made me cry." She breathes deeply, and something inside her seems to break. Her stoic mask begins to crumble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I didn't mean for them to die. Not like that. Not painfully, not twitching, frothing, kicking. Not the children." She swallows. "I sold some of the metal before I crumbled it into the air. I thought the dose was still toxic." Tears begin to stream down her cheeks. "Toxic it was... but not enough to drop them. The screams... that was the first time they ever seemed human to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"But skinning the yellow woman... her tentacles, her sting... she cried and wailed, but she was a monster." Herja sobs, and her voice drops to a monotone. "Cutting out her babies was a blessing to her, stopping more monsters from entering the world, we all agreed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Keep talking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Never mind. I've heard enough. You're guilty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Pull her out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The Bloom's tongues hold her tight, and as you try to pull them off her, your hands pass right through them. In the meantime, Herja continues talking. "I don't know why I thought the acid bath would make the child talk. I was sure he knew nothing, but I lowered him in anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Her voice drones on, and somehow this makes her story more horrifying. "I herded the weeping families into the spire, even though I knew that the resonances of the chamber would slowly shiver them apart. I hated them, I thought, but it was only because I feared my fellows' scorn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"I called down the Threshers, and I stood guard with my blazing spear to keep the fathers from saving their children. I laughed at their cries, and I disemboweled the one because I thought he might serve as a lesson. His blood ran with that of his children, and they all suffered to see the others in agony. We wagered over who would die first." She stops talking. "I am a greater monster than ever they were."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>You grab her wrist before she can slash her throat, and her pain-filled eyes focus on you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The Maw's tongues reach out to her, grasping and tugging, and as they penetrate into her flesh and draw her close, you see the first flickers of doubt and fear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

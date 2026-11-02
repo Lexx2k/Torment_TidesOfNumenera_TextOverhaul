@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_matkina_stage4</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>131</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>{fearful, but controlled}"We're not safe yet. Not by a long shot. {pause}I don't remember if I told you this, but... I was born here."
+
+She struggles to hide her fear. You feel the tight control she maintains over her emotions and her Tides.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>{angry, controlled}"I knew there was a reason I never got along with the Memovira. Why she always seemed to be mocking me. It's because she knew who I was. She knew, and she planned her betrayal all along, and she *was right next to me.* I should have slit her throat. I should have shoved her into a Maw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>{shocked, quiet, dismayed}"You need to believe that I have never been wantonly cruel. Everything I have done, I have done for a reason... but... but... I'm not a monster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Poor old Aligern. Could have shined that the tats had something to do with his family, but... {shrug}time's past for that. Hope he can do something about it."
+
+{COLIN: How is Matkina's voice actor supposed to shrug?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"This is quite a sensation, bonding with the Bloom. It's... exactly what I thought it would be. I *know* the Bloom. I know its pathways. I know its tendrils. I know the places it touches and... sweet sibling, you have *no idea* what this power feels like." 
+
+
+{GEORGE: Do we want to have Matkina as a fast-travel if she's bonded?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Selling children's a new low... well, I guess it's not. I suppose I should stop being surprised by the lengths we castoffs go to for our ambitions. Anyway. Let's keep moving."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"By the Black Three." Her voice is quiet, reverent. "I never dreamed... the power in this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ask your questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Do you know anything about the Valley of Dead Heroes?"
+{SCRIPT: Only displays in VoDH}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Tell me more about this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Miel Avest is gone. *Dead*. Is that what you wanted to hear? And too many of our siblings with it."
+
+She faces you, her arms akimbo. "And now, I'm thinking about how much I hated them... and how much I wanted their approval."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Give me your opinion on Miel Avest."
+{SCRIPT: Only displays in Miel Avest.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Give me your opinion on Miel Avest again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Let's talk about you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Let's talk about you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"How are you holding up?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I had some questions about the people we're traveling with."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I think it's best we part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Let's move on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Let's."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I want to talk about what happened in Miel Avest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Let's talk about what happened in Miel Avest again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>She swallows hard. "Woke up in the process of being devoured. I suppose the Bloom saw our sire's mind leave. It dropped me, newborn, and I got out. Fled up to Sagus Cliffs, and that thrice-damned Sorrow almost snatched me then."
+
+Her voice drops, almost indistinct. "I left the city. Stole and hurt people on the way out. But at least I got away."
+
+"So. You know what happened with the castoffs. With the First, damn her, and let's be sure to kill her when we find her. Anyway. The Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"What do you think we should do next?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"After the trouble with Melmoth, I wound up here. In the service of the man who became the Memovira, the old boss of this place. Listen to me - the Bloom rewards cruelty and pain. And it will react to your actions. So... be careful."
+
+"The current Memovira and I don't get along too well. Be aware there's a history. A bloody one. I can't promise I'll be civil around her."
+
+She adjusts her cloak. "All right. Let's go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"The First is alive? We should find her. And then we should make her pay for all the suffering she's brought."
+
+{COLIN: Needs conditional.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"But at what price? Would you sacrifice centuries of life for ten years of... this? You saw the price."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"What power did you see?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"You can have it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"It's not for *you*. If the Sorrow comes, I'll need everything I can use."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>She shakes her head. "You're dedicated, I'll give you that. Don't worry. I won't get in your way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"But you can't master the Bloom! It sullies everything it touches!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Her lifelong training is almost enough for you to miss the shock that flickers across her face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I'll do whatever it takes to stop the Sorrow. That's what's important. Not me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Sure. Of course." She shrugs. "Hard to reconcile that with the image you've been putting out. You get in with the Bloom, you get *dirty*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"I'm a castoff. I'm as dirty as the rest of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"You think I'm somehow *pure*? Don't be an idiot, Matkina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>She stares at you for a moment, her mouth slightly ajar. "I don't know that I will ever understand you." She laughs softly. "But I'll help you however I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I knew the Bloom reaches across worlds. I knew that my old boss could command the flesh of the Bloom itself. But I never... I never quite understood just how it could be used. Each of the Bloom's tendrils can anchor itself on worlds we barely dream. The Bloom is moving through *realities*, and the person who can control it has all those possibilities at her fingers. WIth a strike team and good weapons, you could create an empire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>She studies your face carefully, as if testing to see if you're joking. "Whatever you say, boss."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"You don't know the strength my boss had. *I* didn't know what he had. You could work wonders with that strength. You could destroy everyone who ever opposed you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Of course. I should have thought of that." She says nothing more, but you can see her thoughts racing, rearranging. "You've played the innocent well, I have to admit."
+
+She waves her hand. "All right. The Bloom is yours, if you can take it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Her head jerks back as if you've slapped her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"I told you that it was mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"I said if you wanted it, you could have it. But I'm surprised you took it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"I hope it's worth the cost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"That's in the past. What we need from her now is truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"You'll get your chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"If she's been hiding this long, she must have plans. We need to take that into account."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"I did. And I also know that this place resists the Sorrow. What castoff wouldn't find the Bloom irresistible? If we can't find a way to stop the Sorrow, ten years sounds like a better wager than the short life we're bound to have."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"That really worked out for him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"But what you have to go through to get it... the price isn't worth it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"It's worth thinking about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"We should go find the First. The Memovira. And then demand payment for all our dead siblings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Get Dracogen's toy. We need to meet the Memovira, right? And when you're done with her, I wouldn't mind finishing her off."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>She faces you. "I hope *we* can do something to help him. He's one of ours."
+
+She holds up a hand, forestalling you. "Just wanted to get that out there. No need to have a long discussion about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Your reputation says different. You've left more than a hundred corpses in your wake since I heard of you years ago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Her laughter is harsh and mocking. "You expect us to believe that? You were an agent of the last Memovira. You have been an assassin for over a hundred years. My dear, I don't condemn your actions, but please don't play the innocent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Well, lass, everyone has their own secrets, their own... ahem... unfortunate incidents. In this case, *I* for one believe your protestations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"You have to believe me. I'm not that... that thing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Honestly, I don't care. We have a job to do. Let's do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"It may be that you were, Matkina. But that's between you and your conscience."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Even if you were, you are not now. I've traveled with you long enough to know that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>She laughs, slight mockery in her voice. "You don't need to pretend you think well of me. I just wanted to be clear that I don't torture without reason."
+
+She looks around. "Any other comments? No. Good. Let's move on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>She ducks her head so you can't see her face. "I try. I am not perfect - not by a long road - but I am *trying*. And... and I hope you'll help me keep trying."
+
+She coughs delicately. "Enough of this. Let's keep going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"I've got plenty in the space between my conscience and me already. Just... I wanted you to know that I don't torture without reason." She clears her throat. "Anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>She nods, her sharp features pointed at you like knives. "Agreed. We won't talk about this again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"That gives me... almost no comfort, Tybir. Almost none at all." She turns to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"You said you and the Memovira had a history."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Tell me about the Memovira again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"They're dead now, so you don't need to worry about their approval anymore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Then keep helping me, and we'll avenge them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Must be hard to be a younger child."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"She and I were chagans for the *old* Memovira. Ran different games, different terts. But it was always a competition with her. See who could make more shins, who could keep the peace better, who could embarrass the other. I always got the sense she had a secret - something she was keeping from all the rest of us - but I never had any proof."
+
+She shrugs. "Not until the day she took power. She was quick, I'll give her that. Not a moment wasted. I thought she'd let the rest of us run. She didn't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"When she sent bounty hunters after me, I knew the game'd changed. Used to be the chagans'd get a choice - swear fealty or leave - because, you know, blood is bad for business. Better to keep all our knowledge alive, right? I'd've sworn, because I admired her efficiency, but she didn't give me the choice. Nor any of them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"She's ruthless and vindictive. Be careful around her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Of course I don't. But, you know, would have been nice to get some validation from the people who seemed to know what they were doing. Not that I really have any idea what I'm doing yet, though."
+
+She sighs. "Forget it. Getting maudlin. Let's keep moving."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>She quirks a small smile. "I like the way you think. I just... just wish that I could have made them know what I can do. Might be a chance to show the rest of them yet."
+
+She shakes out her cloak. "All right. Enough of this creft. Let's get on with the plod."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>She snorts. "More like a middle child, at the rate the Changing God is knocking us out. Hard to stand out from the crowd. Everyone else has figured out where they stand, but me? I've been struggling for years. I wanted to show those people what I could do. Too late now, I guess. Let's get back to it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"I'd like to go someplace in the Bloom."
+
+{GEORGE/COLIN: Fast travel node}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Say the word. Where?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"I'll do whatever it takes to stop the Sorrow. That's what's important. Not me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"I'm a castoff. I'm as dirty as the rest of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"You think I'm somehow *pure*? Don't be an idiot, Matkina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>{COLIN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText> The ghost of a smile flits across her face, gone almost before you can see it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"And even if the Maws start to close and you lose your grip on the empire, you've still got all those weapons, all that numenera, all that *possibility* from each of the worlds the Bloom touches. Rule right and you could be unstoppable."
+
+She taps a finger on her lips. "Still. There must be a reason why the others haven't done this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"You don't get it, do you? For a time, he was one of the most powerful people in the world, and few even knew who he was. He burned bright and fast."
+
+She considers. "But you're right. If we survive this, it's a skist trade. Fine. You've convinced me with your fancy sarcasm. Let's make sure we stop the Sorrow then, yeah?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"It is. But... well, let's see what we learn. Maybe this is all theoretical. Come on. We've got work to do."
+
+But her voice is thoughtful and considering.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"She didn't count on *you*, I'm sure of it. You're unraveling that skein of lies." She grabs your shirt and pulls you close. "She is the creator of our problems. She sent us to the Bloom's heart to be rid of us, because she knew that we'd either find Mazzof or die, and either way, she comes out ahead. So now we need to change those plans."
+
+She releases you, steps back, and brushes the wrinkles out. "I have faith in you, kid. You and me. We're going to stop that bitch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Her smile is wide and radiant, all the more beautiful for its rarity. "I'll hold you to that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>She shakes her head once, sharply. "I only want to hear her words if she's screaming them. This isn't about the truth anymore. It's about justice."
+
+She sighs. "But we need not argue with each other right now. Just know that I want the chance to put at least one knife in her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Come on. Let's go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>She almost suppresses her sneer. "Looks like you were mistaken, then. Don't worry. We'll find the First." Her voice goes dreamy. "I have such grand plans for her now. She's going to talk for a long, long time. Sisters should be close, don't you think?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"What's it like, being bonded with the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"It's like... well. Close your eyes. Now open one eye. You have sight, but no depth. Now open the other eye. You've got depth. What if you opened another eye, and then another, and then another? What would you see then?" She laughs delightedly. "I see *possibilities*. I see *realities*. And I feel the Bloom's hunger. Now." She claps her hands together. "We should feed it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Pure delight. Who will stop me now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Why? You knew I hated the First. You know my history in this place. If you were paying any attention to me, you'd have guessed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Oh, it is. It definitely is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"What's it like, being bonded with the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Tell what it's like being bonded to the Bloom again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>She shifts slightly, hands on her belt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Let's talk about our siblings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"I have more questions about castoffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

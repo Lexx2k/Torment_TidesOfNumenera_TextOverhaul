@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_meatmonger</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>99</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A short, solid man stands behind a smoking grill, turning pieces of meat with a pair of grimy tongs. Sweat is pouring down his grizzled face, yet he's covered head to toe in grease-spattered clothes. His sleeves are tight at the wrists and his collar pinches his neck. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Meuk salutes you with his tongs as you approach. "Hey ho, friend. Back for more meat?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"What kind of meat do you sell?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"What kind of meat do you sell again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I'd like to buy some meat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I'd like to buy some more meat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Sure. What would you like? Aneen shank? Drebil wing? Laak tail?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Aneen shank? Drebil wing? Laak tail?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I'd like an aneen shank, please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Give me a drebil wing, thanks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I'll try a laak tail."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"That'll be [Global: a2301_MeatmongerBuyMeat] shins."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Pay him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I haven't got that much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I've changed my mind. Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Meuk nods, saunters over to the vat of red, throbbing muscles, and carves off a slice. He spears the meat with a sharpened bone skewer and slaps it onto his grill, sprinkling it with a flurry of spices. When the meat is cooked, he hands you the skewer, and you take a bite. 
+
+The meat is gamy and a little tough, but the spices are so intense that you hardly notice. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"The meat'll be waiting when you do. Anything else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"No problem. I got time." He waves his tongs expectantly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Good choice!" Meuk produces a jagged knife and saws one of the leathery wings from the fluttering mass and tosses it onto his grill. It flaps weakly for a few moments, then lies still. An aroma like sweet, baking fruit begins to rise from stiffening wing. After a short time, Meuk lifts it from the grill with a pair of tongs and hands it to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>He shrugs, giving you a dubious look. With a quick motion of his hand, Meuk tears two wriggling laak tails from the vat, twists them together, and ties them into a loop. Then he drops them on the grill, where they begin to sizzle and spit. As they cook, the green and white color grows brighter and more intense. 
+
+After a short while, Meuk takes them from the grill and hands them to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I've never seen meat grown in a vat before. How does it work?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"How do you grow the meat again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>He laughs and bangs the grill with his tongs, making sizzling grease fly. "Three kinds, friend. Aneen, drebil, and laak. Right in those vats, actually. Want some?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Aneen, drebil, and laak. Fresh from the vats." He whirls his tongs around a finger with a flourish and points toward the nearby vats of pulsing flesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"How?" He shrugs. "Couldn't tell you. Found a little doo-dad back when I was a butcher, and I'd fiddle with it all day long, kinda like I do now with my tongs." He waves the tongs around to show you what he means. "So one day, I was fiddling with this thing while cutting up a carcass, and it kept growing back its missing parts. Cut the tail off, and there it was again, a moment later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Little doo-dad I got makes meat grow. No idea why, but it's let me run this stand for years on the same three hunks of meat. 'S great!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"I'm looking for a jack named Matkina. Pale skin, hard looks. Wears a hood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Do you know a glaive named Riastrad? He wears armor that flows like liquid metal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Can you use your 'doo-dad' on yourself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Funny you should ask. Not long after I found it, I cut myself pretty good. Thought I'd try using my doo-dad to close up the wound." 
+
+He grimaces. "Well, it worked, but then I started growing toes all over my body. Didn't care for that at all, so I never did it again. Still trying to get rid of the toes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>He nods. "Know her well. Buys from me all the time. Haven't seen her in a while though. You might ask Mapper, over there by the shanties. He'll be the one with the maps on his skin. Keeps track of everybody."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>He frowns. "Think I know who you mean. Little bit on the crazy side, right? Ain't been around lately, though. At least, I haven't seen him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Right, friend. Come again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"I have this mellidrym seed. Do you think that 'doo-dad' of yours could make it grow?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Do you think you can grow this mellidrym seed?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Hmmm. Could be. Possibly. I ought to charge you something... but you did say you were friends with Manth Pa." He winks. "Give it over, and let's see what happens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"I can give it a try. Sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Nearby are three large vats that are filled with living meat, great amorphous masses of it, with appendages growing from them like the limbs of animals drowning in a meat swamp. The first vat is filled with thick, throbbing muscles, red and raw. The second is a flapping monstrosity of leathery wings, and the third sprouts hundreds of laak tails, all wiggling obscenely.
+
+The cook looks up from his work and gives you a sweaty smile. "Hey ho! I'm Meuk the Meatmonger. What'll you have?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Why are you all bundled up like that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Tell me again why you're all bundled up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"On account of the toes. Nobody wants to see a man with toes growing all over his body... especially if he's cooking their food. Not even people in the Underbelly got strong enough stomachs for that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I got toes growing out of me in places toes don't usually grow. Nobody wants to see that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Manth Pa said that I should pay you a visit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Good ol' Manth. He'll get a shin for that next time I see him. Maybe it'll keep him on the straight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Give him the seed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"On second thought, let me ask you something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Sure. What do you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>He pulls a device from his pocket: what looks like a synth pipe covered in fine, soft hair, with a wide nozzle at one end. The other end looks broken, as if once part of something larger.
+
+Meuk aims the nozzle at your mellidrym seed and flicks the device's side - hidden switches, perhaps. Your ears pop softly. Nothing else happens until the seed begins to grow...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Did you say you have *toes* growing all over your body?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText> "Hey, we all got our problems, and I got it better than most around here. Ain't my fault anyway. Well... I guess it's a *little* bit my fault..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Did anything grow from my Mellidrym seeds?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Just checking again to see if anything grew from my Mellidrym seeds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>He nods and squats down to grab something from behind the grill. "Indeed it did. Strangest little thing I've ever seen. Here you go. Take it before it eats me out of house and home."
+
+{SCRIPT: Player has slept since giving the seeds to Meuk.}
+{SCRIPT: Gives you grown Mellidrym.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>He shakes his head. "Not yet. Check back tomorrow."
+
+{SCRIPT: Player has not slept since giving the seeds to Meuk.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Poor ol' Manth. You hear what happened to him? Some crazy carker ripped him open, dumped his insides on the ground, and finger-painted a wall with his blood." The big man shakes his head.
+
+"I woulda given Manth a shin for the good word, so you can have it instead." He flips you a greasy coin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Poor ol' Manth. I heard how he died. I woulda given him a shin for the good word, so you can have it instead." He flips you a greasy coin, then shakes his head. "At least the killer's gone, hey? That's something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Lotsa folks eat that three times a day." Meuk winks. "Wish more of 'em would give my drebil wings a try, but it's their loss, hey?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>You take a bite. The wing is crunchy and sweet, with a rich and fruity taste. 
+
+"Good, eh? Nobody believes it 'til they try." Meuk grins and slaps his belly. "I eat 'em all day long. Keeps me trim and handsome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Somehow, the tails are still wriggling as you take a tentative bite. The meat is flaky, overly sweet, and it fizzes in your mouth like bubbly water. 
+
+Meuk shakes his head. "Kids love those things. Can't stand 'em myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Never mind. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Beneath the heavy spice, the aneen meat summons memories: desperation, a vast ruined landscape, detonations... scavenging fallen beasts for food. You've eaten this flesh before, perhaps many times. Not one memory but many... many lifetimes, perhaps, in a hellscape of war.
+
+The memories fade...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"That'll be [Global: a2301_MeatmongerBuyMeat] shins."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"That'll be [Global: a2301_MeatmongerBuyMeat] shins."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Pay him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Pay him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Crazy, right? But it gave me an idea. I could open a little grill with no overhead. And it worked. Been cooking the same three hunks of flesh for years now." He beams.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText> Follow-up T. 82</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Hmmm. Could be. Possibly. I ought to charge you something, though." He wrinkles up his face, mouthing numbers to himself. "Let's say... [Global: a2301_MeatmongerGrowMellidrym] shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"I can give it a try if you pay me [Global: a2301_MeatmongerGrowMellidrym] shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Never mind. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Pay him, and give him the seed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"I don't have enough shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Oh." His face falls. "Well, I'm sure you can scrounge 'em up easy enough. I'd have guessed you were a well-heeled fella. One of them explorers with funny devices in every pocket, you know?"</DefaultText>
+      <FemaleText>"Oh." His face falls. "Well, I'm sure you can scrounge 'em up easy enough. I'd have guessed you were a well-heeled lady. One of them explorers with funny devices in every pocket, you know?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Still don't?" He looks like he doesn't quite believe you. "Well, come back when you do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>The front of the seed bulges into a droopy gray head, and several protuberances expand to form little trunks with mouths on the ends. The back of the seed swells into a lumpy little body with fat, useless legs. Sad little eyes bud from the side of the head and open, gazing resignedly at you and Meuk. Sure enough, the creature looks almost exactly like the one the beggar had.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Setting down his device, Meuk gives the little creature a doubtful look. "Probably shouldn't have charged you for this thing. But a deal's a deal, I guess." He hands you the mellidrym.
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Setting down his device, Meuk gives the little creature a doubtful look. "Good thing I didn't charge you for this." He hands you the mellidrym.
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Meat! Get your meat here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Hey ho! Anybody want some meat?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Freeesh meat! Watch it grow before your eyes!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Cheap and tasty meat, straight from the vat!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Meat, meat, meat!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"You want meat? I got meat!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Oom eyes the meat doubtfully, but then, you've never seen the creature eat *anything*. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

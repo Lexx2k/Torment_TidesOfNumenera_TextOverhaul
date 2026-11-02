@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_herja</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>51</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>For a moment you don't recognize the slightly transparent apparition because blood obscures her features. When she turns toward you, though, the sight of the armor and her memorable hair sparks your memory - it's Herja, the Angulan Knight.
+
+She is digging at her forehead with a piece of sharpened bone, and her hands don't stop even as her eyes focus on you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[She regards the party with complete hatred and curses them for confining her within this new prison.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Everything about the abominations of this place tears at her rationale and psyche. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Poison spills from her eyes and venom from her mouth. "It was you who sent me here, wasn't it? One prison wasn't enough for you? You needed to deepen my torment with a fresh illusion? When I loosen my bonds here, I will come for you. You and all your mutant-loving kind. You'll bleed. You'll scream for mercy. I'll burn you alive, wrapped in the filthy embrace of the subhumans you champion. I'll *eradicate* you, scum." 
+
+She continues to snarl even as she continues digging into her flesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Furious at you, she attempts to lunge and seek her revenge.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Use the sealant bomb to bind her.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"You're a trained warrior, Herja. Surely you have the willpower to calm yourself before you do something rash."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"You want to eradicate *me*? I invite you to try." Attack her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[DEBUG: Did you win?]
+
+{SCRIPT: start combat}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[DEBUG: Yes.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[DEBUG: No.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Well, that could have gone better.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Well, that escalated quickly. Glad that's over.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Calm myself? Calm? I should spill your blood... no. No. You were fair to me. I need to hold onto that center... that self. You're not a part of this... what's a part of this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Your words have no effect. She drops the bone shard to the ground, smiles coldly, and unsheathes her weapon. 
+
+"Do I sense *fear* in your voice, race-traitor? Let us find out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>For a moment, you see something of her former self shining through - remorse, conflict, guilt, righteousness... *humanity*.
+
+"How did I get here?" she whispers. She turns from you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>She grins and walks toward you with her jagged bone. As you hold your hands, trying to placate her (or perhaps to free your weapons) you step backward and trip over a wayward vein of Bloom-flesh. You land wrong, twisting your ankle, and as you try to recover, Herja is upon you!
+
+{SCRIPT: Start Tussle}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The anger fades from her, replaced by uncertainty and doubt. She wraps her arms tightly around her body and rocks back and forth, trying to convince herself of some truth... any truth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>She is curled into a ball, holding herself tight. Her body is no longer coiled and angry, but she doesn't respond to your words. She looks past you as you talk to her, and the light has gone out of her eyes.
+
+She seems... defeated.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Any other options? Could the Egg or Pez device be used here with her?]
+
+{Colin: any other ideas for dealing with her?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[As you lay on the ground, in your desparation you grab a pointy bone laying next to you and strike for her eyes. Blinding her, she collapses on the floor, sobbing.]
+
+{JOBY: This is cool, but it seems a little weird for a critical failure state.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[She doesn't strike back, but lays there sobbing, partially releived her nightmare visions have eneded. She no longer responds to you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Having done something, things occur after.]
+
+{SCRIPT: define a new c4411_HerjaState, set it on this new option, and have a reintro for that new state.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[The sealant bomb explodes and ecases her in a matrix of sealant. She struggles in her cocoon, but calms and sobs, cursing you under her muffled speech.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>She faces away from you, holding her hands to her bloody eye sockets. You can hear her grumbling and muttering. "Mutants... miscegenation. Keep blood pure... not murder if they're mutants..."
+
+She doesn't respond to anything you do or say.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Her rage-filled eyes track you as you approach, but she is encased in sealant from head to toe. She can do nothing but mutter imprecations from behind her resinous gag.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"You're not real, Herja. I saw you die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"You're not here, Herja. You left Little Nihliesh alive, a free woman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Dead? Me? I can't die, blood-traitor. Did a mutant kill me? Did that ineffectual turd Gar-koto find the stones to kill me? How can I be dead if I'm talking to you, idiot?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>A flicker of doubt crosses her face. "What you did at the Maw... you and that bloated pretender, Gar-koto... you broke me in two? You made me into this? You scum. You're in league with the mutants to destroy the Angulan Knights, aren't you? *Aren't* you? The rest of me is still trapped in that prison in the mutant cesspool." Her eyes narrow. "Or you're just *lying*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"You're a trained warrior, Herja. Surely you have the willpower to calm yourself before you do something rash."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>For a moment, you can see something of her former self shining through: remorse, conflict, guilt, righteousness... *humanity*. 
+
+"How did I get here?" she whispers. She turns from you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"This is no illusion, Herja. This is the result of the choices you made and the suffering you brought to so many."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"This is no illusion, Herja. This is the result of the choices you made and the suffering you brought to so many."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>She scoffs and turns away. But then she turns back, and doubt has dawned in her eyes. "You can't mean that," she whispers. "You can't."
+
+She studies your face and finds no hint of a lie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>She scoffs. "Suffering? Suffering is allowing mutants to live. I do what I do for the good of humanity. Like this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>She scoffs. "You can't mean that -" and memory dawns on her face. Her eyes widen, and the knowledge of what she experienced at the Maw births into her fragmented mind.
+
+"By... by Angule... you're right. This is... this is *justice*. Oh gods, what have I done?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Surprise crosses her face, and then she laughs aloud, a ragged bark of vicious hilarity. "That sounds exactly like the sort of whiny nonsense Gar-koto would spill. If this is justice, then I'll earn my punishment... starting with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>She wraps her arms around herself, rocking back and forth. "No. No. No. It can't be."
+
+As she whispers to herself, she gradually fades from view.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>With her blade held high, she leaps at you! 
+
+Her motion catches the attention of the other semi-transparent figures in the room. They turn, raise their weapons, and join her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>She scoffs. "You can't mean that -" and memory dawns on her face. Her eyes widen, and the knowledge of what she saw at the Maw births into her fragmented mind.
+
+"By... by Angule... you're right. This is... this is *justice*. Oh gods, what have I done?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"You're a ghost. You're a piece of Herja that was eaten by the Bloom. The real Herja regrets her actions. You're the worst part of her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Regret and *guilt* are for the weak!" She drops the bone shard in her hands and flexes her fingers. The cold smile on her face is chilling. "Let me show you *weakness*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>:mmff::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Kill them all. Watch them *suffer*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"... it's nothing. Everything... nothing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"It can't..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Illusion? Truth? What of my memories? What of my childhood? I don't *remember*!"
+
+As she speaks, she gradually fades from view.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Her mind is... not blank, exactly, but flat - like a painting with no light or shadow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"You're a ghost. You're a piece of Herja that was eaten by the Bloom. The real Herja regretted her actions. You're the worst part of what she was."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Script Node 53</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

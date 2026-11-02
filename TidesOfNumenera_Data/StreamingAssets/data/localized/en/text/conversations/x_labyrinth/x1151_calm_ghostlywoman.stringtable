@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1151_calm_ghostlywoman</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>80</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A spectral figure stands in front of you, but it's not the Specter. She looks familiar but you can't... wait! It's the ghostly woman from the Fifth Eye. She looks around her, confusion apparent on her face.
+
+Her eyebrows rise high in some sudden realization. "It has begun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The familiar figure of the ghostly woman looks around her, seemingly even more confused than when you first encountered her here in your mind.
+
+Her eyebrows rise high in some sudden realization. "It has begun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>A spectral figure stands in front of you, but it's not the Specter. She looks around her, confusion apparent on her face.
+
+Her eyebrows rise high in some sudden realization. "It has begun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"You must hurry. The Changing God is at the gate of the Resonance now, forcing his way in. If you don't stop him, you and every other castoff will die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"What happened?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I thought you were a memory or a copy. Why are you here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>She looks at you, as if noticing you for the first time. "You're *here*. That means..." She shakes her head. "So many memories. Not all of them mine. It's hard to keep them straight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"You're a... castoff," she says, as though confirming it to herself. "A spark of life leftover when your body was otherwise abandoned."
+
+She looks up and around her, as though able to see something you cannot in the black expanse. "They're *all* here. The spark, the consciousness, of every living castoff is here now, in the Labyrinth. They were drawn here by the resonance chamber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>She looks at you, as if noticing you for the first time. "I think... I am more than that. I don't know what, fully, but memories are beginning to surface - far more than before. I'm not certain all of them are mine, though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>She looks at you, as if noticing you for the first time. "I am not a reflection, not a memory. I know that much. I don't fully know what I am yet, but swaths of memories are beginning to surface. Though not all of them are mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I thought the chamber would merge all the castoffs into a body, not the Labyrinth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I thought the chamber would sever the connection between all the castoffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I was trying to destroy the chamber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I thought the chamber was supposed to stop the Sorrow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"The chamber was just a lever." She speaks as though she is just learning this information herself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Not nothing. You activated the chamber, and so have a greater power here than others - more clarity and control."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Not nothing. When the First activated the chamber, it gave her a greater power here than others - not more than you, but still a measure of clarity and control. I fear it will not help her until you can find her, however."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Not nothing. When your friend activated the chamber, it gave her a greater power here than others - not more than you, but still a measure of clarity and control. I fear it will not help her until you can find her, however."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[The one who activated the chamber is stronger for having activated the chamber.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Does this mean that activating the chamber did nothing at all?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>She shuts her eyes. "There is a place called the Resonance," she intones. "A door in the deepest fathoms."
+
+Eyes still closed, she points to a new portal that wasn't there before. "The Resonance lies through there. You must find it. *Your* body is the key. Open it. Enter it. Then you can stop the Sorrow and be free."
+
+{ADAM: If I get permission to revise, I'd rather this say something about the player "receiving all the combined power of every castoff" or something, just so it doesn't feel so much like they're stopping the Sorrow in the Fortress and then have to do it all over again here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Suddenly, the ground and even the sky shake violently. You clutch your head in pain, as though someone had pounded on the inside of your skull.
+
+Gradually, the pain subsides. The air stills and quiets, but the ghostly woman's eyes are wide, her mouth agape.
+
+"He's already there! The Changing God has broken through to the doorstep of the Resonance! He'll have to force the door open though. You have time to reach him - to *stop* him." She looks gravely into your eyes. "But not much time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[How do I stop the Specter?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[How do I stop the Specter again?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Enter the hatch. BUT Once the player enters the hatch to the endgame, there is no turning back. He must have everything he needs before heading down that way.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Who are you, anyway?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Tell me who you are again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>She shakes her head. "I am not a reflection, not a memory. I don't fully know what I am yet, but swaths of memories are beginning to surface. Not all of them are mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"I thought I knew before. I thought I was a copy or a memory of someone else. Now... I am not sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Her brow furrows. "I'm still asking myself that. When you and your siblings were drawn into this place, pieces of their memories filled gaps in mine. I know what happened to bring you here. I understand what is happening now. And I... *know* where the Changing God is and what he plans to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"When your siblings were drawn into this place, their memories began filling the gaps in mine. There is still much I don't know, but I can sense the danger you're in - the danger we're *all* in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"How do you know all of this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Tell me again how you know everything you know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>She shuts her eyes again. When she opens them, she says, "They are here - or their consciousnesses are at any rate. They are... bonded to you somehow. When you were drawn to the Labyrinth, so were they. They are being held, just like all the other castoffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Trapped, here in the Labyrinth like the other castoffs. Their bond with you is strong. You can save them, but the longer you spend on them, the closer the Changing God will get to his goal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Where are my companions? Are they still in the real world? Are they dead?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Where are my companions again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Can I rescue my companions?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>o	The Ghostly Woman thinks so, but it would take time. The longer the player takes, the more likely it is that the Specter will force his way into the door</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"If everyone is trapped in an illusion, why aren't I?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>She tilts her head. "Because you are the last castoff," she says, as though it were obvious. "Every castoff who has met you tells me the same things. You are the latest version. Your body was *designed* for this. Did you never wonder why you could remember and control the Labyrinth, when no other castoff could before?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I'll try to stop him. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Good luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"What has begun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>She looks at you, as if noticing you for the first time. "If I'm understanding everything correctly - which is far from certain - the *end* has begun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Why has everything changed? All the doors and portals are different from before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>She bows her head in thought. Without looking up, she says, "The Labyrinth is a dreamscape shared by the Changing God and all his castoffs. Its shape is defined by your minds, *all* of your minds."
+
+She looks you in the eye. "I think the sudden influx of hundreds of castoffs - each with their own lives and memories - has made the Labyrinth unpredictable, causing even more change as they move through it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"The minds of the castoffs can still be merged into a single body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"The Labyrinth can still be destroyed, severing the psychic fabric that binds you all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"To destroy it - to prevent anyone from using its power - is still possible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"The Sorrow can still be stopped.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>But not by flipping some switch in the real world. Your fate, and that of your siblings, will be decided here, in the Labyrinth that connects you all - that has *always* connected you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Wait. There is one more thing. The Labyrinth has become a volatile thing - everything is changing. Even now, I can feel the portal that leads to the Resonance trying to close. Make sure you have everything you need before you descend, for once you start, you may not be able to return here at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Tell me how to stop the Specter again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"You will find him in the lowest depths of the Labyrinth, on the doorstep of the Resonance. He is forcing his way in even now. If you don't hurry, he will succeed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>She shakes her head. "And yet there is so much I don't know. Who am I? Why do I know all of this and you don't? I feel like I *know* the Labyrinth. Why does it..." She bites her lip, unable to voice any more questions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Not nothing. The castoff who activated the chamber has a greater power here than others - not more than you, but still a measure of clarity and control. I fear it will not help you reach the Resonance, however."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"As to where these other portals go..." She looks over at the shimmering doors that weren't there before. "I don't know. I only know that that one over there," she points in the opposite direction, "leads down to the Resonance. That is the way you must ultimately go, if you are to stop the Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"If all living castoffs were drawn to this place, then where are they?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"If everyone is trapped in an illusion, why aren't I?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>She shakes her head sadly. "They are lost. The chamber drew in their minds and then trapped them, each one within an illusion made from their fears and regrets. I can feel them now." Her eyes shut tight and she bites her lip. "Their pain. Their torment. They don't realize where they are, and they cannot escape - not on their own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"You can save them, if you can find them. But know that in doing so, you will give the Changing God the time he needs to get closer to his goal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Suddenly, the air fills with booming laughter. It is the Specter, and it sounds like he is all around you. "You're too late, Castoff. I'm at the threshold of the Resonance already. In a few moments, I will return all of your shattered minds where they belong, and we will be whole again."
+
+The air rumbles like thunder. "I told you I would take my body back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"I found Matkina, but I couldn't break her illusion. Do you know how I can free her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"How do I free Matkina from her illusion again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"I don't. I'm sorry, but the nature of these illusions is a mystery to me." Seeing your expression, she adds, "But keep searching. *All* of your brethren are here. Perhaps one of them has learned the nature of illusions and can help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"I don't know, but keep searching. Your brethren hold a wealth of knowledge. Perhaps one of them understands these illusions better than I."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4221_riven_maw</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>61</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Something about this room feels *off* to you... a sensation of being watched and evaluated. The Bloom's walls bulge and press, glistening with a faint sheen, like they're beginning to salivate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>To your companions: "Get out of here and let me face this alone. I don't want to endanger you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>You are left alone in the glistening space... and then the horror begins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The little Maws converge on you, some of their tendrils holding you immobile while others tear great chunks from your flesh and toss them into the glowing singularities at their core. You scream. All around you, the Bloom responds with excited and gleeful whispers.
+
+The sounds of brutal feasting are the last thing you hear as darkness claims you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>When at last you awaken, the horrible creatures are gone, and it feels as if a piece of you is missing. A quick inventory of your body reveals nothing missing, but you cannot shake the sense that you are somehow diminished.
+
+That loss is quickly overshadowed - when you look around you, you see that a new Maw stands open on the far end of the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Prepare to fight whatever comes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Let's assume you killed all the creatures.]
+
+{SCRIPT: Please remove these nodes when the battle is added for realz.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>At the battle's conclusion, you look around you, exhausted, and realize that a new Maw stands open on the opposite side of the room. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Back out of the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Swirling portals tear themselves into existence, and slimy creatures tumble out... nightmares of grasping tendrils and gaping maws.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Swirling singularities appear, and slimy creatures tumble out... nightmares of grasping tendrils and gaping maws. They hiss and groan with hunger, and the battle begins!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You cautiously retreat, and the sense of looming danger begins to fade... but even from the edge of the space, you can tell that the room is *awake*, and that its hunger has not disappeared completely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Touch the Magmatic Annulet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>You feel an old and malevolent Maw here, one that has fed over countless centuries and will feed for many more. Worse, you feel it stirring itself from a fitful drowse, and its hunger is *palpable*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Panic suffuses their voice. "Stop! A presence awakens in the room... a great Maw awakens here. *We're inside it now*. We must step back, flee the room before it closes upon us!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>You begin to back away again, only to discover to your horror that the door has slammed shut, and newly grown Bloom-flesh is holding it firmly in place. 
+
+Swirling portals tear themselves into existence, and slimy creatures tumble out... nightmares of grasping tendrils and gaping maws. They turn in your direction and attack!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[DEBUG:  Kill all the creatures.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[DEBUG:  Pretend you started the tussle but got murdered horribly by the creatures.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Well, that could have gone better...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The dry walls begin to glisten again, and the muscles resume their quivering.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>She closes her eyes and listens. "There's a Maw here. But... it's fractured. Hang on."
+
+She falls silent in deep concentration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>The walls glisten and palpate at your return. You can sense a Maw in this room, but it's fractured into many whispering pieces. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>This space has somehow begun to wake. Great muscles contract in a rippling peristaltic wave, trying to pull you further into the room. Your instincts scream of danger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>But you know the Bloom means you no harm. You close your eyes and concentrate, and you hear its whispers. There is a Maw here, but it's fractured, riven into pieces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Command the Maw to repair itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>You sense an old and malevolent Maw here, one that has fed over countless centuries and will feed for many more. Its voices are spread throughout the room, chittering amongst themselves. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>The Maw's voices are scattered throughout the room. Until they are drawn back together, the Maw won't be able to form.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Listen to the voices in the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Listen to the voices in the room again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>You concentrate, willing the Maw to heal itself, and you feel the disparate pieces of its consciousness slowly fitting themselves together.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>A noise rises from the corner in the room, something like wet meat sliding across itself. And then, the sound of meat tearing...
+
+{SOUND: Should play some kind of sound here. I believe JIRA 1565 is tracking the request for this. -JF}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>... and a new Maw gapes hideously in the wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Matkina's smile is broad and unforced, completely satisfied.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Script Node 45</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Script Node 47</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>To your companion: "Get out of here and let me face this alone. I don't want to endanger you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Your companion disagrees, but your resolve holds firm. After a few moments of complaint, you are left alone in the glistening space... and then the horror begins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Offer yourself as a sacrifice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>You call out to the presence in the room, making it clear that you are giving yourself freely to satisfy its hunger. For a moment, the room is silent, and you are alone in the glistening space. Then the nightmare begins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Not the way I'd like to see you go out, friend... but then again, you've got a knack for getting through these scrapes. Be careful, though, all right?" Aligern lays a hand on your shoulder for a moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Pity. I've been hoping to see a castoff devoured by the Bloom for a while now. You'll probably get along just fine, though." Aligern shrugs, and steps aside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"We can help you. There's no reason to face this alone." Callistege's face is drawn with worry. "But if you insist..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"You're placing yourself in danger for *us*? How *kind* of you, dear. How *unexpected*. Best of luck." Callistege nods her head slightly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"I fear no danger!" Erritis announces, and then he eyes the glistening walls. "But I've already been digested. It's an experience that you shouldn't have more than once." He backs away slowly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Perhaps this adventure will be more to your liking. I've already been digested once." Erritis eyes you remorsefully. "You should try it. Maybe the acids will carve away some of your less heroic edges." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"My favorite brother's going to sacrifice himself for us? How... unexpected." Matkina arches her eyebrow and mutters, "Be careful, yeah?"</DefaultText>
+      <FemaleText>"My favorite sister's going to sacrifice herself for us? How... unexpected." Matkina arches her eyebrow and mutters, "Be careful, yeah?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Gladly." Matkina doesn't meet your eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"You be careful. Whatever you're planning, you be careful." Rhin punctuates her words with pokes of her finger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Don't be gone long." Rhin glowers at you. "You said you'd get me home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"I like a good piece of meat as much as anyone, but don't you think this is taking it a bit too far?" Tybir pauses, then raises his palms to forestall an argument. "Not that I don't think you can *handle* it, but... well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"This room looks like just your type of flesh. I'll leave you to it, and happily," Tybir announces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Your companions clear the room. It breathes around you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Your companion clears the room. It breathes around you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Your companion nods uncertainly and withdraws from the room. For a long moment, you are left alone in the glistening space... and then the horror begins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Script Node 71</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>::sssssmmm:: Oom murmurs, not looking at you. Its fear for you fills your mind like a cloud of ink. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

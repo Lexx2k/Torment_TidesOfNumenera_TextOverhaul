@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4501_tash_conversionconversation</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"What do *you* want?" His ugly scowl deepens. "I saw you in my mind. You *violated* me! Forced me to betray Paj and the First!"
+
+His grip tightens on his blade. "I'll see you dead for that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Matkina was trying to do good, and you betrayed her. I only made things right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I'm sorry for what I did to you. I didn't even know I was doing it at the time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"You have to understand, I'm doing what's necessary - I've *always* done what's necessary. The First's plan will *kill* us. We have to stop her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Leave and say nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"What do *you* want?" His ugly scowl deepens. "I saw you in my mind. You *controlled* me, kept me from erasing her mind."
+
+His grip tightens on his blade. "But... you betrayed her anyway. Why?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>He leers at her. "This isn't all you've forgotten, you know. I've been sapping your mind since we first met. You made it so easy - always willing to believe what you *hoped* instead of what *was*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"You're with *him*. After what he did to me? I'm not sure I have anything to say to you."</DefaultText>
+      <FemaleText>"You're with *her*. After what she did to me? I'm not sure I have anything to say to you."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"No!" His face reddens. He is quaking with fury. "*No!* You *raped* my mind! Now you'll die for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>He blinks, staring for a long time. "You really believe that, don't you?"
+
+He glances over at the First. "She's always done what's necessary, too - even slaughtering castoffs..."
+
+He turns back and nods. "I believe you. I'll help you stop her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>He stares at you for a long time, then glances at the First. "She's always done what's necessary, too... I won't turn on her, not now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"You'll die!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I'll kill you for what you made me do!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Why?" He shifts his posture, uncertain. "You could've forced me to help her, but you didn't. Why?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Words won't solve *our* problems, 'Kina.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>He scowls. "What do you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"No more talk. I have a job to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"You're right. I should have let your betrayal stand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"You were weak, Tash. You should've killed her, not merely changed her memories."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Convince him that the First's plan will kill him - and all the castoffs.
+{bonus from silver dominant tide}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>He stares at you for a long time, then glances at the First. "She's always done what's necessary, always worked for our greater good... I won't turn on her, not now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"You have to understand, I'm doing what's necessary - I've *always* done what's necessary. The First's plan will *kill* us. We have to stop her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"You're a bastard, Tash, always were." Her weapon twists in her hand. "When you're down, I'm going to carve pieces out of your brain, just like you did to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>He growls, his scowl deepening. "Oh, we're already even on that score, Matkina. Your *master* penetrated my brain and twisted it like dough - he made me do things I didn't want to do and then be *happy* about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Is that what you think he did? He *saved* me Tash, the only way anyone could have. He did what he had to do."
+
+Her expression suddenly softens. "It's *your* master you should be worried about. She's blind to anything but her goal, oblivious to the costs along the way. Whether she means to or not, she'll *kill* us if she gets her way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>He smirks. "Just remember that - even if you *do* kill me - you'll never be sure if that's what really happened. *Never*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>He blinks, staring for a long time. "You really believe that, don't you?"
+
+He glances over at the First. "She's always done what's necessary, too - even slaughtering castoffs..."
+
+He turns back and nods. "Maybe you're right. I'll stop her. But this *doesn't* make you and me square, hear?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>She frowns and says nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Script Node 35</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Oh, I *like* seeing you bleed."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

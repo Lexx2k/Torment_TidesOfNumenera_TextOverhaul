@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3101_upside_down_pyramid</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>45</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The pyramid is as you left it, underlit by a serene white light.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Examine the pyramid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Touch the pyramid again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Leave the pyramid. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>You study it from every side. There's no inscription to explain why it was erected or by whom, nor is there any obvious way to interact with it.
+
+You do notice that the light from inside the cracks seems to follow your hand as you slide it across. So perhaps it *is* reacting to you after all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Kick the pyramid again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Shove the pyramid again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You run your hand over the pyramid in the pattern you discovered, except this time you keep going. The white light fades as you do, but a feeling of well-being and strength fills you - as if the light were being transferred directly to your heart.
+
+When you are healed fully, the light fades to nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Nothing happens. The pyramid remains dark. 
+
+{SCRIPT: If the lighting is off.} 
+{SCRIPT: Nothing happens. Advances orange counter by one.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>A shock jolts up your arm from your fingers, and punches you in the heart. That hurt!
+
+{SCRIPT: If the lighting is orange.} 
+{SCRIPT: Group takes minor damage. Orange light remains on until next sleep. And continues to deal minor damage each time the pyramid is touched.}
+{SCRIPT: Plays once only. Also turns off Node 14 and Node 17. Only Node 25 will play from now on if the Pyramid is orange.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You turn away from the pryamid and move on. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The white light dies as you land a kick on the pyramid, but a feeling of wellbeing and strength fills you. It's as if the light was transferred to your heart. 
+
+{SCRIPT: If the lighting is white} 
+{SCRIPT: Group heal. Lighting turns off, remains off until after next sleep.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Your kick moves the pyramid a tiny bit, but otherwise nothing happens. It remains dark. 
+
+{SCRIPT: If the lighting is off.} 
+{SCRIPT: Nothing happens. Advances orange counter by one.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>A shock jolts up your leg from your foot, and punches you in the heart. That hurt!
+
+{SCRIPT: If the lighting is orange.} 
+{SCRIPT: Group takes minor damage. Orange light remains on until next sleep. And continues to deal minor damage each time the pyramid is touched.}
+{SCRIPT: Plays once only. Also turns off Node 10 and Node 17. Only Node 25 will play from now on if the Pyramid is orange.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>The white light dies as you give the pyramid a shove, but a feeling of wellbeing and strength fills you. It's as if the light was transferred to your heart. 
+
+{SCRIPT: If the lighting is white} 
+{SCRIPT: Group heal. Lighting turns off, remains off until after next sleep.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>The pyramid rocks a bit as you give it a shove, but other than that, nothing happens. It remains dark. 
+
+{SCRIPT: If the lighting is off.} 
+{SCRIPT: Nothing happens. Advances orange counter by one.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>A shock jolts up your arms from your hands, and punches you in the heart. That hurt!
+
+{SCRIPT: If the lighting is orange.} 
+{SCRIPT: Group takes minor damage. Orange light remains on until next sleep. And continues to deal minor damage each time the pyramid is touched.}
+{SCRIPT: Plays once only. Also turns off Node 10 and Node 14. Only Node 25 will play from now on if the Pyramid is orange.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Touch the pyramid. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Kick the pyramid. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Shove the pyramid. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>A large, upside-down pyramid floats before you, lit from below by a soft white light. It is made of weathered stone, but you see lights and hear a faint buzzing through the cracks in its crumbling facade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>The underlighting turns back on, but this time it's an eye-blistering orange. Looking at it seems to sear a warning into your mind.
+
+{SCRIPT: If the lighting is off and the orange counter has reached two.} 
+{SCRIPT: Orange light turns on.} </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The pyramid sways slightly under the force of your kick, and the underlighting turns back on, but this time it's an eye-blistering orange. Looking at it seems to sear a warning into your mind.
+
+{SCRIPT: If the lighting is off and the orange counter has reached two.} 
+{SCRIPT: Orange light turns on.} </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>The pyramid shifts a little in the air as you lean into it, and the underlighting turns back on, but this time it's an eye-blistering orange. Looking at it seems to sear a warning into your mind.
+
+{SCRIPT: If the lighting is off and the orange counter has reached two.} 
+{SCRIPT: Orange light turns on.} </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>You are shocked again. It hurts just as bad as the first time. 
+
+{SCRIPT: If the PC has already been shocked once by the pyramid.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>The pyramid is as you left it, dark and cold.
+
+{SCRIPT: Plays if light is off.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>The pyramid is as you left it, underlit by a harsh orange light. 
+
+{SCRIPT: Plays if light is orange.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>The pyramid has returned to the state you found it in, underlit by a calm white light. 
+
+{SCRIPT: Plays if light was not white when PC left it, but PC has slept since then.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>A gentle white glow appears to be the only thing supporting this upside down pyramid. A faint scent of something sweet fills the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Examine the pyramid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Examine the pyramid again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The cold pyramid looms without the cradle of the white glow it once had. The sweet scent that once danced in the air can no longer be found.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Activate the pyramid's full healing powers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Activate the pyramid's healing powers again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>You run your hand in the same pattern as before. But other than a dry breeze that brushes past you, nothing happens. The pyramid remains unlit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>The unlit pyramid remains still, unlit, and balanced in the dry air of the valley.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Try to figure out how the pyramid works.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Try again to figure out how the pyramid works.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>You slide your hands across the pyramid, following not the cracks, but the symbols and etchings on its surface. After a great deal of experimentation - and not a small amount of luck - you discover a specific pattern which causes the light to grow in intensity.
+
+As it does so, a soft warmth envelops you, refreshing your body and mind. As you feel better, however, the pyramid seems to grow more dim.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>You run your hands all over it, and although the light in the cracks seems to follow you, nothing else changes. You're just wasting your time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Further fiddling still reveals nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>You stop, not wanting to waste the pyramid's obvious healing power just yet. It should be saved for a time when you really need it.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

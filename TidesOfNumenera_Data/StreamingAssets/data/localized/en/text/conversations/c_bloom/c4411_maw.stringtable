@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_maw</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Script Node 1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The flesh of this Maw is dark and scabrous. It keeps itself tightly shut, like the puckered mouth of an ancient crone. You hear its voices, and they are unusually sharp... almost painful to hear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The dark, scabrous Maw remains shut. Its voices are faint, with an edge of cruelty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Leave the Maw alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Hold the Magmatic Annulet]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[You sense the maw's desires. It regards you with spite. Ha! Totally called it. It also desires despair.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[This older maw appears unlike the others in odd ways. It is closed and determining what it wants most likely will not be revealed with a simple inspection.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Cut open the Maw with the Transdimensional Scalpel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>As you brandish the Scalpel, Matkina lays her hand across yours. "Wait. I've never heard of someone who hurt the Bloom casually. Even a castoff has reason to fear. Are you sure about this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Yes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>She opens her mouth to reply, and then removes her hand. She shrugs. "Your show."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Maybe not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>You return the transdimensional blade to its sheath. A tension drains from the air. You realize that the voices of the Bloom had suddenly hushed when you drew the Scalpel, but now they have resumed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>You thrust the Scalpel into the tough, fibrous flesh of the Maw and begin to saw through its puckered 'mouth.' It gives way easily, and the Bloom's voices respond with a shriek of rage. Skin tears, gristle snaps...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>You thrust the Scalpel into the tough, fibrous flesh of the Maw and begin to saw through its puckered 'mouth.' The Bloom's voices respond with a shriek of rage. Skin tears, gristle snaps...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>...and the Maw opens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Use the Magmatic Annulet to find out what the Maw wants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Use the Magmatic Annulet again, and try to find out what the Maw wants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>You place a hand upon the Annulet and listen carefully to the harsh, whispering voices. They hiss in your ears with a resentment born of centuries, or perhaps millennia, in the dark bowels of the Bloom.
+
+Despair... this is the emotion that sustains the Maw. Indeed, it is the only emotion it truly understands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Even with the help of the Annulet, the angry, hissing voices of the Maw are too alien to understand. Perhaps this Maw is too twisted and old, or it's simply been in this foul place for too long. Whatever the case, its desires elude you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>The spiteful voices whisper indecipherable cruelties into your ears, but the meaning is impossible to discern. Again, you are forced to admit defeat. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Listen carefully to the voices of the Maw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Listen carefully to the voices of the Maw again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>The 'water' of the Bloom has made your thoughts blurry... yet its hissings seem almost like language to you, their meaning half-forgotten, just out of reach.
+
+The whispers are full of *despair*... born of centuries, or perhaps millennia, in the fetid bowels of the Bloom. This must be the emotion that sustains this Maw. Perhaps it is the only emotion it truly understands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The voices spit and hiss, their meaning unclear but undeniably cruel. Still, you don't get the sense that the Maw's ire is directed at you. It doesn't seem to react to your presence at all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>You detect nothing new in the voices. They are still harsh and malevolent... and utterly indifferent to your presence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Your sharp senses provide no particular advantage in hearing the odd sounds. You realize that the Bloom's 'voices' are a psychic phenomenon, not a physical one. They are literally voices in your head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Your sharp senses provide no particular advantage in hearing the odd sounds. You realize that the Bloom's 'voices' are a psychic phenomenon, not a physical one. They are literally voices in your head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Your sense-impressions of the voices around the Maw are the same as before - its hunger will only be sated by despair.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Observe the behavior of the Maw's tongues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Observe the behavior of the Maw's tongues. again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The tendrils are alert, probing the air, as if something they desire is nearby. However, it's clear that they aren't interested in you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>The tendrils wave gently through the air, torpid and aimless. They don't seem interested in anything nearby.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

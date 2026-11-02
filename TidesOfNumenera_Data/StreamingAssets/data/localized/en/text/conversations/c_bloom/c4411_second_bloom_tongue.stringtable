@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_second_bloom_tongue</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>239</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Second Bloom tongue description.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Force the Maw to open.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Walk away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[You walk away. You really need to wash your hands.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The Maw's intelligence fights against you, struggling to maintain its independence and integrity. It brings its lines of force to bear on you, lashing you with psychic feedback and menace, but you batter them aside. The Maw opens slowly, reluctantly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Perhaps your mind is not up to the task, or perhaps the Maw is too old and too powerful for you to manipulate. It seems to be drawing strength from the surrounding Bloom and from those beings who make their home in the Gullet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The Maw's intelligence is totally unprepared for your mental onslaught, and it is unable to marshal its power to fight you. It tries to lash you with psychic feedback and menace, but you batter them aside and force its power back into itself. The Maw snaps open.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Your strength is not up to the task, and the Maw is too old and too powerful for you to manipulate. It lashes you with streamers of psychic force, driving you away, and you can feel the mental lacerations of its fury. You'll need to find another way to open the Maw, if you can.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Open the Maw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>This Maw seems different, both powerful and stranger than any other you've encountered. You can *feel* its influence reaching throughout the Gullet, lines of force emanating from it to touch the living creatures in the area.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Try something else.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[You consider your other options.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Try to sense what the Maw wants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>After a few moments of concentration, you realize that this Maw is unlike the others you have seen. It can reach throughout the chamber and *change* the place according to its will. It builds traps to lure its victims to their doom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>At the moment, though, it doesn't appear to be interested in anything - or anyone - nearby. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>At the moment, the Maw's attention is riveted upon the Callistege-echoes who lurk glumly nearby. One of those echoes is a trap, a lure, created by the Maw to ensnare the other. You can feel the recalcitrant hardness of the other echo, a shell that must be dissolved with apathy and doubt... and you can sense the malign intelligence of the Maw working through the false echo of the older Callistege to prepare the real echo for its destruction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[OLD NODES]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[NEW NODES[</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Black and fleshy tendrils have erupted from the ground here, like the tentacles that surround a Maw. The sound they make is like soft hiss, punctuated with obscenely wet slaps of flesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>They seem to twitch and grope for you as you approach, and the nearly subliminal chittering voices of the Bloom begin to buzz in your ear again. Your hand instinctively steals toward the Annulet, reaching for its safety... almost as if you had done it before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>You see Matkina twitch and withdraw a bit, tension filling her frame. She eyes the mass of writhing flesh with a healthy caution - not exactly fear, but wary *respect*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You hear Matkina's breath catch a moment as she sees the mass of tongues, as if she was surprised by a once-familiar sight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>The Bloom-tongues seem to yearn for you, and the incessant chittering in your head seems louder than before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText> Follow-up PQ. 27</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The chittering voices grow louder...
+
+You sense that the Bloom-tongues are still tired and lazy after devouring one of your sire's memories. With the aid of the Annulet, you may be able to seize control of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>The chittering voices grow louder...
+
+You sense that the Bloom-tongues are still disoriented by the strength of the Tidal Surge. With the aid of the Annulet, you may be able to seize control of them.
+
+{PAINCASTING}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The chittering voices grow louder...
+
+You sense that the Bloom-tongues are alert and eager to probe your mind... *hungry* for the memories that might be hidden there. But they are also in a weakened state, so taking control of them should be easier now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>You reestablish your link with the tongues, sensing *submission* from them. They will yield to your will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>You grasp the crystalline artifact. At once, the voices of the Bloom grow louder... and louder still. They fill your consciousness, drowning out your thoughts, hissing and whispering and chittering and buzzing. They're coming from every direction, from above and below.
+
+Swaying on your feet, you nearly topple to the floor. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Matkina grabs hold of your arm to prevent you from falling. "What's wrong with you?" Her eyes are wide and confused. 
+
+You shake your head, unable to respond, caught up in the torrent of maddening sound.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Slowly the Bloom-voices resolve themselves into their constituent parts, but now they carry sense-impressions with them. *Hunger*, *curiosity*, *desire*... each burst of Bloom-voices evokes a new impression in your mind. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>For a moment, you let go of the annulet, and the sense-impressions are gone - the voices are nothing but meaningless babble.Then you touch the annulet again, and the sense-impressions return. 
+
+You realize that the crystalline artifact is a translator of sorts, though the limits and scope of its power are uncertain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText> Follow-up PQ. 36</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>You hear the cluster of Bloom-tongues whispering softly to you, exuding a sense of expectation and familiarity. These tongues know your scent... or perhaps that of your sire... and they are eager to touch your mind. But their voices are not the only ones here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>A score of other voices gibber and shout from the dark corners of the room... ordinary human voices that once belonged to the merchants, guards, and Bloom-guides who were devoured here. Fragments of their minds cling to life in their half-digested corpses, and they cry out in confusion, rage, or pain. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>The Bloom-tongues whisper softly to you, tickling the edges of your consciousness like tiny wriggling fingers, trying to reach inside your mind. 
+
+Every few moments, the whispering tongues are drowned out by the voices of the men and women who were devoured in this chamber. They shriek in confusion and anguish, unaware that they are already dead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText> Follow-up PQ. 37</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>You focus on the Bloom-voices that are coming from outside the Trade Post. What seemed at first like an indistinct babble is actually many different voices - thousands of voices, each arising from somewhere else in the Bloom. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Some of the voices belong to individual Maws, evoking impressions of *hunger* and *need*. Others resonate from deeper places within the Bloom. When you concentrate on those voices,  you experience flashes of intense emotion or catch fleeting glimpses of men and women being beaten or killed. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Every voice is unique... chittering, groaning, barking, whispering, rattling, hissing. Yet *all* of them are the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>You concentrate on the voices that echo from the far, festering corners of the Bloom. Some belong to Maws, chittering their particular desires, while others arise from deeper places.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Try to communicate with the cluster of Bloom-tongues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Relaxing your mind, you allow the whispering of the Bloom-tongues to penetrate your thoughts. Memories rise into your consciousness, trivial moments you thought you had forgotten. Just as you recognize them, they are swept away. 
+
+The Bloom-tongues are sifting through your memories... looking for something...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>The voices dig deeper into your unconscious. What seemed harmless at first becomes irritating. A dull ache blossoms in the back of your head, spreading across your skull and down your spine. The pain comes in waves, as if the Bloom is trying to wrench a memory out of your head...
+
+It almost seems as if the Bloom is calling to the Tides within you, magnifying their power.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Deep in your mind, you can feel something about to burst... something intangible, an emotional dam. If it does, your body will cast your unwelcome pain, your anguish, back into the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Allow the Tides to lash out into the Bloom. {SCRIPT: TIDAL SURGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>The white-hot waters of pain that churn and boil inside you come spilling out, a molten rush of agony that leaves your nerves quivering with its passage. It surges across the *bridge* that the Annulet has created between your mind and the tongues. 
+
+From all around you, the Bloom's voices shriek in hatred and fury. The tongues twist and writhe... the ground shakes... 
+
+{SCRIPT: Play screenshake}
+
+{AUDIO: Play Bloom's pained, 'shrieking' noise.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>And then the rush of pain is gone. The clustered Bloom-tongues droop, their movements feeble, their voices no more than a whisper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>In the aftermath of your... unusual experience... you find that you have maintained your grip upon the Magmatic Annulet. Your connection to the Bloom-tongues remains intact. While they're in a weakened state, you might be able to seize control.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Try to take control of the Bloom-tongues.
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>You reach across the barrier that separates your consciousness from that of the tongues - a barrier now made permeable by the Annulet. 
+
+Tentatively, you begin to direct the motions of the tongues. It's a strange sensation... like having another set of limbs... but they respond to your impulses. Belatedly, the tongues try to resist, but with a bit of concentration, you quiet them like errant thoughts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Satsada was right - these tongues are a tiny locus of the Bloom's consciousness. Their roots extend throughout the Gullet... and now, so do your thoughts and commands...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>The roots of this tongue-cluster grow thick beneath the floor of the chamber. Unlike the tongues you have encountered before, they seem to be cut off from the rest of the Bloom. 
+
+Now that you are connected to the tongues, you hear whispers coming from somewhere nearby.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Make the Bloom consume the flesh of the Murden, leaving behind his stuff.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Portal opens up and rips his flesh from his body but leaves behind his stuff.]
+
+{SCRIPT: hide murden and drop loot to pickup.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Have the Bloom create a bubble cell deep within and imprison her alone until she is fully consumed.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[The Bloom removes Maktina from the Gullet.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Attempt to free Aligern from the Bloom]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[The Bloom doesn't appear to be actively tormenting or consuming Aligern. Instead it appears it is being fed by Aligern, who is offering himself, via his guilt, to the Bloom.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Aligern gives his input on the situation.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Callistege gives input on Aligern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[As you attempt to free Aligern, he fights and further forces his guilt and determination upon the Bloom. He will be torn to pieces to fight against your attempt to force the Bloom to separate from him.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Continue to attempt to free Aligern.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Aligern fights your attempts but is not as strong as the power behind the Bloom. He is ripped to shreds and dissolves into nothingness.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Leave Aligern to continue his suffering.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[You decide leaving him is safest. Poor guy.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>It's just a matter of concentration. You can feel the particulars of each Bloom-tongue - and each begins to fall under the spell of your will.
+
+{GEORGE: Could the Bloom actually *like* this interaction for some reason - and maybe give the player a little Bloom favor?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>You reach across the barrier that separates your consciousness from that of the tongues - a barrier now made permeable by the Annulet.
+
+Tentatively, you try to direct the motions of the tongues, but they resist you. Like persistent thoughts or a tune that you can't get out of your head, they overwhelm your ability to concentrate, and you are cast out of their mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Your attempted invasion has invigorated the tongues, but some of them still loll against the others. If you throw the Tides into them again - or let them feed on a memory, perhaps - you sense that their resistance will crumble more easily.
+
+{TIDAL SURGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Allow the tongues to enter your mind again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>The whispering voices of the Bloom-tongues drift deep into your thoughts, tugging at another deeply-buried memory. As the memory rises toward consciousness, a throbbing pain born of the Tides builds beneath your skull, threatening to burst...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Let the pain surge into the Bloom. {SCRIPT: TIDAL SURGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>In a scalding torrent, your pain rushes into the Bloom. Its voices shriek and hiss, their fury washing over you in waves, to no avail. 
+
+{SCRIPT: Play screenshake}
+{AUDIO: Play Bloom's pained, 'shrieking' noise.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>The tongues sag nearly to the ground. Reaching across the 'barrier' that separates your minds, you begin to direct their motions. It's a strange sensation... like having a second set of limbs... but they respond to your impulses without a fight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Resist the pain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>You grit your teeth against the pain, struggling against your body's natural instinct to cast it out, while the tongues tear the memory from the depths of your unconscious. At last it pulls free, unraveling itself before your eyes...
+
+{SCRIPT: Int damage currently set to 3 - should be same as other cases when the player allows Bloom-tongues to take a memory.}
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>You do not look at her, but you can feel her next to you as you stride across the polished metal floor, echoes of your bootheels flying into the great space above you like startled birds. Your destination is a great circular door, torn from its hinges, beyond which waits a device that can translate you to the place where time's cruel grasp is a gentle caress.
+
+You pull up abruptly. You don't want this woman to see your secrets anymore.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"No, Maralel. I gave you my reasons, and I have had enough of explaining myself to you." 
+
+You turn to look at her at last. Her eyes burn through the blank stare of her porcelain mask. She says, "I've aided you in your researches, uncovered secrets of the Tides you never knew, would never have figured on your own. I'm twice the thinker you a - "
+
+Your hand lashes out, slapping the mask from her face. You hear it crack on the ground.
+
+Your sire's memory fades, as does your memory of it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Completely sated by the memory, the Bloom-tongues sag nearly to the ground. Reaching across the 'barrier' that separates your minds, you begin to direct their motions. It's a strange sensation... like having a second set of limbs... but they respond to your impulses without a fight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Your attempted invasion has invigorated the tongues, but some of them still loll against the others. If you feed them another memory - or throw the Tides into them, perhaps - you sense that their resistance will crumble more easily.
+
+{TIDAL SURGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>You expect this to be easier, but... something in the Bloom pushes back. Even as you extend your will, the Bloom itself focuses on its desires.
+
+{GEORGE: Like Crit Success, maybe the Bloom resents this artificial intrusion and the player loses Bloom favor.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Let go of the Magmatic Annulet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>You release your grip on the Annulet. Though you can still hear the chittering voices, they no longer evoke sense-impressions in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>You release your grip on the Annulet, cutting the connection between your mind and the Bloom-tongues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Resist the pain and let the Bloom feed on a memory.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>You close your eyes and concentrate upon the pain, defying your body's instinct to cast it out. Dimly you are aware of the Bloom's presence in your mind, pulling at a memory hidden deep in your unconscious, like a stubborn tooth that refuses to be torn out.
+
+With a final gout of searing agony, the memory bursts into your conscious mind...
+
+{SCRIPT: Int damage currently set to 3 - should be same as other cases when the player allows Bloom-tongues to take a memory.}
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>You're in the heart of Tabaht territory now. The ceiling of their underground city is so high that you can barely see its curves, but the flickering illumination on the carvings there make a ghastly show: demonic figures disport among the bodies of fallen enemies, atrocities shouted down from the heavens. But this is not what you're here for... you're here for the Underspine, their god and slave, a massive machine intelligence that guides them through their rituals.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>You're hovering near the great bulk of the machine, placing your detonations around the torus of its center, and you think your stealth has been exemplary... but a pinhole spotlight centers on you, and a focused beam of sound strikes your ears.
+
+"The processing and memory retention cells are higher. If you wish to destroy me utterly, place your explosives there."
+
+And then a smaller, whispered, "Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>The memory ends, slurped from your mind like sugary nectar. You remember witnessing it, yet the memory itself - the collection of sensory impressions that was actually experienced by the Changing God - is gone, devoured by the Bloom. 
+
+The Bloom-tongues sag drunkenly against each other, as if the feast has made them languid and confused.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Let go of the Magmatic Annulet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>You try to unclench your fingers from the crystalline artifact but find that you can't. The whispering voices of the Bloom skitter up and down your nerves, and your body is no longer yours to command. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>As before, the Bloom-voices grow louder and clearer, resolving themselves into vague sense-impressions. You're able to distinguish between those that arise from within the Trade Post and those that arise from without.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText> Follow-up PQ. 40</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Even after drinking the 'water' of the Bloom, you can't quite hear the voices clearly. You'll have to make a more direct connection to the tongues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>The hissings and chitterings are completely unintelligible to you... if indeed they 'mean' anything at all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText> Follow-up PQ. 43</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>You carefully reach into the cluster of squirming tendrils. When they touch your hand, they pass *through* it, and a prickly, hot-cold sensation runs up your arm. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>With the 'water' of the Bloom coursing through your body, you can sense a difference between the voices here and the ones you heard at the Maw. This particular tongue cluster has roots that extend throughout the chamber, and its whispers control their movements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>The 'water' of the Bloom attunes your senses to the subtle vibrations of the tongues. Their roots extend throughout the chamber, wriggling beneath the Bloom-flesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>You notice that the Bloom's voices are much louder when you are touching the tongues - though you can't understand them any better. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>The Bloom's voices seem louder whenever you touch the tongues, but you don't notice anything different about them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>You thrust your hand into the midst of the writhing tongues. They pass *through* it with a prickly sensation that dances through muscle and bone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Matkina, what is this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>She turns to you with the beginning of a smirk, obviously aware that you heard her intake of breath when she first saw the tongues... and maybe a little impressed that you noticed. 
+
+She shrugs. "After careful thought, I'd guess that it's a bunch of Bloom-tongues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>She reaches out a hand, holding it near one of the tongues. "I've heard rumors. Stories from people who've been here a long time. The crazies and addled heads. Tongues only grow like this in the deepest parts of the Bloom. It must've dragged this whole chamber into the depths."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>She turns to you with the beginning of a smirk, obviously aware that you caught the change in her bearing when she first saw the tongues... and maybe a little impressed that you noticed. 
+
+She shrugs. "After careful thought, I'd guess that it's a bunch of Bloom-tongues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Satsada, do you understand what the voices are saying?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"No... I sense too *many* of them here. The whispers of the tongues and other voices outside these walls. They are all chattering at once." Riastrad shakes his head as if trying to clear it.
+
+"These tongues may be one locus of the Bloom's mind... a small one, but still powerful, at least within this chamber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"No... I sense too *many* of them here. The whispers of the tongues, other voices outside these walls, and *human* voices too... remnants of those who were devoured in this place, I think. They are all chattering at once." Riastrad shakes his head as if trying to clear it.
+
+"These tongues may be one locus of the Bloom's mind... a small one, but still powerful, at least within this chamber."
+
+{COLIN: This Row}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Leave the tongues alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>The susurrus of the Bloom-tongues grows both louder and more malevolent as you approach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>You discover your hand resting atop the Magmatic Annulet once again, drawn there instinctively.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>The nearly-intelligible voice of the Bloom begins to chitter in your mind again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Touch the Magmatic Annulet again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Touch the Magmatic Annulet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Listen carefully to the Bloom's voices.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Listen to the Bloom's voices again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Touch the Bloom-tongues again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Touch the Bloom-tongues with your hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Listen to the nearest voices again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Listen to the nearest voices.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Listen to the distant voices again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Listen to the distant voices.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Another cluster of Bloom-tongues rises before you. You reach instinctively for the Magmatic Annulet, touching it to hear the voices of the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>The Bloom-tongues sway before you, suggestively writhing against one another, and the chittering voices of the Bloom begin to resound in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Nearby, the older Callistege echo shrieks, her voice modulating wildly in pitch as the Maw's power is drawn inward, and at last her image crumples inward upon itself, vanishing like a terrifying nightmare.
+
+{SCRIPT: Remove the second Callistege}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Walk away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Dark and fleshy Bloom-tongues sway before you. These are much like the ones you encountered in the Trade Post, but this time, the hissing and buzzing voices of the Bloom are eager and impatient, worming their way into your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>A cluster of Bloom-tongues sways before you. These are much like the ones you encountered in the Trade Post, but this time, the hissing and buzzing voices of the Bloom are eager and impatient, worming their way into your mind.
+
+Somehow, the Bloom is trying to establish a connection on its own, without the aid of the Annulet. You realize that the Annulet granted you a measure of *control* over the voices, but now that control is gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Another cluster of Bloom-tongues rises from a swollen mound of flesh. The sound they make is like a soft hiss, punctuated with obscenely wet slaps of flesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>The susurrus of the Bloom-tongues grows louder and more malevolent as you draw near.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Use the Magmatic Annulet to communicate with the Bloom-tongues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>You reestablish your link with the tongues, and again they submit to your will. Their roots connect to the nearby Maw - you feel its old, patient mind lurking at the edge of your consciousness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Again the voices sift through your buried memories, and the pain returns. They fix upon another moment from your sire's past and begin to pull it free...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>You sense that the Bloom-tongues are still disoriented by the strength of your Tidal Surge. With the aid of the Annulet, you may be able to seize control of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>You sense that the Bloom-tongues are still tired and lazy after devouring one of your sire's memories. With the aid of the Annulet, you may be able to seize control of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>The voices grow louder, pushing aside your thoughts, drawing memories into your conscious mind. A sharp pain blossoms in your head as the tongues fixate upon a memory and begin to tear it free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Channel the pain back into the Bloom-tongues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>You summon the Tidal energy within you and *push* your pain into the tongues. They lash about, filling your mind with their shrieks of rage. The whole chamber shudders...
+
+{SOUND: Play Bloom's pained, 'shrieking' noise.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>...and then their wrath is spent. The Bloom-tongues loll against each other, exhausted. With the aid of the Annulet, you may be able to seize control of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>...and then their wrath is spent. The Bloom-tongues loll against each other, exhausted. You may be able to seize control of them now, but it will be harder without the Annulet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Take control of the Bloom-tongues.
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>You reach across the barrier that separates your consciousness from that of the tongues. They resist you at first, but your will is stronger than theirs, and their agitated voices subside. You find that you can control their movements, as if they were a part of you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>This cluster of tongues is another tiny locus of the Bloom's consciousness, extending throughout this chamber. Beyond that, their influence fades, but they control most of what happens here... and now, by extension, so do you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Use the tongues to devour the murden's body, leaving its possessions behind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>The Bloom responds to your touch, and you can feel its boundless hunger as the ground near the murden softens and entraps the abhuman's feet. The murden struggles to break free, but it is too weak to prevent the Bloom from drawing it in still further. The Bloom's fleshy embrace soon envelops the murden completely, and its blatting static becomes muffled... and finally disappears completely.
+
+A few moments later, the murden's skeleton, remarkably intact, floats to the surface again.
+
+{SCRIPT: Apparently the murden needs to go away and be replaced by a skeleton?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Lash out with the tongues and trap Matkina's shade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Bloom-flesh erupts around the shadow of the White Death, encircling her, and then encysting her. You can hear her savage cries from within - cries of rage, not fear - as the bubble of Bloom-flesh sinks into the floor, taking Matkina's shade with it.
+
+{SCRIPT: Get rid of Matkina's shade.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>She looks away, shaking her head, speaking to herself. "It's not you, Matkina. It's not you." Then she looks up, wiping her cheek with the back of her hand, and says more loudly. "Going out fighting. Good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Free Aligern's shade from the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>The tongues *resist* freeing him, despite your control over them. Or perhaps it is the Aligern-shade himself who struggles to be devoured.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Gods!" He drags his hand across his head. "Look at that. Look at *me*. What part of me wants this for myself?"
+
+He looks down at himself, at his tattoos, and looks back at the shade of himself trapped by the Bloom. "I... I can't look anymore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Her laughter is shrill and ringing. "Let him stay, I say. He's right where he belongs!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Indeed, the incorporeal Aligern fights and claws to hold onto the Bloom's flesh. He snarls at you, fighting any attempt to pull him free. He even sinks his teeth into the Bloom, grabbing hard to remain here. His tattoos sink into the walls, providing additional anchor points.
+
+He would rather be torn to pieces than be separated from the Bloom, it seems.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Keep trying to free him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Aligern's savage struggle is of no avail against your indomitable will. As his fingers separate from the wall of the Bloom, his body begins to de-cohere, losing solidity and sight, and in a moment, he has vanished altogether.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Leave Aligern to continue his suffering alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>You cease your efforts to release the shade. He seems content to remain where he is. If you're to free him, you'll need to find some other way to do it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>The roots of these tongues extend beyond the limits of this chamber, where they are joined by countless more. Twisted and knotted together, they chitter and screech in a million little voices, snaking down toward... something else... a vast, unfathomable *presence* that subsumes them all. 
+
+A great, pounding noise rises from the place where they converge, lighting up all the nerves in your body with every thunderous beat. Whatever it is... it's very close.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>The roots of these tongues join millions of others, twisted and knotted together, descending from the upper layers of the Bloom. You can sense a great, thunderous beating sound from the place where they all converge... which isn't far below this chamber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Try to sense what's happening outside this chamber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Try to sense what's outside this chamber again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Reopen the portal to the Shrine of Chila.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>You call upon the alien perceptual organs that are strewn throughout the chamber - pulsing sacs of blubber, hollow protrusions of bone, and wriggling tubules that 'see' into other dimensions. None of them detect any sign of the portal that brought you here. 
+
+The secret Maw has closed - or hidden itself, perhaps - and you cannot go back the way you came.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>You reach across the barrier that separates your consciousness from that of the tongues, but their hissing grows louder, and louder still, blurring your thoughts and routing your psychic assault.  
+
+The tongues twist and squirm with renewed vigor, but you notice that they still aren't as energetic as before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Allow the tongues to enter your mind again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Again the voices sift through your buried memories, and the pain returns. At last they fix upon another moment of your sire's past. They begin to pull it free...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Channel the pain back into the Bloom-tongues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>The tongues shriek as your pain overwhelms them. As they lash about, the Bloom rumbles and shakes.
+
+{SOUND: Play Bloom's pained, 'shrieking' noise.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Finally, the tongues sag, defeated. You reach across the barrier that separates your consciousness from that of the tongues. They resist you at first, but your will is stronger than theirs, and their angry voices subside. You find that you can control their movements, as if they were a part of you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Allow the tongues to feed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>With a final rush of pain, a memory bursts into your conscious mind...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>You materialize into a damp green corridor. Your silver skin is quiescent - no energy bolts fire at you, no invisible beams bathe you in their radiation. The data that flickers to your visor tells you that the air is cold and stale, and the nearby power signatures operate at a trickle. The installation is on standby.
+
+You synchronize a surveyor orb to your suit and hurl it down the hall. Real-time mapping information appears in your visor. You begin the long journey to the command station.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>You contemplate as you walk. This would be a fine place to start afresh. Perhaps free from the Sorrow's reach? No. It has followed you through time, between worlds - a few kilometers would mean nothing to it.
+
+A door irises open into a cavernous, shadowy room. You stride to the control panel. Alien letters and holograms flicker to life as you regard it. You smile. You've always been good with languages.
+
+This station is as good as yours. It is your library, your repository... your salvation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Sated by the memory, the Bloom-tongues sag nearly to the ground.
+
+Unfortunately, in your weakened state, the ordeal was too much for you. You collapse to the ground beside the tongues, and everything goes dark...
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>With a final rush of pain, a memory bursts into your conscious mind...
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>You do not look at her, but you can feel her next to you as you stride across the polished metal floor, echoes of your bootheels flying into the great space above you like startled birds. Your destination is a great circular door, torn from its hinges, beyond which waits a device that can translate you to the place where time's cruel grasp is a gentle caress.
+
+You pull up abruptly. You don't want this woman to see your secrets anymore.
+
+{COLIN: Needs a new memory. Nodes 181-182 should be the same as nodes 185-186.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"No, Maralel. I gave you my reasons, and I have had enough of explaining myself to you." 
+
+You turn to look at her at last. Her eyes burn through the blank stare of her porcelain mask. She says, "I've aided you in your researches, uncovered secrets of the Tides you never knew, would never have figured on your own. I'm twice the thinker you a-"
+
+Your hand lashes out, slapping the mask from her face. You hear it crack on the ground.
+
+Your sire's memory fades...
+
+{COLIN: Needs a new memory. Nodes 181-182 should be the same as nodes 185-186.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Completely sated by the memory, the Bloom-tongues sag, unable to resist you any further. You reach across the barrier that separates your consciousness from that of the tongues and find that you can control their movements, as if they were a part of you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Break your connection to the tongues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>You try to unclench your fingers from the Magmatic Annulet, but they don't move. The Bloom-voices fill your head - somehow they're preventing your muscles from responding to your commands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>You try to drive the whispering voices out of your head, but it's too late. They chitter and hiss in every corner of your mind, and you cannot escape them... you cannot even move.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Take control of the Bloom-tongues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Break your connection to the tongues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>You release your grip on the Annulet, and the voices of the Bloom-tongues fade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>You step away from the tongues, and their voices fade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Allow the Bloom-tongues to feed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>The pain grows sharper still, like a hot knife behind your eyes. A memory bursts into your conscious mind...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>You're in the heart of Tabaht territory now. The ceiling of their underground city is so high that you can barely see its curves, but the flickering illumination on the carvings there make a ghastly show - demonic figures disport among the bodies of fallen enemies, atrocities shouted down from the heavens. But this is not what you're here for... you're here for the Underspine, their god and slave, a massive machine intelligence that guides them through their rituals.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>You're hovering near the great bulk of the machine, placing your detonations around the torus of its center, and you think your stealth has been exemplary... but a pinhole spotlight centers on you, and a focused beam of sound strikes your ears.
+
+"The processing and memory retention cells are higher. If you wish to destroy me utterly, place your explosives there."
+
+And then a smaller, whispered, "Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>The memory ends, slurped from your mind like sugary nectar. You remember witnessing it, yet the memory itself - the collection of sensory impressions that was actually experienced by the Changing God - is gone, devoured by the Bloom. 
+
+Even as the Bloom-tongues sag drunkenly against each other, their hunger sated, you feel your legs give way. In your weakened state, the ordeal was too much for you.
+
+Everything goes dark...
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>The pain grows sharper still, like a hot knife behind your eyes. A memory bursts into your conscious mind...
+
+{SCRIPT: Int damage currently set to 3 - should be same as other cases when the player allows Bloom-tongues to take a memory.}
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>You're in the heart of Tabaht territory now. The ceiling of their underground city is so high that you can barely see its curves, but the flickering illumination on the carvings there make a ghastly show - demonic figures disport among the bodies of fallen enemies, atrocities shouted down from the heavens. But this is not what you're here for... you're here for the Underspine, their god and slave, a massive machine intelligence that guides them through their rituals.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>You're hovering near the great bulk of the machine, placing your detonations around the torus of its center, and you think your stealth has been exemplary... but a pinhole spotlight centers on you, and a focused beam of sound strikes your ears.
+
+"The processing and memory retention cells are higher. If you wish to destroy me utterly, place your explosives there."
+
+And then a smaller, whispered, "Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>The memory ends, and the Bloom-tongues sag drunkenly against each other, sated by their feast. You may be able to seize control of them now, but you sense that it will be more difficult without the Annulet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>The memory ends, and the Bloom-tongues sag drunkenly against each other, sated by their feast. You sense that you may be able to seize control of them now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Break your connection to the tongues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>You try to unclench your fingers from the Magmatic Annulet, but they don't move. The Bloom-voices fill your head - somehow they're preventing your muscles from responding to your commands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>You try to drive the whispering voices out of your head, but it's too late. They chitter and hiss in every corner of your mind, and you cannot escape them... you cannot even move.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Allow the Bloom's voices to enter your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>The chittering voices grow louder...
+
+You sense that the Bloom-tongues are still disoriented by the strength of your Tidal Surge. It will be difficult, but you may be able to seize control of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>The chittering voices grow louder...
+
+You sense that the Bloom-tongues are still tired and lazy after devouring one of your sire's memories. It will be difficult, but you may be able to seize control of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>The voices grow louder, pushing aside your thoughts, drawing memories into your conscious mind. A sharp pain blossoms in your head as the tongues fixate upon a memory and begin to tear it free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Leave the Bloom-tongues alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>The Maw exudes a feeling of satiation. It has already been fed, and it desires nothing more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>Try to sense the Maw's desires again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>The Maw's attention is still fixed upon the Callistege-echoes. One of them is false - part of a trap created by the Maw to lure the *real* echo into its clutches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>At the moment,  it doesn't appear to be interested in anything - or anyone - nearby. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>You feel a familiar sense of powerlessness. Like the last cluster of Bloom-tongues, this one is preventing you from moving a muscle while it tries to feed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>You feel a familiar sense of powerlessness. Like the last cluster of Bloom-tongues, this one is preventing you from moving a muscle while it tries to feed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>Try to force open the Maw again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>You simply cannot summon the will to command this Maw. It is far more stubborn and formidable than any of the others you've encountered. Although it is still a part of the greater consciousness of the Bloom, it seems to have a greater degree of autonomy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>You materialize into a damp green corridor. Your silver skin is quiescent - no energy bolts fire at you, no invisible beams bathe you in their radiation. The data that flickers to your visor tells you that the air is cold and stale, and the nearby power signatures operate at a trickle. The installation is on standby.
+
+You synchronize a surveyor orb to your suit and hurl it down the hall. Real-time mapping information appears in your visor. You begin the long journey to the command station.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>You contemplate as you walk. This would be a fine place to start afresh. Perhaps free from the Sorrow's reach? No. It has followed you through time, between worlds - a few kilometers would mean nothing to it.
+
+A door irises open into a cavernous, shadowy room. You stride to the control panel. Alien letters and holograms flicker to life as you regard it. You smile. You've always been good with languages.
+
+This station is as good as yours. It is your library, your repository... your salvation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Try to sense what else is happening in the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Focus on the rest of the room again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>The tongues' roots form a tight web throughout the chamber, and their senses within its boundaries are unusually sharp. You feel raw, burning pain where Bloom-flesh chafes against an ancient, metal suit. Something about the material *irritates* the flesh. In time, it might be encysted, but until then the tongues will endure the pain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>You can also sense the presence of Dakore, but even to the sharp senses of these tongues, he is barely perceptible... thin and stretched, dissolving at the edges. A core of despair is building within him, and everything else is being stripped away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Focus on the source of the whispers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>The whispers arise from a corner of the room, and you realize that the roots of this cluster all grow toward that point.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>It is a Maw, you realize... another Maw that has hidden itself from mortal sight. Indeed, by cutting off this chamber from the rest of the Bloom, it has even managed to hide itself from other Maws and tongues. This chamber is a blind spot, a locus of independent consciousness. It is, in a sense, a separate being - a child of the Bloom. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>Force the Maw to reveal itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>You whisper to the Maw, and your voice travels through the tongues and along their roots, joining the whispers of the Maw, bending it to your will. After a few moments, the Maw responds, shimmering into being in a corner of the room...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>You can sense the mind of the Maw - old and patient and *strong*. Lines of psychic energy emanate from it to touch every corner of the room.
+
+Its whispers have a cruel and dismal edge. You sense long millennia in the dark, feeding upon the half-digested leavings of other Maws.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>Commune with the Maw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Commune with the Maw again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>The Maw is sated for now. You can dimly sense its connection to an isolated pocket of the Bloom, dominated by savage, hungry voices. It is a place no other mortal has seen in centuries. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>You reestablish your link with the tongues, and again they submit to your will. You hear whispers coming from somewhere nearby.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Script Node 244</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Script Node 245</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

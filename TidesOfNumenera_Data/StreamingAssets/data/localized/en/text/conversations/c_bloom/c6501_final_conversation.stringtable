@@ -1,0 +1,1047 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c6501_final_conversation</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>189</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You waken on the cold floor of the Memovira's fortress. When you open your eyes, vertigo assails you, and a momentary panic when you realize the Sorrow hovers here, its tendrils coiling and twisting.
+
+You sit up. The detritus of the battle surrounds you, but you feel a quietness in the room, a lack. It takes you a moment, and then you realize - the First is gone, as are all her allies. Not just dead, but vanished utterly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>When you open your eyes, vertigo assails you. The Sorrow hovers here, its tendrils coiling and twisting.
+
+You sit up. The detritus of the battle surrounds you, but you feel a quietness in the room, a lack. It takes you a moment, and then you realize - the First is gone, as are all her allies. Not just dead, but vanished utterly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Matkina sits up. The detritus of the battle surrounds her, but no evidence remains of the people who fought it. The First, gone. Her allies, gone. The Last Castoff.... gone.
+
+The Sorrow floats in front of her, its tendrils twisting and curling in some psychic breeze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The First sits up. The detritus of the battle surrounds her, but no evidence remains of the people who fought it. Her allies, gone. The Changing God, gone. The Last Castoff.... gone.
+
+The Sorrow floats in front of her, its tendrils twisting and curling in some psychic breeze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>You waken on the cold floor of the Memovira's fortress. When you open your eyes, vertigo assails you, and a momentary panic when you realize the Sorrow hovers here, its tendrils coiling and twisting.
+
+It speaks. "*You have chosen to retain the world as it is. With the Resonance and Labyrinth sealed, the potential for a disaster has been averted, and as a token of gratitude, I shall allow each of you gathered here a chance to resume your lives. But you shall all answer to me someday.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>
+
+Even Matkina is gone. No sign remains of her passage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"*The Resonance is sealed, the Tides once again at rest. Your siblings are a part of you now. Our journey is concluded.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Turn to your companions. "What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Where did the other castoffs go?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Tell me again where the other castoffs went."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Are you done hunting me, then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"To be clear - you're not going to hunt me ever again, right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"*They were creatures of the Tides, held together by the skill of your creator. When they lost that connection and were drawn into the Resonance, their bodies decohered. I removed their physical remains.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"*They are within you now. Reach inside, touch them, and you will know. You need but examine your memories, and you can draw upon their experience. Step lightly at first, lest their memories dominate yours.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"*Unless you resume your sire's experiments or tamper with the Tidal energies in some other way, we shall not meet again.*"
+
+It considers its next words carefully. "*But should you do so, I will not hesitate to destroy you utterly. Our understanding is not a friendship.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"*Only if you do not waken me again. You carry a piece of me within you now, and I will use it against you if I must.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Turn to Aligern. "What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"So now what?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>
+
+Even Matkina is gone. No sign remains of her passage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The world is familiar, but... you are seeing it through new eyes. You feel your consciousness slipping away, as if sliding under a tectonic plate. You are... you are becoming Miika.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"*The Resonance is sealed, the Tides once again at rest. Your father's final vessel has restored you to life, and all the castoffs are a part of you now. Our journey is concluded.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"What happened to the last castoff?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Tell me again what happened to the last castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"*He chose to give his life for you. He allowed his mind to join those of his siblings in the Resonance, and they created the foundation for your new life.*"</DefaultText>
+      <FemaleText>"*She chose to give her life for you. She allowed her mind to join those of her siblings in the Resonance, and they created the foundation for your new life.*"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"*He is inside you. Subsumed by the birth of your mind.*"</DefaultText>
+      <FemaleText>"*She is inside you, subsumed by the birth of your mind.*"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"What happened to my father?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Tell me what happened to my father again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"*Lost, child. He spent his years trying to restore you to life. He has succeeded, though at the cost of his own.*"
+
+The Sorrow pauses. "*I caution you against any attempt to restore him. Let his legacy be manifest in your person.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"*He is lost, child. Gone. The legacy he leaves is his history... and you.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Turn to the companions. "What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Turn to his companion. "What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"So now what?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>The Sorrow waits a moment until Matkina rises.
+
+"*You are the last of the castoffs now. But you are no longer a castoff - you are a being full and entire, and so long as you avoid waking me again, you shall be free of my wrath.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"*New life is yours. What will you do with it? What will your legacy be?*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>She considers for a moment, looking around the courtyard. She drops her hood and stretches, and then she laughs. "I'll take back the Bloom, for starters. We'll see what happens after that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>She turns to the others. "And what about you? It's over. It's all over. So what are you going to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>
+
+Even Matkina is gone. No sneer, no glint of her knife, no hint of a smile... erased from eternity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>The Sorrow waits a moment until Maralel rises.
+
+"*You are the last of the castoffs now. But you are no longer a castoff - you are a being full and entire, and so long as you avoid waking me again, you shall be free of my wrath.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"New life is yours. What will you do with it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>She removes her mask and rubs her hands across her scarred face. She laughs softly. "Well. I really should do something about repairing my body." She holds up an admonitory hand. "Simple numenera only, I promise!"
+
+She replaces her mask. "I want to honor my fallen siblings. I will search myself for their memories, and I'll try to make the world a better place, undo our wrongs. And I'll avoid the mistakes of my sire. Good enough?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>She turns to your former companions. "Now. You. Your friend was thoughtful and generous, even when he had no cause to be. So I will be generous as well. Go now, and I swear that if you do no harm to me or mine, I will protect you."
+
+She gestures to the exit. "Now. Before I change my mind."</DefaultText>
+      <FemaleText>She turns to your companions. "Now. You. Your friend was thoughtful and generous, even when she had no cause to be. Go now, and I swear that if you do no harm to me or mine, I will protect you."
+
+She gestures to the exit. "Now. Before I change my mind."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"*I will come for you, be assured. Also, should you try to resurrect your sire's ill-considered schemes, I will come for you all the more quickly. But for today...*"
+
+The Sorrow fades into nothing, but its words resonate in your mind. "*...today I grant you a reprieve. Use your time wisely.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>She meets your eye, and strides over to clasp your hand. "You had a difficult decision, and you made the right one. After all that I have done, you had every right to seek revenge on me. In your place, I don't know that I would have been as gracious. I am humbled."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>She looks away. "I still plan to stop the Sorrow, somehow. But the Bloom is no longer mine. Perhaps I should go rebuild Miel Avest..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"I'll return to the Bloom now and continue my work, though first I'll have to re-tame the beast. I *will* find a way to stop the Sorrow and free us for good. Count on it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Do you think the Sorrow can really be stopped?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"The drive to defeat death is what caused all of this in the first place. What if we just decide to live out our lives?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I will aid you any way I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"We held it off this time, did we not? If we can fight it to a standstill here, I see no reason why we can't eventually remove it from the equation altogether. I don't mean to destroy it - just to remove its influence from our lives." You hear the smile behind her mask.
+
+"Besides, challenging it directly would likely void its promise to us. No worries. I'll work around the margins of its influence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>She laughs, and it's only a little scornful. "You've already made a decision for all of us. I plan to continue working on what *I* think is best."
+
+Her next laugh is more genuine. "You didn't really expect me to change, did you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>She eyes you speculatively. "Apparently I misjudged you, castoff. You *do* have the greater good in mind after all. I'll keep this in mind. But really, we should go our own way. Let our old wounds heal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"I don't intend that we'll meet again, youngest brother. But let's try to work together in the future if we do, hm?"
+
+She turns away, considering her next actions.</DefaultText>
+      <FemaleText>"I don't intend that we'll meet again, youngest sister. But let's try to work together in the future if we do, hm?"
+
+She turns away, considering her next actions.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Turn to your companions. "What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Turn to Matkina. "What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Detritus and ruin litter the courtyard of the Memovira's fortress. The First is gone, along with all her allies. So too is the Last Castoff, vanished utterly, erased from existence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Nothing else remains but the soft sighing of the wind. After a short time, even that subsides.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"I knew he was determined to change the legacy of his kind, but... to kill them all? A harsh judgment."
+
+He dusts off his jacket, blows on his hands, and glances to the door of the fortress.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"A most unlikely outcome." She concentrates a moment. "And one that echoes through my realities. How odd." She shakes the dust and debris from her clothes, and looks to the door of the fortress.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>A look of worry crosses his usually-unflappable face. "This is not a good place to be. The aftermath, I mean, of great powers. Scavengers are coming, and the ones who come now are the ones who have the fewest scruples. Fighters, not lovers. More to the point, killers. Best to get gone, I say, before they practice their trade on me."
+
+He slaps his gloves on his pants, ready to leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"That was exciting! The part when you... oh. You're gone, aren't you?"
+
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"He killed them all. I can't believe it." She looks around forlornly, then shivers, pulling her coat around herself tightly.</DefaultText>
+      <FemaleText>"She killed them all. I can't believe it." She looks around forlornly, then shivers, pulling her coat around herself tightly.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>He pauses, scratches his head. "I suppose we can go our separate ways."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"It was a refreshing change of pace, I suppose. I guess we can just... continue with our lives then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"I guess it's time to be off, perhaps to a place where the blood isn't quite so close to the boil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Well. Adventures await... I suppose. There's probably a ship somewhere that needs some flying."
+
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"I guess... it's over now. We can go our separate ways. What will you do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>You waken on the cold floor of the Memovira's fortress. When you open your eyes, vertigo assails you.
+
+You sit up. The detritus of the battle surrounds you and the other castoffs. Outside the fortress, you hear screams on the wind - terror, insanity, gibbering, and murder. 
+
+This is your doing.
+
+{SOUND: Distant screams of a dying city}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>His mouth opens in a silent scream. He tears at his hair, his face, his eyes, his fingers dragging bloody furrows across his forearms as he tries to scratch his tattoos from his skin. They writhe and scream and fall hissing from his arms, and for a moment they flicker into a nearly-human shape.
+
+Ghostly, multi-colored streamers coruscate around him, bedeviling him, and at last he falls to the ground, twitching. He is not dead, though death might be a kindness.
+
+{SOUND: Aligern screaming.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>An unearthly shriek rises from her throats, and the screams cross reality in a horrible dimensional harmony. Callistege struggles against her sisters, all of them maddened, insensate, flickering through solidity and out again.
+
+Ghostly, multi-colored streamers coruscate visibly around her, bedeviling her and all her echoes, and at last they fall to the ground, twitching. They are not dead, though death might be a kindness.
+
+{SOUND: Callistege screaming.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>She eyes you speculatively. "I honestly didn't think that you had the spine for a choice like that." She listens to the wailing outside.
+
+"It's a hard thing, to choose the good of one group over another." She claps you on the shoulder. "But we have much more to offer than they."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Where will you go now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Tell me again what you plan to do now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"The Sorrow is dead." She shrugs. "I've spent most of my life hiding from it, finding ways to defeat it. It's time for me to figure out what my next goals are."
+
+She removes her mask for a moment, letting the air play on her ruined face. "I should find a way to get a new body, probably. Not one with these flaws." She laughs. "But we'll see what the future holds!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Leave the Bloom, find a new body, make a new purpose. I've got all the time in the world, after all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Do you think the Sorrow's really gone?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"You're serious that you think the Sorrow is gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Well. You just blasted it with the force of the Resonance. It feared that. It isn't here right now destroying us. At a guess, it's not entirely destroyed. But it's not going to be bothering us again. All worth it, in the long run."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Of course it is. At least for the foreseeable future."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Turn to your companions. "What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Turn to your companion. "What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>You pick your way out of the rubble of the Memovira's fortress, and ascend into the dying city. If you feel regret or shame at having chosen your security over the sanity of countless others, it will make its impact felt in time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Those nearby can only watch in horror.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Your companions turn to you, their eyes wide with horror.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>You know her well enough now that you can read her mood, and she is *furious* with you. "You chose the well-being of the castoffs over the sanity of the Sagus Protectorate. That's one way to leave your mark on the world, sweet sibling, but it's not going to improve our reputations at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"I suppose there's nothing for it. What's done is done, and we must move on with our lives."
+
+{TYBIR}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Did... you just drive an entire city insane? That's not very heroic. Not at all."
+
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"I can't believe you did that. Listen to them. It's *horrible*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>She shrugs, pulls up her hood and turns away from you. "I plan to be long gone from here. Nowhere near you, if I can help it. Say one thing for you, it's that you've managed to disgust me more than the First and our sire combined."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>He strokes his mustache gravely. "My first order of business is to find someone with a conscience. Seems I've had a sign or two that I should reconsider how bloodthirsty my companions are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"I need to find some real adventure," he says, shivering. "This is not my kind of adventure at all."
+
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"I... I thought I knew you..." She turns away, her arms wrapped around her body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"I guess it's time to leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Turn to Callistege. "What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Turn to Erritis. "What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Turn to Rhin. "What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Turn to Tybir. "What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Turn to Aligern. "What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Turn to Callistege. "What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Turn to Erritis. "What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Turn to Rhin. "What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Turn to Tybir. "What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Turn to Aligern. "What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Turn to Callistege. "What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Turn to Erritis. "What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Turn to Rhin. "What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Turn to Tybir. "What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Until it does, you have a life to live, and a world of secrets to uncover. You might finally have time to read some books.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Until it does, you have a life to live and a world to experience. You might actually have some time to make some art, learn some new skills.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Until it does, you have a life to live. Perhaps you can... well, perhaps you can undo some of the damage you've done to their minds. You have your work cut out for you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>You pull up short. You have just caused tremendous damage to countless lives. Before you're free to move on, you'll have to make amends.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Until it does, you have a life to live. You've done what the Changing God could not. You've destroyed the Sorrow. Now it's time to add to your legend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Turn to Erritis. "What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Turn to Matkina. "What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Turn to Rhin. "What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Turn to Tybir. "What will you do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Whistling under your breath, you set out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>You set out, and try to whistle up a tune... but your mouth is dry and your heart is pounding.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Whistling under your breath, you set out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Your companion turns to you, eyes wide with horror.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>She turns to Aligern. "Now. You. Your friend was thoughtful and generous, even when he had no cause to be. So I will be generous as well. Go now, and I swear that if you do no harm to me or mine, I will protect you."
+
+She gestures to the exit. "Now. Before I change my mind."</DefaultText>
+      <FemaleText>She turns to Aligern. "Now. You. Your friend was thoughtful and generous, even when she had no cause to be. Go now, and I swear that if you do no harm to me or mine, I will protect you."
+
+She gestures to the exit. "Now. Before I change my mind."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>She turns to Callistege. "Now. You. Your friend was thoughtful and generous, even when he had no cause to be. So I will be generous as well. Go now, and I swear that if you do no harm to me or mine, I will protect you."
+
+She gestures to the exit. "Now. Before I change my mind."</DefaultText>
+      <FemaleText>She turns to Callistege. "Now. You. Your friend was thoughtful and generous, even when she had no cause to be. Go now, and I swear that if you do no harm to me or mine, I will protect you."
+
+She gestures to the exit. "Now. Before I change my mind."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>She turns to Rhin. "Now. You. Your friend was thoughtful and generous, even when he had no cause to be. So I will be generous as well. Go now, and I swear that if you do no harm to me or mine, I will protect you."
+
+She gestures to the exit. "Now. Before I change my mind."</DefaultText>
+      <FemaleText>She turns to Rhin. "Now. You. Your friend was thoughtful and generous, even when she had no cause to be. Go now, and I swear that if you do no harm to me or mine, I will protect you."
+
+She gestures to the exit. "Now. Before I change my mind."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>She turns to Erritis. "Now. You. Your friend was thoughtful and generous, even when he had no cause to be. So I will be generous as well. Go now, and I swear that if you do no harm to me or mine, I will protect you."
+
+She gestures to the exit. "Now. Before I change my mind."</DefaultText>
+      <FemaleText>She turns to Erritis. "Now. You. Your friend was thoughtful and generous, even when she had no cause to be. Go now, and I swear that if you do no harm to me or mine, I will protect you."
+
+She gestures to the exit. "Now. Before I change my mind."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>She turns to Tybir. "Now. You. Your friend was thoughtful and generous, even when he had no cause to be. So I will be generous as well. Go now, and I swear that if you do no harm to me or mine, I will protect you."
+
+She gestures to the exit. "Now. Before I change my mind."</DefaultText>
+      <FemaleText>She turns to Tybir. "Now. You. Your friend was thoughtful and generous, even when she had no cause to be. Go now, and I swear that if you do no harm to me or mine, I will protect you."
+
+She gestures to the exit. "Now. Before I change my mind."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>She turns to Aligern. "And what about you? It's over. It's all over. So what are you going to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>She turns to Callistege. "And what about you? It's over. It's all over. So what are you going to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>She turns to Tybir. "And what about you? It's over. It's all over. So what are you going to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>She turns to Erritis. "And what about you? It's over. It's all over. So what are you going to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>She turns to Rhin. "And what about you? It's over. It's all over. So what are you going to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Try to feel the presence of the Sorrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Search again for the presence of the Sorrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>The looming specter of death that has haunted you your whole life is still present, just... lessened. The Sorrow has indeed backed off, but not very far.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>It's still there - further off, but there, waiting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Turn to Oom. "Are you staying with me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Trigger Conv Node 200</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Turn to Oom. "Are you staying with me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>She turns to Oom. "Never would have thought it'd be just the two of us left. Where are you going?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>She turns to Oom. "Your master was thoughtful and generous, so I will be generous as well. Leave this place. I don't need any more servants. Your master is dead, and you're free."
+
+She gestures to the exit. "Go now. Before I change my mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Turn to Oom. "Are you staying with me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>::ssrrrrrrllll:: Oom whispers, touching the empty space beside it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Then, it looks up at the other survivor. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Then, it looks up at the other survivors.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Turn to Oom. "Are you staying with me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Oom shudders at the sound of the howling outside, but... there is something like satisfaction in those eyes, buried deep. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

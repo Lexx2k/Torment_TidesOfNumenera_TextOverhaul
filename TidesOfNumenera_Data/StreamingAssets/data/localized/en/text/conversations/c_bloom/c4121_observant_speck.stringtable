@@ -1,0 +1,1847 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4121_observant_speck</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>351</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"And now, here *you* are, in the shrine of Chila the Great. Chila Silverskin. Chila the Bride of the Hammer. And I am her Observant Speck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"What can you tell me about Chila?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I want to know more about you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Is this a place of worship?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I met a man outside. He claims to be the former Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I know a young man who needs work. Is there a place for him here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Stories," she murmurs, "passed from one Speck to the next. So many stories, told by so many tongues. Too many to hold in my head, but the Bloom remembers, and it whispers in my ears to remind me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Her small hand enfolds the stump of her missing arm, a self-conscious gesture. "I'm only a Speck... a mote of dust, easily missed. Nothing important, save for the words I speak, the stories I tell to those who would hear them. But I observe much that passes in the Bloom, and I hear still more in its whispers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Not really. People come to be *close* to the Bloom because its mind is strong here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"One gets to the Heart in the same way one gets *anywhere* in the Bloom - a Maw will take you. And the Maw you want is just over there."
+
+The Speck waves a hand toward the nearest corner of the shrine. You feel like a blindfold has been suddenly pulled from your eyes, and a wave of vertigo nearly knocks you to the floor. When you look up again, a *Maw* has appeared.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The old woman glances about, eyes falling on the piles of smelly rags. She bends down, runs a finger along the 'floor,' and finds it covered in grime. "A caretaker, perhaps. A strong pair of arms to wield a broom and scrub our rags. I can't promise what I don't have - and by that, I mean coin - but he'll have food and a place to sleep. I'll ask the Bloom not to eat him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>In a shadowy corner of the shrine lurks an old woman, so tiny and unremarkable that she blends into the gloom. She's been watching you since you arrived, following you with bright, intense eyes. You notice that one of her arms is missing at the elbow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Greetings." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Turn away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"The whispers told me you were coming, Castoff. They often do, when someone they regard as *interesting* finds their way to the Bloom." 
+
+Her voice is soft and shifting, as if everything she says is echoed by the chittering voices of the Bloom. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Suddenly she is at your side, one small hand touching your arm. Her eyes probe yours. "Did you come here with purpose? Do you know what place this is?"
+
+You realize that this shrine *does* feel familiar, as if you - or perhaps the Changing God - have been here before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Wait, Castoff." Suddenly the old woman is beside you. Her movements are astonishingly quick, showing none of the torpor of old age.  "The whispers spoke of you, from the moment you arrived in the courtyard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Her eyes probe yours. "Did you come here with purpose? Do you know what place this is?"
+
+You realize that this shrine *does* feel familiar, as if you - or perhaps the Changing God - have been here before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Before I answer, tell me how you know about castoffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Try to remember.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"It's a shrine to a woman long gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"It's a den of lunatics."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"No, I don't. Should I?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"The whispers told me. They talk to themselves, mostly, but they don't mind if I listen." 
+
+She cocks her head, birdlike, her eyes straying to your castoff tattoos. "You're not the first of your kind to hide in the Bloom. The others were drawn by fear or instinct or the unconscious knowledge that the *thing* that hunts you cannot follow... for death has no place here. Only hunger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You scan the room, searching for anything that might seem familiar. A metallic gleam catches your eyes from the nearby slab of stone. It lies partly buried beneath a motley pile of 'offerings,' but the unusual shape of the metal sparks a memory...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>You scan the room for something... anything... that might be familiar and thus spark a memory. But you see nothing, so you turn back to the old woman with a shrug.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Anyone could have told you that. Or you might have read the scriptures." The old woman gestures at the fluttering papers that hang about the shrine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText> Addend. 32</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The old woman follows your gaze. "He left that as an offering, your sire did, when he was here."
+
+You can almost feel the weight of the device in your hand. With a sudden, jarring clarity, you see the chamber as it was forty years past, when the Changing God stood before a group of robed Bloom-cultists, offering the device in trade for information.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>And in the corner, an elderly woman, birdlike, with shining eyes. This woman you've just met, or someone much like her, was at the shrine then too. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"He pored over every scroll," she whispers, half to herself, "wanting to learn how Chila forged a *friendship* with the Bloom, a bond that imposed no price upon her. Or so he thought." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"In coming here, you crossed your sire's path. Years ago, he stood where you do now." The old woman looks toward the stone slab nearby, piled with junk. "He left an offering, a piece of his handiwork." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Because they think the Bloom is divine? Forgive them their misconceptions." She raises a playful eyebrow. "Not all of us are children of a god."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The old woman nods, waving you closer. Her eyes glitter in the semi-darkness of the shrine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Now I've answered your question... will you answer mine?" She gestures around her. "Do you know this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"What sort of power?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"But the Bloom turned on him... just as it's turning on the Memovira now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"May I sleep here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Bank 45</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"May I sleep here again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"If you don't mind the stink of the moldering blankets, they won't mind you." She holds out a tiny hand. "But hospitality has a price... [Global: c4121_SpeckRestingPrice] shins for each guest." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Curl up under any pile of rags." She smiles apologetically. "One smells as foul as the next."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"How is Coty doing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Well enough." Her bright eyes fix on the young man. "The whispers like him. A faint aroma of murder, suffused with a decade's worth of shame and a dash of innocence. They find him a pleasant mélange, a perfume too precious to devour."
+
+Her mischievous smile returns. "He's also good with the laundry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"You're dressed like the cultists. Are you one of them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"The 'whispers' you hear are the voices of the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Bank 54</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"The Chila legend was written by someone called the Speck. Are you the same person?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Are you sure you're not the original Speck?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Definitely not. She was the *Insignificant* Speck at first... and the *Manipulative* Speck when she wrote the chronicles. I am the *Observant* Speck, which is a very different sort of Speck."
+
+"Ever since the time of Chila, there has always been a Speck. So many across the years, it's hard to keep them straight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>She patiently shakes her head. "If I was the original Speck, then I'd be the Original Speck. But I'm the Observant Speck, and that isn't the same sort of Speck at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Do I seem it? All a-chanting for salvation, sticking my head into Maws and begging the Bloom to eat me?" She gives you a mischievous smile. "No. They let me stay because I hear the voices of their god. And to tell them stories. I think of myself as a caretaker... not of a place but of a legend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"So they are." Her eyes glitter. "A lot of people hear them, but none as clearly as me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"About me?" Again her hand self-consciously strays to the stump of her missing arm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText> Follow-up PQ. 62</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"How did you lose your arm?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Tell me again how you lost your arm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"I have some other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>She nods, her bright eyes still fixed upon yours. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I didn't. *She* did. The first Speck. The Insignificant one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I told you, I didn't lose my arm. You're confusing me with the *real* Speck, the one from the stories." She blinks several times in succession.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"All right. Then how did *she* lose her arm?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"But your arm's missing. Look."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Uh, right. I guess I was mistaken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Eaten by the Bloom. It was taken in her sleep, cauterized at the elbow, just like m-" She stops herself, appearing confused. (You were sure she was about to say 'mine.') "Just like the stories say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>The old woman glances down at the stump of her arm, and a shocked expression crosses her face. "I... must have forgotten. How strange." 
+
+She cocks her head, addressing the whispers that only she can hear. "Did *you* eat it? Did you?" After a few moments, she frowns and turns back to you. "Nothing. They don't answer me at all..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>The old woman nods, absently lifting her hand to scratch the stump of her missing arm. "It's easy to become confused, with so many whispers in the air." She smiles without a hint of irony.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Rhin's eyes go wide, and she shakes her head frantically. "NO!" she hisses. 
+
+If the Speck hears her, she's polite enough to ignore the girl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText> Follow-up PQ. 76</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Is Coty still doing well?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Oh yes. The whispers still like him. I don't think he *hears* them yet, but he will."  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"You've been talking to the Memovira. She's sent you to claim something from the Heart, hasn't she? Or rather... someone." The old woman shakes her head. "Too frightened to go herself, for she knows what will happen if she does."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"What will happen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Just tell me how to get there, if you can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"How did you know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"That's no business of yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Not even if I know the way? Your sire came to a Speck for help, small and insignificant as she was, and his need was the same as yours." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Even in the Memovira's fortress, the Bloom has eyes and ears, despite all her attempts to *burn* them away." The Speck shudders, as if she can feel the pain herself.
+
+"All that the Bloom sees and hears, it whispers to itself... and to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"The Bloom will *eat* her, body and soul. It doesn't matter how long she puts it off. The Bloom will have her in the end. The only question is who it will find to take her place."
+
+She smiles. "But you want to reach the Heart, and I can help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Eyes sparkling, the Speck reaches out a hand to steady you. "Sometimes the Bloom hides things from us. Its whispers distract our attention. Our senses perceive what's there, but our minds don't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"That Maw has been here all along?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Where does it lead?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"What does it eat?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"I think I'll take a look at the Maw..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Trigger Conv Node 96</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"So it has, but only my eyes could see. Even now, the others are blissfully unaware." She gestures at the cultists. "Some of them catch a glimpse now and then, but the whispers make them forget."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Exactly where you want to go... to the Heart. To the source of all the whispers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Predators... but only those who are feared above all others. A person... a creature... the Maw doesn't care. Getting them *into* the Maw, that's the hard part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText> Follow-up PQ. 102</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"What does the Maw eat again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText> Follow-up PQ. 105</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Tell me again where the Maw leads."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"To the Heart of the Bloom, the source of all the whispers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Only the most feared of predators." She regards you with a critical eye. "But *you* might suffice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Only the most feared of predators." She regards you with a critical eye. "Your sire offered *himself* to the Maw, but I don't think it will open for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"So he was. A man who enjoyed holding *lives* at his mercy, pronouncing *judgment* from his throne." You hear the chittering, whispering voices of the Bloom behind the Speck's words, twisting their way into your mind. When you blink your eyes, the image of an imperious-looking man flashes before you - the same man you met outside, but younger, stronger, with a cruel curl to his lip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"The whole Bloom was his palace, the seed of a kingdom he would build, for such was his ambition... and the Bloom loved him for it. Such *power* it gave him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Every Memovira can open a Maw at a touch, but not all can summon Maws to their side. Fewer still can call them outside the fleshy walls of the Bloom... as he could."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Just as it *always* does. So many lives cut short by his hand, so much fear bound up with his name... he'd grown *fat* with the terror and strife that he sowed. In the mind of the Bloom, he was a beast made plump for the slaughter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"The Bloom *eats* terror and strife?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"That's... terrible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Sounds like justice to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"It might. Or perhaps it devoured his *legacy* of terror and strife, rolling him around in its guts until he was forgotten, until he forgot himself. Who knows. The whispers don't say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"He should have seen what was coming and escaped."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"The physical pain was nothing to him. Losing his name and all that he built, being forgotten... that *was* terrible."  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"To you, it might. To the Bloom it's hunger, nothing more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"They never do. 'Just a little longer,' they say to themselves. 'Another month in power, or another year. That's all I need to build a legacy that will stand forever.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>The Speck slowly spins herself in a circle. "It's all a cycle, 'round and 'round. Feast on one Memovira, raise another in his place, let the hunger build," she stops. "And feast again." 
+
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"So now the Bloom wants to eat *this* Memovira. That's why she's hiding in her tower."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"If Chila was the first Memovira, wouldn't *she* have been part of the Bloom's feeding cycle too?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Bank 127</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"How long has the Bloom's 'cycle' been going on?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Tell me again how long the Bloom's 'cycle' has lasted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Too scared to leave her tower, too proud and stubborn to abandon the Bloom. She's no different than the ones who preceded her. The Bloom will eat her, and her name will be forgotten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Since the time of Chila at least, so... four centuries? Five?" She seems momentarily confused. "Before that, who knows. There was no Speck to watch and remember."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Since Chila walked the Bloom. Maybe longer, but the whispers don't say." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>The Speck turns to you sharply, eyes glittering. "What are you saying?"
+
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"If the others were eaten, then she was, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"I know it's painful to hear, but she may not be coming back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"She's proof that the cycle can be beaten. A person can bond with the Bloom and survive, if they're strong enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"I know what you were thinking, Castoff, and you wouldn't be the first to suggest that Chila was devoured by the Bloom... but the whispers tell me otherwise. What reason would they have to lie?" She shakes her head. "None at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Nothing. Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"You needn't spare my feelings." The old woman smiles defiantly. "I know you think that Chila is gone, but I choose to believe differently. She wouldn't abandon her Speck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>She is silent for a long moment. "A rare soul, they'd need to be. But yes. Maybe it could be done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"No. She was taken to its Heart as a friend. Her legacy lives in her chronicles, in this statue, in my words. The Bloom won't let her be forgotten, and that's proof that she's not like the others."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"The Bloom is absorbing this statue. When it's gone, Chila *will* be forgotten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"If the Bloom took Chila to its Heart, then where is she now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Are you trying to break my faith, Castoff?" Her mouth quirks into half a smile. "You won't succeed. All you have is words. Bring me *evidence* that Chila is gone, and I might believe you. But you won't find any."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Still there, perhaps. Time runs differently in the depths of the Bloom." The old woman's eyes lose their focus, and her voice grows even softer. "One day she'll come back for her Speck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Actually, I have some questions instead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Keep listening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"No more stories for now. I have other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Bank 150</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Tell me about Chila again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>She nods. "What story do you want to hear?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Bank 154</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Tell me where Chila came from."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Tell me again where Chila came from."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Bank 157</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Tell me how Chila found her way to the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Tell me again how Chila found her way to the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Bank 160</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Tell me what Chila did to warrant such respect."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Tell me again what Chila did to warrant such respect."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>She shrugs. "My stories will keep. Ask your questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>The Speck closes her eyes and cocks her head like a bird's, as if listening to the voices of the Bloom. As she begins to speak, the faint chitters and whispers that always underlie her words grow louder, twisting them around in your head and spawning images in your mind's eye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Once again, the Speck cocks her head and closes her eyes. When she speaks, the chitters and whispers of the Bloom spark images in your mind, and you can almost *see* the events she describes...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Look up, up... high on the cliffs... a sturdy little house..." The cliffs of Sagus flash before your eyes, crowded with old, ramshackle homes. They cling to the rocks like spindly crabs, high above the sea. One of them catches your eye - a pretty little house, freshly painted blue and green, in a solid nook of stone. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"A man and a woman dwell inside... a father and a mother. Two children they have, a girl and a boy." Now you see the people, too. The girl is tall for her age, robust and strong. Her brother is small and cautious and quick.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Enough of this. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"One day, the father pulls a treasure from the sea." You can 'see' the man in a fishing boat, hauling a silvery cylinder out of his net, looking at it in wonder.
+
+"He brings it home to his family. 'What shall I do with this artifact?' he wonders. 'For I am a simple man, not a wizard or a sage.'" The man glances out the window of his house and sees his two children playing in the street. "'Artifacts bring trouble,' he says to himself. 'And I have a family to protect. I'll bring this treasure to the boss of the town, and she will thank me for it.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"So the next day, the man gathers the treasure in a sack and sets out for the manor at the top of the cliffs. His daughter Chila wants to go with him, but he shakes his head and goes alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Keep listening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Many weeks pass. The man never returns from the manor on the hill. Chila asks everyone she knows, but no one has seen her father. One day, just as she and her brother leave their house in the morning, they hear a crash behind them."
+
+In your mind's eye, you see the pretty little house pulling away from the cliff, its wooden supports snapping like twigs, bursting apart as it falls toward the sea. It strikes you as strange that this house - seemingly kept so much better than its neighbors, should collapse so suddenly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"The children race back along the road, only to find that their house is gone, and their mother lies dead among the rocks."
+
+"As her brother curls up in the street and weeps, Chila stands beside him, gazing toward the manor at the top of the cliffs. 'I know you did this,' she whispers. 'And I know what you did to my father. The treasure you took from him is my birthright, and I will have it back.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Not vengeance. A desire to be extraordinary." The Speck's voice is quiet again, the whispers receded, and you sense that these words are truly her own. 
+
+"Chila believed that her parents were easy victims because no one knew who they were. If they had been prominent and well-known, the boss of Sagus wouldn't have dared to harm them. But they were small and simple folk, so no one cared when they died." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"That's what drove her? Vengeance?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Look up, up... two orphans climb the cliffs toward the manor high above..." In your mind's eye, you see a brother and a sister in their late teens as they scale the sheer cliffs of Sagus. Above them, carved from the natural rock, looms a great walled house. "It belongs to a woman... the boss of Sagus and mistress of the Bloom... she who killed their parents and took their birthright for herself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"The girl is Chila... tall, broad-shouldered, and flamboyantly dressed, like a glittering gem against the dull stone of the cliffs. The boy is her brother, Shade... slender and quick, cowled in black."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Keep listening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Through the unguarded window they climb, slipping into the garden beyond. There, at its heart, is the artifact... their *birthright*." In your mind's eye, Chila and Shade crouch on a ledge. You see the artifact as they must have - a metallic cylinder, fitted into a strange device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"She leans forward... so eager to see what is rightfully hers. But the ground turns slick, and she falls, toppling into the garden, close enough to the artifact that she can *almost* reach. But she's snared in a net of rainbow light." You see Chila crumpled under the strange net, trapped, calling for her brother. "Shade watches from the shadows. He makes no move to help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Keep listening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Betrayed," hisses the Speck. "Led into a trap by her twin. But if she couldn't have the artifact, at least... she could touch..." The Speck's voice strains, and as it does so, you feel Chila straining, reaching a hand through the net. "As her finger brushes the artifact, it flares with brilliant light... and it's gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"But not gone. Not really. It's part of Chila now, changing her slowly from within. She can sense the change, but she doesn't know what it means, not yet, not as they lead her away." You catch a glimpse of Chila being led in chains from the great house. "She's cast into the Bloom as a slave, and there..." the Speck smiles, softly and warm, "she meets me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"But it wasn't really you... right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"No... not me, not me." She shakes her head slowly, as if she isn't certain of her own words. "It was another woman called the Speck, my namesake. The Insignificant Speck... that's who she was back then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"In the dark... in the bleeding guts of the Bloom... a score of young women crouch in a cell carved from the living flesh of the Bloom." You can barely see the girls in your mind's eye, thin and tired, huddled against the fleshy walls, bound in chains. "Who they were before doesn't matter. They're slaves now, doomed to labor in the dark."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>The Speck closes her eyes and cocks her head like a bird's, as if listening to the voices of the Bloom. As she begins to speak, the faint chitters and whispers that always underlie her words grow louder, twisting them around in your head and spawning images in your mind's eye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>The Speck closes her eyes and cocks her head like a bird's, as if listening to the voices of the Bloom. As she begins to speak, the faint chitters and whispers that always underlie her words grow louder, twisting them around in your head and spawning images in your mind's eye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Once again, the Speck cocks her head and closes her eyes. When she speaks, the chitters and whispers of the Bloom spark images in your mind, and you can almost *see* the events she describes...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Once again, the Speck cocks her head and closes her eyes. When she speaks, the chitters and whispers of the Bloom spark images in your mind, and you can almost *see* the events she describes...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"One day someone new is brought to their cell and chained beside a small girl who calls herself the Speck." The old woman smiles. "The new slave says her name is Chila. Even in chains, she meets the guards' eyes, and *they* look away. Already the Bloom whispers in her ears. Chila places her hands upon its flesh... and strikes a bargain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Keep listening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"'You *owe* us,' Chila whispers to the Bloom. 'For the slaves you've eaten, for the Speck's arm that you devoured, you owe us something in return.' The flesh trembles beneath her hand... and opens. Beyond is a chamber full of weapons." You catch a glimpse of Chila passing blades - and stranger armaments - to the other girls in her cell. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Chila picks a glowing hammer for herself... or maybe the Bloom does. It fits her hand like it was made for her, and it never leaves her side again."
+
+"Then we gather together and make our plan to escape..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Keep listening,</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"When all of us are ready, Chila starts *hammering* on the door to our cell. The guards come running, and we fall upon them, cutting them down, tearing them apart. Then Chila leads us from our prison, and we pour into the market, gathering more and more slaves to her banner. We kill every master we can find."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"In the market, we decide to make our stand. Chila knows that her enemy, the boss of Sagus, the woman who killed her parents and turned her brother against her, can't ignore us. We form up into ragged lines. Then we hear them... the roar of the soldiers, the tread of heavy boots getting closer, closer..."
+
+Somehow you hear them too, along with the terrified murmurs of the slaves as they grip their weapons and prepare to fight for their lives.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Keep listening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Noise... confusion..." The Speck's eyes are still closed, but she staggers back, raising a hand to defend herself against an invisible attack, as if she thinks she's in the midst of a battle. You can faintly 'hear' the screams and cries, the clank of steel on steel. "I stay by Chila's side when the battle is joined, I try to guard her back, but... she's struck. First by an arrow. Then by a blade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Whenever they cut her flesh, silver *scales* grow over the wound, and she keeps on fighting. Chila knows why. When she touched the artifact - her birthright - it became a part of her, changed her, so that she cannot be killed. She smiles, raises her hammer, crushes the skull of every soldier who stands against her."
+
+"A shadow passes overhead. It's her traitorous brother, Shade, soaring on wings of flesh and steel, come to kill her at last..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Keep listening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"He strikes her once, twice, and again." The Speck's voice goes quiet. "Each time, silver scales grow to cover the wound. Instead of getting weaker, Chila grows stronger. She grabs him by the foot and smashes him into the ground. But instead of killing him... she speaks to him. It's a whisper, and I can't hear what she says... but Shade begins to weep. When she lets him go, he stays on the ground."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"The battle is won, and the enemy soldiers are running. Chila goes to face the woman who killed her parents. 'I leave you with your life,' she tells her, 'but not your name. Get out of here, and never come back.'" You can almost see the broken woman, a feared warlord only hours before, fleeing alone and in shame from the battle. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>The Speck pauses and opens her eyes. "That's where the story ends. Our enemy fled, and the Bloom was ours. Sagus Cliffs was ours. Chila became the first Memovira."
+
+"We ended the trade in slaves, and Chila ruled Sagus and all the lands around for half a century... until the Bloom called her to its heart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"What happened to Chila's enemy, the boss of Sagus?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"You keep saying 'we' as if you were there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"The Bloom called Chila to its heart? What does that mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Chila ended the trade in slaves, but now it's returned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"She was forgotten. Some of the slaves said that they followed her, thinking to kill her despite Chila's promise of safe passage. But before they had a chance, she vanished. She escaped to another world... or was eaten by the Bloom." A mischievous smile plays at the old woman's lips. "I prefer to think the latter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>She blinks. "I see the memories as if I was there... as if I was *her*, the first Speck. But I couldn't have been there, it was too long ago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Its whispers called her, and she disappeared into the depths. Maybe it took her to another world... or maybe she still lives down there. One day she'll return for her Speck. I'm sure of that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"in a different form, yes. The old slaveholding families bided their time for generations, marrying themselves into the new leading families of freed slaves. They found ways to justify slavery as a *punishment* for the wicked."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"So it is with the wealthy and powerful. They're more like Bloom-flesh than they'd care to admit... stubborn, enduring, difficult to kill."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Of course, Memovira. Our blankets and rags aren't much, but no one will disturb you here, and we ask for nothing in return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText> Follow-up PQ. 216</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"I have more questions about you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"I'll see you again, Castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Farewell, Castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText> Follow-up PQ. 221</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"I have more questions about this shrine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText> Follow-up PQ. 224</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"What do the Bloom-cultists believe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Remind me what the Bloom-cultists believe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"The mind of the Bloom is more *present* here. That's why people leave offerings on the slab or curl up under the blankets and rags... to be closer to the Bloom... to be known and remembered by their god."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"That the Bloom is a god. Not a very kind or benevolent one, of course." She smiles. "Some people seek an illusion of safety by redefining the thing that they fear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"They leave offerings," she waves her stump at the nearby slab, "valuables they've stolen, trophies of their kills... proof that they're hunters, not prey."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"They think the Bloom is a god, and they want to be one with it... because it frightens them." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Are you a leader or a priestess?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>She laughs aloud. "Me? Making speeches, punishing the sinful? No, I'm only a Speck. They let me stay here, and I tell them stories, that's all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Bank 233</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"What sort of people leave offerings?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Who leaves offerings here again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Bloom-cultists most of all, but also guides... scavengers... merchants who fear to lose their precious cargo... travelers from other worlds. And the Memovira, before she lost the favor of the Bloom. She'd heap the offering stone with the heads and hands of those she killed... so haughty she was back then, so *sure* the Bloom loved her and things would never change." 
+
+The old woman *tsks*. "Nothing is forever in the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Everyone who thinks they understand the Bloom and what it wants." Her eyes sparkle in the candlelight. "They're all wrong. No one understands the Bloom, not even me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Does the Bloom respond better to thieves and murderers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>She shrugs. "Sometimes it pays more attention to them. Whether you *want* the attention of the Bloom is another question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>As you approach, the Speck bows her head low. "Memovira," she whispers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Why do you call me 'Memovira?'" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Because the Bloom is bonded to *you* now. That woman who hides in her fortress is a pretender. All that belonged to her should be yours." The Speck's eyes flash, and the Bloom punctuates her words with sharp hisses. "Cast her down, feed her to the Maws."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"I found this hammer outside the Bloom's heart. I think it belonged to Chila."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Her eyes widen. "Yes... it is! But she never would have left it behind." She grabs your hand. "Did you see Chila? Was she there?"
+
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>(Lie) "No. Only the hammer, nothing more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Then it... couldn't be hers." She eyes the hammer, confused. "Someone made a copy, that must be it. Chila would never have left her hammer in the depths."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Keep it. Better for people to hear stories of the real hammer than to see a... a lie, a fabrication." 
+
+Her eyes flit to the hammer again, full of doubt. "Please, take it away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"I saw human bones with silver scales around them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"That can't be right. The whispers said she'd come back." The Speck's voice is very, very soft, and for the first time you can't hear the chittering of the Bloom behind her words. She sways on her feet, trying to steady herself. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"You don't know for sure that she's dead. If I've learned anything in the Bloom, it's that the normal rules don't apply here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"It's been centuries. You had to know that Chila was dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"The Bloom is playing games with your mind. It lied to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Reach out your arms to support her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>She nods slowly. "You're right. Even time can't be trusted in the depths. Maybe you stepped into some future reality... or the fragment of an alternate world that will never come to be. Chila will return for her Speck - the whispers promised me she would."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"But... when you go, Castoff, please take that away." She frowns at the hammer. "I'd rather not see it again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>She rocks back and forth, moaning softly to herself. "No, the Bloom *led* you there, you were *meant* to see. The whispers... they were lying all along... telling me she was alive." Her eyes widen. "What other lies did they tell?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>You gently wrap your arms around the Speck's trembling shoulders. She's even tinier and frailer than you realized... or perhaps she's only become so now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Centuries? I didn't realize..." she breathes. "The whispers told me she was alive. Why would they lie to me? What *other* lies did they tell?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"And I lied to everyone else." She waves the stump of her arm at the cultists. "I told them she was alive. I gave them hope that the Bloom might favor them, just like it favored *her*. How many other lies have there been?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Am I the Speck? Was I someone else before? Why was the Bloom keeping me here, what does it want?" She turns to you, eyes pleading for answers. Their otherworldly gleam has completely gone out. "Who *am* I?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Am I the Speck? Was I someone else before? Why was the Bloom keeping me here, what does it want?" She turns to you, eyes pleading for answers. 
+
+"You're the Memovira, you're Chila's *heir*. Tell me who I am, and that's who I'll be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"It doesn't matter. Listen to the whispers of the Bloom - they'll make you forget your questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"You're a storyteller, a keeper of legends. Even if Chila is dead, her stories are worth preserving."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Leave this place, and find out for yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"You're right," she breathes. "Always better to forget. That's what I learned a long time ago, and I forgot... I forgot to forget." 
+
+She shuts her eyes, and you begin to hear the soft hisses and chitters of the Bloom again. Her mouth relaxes into a serene smile, and when she opens her eyes again, they glitter as before. All signs of her distress are gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>She nods slowly. You notice that her eyes are clouded, her movements slower than before - she is *old* now. "I thought I was telling those stories so that people would *know* her when she returned. But she's gone, and my words are all that remain." 
+
+The Speck looks away. "I suppose that's a legacy of a sort... but not the one I would have chosen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>She nods, her expression blank and lifeless, her eyes clouded like those of an ancient crone. Without another word, she shuffles out the door and is gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"You're the Doubtful Speck. You'll remind people that no one is worthy of veneration... not Chila, not the Changing God, not even the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"After what you've shown me, that feels right." Her whole appearance is suddenly changed. The Speck's eyes burn with purpose, and she looks more gaunt, but with a wiry strength. Her expression is that of a crusader.  "I'll tell them the truth. When this place is abandoned, and no one calls the Bloom a god, that's when I'll know my job is done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"You're the Obsequious Speck. You'll tell stories about *me* to everyone who visits this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"You're still the Observant Speck. You'll watch everything that happens in the Bloom and warn people of the dangers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"I wasn't the Observant Speck before. I was the Deluded Speck. I didn't see clearly, I didn't even know my name." She smiles at you, eyes glittering again. "But now I do. Nothing will escape my eyes and ears, not anymore, and I'll serve as a guide to those who listen."
+
+She inclines her head. "Thank you, Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Yes. Yes, you're *right*, Memovira." Her whole appearance is suddenly changed. The Speck's eyes are filled with fawning adoration, and she grabs your hand in hers like a doting aunt. "Your adventure in the depths... *that* will make a thrilling tale! I'll pluck the rest from the tongues of those who've met you, and from the chitterings of the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"I'll fill their ears with your exploits, and they'll all learn to love you as I do." With a wink, she produces a sheaf of papers from her robe, pulls out a quill, and begins merrily scratching away.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>The old woman glances up as you approach, but you can barely see her in the gloom. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Castoff?" The old woman's voice is difficult to hear, and her breath is a ragged wheeze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Memovira," she nods her head. "Your Speck is Doubtful as ever. Cynical and suspicious, too." She gives you a mischievous smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"May I sleep here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>Bank 281</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"You don't look well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"You *really* don't look well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"The whispers have left me," she murmurs. Her own voice is little more than a sigh - the chitters of the Bloom no longer echo her words. "I think they were... holding me together... in a sense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>She's wracked by a fit of coughing, and one of her teeth lands at your feet. "I'm *old*, Castoff. I don't think there will be any more Specks after me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"No... Castoff. One doesn't recover... from this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>Bank 287</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Will you tell me a story about Chila?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Are you sure you can't tell me a story?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"No more stories, Castoff." She tries to gesture around her, but she's unable to raise her arm above her waist. "Chila's chronicles will be my voice..." she wheezes, trying to breathe, "from now on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>She shakes her head, a hint of her mischievous smile crinkling the edge of her mouth. "A *suspenseful* story that would be." She coughs, "Will the Speck die in the midst of the telling... or make it to the end?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Farewell... Castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>She nods absently, waving a claw-like hand at the rags and blankets that ring the edges of the shrine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>Bank 295</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"How are you doing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"You're sure you're doing well?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"Much better now." She raises her chin, with a hint of defiance. "We'll see how confident these cultists are in their 'god,' once they learn that I've turned against him. It."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Oh yes. Those other Specks, the Observant One and all the rest... they built a legacy of lies, and I intend to tear it all down."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Farewell, Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Memovira! It's so kind of you to see me!" The Speck's eyes are alight with excitement. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"Dearest Memovira," she bows her head. "Your Speck is *always* here for you, always."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>Bank 303</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"How are you doing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"You're sure you're doing well?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>She rustles through her sheaf of papers. "I've only just started, but it's so *wonderful* to be writing your stories." The Speck waves you closer and lowers her voice. "Don't worry, I'll only portray you in a flattering light, and if I run out of exploits, I'll make up something exciting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"Oh yes. Once I've penned a good number of your exploits, I'll start making copies and passing them around the Bloom. Nothing like *stories* to build a legacy and put your name on everyone's lips."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>The old woman's eyes are closed, and her face is a mask of concentration, as if she is listening carefully to the whispers that only she can hear. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>The old woman's eyes are still closed as she listens carefully to the whispers. She nods as you draw near. "Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"Memovira," she murmurs, nodding as you approach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>Bank 311</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"How are you doing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"You're sure you're doing well?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"I can still hear the whispers of the Bloom, but now I'm listening for signs of danger... a chamber that's about to be absorbed, or a new Maw that's hungry for flesh. I'll send the cultists to warn people if I sense trouble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"Yes. Still listening to the voices. If I hear any signs of danger, I'll warn people, just as you asked."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Do you have any stories to tell?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>She opens her eyes and gives you a quizzical look. "That other Speck - the Deluded one - she liked her stories. What kind of legacy is that?" The old woman waves her hand at the hanging scrolls. "Scraps of paper, ink on parchment, rotting in the fetid air? Tales of a woman whose bones lie moldering below? I'd rather concern myself with the living."
+
+"I'm *your* Observant Speck, Memovira. You shaped me into what I am. Don't confuse me with what came before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>She grabs one of your hands like a mother welcoming her child home. (Or so you assume, having had no mother.) </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>Her eyes no longer glitter, and her body is stooped and trembling - she looks like she would crumble to dust in a strong wind. "Eh? Castoff, is it you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"I have more questions about the Bloom and the Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>Bank 321</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"I remember him as he was, decades ago. Such *power* the Bloom gave him, even more than it grants the woman who took his place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"You don't know for sure that she's dead. If I've learned anything in the Bloom, it's that the normal rules don't apply here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"Perhaps you're right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"You wouldn't be the first to suggest that Chila was devoured by the Bloom... but the whispers tell me otherwise. What reason would they have to lie?" She shakes her head. "None at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"The Changing God left a Merecaster on your offering table. May I take it back?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"Of course." A smile spreads across her face. "But that device was a gift, so another gift must be provided in return." 
+
+Even as she speaks, you notice tendrils of Bloom-flesh rising quickly from the floor, and others, even smaller, curling from the surface of the offering slab, fastening themselves around the Merecaster. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>The old woman closes her eyes, listening to the voices of the Bloom. "A weapon... one that can cut open a Maw... that's what it wants. A transdimensional blade. The fewer of those that are lying around, the better, from the Bloom's point of view."
+
+She opens her eyes. "Leave the blade on the offering table, and the Bloom will release your sire's device. A fair trade, very fair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"The Changing God left a Merecaster on your offering table. May I take it back?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"Doesn't matter to me, Castoff. Probably won't matter to the Bloom either... since it doesn't see through my eyes anymore." She smirks. "Then again... neither do I."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"What you found in the depths might have been anything ... a reflection from a future reality, a fragment of an alternate world... or an eidolon, created by Chila herself to test us both." She nods. "Chila will always return for her Speck."
+
+The whispers of the Bloom are soft now, almost purring. You sense that they are pleased.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"I don't know. I think you're just an old woman who lost herself a long time ago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>She nods slowly. You notice that her eyes are clouded, her movements slower than before. "How to restore what I was... without even a clue to guide me... and a body so weak, so weak? No hope, Castoff." 
+
+The Speck is growing *old* before your eyes, her hand trembling, her body stooping. "What I lost will never be found... and now the whispers have abandoned me, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"I... don't recall. I know the *real* Speck lost her arm. It was devoured by the Bloom, but as for mine..." She rubs her stump. "I think it's *always* been this way, as long as I've been the Speck, and the Speck has been me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>The old woman gives you a long, discerning look. "Something about you reminds me of him... and of *Chila*... the silvery glimmer I'd catch sometimes out of the corner of my eye. You have it too, though it's not as brilliant as theirs, not yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>Coming to a decision, she nods her head. "Take the device - it's yours. I'd rather see it in your hands than buried and forgotten here." 
+
+She plucks it from the pile of offerings and gives it to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>The device is cylindrical in shape, wrought from azure steel, with curved, sharpened projections on all sides, making it difficult to hold. It feels *familiar* to you, like a family heirloom that you've only heard about in stories but always pictured in your mind. Somehow you know that it's a Merecaster.
+
+{LOOT}
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>[Bark Text Goes Here]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>The old woman follows your gaze. "He left that as an offering, your sire did, when he was here."
+
+You can almost feel the weight of the device in your hand. With a sudden, jarring clarity, you see the chamber as it was forty years past, when the Changing God stood before a group of robed Bloom-cultists, offering the device in trade for information.
+
+And in the corner... the woman you've just met, or someone very much like her, was at the shrine then too. Speck was her name.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>A memory comes to mind, but not what you sought. You recall these people are insane, worshipping something they don't understand and that doesn't care for them at all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>"It's a shrine to the woman who is memorialized in the giant statue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>She nods, slowly at first, then more certain. "Of course. The Bloom may have taken her body, but who knows what it left and what will return to us? Chila will return for her Speck - the whispers promised me she would."
+
+{GEORGE/COLIN: If she connected this to Walks Without Fear, would there be any reactivity or benefit for the player learning that here? Or is that done elsewhere? - Adam}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>She rocks back and forth, moaning softly to herself. "No, the Bloom *led* you there, you were *meant* to see. The whispers... they were lying all along... telling me she was alive." Her eyes widen. "What other lies did they tell?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"Am I the Speck? Was I someone else before? Why was the Bloom keeping me here, what does it want?" She turns away, her expression blank and lifeless, her eyes clouded like those of an ancient crone. "I am no one," she says. Then she shuffles out the door and is gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Yes, of course it is." The old woman shrugs, seeming disappointed. "But that's not why it's important to you and your siblings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>Script Node 350</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"I have more questions about the Maw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>She nods. "Ask them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"As you like."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>"When the Changing God was here, what did he want from the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"To create a portal to another world, a place called the Ascension. He believed that the crystals of that world would save him from Death. So he descended to the Bloom's Heart and forged a bond of sorts. From that bond, a new Maw was born. It took your sire to the world he sought." 
+
+She purses her lips. "But for every bond, the Bloom *always* exacts a price. If it could not feast upon your sire then, it will find a way to devour one of his offspring. More than one, perhaps." Her eyes glitter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>Pay her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"I've changed my mind. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"Never mind. Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>She gestures at the mounds of rags that are scattered around the shrine. "Choose any pile you like. It won't be a pleasant sleep, but it will be a quiet one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>She holds out her hand. "[Global: c4121_SpeckRestingPrice] shins for each person who wants a bed."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>"Yes... [Global: c4121_SpeckRestingPrice] shins for each person who wants a bed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>Pay her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>"Never mind. Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>"I've changed my mind. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>"Talk? I suppose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"I need to find a way down to the Heart of the Bloom. Can you help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>"You've been talking to the Memovira. She's sent you to claim her *friend* from the Heart." The old woman shakes her head. "Too frightened to go herself, for she knows what will happen if she does."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>"Few return alive and *whole* from the depths. Yet here you are." She smiles. "I never doubted you, Castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>"That was a foolish thing you did... cutting open the Maw. But it's done now, and you must live with the consequences. The Bloom will take its revenge in the depths."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>[DEBUG] Test Speck changing to Doubtful Speck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>[DEBUG] Test Speck changing to Obseqious Speck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>[DEBUG] Test the cutscene of the Speck leaving.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

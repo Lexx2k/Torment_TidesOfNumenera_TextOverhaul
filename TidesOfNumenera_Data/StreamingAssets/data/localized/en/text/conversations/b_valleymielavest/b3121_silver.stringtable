@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3121_silver</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>143</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The arcane humanoid shimmers and displaces across multiple versions of itself in a blink. So quick is the motion that you almost doubt your senses. The black-clad being makes slow, deliberate movements, its eyes like dull grey jewels set into an expressionless face. 
+
+You sense a malevolence caged. 
+
+Its voice is deep and rich. "I am Silver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The strange humanoid stands here, its head cocked at an angle that suggests its neck is broken. After a moment, it ratchets back into place, and it turns to face you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Silver stands before you, its arms crossed, as if it were waiting for you.
+
+{ADAM: This is included in case we want to give the PC an opportunity to give the sphere, but I suspect we don't want to give that opportunity. If that's the case, feel free to delete this section. If we do want it, I'll need to adjust nodes 75 and 76}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"You are a fellow seeker, yes? Tantalum has sent me to learn the secrets of the Valley. I can *smell* the desire on your skin, but not the success."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Again, you meet the strange humanoid calling itself Silver. It seems different, though. Upset.
+
+"More tombs. More Tantalum. More searching." Frustration boils under its calm tones. "Must... search. Must *know*."
+
+It turns and methodically bangs its head into the wall of the tomb. "Must. *Must*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>It's the arcane humanoid Silver. He's not as... erratic as he was when you saw him last, but his eyes carry an intense look. He stretches his hands out toward you. They are trembling.
+
+"You carry the... the philiactery. I see it under your clothing. I sense it in the air around you. Let me touch it. I beseech you, let me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>He holds it to his eyesocket, and lights begin to swirl around his head. Liquid fills the vial, tears streaming from his eye, and streamers of luminescent fog weave themselves together around the vial. He sets the cypher on the ground. It dissolves, and a moment later a new body stands before Silver, a middle-aged man with a sharp and curious face.
+
+Silver steps forward, studying the man, and then reaches out and touches this new body's forehead. Lightning jolts through both of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>His eyes gleam. Then his fingers dance across the construct's chest, and the chest cavity opens wide. Inside, ancient machineries gleam and spark.
+
+He wrestles loose some of the pieces and hands you a complex array of discs with a tapered end. "This should serve you well," he mutters. "Let the device crumble now!"
+
+He slaps a toggle inside, and the shell begins to disintegrate.
+
+{LOOT: Give cool artifact}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Let him use the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"What will you give me if I do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"More tombs. More Tantalum. More searching." Frustration boils under its calm tones. "Must... search. Must *know*."
+
+It turns and methodically bangs its head into the wall of the tomb. "Must. *Must*."
+
+Then it straightens. "I am Silver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"You carry the sphere. I see it under your clothing. I sense it in the air around you. Let me touch it. I beseech you, let me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I have explored many of them, and learned many things. Tantalum has said I will find secrets here. He is correct. Keep up the search, and your desires will see a reward."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"What are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Tell me what you are again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Who is Tantalum?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Tell me who Tantalum is again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"What are you doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Tell me what you're doing here again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"What have you found in these tombs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Tell me what you've found here again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"I am an acolyte. A seeker of knowledge, a devourer of artifacts. A stumbler on the path of truth." His eyes shine. "An answer for the unanswerable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"A man split and cast, and so I seek to return, to find my way to truth. I am Silver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"A warrior, swathed in metal. He claims to know secrets and truths, and orders others to uncover particular knowledge in these tombs. Seek him in the Valley. He may have answers for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"A man - mortal, but wise - who knows the secrets of the Valley. Seek him out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"The secrets of the Valley will reveal themselves to me if I seek long enough, hard enough. So I am seeking, long and hard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Looking for the truth. My truth, not yours. I intend to find it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>His strange face shifts through a variety of shapes. "Truths of the old worlds reveal themselves to me. Secrets of time and reality - the shifting of particles smaller than perception allows - undergird all. But they are not a part of *my* truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I have found deep secrets of the ancients. I have set them aside, as they are not relevant to my personal quest. But I scent truth. It is not far."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>She whispers. "His selves are an illusion, not a true ripple in reality. Do not fear him on that account."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"May you find what you seek."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Silver. A... seeker. A curse. A question seeking an answer. Driven to find it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"A... man. A man, torn in time and knowledge. A man? Yes. Not... not a construct. Not a shell. A mind. In a shell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"A man - mortal, but w-w-wise... but wise - a man who... who knows the secrets of the Valley. Seek him out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"He is the sender. The giver. The mortal who kn-knows. Secrets. He sends... quests."
+
+Silver seems disoriented, jerking about as if someone controlled his movements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"I am... compelled. To look. To find. To... to *know.* The truth waits for me in these... these vagabond insects. Stainless."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Truth hides... an answer. A release."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Trouble. Air. Dust. Kn-kn-knowledge. Despair." Silver jerks and twitches. "Epiphanies do not reveal themselves. No moments of inspiration." A single, oily droplet oozes from its forehead. "But I must. Continue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>It looks at you, and twitches silently. Then, "Emptiness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"I won't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>His hands tremble even more. "I have found knowledge. I have learned wisdom. I will share it with you. No. I will *give* it to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Will you activate the sphere now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"You must. Without it, I will be trapped in this shell forever." His entire body begins to shake, as though he were fighting some force that's pulling him away.
+
+"Please!" His eyes widen. "Even now, it pulls me to continue my search - my pointless, fruitless search! You must... you must..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Lost. I am... lost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Silver holds up his hand. "No. Stop. Questions... too much. Compulsion rises. Must... find new. Tomb."
+
+He clutches his hands to his head. "Trapped in numbers. Trapped in prime form, rolling through differentials, imaginary in substance. Must... find tomb."
+
+He stops and draws himself together. His voice has changed, becoming flat and emotionless. "I must go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"How can I help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"How can I help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Go where?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Good luck. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"To search. More knowledge is necessary. These tombs hold secrets untold."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Yes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Something about your words or your manner manages to crack the calm of Silver's face. "Tantalum," it whispers. "Tantalum set me on this course. Follow the tombs, find the secret that will set me free!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Silver pushes you aside and marches away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"I do not require aid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"What does it do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"It will show you truth. It will give me form. It will... allow me.... revelation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"You have more questions? I have other tombs to investigate. Be quick."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>The new man opens his eyes and flexes his fingers. He wiggles his toes. He starts to laugh. He stretches and stands tall, standing fully erect in a moment. Unashamed, he throws his arms around you in a grateful embrace and whispers, "Thank you, friend. Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"I have been trapped in that body for decades. It drove me, and I fought with its guidance until I found Tantalum. He gave me the key - though perhaps unknowingly - that allowed me to open the door, to find surcease. These tombs." He looks around him wistfully. "The answers *are* here."
+
+He turns back to you. "You have rescued me. For this, I would give you a gift. One gift, and then I must go. The world beckons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"What happened to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"What can you offer me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"I need nothing. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"I once sought knowledge in the ways of the ancients. I was trained as a nano, and I thought to increase my power. I entered the frightful Bloom near Sagus Cliffs, and discovered an artifact lost within - the body-form you see here. I touched it, and my consciousness transferred within... and its failsafe mechanisms enslaved me to its requirements."
+
+He shivers. "I lost myself. I lost my time. I do not... not. No. No! I will not speak of this. Let me tell you instead what I can offer you in thanks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"If you will not choose, then I will bequeath this knowledge to you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"That body-form has many uses and defenses. I can give you a weapon that will literally extract the blood from a person at range, a cypher that can attack the minds of your enemies, or I can teach you some of what I have learned while in the vile machine - knowledge of its machinery that may aid you in the future. What do you desire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Give me the ranged weapon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Give me the cypher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Teach me what you know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>He leans forward and whispers a string of syllables into your ear, and though you can make no sense of them, you feel them burning new pathways in your mind.
+
+Shortly thereafter, the body at his feet begins to crumble into dust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>He smiles contentedly, and slaps his old prison across its immobile face. The head segments, folding back in upon itself, revealing a strange device. His tongue poking from the corner of his mouth, Silver detaches it carefully from the housing.
+
+"This should serve you well," he says. "Sadly, the body's going to fall apart any moment."
+
+Almost immediately, it begins crumbling into dust.
+
+{LOOT: Give deadly cypher}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Now... now I must go. I must see through my own eyes again. To be free!"
+
+He fairly leaps for the exit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Farewell, and thank you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"So you believe Tantalum?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Certainly! All of humanity's wisdom - and even much that is *not* of humanity - lies buried in this Necropolis. It is only a matter of time and effort before one finds *answers*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"What's wrong with you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Are you all right, Silver?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"What are you talking about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Silver. A... seeker. A curse. A question seeking an answer. Driven to find it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"A... man. A man, torn in time and knowledge. A man? Yes. Not... not a construct. Not a shell. A mind. In a shell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Did Tantalum do something to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"No. Tantalum... He is the sender. The giver. The mortal who kn-knows. Secrets. He sends... quests."
+
+Silver seems disoriented, jerking about as if someone controlled his movements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"What's wrong with you again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Are you saying you're under some kind of curse?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Trouble. Air. Dust. Kn-kn-knowledge. Despair." Silver jerks and twitches. "Epiphanies do not reveal themselves. No moments of inspiration." A single, oily droplet oozes from its forehead. "But I must. Continue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Well, this has been... strange. But farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"I must find my answer. I *must*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"The device is mine. I'm sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Before you can even finish speaking, he turns around and begins to leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"What happened to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"I once sought knowledge in the ways of the ancients. I was trained as a nano, and I thought to increase my power. I entered the frightful Bloom near Sagus Cliffs, and discovered an artifact lost within - the body-form you see here. I touched it, and my consciousness transferred within... and its failsafe mechanisms enslaved me to its requirements."
+
+He shivers. "I lost myself. I lost my time. I do not... not. No. No! I will not speak of this. What reward do you desire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"What happened to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Farewell, and thank you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Lost. I am... lost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>He yanks it from your hand and turns it over and over. "Yes, the husk will serve. Only a few adjustments are needed."
+
+He fiddles with the philiactery too quickly for you to follow what he has done. "There. That should give it form so long as it retains a consciousness. Now..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Lost. I am... lost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Farewell, and thank you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Oom exchanges a glance with you, then rolls its eyes - literally - to the back of its head.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

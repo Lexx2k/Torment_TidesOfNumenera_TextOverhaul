@@ -1,0 +1,1342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\si_meres\mere_ri2_moonmere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>219</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Try to remember what the staff does.
+
+{SCRIPT: MRI2_Sorrow_BirthCounter}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Look around.
+
+{SCRIPT: MRI2_Sorrow_BirthCounter}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Examine the staff.
+
+{SCRIPT: MRI2_Sorrow_BirthCounter}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Try to recall the layout of the place.
+
+{SCRIPT: MRI2_Sorrow_BirthCounter}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>
+
+
+
+{SCRIPT: if MRI2_Sorrow_BirthCounter &gt;=6}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>
+
+{SCRIPT: MRI2_Sorrow_BirthCounter}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>
+
+{SCRIPT: MRI2_Sorrow_BirthCounter}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>
+
+{SCRIPT: MRI2_Sorrow_BirthCounter}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>
+
+{SCRIPT: MRI2_Sorrow_BirthCounter}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>
+
+{SCRIPT: MRI2_Sorrow_BirthCounter}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>
+
+{SCRIPT: MRI2_Sorrow_BirthCounter}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Examine the staff to determine its function.
+
+{SCRIPT: MRI2_Sorrow_BirthCounter}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>
+
+{SCRIPT: MRI2_Sorrow_BirthCounter}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>{SCRIPT: MRI2_Sorrow_BirthCounter}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Run for the escape pod.
+
+{SCRIPT: Conditional MRI2_Moon_RememberLayout=1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Improve the station's defenses
+
+
+{SCRIPT: Conditional MRI2_Moon_RememberLayout=0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Try to improve the station's defenses again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>
+
+{SCRIPT: Conditional MRI2_Moon_RememberLayout=0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Improve the station's defenses
+
+
+{SCRIPT: Conditional MRI2_Moon_RememberLayout=1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>
+
+{SCRIPT: Conditional MRI2_Moon_RememberLayout=1}
+
+{set above to 2}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>You rake your memory desperately, but no matter what you hit upon, you can't find a way to divert more power.
+
+{SCRIPT: Conditional MRI2_Moon_RememberLayout=2}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>You stare at the control banks, and you realize that you have no idea what you should do. You reach out and tentatively poke at a mossy nodule, and one of the forcescreens that opens on a view of the world below flickers for a moment.
+
+The staff speaks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Stop! What are you doing? You seem to have no understanding of this place, or how it functions.  I'm locking everything down, and you're not going anywhere until I'm satisfied. So. Who are you? You're clearly not me. I want answers. Now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>A world revolves far below you, a sunset in scarlet flaring on the horizon. To the east, deep indigo shadows fall, painting the planet with darkness. The faintest shimmer of a force-screen distorts your vision, and the exhalation of the station pushes warm, moist air across your skin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>You are in a great hall that is more like an organic space than a constructed room. Machinery literally sprouts from the floors and walls, with no sign of where the synthetic metal gives way to the substrata from which it has grown. Though humid, the hall feels clean and fresh - healthy and vibrant, full of promise.
+
+A holographic map of the moon hovers at the back wall, near a small, glowing pod.
+
+A voice speaks, as if from the air itself. {This is the Specter's voice, but more formal than the friendly version the player meets in the Calm.}"Are you certain this procedure will give you final control over the castoffs? If you're mistaken, the chamber may fail - or worse, detonate with you inside."
+
+The voice is familiar, but you can't quite put your finger on its identity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Where are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"What are you talking about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Of course I'm certain! Now make it happen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"If something happens down there, I'll signal you to move to the next vessel. And if you don't get out in time... well, you've got me. Let's hear it for redundancy. For now, just settle into the pod, and we'll make sure this body will work for us."
+
+You've pinpointed the source of the voice. It's coming from the staff in your hands. You see a glowing, ghostly human inside the head of the staff.
+
+And then it all falls into place. The voice is familiar because the image is familiar - the ghostly, blue-limned figure is the Specter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"If something happens down there, I'll signal you to move to the next vessel. And if you don't get out in time... well, you've got me. Let's hear it for redundancy. For now, just settle into the pod, and we'll make sure this body will work for us."
+
+You've pinpointed the source of the voice. It's coming from the staff in your hands. You peer at it more closely, and you see a glowing, ghostly image - the holographic adviser from the other Mere.
+
+No... this adviser looks different. Augmented. It has the ghostly, blue-limned smoky appearance of the Specter. It *is* the Specter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"By your side as usual. Watching. Monitoring. The resonance chamber is ready in Sagus. We just need to make sure this body will work as a catalyst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"You had me run the calculations, remember? I told you that there was a slight chance it might explode with you inside, though the chances were vanishingly slim, and... come on. It was only the other day. I realize you've a lot on your mind right now, but we need to focus. We've been trying to get this right for years. Centuries. The resonance chamber is ready in Sagus. We just need to make sure this body will work as a catalyst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"No need to get frantic. Have you forgotten who you're talking to? Let's both calm down. I know this can't be easy, but if it works... we stop the Sorrow for good."
+
+"I realize you've a lot on your mind right now, but we need to focus. We've been trying to get this right for years. Centuries. The resonance chamber is ready in Sagus. We just need to make sure this body will work as a catalyst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"I know you!"
+
+{ADAM: I included the "I'm not TCG" branch here. We can delete it if necessary, but it does feel like a thing players would want to say}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Remind me how the process works."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"I want to talk about the process again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Step into the glowing pod.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"I would hope so, considering that you duplicated me from your own mind less than a week ago. Now let's get you into the chamber and... are you feeling all right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"We're going to run the final assessment on this body. Complete scans, review, Tidal adjustment if necessary. We'll verify that all of the parameters are within tolerance. Settle into the pod, and I'll take care of the rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Again.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>You glance around the great hall one last time, your gaze lingering on the map of the station, and walk to a small chamber near a vast hallway. A deactivated construct stands nearby in a state of partial disassembly, its hand thrust out as if in offering.
+
+Near the large control panel outside, a column of spongy, scarlet disks hover silently, reminding you of nothing so much as giant blood platelets or congealing scabs.
+
+You take a deep breath and step into the pod. The staff in your hand vibrates slightly, and you feel yourself bathed in energies. "Remain calm. This is all well within normal parameters."
+
+The minor explosion that follows surely is not. Sudden klaxons blare.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>The nearby platelets vibrate furiously, and the deactivated construct's arm begins to spark and flare.
+
+"Get out! The Sorrow is going to destroy you!"
+
+Your nemesis manifests in the great hall. Its form is tenuous, wispy, as it congeals. It gains solidity in fits and starts. The moon's internal defenses are slowing it, but they will not be enough to keep it out. As you watch, the Sorrow shrugs itself past another line of defenses, jerking itself toward a more terrible reality.
+
+Its focus snaps toward you. It coils and writhes, desperate to wipe you from existence.
+
+"Get to another body! We can always make a new catalyst. Go!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"How do I flee this body?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Flee your body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"On the other side of the station. Just drop the body and move. This castoff won't even know what life is. A pity, but just - surge your mind over there!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>You stop and focus your mind, attempting to use the Tides to carry you, reaching out, trying to find a willing receptacle. All that awaits is the void. The promise of oblivion.
+
+"Update. You're going to have to run for it. The Sorrow destroyed your prime candidate, and the others aren't ready ye... Oh, skist. The others are gone, too. The Sorrow has destroyed every body you have."
+
+The Specter's voice is so tightly calm and professional, you almost can't hear the panic in his voice.
+
+"Escape cocoon. Now. The moon is dead. See what you can grab on the way out, but *do not tarry*, or you will be lost. Run. *Now*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Study the map to find the way to the escape pods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>It's a multi-level projection. Its orientation and layout is prepared in a way that is naturally pleasing to your eye, and you trace the route to a nearby escape cocoon without difficulty. You'll have to remember the layout of the halls, but the map is clear enough that you think you can remember the route.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>The map is a multi-level projection, oriented strangely, and it takes a moment for your eyes to understand what you're seeing. Once the logic becomes clear, you manage to decipher its language. You laboriously trace the route to a nearby escape cocoon. You'll have to remember the layout of the halls, but now that you've cracked the logic of its presentation, the map is clear enough that you think you can remember the route.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Do we have anything that can stop the Sorrow?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>The Specter's laugh is half a sob. "Stop? No. Slow? Maybe. Look around. I'll try to keep it occupied through the station's defenses as best I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Dig into your new body's memories, and see if this body has any abilities that might be helpful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Try to pull off one of the vibrating platelets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Examine the construct.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>This is *your* body. You can summon your latent abilities with a thought... as easily as walking or breathing, they are here for you.
+
+In the other Meres you've explored, the Tides have constrained you and held you. Now, though, here in your body, they are yours to command. You can summon them... maybe even slow the Sorrow with the Tides.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>The consciousness that existed here before you was labyrinthine in its thought, a maze of possibility and experience. Its processes are arcane to you, but you stop, breathe, and focus, and the answer comes to you.
+
+In the other Meres you've explored, the Tides have constrained you and held you. Now, though, here in your body, they are yours to command. You can summon them... maybe even slow the Sorrow with the Tides.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>You take hold of one of the disks. Your fingers sink into its spongy material, and with a slight twist of your wrist, you detach it from the column of energy that holds it. 
+
+It hums and cycles in a pitch that makes your eyes shudder. With each cycle, the disk shifts your vision, changing the colors you perceive. The Tides churn within you as you hold it. It may have some effect on the Sorrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>You take hold of one of the disks. Your fingers sink slightly into its spongy material, but the energy that supports it holds it fast. You pull and push, but cannot seems to find a way to unlock it. At last, you flick your wrist, and it shivers free of the column.
+
+It hums and cycles in a pitch that makes your eyes shudder. With each cycle, the disk shifts your vision, changing the colors you perceive. The Tides churn within you as you hold it. It may have some effect on the Sorrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>The construct itself is beyond repair, but a quick study reveals that each of the construct's limbs were designed for independent power. So even though most of the construct is quiescent, its spiked, powered hand is not.
+
+Working quickly, you detach it from the construct's frame. It will be a suitable gauntlet. The powers that course through it might serve to delay the Sorrow's advance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>The construct itself is beyond repair, but a careful study reveals that each of the construct's limbs were designed for independent power. So even though most of the construct is quiescent, its spiked, powered hand is not.
+
+It is not easy to remove, however. Working with slow, determined fingers, you eventually detach it from the construct's frame. It will be a suitable gauntlet. The powers that course through it might serve to delay the Sorrow's advance, which is good considering how much time you lost retrieving it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Run down the hallway.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>You feel the moon shudder. Then you feel it tear. The alarms in the great hall have begun to strobe. The lights flicker. The moon's moist air suddenly shrieks past you - the Sorrow has breached its walls!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>You race down the vast hallway through the moon's humid air. The station's defenses are fighting the Sorrow... and losing. Its integrity fails piece by piece. You have a head start, but no way to know how long it will last.
+
+You redouble your efforts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>You set off down the vast hallway, racing through the moon's humid air. In the great hall behind you, the machines cycle to an intolerable pitch. The wind rushes past you as the Sorrow forces open a piece of the station's hull. You don't know how long you have, and you redouble your efforts. The Sorrow is coming. It intends to destroy you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>As you reach the hallway, the Sorrow tears into the moon's skin, evaporating a vast section of it. The moist air of the moon rushes past you in a shriek as it vents into space. 
+
+The station's defenses are almost utterly gone at this point. They flicker and play about the Sorrow's form, but it is here in all its majesty and it means to destroy you.
+
+You have no choice but to run.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>The hallway branches, with countless offshoots piercing the winding passages of the moon. You know that your escape lies down one of these routes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>
+
+Your study of the map puts you in good stead here. You count down the passages, and every landmark that you expect arrives when you expect it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>
+
+You take a wrong turn, and another. You get back on track, but you've lost precious time. You are squandering your last moments in a moon floating above the earth. You are acutely aware of your mortality with each step you take as you backtrack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>
+
+As you race through the halls, you see a small slot in the wall. It holds a firm green gel that you *know* contains some kind of memory.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Try to remember how the staff works.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>You study the staff, and it feels like coming home. It is a familiar friend, a comforting ally. It is the cornerstone to this moon, a key to every lock. You know that it copies your mind weekly, serving as a failsafe and a familiar, a consciousness that is your natural ally.
+
+When it speaks, it speaks with the Specter's voice, and when it must manifest, it can create a ghostly image of the Changing God's 'original' body.
+
+Holding it, you feel safe, in control.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>The staff is familiar and comforting, and though you don't remember all its functions, you do remember this much - it copies your mind every week, and it can project the voice and face of the original Changing God, a reminder of his appearance. 
+
+It is an ally and a companion, like a long-lost friend, and it is somehow linked to this moon in a way you do not completely understand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Keep running. Get to the escape pods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>You press your forehead to the gel. It soaks into your skin, leaving behind a dry, viridian paste.
+
+... you are constructing the staff you hold. The Specter speaks over your shoulder. "This is strange, isn't it? Knowing that I'm watching you make my home, that I'm going to be updated in a week with your experiences, that my consciousness will fill this moon, and thus so will you, in an unbroken, indefinite chain."
+
+You say, "I don't hold any illusions about the sanctity of consciousness. But then you know that already. "
+
+He laughs aloud. "This conversation is turning us into a solipsist."
+
+You smile. "We've been called worse."
+
+... the memory fades.
+
+{ADAM: Do you want a flag for this somewhere?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>As you wipe the paste from your forehead, you feel reality bend and warp around you. Curlers of incandescent smoke spill into the hallway, and the Sorrow rides in atop the cresting wave of destructive power.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Try to figure out how the green memory gel works.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Recall the memory gel's contents quickly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>You recall the construction of your staff, the repository of the Specter's knowledge, and your easy camaraderie with yourself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Use the staff to activate the defenses in the hall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Try to strike the Sorrow with the Tides.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Use the platelet you tore from the column of energy to slow the Sorrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Use the gauntlet that you took from the construct.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Run!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>The Sorrow is too close. Its streamers reach out and pinion your arms to your sides. It gathers you close as you struggle, like a mother pulling her child to her breast.
+
+Lassitude settles over you as it touches you. You feel no pain, no fear, and the light slips from the world. 
+
+The last sound you hear is the moon imploding around you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>A wall of energy shimmers into place. But a curling tendril of smoke quests across the screen, flares into solidity, and the ward is gone as if it never existed.
+
+Silently, it glides down the hall. It does not rush, as if it knows that it has all the time in the world... just as you have almost none.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>You focus your mind and the Tides leap at your command, as if they were heightened by the Sorrow's proximity. They spill from you in a flood, so bright and strong that you can almost see them.
+
+They dash against the Sorrow in a spray of energy... and are gone. The Sorrow is slowed only a little. A rumbling emanates from the creature that you can only imagine must be laughter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>You hurl the platelet down the hall. The instant it leaves your fingers it begins to change its shape. It becomes a cloth, a shroud, and it curls over the Sorrow, enveloping your enemy.  It molds itself across the creature like a giant scab, fixing the Sorrow in place.
+
+For a moment you dare hope that you have arrested its motion... but the scabrous fabric cracks, peels, and falls to the floor in a pile of organic flakes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>You slip the gauntlet over your hand and hold it out in a warding gesture. The energy that blasts from it tears the Sorrow apart, decohering it utterly, stripping your foe to its component filaments.
+
+"I honestly didn't think that would work," mutters the Specter.
+
+Silence reigns in the hallway for a moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>The Sorrow tears apart the wall in a fury of light and Tidal energy. The flickering energies inside its hood betray no emotion, but you imagine you can feel one: *hunger*.
+
+It is inexorable. The most you can do is hope to slow it.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Use the staff to activate the moon's defenses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>A wall of energy shimmers into place. A curling tendril of smoke quests across the screen, flares into solidity, and the ward is gone as if it never existed.
+
+It glides across the pod bay. It moves more quickly now, as if it recognizes that you have almost reached the exit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Try to strike the Sorrow with the Tides.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>You focus your mind and the Tides leap at your command, as if they were heightened by the Sorrow's proximity. They spill from you in a flood, so bright and strong that you can almost see them.
+
+They dash against the Sorrow in a spray of energy... and are gone. The Sorrow is slowed only a little. A rumbling emanates from the creature that you can only imagine must be laughter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Use the platelet you tore from the column of energy to slow the Sorrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>You hurl the platelet across the bay. The instant it leaves your fingers it begins to change its shape. It becomes a cloth, a shroud, and it curls over the Sorrow, enveloping your enemy.  It molds itself across the creature like a giant scab, fixing the Sorrow in place.
+
+For a moment you dare hope that you have arrested its motion... but the scabrous fabric cracks, peels, and falls to the floor in a pile of organic flakes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Use the gauntlet that you took from the construct.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>You slip the gauntlet over your hand and hold it out in a warding gesture. The energy that blasts from it tears the Sorrow apart, decohering it utterly, stripping your foe to its component filaments.
+
+"I honestly didn't think that would work," mutters the Specter.
+
+Silence reigns in the bay for a moment... and then the Sorrow manifests again, threads of acid smoke weaving themselves together.
+
+"Guess not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>You pound into the bay, the doors shutting behind you. Your breath comes hot in your chest. You double over to catch your breath. Several cocoons are arrayed along the outer wall. You'll need to activate one, and it will spin its webbing around you. The smart membrane is tough, heat resistant, and it will transfer the entirety of the kinetic force away from you at the moment of impact. 
+
+You see an injection of some sort, but it's across the bay. You might not have time to reach it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Run across the bay to use the injection.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>[Review the memory real quick (doesn't take time).]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Climb into the escape pod.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>You race across the room and snatch the syringe from its case. Reading the label, you see that it's a stimulant, designed especially for a castoff. It confers heightened awareness, resistance to pain, and improved accuracy and focus.
+
+And, you reason, if you use it now, it's in your own body. It might carry into the future... if you survive the present.
+
+You slap the injector into your thigh and trigger it. You feel instantly calmer, the world is brighter, and you hear the Sorrow's inexorable progress. You have a few bare moments before it comes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>[Review of what you learned the first time.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>You leap through the hatch and into the waiting embrace of the cocoon. As you prepare the sequence for ejection, the Sorrow bursts into the tiny chamber!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Use the staff to activate the moon's defenses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>A wall of energy shimmers into place across the hatch as you leap into the cocoon. A curling tendril of smoke quests across the screen, flares into solidity, and the ward is gone as if it never existed.
+
+It shimmers into place beside you and coils to strike.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Try to strike the Sorrow with the Tides.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>You focus your mind and the Tides leap at your command, as if they were heightened by the Sorrow's proximity. They spill from you in a flood, so bright and strong that you can almost see them.
+
+They dash against the Sorrow in a spray of energy... and are gone. The Sorrow is slowed only a little. A rumbling emanates from the creature that you can only imagine must be laughter.
+
+It shimmers into place beside you and coils to strike.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Use the platelet you tore from the column of energy to slow the Sorrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>You hurl the platelet at the door. The instant it leaves your fingers it begins to change its shape. It becomes a cloth, a shroud, and it curls over the Sorrow, enveloping your enemy.  It molds itself across the creature like a giant scab, fixing the Sorrow in place.
+
+For a moment you dare hope that you have arrested its motion... but the scabrous fabric cracks, peels, and falls to the floor in a pile of organic flakes.
+
+It shimmers into place beside you and coils to strike.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Use the gauntlet that you took from the construct.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>You slip the gauntlet over your hand and hold it out in a warding gesture. The energy that blasts from it tears the Sorrow apart, decohering it utterly, stripping your foe to its component filaments.
+
+"I honestly didn't think that would work," mutters the Specter.
+
+Silence reigns for a moment... and then the Sorrow manifests again, threads of acid smoke weaving themselves together. It coils to strike.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>You slip into the cocoon and trigger the ejection sequence. The membrane embraces you - forcing you to drop the staff - and begins to slide free of the killing ground of the moon.
+
+And then your tattoo blazes, as if it's tearing open, an onslaught of the Tides - all in blue and silver, a stream of information too fast and too large to process.
+
+A mighty blast buffets the cocoon, and you feel one of the Sorrow's inky tendrils caress your cheek and burn into your mind, searing away knowledge and memory even as you tumble toward the earth. Amidst unspeakable pain, you feel something new forming within you, but you lose consciousness before you can identify what it is.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>You have your defenses, but you're not confident in your ability to deploy them as you sprint for safety. If you fail, stumble, or hesitate, the Sorrow will erase you utterly.
+
+You might have time enough for one detour or mistake, but no more than that.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>The Sorrow is further than you expected, though closer than you had ever hoped to be to it again.
+
+As your feet pound the mossy plates of the floor, you are struck by the sudden fear that your chances of survival are slim...
+
+...and that if you stop for *anything*, those chances will drop to zero.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>You only have one defense left. You hardly trust it will be enough to get you to the cocoons and off this doomed moon. Better to run straight for the only hope of escape!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Stand and face the inevitable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Damn you! We don't have time for -" The Specter's imprecation is cut short as a strand of the Sorrow wraps around the staff. Acid-green light plays up and down the shaft, and you drop it as it desiccates into dust.
+
+The Sorrow gathers you close as you struggle, like a mother pulling her child to her breast. Lassitude settles over you as it touches you. You feel no pain, no fear, and the light slips from the world. 
+
+The last sound you hear is the moon imploding around you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>
+
+The view is familiar, though your recollection of it is hazy, as if it were filtered or blurred through tears...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>
+
+With a shock, you realize that the view before you is almost identical to the world you saw as you fell to the earth... just slightly higher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>
+[This brief intro explains why TCG waited so many years before using the resonance chamber: there was a specific process he needed to perfect before his new body was ready.]
+
+[COLIN: Don't forget Mere conventions:
+   * 700 characters per Talk Node.
+   * No more than 2 Talk Nodes in a row.
+
+I've made some illustration suggestions.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>
+
+You hold an intricately filigreed metal staff. Its carvings slither under your fingers, as if it were alive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Yes. Yes, I'm fine. Let's get back to this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"I'm just a little concerned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"I am a castoff. But I've entered some sort of time loop and I'm in my body... but before I was born."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Good. I'm as eager as you are to get this over with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Ha! Given our respective natures, you don't need to tell *me* that. My one benefit is that I'm not corporeal right now, but if I were, I know what my body would be feeling. Of the two of us, your job is definitely the harder."
+
+"Look, we're doing it this way for a reason, remember? I'll walk you through the process. You don't need to worry. I've got it - *we* have got it under control."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"... a castoff? Really? That means... one moment. You say that you have cast your mind back in time to your body?" A note of triumph enters his voice. "That means that this body *is* the proper catalyst. We'll be able to activate the resonance chamber! All right. I need you to listen very closely to me. Your body is the key to stopping the Sorrow. You just have to get into the chamber, and our struggles will be at an end. I appreciate your honesty."
+
+His voice becomes curt. "Wait. If you're a castoff, and this was already your body, that means we didn't make it to the resonance chamber in your timeline. If you change history here, you run the risk of destroying yourself. So what happens?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"The Sorrow destroys this moon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"I'm not entirely sure. I woke up in an escape cocoon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"I don't trust you. You tried to take over my mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Then we need to get you off of it, and quickly. If the Sorrow destroys this place, all is lost unless you can escape. This is a repository for all of our wisdom, all our knowledge, and its loss will be a disaster, but if we can't stop the Sorrow, we can at least save your life. And mine. Get into the pod."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Then disaster strikes here, and that sounds like the Sorrow is coming. We need to get you off this moon, and quickly.  If the Sorrow destroys this place, all is lost unless you can escape. This is a repository for all of our wisdom, all our knowledge, and its loss will be a disaster, but if we can't stop the Sorrow, we can at least save your life. And mine. Get into the pod."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Was that me? Or was it the man whose body you inhabit now, trying to reassert control over his own form? Did you replace his consciousness when you were born, or did you displace him?" The Specter's voice is soothing, calm.
+
+"I want to assure you that we have no plans to replace you. Our only concern is activating the resonance chamber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Right now, I need to figure out how to escape. The Sorrow is going to destroy this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"I have heard that the resonance chamber will kill all the castoffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"How do I do that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"It won't kill you. It will unite you. It will stop the Sorrow, and it will end the suffering that trails behind us. Look, we need to discuss this later. If you're a castoff from the future, it means that in the next few minutes, something disastrous is going to happen. I need to make sure that we have a continuity of experience and knowledge. So tell me, and tell me true - what happens?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"You're a duplicate of my mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Yes." A note of concern enters the spectral voice. "Hold one moment please."
+
+A slight buzzing radiates from the staff. It permeates your being, and encompasses your mind.
+
+"Oh, I see! You're a new mind in this body. How did you get here? Wait. You're a castoff. That means that this body *is* the catalyst. We'll be able to activate the resonance chamber... I need you to listen very closely to me. Your body is the key to stopping the Sorrow. We just need to get you into the chamber, and our struggles will be at an end."
+
+"Clearly, we didn't make it to the resonance chamber in your timeline. If you change history here, you run the risk of destroying yourself. So what happens?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Just step into the pod. I'll take care of the rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"I've already said that we know your body is prepared to use the resonance chamber, but I want to be sure that all of the parameters are within tolerance. I don't know if your Tides have shifted out of variance. If they have, we can try to massage them back within the guidelines your creator and I established. Just step into the pod, and we'll start that evaluation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"I'll run the evaluation just after you step into the pod here. It'll bathe you in some Tidal energies, and we'll assess our next steps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>{COLIN: The idea here is the player can perform tasks to gain himself time later (or he can just run). The tasks are designed to be varied across the skills. If the player fails, the player still gets the item, but it takes longer.
+
+What it means, though, is that these things will need to be described in the scene somewhere (possibly here, possibly at the beginning, possibly both):
+ - A map of some kind
+ - Weird, biological disks that are part of the moon but are having a reaction to the Sorrow's presence.
+ - A dead construct whose gauntleted hand might still perform some useful defensive function.
+ - A hallway to run down.
+
+The illustration for this can carry some of the weight as well.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Dammit!" The Specter's voice is ashamed. "I should have thought of that. You can't flee, can you? Can you pull yourself out? No? Then you have to *run*. If the Sorrow touches you, it will end you, forever. Do not let it catch you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Don't just stand there! Run! You can't change bodies, you fool!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>The Sorrow's voice slithers down the hall. "*Age grants neither divinity nor wisdom, little human. Your few years skittering across the face of life have taught you nothing but fear for your end.*"
+
+An explosion rattles the walls, and the Specter's voice moans with terror. "That was the last of the cannons," he says. "We only have wards now - nothing offensive."
+
+The Sorrow calls out again. "*Your end comes now, mortal. Will you face it, as your castoff creations have, or will you die cowering?*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Then the Sorrow manifests again, threads of acid smoke weaving themselves together. The Sorrow continues its stately pursuit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>[DEBUG] Exit mere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>[DEBUG] Fail mere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"I don't want any part of this. I've been trying to *stop* this from happening."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Oh, for goodness-" An invisible force suddenly *whisks* you into the pod against your will. The staff in your hand vibrates slightly, and you feel yourself bathed in energies. "Remain calm. This is all well within normal parameters."
+
+The minor explosion that follows, however, surely is not. Sudden klaxons blare.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>The Sorrow tears apart the wall in a fury of light and Tidal energy. The flickering energies inside its hood betray no emotion except *hunger*.
+
+It is inexorable. The most you can hope to do is slow it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>The Sorrow recovers all too quickly from your previous attack and comes for you again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>The nearby platelets vibrate furiously, and the deactivated construct's arm begins to spark and flare.
+
+"Get out! The Sorrow is going to destroy you!"
+
+Your nemesis manifests in the great hall. Its form is tenuous, wispy, as it congeals. It gains solidity in fits and starts. The moon's internal defenses are slowing it, but they will not be enough to keep it out. As you watch, the Sorrow shrugs itself past another line of defenses, jerking itself toward a more terrible reality.
+
+Its focus snaps toward you. It coils and writhes, desperate to wipe you from existence.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

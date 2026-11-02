@@ -1,0 +1,2401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_tol_maguur</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>448</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Lose yourself in a cragworm, idiot. Like you lost my Rhin."
+
+{GEORGE: Do we want to despawn Tol if Rhin is gone?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>As you approach this group, the wild-haired woman eyes you speculatively and whispers something to her companions. They burst out laughing, and a slight smirk plays about her lips. A breathing mask dangles from a cord around her neck, and you see where it has cut permanent grooves into her face.
+
+She ruffles her hair, messing it still further, and sings out, "Oh, look, my birds - it's *the Changing God*, come to buy a slave from old Tol!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Tol should react very poorly to any player who is claiming to be TCG. If the player convinced the cultists that he is TCG, she will have heard about it, and she won't believe it, but she has no love for her "parent," so she'll drive a harder bargain with the playe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>At any point, he can come back and try to secure her release in the same ways. Once she is turned over to Tol, she will remain by Tol's side indefinitely (until Tol disappears in Stage 4). </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ah, there's my little lost bird. Glad you found her. Now, just send her on over here and we'll count this job done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>As you approach, the wild-haired woman eyes you speculatively and whispers something to her companions. They burst out laughing, and a slight smirk plays about her lips. A breathing mask dangles from a cord around her neck, and you can see where it has cut permanent grooves into her face.
+
+She ruffles her hair, messing it still further, and sings out, "Come to buy a slave, castoff? If you've come to me, you must want *something* of the sort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"You again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Rhin, go with her. She'll take care of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>If the player refuses</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"We need to talk about this, Tol."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I mean it this time. Go to Tol, Rhin. I'll be back for you later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"All right. Here it is." She breathes out. "I'm a castoff. Like you." She grits her teeth. "If you tell anyone, I'll burn your flesh and scatter your bones. You want to know why I want the girl? It's because she helps control the Tides in me. She keeps them from slipping out into the world. Without Rhin, everyone around me gets hurt.. or even killed. So what I'm going to do for you is train you how to use your Tides."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>she still reveals that she is a castoff - one who greatly values her privacy - and explains how Rhin has been helping her control her Tidal Surges... which would otherwise be damaging and killing everyone around her. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>If he still refuses to turn Rhin over</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>She stares at you, and you feel a sudden swirling in your psyche, a cacophony of dueling emotions. She's doing something with the Tides, filling you with sickness and despair, the overwhelming compulsion to lie down and sob. She stops, a grim smile on her face. "You want an example of what castoffs can do? You want to know why I want the girl? She stops me from doing *that*. Now give her to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"How about this. Stop using your Tides to hurt people, or I'll tell the Cult of the Changing God that you're a castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Did you... did you just use the Tides on me? Is that what you do to Rhin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[]
+. If the player is successful, Tol will relent, remove the debuff, and teach the player how to better control Tidal Surges. (Colin, if there are other ways of resolving this situation that make sense, feel free to add them.) </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"As you wish." With a flash, her weapon is in her hand, and her thugs leap into the fray!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>If he does it anyway and wins, this will still be a Major Abuse with Rhin (plus the player won't learn how to perform Tidal Surges until much later in the game).
+
+{SCRIPT: Need to set variable if PC wins the fight: a2101_TolKilledByPC=1 so we can reference this later}
+{SCRIPT: If PC is cursed by Tol, remove the debuff}
+{ADAM: Use this variable for reference in Rhin's dialogue, please!}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>If the player loses the combat, Rhin will be removed from the party and the player will get the "Player Killed by Tol Maguur" dialogue in the Dendra Chapel.
+
+{SCRIPT: If PC has been cursed by Tol, remove the debuff here}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>As you approach this group, the wild-haired woman eyes you speculatively and whispers something to her companions. They burst out laughing. A slight smirk plays about her lips. A breathing mask dangles from a cord around her neck. You see where it has cut permanent grooves into her face.
+
+She spots Rhin and her face becomes carefully blank. "You've brought my little bird back to me, I see. Send her over here, and I'll see that you're well compensated. I have information you want, castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>he should also be able to ask Tol about the cultists of the Changing God</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>the Order of Truth </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Have you ever heard of Mazzof?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Once the player knows she's a castoff, other castoffs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"What is it you hope to accomplish with your life? Why become a slaver when you're effectively immortal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Let's talk about the castoff lifestyle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>(she loathes them), </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>she can tell the player where they are, but she has few dealings with their kind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"No. Like I said, I don't keep in contact with castoffs. Whatever the rest of you do, it's your business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I knew Riastrad. Glaive, covered in living metal armor. He had some underworld connections. It didn't end well for him. Last I heard, he scrambled his brain trying to change his past with dodgy numenera. For the rest of the castoffs - no. I keep to myself. And I'll thank you to keep my existence a secret."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Once the player knows she's a castoff, she might have some additional thoughts on her "siblings" (who she pointedly avoids. and the cultists (she doesn't want to be worshipped like a god, and anyone who does isn't worthy of it)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>her Surge-addicted followers, Rhin (who calms her Surges, though she doesn't know why), and the Sorrow (she probably doesn't know why it hasn't killed her).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>All DTs with her will be two steps harder, and she'll need an additional bribe if the player wants her to teach him how to perform a Tidal Surge. [B] Her "curse" on him might also be harsher if he's claiming to be TCG. If the player tries to claim to be TCG to *her*, Tol will scoff at the notion, especially when it's clear that he doesn't know much about Tidal Surges.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Where's my little bird, castoff? You're not getting what I know until you bring her to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"You... what?" Her jaw clenches hard. "Deal's off. Said I'd teach you something, but that was predicated on you bringing the kid here. Without that, you get nothing."
+
+She waves a hand. "Our business is done. I don't want to see you again."
+
+She turns away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"How do you know I'm a castoff?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Can you tell me about yourself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Can we talk about you again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Now that I know you're a castoff, let's talk about you a little more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Let's talk about you and the other castoffs again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I have some questions about slavery in Sagus Cliffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"I want to talk about slavery in Sagus Cliffs again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"The tattoo. I've had dealings with your kind before. I know about you." She rakes her fingers through her hair. If anything, the motion serves to obscure her vision even more. 
+
+"So, castoff. I have information you might want. 'Course, it comes with a price."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"I'm not giving her to you. And I'll make you bleed if you try to take her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Attack. "Just yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"I didn't want to tell you this, but... dammit." 
+
+She grits her teeth. "Here's my dirty secret, and if you tell anyone, I'll burn your flesh and scatter your bones. I'm a castoff. Like you. You want to know why I want the girl? It's because she helps control the Tides in me. She keeps them from slipping out into the world. Without Rhin, everyone around me gets hurt... or even killed. If I use an adult for this, they die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Maybe. What do you have on offer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"You've come to me and you don't know who I am? I'm Tol Maguur, one of the few licensed slavers around here. Criminals, outcasts, the unwanted - I take the dregs of society and turn them into something useful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"What kind of information?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"What's the price?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"What do you know about castoffs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Slavery is evil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"How do you manage that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"What do you have to offer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>She scowls. "Right now? Nothing. I've sold most of my stock, and then... well. Let's make a deal. I know who - or at least, *what* - you are. I've had dealings with castoffs before. I've got knowledge about your kind that might be useful to you. But it comes at a price."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"A rush to certain judgment, even without knowledge of the particulars. How very... castoff of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Slavery's illegal in Sagus Cliffs, so I don't have slaves here. What I have is *stock*. Outside these walls, the sifters need someone to sort through the drit and the creft to find useful numenera. Landowners need backs to till the fields. And in the Bloom, the guides use criminals to open Maws to new worlds and new opportunities."
+
+"For all of these people, their term's not forever, and it's rarely fatal. It's a paying of debts. That's all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Anyway. My merry little band and I, we're glorified bounty hunters. We collect runaways, the broken, the useless, and we give them homes and a purpose. They've got to work for a living - well, unless they get sentenced to the Bloom - but it's better than preying on the weak, aye? Better than the castoff life." 
+
+She smirks. "Yes, I know what you are... I have knowledge that might interest you. I'll part with it, even. At a reasonable price, of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>She narrows her eyes. "As I said. I've dealt with your kind. I know what you can do, what you're capable of. You're devious, cruel, manipulative people." She scans her retainers, and shrugs.
+
+"I say this because I know you want my information. Now you know why I want payment up front."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"One of my wards has run off. She's taken a head wound - not my doing - and I've been watching after her. I don't know where she's gone, but I suspect she's headed to Cliff's Edge. Plenty of other urchins clamoring about the place, and she'd find it easy to blend in. Sadly, my troupe and I are detained here, so we can't go ourselves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"You know about castoffs? Do you know where I can find Matkina?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"You know about castoffs? Do you know where I can find Mazzof?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Her face crinkles in disgust. "I've heard the name, and know she has underworld connections, but I don't know her personally. I don't particularly care to, either. My interest in castoffs is not in knowing more of them, but... no. You won't get the information you want from me that easily."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Who? No. My interest in castoffs is not in knowing more of them, but... no. You won't get the information you want from me that easily."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"You think you'll get it from me that easily? I don't think so. I know your type. You castoffs... not a one of you can be trusted. I give you this information, you're gone before I can collect my price. So you'll forgive me if I decline to say outright what secrets I hold." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"She's a scrawny child, name of Rhin. Head wound, but it's covered by dark, curly hair. Has a little necklace around her throat. Babbles about her gods. Go get her for me, and I'll tell you what you want to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"I won't do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Answer a few other questions for me first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Come back with my Rhin!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>She sighs. "Fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Why must you make this difficult? You've heard my terms. You can choose to do it or not, but you'll never know if you don't try. And really, how hard can it be? Find Rhin. Bring her to me. You profit. Not hard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"I have some questions about Sagus Cliffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"I'd like to talk about Sagus Cliffs again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Ask someone who cares. I think the city's a sewer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"What part of 'ask someone who cares' did you not get?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"It's not a core part of my identity, you know. I don't walk around thinking *oh, I'm a castoff, let me think about my place in the world.*" She jabs a finger into your chest. "I'm my own person, got it?"
+
+"But fine. Ask your questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Ugh. Fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"You absolute arse-licking tulk sniffer. How dare you tell those sycophantic crotch-sniffing cultists about me? How *dare* you?"
+
+She motions to her troop. "I want you to kill him. Make him *suffer*."</DefaultText>
+      <FemaleText>"You absolute arse-licking tulk sniffer. How dare you tell those sycophantic crotch-sniffing cultists about me? How *dare* you?"
+
+She motions to her troop. "I want you to kill her. Make her *suffer*."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"I had some questions about the Cult of the Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"I wanted to talk about the Cult of the Changing God again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Do you know anything about Matkina?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"I'd like to ask about Matkina again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"What can you tell me about the Order of Truth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Can we talk about the Order of Truth again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"You want to deal with them? Be my guest. Those pompous Aeon Priests're up by Government Square. Think they can unlock the secrets of the past - but they're not focusing on what's most important, which is creating for the future. They say they're studying, learning, but the fact is they're not doing anything useful. Don't let them tell you otherwise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"I've told you what I think. I don't deal with them. No point in discussing them further."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Worthless wretches who seek validation in other people to find any meaning in their own lives. I don't subscribe to their beliefs, and anyone who does...well. Anyone who wants to be worshipped as a god isn't worthy of the title."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Let me put it this way - don't get involved with them. At all. I don't want them panting after me, and if you're wise, you'll keep them from you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Her lip curls. "Delusional meaning-seekers. They spend their time chasing their imaginary deity, ignoring what it means to be alive. *Ooh, what has he done now?* they say. *Can I tongue his divine arse?* As if knowing his life makes theirs any better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"I've told you what I think about them. Not wasting any more time on the subject."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"By studying his actions, they might be able to replicate his successes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"I'm with you. They seem like whores to fame and power."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"If studying his life provides meaning to theirs, who are you to judge?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"*Please*. If they were going to succeed at anything, they'd have done it by now. But look around. You hear of any of them doing anything of note? Living in grand mansions? Owning fleets of airships? You don't, and it's because they're intent on living in someone's shadow." 
+
+She curls her tongue and spits. "Nothing grows in the shade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Ha! A castoff who sees past the trappings of imagined glory! Who would have thought?" She leans in. "Don't think that this endears you to me. We've got the same opinion - so what?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Who am *I* to judge? Just another person watching some dim-globes waste their lives on a fruitless pursuit. They can follow that fraud all they like. Totally up to them. But don't expect me to cheer stupidity on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>She gives you a long, slow sneer. "Yes. I'm talking about you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Why do you think I'm the Changing God?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Word gets around, and when someone of your great stature comes sauntering back into our lives, why, the world takes notice." 
+
+She throws herself to her knees in supplication. "O great Changing God, please answer my prayers!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"I'm starting to get the feeling that you're making fun of me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Certainly, my child. What can I offer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"The Changing God does not grant prayers."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>She climbs to her feet, grinning nastily. "Twigged to it that quick, did you?"
+
+"Let me tell you something - you're not the Changing God, no matter what lies you've told those addled cultist morons. Maybe someday you'll prove me wrong, but 'til then all I see is some wad o' spit taking advantage of the gullible. Well, I'm not gulled."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>She bursts out laughing and climbs to her feet. "Ah, the Changing God offers his blessings!" Then she spits onto your shirt.
+
+"You're not the Changing God, no matter what lies you've told those addled cultist morons. You're not going to get it over on me, though, you hear me?"
+
+She points a finger at you. "For one thing, the Changing God moves quietly. He's got enemies. He doesn't announce himself. *Especially* not to the cultists who sniff around his backside."</DefaultText>
+      <FemaleText>She bursts out laughing and climbs to her feet. "Ah, the Changing God offers her blessings!" Then she spits onto your shirt.
+
+"You're not the Changing God, no matter what lies you've told those addled cultist morons. You're not going to get it over on me, though, you hear me?"
+
+She points a finger at you. "For one thing, the Changing God moves quietly. He's got enemies. He doesn't announce himself. *Especially* not to the cultists who sniff around his backside."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"You're just an ordinary castoff. Right now, you're wondering, how do I know you're a castoff?"
+
+She rakes her fingers through her hair, obscuring her vision more. "It's the tattoo. Plus, I'm betting you don't know about the surge."
+
+She studies your face carefully as she speaks those last words, and she crows in delight. "As I thought."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"I've had dealings with your kind before. I *know* about you. So. I have information you might want. And it comes with a price."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"I'm not actually the Changing God. I just told the cultists that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>She stops her obeisance and dusts off her knees. "Least you're honest with me." She curls her tongue and spits neatly between your feet. "Doesn't make what you're doing with those poor twits any better, though. Just another grifting castoff. Wait, let me put that another way." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>She bursts out laughing and climbs to her feet, a nasty grin on her face. "How would you know? You're not the Changing God, no matter what lies you've told those addled cultist morons. You're not going to get it over on me, though, you hear me?"
+
+She points a finger at you. "For one thing, the Changing God moves quietly. He's got enemies. He doesn't announce himself. *Especially* not to the cultists who sniff around his backside."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>
+
+She pauses. "But then you pretended to be the Changing God. We'll see what that costs you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>She shrugs. "I've heard the name. I know she trades with a bad crowd. I've never met her. Never hope to, either."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Don't particularly care to talk about her. Or, you know, *to* her. I've said all I needed to say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Do you know any other castoffs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"I've heard the name.I know she trades with a bad crowd. I've never met her. Don't know where she lives or who she knows. Never hope to, either."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Don't particularly care to talk about her. Or, you know, *to* her. I've said all I needed to say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>She studies Tol, and shakes her head. "Bad day for wishes, I guess. But if it's any consolation, can't say I'm tremendously impressed by you, either."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>She throws her hands in the air. "What is this, some sort of castoff reunion? I told you, I'm not interested in whatever the rest of you do. Leave. Me. Alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"The feeling remains entirely mutual."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Thought you'd never ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"You were telling me about the Tides..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Let's talk about the Tides again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>She eyes you warily. "What about them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"You never get enough, do you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"I don't want to go," she whispers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"I've seen her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Her eyes sharpen and her voice cracks out like a whip. "Where?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Over in Cliff's Edge, near one of the collapsed houses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>(Lie) "She was up in Government Square."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>(Lie) "She was going down to the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Give me the information you wanted to trade for her, and I'll tell you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>She scoffs. "No chance. None at all. Bring her to me and we'll talk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>(Lie) "She was in the Reef of Fallen Worlds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"You lie. She's not an adventurous child, and no matter how far she ran, she wouldn't dare the Bloom." She waves a hand at you. "Go find my bird, liar. I'm done talking to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Go. Now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>She eyes you speculatively. "Why? Because it was easy to fall into the life. Because it was a challenge to get good at it. Because I don't particularly care what others think about me."
+
+She rakes her hair back. "This tattoo? It doesn't define me. I'm not the man who made me. I owe him nothing. I owe you nothing. I owe *the world* nothing. It's my life, and these are my choices."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Don't you think you could do some good for people?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"What about giving back to the society that sustains your work?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"But you could be powerful, or rich, or famous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"I won't argue that choosing your own life is the best course - but why slavery?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"What makes you think I'm not? Look, you're approaching this all wrong. You see slaves, and you think mistreatment. I see criminals and burdens. Sure, they're not going to find happier lives right away - but once they've finished their service, they get to live. Most of them, anyway. So kiss my arse - this *is* good for them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Do you really not see the role I'm playing? Each one of these slaves is a burden on society. I'm making society work easier and better. Besides, what do I owe this city? It's a balance between its needs and mine. I provide a useful service, it pays me. That's the extent of it. Spare me your moralizing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"What makes you think I want any of those things. You say those words as if they're attractive, but let me tell you this - I'm a slaver. I recognize the sound of chains. The powerful and famous and wealthy - they're *nailed down*. They're about as free as my slaves. They just have finer cages. Spare me your judgments."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Because I'm matching myself against the criminal class. Because I don't like people. Because it's not your damned business. My choices are my own, and they're not subject to review."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Self-reflection is the key to a successful life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"I have no standing to judge your choices? Then what gives you the right to judge others?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Your business is your own, yes, until it interferes with mine. Where do you draw the line?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"I'm a slaver. I'm the last person you want to make an enemy. I've got a reputation for coming through on my word. Nothing else need concern you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"I'd like to ask about castoffs again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"I wanted to ask some other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"For however you define success, maybe. I'm perfectly happy doing what I do. I don't need to be remembered."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>She spits. "If you don't have any other epiphanies you want to share with me, I've got some important none-of-your-business to attend to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"You mean *who* gives me the right. And the answer's easy." She smiles crookedly. "*I* do. That's the whole point of this exercise, isn't it? My life, my rules. You don't like it, get out of the way. No one's making you deal with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>She cocks an eyebrow. "Wherever I please. Weren't you paying attention? It's my life, and I make my own decisions. When they intersect and interfere with yours, then we figure it out. On a case by case basis. No better way to handle it, I've found."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"I'd like to talk about these Tidal Surges."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Can we talk about Tidal Surges again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"What's the deal with your followers? They seem a little strange."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Let's talk about your followers again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"What's the deal with the girl, Rhin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Tell me how Rhin helps you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Do you know anything about the Sorrow?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Let's talk about the Sorrow again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"The what?" She looks genuinely puzzled for a moment. "Oh. You mean that monster that looks like the night mated with some year-old corpses? I don't. Nothing that would be helpful, anyway. I felt it a while back, though." She shivers. "Felt like it glanced my way. Felt like it told me *not yet*."
+
+She shakes herself free of the memory. "But no. Can't help you with anything about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"It was a nightmare. I don't talk about my dreams."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>She sighs. "Keep it quick."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Why? It's different for each of us. I can't tell you how the world looks through your eyes, or what something tastes like on your tongue. You got to figure that out on your own. I can't tell you that you don't like meat, or that you think, I don't know, fungus is delicious. You see the world your own way. It's what makes you... why am I even telling you this? It's remedial experiential philosophy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"They're a birthright. Side effect of being castoffs of the Changing God. I've got nothing more to say on the subject, because I don't *know* anything else about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"She caught my pain. When the Tides well up in me and overflow, she took the excess and kept me from hurting others. Don't know how, but it was a service. Without her, these others around me... they take the brunt. And while they like the experience in small amounts, any larger Surge poisons them, lays them low. It's even killed a couple. So the girl's essential to the well-being of those around me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"I told you. She's a sponge for the excess energy that my body makes. That's that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Does it hurt her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"I want to buy Rhin back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Again, I want to buy Rhin back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"I'm sure you do. She's a good child. But what, exactly, is the incentive you offer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Then convince me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"You... you promised!" She looks between you and Tol, terrified. "I don't want to go. I won't!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>He looks as if you've slapped him. "What are you doing?" he hisses. "You don't turn children over to slavers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>She gives them a quick glance. "They are. Rhin... filtered, I guess... my Tides. I turn my energy outward, and it makes most people sick. But Rhin changed that. Instead of making them sick, it gave them hallucinations, pleasant dreams, a euphoria that improves their days. Right now, they're suffering because I've been bleeding off into them, slowly. Bad combination."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"They're good people. Good to have at your back in a fight." She reconsiders. "Well. *My* back, anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>She feels the violence building in the space between you and Tol, the tension that precedes bloodshed, and she whimpers a little.
+
+"Don't hurt anyone," she says. "Not for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"So here's the deal. Give me the kid, I'll teach you how to control your Tides better. Don't, and... well, let's not get into *don't*, eh?"
+
+She holds out her hand to Rhin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Fine. Rhin, go to Tol. She'll take care of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Rhin, go to Tol. I'll be back for you later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Listen to the girl." Her thugs loosen their weapons at some signal from Tol. "We don't need to shed any blood here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"I found her, but she ran away again. I don't know where she is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"I found her, but she ran away. I'll be back with her shortly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"I haven't found her yet. Answer a few questions for me, will you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"We all do things we don't want to do. What you're doing now will save a lot of... pain...  for a lot of people. You remember when we had to kill those reavers? You asked us to stop, but if we had, we'd all be dead now. We don't want you seeing any more dead people if we can help it."
+
+She snaps her fingers. "Come now."
+
+Rhin chokes back a sob. She walks glumly to the slaver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"That was the right choice for all of us." She lays a hand on Rhin's hair. "I'll keep her as safe as I can."
+
+Her voice hardens. "I told you I'd offer you something useful. I live up to my word."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>His face is hard and set. "I expect you to live up to that promise. If you don't..."
+
+He lets the threat hang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"I hope you're planning a daring rescue," he says. "If not, then I can only surmise that you're a villain who has roped me into a dastardly scheme to kidnap children." He puts his hand on the pommel of his sword and glares. "You know what happens to villains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>She watches you, her eyes flat and cold. Without a word, she pulls her hood lower over her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"I've had some low moments in my life, lad, but never have I stooped to giving children to slavers. I expect you to make this right."</DefaultText>
+      <FemaleText>"I've had some low moments in my life, lass, but never have I stooped to giving children to slavers. I expect you to make this right."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>She raises an eyebrow. "Unexpected. Let me consult." A pause. "Interesting. My nearby sisters tell me that this reality is one of only a hundred in which you made this choice. I wonder if you'll change your mind later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"You're right. Rhin's staying with us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"I meant what I said. Go on, Rhin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"I told Tol I'd fetch Rhin. But I'll come back for her. I promise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"It's like that, is it?" She looks away and sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"No, we don't. Just give me the girl and - "
+
+She puts her hand to her face. "Fine. Fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Rhin, I promise I'll return for you. Now go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Go on, Rhin. Tol will take care of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"You already know I'm a castoff. You know what Rhin does for me. Now I'm going to teach you how to control your Tides. Maybe you'll have better luck with them than I've had. You ready?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"I didn't want to do this, but fine. *Fine*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"You know, I think Rhin's freedom is worth a little blood." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"No deal. We'll have to settle this some other way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"No. The time for talk is over."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Good." She scowls at you, and you feel her curse lifting. "Now, I made a bargain with you to teach you about your Tides. I won't have you telling anyone I don't keep my word... even if we've had our disagreements. Maybe even especially then. So I'm going to teach you. You ready?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"You keep threatening me. It's almost as if you want to fight." She shrugs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"You could try. Or maybe you could act *rationally*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"I should kill you for using the Tides on me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"I'm willing to take that chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Come back when you have the girl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Then what are you waiting for? Go get her!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"I won't tell the Cult of the Changing God that you're a castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>
+
+offer a lot of shins</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>
+(Tybir steps in and says something seductive)
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"I'm concerned about the effects of the Tides on Rhin. You're harming her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>She studies you carefully. "What would she be doing there? Perhaps you mistook some other child. Well. Go back and find her. Bring her to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"A dangerous place for a child. She might be emboldened by her time in Crefton, but the Reef is another level of danger. Find her before she hurts herself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"I found her in Cliff's Edge, but she ran away from me. She's gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"What about mushrooms?" He holds up his hands, placating. "Of course, I get your point. No one likes mushrooms."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"That's factually inaccurate. Several species of arthropods make their homes under the earth. The creatures that live in the forgotten tunnels of the ancients have not seen light for millions of years, yet they thrive."
+
+She breaks off, smiling slightly. "I can't abide ignorance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Maybe if they've been... hang on, I'm not getting into a discussion of comparative cuisine with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>She glares daggers at Callistege. "Nor metaphor, it seems. Get your little nose out of my conversation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>He raises his hand and steps forward. "Once I saw a cragworm under the earth. It was enormous. Huge." He considers. "But then again, it was dead. So maybe it was the shadow that killed it. Hmm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"Plots. Plans. Hatred. Vengeance. Fear. All of those take steady root in dark soil." 
+
+She smiles thinly. "Your metaphor is a pile of skist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"Nonsense. I could mention at least one thing that grows in the dark, but I'm a gentleman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>She looks between Erritis and you, and shakes her head in pity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>She looks at Matkina keenly, and says, "Looks like you could spend a few more hours in the sun yourself. You're as pale as a grub."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"Come back and talk to me later, then. If you can tear yourself away from this... scintillating company."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"It's not so bad. Not horrific. Almost no one sells them for parts anymore. Fact is, most of them go down to the Bloom, where they can work off their debt to society by opening a Maw or two. It's not a forever thing. It's a punishment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"What's the point? We catch the people who deserve to be slaves. They work off their punishment in the Bloom. That's it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>Her face softens as she catches sight of Rhin. "You're welcome to stay with me, Rhin. You need not have this vagabond life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>She shakes her head once, sharply. "I made my choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Can't blame me for trying." Her face is wan. "Best of luck to you, child."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>She eyes you carefully, perhaps wondering if you're lying. Finally she turns away and spits. "Idiot. Can't even hold on to a little girl. She'll have gone deeper into hiding, you realize - and she's an excellent hider to begin with."
+
+She sighs deeply, her shoulders sagging. She mutters to herself, "I'll probably never find her now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>Her face loses its mocking cheer, and she speaks slowly and deliberately. "If you do that, I will spread your guts across the harbor. You do *not* put those mewling sycophants on my tail. Are we clear? Good."
+
+She smiles sweetly. "Now. Send Rhin over here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>Her brows furrow. "You threatened me once. Now this. It's almost like you want to start a fight."
+
+"You want blood?" She shrugs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"Do that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"Yes. But don't forget our bargain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"How does Rhin help with that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"All right. Let's do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"Does it hurt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"Not yet. I'll be back. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>She grabs your shoulder. Her grip is like a manacle. "I don't think so. We're going to do this while I'm still inclined to keep my word. So lock your gods-damned legs and *listen*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"Welcome home, my pet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>She fights to keep the despairing sneer on her face. "You know I hate all of this castoff skist, yeah? All right."
+
+"So. The Changing God. He made us. Maybe not on purpose, maybe we're just an accident, but he made us. He uses the Tides to transfer his mind. You've felt them, I'm sure - surges of power, emotion, whatever. That's the Tides, and they're pushing around inside you. You focus them into something, you can make a weapon out of them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>Her lip hardly curls as she responds. "Does it hurt to breathe? To walk? All I'm doing is showing you how to use your inborn power more effectively."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"I'm ready for you to teach me how to control my Tides better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"Good. I hate waiting for someone to claim their dues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"Manifests differently for each of us. Most of us don't *think* about it. But I figure, use every tool at your disposal."
+
+She breathes out. "Close your eyes. Feel that coiling power in you? That's the Tides. Now feel this. I'm going to push a little power at you. Try to fight it off."
+
+With your eyes closed, you can *see* the energy emanating from her, a dark and angry spike of red-hued power that drifts toward you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Instinctively, you raise your hands to bat it away, and she snorts. "With your mind. Use your Tides."
+
+As the Tidal dagger drifts closer you feel something inside you uncoiling, a vast and restless power whose depths you can barely comprehend. It's reminiscent of the energy you used to blast the Sorrow fragments from your mind. But now you can control it... and you breathe out, pushing her probe away.
+
+"That's it," she says. "That's it. Practice that."
+
+She pushes away. "We're done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"Go, I said."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"If you did, I'd string your insides across the Underbelly and burn you in the forge. So it's a good thing neither of us are doing that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"Excuse me, but I don't think there's any need to exchange coin here." He steps forward and adjusts his belt.
+
+"It's clear you're a woman of the world, so let's skip the pleasantries. I have extensive experience with... let's call them matters of the flesh. I'll trade you an hour in bed for the return of that girl. If you're not entirely satisfied with my performance, you can keep her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>She considers it, looking him up and down. "It's a deal." She turns to you. "In an hour, when you hear him screaming, you might want to bring the chiurgeon."
+
+She takes Tybir's arm and leads him away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>Her face is flushed and she seems about to say something. Instead she gestures to Rhin. "Take the girl. He's lived up to his end of the bargain."
+
+She jerks a hand to her slavers. "Come on. We're leaving the city." 
+
+They exchange bewildered glances, but pack their gear and move out with alacrity. Tybir stands with his hands on his hips, smiling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>She holds up a hand. "I'm intrigued. But here's my counterproposal. If I'm not satisfied, I get to peel two fingers' worth of your skin from a location of my choosing." Her eyes flicker to his trousers. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>He shoots you a nervous glance, adjusts his belt, takes a deep breath, and strokes his mustache. "Lady, if you're not satisfied, I'll peel that skin myself."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>"I'll pay for her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"I want to buy her back again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"I'll want [Global: a2101_Tol_RhinPrice] in shins. She's worth that much to me. You have the money?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"You've got the [Global: a2101_Tol_RhinPrice]  shins now? Let's see it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"It's right here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"Well, not right now..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"Then you'll not have the girl." She draws Rhin a little closer to herself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>She takes the money from you, and counts each shin. Scowling, she pockets the bag. "Fine. But if she escapes you and I find her again, she's never going to leave my sight."
+
+She looks at Rhin, and you feel some intangible emotion building around Tol's head - longing, despair, baffled rage, and more - and she sighs deeply. "All right, Rhin. This here's your new owner. Paid the price fairly. You be... be a..." 
+
+She wipes her eyes and turns away. "Never mind. Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"So how can you justify keeping Rhin in your custody? Release your claim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"You said Rhin keeps your powers from hurting or killing other people. How do you know it won't kill her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"You should learn how to control your powers better. You don't need to use someone else as a sponge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"Why can't you use one of your followers instead of Rhin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"Enslaving Rhin is destroying her life and her potential anyway. One way or another, you're killing her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>"Seems to me you could use your Tides to exact some justice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>"You're right. So let's talk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>"Forget it. Farewell." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>She nods, coolly. "A better choice than trying to bully me into some rash decision, certainly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>"Not so fast. We haven't finished discussing Rhin yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>She looks away from you, from Rhin. "I don't. I don't know. I can't bear the thought that it might. But these others here, they're my friends. If I lose Rhin, my powers might kill them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>She spits... not quite at your feet, but certainly near them. "Says the castoff who can't control his own Tides."</DefaultText>
+      <FemaleText>She spits... not quite at your feet, but certainly near them. "Says the castoff who can't control her own Tides."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>She sneers. "Did you miss the part where adults *die* if I surge into them? Not an option. I don't want to leave a trail of the dead and dying in my wake. Apart from being, you know, *evil*, it raises questions from authority figures."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>She's prepared an angry retort, but it dies on her lips. "I don't... no. I'll let her go when... dammit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>"What do you think I am? A vigilante? An oathkeeper? A levy? Keeping the law is someone else's job. My job is *slaving*. Keep that straight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>"Frequently." She smirks. "Do you have a problem with it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>"How old does Rhin have to be before your powers kill her? She's pretty close already, isn't she?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>She shrugs, but she avoids your eyes. "I don't know. What I do know is that if I... if I don't use her, others will be hurt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>She grits her teeth. "Fine. You've convinced me. You can keep her, but you treat her right, you hear? If I get even a hint that you've made Rhin unhappy, I'll track you across the Ninth World."
+
+She concentrates a moment, and the miasma that filled your mind lifts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>"How can I justify it? Because nothing you've said has been particularly convincing. You want Rhin? Here's my answer - no."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>
+She looks you insolently up and down. "Especially not for someone who claims to be our bastard of a sire. Give up the girl. Now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>"You know what? I'll even live up to my part of the bargain. I'm going to teach you about your Tides, because it will help you keep Rhin safe. You ready for this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>She crosses her arms. "Really. You think you can treat her better? What exactly is it you think I'm doing wrong?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>"So how can you justify keeping Rhin in your custody? Release your claim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>
+She concentrates a moment, and the miasma that filled your mind lifts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>"How can I justify it? Because nothing you've said has been particularly convincing. You want Rhin? Here's my answer - no."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>
+She looks you insolently up and down. "Especially not for someone who claims to be our bastard of a sire. She stays with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>"You said Rhin keeps your powers from hurting or killing other people. How do you know it won't kill her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>She looks away from you, from Rhin. "I don't. I don't know. I can't bear the thought that it might. But these others here, they're my friends."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>"You should learn how to control your powers better. You don't need to use someone else as a sponge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>She spits... not quite at your feet, but certainly near them. "Says the castoff who can't control his own Tides."</DefaultText>
+      <FemaleText>She spits... not quite at your feet, but certainly near them. "Says the castoff who can't control her own Tides."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>"Why can't you use one of your followers instead of Rhin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>She sneers. "Did you miss the part where adults *die* if I surge into them? Not an option. I don't want to leave a trail of the dead and dying in my wake. Apart from being, you know, *evil*, it raises questions from authority figures."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>"Enslaving Rhin is destroying her life and her potential anyway. One way or another, you're killing her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>She's prepared an angry retort, but it dies on her lips. "I don't... no. I'll let her go when... dammit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>"How old does Rhin have to be before your powers kill her? She's pretty close already, isn't she?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>She shrugs, and some sadness enters her eyes. "I don't know. What I do know is that if I... if I don't use her, others will be hurt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>"Seems to me you could use your Tides to exact some justice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>"What do you think I am? A vigilante? An oathkeeper? A levy? Keeping the law is someone else's job. My job is *slaving*. Keep that straight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>"Never mind. Let me ask about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>She nods, coolly. "A better choice than trying to bully me into some rash decision, certainly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>"Forget it. Farewell." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>She scoffs. "Maybe you'll try a different tack next time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>She grits her teeth. "Fine. You've convinced me. You can keep her, but you treat her right, you hear? If I get even a hint that you've made Rhin unhappy, I'll track you across the Ninth World."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>"Now what? What else do you want from me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>"You know what? I'll even live up to my part of the bargain. I'm going to teach you about your Tides, because it will help you keep Rhin safe. You ready for this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>"A real... *pleasure*. As usual."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>She eyes you up. "Damn right you will. You want her, it'll cost you [Global: a2101_Tol_TCGRhinPrice] shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>"Doubt you've got [Global: a2101_Tol_TCGRhinPrice]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText>"It's right here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText>She takes the money from you, and counts each shin. Scowling, she pockets the bag. "Fine. But if she escapes you and I find her again, she's never going to leave my sight."
+
+She looks at Rhin, and you feel some intangible emotion building around Tol's head - longing, despair, baffled rage, and more - and she sighs deeply. "All right, Rhin. This here's your new owner. Paid the price fairly. You be... be a..." 
+
+She wipes her eyes and turns away. "Never mind. Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>"But don't trust anyone who claims to be a god, Rhin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>"It would seem my lost bird was found, but not by you. You are no longer beholden to me, nor am I to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>"You said you'd give me information if I got her back. Those thugs never would have found her if I hadn't shown up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>"Our deal was for you to bring her back. You gave me nothing. I owe you nothing. We are even."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>"I've had dealings with your kind before. I *know* about you, and I have no interest dealing with you. Go away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText>"The tattoo. I've had dealings with your kind before. I know about you." She rakes her fingers through her hair. If anything, the motion serves to obscure her vision even more.
+
+"Unfortunately for you, I have no interest in dealing with your kind. Go away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText>"Anyway. My merry little band and I, we're glorified bounty hunters. We collect runaways, the broken, the useless, and we give them homes and a purpose. They've got to work for a living - well, unless they go the Bloom - but it's better than preying on the weak, aye? Better than the castoff life."
+
+She smirks. "Yes, I know what you are... and I have no interest in dealing with your kind. Go away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>She scowls. "Right now? Nothing. Although I've recently retrieved some lost property, I've sold most of my stock. In any case, I know who - or at least *what* - you are. I've had dealings with castoffs before. I have no interesting in dealing with your kind again. Go away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>"I ran into some thugs working for a slaver's bounty. That wasn't *your* bounty, was it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>She huffs. "It's possible. I recently retrieved a girl that belonged to me. It doesn't concern you, though. The matter is done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>[DEBUG] Start Tussle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText>Script Node 491</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText>"Let the cowardly skist-eater go. Not worth the time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>"Can't risk chasing them through the Circus Minor. Rhin could get taken by a levy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>Script Node 494</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText>"They're back! Careful of Rhin! You damage her, you answer to me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText>"He's back! Get him!"</DefaultText>
+      <FemaleText>"She's back! Get her!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText>"Rhin says she had a satchel when she was with you. Do you know where it is?"
+
+{SCRIPT: Currently does not play. Revisit if an when Rhin's Satchel is implemented. -AH}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText>"I want to talk about Rhin's satchel again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText>"Of course I do. You want it? Rhin wants it? Fine. It'll cost. [Global: a2101_Tol_RhinSatchelPrice] shins. Take it or leave it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>505</ID>
+      <DefaultText>"The price remains the same.  [Global: a2101_Tol_RhinSatchelPrice] shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>506</ID>
+      <DefaultText>"I'll kill you for it."
+
+{SCRIPT: I'd delete this node. - cmm}
+{SCRIPT: Start Tussle, UNLESS that Tussle would complicate the logic of having had the Tussle before. In that case, delete this node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>507</ID>
+      <DefaultText>"We've already talked and blustered and threatened enough. You know my reputation. Give it to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>508</ID>
+      <DefaultText>Give her the money.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText>Distract Tol and steal the satchel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>She looks you up and down, and she sees the implied threat in your eyes. "Fine." She tosses you the satchel. "It's worthless anyway."
+
+{LOOT}
+{SCRIPT: Give player the Satchel item for Rhin's quest.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>511</ID>
+      <DefaultText>"Your reputation? Really? I have to confess that I'm entirely unswayed by that. No. I don't think so. Pay for it, or forget it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>You step close to her and push her lightly with one hand. She grabs your wrist and pins it to your shoulder. "Don't touch me," she growls, "or the next time your arm's going up your arse."
+
+She doesn't notice your other hand slipping into her pouch. You hide the satchel before Tol pushes you away.
+
+{LOOT}
+{SCRIPT: Give player the Satchel item for Rhin's quest.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText>You step close to her and push her lightly with one hand. She grabs your wrist and pins it to your shoulder. "Don't touch me," she growls, "or the next time your arm's going up your arse."
+
+She catches your other as it steals toward her pouch. "And don't think I didn't notice that, either. How stupid do you think I am?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>514</ID>
+      <DefaultText>"That was painless, wasn't it? I do love the sound of money changing hands. Here."
+
+{LOOT}
+{SCRIPT: Give player the Satchel item for Rhin's quest.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText>"I don't have that much. I'll come back when I do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText>"I look forward to it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText>"You're always welcome here, child."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText>"I found her, but don't have her with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>520</ID>
+      <DefaultText>"Then why are you even talking to me about it? Really, you're wasting your time... and more importantly, mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>521</ID>
+      <DefaultText>"Sure. I'll do it, if I have to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>522</ID>
+      <DefaultText>"Don't take long. My time is valuable, castoff!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>523</ID>
+      <DefaultText>She looks at you, uncertain. But she nods. "I don't want to. But you promised. I... I'm trusting you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>527</ID>
+      <DefaultText>"Go. We have nothing more to speak of."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>528</ID>
+      <DefaultText>"They're misguided. The only way to understand life is to experience it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>529</ID>
+      <DefaultText>The perpetual sneer on her face loosens slightly. "Not what I expected to hear from someone of your age, but at least you're not entirely stupid. Don't think our shared opinion makes us friends, though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText>"And what would you do with her? You've already got a crowd trailing after you. How are you going to look after Rhin? I won't even consider the idea until you've got less of a... menagerie... at your heels. So now that I've made that perfectly clear, what else do you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>531</ID>
+      <DefaultText>"You absolute arse-licking tulk sniffer. How dare you tell those sycophantic crotch-sniffing cultists about me? How *dare* you?" She motions to her troop. "We're leaving town. Maybe for a year, maybe for a decade. Long enough for those fawning skist-eaters to forget about me. Pack your gear. Grab the girl."
+
+She looks as if she's about to say more... and then she spits into your face. "I won't forget this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText>Script Node 532</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText>Script Node 533</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>534</ID>
+      <DefaultText>::mmmm:: Oom murmurs at your side. Its eyes gleam. Widen. You feel a sudden urge to touch them again. 
+
+Shaking the impulse from your mind, you return your focus to Tol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>535</ID>
+      <DefaultText>::mmmm:: Oom murmurs at your side. Its eyes gleam. Widen. You feel a sudden urge to touch them.
+
+Shaking the impulse from your mind, you return your focus to Tol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText>::hrml:: Oom chortles, quietly. Tol doesn't notice. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>Oom doesn't make a sound, but you feel a sudden hollowness in the space where it lives in your mind. Its eyes dart between you and Rhin, widening and widening. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

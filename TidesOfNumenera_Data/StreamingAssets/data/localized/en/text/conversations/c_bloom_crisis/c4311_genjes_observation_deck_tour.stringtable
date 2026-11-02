@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom_crisis\c4311_genjes_observation_deck_tour</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>99</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I have lost your interest, I think. Must return to my work, outworlders. Goodbye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Script Node 2</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"First, see this. The paths between stars. The journeys that took us to this place. And please, ask questions if you have questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>He stares into the changing stars. His eyes are filled with their light. 
+
+"I believe that the paths between the stars are too many. That we must wait for the Ship."
+
+He sighs deeply. "We must move along now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Now, see this. A map of another kind. A living painting of the Cortex's thoughts."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Genjes reaches into the display, spreading his fingers. One of the threads curls around his wrist. 
+
+"I try to follow this... *herekra*, how to say. Thought-example? To question every thought, yes? To have a flexible mind."
+
+He reluctantly removes his hand. "The tour must continue. I have much to finish after."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Now see..." He trails off and chuckles. "You know this door, of course. You came to us from it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Genjes turns from the door to you. 
+
+"Outworlders bring trouble sometimes. But we are alone in this corner of the void, yes? We need fresh thoughts. New faces." He claps you carefully on the shoulder. "You outworlders are worth the risk."
+
+He smiles awkwardly. "Tour must continue now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"See this, now. A door once used by the most exalted travelers." He shakes his head, smiling. "Now, often broken, and room beyond is for storage."
+
+He pats the door, as if apologizing to it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>He gazes up at the seldom-used door, at the grime gathering along the top rim of the track. 
+
+"You are right," he says at last. "I see this door as a symbol. How the Anchorage changed over our lifetimes. But perhaps... perhaps, I forgot the importance of its function. I will see to its repair."
+
+He nods thankfully at you and motions to follow him. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>He sweeps a proud hand across the width of the wide viewscreen, as if he has personally created the scene below.
+
+"Many names, the world. No one can agree anymore. For me, is enough that it is still there, and we are still here." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>His gaze sweeps the room, taking in the flickering panels and scuffed floors. When he finally speaks, he does not look at you. 
+
+"I worry. Lights break. Controls break. These can sometimes be fixed. But the... *sorolya*... 'memory holds'? These break. Or the connections between them and the Cortex break. These, we cannot fix. The Anchorage is losing its memories."
+
+He lets a long breath go, then nods. "We must continue our tour now. If you are ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"See the pit. Here, we control the parts of the Anchorage we understand. The parts we do *not* understand, we do not touch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Still looking at the pit, Genjes nods once and continues his thought. 
+
+"The Anchorage is our home. But it is not *ours*. It belongs to our people. To our world. We are... residents. Caretakers. We protect the Anchorage so the Ship will find it. So they know we have cared for it."
+
+He nods again, satisfied with his response, and waves you along. "One more stop on the tour. My favorite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"This," he says hoarsely, "is the beacon. This is the voice of the Anchorage. It calls out into the void. Calls for the Ship. And one day, the Ship will answer."
+
+He turns slightly away from you and thumbs the corner of his eye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Genjes stares at the beacon, muttering in his own language. You notice that the downstrokes often coincide with the deafening *pings*. 
+
+"Yes," he says, smiling. "It says, 'We are here where you left us. We sing to you with our whole voice. Hear us. We shine like a crown made of stars. See us."
+
+He bows his head. "'Find us.' That is what the signal says.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Any questions have you, before we continue?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"It's beautiful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Do you have names for any of these stars?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"So, studying this display could help your people find their way home?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Do these lines looks like a spider to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Yes," he agrees. "I think so also."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Some, yes." He shrugs. "Others, no. Much has been lost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>He blinks rapidly, surprised by your question. 
+
+"Some of us believe this. They come here when they have no work to stare at the changing paths. To draw their own maps and... dream? Yes, dream."
+
+He pauses, gathering his thoughts. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>He watches your face for a moment, utterly stoic, then turns back to the display before you both. 
+
+"No," he says.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>He gestures you along, urging you to follow him. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Apologies. I do not have much time. Should keep moving if you want to see every thing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I will explain what I can, if you have questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Actually, one moment please. I have to do something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Have you any questions of the door to your home?"
+
+He chuckles, clearly expecting none. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"It refreshes constantly. Is it changing its mind, or checking if the thoughts are still there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Can I touch it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Are you sure this is the Cortex's mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Are the Cortex's thoughts *actually* blue?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Delight blooms across your guide's face. 
+
+"I wonder the same thing!"
+
+He looks at the air, lips moving, composing his response. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Course!" he says, beaming. You reach into the warm, tingling mass of light. The hairs lift on the back of your hand.
+
+After a few seconds, Genjes taps your shoulder. "Must continue. Apologies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Yes," Genjes says, his cheeks flushing. "Served the Anchorage and the Cortex my life entire. Know its thoughts as my own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>He repeats your question to himself silently, as if tasting the words. 
+
+"No. Blue is the color of the light. Thoughts have no color."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Have you ever been to the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Do you ever consider blocking this door? Keeping visitors like me from coming?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"What's this made of, anyway? "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Does this door ever get stuck?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>He makes an unfamiliar gesture in the air - a sort of snatching movement as if he has touched something hot. 
+
+"No, and never will. I belong here. Am needed here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>He flinches at the question, the grin fading from his face. 
+
+"I do not want to offend, but... yes. Many times."
+
+He looks away from you, laying his hand against the door, marshalling a response.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>He squints at the door, then back at you.
+
+"Metal? Yes. Metal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Yes," he says, then pats your shoulder. "But do not fear this. We can fix doors." He coughs. "Most times."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>He folds his hands, awaiting your questions. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"What type of important visitors came through this door, then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Their names? Lost," he says, shrugging. "Captains. Captain-Philosophers. Masters of the civilization, visiting the station to point and frown. Many ordinary travelers too."
+
+He pats the door again. "Now, nothing. We have no visitors from the stars, so the door is never used. It breaks and stays breaken. Broken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"What if your Ship comes? Would they come through this door?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>He opens his mouth. Shuts it. Gives the door a long, worried look.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"What do you store back there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Components," he says, shrugging. "Heirlooms of lost family lines." He waves his hand aimlessly, trying to capture the word he's looking for. 
+
+"Things and other things."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Why does the door break so often?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Can not say," he says, grimacing. "I wonder this myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Beautiful, yes? Yes. Questions, have you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"What are some of the names you have for this world?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Many," he says, dismissively. "In your language? 'Dawn-Glow. Corpse-Light. All names between. Is... philosophical."
+
+He scratches the back of a hand. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"How come you don't know the name of the world anymore?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>His cheer over the sight fades a fraction. 
+
+"Is simple. The Anchorage is breaking."
+
+He hesitates, staring at the air, framing his response. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Why haven't you and your people settled down there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Because the anchorage is our home," he says briskly. "Until it is not."
+
+He points at some of the brown landmasses below. "Also, the land on that world is dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Are you sure that isn't your home world?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>His eyes widen, but he smiles with great and precise care. The expression of someone hiding their true one. 
+
+"Very sure," he says with brittle courtesy. "We would know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Can not tell you much of the pit, apologies. Some secrets here, and not for the hearing of outworlders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Don't you ever get the urge to press every button and see what they do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Course," Genjes says, with a secret smile. "But some will open void-doors. Others fire ancient ordinances."
+
+He shrugs. "'Curiosity is not wisdom', we say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Interesting. You don't use much of this place, but you keep it clean. Even the parts that are failing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>He ponders your words for a long, silent moment. Translating perhaps. At last, he grins.
+
+"Yes. This is what the Anchorage means to us."
+
+He chews his lips, thinking of how to respond to your observation. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Can't you tell me *anything* about this you wouldn't normally tell outworlders?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>He ponders your question. 
+
+"No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Why do you call it a pit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Is the wrong word?" He frowns to himself, murmuring in his own language a moment. "No. Lower-space-in-comparison-to-higher-space. Is pit. Maybe is not beautiful word, but is correct one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"What can I tell you of the beacon? Ask, please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"No one seems to be bothered by the constant pinging."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"No," he says, raising his hands. "Our children are born hearing it. Does your heartbeat bother you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"What is the message the beacon is sending?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Is hard to translate," he says eagerly. "Was composed by the Anchorage's first native Captain-Philosopher. Wait, please."
+
+He murmurs under his breath, bouncing his hand beside him in the air to an unheard rhythm. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Has it ever broken?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>He smiles up at the curling spire. 
+
+"Never."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"What purpose does the orb at the top serve?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Many," he says, but shrugs. "Some of our texts speak of... communicating. Sound-casting. Many things. We do not use it. It simply *is*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Come with me, please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Are you still interested in the tour? If no, I must return to my work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"A moment, please. If you talk now, I will forget my thinking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"And that," Genjes says, clapping his hands together, "that was the Anchorage. Was interesting to you, I hope. Now, must return to duties."
+
+He gives you a smiling nod and walks away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Script Node 87</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Now, this one *definitely* looks like a spider. Don't you see it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>He studies you again, but with a touch of suspicion. 
+
+"No," he says.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"What an old door. Does it gather many spiderwebs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>He is now definitely regarding you with some concern. 
+
+"We are in the void. Spiders that make their way here do not survive. Nothing to eat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Actually, I'm still curious about your last answer. You *really* have no spiders up here? That's amazing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>His shoulders slump. 
+
+"No," he says, glancing back towards his post. "No spiders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[Aligern and/or other companions suggest that keeping Genjes talking might be a good idea.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Yes, we should do that," Tybir says quietly, beneath his hand. "The longer we keep him talking, the more time we have to find the Cortex."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"We should take him up on that," Matkina mutters. "The longer we keep talking, the more time we have to find the Cortex."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"We should certainly ask him *many* questions," Callistege murmurs. "The more time he spends answering us, the longer we'll have to find the Cortex."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Script Node 107</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Trigger Conv Node 108</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

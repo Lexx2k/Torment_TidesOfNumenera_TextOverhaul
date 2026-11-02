@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2321_matkina_npc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>141</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Matkina is at her table, and as you enter, she idly throws a knife at a target near your head. "Missed," she drawls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>She raises an eyebrow at you, but doesn't say anything.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What's the story with you and the other castoffs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Who's the First? The first castoff?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Would you travel with me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Will you travel with me again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Farewell, Matkina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>She looks down at the table and sorts through a couple of sheets of paper. "Nothing here that requires my immediate attention, I suppose. Fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>She leans on the table and looks keenly at you. "Fine. Why not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>She leans back against her table and looks around. "And leave all this behind?" She shrugs. "I'll gather my effects."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I haven't killed anyone in the Underbelly for years. There's no money in it, no fear." She crosses her arms. "I've got a style. A reputation to maintain."
+
+She pauses. "But wait. Now I'm interested. Why would anything think I had anything to do with it? *Did* you check the scene?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"If we're going to go, let's go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"You again? What fresh indignity do you hope to achieve now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Will you travel with me again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"You're joking, right? Did someone put you up to this?" She makes an elaborate show of looking around the room.
+
+And then she spits on the floor. "No. I won't put up with your skist anymore. Find your own way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Why are you still talking to me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Farewell, Matkina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"What can you tell me of this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"What can you tell me of yourself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"How did you find your way here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"It's the Cave of Last Words. It's my home. And somehow you're still in it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I went looking for a place where no one would find me. I guess I should have tried harder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>She strikes a pose and pretends to think. "Let's see... I'm a castoff, I'm 250 years old - give or take - I'm the most feared assassin in Sagus Cliffs, and I'm thinking of ways I could kill you permanently."
+
+She drops her hands to her hips. "Why are you doing this? Is there any point?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Take your time coming back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"What can you tell me about this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Can you tell me about the Cave of Last Words again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"What can you tell me about Miel Avest?"
+
+{SCRIPT: Please assign the proper map variable for Miel Avest once that's in the system for this whole Followup node}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Can you tell me anything more about Miel Avest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"How did you find this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Can you tell me how you found this place again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"This is the Cave of Last Words. It was a thieves' hole until the tunnel leading in collapsed. Five, six hundred years ago, it was where the scum of the city would slip away from the city guard. Before there were levies, before the Slave Families, the truly desperate lawbreakers fled here when they had no other options."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"It's an old thieves' hole. Story is that Chila hid here before she became famous. It was old even then, a place where suicides and the desperate would come to launch their last big score... escaping life on their own terms."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"That, there - that's the Suicide Tunnel." She points. "The words on the cave walls, those are the final words of people with nothing left to lose, etched into the bedrock of the city, burned in and burned out by the hopeless. A fitting metaphor."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"And then there's a ledge at the end of the tunnel, just in case those words are... inspirational." Her crooked grin resurfaces. "The view is also quite nice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>She looks at you appraisingly. "If you question the worth of your life, these terminal thoughts are... instructive. For a long time, they helped me hang on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I'm investigating some murders in the Underbelly. Someone said they thought it was your work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I did find a clue in the Underbelly murders - a circle containing a triangle bearing a bleeding eye, with another triangle breaking the circle from the right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I wanted to talk about the murders in the Underbelly again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Not yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>She shudders. "The Children of the Endless Gate. A splinter sect of the Dendra O'Hur. Both of them gifts to the world from our beloved siblings. The Dendra are mostly harmless, disgusting as they are, worthless as their creator is. They have a chapel in the Underbelly. Go talk to them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Amateur. If you need my help, you need to bring me something to work with." She raises an eyebrow. "You *were* asking for my aid, yes? Not some half-cooked accusation?" She waves a hand at you. "Go on. I have... I have things I need to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Have you actually examined the scene by now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Then don't waste my time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Let me gather my effects."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>She gives you a long, slow look. "You were in the Mere. You saw what happened. I wanted to make a difference, and they pissed on my hopes. After that debacle, I killed Tash and fell out with the rest of them." 
+
+She frowns. "The conflict between the First and the Changing God swallows all our siblings, one way or another. I didn't want that. I wanted to make my own way. They weren't pleased. And... here I am. No worse for the lack of their company."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"I listened to the stories of old thieves. I went to the Bloom and listened to the stories of Chila. I made friends with the sticha, and I asked them if they knew about a place like this. Turns out they did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"I listened." The rest of her reply is a long, cold stare.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"The wretched conclave? The sanctuary that's sapping castoffs' ingenuity? The false hope of our kind?" she snaps.
+
+"Not what you were looking for, eh? It was built by the First and our sire for the purpose of finding a way to stop the Sorrow, shielded over, hidden from everyone. Then, when they split and started the Endless Battle, it became a haven where everyone agreed to put aside their enmity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Watch out for yourself there." She shrugs. "Not sure what else to tell you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"She *was*, or she claimed to be. She's dead now. She said she'd fight for all of us. They say *she* was the one who founded Miel Avest for our sakes. Most of our siblings remember her as a hero." She spits in the corner. "Most of them never actually knew her."
+
+"She was driven, I'll give her that. Even with her decaying body, with all its hurts and wounds, she found masks to cover herself and the strength not to hurt, and she kept plowing on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"But the problem with two driven people - her and our creator - is that when their courses diverge, the results are... horrifying. We got the Endless Battle out of it, centuries of reality-splitting bloodshed. When you're fighting at that scale, individual lives... individual villages... don't mean that much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"She's dead now. Good riddance. She wasted centuries fighting our fraud of a father, and the Sorrow picked us off in the meantime. Thanks to both of 'em, we're no closer to safety than we were."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"A few of us still cycle in and out of there. Castoffs who've decided they want to check out of humanity for a while. People who want to try their hand at figuring out why the Sorrow's killing us, and test their latest theories on how to stop it. The place is all protected, every emanation blocked. It's an attractive place to stay, but it's a temptation to *hide* there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"How many castoffs are there, anyway?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Hundreds? Who knows. Supposedly the Changing God went to other worlds, bent time and space, slipped through dimensions... and he always had his spare bodies with him. There could be thousands, *millions* for all I know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Some of us... our brother Riastrad, for instance... were better than the rest, and those better castoffs suffer. So listen up: every one of us spreads pain like a growing cancer. We all use each other for our own ends, and someone always gets broken at the end of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>She gives you a dark look. "Even us. Get that straight. You and me, we're both using each other right now. It'll profit us both, but someone's bound to get hurt." 
+
+She shrugs. "Fair warning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>She points to Callistege. "Why'd you bring *her* here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"I helped find you, dear. You're not quite so clever at hiding as you imagine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Who said that? *Him*?" She jerks a finger at Tybir. "I hope you're not taking forensic advice from this gallowglass."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"I have no idea what I've done to offend such an estimable person," he replies loftily. "And I made no such suggestion. I am simply accompanying my friend here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Out of the goodness of your heart? What I've heard about you, that seems unlikely."
+
+She turns back to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Does the Changing God ever return there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"If he does, he does it in the guise of a new castoff. I've never seen him, as far as I know. But then, I haven't been back for a while."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>He does not turn toward you, but you can feel his attention on you. He says nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"What can you tell me about the Changing God?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Brilliant, charming, and ruthlessly self-centered. More blood on his hands than I'll ever have. Legend says he wiped out the Tabaht. A nearly complete genocide. He left one alive as an object lesson, one of their generals enslaved in the city to teach his enemies not to cross him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"I figure that beneath it all, he's also a coward. Sure, life fights to continue to exist, but he took it a step farther, didn't he? And for what? To experience more? Maybe if he had some other reason he'd be more sympathetic, but from where I'm sitting, it looks like selfish fear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Don't get me wrong. He's smarter and more resourceful than I'll ever be. But somehow... somehow I just can't find it in me to respect him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Too many with you already. Don't want to join the menagerie. Maybe after you drop them off."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"I haven't killed anyone in the Underbelly for years. There's no money in it, no fear." She crosses her arms. "I've got a style. A reputation to maintain."
+
+She pauses. "But if you found any clues at the scene, let me know. I admit, I'm curious who *would* do a job in that hole."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Have you looked around the scene, found any clues yet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"I'm investigating some murders in the Underbelly. Someone said they thought it was your work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"I'd like to talk about the murders in the Underbelly again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Who said that? *Him*?" She jerks a finger at Tybir. "I hope you're not taking forensic advice from this gallowglass. I know his reputation, if not his person, and I wouldn't trust him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Not yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>{shock, quiet awe}"What... what did you *do*? I remember Tash cutting me. I see the holes in my mind and the scars on my face. But I remember him *not* cutting me. I remember fighting the First's Militia, and Tash forcing me to the ground, tearing out my history..."
+
+{pause, shaking}"...but my memories are there. Tash didn't do it."
+
+{GEORGE: Her specific memories of what she remembers should probably be based on what the player did in the Mere. -AH}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>She holds her head in her hands, shaking, her voice becoming thick. "The two strands of memory... this is pulling me apart." 
+
+She looks up at you, tears streaming down her cheeks. "No. It's pulling me back together. I remember now. That hole is... it's almost gone."
+
+"You changed reality. You *changed* it." She stands, drying her tears with her sleeves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"I don't know if you meant to do that, but you've done more than your part of the deal. You asked about the resonance chamber. I know it. Mazzof's the guy you want. He can fix anything. He might have even helped design the chamber you're talking about. Your best bet is to look for him in the castoff sanctuary - Miel Avest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"There's a castoff sanctuary?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"It's a sanctum, a refuge, created by the First and our sire. It's shielded from the Sorrow, supposedly." She shrugs. "Our siblings like to hide there, until they can't stand each other's company anymore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Great. Where can I find Miel Avest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Word of caution. They won't believe you in Miel Avest. They'll treat you like they treat every new castoff - as a pawn in their games with each other. Look out for that."
+
+She walks to her table, and unrolls a map of the Sagus Protectorate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"You're not going to find it by walking there. The entrance is a secret, known *only* to our kind. Here." She points to a spot on the map, many kilometers to the northeast of Sagus Cliffs.
+
+"The Valley of Dead Heroes. There's a hidden portal in the Necropolis. Also memorize this." She writes the numbers, '3-4-3-1,' down on a slip of paper, holds it in front of your eyes for several seconds, then crumples it in her hand. "It's a code. It'll make sense when you get to the Necropolis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"You'll need an airship to get to the Valley. The ladder over there leads up to the Caravanserai. You should be able to hire a ship without too much difficulty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Thank you, Matkina. And farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Go on. Show our brothers and sisters what you can do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Can you take me there? I could use your help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Too much of a crowd with you already. But I'll show you the way to get there."
+
+"Word of caution. They won't believe you in Miel Avest. They'll treat you like they treat every new castoff - as a pawn in their games with each other. Look out for that."
+
+She walks to her table and unrolls a map of the Sagus Protectorate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"I'll take you. But don't expect me to hold your hand. Probably better that I bring you personally anyway. Keep an eye on you, make sure you don't get lost... or killed."
+
+She walks to her table and unrolls a map of the Sagus Protectorate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"We're not going to find it by walking there. The entrance is a secret, known *only* to our kind. Here." She points to a spot on the map, many kilometers to the northeast of Sagus Cliffs.
+
+"The Valley of Dead Heroes. There's a hidden portal in the Necropolis. And in case something happens to me, memorize this." She writes the numbers, '3-4-3-1,' down on a slip of paper, holds it in front of your eyes for several seconds, then crumples it in her hand. "It's a code. It'll make sense when we get to the Necropolis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"We'll need an airship to get to the Valley. That ladder leads to the Caravanserai. We should be able to hire a vessel there without too much difficulty."
+
+With a glance around the cave, she says, "I can't say I'll be sad to leave this behind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"So what are you doing now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Tell me what you're doing again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"I'm writing a play. What's it look like?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Collecting proof that there *are* such things as stupid questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Thank you. Can I ask some other questions?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Fine. What do you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Can you tell me about Miel Avest again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"It's a sanctuary for our kind, *supposedly* from the Sorrow, but more realistically it's a sanctuary from the endless fighting. Aadiriis - she's like the mother of the place - enforces a strict non-violence policy in there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"What's the story with you and the other castoffs again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"They betrayed me, so I betrayed them. Very few of them trust me now, and good riddance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"What do you know about the First again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Most of our siblings remember her as a hero who died protecting them from our sire's machinations. Most of them didn't know her like I did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"What can you tell me about the Changing God again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"There is no man who cares more about himself.  The fact that he keeps his immortality to himself is proof of that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Thank you, Matkina. Let's go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Good luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>As your consciousness rises from the shadow of the Mere, something... *clicks* in your mind. Something has changed deep inside you, but what?
+
+Matkina stares at you, the shock painfully obvious on her face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>{shock, quiet awe}"What... what did you *do*? I remember Tash cutting me. I see the holes in my mind. I remember him forcing me to the ground, tearing out my history with his Tides..."
+
+"...but I have other memories now. They're... they're *real*. He didn't do it. He died. He didn't violate me. He joined the First. But he... did try. Didn't he?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>{shock, quiet awe}"What... what did you *do*? I remember Tash cutting me. I see the holes in my mind. I remember him forcing me to the ground, tearing out my history with his Tides..."
+
+"...but I have other memories now. They're... they're *real*. Tash didn't do it. I saw him shot with an energy bolt. He was *dead*. He couldn't violate me... but... he did try? Didn't he?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>{shock, quiet awe}"What... what did you *do*? I remember Tash cutting me. I see the holes in my mind. I remember him forcing me to the ground, tearing out my history with his Tides..."
+
+"...but I have other memories now. They're... they're *real*. Tash didn't do it. He fled. He didn't try to violate me. But I remember him touching me with his mind, his..."
+
+"No. No, he never did that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>{shock, quiet awe}"What... what did you *do*? I remember Tash cutting me. I see the holes in my mind. I remember him forcing me to the ground, tearing out my history with his Tides..."
+
+"...but I have other memories now. They're... they're *real*. Tash didn't do it. He could have, but he didn't. He saved me, boarded the vessel and... didn't touch me. Didn't violate me with his mind. But I remember him *touching* me..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>{shock, quiet awe}"What... what did you *do*? I remember Tash cutting me. I see the holes in my mind. I remember him forcing me to the ground, tearing out my history with his Tides..."
+
+"...but I have other memories now. They're... they're *real*. Tash didn't do it. He could have, but he didn't. He tried, but... didn't. He didn't touch me. Didn't violate me. But... I remember his mind pushing at me... but... no."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

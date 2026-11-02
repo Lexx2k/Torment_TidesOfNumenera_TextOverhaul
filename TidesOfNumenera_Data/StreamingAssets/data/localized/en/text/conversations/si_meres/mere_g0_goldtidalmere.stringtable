@@ -1,0 +1,1219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\si_meres\mere_g0_goldtidalmere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>181</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The sunrise gives the sea a blazing golden sheen, and all the city - from the far harbor shanties to the splendid square just below you - basks in its light. The breeze blows fresh and brisk off the water, the song of nightbirds gives way to the chatter of clerks and touts, and your black-veined hands, twisted like talons, tremble on the windowsill. 
+
+Behind you, men bicker about tests and shins, about a rot that has reached the heart and brain and cannot be cut out.
+
+{VOICE: As is probably self evident, the tone of this shifts about halfway through from an idyllic seaside scene to a body rotten with techno-cancer. I think the delivery shoudd reflect this.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>You turn away from the window and face the men, just as the closest of them - a one-armed servant in sumptuous garb - cries that there *must* be more that can be done, whatever the cost.
+
+But the other, a chiurgeon, snaps back, "I am no mountebank like Jalippa, flinging cyphers at the sick till there are no more shins to shake loose! It is not healing to stir false hope in those doomed to die." {VOICE: I think this line should be delivered with Gandalfian indignation. "I am no conjurer of petty tricks," etc. In fact, I suppose I was probably subconsciously appropriating that line.}
+
+They break off their debate to look your way. You don't recognize them at all, but plainly they know you and expect you to speak. {VOICE: "they" and "you" in "they know you" should probably be emphasized.}
+
+{ART: Cardogo and Aram}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Demand to know who they are.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Apologize for your confusion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Tell them to leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The servant's eyes widen, first with something like anger and then with something like understanding. He steps closer to you and, in an almost-tender gesture, lifts a hand toward your face: his one hand, his one arm - his other, armless side smoothly swaddled in silk. 
+
+"I am Cardogo, your grace. You know me." And without it quite being so, he is right - even poisoned as your body is, it feels the flush of friendship. "And this is Aram of the Island - he has been treating your... condition."
+ 
+The chiurgeon nods slightly, adding, "My services are at an end, your grace. The roots have spread too far, too deep. What the Wind sowed must now be reaped."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"My condition? Roots? The Wind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"How long do I have?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Leave me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The two men share a quick, obvious glance, and your frail body quivers at the gesture. Cardogo draws closer. "The Wind touched you, your grace." As he says it, his fingers dance as if unbidden upon the flat expanse of his maimed side. "The Iron Wind. What it touches, it changes, seldom for the better. Your changing was slow. All these years you fought it. The doctors fought it. We fought it together."
+
+The Islander's voice has none of Cardogo's softness. "And now you have lost. You are leaving this life at last - all that remains is to decide whether you will do so properly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"What's wrong with your side, Cardogo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I want to keep fighting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Cardogo shakes his head. "You *know*, your grace. The Wind changed me, too, when I sought to shield you from its touch. I failed you then, as the doctors have failed you now."
+
+Perhaps he sees your eyes lingering upon his unbalanced body. "We both paid too high a price," your servant says, his voice breaking slightly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I'm sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Show me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"At least you're not dying."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Ask the doctor to examine Cardogo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Your servant flinches, as if you'd raised a hand to strike him. Then, after a quick look to Islander, he nods. Button by button he opens his shirt, slowly sloughing it, turning away like a courtesan, hiding the horror as long as he can. But it will not be concealed: a ruin of moist, mottled flesh, patched with curling hairs, spotted with eyes and pitted with burnt-out sockets, speckled with half-formed teeth and oozing fistulae. 
+
+Almost defiantly, he lets you stare before slipping his shirt back on. "You are not the only one the doctors have failed."
+ 
+"Perhaps, Cardogo," Aram chides, "you have merely visited the wrong doctor. Not all ills are incurable, nor are all chiurgeons Jalippa."
+
+{[B] SOUND: Maybe a sound of an article of clothing falling; even if that's not exactly what the action is, it's the kind of sound that we associate so strongly with "undressing" in movies, it might work.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Tell me about Jalippa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Aram shrugs. "Days, perhaps. No more than a week. It grows as it will, and will blossom when it is ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"You'll get no good from her," Aram spits, "unless you long to be gulled." The chiurgeon smirks at Cardogo as he says the last bit. 
+ 
+Your servant nods. "She trades in false words, not cures."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>As you stammer out your confusion, the servant's eyes widen with understanding. He steps closer to you and, in an almost-tender gesture, he lifts a hand toward your face: his one hand, his one arm, his other side smoothly swaddled in silk. "I am Cardogo, your grace. You *know* me." 
+
+And without it quite being so, he is right: even poisoned as your body is, it feels the flush of friendship. "And this is Aram of the Island - he has been treating your... condition." 
+ 
+The chiurgeon gives a slight nod, adding, "My services are at an end, your grace. The roots have spread too far, too deep. What the Wind sowed must now be reaped."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Please leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Aram gestures broadly at the cyphers, trophies, and treasures that adorn the walls. "Your life was full, but the hourglass is empty. Now you must rest for a while, then forever." The deep ache in your skull and spine, the ragged weakness of each breath, and all your body's other voices cry their confirmation of the doctor's words.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>The chiurgeon nods twice - once to Cardogo, once to you - then slips from the room. Cardogo waits until he is gone to speak. "Your grace, there are other doctors... Perhaps an Aeon Priest, perhaps..." 
+
+He looks you over and trails off. "You should rest, your grace. I will have the kitchen prepare your broth. And I will let your family know." He lingers a moment longer without saying why. What he wanted or awaited goes unspoken, and as he departs, a tremendous weariness overtakes you. 
+
+Beyond the window, the sun has risen and the sea is restored to old gray waves crashing on a sullied shore.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"It wasn't you who made the Wind, your grace," Cardogo replies, "and it was I who begged to go with you to the Bordermarch. I went freely, and freely did what was right. And you've given me better things than an apology."
+
+Then, as if ashamed at this outburst, your servant glances at the doctor. "I will try to bear the burden more lightly, your grace. You carry too heavy a load already."
+
+With a sharp smile, Aram answers, "Your grace will not bear that burden much longer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"This will not kill me! I will not die!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Trembling, you swear you'll defeat the rot, perhaps with the help of this Jalippa, alone if you must. As your rant rages on, your voice grows more ragged, and at last you stagger back and catch hold of your desk to keep from falling.
+
+The doctor shakes his head and leaves, and Cardogo helps you into a chair. "You won't fight alone, your grace." He wipes sweat from your brow.
+
+"For now, though, you must rest. I will have the kitchen prepare a broth. And I will let your family know." He lingers a moment longer without saying why. When he goes, a tremendous weariness overtakes you. 
+
+Beyond the window, the sun has risen and the sea is restored to old gray waves crashing on a sullied shore.
+
+{[A] SOUND: Someone stumbling, banging into a piece of furniture, catching himself.  Maybe somethings being knocked over.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The hours of rest have won you no strength, and the soup sits uneasily in your stomach.
+
+Cardogo hides your pallor with rouge and your twisted hands with white gloves. A padded jacket fills out your wasted frame and hides the growths. He finishes dressing you and offers a mirror.
+
+It trembles in your grasp. You look like a corpse dressed for a funeral. Cardogo has hidden nothing - only made your sickness presentable. 
+
+"They are waiting," he says, and he guides your chair forward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Before Cardogo can respond, Aram of the Island snaps, "We are *all* dying - that is life's one inevitability. You are merely farther along. Anyone who says otherwise is lying, and the world you around should be proof of that." His hand slices the air in a swift, hard gesture. "Medicine is truth applied to suffering. That is why Jalippa is no doctor."
+
+You servant takes a half-step, as if to place himself between you and the chiurgeon, and says, "As before, I would gladly trade my death for yours. But, once again, I cannot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Aram shakes his head. "Death is life's one inevitability. The battle you would fight cannot be won - blows aimed at death always fall upon the living. Those who say otherwise are lying, and the world around you should be proof of that." He slices the air with his hand in a swift, hard gesture. "Medicine is truth applied to suffering. That is why Jalippa is no doctor."
+
+You servant takes a half-step, as if to place himself between you and the chiurgeon, and says, "Whatever you choose, your grace, I will be beside you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"What *exactly* is wrong with me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"No," the doctor says curtly. "I am not here to treat your servant. If you wish to retain me to do so, you may call at my place of business." He looks at Cardogo. "He knows where to find me."
+
+Turning back to you, he adds, "As for you, the treatment is done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>As you cry for them to go, your servant's eyes widen, as if to better take you in. Understanding slowly shines forth. "It is me, your grace, Cardogo. And this is Aram of the Island. He has been treating your... condition."
+
+The chiurgeon nods slightly, adding, "My services are at an end, your grace. The roots have spread too far, too deep. What the Wind sowed must now be reaped."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Then there are preparations to be made."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>The chiurgeon bows - plainly pleased that you have heard his words - then takes his leave. Cardogo watches him go, then turns your way.
+
+"There is work to be done, your grace. But you must rest. I will have the kitchen prepare your broth. And I will let your family know." He lingers a moment longer without saying why. What he wanted or awaited goes unspoken, and as he departs, a tremendous weariness overtakes you. 
+
+Beyond the window, the sun has risen and the sea is restored to old gray waves crashing on a sullied shore.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Your eyes flick across the drawing room, alighting on the vast map covering the far wall, the shining oddment of crystal and azure steel whirling in a corner, the shelves of ancient tomes, the writhing fire caged in the hearth. Then there are the men and women, young and old, all gazing expectantly, scores of stares you cannot meet in a sea of unfamiliar faces. On some, fear and desperation are naked - other guests have done better in their concealment. A neatly groomed man in a neatly fitted officer's uniform sobs messily. He is the exception.
+
+Cardogo puts his hand on your shoulder and a hush falls. "Your grace - the family is gathered." To you alone he says, "They await your words."
+
+{[A] SOUND: A faint gasp and maybe some murmuing.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Try to ease their fears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Send them away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Seek Cardogo's help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>They know you are dying. Your family may be strangers to you now, but anyone could see their fear: namely, that they will fall with you, followers that they are. You must set them free.
+
+You speak of your weakness, and their strength. Of the darkness you face, and the bright days ahead for them. You say that a family is, by definition, more than one member.
+
+Too soon, your well-worn words run out, and Cardogo ushers the crowd from the room. The officer, however, insists on staying, and your servant at last relents.
+
+"Your grace, your nephew Salvar begs a word." He withdraws a discreet distance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>You cannot possibly give these strangers the comfort they need; any words would ring hollow. So you merely ask them to leave, eliciting stunned muttering.
+
+Cardogo quickly steps out in front you. His ready excuses hardly calm the crowd, but he is able to usher them from the room. The officer, however, insists on staying, and Cardogo at last relents.
+
+"Your grace, your nephew Salvar begs a word." He withdraws a discreet distance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>You place a trembling hand on Cardogo's arm. He leans down and whispers bland words of comfort. At first you bristle at his coddling, but quickly you realize that perhaps he means for you to pass the phrases on to the crowd.
+
+In a quaking voice, you tell them that they are not alone, that they are loved, and that they are strong. Here, your servant's prompting runs out, and at a loss for what more to say, you merely add that you are dying.
+
+When Cardogo sees that you have nothing left, he ushers your family from the room. The officer, however, insists on staying, and Cardogo at last relents.
+
+"Your grace, your nephew Salvar begs a word." He withdraws a discreet distance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Salvar has everything you've lost: strength, beauty, vigor... and yet his haunted eyes - *condemned* eyes - are all too familiar.
+
+He bows and, thinking his face hidden, wipes it quickly with a handkerchief. As he rises, he kisses your gloved hand. "Your grace." His voice, for all its glorious tenor, quivers as if he is far weaker than he looks.
+
+"You have given me so much. And now, as your end draws near, I hope at last to prove my worth." His harried eyes dart about as he gives his little speech.
+
+{[A] SOUND: A man clearing his throat, as if to start speaking, NOT to dislodge phlegm.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"How?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Is something troubling you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"I have no time for this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Salvar's ramrod spine crumples and he grabs your hand imploringly. "But... but... please!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>A false smile reveals brilliant teeth. "No! Not at all! I have discovered a wonderful opportunity... a mercantile venture in need of a leader, a man of precisely my skills. And a chance to purchase shares in the ongoing concern, preferred stock!" He stutters slightly over the foreign vocabulary of business.
+
+"I can make good on what you've given me, prove that your faith in me was wisdom!" The smile crumbles. "I just need a stake to buy in."
+
+He means shins, of course.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"I'm sorry. Say what you wished to say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Fine. Go ahead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"No. I am *dying.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Salvar straightens at your blunt denial, and nods his head, almost with dignity. "I understand. I am sorry you could not live to see me worthy of your faith." He bows and marches out of the room. As he does, Cardogo returns to your side from the polite distance he had been keeping.
+
+"Ever a wastrel, your grace." He eases your chair back toward your suite. "It has been a long day. You should rest."
+
+A soporific and anodyne mist brought by Cardogo dulls the daggers that stab your nerves, and soon sweet oblivion settles over you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"I... I have discovered a wonderful opportunity... a mercantile venture in need of a leader, a man of precisely my skills. And a chance to purchase shares in the ongoing concern, preferred stock!" He stumbles over the foreign vocabulary of business, but a bright, false smile spreads as he picks up steam.
+
+"I can make good on what you've given me, prove that your faith was well placed!" The smile fades. "I just need a stake to put in."
+
+He means shins, of course.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>You awaken in the dark night with the certainty that you are not alone. Your uneven heartbeat races and your rot-riddled eyes strive to find an intruder. "Who's there?" you hiss.
+
+A shadow sits at the foot of your bed, illuminated by the falsefire glow of a cypher around her wrist. As your eyes adjust, her face becomes faintly visible - you recognize her from the gathering. She was at the back of the drawing room, and she left before anyone else.
+
+"Casca," she answers, identifying herself, though by now she knows you've seen her. "Or have you forgotten me entirely?" {[A] SOUND: A rustling of bedsheets, followed by a frightened gasp (probably more masculine than feminine on the gasp).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"I'll make sure you are provided for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Tell me more about this venture."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"I'm skeptical."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Salvar nods, too fast, too many times. "It is not without danger - physical danger, I mean, which is why they need a man who can swing a sword."
+
+He is interrupted by a cough from Cardogo: "The *venture*?"
+
+"Ah, yes, well, it involves certain... ahh... salable commodities that are in great demand in the Oasis of M'ra Jolios, strictly highest workmanship, of course, but sold here like, ah, trinkets. So you see, exactly the sort of thing a sharp trader corners in the market, as they say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"It sounds like you're being tricked."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"This sounds criminal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Salvar blanches. "Ri... ridiculous. That could not be farther from the truth! This is honest and... and... good!" His words race blindly ahead. "This is a lucrative enterprise!"
+
+Your servant sighs audibly. The dull ache behind your eyes, the claws in your spine, your nephew's absurd deception, all of it drags you downward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Why are you doing this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Salvar takes a step back, his eyes watering. "I want to prove that everything you did for me, the schooling, the sport, my commission, these clothes... prove that it wasn't a waste. All my life I've had to *pretend* I deserved your love, your gifts - always knowing I didn't, always hearing others laughing behind their hands." He takes a ragged breath. 
+
+"Now I can prove you were right. Prove I was worth it. Prove it to *myself*!"
+
+From the corner of your eye, you see Cardogo shaking his head.
+
+Your nephew holds your withered hand with his long, graceful fingers. "Please. I just need help, one last time." Apologetically, unthinkingly, he adds, "It needn't be this evening; there is time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Salvar shakes his head, too fast, too many times. "I grant you, it is not without danger - physical danger, I mean, which is why they need a man who can swing a sword."
+
+He is interrupted by a cough from Cardogo, or perhaps a stifled laugh. Your nephew gives him a quick glance then continues.
+
+"But it is an almost certain venture. You see, well, it involves a certain... ahh... salable commodities that are in great demand in the Oasis of M'ra Jolios, strictly highest workmanship, of course, but sold here like, ah, trinkets. So, ah, exactly the sort of thing a sharp trader corners in the market, as they say."
+
+{[B] SOUND: Cough, covering up a mocking laugh.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Almost instantly, the fearful look leaves your nephew's eyes, and a beautiful serenity smooths his brow. "Thank you, thank you," he says softly. Then, with a champion's tenor, he vows, "I will make you proud." Cardogo leads him from the room.
+
+When your servant returns, he shakes his head. "You have showered that boy in shins, your grace, and shared a greater wealth in wisdom. To no avail."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"A person can always be changed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Let it pass.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Cardogo flinches at your words, and the scorn falls from his face.
+
+After a moment's humble silence, he eases your chair back toward your suite. "It has been a long day, your grace. You should rest."
+
+A soporific and anodyne mist brought by Cardogo dulls the daggers that stab your nerves, and soon sweet oblivion settles over you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I'll need to consider."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Of course, of course," he says, nodding. The fear seems to fade a bit from your nephew's face. "I promise, I *will* make you proud." Cardogo leads him from the room.
+
+When your servant returns, he shakes his head. "You have showered that boy in shins, your grace, and shared a greater wealth in wisdom. To no avail."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>No explanation you could give would satisfy him. Nor is there much to say about a nephew you cannot recall to a servant who is scarcely more than a stranger.
+
+After a moment's silence, Cardogo eases your chair back toward your suite. "It has been a long day, your grace. You should rest."
+
+A soporific and anodyne mist brought by Cardogo dulls the daggers that stab your nerves, and soon sweet oblivion settles over you.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Sleep.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"I've forgotten almost everything, it seems."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Why are you here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>(Lie) "No, I remember you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"You haven't forgotten to spoil Salvar," Casca scoffs. "You haven't forgotten your three-legged lap-dog." At the twist of a knob, the cypher on her wrist floods you with bright, blinding light.
+
+"And you haven't forgotten to sleep in silk, either, have you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Liar," Casca scoffs. "You could barely remember me even before you went to rot."
+
+She leans forward. "But you haven't forgotten to spoil Salvar. You haven't forgotten your three-legged lap-dog." At the twist of a knob, the cypher on her wrist floods you with bright, blinding light.
+
+"And you haven't forgotten to sleep in silk, either, have you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Spoil? I told him he couldn't have the shins he wanted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Why are you so angry?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"What makes you think I promised him anything?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Cry out for help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>As you call out for Cardogo, Casca stares at you in naked contempt. A moment later, your servant bursts through the door, dressed in a one-sleeved nightshirt, a tiny, deadly weapon in his hand, murder in his eyes.
+
+When he sees the intruder, he relaxes - slumps, even. You cannot see the expression on his face, and his voice is utterly flat as he says, "Shall I escort you out?"
+
+The woman spits, then lets Cardogo lead her from the room. When he returns, he administers your medicine again, then sits beside the bed until your trembling stops and sleep fitfully returns.
+
+{[A] SOUND: Door banging open, perhaps having been kicked open.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"To pay my last respects," Casca scoffs, as she shines her cypher over your withered, trembling body. "That is, if I had any." She gives a short, sharp laugh.
+
+"No. What I want is what you've been giving my sweet, soft, rotten cousin Salvar all these years: your shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"This time!" she hisses. "This *one* time. What do you think that weighs in the balance of a life?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Have you gotten so used to wearing a mask before our family that you think it will be as easy to lie to me? They *want* to believe your lies." 
+
+A predator's smile splits her hard face in half. "I want something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"And what is that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"I'm not angry," she says in a low, dangerous voice. "I'm *hungry*. And I want what you've been feeding my sweet, soft, rotten cousin all these years - your shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Do you mean to frighten me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Casca laughs. "No. You're terrified already. You've lived too long, too far from death. You have no idea what dying even is. You feel it like a nightmare, don't you?" She shakes her head.
+
+"But I don't care whether you're afraid or not. I care about what I want."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"You'll get nothing from me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Casca darkens the cypher on her wrist. "I know," she says softly.
+
+No death blow falls from her hand, no reproach from her lips; there is only the whisper of her departure and the darkness she leaves in her wake.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Why should I give you my money?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"My shins will make you soft, like Salvar. Better to grow stronger by earning them yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Right. I should climb Sagus Cliffs, hand over hand, until at last - bloody-fingered and bruised - I reach the top, and proudly look out over the wide ocean while the sunrise turns it all to gold." She says the last in a sneering imitation of your voice. "That's it, right? That's how you *earn* it?" 
+
+She draws closer. "Well, I've been climbing, all my life, and I've got the bruises." She shines the cypher on her face, where a fresh, livid blotch spreads across her sharp features. 
+
+"And yet there I am, still in the gods-damned Underbelly, low enough to smell the skist bobbing on the waves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"So don't tell me what makes me stronger. I don't want 'stronger.' I *am* stronger. I want this," she says, ripping your blanket off you. "I want my own bed in my own house, and never have to share it. I want shins enough to drown my past, to *murder* my past, a whole armor of shins, the kind of armor that lets you *be* soft." 
+
+She leans closer still. "But no! You... your money was for bold, beautiful Salvar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"When I'm gone, you'll be provided for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>(Lie) "I promise that you'll be provided for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>A single, half-choking laugh tells that Casca knows it for a lie. She darkens the cypher on her wrist. "Good-bye," she says softly.
+
+No death blow falls from her hand, no reproach from her lips; there is the only whisper of her departure and the darkness she leaves in her wake.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>In the twilight, she gives a short, flat reply: "Because I've suffered."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Weakness and throbbing pain are the morning's gifts, unblunted by the herbal broth Cardogo has brought. Death will not stop knocking.
+
+By the time the clocks cry out midday, a palsy has seized your left hand. Your servant gives you a relic to grip: some ancient creature locked in amber. It slips from your grasp and shatters on the floor; the beast flies away.
+
+At that moment, a caller is announced. Cardogo leaves, then returns visibly dismayed. "The Mendicant, your grace."
+
+Without awaiting an invitation, your visitor enters: a tall man, stiff and slender as a poker, finely dressed and bangled with cyphers. He glows with a confidant's confidence as he gives a half bow. "Your grace." {[A] SOUND: A chunk of amber falling to the ground, breaking open, and the buzzing of wings.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Casca nods once, without saying a word, then darkens the cypher on her wrist.
+
+Without its light, the room becomes completely black; utterly silent and empty but for the whisper of her departure and the ever-present pain within you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Sleep.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Salvar needed it more than you do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>A sound halfway between a sob and a laugh rips free from Casca's throat. She forces herself to stop and darkens the cypher on her wrist. 
+
+"You know nothing of need," she says softly.
+
+No death blow falls from her hand, no further reproach from her lips; there is only the whisper of her departure and the darkness she leaves in her wake.
+
+{[A] SOUND: A woman giving a single laugh/sob.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>At a curt nod from the Mendicant, Cardogo steps out. Your guest then sits beside you, and takes your hand.
+
+"I have heard," he says softly. "Naturally, not from Cardogo. But your family cannot help but share their panic with the city." His eyes glisten with fathomless compassion, or at least a fine simulacrum of it. "The hour against which you prepared for so long has come round at last. And they, who surely knew the day would come, are as unready as housepets."
+
+"They have leaned on you greatly. But then, so have I, and so have our children." He gestures to the leather portmanteau he has set at his feet. "I am here to bring your plans to completion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Prepared? Plans?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Our children?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"What do you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"How can I help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>The Mendicant eyes you carefully, then gently nods. "I know that a cloud has fallen on your mind. It would give me great joy to lift it."
+
+"For many years, your generosity has given new hope to the dispossessed and neglected children of this city. A long lifetime's worth of wealth has transformed what my Hospice can provide. The lands alone! Your old hunting preserves, and the mouths they now feed. The Wrecking Field at Crefton, and the honest labor of gleaning its numenera. The campus of the Hospice itself, and all the lost souls it houses."
+
+"As you insisted, no one knows of these gifts but us two and your solicitor." He smiles. "And now I seek to drink the last dregs of your estate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Dregs? Plainly my wealth is not gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Why do you need more?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"You may expect a bequest when I am gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"I'm not interested."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>The Mendicant laughs, and nods at your lavish surroundings. "Of course not, your grace, though much of this is an illusion you have crafted to lull those around you, like your servant Cardogo."
+
+Then, with practiced smoothness, he grows more serious. "And none of your wealth is 'gone,' your grace. Let us rather say, put to better use than mere luxury. Which is what my Hospice would do with what remains of your estate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>The Mendicant beams with gratitude. "Would that you could live to see the good your gifts will do."
+
+Then, his smile fades slightly. "There is one other matter, of a more personal nature. If you would permit, I would like to show you a picture of one of my wards."
+
+He unhinges the portmanteau's clasp and begins to reach in. As if in response, the shaking in your hand grows stronger.
+
+{[A] SOUND: A snap-clasp being opened.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"I want my property back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>A hint of peevishness is quickly chased from the Mendicant's serene face. "I know you are unwell and confused, your grace, and do not mean what you say. But even if you did, what you ask is of course impossible."
+
+His smile rewards in advance the generosity he expects from you. "I am here to discuss your further support of the Hospice, not your past benevolence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Very well. You may expect a bequest when I am gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>If your answer has fazed him, the calmness of his face belies it. "Before you decide, it might enrich our conversation if I could show you a picture of one of the many wards who benefit so greatly from your goodness. I think you would find it most enlightening."
+
+He unhinges the clasps from his portmanteau and begins to reach in. As if in response, the shaking in your hand grows stronger.
+
+{[A] SOUND: A snap-clasp being opened.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Very well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"No. This conversation is over."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>The Mendicant shakes his head sadly. "Our world knows no end of need, your grace. There are so many children who have been betrayed and cast aside."
+
+With a great, weary sigh, he says, "There is one in particular whom I wish to show you. If I may?"
+
+He unhinges the portmanteau's clasp and begins to reach in. As if in response, the shaking in your hand grows stronger.
+
+{[A] SOUND: A snap-clasp being opened.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"It's not necessary. You may expect a bequest when I am gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"No, I'm not interested."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>The Mendicant loudly snaps his bag shut, and almost instantly the door swings open. Cardogo inclines his head. "Your grace."
+
+Only a certain thinness in the Mendicant's smile hints at his frustration. He begins to speak, but it is as if a vast gulf has opened between you and the world. Black motes dance in this endless in-between, growing in number until they begin to overtake your vision.
+
+You try to say something, but can't form the words. Your palsy spreads across your body, a wild, frothing fit. Cardogo rushes toward you as the Mendicant recoils, but whatever the men mean to do goes unseen, for now there is nothing but the pain and the darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>From his bag, the Mendicant takes a glass tube filled with a swam of ants. Next comes rich parchment, which he lays upon your desk. With a deft motion, he pulls the cap from the tube and pours the ants on the page. They skitter madly, but not aimlessly, oozing acids on the page until at last they've etched a flawless picture.
+
+You see a young girl afflicted with precisely your servant's corruption: half her flesh a wilderness of misplaced parts and oozing sores.
+
+"One of Cardogo's brood," the Mendicant mutters. "Most of them are killed at birth, by the whores if not by him."
+
+Unbidden, a strangled sound escapes you, and Cardogo bursts in. The Mendicant slips out without another word.
+
+{[A] SOUND: A tube being opened (a bit of a popping noise) followed by ants skittering and chittering across a page.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>The Mendicant acquiesces. The only hint of disappointment is a certain thinness to his smile. He raps twice on the door to summon Cardogo, then bids you both farewell.
+
+As he leaves, Cardogo seems to speak, but you hear nothing. A gulf has opened between you and the world, full of black motes that swirl silently in the empty space. You try to say something to your servant, but you find you cannot form the words.
+
+That is when the attack begins, the palsy turning to a wild, frothing fit, as black spittle sprays across your desk and Cardogo rushes forward.
+
+Then, there is nothing left but the pain and the darkness, and you are all alone before it.
+
+{[B] SOUND: Door being knocked twice.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"The Mendicant told me about your children."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"You're a monster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Hide the picture, and say nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>You say nothing of what you've learned, and with a shaking hand slide the formidaeograph into a desk drawer. The trembling grows stronger as Cardogo speaks of something - the words cannot cross the gap between you. You try to respond, but cannot form the words.
+
+Black motes swirl in the air. Pain runs wild through your spine. You try to climb out of your chair - there is no reason, only a mad effort to escape - but you are too weak.
+
+Cardogo rushes forward as the fit overtakes you, but whatever kindness he intended goes unseen, for everything has vanished but the pain and the darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Cardogo's face turns red with rage, and then - as he sees the formidaeograph of his daughter - shame. "Of course I am," he whispers. "But a man, also."
+
+Face hidden, voice low, he confesses. "I was a man indeed when Kaeli let me join you in the Bordermarch, and a monster when we wed. Her love never flinched." He paces. "Could mine? She wanted a child, but I dared not burden her with another such as me."
+
+As he steps forward, black motes swirl in the space between you. "Jalippa swore there was still some good in me, untouched by the Wind, that could grow in my wife." He reaches out. "But I had to *know.* For her sake."
+
+Before you can condemn or absolve, the fit comes, and all else goes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Cardogo's face turns red with rage, and then - as he sees the formidaeograph of his daughter - shame. "I see," he whispers, turning away.
+
+Face hidden, voice low, he confesses. "I was a man when Kaeli let me join you in the Bordermarch, and a monster when we wed. Her love never flinched." He begins to pace. "Could mine? She wanted a child, but I dared not burden her with another such as me."
+
+As he steps forward, black motes swirl in the space between you. "Jalippa swore there was still some good in me, untouched by the Wind, that could grow in my wife." He reaches out. "But I had to *know.* For *her* sake."
+
+Before you can condemn or absolve, the fit comes, and all else goes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>The darkness fades, in part; the agony stays, redoubled. Through a haze you see your bedroom, and two men beside your bed. Cardogo is one. His hand is on your bony shoulder. His companion, proper in every punctilio, is another stranger.
+
+"Your grace." You barely hear Cardogo's voice; it is as if your ears are packed with wadding. "I have brought your solicitor."
+
+The man sniffs. "As you'll recall, your grace, you declined my offer to draft a will against this day." He speaks of mortgages and credit lines and accounts payable, wasting your last life on a lawyer's longwinded way of saying what little wealth you truly have left. "Now you must tell me - how am I to dispose of the residuum?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Retain Aram of the Island to treat Cardogo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"See that Salvar is funded in his venture."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Find Casca and let her buy a better life with the money."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Establish a trust for Cardogo's children, wherever they are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Bestow it upon the Mendicant's Hospice, as you have done with the rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Divide it evenly among my family."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"I'm not dead yet. Bring Jalippa to me. Have her do whatever she can to save me, whatever the price."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>You can barely whisper the words, but as the final darkness creeps across your vision, you see from your servant's tear-streaked face that he has understood.
+
+Your life's last, short span stretches almost infinitely, and in it you see Cardogo: healed, happy, strong, surrounded by his family... and free of all the burdens you put upon him.
+
+Then the image fades, and the darkness turns to golden waves lapping on the shore, and you are free as well, your long days finally done.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>You can barely whisper the words, but as the final darkness creeps across your vision, you see the solicitor nod.
+
+Your life's last, short span stretches almost infinitely, and in it you see Salvar, failed in his venture, living as he can while your bequest lasts, all the while facing the grim certainty that looms before him. As he does, it is - as ever - to your example that he looks.
+
+Then the image fades, and the darkness turns to golden waves lapping on the shore, your long days finally done.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>You can barely whisper the words, but as the final darkness creeps across your vision, you see the solicitor nod.
+
+Your life's last, short span stretches almost infinitely, and in it you see Casca, her hard features softened by comfort and cosmetic care, softened most of all by a smile with no edge. She is laughing. She is free.
+
+Then the image fades, and the darkness turns to golden waves lapping on the shore, and you are free as well, your long days finally done.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>You can barely whisper the words, but as the final darkness creeps across your vision, you see from your servant's shame-shaken face that he has understood.
+
+Your life's last, short span stretches almost infinitely, and in it you see the children, brought together by your bequest, their father's failings undone - in part - by the trustee's care.
+
+Then the image fades, and the darkness turns to golden waves lapping on the shore, and your long days are finally done.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>You can barely whisper the words, but as the final darkness creeps across your vision, you see from your servant's disgusted face and the solicitor's nod that you were heard.
+
+Your life's last, short span stretches almost infinitely, and in it you see Hospice and the many children in its care, not all thriving - it would be impossible to hope for so much - but all bettered by your bequest.
+
+Then the image fades, and the darkness turns to golden waves lapping on the shore, and your long days are finally done.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>You can barely whisper the words, but as the final darkness creeps across your vision, you see the solicitor nod.
+
+Your life's last, short span stretches almost infinitely, and in it you see all the unfamiliar, fearful faces that crowded your drawing room, and you see all those fears eased - in part - by your bequest.
+
+Then the image fades, and the darkness turns to golden waves lapping on the shore, and your long days are finally done.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>For all Aram's hard words, Jalippa is no mere mountebank, and she prolongs your sorry life for a span of ever-darker days. But she cannot turn back the growth inside you, which spreads into your joints, sprouts from your skin, and turns your gums to blackened mush.
+
+At last, your wealth is gone, and Jalippa goes with it. You lie alone, in pain, in darkness, awaiting a death too long in coming.
+
+As the agony reaches its crescendo, the end finally comes: your body consumed by the thing inside you, the thing you are becoming, a thing of living rot sown at random by the Iron Wind. 
+
+When it hatches, you have no voice left to scream.
+
+{[A] SOUND: Moans and groans.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"No one knows?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>The Mendicant nods. "Naturally, they suspect. One cannot turn a pleasure garden into an orphanage without gossip." He shrugs. "And it is hard to conceal anything from Cardogo. I fear that he doubts my sincerity."
+
+He pats the bag at his feet. "In the end, of course, the truth will be known, and from high to low the city will admire your kindness. And it is on that kindness that I wish once more to impose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Rest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>From his bag, the Mendicant takes a glass tube filled with a swarm of ants. Next comes rich parchment, which he lays upon your desk. With a deft motion, he pulls the cap from the tube and pours the ants on the page. They skitter madly, but not aimlessly, oozing acids on the page until at last they've etched a flawless picture.
+
+You see a young girl afflicted with almost unspeakable corruption: half her flesh a wilderness of misplaced parts and oozing sores.
+
+"One of Cardogo's brood," the Mendicant mutters. "Most of them are killed at birth, by the whores if not by him."
+
+Unbidden, a strangled sound escapes you, and Cardogo bursts in. The Mendicant slips out without another word.
+
+{[A] SOUND: A tube being opened (a bit of a popping noise) followed by ants skittering and chittering across a page.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>For all Aram's hard words, Jalippa is no mere mountebank, and she prolongs your sorry life for a span of ever-darker days. She cannot turn back the growth inside you, which spreads into your joints, sprouts from your skin, turns your gums to blackened mush.
+
+At last, your wealth is gone, and Jalippa goes with it. You lie alone, in pain, in darkness, awaiting a death too long in coming.
+
+Then, amid in the agony, there is the gleam of a knife held by a hand you can hardly see. Who it is, you cannot tell: one who loves you still, despite it all.
+
+So there is an end to the pain, and the darkness goes, turned to golden waves lapping on the shore, and your long life is finally done.
+
+{[B] SOUND: A knife slicing.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Divide it as you promised. They will have to make do with a share of what little is left.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>You can barely whisper the words, but as the final darkness creeps across your vision, you see the solicitor nod.
+
+Your life's last, short span stretches almost infinitely, you are seized by the fear that you you have spread your gifts too thin to do much good.
+
+Then the fear fades, and the darkness turns to shining waves lapping on the shore, and your long days are finally done.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"For Salvar? I told him he couldn't have the shins he wanted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"This time!" she hisses. "This *one* time. What do you think that weighs in the balance of a life?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>You can barely whisper the words, but as the final darkness creeps across your vision you see the solicitor nod.
+
+Your life's last, short span stretches almost indefinitely, and you are seized by the fear that you have spread your gifts too thin to do much good.
+
+Then the fear fades, and the darkness turns to golden waves lapping on the shore, and your long days are finally done.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>[DEBUG] Test images.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>This node shows each of the illustrations used in this Mere. Which one do you want to see?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Sunrise Over the Bay.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Cardogo and Aram.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>The Family A.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Casca at Night.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>The Mendicant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Return to the beginning of the Mere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Deathbed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>The Family B.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

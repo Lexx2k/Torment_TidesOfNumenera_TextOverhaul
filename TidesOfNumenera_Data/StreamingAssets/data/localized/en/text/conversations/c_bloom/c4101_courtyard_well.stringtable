@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_courtyard_well</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This pool is filled with yellowish 'water' that falls from above. The surrounding Bloom-flesh is wet with hand- and foot-prints, suggesting that this is a common place for Bloom-dwellers to wash and drink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Drink some of the fluid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Leave the well alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You take a sip of the yellowish 'water.' It has a greasy texture and a slightly sour taste, but it quenches your thirst. You take another sip...
+
+...and you start to hear whispers. They're faint at first, but they grow louder, resolving into the chittering voices of the Bloom. They buzz in your ears, scratching at the inside of your skull. You stumble, struggling to keep your balance. Even as your senses dull, the Bloom's voices seem *clearer* than before. 
+
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Look into the pool.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The pool extends downward like the circular shaft of a well. If it has a bottom, you can't see it from here.
+
+In the depths of the pool, you think you see something wriggling about.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Dive into the pool and try to retrieve the wriggling object.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You plunge into the murky fluid. As you dive deeper, you see that the shaft opens into a much larger cavity.
+ 
+At the edge of the larger space, you reach the wriggling shape you saw from above and struggle to untangle it from a bony knot of Bloom-flesh. Finally it slips free, and you swim for the surface, reaching the top just before you run out of air.
+
+{SOUND: Splash as player jumps into the courtyard pool.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You plunge into the murky fluid. As you dive deeper, you see that the shaft opens into a much larger cavity.
+
+At the edge of the larger space, you reach the wriggling shape you saw from above. You struggle to untangle the object from a bony knot of Bloom-flesh, but you just can't work it free, and you're forced to return to the surface before you run out of air.
+
+{SOUND: Splash as player jumps into the courtyard pool.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You plunge into the murky fluid. As you dive deeper, you see that the shaft opens into a much larger cavity.
+
+At the edge of the larger space, you reach the wriggling shape you saw from above. With a few deft movements, you untangle the object from a bony knot of Bloom-flesh and swim for the surface, reaching the top well before you run out of air.
+
+{AUDIO: Splash as player jumps into the courtyard pool.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You plunge into the murky fluid. As you dive deeper, you see that the shaft opens into a much larger cavity.
+
+At the edge of the larger space, you try to reach the wriggling shape you saw from above, but you become disoriented in the murky fluid, unable to tell which way is up or down. You swim this way and that, trying to find your way back to the surface. Then something sharp cuts across your leg. You instinctively open your mouth to scream, and fluid streams down your throat...
+
+{AUDIO: Splash as player jumps into the courtyard pool.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Collect some of the fluid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You find a small, discarded flask at the edge of the well and fill it with the yellowish fluid.
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The pool extends downward like the circular shaft of a well. If it has a bottom, you can't see it from here.
+
+In the depths of the pool, your sharp eyes catch sight of a long, wormlike shape. It appears to be caught on a projection of Bloom-flesh, and it's wriggling helplessly about.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>The world spins, and you find yourself staring at the aneen that stands nearby. Its eyes meet yours - they are baleful and bright. 
+
+You realize that the Bloom's voices are not speaking to you. They're speaking to the aneen, filling its tiny mind with *hunger* to feed upon its owner, Skaydi... biting her neck, lapping up the warm blood. The whispers are speaking to Skaydi, too - deadening her senses, filling her mind with a helpless apathy. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>In the light of the courtyard, you see that the wriggling 'object' is some sort of bloated worm, its skin continually shifting from one material to another - silvery metal to pliable synth to leathery scales to other materials that you can't identify. It seems to be drawn to your exposed flesh, and it would likely fasten itself to your arm or leg if you allowed it to do so.
+
+{DP}
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>In this particular place, you sense that the Bloom's voices aren't speaking directly to you... they're whispering incessantly to someone else, but the identity of the recipient isn't clear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The pool extends downward like the circular shaft of a well. You don't see anything else of interest in its depths.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>You take another sip of the yellowish 'water,' and again the voices of the Bloom fill your mind, dulling your thoughts and reflexes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Bank 20</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Look into the pool again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>You take another long drink of the yellow 'water.' The Bloom's voices grow louder still, drowning out your thoughts, chittering madly in your ears. The world blurs... you stumble and collapse to the ground, and everything goes dark...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Bank 24</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Drink more of the fluid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Bank 27</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Dive into the pool again and try to retrieve the wriggling object.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>You dive into the pool and descend toward the wriggling shape. This time, you're able to work it free from the knot of Bloom-flesh, and you swim for the surface with your prize in hand.
+
+{SOUND: Splash as player jumps into the courtyard pool.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>You dive into the pool and descend toward the wriggling shape... but again, you fail to work it free before you run out of air, and you're forced to return to the surface empty-handed.
+
+{SOUND: Splash as player jumps into the courtyard pool.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>You dive into the pool and descend toward the wriggling shape. This time, you're able to work it free with a few deft movements, and you return to the surface well before you run out of air.
+
+{AUDIO: Splash as player jumps into the courtyard pool.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>You dive into the pool and descend toward the wriggling shape... but you become disoriented in the murky fluid, unable to tell which way is up or down. Alarmed, you swim this way and that, trying to find your way back to the surface. Instead, the fluid gets darker, and you run out of air.
+
+{AUDIO: Splash as player jumps into the courtyard pool.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>A distant pounding echoes through the 'water,' and you feel your body being dragged into the depths. Everything fades to black...
+
+{AUDIO: Faint, desperate gurgling as the player drowns. (This is optional - only if you want to try it Alex.)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Again you raise the yellow fluid to your lips. It's clear that the effects of your last drink still haven't worn off, and imbibing more of the fluid is likely to make things even worse...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Drink the fluid anyway.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Don't drink the fluid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>You dump the fluid back into the well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>In the vicinity of the well, the voices are distant, faint. The whispers that were here before, manipulating Skaydi and her aneen, have fled.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>The greasy, sour fluid tastes the same as the Bloom-water you drank at the other pool. As you sip it, you begin to hear the Bloom's whispers in your mind, while your thoughts and reflexes grow sluggish and dull.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

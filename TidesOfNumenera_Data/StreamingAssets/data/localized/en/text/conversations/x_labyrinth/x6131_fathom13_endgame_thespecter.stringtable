@@ -1,0 +1,1213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6131_fathom13_endgame_thespecter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>217</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I'd hoped you would open that for me. And here we are," the Specter says, and his voice is not tied to his body. It pours from the walls around you, from the shifting floor beneath your feet. 
+
+"It's time for some hard truths, child."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I needed you to open the door, and you've done that. The cage, I can handle on my own."
+
+His voice presses down on you like a hand, as if trying to drop you to your knees. "When I enter the Resonance, it will be to return my errant children to my mind where they belong. Leave me to it and we have no further quarrel. What say you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"You'd think someone who calls himself the Changing God would learn from his mistakes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I'm thinking about it. This hasn't been an easy road."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I'll die before I let you in there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"For what it's worth, I tried to warn you," he says. "And you've only been alive for an infinitesimal fraction of my life. Imagine what I've endured over the centuries to get to this place. This *moment*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Irritation flashes across his translucent face.
+
+"I'm not here to debate who I am or what I've done. I'm here to claim what's mine!" The ground rumbles menacingly beneath your feet.
+
+{SOUND: Metallic rumble.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Please," the Specter mutters. "There's no need for ultimatums and dire threats. This moment is what you were made for. And tell me, is your plan to deal with the Sorrow any better? Do you even *have* one?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Not everything's about you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Is that so?" She has nothing more to say, but her brow crinkles just slightly. She's confused, as though she doesn't recognize this specter as her father.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"You're right. You've earned this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I've made up my mind. You should enter the Resonance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Before he can finish, the air twists in the room, an explosion of light, and a scarred figure steps out of it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"You're right. It would be foolish to let him destroy us all, no matter what the reason."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I've made my decision. I stand with the Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Good," he says with a complete lack of surprise. "Glad to see one of you found some sense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"You'll die for this. You both will."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"What are you doing?" Matkina hisses. "You're going turn all of us over to *him*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Matkina, don't stand in our way. Please."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"You're right. I don't know what I was thinking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Our way. *Our* way." She shakes her head in sad wonderment, then sighs. "Fine. Get on with it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Our way. *Our* way." She stands back from you in wonderment. "After all you've done, you'd throw us over to him."
+
+Disgust - and sorrow - hardens her face. "I can't beat you. I'd just be throwing my life away. Though I guess that's what you're doing anyway." She dismisses you with a wave of her hand. "Do what you want, but I'll have no part of it."
+
+As she walks away, she says, "I hope he betrays you. *Again*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"You castoffs were always too malleable," he says, his expression hardening. "Too prone to listen to the wrong people."
+
+He eyes the doorway behind the cage. "What then? What now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The Specter takes a deep breath. It sounds like a torrent of wind rustling in high trees.
+
+"Yes," he says, nodding at you. "I have."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>A thin smile creases his mouth. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Damn you. Damn you for this."
+{SCRIPT: Start crisis with LCO and TCG versus FCO and Matkina.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>She doesn't scream. She doesn't so much as whimper. But this is your mind, and you feel her helpless rage and terror as she falls towards the distant floor. 
+
+Then, crackling, shattering pain. 
+
+Then, nothing. She's gone.  
+{SCRIPT: Matkina is permanently dead and removed from party.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"What are you doing?" Matkina hisses. "You're going turn all of us over to *him*?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I never said you could hurt my friends. The deal is off."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Follow him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"You'll die for that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Sighing, the Specter turns. The pylons tremble and groan against each other. 
+
+"Your mind is so easily turned. I've wasted enough time convincing you to see reason."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Sighing, the Specter turns. The pylons tremble and groan against each other. 
+
+"I've given you a chance to see reason, but I won't stand here and argue morality with an echo that thinks it's alive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>He starts towards you, bathed in the light of the caged resonance. 
+
+{SCRIPT: Start Crisis}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"But what has changed? What has brought you around to the side of reason?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>The Specter says warily, "You did not feel this way before, if I recall."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Good," the Specter says shortly. "Finally, one of you castoffs sees sense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Attack] "Actually, I just wanted to catch you off guard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"No... no. I don't want to help you. I've changed my mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"You caught me by surprise back then. After thinking things over, it seems like the only logical choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Follow me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"In this place?" the Specter says. The pylons hum beneath your feet in time with his voice. "Not possible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>His face hardens. "What then? What now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"There's another option. This is your daughter's full consciousness. If we merge all of the castoffs with her, she can finally be saved."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"The Resonance is not yours to claim. The real Changing God died when I was born. You're just a backup of his memories."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Standing utterly still, the Specter avoids the ghostly woman's gaze.
+
+"No," he says. "She's not real. I want her to be, but wanting doesn't change anything. My daughter is dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Can you really take the chance that this isn't your daughter? You'd be condemning her to death. You're condemning *all* of us to death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Look into her eyes. Don't you recognize her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I'm not telling you anything you don't know. You could have saved her centuries ago by merging with her mind. You were afraid to die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Turn your knowledge toward your daughter, as you originally intended. It will be the last great act of a great life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"You want to bring her back. Your experiments in Sagus with the probability engine proved that. This is your chance!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"This is a trap, sire. It has to be." The Chalcedon shakes his head slowly. "I would gladly give my life for yours, but her? Who is *she*?"
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"We should trade our minds for hers?" Tash snorts. "I don't think so."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"You let her die. This is your chance to make it right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"You had the chance too, didn't you? In the Mere." His gaze moves over your shoulder. His lips settle into an angry line. "And when pressed, you chose to help yourself rather than her. Hypocrite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"You had the chance too, didn't you? In the Mere." His gaze moves over your shoulder. His eyebrows lift. "And you chose differently than I." His lips become a tight line.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>His eyes widen, but he does not respond. Instead, his gaze steals to the woman beside you once more. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Enough talk," he says, cutting off any more of your arguments with a careless sweep of his hand. "It's clear you're stalling. Let's be done with this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Enough of this," he mutters, but there is no anger in his voice anymore. No fire, only a great weariness. His gaze moves from you to the others in the room. "You're... you're right. I'll do it."
+
+His eyes go to his daughter, flick away as if her gaze hurts him, then return with a will. "I'll bring you back, like I promised."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Enough of this," he murmurs, but there is no anger in his voice anymore. No fire, only a great weariness. "You're... you're right. I'll do it."
+
+His eyes go to his daughter, flick away as if her gaze hurts him, then return with a will. "I'll bring you back, like I promised."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Death," the Specter growls. "You creations and reflections have such high opinions of your existence."
+
+He slashes the air with his hand. "This is pointless. If this were my daughter, I would know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"This is ridiculous. I..." the Specter's gaze moves to her, and he falls silent. His jaw flexes, and he forces himself to look away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>He blinks, and for the slightest moment, you see something unusual in his expression - guilt.
+
+"I've rewoven the fabric of reality to bring her back. Battered down doors best left sealed. And I've failed every time." He glares at you. "This will be no different."
+
+Yet his eyes betray his doubt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Face it. This is your daughter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"You've lived long enough. It's her turn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"This was how your life's work began. Help me secure your legacy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>His hands close into trembling fists. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Why would I be so willing to sacrifice myself if I wasn't sure she was worth saving?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"I've never understood how you castoffs think," he says, but his frown is a thoughtful one. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Long enough?" the Specter echoes. "And what harm have I done that's outweighed the good? No. My work isn't done yet."
+
+He eyes you with unblinking scorn. "'It's her *turn*.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I was *not* afraid," he snaps. "I wanted to be there when she awoke. Why should I sacrifice myself when there's a chance to save us both?"
+
+But he looks away, troubled. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Because I want it to be?" he says coldly. "Because you've brought an echo of her to me when I stand at the gates of everything I've fought for?"
+
+His eyes narrow. "You appeal to my sympathies, and I have none."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"The Tides made her sick. They will also heal her. You *know* it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>His face twists in anger, but not at you. Perhaps at the Tidal weapon that made her sick, or the one who wielded it.
+
+Or, perhaps, himself. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[Attack] "You will *not* enter that door. I will make sure of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Then let's end this," he says, but there is relief in his eyes as well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"I'd know the son of a bitch in a hundred different bodies. This is our sire, all right."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Ridiculous," the Chalcedon growls. "I've served our sire for centuries. This is him."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"You speak in simple terms," the Specter says, arching an eyebrow. "But you're dense, even for one of my castoffs. I am the Changing God, and you are standing in my way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Consciousness needs to be continuous. You're a copy of what the Changing God was."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"I know who I am!" the Specter snaps, but he looks troubled by your argument. "This is foolish!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"And by that reasoning, anyone who's had a dreamless, drunken night is also a copy of their previous selves," the Specter says, without pausing for thought. "Spare me your philosophy, castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"This is the Changing God's daughter, yet she doesn't recognize you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Enough talk," he says, cutting off any more of your arguments with a careless sweep of his hand. "It's clear you're stalling. Let's be done with this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Enough of this," he mutters, but there is no anger in his voice anymore. No fire, only a great weariness. His gaze moves from you to the others in the room. "You're... you're right. At first, I convinced myself I wasn't whole anymore. That something had broken in me, or been left behind."
+
+He stares at his hand - or through it. "But it makes sense. I'm not him. I'm close, as close as anyone, but the Changing God is dead."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>He lets his hand fall. Bit by bit, he begins fading away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Enough of this," he mutters, but there is no anger in his voice anymore. No fire, only a great weariness. "You're... you're right. At first, I convinced myself I wasn't whole anymore. That something had broken in me, or been left behind."
+
+He stares at his hand - or through it. "But it makes sense. I'm not him. I'm close, as close as anyone, but the Changing God is dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>He flinches and turns to face her. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>She meets his eyes, blinking once. And shakes her head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"You're not her," he says. Then, with more force, he repeats himself. "You're not her. Of course you don't know me."
+
+He turns his head from her entirely, staring into the dark. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"You need me in ways the Changing God wouldn't. You could not activate the resonance chamber without me, nor even open this door."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Be honest. Don't you have any doubts?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"If there's any heir to the mantle of the Changing God, it's me. I've been able to change the past through the Meres ever since I awoke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"I've lost plenty of battles," he says, lifting an eyebrow. "And I'm still alive because I know when to retreat and regroup. Constant victory is a fiction I have no use for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Please," he growls. "You asked for honesty, and I've given it. Here's more - I'll have my body and my life back, even if I have to burn you out of my mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"You have no concept of how you awoke," he says, visibly losing patience. "You're an organic echo. Leftover thoughts framing a mind. This is futile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"You weren't *born* either," he says, snorting. "Is this your definition of life, then? Will you try to argue both of us out of existence?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"You weren't born. You were made by the Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"I awoke when the Changing God left my body. I'm real. You're not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Admit it. You're not the Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"The Changing God wouldn't have lost when we fought."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Of course I do. Your careless creation has left me - *me* - trapped here. I've had to fight for every inch of control."
+
+He turns grim eyes to the darkness above. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"You oversimplify. The accident made me a prisoner here. And now, a short time later, I have control here, in the very root of your mind."
+
+But there is something new in his eyes now - fear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"I don't know *what* you are, but I know who I am," he snarls. It is clear, however, that this fact troubles him. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"It's not your body anymore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Yes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"I'm not sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"I'll take that as a 'no'," the Specter says dryly. His sigh is like distant thunder. "Well. It doesn't matter now, does it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"I'm not sure I believe that," the Specter says coolly. "Even in those first few minutes, you were determined to live. To cling to what you thought was yours."
+
+His sigh is like distant thunder. "Well. It doesn't matter now, does it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"I didn't think so," the Specter says. His sigh is like distant thunder. "Well. It doesn't matter now, does it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"I am. Even in those first few minutes, you were determined to live. To cling to what you thought was yours."
+
+His sigh is like distant thunder. "Well. It doesn't matter now, does it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>He looks at the ghostly form of the Changing God's daughter as if noticing her for the first time. His surprise is a brief, chill wind, whipping across the darkness between you. 
+
+"You," he mutters, "You're her ghost, the one that haunts me. My daughter is *dead*, do you hear me? I can't bring her back, no matter how hard I try."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>The Specter does not speak. He stares into the air above your heads, waiting for your response. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"If you give him his way, I'll stop you," Matkina says, her voice a low promise. "Don't do this. Don't *make* me fight you. Don't make me stand at the First's side against you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>The Specter takes a deep breath. It sounds like a torrent of wind rustling in high trees. 
+
+"Yes," he says, nodding at you, and moving for the door to the Resonance. "I have earned this. I *will* enter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Touching," he says with a sneer. "If there are no *other* complaints, let us end this."
+
+The Specter walks toward the Resonance. You trail after him in silence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>The Specter is already turning for the door, considering the controversy dealt with. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"This is what we're doing now? Following people who murder our allies?"
+{ALIGERN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Well. That was sudden. I don't think I like your new ally."
+{CALLISTEGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Where did she go? I didn't see her go!"
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"He... he killed her. Why are we *following* him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"I don't like this, lad. She deserved a better end than that."</DefaultText>
+      <FemaleText>"I don't like this, lass. She deserved a better end than that."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>You trail after the Specter in silence. 
+{SCRIPT: End of conversation. Specter opens cage to Resonance.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Finally," the Specter says with a sigh. "Finally, one of you castoffs sees sense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"I admire what you've accomplished here, but it doesn't prove you're *him*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>He turns aside, considering your words, his face hard. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>He raises his eyes to you. "Or is he? You are much like him... like me. It's possible that the Sorrow didn't kill you. That it only jolted your memories. Even if that is not the case, you have outplayed me and outwitted me at every turn. If you will have me, I will join you again to restore your lost memories."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"I remember speaking to you on the moon. You're not the Changing God. You're an assistant - an update."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>He answers slowly. "And I said the conversation was turning us into a solipsist. And we said we've been called worse."
+
+His voice sharpens. "But we also said that we hold no illusions about the sanctity of consciousness. That remains true."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Yes. I will have your memories."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Is this some trick? No. Fade away. Disappear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>He nods, sadly. "I hope... I hope you will fulfill our wishes, then. Make us proud. Stop the Sorrow, and... No. Never mind. This is your mind. Your life. Farewell." He begins to reach out, thinks better of it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Hold out your hand."
+
+He rests his palm on yours, and a flood of memories comes pouring into your mind. You remember your daughter. The Tabaht, their forces besieging the city. The terrible illnesses they brought with them, the psychic warfare laid across the city.
+
+You remember placing your daughter in stasis, the frantic researches, the discovery of the Tides.
+
+... the Sorrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>The early years were the hardest. Fleeing through dimensions, the Sorrow on your heels. Shifting backward through time, before the rise of the Tabaht and discovering the shadowy justice of the Black Cube, and the body you left behind to escape it. You remember perfecting the transfers. You remember traveling across the Ninth World, consulting with the Augurs of Sada Emidu. You recall your pride in the First Castoff (and how you laughed at that name! As if she *were* the first!).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>You remember the rage she provoked, the fear that she would destroy you... and the pride with every gambit, for it was proof that *you* had untapped potential. Each of your castoffs, a new facet of your brilliant mind, changing the world.
+
+And you realized how tragic it would be if all this were destroyed. You know now why the Specter went to such desperate lengths to preserve his - your - legacy.
+
+When you open your eyes again, the Specter is gone. But he is a part of  you, forever.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"You wanted to bring her back so badly that you kept using the probability engine, *knowing* you were killing innocent women in the process."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Damn you. Damn you for this."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"If you give him his way, I'll stop you," Matkina says, her voice a low promise. "Don't do this. I will *kill* you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>He starts toward you, bathed in the light of the caged resonance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>[DEBUG] Fight by the side of the Specter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>[DEBUG] Attack the Specter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"No," she says. Her voice is iron, bound by her mask. "I haven't suffered centuries of his arrogance - his abuse - to let you hand victory to him as if he *deserves* it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"How's this for truth?" Her voice is worn and hard behind her mask. "The Resonance is *mine*. It belongs to me and all castoffs. I have worked too hard for it to be otherwise. Stand aside, old man, and let us determine our own destiny."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>His smile is disconcerting. "*Your* destiny? You are a part of *me.* Your destiny was never yours to determine, and the Resonance is not yours to claim." He gestures a hand in your direction. "Only the latest castoff can open the door. That body and I are the only ones capable of using the power beyond. You are out of your depth, Maralel, and this no longer concerns you."
+
+He ignores her and turns to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"It's about time." She slaps a fist into her hand eagerly. "Your move, old man."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>He growls under his breath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>He sighs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>He shakes his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>He growls under his breath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>He sighs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>He shakes his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"She *is* your daughter. She told me so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Is that so?" But she apparently has nothing more to say to him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>He shakes his head. "Enough. I don't wish to fight you, Castoff, but neither will you keep me from this. What will it be?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>The Specter hardly looks at her.
+
+"No," he says. "She's not real. I want her to be, but wanting doesn't change anything. My daughter is dead. Now, will you let me enter the Resonance peacefully, or must I force my way in?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>[DEBUG] Convince him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>[DEBUG] Convince him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Her? You choose the catalyst of this whole situation to survive? She is not blameless. Without her, we'd never have attracted the Sorrow's attention in the first place! She has been dead for centuries, you fool."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>She shakes her head at the First. "You're wrong. Look at what you've done with the life you've led. Look at what *I* have done. Do you really think you'd use extra years for anything but your own glory? Doubt it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"The First is right. You don't know this dead daughter, you don't know what she's capable of. If she's anything like *him*, she'll make a bigger mess than what we have now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"No. He is right, don't you see? Miika is the reason for all of this - the only reason any of you exist. You and I, we have all lived our lives, and done what? Miika, however, has done nothing. She has had no *chance* to do something."
+
+He turns to his daughter. "I tried to be a good father to you and failed. And to them, the castoffs, I did not even try. But my failures end today."</DefaultText>
+      <FemaleText>"No. She is right, don't you see? Miika is the reason for all of this - the only reason any of you exist. You and I, we have all lived our lives, and done what? Miika, however, has done nothing. She has had no *chance* to do something."
+
+He turns to his daughter. "I tried to be a good father to you and failed. And to them, the castoffs, I did not even try. But my failures end today."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Your siblings are wiser than you and I, Maralel. Whatever we said with our lips, whatever we convinced our followers we were fighting for, we only ever tried to save ourselves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>She taps her lips with the flat of her blade. You don't know when the knife appeared in her hand. "We've all made a mess of it, haven't we?"
+
+Her eyes narrow. "What makes you think she'll do any better? I mean, apart from competing against all the rest of us and running from the Sorrow and... all right. I see your point. At least she'll have a chance to shine. And her mistakes will be her own."
+
+She throws the blade down to the floor. "Fine. Let's do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>She scoffs, "You don't know this dead daughter, you don't know what she's capable of. If she's anything like *him*, she'll make a bigger mess than what we have now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>He stretches out his hand to you. "Come. Open the Resonance, and we will end this together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>She crosses her arms, considering the three of you. Finally she waves a hand dismissively and turns away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Open it. My daughter should not have to wait any longer than is necessary."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Fine. Fine!" She waves a hand dismissively and turns away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"And what is that, exactly?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"At least he acts on others' behalf."</DefaultText>
+      <FemaleText>"At least she acts on others' behalf."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Lies!" She turns to you. "I don't know what drove you to agree with him, but I didn't come all this way to watch you bend over."
+
+She points one strong finger at the Specter. "I've seen enough of what you've done - to your own offspring and others - to know you've got no interest at heart but your own. I know better than anyone your castoffs aren't always the greatest people. But they're *people*. They deserve choice and life."
+
+She draws her weapon. "You're not taking *anyone* today."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>She chuckles, drawing her own blades. "I couldn't have said it better myself, sister."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"It seems your friend has chosen for you. So be it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Look at her!" she says, demanding his attention. "Look her in the eyes and say she's not your daughter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"If you were truly this 'Changing God,' then this woman..." She points to the Changing God's daughter. "Even if this woman were just a memory, she should recognize you as her father. Don't you think?"
+
+Rhin looks kindly on the ghostly woman, then back at the Specter. "But I saw it - I saw it on her face when you challenged her... You're a *stranger* to her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>The voice of Callistege booms forth from the walls themselves. "This child risked everything for me, so that I could achieve something no human has in a thousand years. Do you think he would risk his life yet again if this girl weren't worth saving?"</DefaultText>
+      <FemaleText>The voice of Callistege booms forth from the walls themselves. "This child risked everything for me, so that I could achieve something no human has in a thousand years. Do you think she would risk her life yet again if this girl weren't worth saving?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>The voice of Callistege booms forth from the walls themselves. "Fool. If anyone deserves the mantle of the Changing God, it is this child! He has accomplished things you and even I could never have accomplished on our own."
+
+Her laugh resounds loudly in the chamber. "Why, I am a god myself now, because of him!"</DefaultText>
+      <FemaleText>The voice of Callistege booms forth from the walls themselves. "Fool. If anyone deserves the mantle of the Changing God, it is this child! She has accomplished things you and even I could never have accomplished on our own."
+
+Her laugh resounds loudly in the chamber. "Why, I am a god myself now, because of her!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>[DEBUG] Open Door, convince to save daughter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>Script Node 279</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>Trigger Conv Node 280</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>Oom's emotions are a tangle of love and fear, clawing at the back of your thoughts. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

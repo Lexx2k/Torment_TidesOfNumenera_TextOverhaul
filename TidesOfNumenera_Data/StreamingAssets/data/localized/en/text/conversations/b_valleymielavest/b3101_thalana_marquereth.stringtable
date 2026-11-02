@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3101_thalana_marquereth</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>123</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You see a slender woman covered in worn brown robes leaning over the fire, the cowl pulled low over her head. Her skin is a dark bronze color.
+
+"Here to interrogate me?" She pulls back her cowl enough for you to see that her long hair is more silver than brown, and the years of life on the road are apparent in her face. She looks weary and exhausted except for her eyes, which burn like golden fire. "I'm Thalana MarQuereth. What do you w-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Her eyes alight on your tattoo, and she hisses. "Skist. You bastards are all over the place here, eh? Look, I can't tell you anything, all right? We're done with fighting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Back again? What do you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I've talked to Luca and I *tried* to talk to Denovan about the Endless Battle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Tell me about the Endless Battle again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"What are you doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Tell me what you're doing here again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Tell me about yourself again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Looks like you've been resting here a while. Is it safe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I'd like to rest here safely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Aye, for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Me, Denovan, Luca, Timpo, Zad, and all the rest... they're my crew, my men. We're just trying to find a way home from the Endless Battle. We came through Kholn, but... " She waves a hand at the pile of rubble. "It's not exactly a forgiving route. Just trying to figure out where we go next."
+
+Her sleeve slips with her gesture. You see that her skin does not simply look metallic - it *is* metal. She catches you looking and tugs her sleeve back down, annoyed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I just want to get home, share the stories my friends and I have *earned*. We're not looking for trouble. Not anymore. Had too much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Camping. Trying to figure out our next steps. Came through Kholn - with reluctance - and decided it wasn't the best place to plan. Thought we'd get a clearer perspective down here."
+
+She frowns. "Instead there's some sort of cult war going on. We've got to leave sooner rather than later." She nods her head as if receiving compliments from an unseen audience.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Came through Kholn and camped here a while. Getting ready to leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Good enough. They were normal people once. Ordinary, thrill-seeking kids. Look at them now."
+
+"Most wars," she starts, "a group of people march in with their artifacts - gravity, light-pulse, timebenders - and march back out. Endless Battle is like that, but going on for *centuries*. Think of what it does to the landscape. Think of what it does to the psychic terrain. Think of what it does to your *friends*." She waves at her nearby companions, her gesture continuing to colleagues unseen. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I said my piece. I'm not saying it again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>She chews the question over a while, and then shrugs. "It's safe for us," she says sourly. "For you?" She eyes her companions, and they give a slight nod. "We can make it safe for you. It'll cost, though. [Global: b3101_DeserterRestCost] shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Fine. Price is still [Global: b3101_DeserterRestCost] shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"All right. Here you go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Forget it. I had other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Forget it. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"All right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"We'll keep watch. Go to sleep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"What are you talking about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"You say you can't tell me anything? I'll be the judge of that. Start talking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I just want you to answer some questions for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>
+"I saw you talking to that one up there, too, just before she left. But like I said, we won't fight. We won't be any help to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>She looks confused for a moment. "You're a castoff. So either you're here to drag us back - or kill us."
+
+She turns to her side and pauses, as if listening to words that you cannot hear. Then she responds. "No, I suppose you're right. Still. He's a castoff."</DefaultText>
+      <FemaleText>She looks confused for a moment. "You're a castoff. So either you're here to drag us back - or kill us."
+
+She turns to her side and pauses, as if listening to words that you cannot hear. Then she responds. "No, I suppose you're right. Still. She's a castoff."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>She sighs. "Well. It was after the Fourth Inversion that the three of us realized we were the draff in the machine - just a bit of tulk to draw attention away from the big maneuvers. We took a look at our accrued pay and realized it wasn't worth the poisoning of our realities, so we left. We didn't see anything, and didn't get anywhere near the intelligence. We're just grunts, all right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"What will you give me if I keep my mouth shut?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"I have no part in the Endless Battle. But answer some questions for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"I have no idea what any of that means."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>She breathes out, a low whistle. "... All right. Good. Sure, we'll answer anything we can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I don't have much. Maybe I could scrape together some shins from the men but..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Give me what you have."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Never mind. Just answer some questions for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"By the Black Three, you castoffs are all the same. Money, power... you just want it all for yourselves."
+
+She pats down her pockets, turns out the variety of odds and ends from her pouches, and then shouts at her companions. She looks disapprovingly at another spot, and says, "None from you, eh? Typical."
+
+"Here. It's what we have."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"What else do you want?" Her tone is flat, but she is clearly not threatening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"A price of the Endless Battle. One of the reasons I left. I used to think I'd earn glory there. Thought my nano skills would propel me high." She scoffs. "Only room in that exalted air is for castoffs. The rest of us bleed while you lot laugh. That's why we got out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Hold. You came through Kholn? What was it like there?"
+
+She mutters to you, "Haven't been back for centuries, not since... since Tash... I couldn't bear the thought of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Safe? No. Probably not for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"It's just ruins, mostly. Cursed ground. People tell stories of some kind of genocide hundreds of years ago, but who knows if that's true? We didn't want to go through there, but we did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>She shrugs. "It's a village on the outskirts of the Endless Battle. Place is full of legends of the monsters that lived there once. The locals play up the superstitions, try to scare people with stories of the horrors that made it their home. Not a pleasant place to stay. Insular, nasty people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Mostly empty. They say it's cursed. Some long-ago genocide. Ghost towns with ghost bones, and the people who live there scratch out what living they can from the Endless Battle. Best to get through the place quickly." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>She nods brusquely, and looks off into the distance. She says nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"They weren't monsters," she whispers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Mostly empty. Place cleared out mysteriously a while back, and then some new people moved in. But the proximity to the Endless Battle and the strange cave up on the mountain scared off all but the strangest people. Wouldn't stay there long, on account of not wanting to get eaten. Place is a dust-bowl. Not worth a thing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"All for nothing," she murmurs. She fakes a cough, and wipes some imaginary dirt from her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"And when you're vermin to the people who *run* the war, when you got no hope to survive, and you can feel realities collapsing around you... when you see wormholes open up and monsters walk through. When the air is toxic and the ground melts and you feel your mind assaulted. But it's not personal. It's not someone who wants *your* destruction in particular. You're just... inconvenient to them. Your death is another number, a way to measure their success. It's... hell. A business-like hell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"And *you* did it. Castoffs. You could stop if you wanted. But you don't. Or maybe you don't care. I mean, when you've made statistics of your enemies, faceless foes whose existence you can erase without qualm... you're not just hurting them. You're hurting yourself, the way you see the world. Soon everything is conflict and pain. All that matters is your success. And you've killed yourself, and you don't even know it."
+
+She wipes a tear away. "It ruins everything - everyone it touches."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Who are you talking to?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"My men. Zad reminded me not all castoffs are Endless Battle, but Timpo wants me to be careful with you."
+
+She holds up a finger. "People have said they're not there because they can't see them. But they can see you. So let's not have that conversation."
+
+She settles back. "So. Are you here to kill us? Tell on us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"What can you tell me about the Endless Battle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Oh, no. No, no. It's too much. Too much horror." She shuts her eyes tight and shakes her head.
+
+When she opens them again, her eyes are cold. "You want to know about the Endless Battle? Talk to my crew. Hear it from those who ran - *why* they ran. *Then* maybe I'll tell you what I think."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"You've talked to one of them already. Talk to another. Get another side. Then ask me again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Script Node 94</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Meregalli! Pay attention!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Russ, what are you doing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Just another day or two here, yeah? Maybe we can move on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Do you recall the way home?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"I assure you that I am aware."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Smoking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Well, pay attention. Remember what happened to... to... forget it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Assurances are fine. Actions are better. Show me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"... there is no way home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"We're getting home, Russ. Don't you doubt it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"I look forward to action."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Action? Seen enough of that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"One moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"You know what he means."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"I only see Denovan and Luca here. Where are Timpo and Zad?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>She closes her eyes and pinches the bridge of her nose. "If you can't see them, it's no fault of mine. Frankly, they're *lucky* they don't have to talk to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"I tried to talk to Denovan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"I talked to Luca."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Because it's not worth reliving! Talk to my crew. If you can get their stories, I'll give you mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>She nods. "And you saw what he's become. If you can get someone else to talk, then maybe I will, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>She sighs. "*Just* Luca. If you can get more than one of them to talk, maybe I will, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"What can you tell me about the Endless Battle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Why won't you talk to me about the Endless Battle again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Can't say I blame her," Tybir murmurs. "'Horror' puts it *far* too lightly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>His lip curls with distaste. "More detritus from the Changing God's arrogance. More damage caused by castoffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"If you have a problem with all castoffs, Aligern, you've a strange way of showing it. Or maybe you hadn't noticed that you're standing next to two of us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>He shrugs and glowers. "Maybe we should ask the lady here some questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>She whispers to you, "This poor woman sees nothing. None but her exist in these other realities. She is suffering from shock and guilt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Oom looks around, possibly for her invisible companions, and sags.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

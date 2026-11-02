@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_clock_control_3</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>101</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[You stand before a cultist's stand. A large hologram flickers above.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Get the vendor to give you access to the control panel.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[You have access to the control panel.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Set to setting 1]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Set to 1]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Set to setting 2 - Solution]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Set to 2]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Set to setting 3]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Set to 3]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Deactivate]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Deactivate]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[walk away]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Having access to the panel, you approach the device.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Hey, that's a control panel under there like the other one you accessed!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[As you set the controls, the clock tower phases back into this time. *Vroosh*!!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[As you set the controls, the clock tower phases back out of this time. *Vvvoip*!!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[As you set the controls, the clock tower phases back out of this time. *Vvvoip*!!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[As you set the controls, the clock tower phases back out of this time. *Vvvoip*!!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[As you approach, the cultist tells you his display is no longer working.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Reactivate the control]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[You get the control powered again. As you do, the night turns to day, however, the clock phases back out of time.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Examine the cultist's display]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[This display actually appears to the a control panel of sorts.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Convince the cultist to let you access their display device]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[You convince the cultist to let you access his display device]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[OLD PUZZLE DIALOG]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>This structure is embedded in the ground. It was clearly not made by the same people who built Circus Minor. It looks as though the device extends deeper into the ground, below the road. Weathered runes are spread across the device's surface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>This is an ancient device, embedded in the ground. Weathered runes are etched into its surface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Now that the clock has become fixed in the present time, this device has reverted to its original state. It no longer alters what you see around you, and there are no images on its surface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>The device has reverted to its original state, no longer displaying images nor altering what you see around you. There is a gaping hole in the side where you struck it. A dim glow comes from within.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[You can, using the part you have from the shield generator.]
+
+{SCRIPT: Replace TEMP conditional with a check for the item from the shield generator.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Glowing fluid flows upward through a chamber inside the device. Among the synth shards, you find the grating patterned with diamonds within diamonds shattered by your blow. Its fixtures suggest it served as a sieve in the fluid.
+
+The grating is beyond repair. Perhaps you can replace it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Inside the hole is a kind of glowing, viscous fluid. It seems to be flowing *up* from the ground and collecting at the top of the inner chamber. There are shards of synth everywhere, but you can't tell which of them might have done anything important nor how you might fix them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The glowing, viscous fluid continues to crawl upward. You learn nothing new about how the device might have worked.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Look inside the device to see if you can fix it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Try again to see if there's a way to fix the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Use the fractal lattice to fix the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Applying a little force, you fit the lattice underneath the fixtures where the filigreed grating had been attached. The viscous fluid holds the lattice against them.
+
+Immediately, the fluid glows more brightly, but the device itself remains dark. Perhaps something needs to be done to the clock as well, to restore Circus Minor to a daytime state.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Remove the fractal lattice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>You take the lattice out and put it in your pack. As viscous as the glowing fluid is, none of it has stuck to the lattice - it is perfectly dry. The fluid dims immediately, but nothing else happens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>The device has reverted to its original state, no longer displaying images nor altering what you see around you. There is a gaping hole in the side where you struck it.
+
+A bright glow comes from where you placed the fractal lattice, but the device still isn't doing anything. You should see if anything has changed at the clock itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>The device has reverted to its original state, now that you've broken the other one. It no longer displays images nor alters what you see around you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>As you approach this device, Circus Minor is thrown into chaos. Buildings are on fire. People are screaming and running for their lives, while armored soldiers hunt them. None of them seem to pay any attention to you, though. It's some kind of vision... not reality.
+
+You glance down at the device. A series of images flit across its surface. They don't appear related to the changes around you. You see faces of other people and places, all of them familiar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>The terrible vision of an enemy attack overlays reality again. People scream and run for their lives, hunted down by armored soldiers.
+
+A single image plays on the surface of the device itself. Two people with tattoos like yours sneak through an underwater museum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>The terrible vision of an enemy attack overlays reality again. People scream and run for their lives, hunted down by armored soldiers.
+
+A single image plays on the surface of the device itself. A man and a woman, both with tattoos like yours, stand in a lush, secluded valley debating its merits.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>The terrible vision of an enemy attack overlays reality again. People scream and run for their lives, hunted down by armored soldiers.
+
+A single image plays on the surface of the device itself. A man and a young girl run from armored soldiers - the same soldiers in the vision that surrounds you - through the streets of Sagus Cliffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>The terrible vision of an enemy attack overlays reality again. People scream and run for their lives, hunted down by enemy soldiers.
+
+A series of familiar images flit across the surface of the device itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>You strike the machine several times. After a particularly mighty blow, a section near the base of the device caves in on itself, and shattered pieces of synth spill out of the hole.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>The device goes dark. The images are gone, and so are the weird echoes of Circus Minor's past. You've definitely broken it. Around the cultists' encampment, the other two devices darken as well.
+
+But the clock becomes solid. It no longer appears to be in multiple time periods at once.
+
+The sun races to the horizon and disappears, enveloping Circus Minor in darkness. Buildings beyond the district still appear sunlit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>You strike the side of the device as hard as you can. It shudders, reverberating through the cultists' encampment, but nothing else happens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>The noise resounds across the public square, but nothing else happens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Smash the device open.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Try to smash the device open again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Smash the device again to put Circus Minor into a nighttime state.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>You hit it as hard as you can, breaking off new pieces of synth. But no matter how much damage you do to the device, the clock remains fixed in the present.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>You hit it as hard as you can, striking again and again. The synth cracks, but it's not enough to break the clock.
+
+As you stop to recover your breath, it occurs to you that, if you wanted to make it nighttime again, it would be easier to just remove the fractal lattice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Remove the fractal lattice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>You remove the lattice easily and put it in your pack. As viscous as the glowing fluid is, none of it has stuck to the lattice - it is perfectly dry.
+
+The fluid dims immediately, but nothing changes about the clock. It is still fixed in the present. It must not be relying on the devices anymore.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>You remove the lattice easily and put it in your pack. As viscous as the glowing fluid is, none of it has stuck to the lattice - it is perfectly dry. The fluid dims immediately.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Put the fractal lattice back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>The fluid glows more brightly as soon you put the lattice back in. The device is still inert, however, and the clock remains fixed in the present.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Circus Minor is under attack. Squads of armored soldiers roam the streets, hunting and killing anyone they find. Mobs of people flee in terror, with only a few hapless souls trying - and failing - to fight them off.
+
+The soldiers are completely encased in jagged, metal armor. You can't even tell if they're human.
+
+Looking beyond the carnage, the square in this vision looks wildly different. Many of the buildings that are on fire don't exist at all when you step away from the device, having been replaced by other structures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Circus Minor is under attack. Squads of armored soldiers hunt down the fleeing masses. The buildings around the square are on fire, though none of them are remotely the same as the buildings that stand today.
+
+You get the feeling the Sagus Cliffs in this vision is ancient. These events could have occurred as much as a thousand years ago.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Look more closely at the changes around you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Look closely at the changes around you again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Examine the images on the surface of the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>As soon as you focus on them, you feel a warmth on your head where your tattoo is. The images respond to your thoughts, slowing and changing at your whim. It's something about your body that allows you to do this, which perhaps means that only you can even see the images.
+
+You immediately recognize the pictures as pieces of memory - specifically the three memories you saw back in the fathoms of your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>The memory is recent. Two men, both with tattoos like your own, are in an underwater city searching for something. The denizens of the city chase them from the artifact they seek and ultimately surround and capture them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Images of the two men in the underwater city are now the only images that play on the surface of this device. They search for something, are chased, and then are captured - over and over again in an endless loop.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>As soon as you lock this third image, a final surge of energy arcs through the air from the device to the clock itself. The clock shines for a moment, then becomes solid, fixed into a single state.
+
+At the same time, the device in front of you goes dark. The images disappear, as does the strange view of the city's past.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>As you lock the third image, the air around the device trembles. The other devices in the square glow, as though about to act.
+
+The glow on all three fades. The locked image flickers, and the three memories flit across the device once more. It seems to have reset itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Look at the memory in the underwater city.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Lock the recent memory in the underwater city to this device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Somehow you know the memory is from a long time ago - centuries ago, probably. A man and a woman, both with tattoos like your own, are surveying a lush, secluded valley, seeking an ideal location for a hidden sanctuary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>The images of the man and woman in the valley are now the only images that play across the surface of this device. They survey the valley in an endless loop.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Look at the memory in the lush valley.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Lock the centuries' old memory in the lush valley to this device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Somehow you know this memory is ancient. It might have occurred a thousand years ago. A man and a young girl race through the streets of Sagus Cliffs. All around them, the city is attacked by a terrible people - the Tabaht, you recall. The man takes them to an ancient machine somewhere in the city, then he and the girl disappear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>The images of the man and the girl are the only ones that play across the surface of this device. They run past the enemy soldiers and then disappear at the machine in an endless loop.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Look at the memory of the city under siege.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Lock the ancient memory of the besieged city to this device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Unlock the memory from this device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>With a mere thought, the images disappear - or rather they are joined by images of the other two memories. Pictures from all three memories play across the surface of this device, seemingly at random.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Leave the device alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>The terrible vision of an enemy attack overlays reality again. People scream and run for their lives, hunted down by armored soldiers.
+
+A series of memories flit across the surface of the device itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>The fluid glows more brightly as soon you put the lattice back in. The device is still inert, however. You should see if anything has changed at the clock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>A circinate symbol is etched on the inside of the chamber like a maker's mark. You've seen this symbol on other machines in the city. That might be a place to start looking.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>A circinate symbol is etched on the inside of the chamber like a maker's mark. You commit it to memory.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>As you review the memory, you get a strange feeling in your mind that you can only describe as a query. The device wants something from you.
+
+Suddenly you remember - the memories in the device are possibilities, but you can lock one of the memories here so it is the only one that displays. You don't remember what purpose that served, though.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>As soon as the image is locked in place, a ribbon of energy stretches into the air, connecting the control device to the clock. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

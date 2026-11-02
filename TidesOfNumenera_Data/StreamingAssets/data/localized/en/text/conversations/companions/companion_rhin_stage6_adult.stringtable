@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_rhin_stage6_adult</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>116</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>{Said with a smirk}"Hey, stranger. What do you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"What's your story?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I want to talk about you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"How are you holding up?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I want to talk about the people we're traveling with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"What do you think we should do next?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Wait for me here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Let's continue on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I'd like nothing better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>She shakes her head. "How should I know? I don't even know where we are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"You're asking *now*?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Yes. I want to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"You're right. We have more important things to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I'll say." She looks around her more in wide-eyed wonder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I wasn't sure about you for a long time, and I miss my family terribly, but I think..." She smiles broadly. "I think I like my new family, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I don't know what I would have done if you hadn't come along and saved me. I don't think I'd be alive any more. I think about that a lot. I don't know how to thank you for it. It's something too big to just thank someone for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"This is an even stranger place than any we've been to.... But I really appreciate you helping me back there. I've... I've never been so afraid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I... I appreciate you helping me out back there. For whatever reason you did it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"I don't know why you helped me out back there. I didn't think you cared about me.... I still don't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Now? I really think we have more important things to do. Like get back to somewhere normal... well, *more* normal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>She gets an anxious look, glancing behind her as though she heard someone call. "Sorry, I can't. I *do* understand if you don't need me, or if you need to make room for someone else. I mean, *my* life went on without you - I assumed the same was true of yours. But... I can't just wait here for you." She bites her lip. "I hope you can understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I'm going to end this. You'll be safer here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I'm going to need all the help I can get, and frankly... you're not all that helpful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"No, you're right. I'd rather have you with me. Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>{Accepting, but sad}"I guess that makes sense. I'll... I'll be here if you change your mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>{Crestfallen}"Oh. I guess I understand. I'll... I'll be here if you change your mind." Her shoulders fall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>{Resigned}"I've got nowhere else to go...."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Although she tries to hide it, the relief is obvious on her face. "All right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>She watches you patiently.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>{A little worried. She's telling the player she has to leave, but she really doesn't want to.}"Hey. It looks like you've got this, and I..." She looks anxiously over her shoulder, as if someone called her name.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"{Regretfully}I can't stay. I'm sorry, but I can't. {Happier, kind}I *am* glad I got to see you one more time, though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>{confident; proud}"I found you! {confused; in awe}... *Where* have I found you?"
+
+{SOUND/VO: This was not previously recorded, but if we can do a pick-up then this would be a good one to add. - AH, 7/29/16}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>The woman strides toward you, all confidence and grace. She has none of the fear and awkwardness you remember.
+
+And yet the eyes are still Rhin's. The fear is gone, but the bright spark of innocence and joy is still there. Brighter, even. She squeezes your shoulder with a firm hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"{In awe; she's seeing someone she loved, that she hasn't see since she was a kid}Damn. You haven't changed at all. You're *exactly* like I remember you. {Collecting herself; remembering her manners, but said with a smile}I mean warmth and welcome on your road, stranger."
+
+{SOUND/VO: This is the same line as x6131_AdultRhin_PostCrisis, node 26. It should already be recorded, but the file may need to be copied and renamed for this.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Rhin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>When she laughs, it's like a song, like the sun bursting out from behind the clouds. "Yes. Yes, it's me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"How did you find me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>She cocks her head in the unique way Rhin used to, looking at your pack. "You're still carrying Tehria, aren't you?" 
+
+Your expression seems to amuse her. She laughs and says, "That god of finding I gave you, remember? Gods about, I can't believe he was strong enough. I was just a kid when I made him, and it doesn't look like you've aged much at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"But we're in my mind... Your god helped you find me here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>She nods with pride. "He's a more powerful god than either of us knew. I can't take credit, though. I hardly knew what I was doing." She smiles. "I just knew I wanted to see you again. Tehria is what came of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"It's good to see you again, Rhin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>She smiles, as warm and bright as the sun. "It's good to see you too, old friend. I think about you all the time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"You've changed quite a lot!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>When she laughs, it's like a song, like the sun bursting out from behind the clouds. "I should hope so! It's been, what, ten years? More? I can't even remember."
+
+Her face softens and she squeezes your arm. "But I'm still me. I grew up, but I'm still that little girl you rescued all those years ago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"What are you doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"I came because Tehria called me back. He's under the impression that you need my help." She looks around at the twisting expanse of the Labyrinth. "I'd say he might be right. Where *are* we, anyway?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"I do need you, and I'm glad you're here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"I appreciate it, but no, I don't need your help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"I'm not sure if I need your help yet or not. Can you stay with me until I figure it out?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"I don't need your help yet, but I might later. Can you wait here for me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>She grins wide. "Of course, old friend. Come on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>She nods. "Tehria did what he thought was right, but it's your trouble and your call."
+
+She looks back quickly, as though someone had called out. "Though if you don't need me, I hope you understand that I can't stay here waiting. I need to go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"How have you been?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Tell me about your life again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"How have I been?" She laughs. "How do you summarize a decade of life?"
+
+She runs a hand through her hair. You note a pale line where her scar used to be. "Life has been good, friend. I fight now, as you can see - a protector. Not for any love of the work, I grant you, but for love, absolutely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"There's too much to tell! But I am happy and free. I am *me*, and that is all anyone can hope for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Are you kidding? I'm reliving the scariest, greatest part of my childhood. There's no place I'd rather be!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"You should return home. Thank you for coming back for my sake."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Stay with me, then. I'd rather have you here than not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Why can't you stay?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Heh, well I wasn't just sitting around waiting to save the day, you know. I was actually in the middle of something."
+
+She adjusts her pack and glances over her shoulder again. "Anyway, this is your world, not mine. You know that. But if you need me, I'm here for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Now?" She shakes her head. "Sorry, friend. I crossed worlds for you. You're stuck with me to the end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>She exhales a breath you didn't realize she was holding. "Me too, stranger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"It's my pleasure, old friend." She shifts her weight, her mouth half-open as if she wants to say something else but isn't sure what.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Will we ever meet again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>She bites her lip. "I hope so. Keep Tehria on you. Maybe if you need me... Well, he called me once, didn't he?"
+
+She glances behind her again. "Even if he doesn't, you will always be with me. I wouldn't be who I am without you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Suddenly she lunges forward and throws her arms around you. It's amazing how tall she is - taller than you, even. She kisses you on the cheek. When she pulls back and smiles, her tears are barely noticeable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Farewell, my friend. My home and hearth and bread are forever yours."
+
+A portal opens suddenly. The bright light and trees you remember from before spill out of it. She waves one last time and turns to step through it.
+
+{SOUND/VO: This is the same line as x6131_AdultRhin_PostCrisis, node 27. It should already be recorded, but the file may need to be copied and renamed for this.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"I still have your god of finding, if I need you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Her eyes brighten. "Yes, you do. He's your god now. He'll call me if you need me."
+
+She glances behind her again. "Even if he doesn't, you will always be with me. I wouldn't be who I am without you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>{confident; proud}"Ahl, Varlin... {with a smirk}let's show them what we got."
+
+{SOUND/VO: This was not previously recorded, but if we can do a pick-up then this would be a good one to add. - AH, 7/29/16}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Why can't you stay?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Ha! I wasn't just sitting around waiting to rescue you, you know. I was actually in the middle of something."
+
+She adjusts her pack and glances over her shoulder again. "Anyway, this is your world, not mine. You know that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Now?" She glances over at them. "I don't know that I have much to say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>She laughs brightly. "I don't think this is the time. I don't know what to say!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Do I still remind you of your uncle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"So grown up. Does that mean you're no longer afraid of me, child?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"So. Have the years you've been away given you any perspective on my *coldness*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"You *could* say how much more dashing and courageous some of us have become!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Except for you, Tybir." She steps forward and puts a hand on his cheek. "I saw what you went through, with the man you loved. I'm... I'm sorry. And I'm sorry I ever said that about you... you know. Never liking anyone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"I didn't say *my* uncle. I said an uncle nobody goes to visit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"I was never afraid." She looks Callistege up and down. "Just wary."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Actually, I think I understand you better than I ever did." A blade that wasn't there before flicks into her hand. "I've been betrayed, too. Like a stab wound you can't heal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>She laughs behind her hand, though there is a tinge of sadness in it. "Oh, Erritis. I hope you do much good before... while you can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Well, you weren't wrong, lass," he says with a sigh. "I loved everyone. Just didn't care for anyone but myself."
+
+He pats her hand. "Well. Enough of that. Now that I don't have to watch what stories I tell you, we need to catch up!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Sounds peaceful. Quiet." His mouth starts to quirk with a fond smile before he regains control.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"But you're still sweet, Aligern." She leans forward and kisses him on the cheek.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"I trust time has smoothed that edge. Judging by your new demeanor, you've seen things far more worrisome than *me*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"I can honestly say I have not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Really?" She puts a hand to her hip with a flourish. "I shall take that as a compliment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>The blade disappears just as suddenly. Matkina flinches as Rhin puts a hand on her shoulder. "But you *can* heal it. You're the *only* one who can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>She stares at Rhin for a moment, and then smiles. "You pick up that trick with the knife from me? If you're interested, I can show you other subtleties of the blade." She pauses. "I'm glad you're back. Even if it's at the end of everything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Never fear, my lady! Good is my middle name, and Can the name after that. Erritis Good Can Hero! ...Hm, that may need some work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Her laugh is clear and genuine. "I *did* miss you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>She tugs her hand out from his and says with a smile, "I guess *some* things haven't changed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"In my mind. The Sorrow attacked again after you left."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"The resonance chamber was activated. It trapped me and all the other castoffs here, in the Labyrinth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"That sounds... terrible. No wonder Tehria called me. Well, I'm here to help, if you need me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"In the Labyrinth. My companions are lost in here somewhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Sounds like we've got a lot to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"What were you in the middle of before you came here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Ah." She looks behind her again. "It's hard to explain, but... folks are in trouble back there."
+
+"Wait, no!" She says, reading your expression. "They're not *dying* or anything - I mean, not yet. I'm here for *you*. They'll be fine for a while."
+
+She smirks. "Relax. I'm a grownup now. I know how to prioritize my battles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"But you have given me so much more. My gods are strong. I've learned of a thing - something my parents never taught me and are not even sure if they believe... that the bonds of love make gods stronger."
+
+She chuckles to herself and brings out a worn, familiar stone. "Some in Baranth think I'm crazy. Yet they cannot argue with the strength of *my* gods, can they, Ahl?"
+
+She tosses the stone in the air and slips it back into her pocket.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Maybe some day I'll have time to tell you my story, but not now. We have too much else to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>The sorrow in her eyes speaks for her, and she says no more. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"You weren't wrong, lass," he says, but there is no anger in his voice. There is nothing but exhaustion. "You were wiser than me even then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>She shrugs Rhin's hand off her shoulder. "You're, what, twenty years old? You think you've got the answers for someone ten times your age?"
+
+She stalks a few paces away and crosses her arms.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

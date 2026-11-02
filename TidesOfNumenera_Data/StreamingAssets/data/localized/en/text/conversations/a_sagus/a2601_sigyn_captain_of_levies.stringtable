@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2601_sigyn_captain_of_levies</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>137</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This woman is dressed much like the levies who flank her, but unlike them, her expression is sober and alert. Her hair is cut short, the corners of her eyes wrinkled with crow's feet.
+
+A little swarm of mechanical drones circles around her, buzzing messages in her ears. She whispers replies in return, and every so often, one of them whisks away, disappearing into the city.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I met a levy in Cliff's Edge that's stalking a man called Finzin. It wants an extra year of his life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Farewell to you... not-Adahn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"It wants *what*?" Her eyes widen in alarm. She whispers something to one of her circling drones, and it zooms away. 
+
+"Sometimes the levies go wrong. They take a bad year from a citizen and turn out *flawed*. We never let them live when they get like that. You've seen the little talismans they carry, the symbols of the year that made them? If the year is bad enough, they *become* that talisman shaped in flesh... monsters that hide in the city and try to bring about the horrors that would have been."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"You can tell this Finzin that he's safe. I've sent a squad to bring in the levy. He'll never see it again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Drones still circle the uniformed woman's head. She's whispering to one of them as you approach, but she waves it away and nods curtly to you. "City business? Or something else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"What is it, citizen?" She pauses, eyes darting to your tattoo, then to your face. "No... you're the one they call Adahn. I heard you were in the city."
+
+You sense a sudden wariness in her. "It's been ten years since your last visit. I was too young to know you then, but the drones remember."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"What do the drones remember about me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ten years ago, you couldn't have been a child. You're not *that* young."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"My name isn't Adahn anymore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>On cue, two of her attendant drones dip close to her ear, emitting a stream of raspy noise that might be some sort of language. "You kept to your own affairs, but everywhere you went, the city held its breath. People *deferred* to you, even the ones with power and influence. You looked the same as you do now... exactly the same. I want to know why. And if you don't mind telling me, I want to know what you're doing in Sagus now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I'm younger than I look. Not like you. The years don't touch you, do they? If you don't mind telling me, what's your business in the city?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Curious." She regards you for a long moment as if judging you anew. "You came here for a reason... not-Adahn. What's your business in the city, if you don't mind telling me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I'm trying to escape a creature that's hunting me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I'm looking for a woman named Matkina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Just seeing the sights."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I do mind telling you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Smoking tendrils, grasping talons, a towering, nebulous shape..." She sees the look on your face and nods. "I've seen it, but only through the eyes of a drone. Not long ago, it killed a man in the streets, a man with the same mark you bear."
+
+"If anyone else knew, there'd be panic. Even if it's only hunting... people like you. I haven't told anyone, not even the Council."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"The White Death." Her expression goes flat, but her eyes flick to your tattoo again. "I should have guessed that. If Matkina is all you want, then you should ask for her in Underbelly. That's the last place any of my drones saw her, and the levies don't venture there."
+
+She leans a little closer and lowers her voice. "And if you leave the city afterward, I'd be very happy if you took her with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"A falling star, for example? Did you arrive too late to see it? Or did you land on our shores at precisely the same moment?" Her tone is casual, but she watches you intently.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Bank 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"There was a fight in the Reef around that time. Did you witness that too? No, you don't need to tell me. Better for us both that way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Of course." Her smile is cool. "You're under no obligation, not unless the Council orders it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Another drone swoops past you, stopping just short of the woman's head. It unleashes a series of raspy buzzes and squawks. She whispers something to it, then glances back in your direction. "What was it you wanted?"
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Bank 26</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>As she turns her face back from the drone, something about her profile strikes you as familiar. In that moment, she looks so much like the ghostly girl you met in the Fifth Eye that they could be the same person... though this woman seems twenty years older, at least.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Bank 28</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Who are you again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Sigyn. Captain of Levies. I'm not a levy myself, but I command them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I'm the Captain of Levies. They used to report directly to a member of the Council, but that made the others paranoid, so they wanted a neutral party. I was... more qualified than anyone else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I'm trying to find a woman named Matkina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"The White Death." Her expression goes flat, but her eyes flick to your tattoo again. "I should have guessed that. If Matkina is all you want, then you should ask for her in Underbelly. That's the last place any of my drones saw her, and the levies don't venture down there."
+
+She leans a little closer and lowers her voice. "And if you leave the city afterward, I'd be very happy if you took her with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Drones still circle the uniformed woman's head. She's whispering to one of them as you approach, but she waves it away and smiles faintly at you. "I wasn't sure I'd see you again... not-Adahn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>As she turns her face back from the drone, something about her profile strikes you as familiar. In that moment, she looks so much like the ghostly girl you met in the Fifth Eye that they could be the same person... though this woman seems twenty years older, at least.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Drones still circle the uniformed woman's head. She's whispering to one of them as you approach, but she waves it away and nods curtly to you. "City business? Or something else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"You don't like Matkina?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"I don't like assassins. Especially good ones. I don't like the temptation they represent to people in power... to the people I'm supposed to serve. They make it too easy to solve problems *discretely*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>She pauses, as if debating whether to go on. Then she does. "I don't like the fact that whenever I scratch the surface of a *wound* in this city, it leads back to someone with a tattoo like yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Bank 41</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"What's in the building behind you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I've never seen a building like this one before. What *is* it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"What's in the building behind you again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>She frowns. "How is it that you don't recognize the seat of government? I know you lived here for a time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"To tell the truth... I've lost my memory."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Too focused on my studies, I guess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"I asked a question. I didn't expect one in return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"You've lost more than that. I've seen images of you... through the eyes of the drones. Ten years ago, you moved differently, carried yourself like a king in the Steadfast. You've lost your *soul*... or gained one." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Sounds like something an Aeon Priest would say... but they're savvier than they pretend to be. Some of them, anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"That's why I asked. But you've given me all the answer I need."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>She waves a hand at the doors behind her. "The Council meets in there. A representative from every Slave Family and from some of the guilds, depending upon who's in favor. Hardly anyone goes in through the doors, though, they're just a formality. Most people have other ways of getting inside. And out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"They say it's a ship... built by the ancients to sail the void between worlds. Now the crag grips it tight, like an old husband holds his wife, and it'll never sail free again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"The seat of government. The Council meets inside. They don't use these doors, so there's no way of knowing if they're in session. Maybe the Clerk can tell you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Bank 55</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"What are levies?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"I have more questions about the levies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>She gestures at the two burly, smiling men to her left and right. They look like identical twins.
+
+"Soldiers in the Council's service. They keep order in the city." Her lips purse briefly, but she continues. "Every citizen is required to raise a levy for the city's defense. The price is a year of their lives."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>She nods. "I'll answer if I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Do your levies keep *every* district safe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"If the levies don't keep order in Underbelly, then who does?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Why don't you send any levies to Cliff's Edge?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Why do all the levies look the same?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"No," she frowns. "Underbelly lives under its own law. Cliff's Edge lives under no laws at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"A man called Fulsome." Her expression is unreadable. "I don't know anything about him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"A man called Fulsome."  She hesitates, giving you an appraising look, then leans a little closer. "When the Council decides that something can only be accomplished by... alternative means... they go to him, and he finds the right people to help. In return, they let him do as he likes in Underbelly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"The truth?" She glances at the door behind her. "The Council fears the Memovira... the criminal boss of the Bloom. Her power in the city is getting stronger, and she's always had support in Cliff's Edge. I'm not allowed to send patrols there anymore. They didn't tell me why, but I can guess. They're showing the Memovira that she can do as she likes in Cliff's Edge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"A lot of homes have been collapsing, and the city hasn't been able to help." Her tone is cautiously neutral. "The Council believes that the presence of levies could incite them to violence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Bank 69</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"How are levies 'raised'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"How are levies 'raised' again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Anyone who lives in the city can become a citizen at sixteen years of age... or the equivalent, if they're not human. There's only one requirement. They step into a machine at the Order of Truth, and it takes away a year of the citizen's life. It uses that year to create a levy."
+
+She lowers her voice, seemingly for the benefit of the levies standing beside her. "That one year is all a levy gets. When it's over, they die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"If you want to become a citizen, you step into a machine at the Order of Truth. It takes away a year of your life and uses that year to create a new levy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"They don't... but the differences are subtle. Citizens can usually tell their own levies apart from the rest." She glances at one of the smiling levies standing next to her. "I don't know why they look so much alike, but they're all born from the same machine in the Order of Truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Bank 75</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Why do levies look the same again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>She shrugs. "They're made by a machine at the Order of Truth. That's how they look when they're born. They don't *really* look the same, but the differences are subtle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Bank 79</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"The levies seem awfully happy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Are you sure the levies aren't happy?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"They only seem so." Her face is flat, unreadable. "They're not." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"A smile and a pleasant demeanor could have a hundred explanations, yet this whole city is fooled by them." She shakes her head. "I know the levies better than anyone, so the truth is plain to me. Though I'd be lying if I claimed to truly understand them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"I have other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>She nods. "Go on, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"What were you saying to those drones?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"They carry my orders to levies all over the city. And they bring reports from the levies back to me." She reaches out a hand, and one of the drones buzzes something unintelligible. "A few years ago, the Aeon Priests found them buried underground and brought them back to life. I learned their language, so our conversations are safe from prying ears."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"The Clerk asked me for a bribe. Is that legal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>She purses her lips and stares straight ahead. "It isn't *illegal*. Such things are customary amongst the bureaucratic class. They call it a 'gratuity'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Bank 90</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"How did you become the Captain of Levies? Why were you 'qualified' for the job?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"How did you become Captain of Levies again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Most people sacrifice one year of their lives to become a citizen. From their sacrifice, a single levy is born. I sacrificed... more. Voluntarily. I gave up more years than anyone ever has. It helped me *understand* the levies... and it helped them to understand me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Normally when someone gives up a year to create a levy, the two are connected to each other. People can sense which levy is theirs. Something of the levy is transferred to the citizen and becomes a part of him... or her." She frowns. "The Aeon Priests don't tell you that part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Most citizens sacrifice a single year to create a levy. I gave more... enough to create a whole squad of levies. It made me more like them. We understand each other, and they can sense what I want them to do." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"I sacrificed enough years to make a whole squad of levies. It didn't just make me older, it granted me the insight to *understand* them. I can look at them and tell you how many days they have left to live. I can sense the pain they hide, the knowledge of what they are. In the same way, the levies can guess my thoughts and wishes when I am near, and they act before I even command them."
+
+She smiles softly. "They look on me as an elder sister, perhaps, or a well-loved aunt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"I sacrificed enough years to make a whole squad of levies. It didn't just make me older, it granted me the insight to *understand* them. I can look at them and tell you how many days they have left to live. I can sense the pain they hide, the knowledge of what they are. In the same way, the levies can guess my thoughts and wishes when I'm near, and they act before I even command them."
+
+She smiles softly. "They look on me as an elder sister, perhaps, or a well-loved aunt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Why would you do that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Because I wanted to serve the city. That's what I told the Aeon Priest. You can believe it if you want - it was a good enough reason for him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"I'll tell you," she says slowly. "I've had my drones and levies watching you since you came up from the Reef. I thought you were dangerous at first... but you act like a man who's fair... who does what's best for everyone, not just himself. I don't know who you were ten years ago, but you're not the same person now. So here's the truth."</DefaultText>
+      <FemaleText>"I'll tell you," she says slowly. "I've had my drones and levies watching you since you came up from the Reef. I thought you were dangerous at first... but you act like a woman who's fair... who does what's best for everyone, not just herself. I don't know who you were ten years ago, but you're not the same person now. So here's the truth."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Most citizens sacrifice a single year to create a levy. I gave more... enough to create a whole squad of levies. It made me more like them. We understand each other, and they can sense what I want them to do." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText> Follow-up PQ. 102</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"You look a lot like someone I met in the Fifth Eye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"I want to know how you survived past your twentieth year. You said you were doomed to die young."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>She laughs aloud. In that moment, her voice is clear and rich, like that of a much younger woman or even a teenaged girl. "Was she a scarred peltast, wedded to her blade, fresh from the Endless Battle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"I've never seen you laugh before. My comment made you nervous, didn't it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"I wouldn't insult you that way. The woman I saw was a younger version of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Actually she was young, with a chorus of whispering voices all around her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Her smile vanishes. "You're savvier than most. I should have expected that from a man who doesn't age. No one's told me I *remind* them of someone else in a long time, but it used to be different."</DefaultText>
+      <FemaleText>Her smile vanishes. "You're savvier than most. I should have expected that from a woman who doesn't age. No one's told me I *remind* them of someone else in a long time, but it used to be different."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Her smile vanishes. "Then maybe she was the ghost of the woman I used to be. More recently than you'd think. Or maybe she was the ghost of the woman I was supposed to become."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Her face goes pale. "Then I know who she was. She was the woman who haunted me when I was a girl... the woman I was supposed to become."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"For as long as I can remember, I felt as though this... other woman... was taking shape inside me. When I was a girl, I'd gaze at myself in the looking glass, and every day I seemed less like me and more like *her*. I don't remember when I abandoned my family, but I couldn't have been more than ten or twelve. They seemed like strangers to me - I couldn't even remember who they were."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"I started hearing stories about other girls like me. Older girls, younger girls. I sought them out, learned everything I could. All the ones I met went mad, and they never survived past their twentieth year. It wasn't always the same death... sometimes it was sickness, or an accident, or they ended their own lives, but somehow, they always died. It was fate. And it was mine too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"But you survived."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"I've heard enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>She lets out a long breath that you didn't realize she was holding. "And I've talked enough. That story is harder to tell than I thought it would be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"I cheated." She's silent for a moment. "When I was old enough to become a citizen - to sacrifice a year to create a levy - I went straight to the Order of Truth, and I told them I wanted to donate as many years as I could."
+
+"I didn't think it would work," she confides, "but what choice did I have? When they started taking the first few years, and I aged closer to twenty... each time, I thought I would die. And the levy that was born from my twentieth year... it was a monster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"They tried to make me stop, but I refused. I made them go on. I burned through my twenties and beyond, and with every year I lost, I felt that *other* woman inside me weakening, pleading, dying. I laughed as they burned the years away. When I walked into the Order of Truth, I was a teenaged girl. When I walked out a few hours later, I was a middle-aged woman. But I was *free*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"So how old are you really?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"How long has this been happening to women in the city?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"I know what caused this - some kind of probability engines that are buried under the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"I know what caused this - probability engines underneath the city, built by the Changing God. I shut them down."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"You said the levy that was born from your twentieth year was a monster?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Twenty-two. That's why I was too young to remember you when you were here last. I was a twelve-year-old girl, a runaway, half-mad and living in the streets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Centuries, I think. The earliest reference I could find was around the time of Chila, but it probably goes back even further. There was an Aeon Priest... about eighty years ago, he thought he'd make a name for himself by discovering the cause. He found that it only affects women in Sagus, never in the outlying villages. He thought it might be caused by some kind of numenera underneath the city, but he was never able to prove anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>She nods. "I'm glad I finally told someone. Easier to tell a stranger such things, perhaps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>She reaches out a hand and touches your arm. "Shut them down if you can, please. For all the girls who are suffering as I did. For all the girls who aren't born but *will* suffer in years to come."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>She reaches out a hand and touches your arm. "Then you saved them... all the girls who were suffering as I did. All the girls who aren't born but *would* have suffered. Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"It was... death. Not death the way it's personified in stories, but death like it really is. A bloated thing with festering sores, vomiting blood and pus and excrement from every orifice. Even the Aeon Priests were terrified - they burned it to a pile of ash."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Farewell to you... whoever you really are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>As she turns her face back from the drone, something about her profile strikes you as familiar. In that moment, she looks so much like the ghostly girl you met in the Fifth Eye that they could be the same person... though this woman seems twenty years older, at least.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Sigyn. The Captain of Levies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"I don't mean to be harsh." She smiles faintly at you. "Thank you for being honest with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Bank 137</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"There's a man in Cliff's Edge who says that a levy has been following him around. He thinks it means to hurt him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Remember the levy I told you about? It's stalking a man called Finzin. It says it wants an extra year of his life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"In Cliff's Edge? I don't even *send* levies there... unless it's following this man because he committed a crime." She shakes her head. "Until I hear the levy's side of the story, I'll give it the benefit of the doubt. They're far more reliable than people... most of the time." </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

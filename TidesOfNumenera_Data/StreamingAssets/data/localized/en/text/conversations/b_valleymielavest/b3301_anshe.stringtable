@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3301_anshe</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>173</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>She spreads slender hands. Delicate spiderwebs of metal thread run through her fingers, studded with circular nodes that look too purposeful to be mere jewelry. 
+
+"The name's Anshe," she says. "Lady Anshe, but don't let that scare you off. I sell rare numenera and a place to rest at a fair price. I can also upgrade certain clothing and equipment, but that's a bit more expensive."
+
+She gives you an assessing eye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Welcome back, little brother. What do you need?"</DefaultText>
+      <FemaleText>"Welcome back, little sister. What do you need?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"But I don't need to tell you that," she says. "Quality costs money. Anyone who tells you different is going to take you for twice what you'd pay here."
+
+She claps her ornamented hands together with a *clink*. "So. What do you need?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Bank 4</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Do you get a lot of business in Miel Avest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"What do you</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"You don't seem upset that I opened the portal into Miel Avest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"That's because closing it wasn't necessary to begin with. The shields are good enough."
+
+She rolls her eyes. "Our brothers and sisters worry too much. Must run in the family."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Well, put it like that... no," she says, grinning.  "And it's not normally *me* doing the selling, not like I used to. In normal times, I'm treating major customers to fancy dinners, yelling at my advisors, and sneaking in the odd bespoke order before more paperwork lands on my desk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Bank 12</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I need a place to rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I'm looking for a place to rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"All right," she says. "It'll cost you [Global: b3301_AnsheRestCost] shins. You'll get the best rest of your life here, promise. The Sorrow can't track you when you bed down here."
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Well, you've found it," she says. "[Global: b3301_AnsheRestCost] shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Here you go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I don't have that much right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"But you know money's there to be spent," she says, her eyes twinkling. "When you die, the shins don't go with you, right?"
+
+She claps her ornamented hands together with a *clink*. "So. What do you need?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I won't lie," she says quietly. "My prices are high but fair, and they'll keep your friends alive longer. Simple as that."
+
+She claps her ornamented hands together with a *clink*. "So. What do you need?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Take a look at what I've got," she adds, more quietly. "My prices are high, but you look like someone who values your friends. And my work will keep them safe."
+
+She claps her ornamented hands together with a *clink*. "So. What do you need?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Not everyone can afford my prices," she says, "but I think you'll want what I have on offer - quality, durable work that's easy on the eyes. You won't find craftsmanship like this anywhere else in the Ninth World."
+
+She claps her ornamented hands together with a *clink*. "So. What do you need?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"You must do quite a lot of business with the Endless Battle ongoing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I don't know," she says carefully. "I don't take sides or opinions on that conflict. Bad for business, sides."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Bank 27</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Can you remind me what you said about the feretory?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Do you know anything else about the Feretory?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Rumor is that it's a last-ditch defense against the Sorrow," she says. "But that's just a rumor. Can't tell you if it's truth or wishful thinking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ugly thing has caught your fancy, huh? But no. Can't help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Bank 32</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Can I take a look at your numenera?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"I want to look at your numenera again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Sure," she says. "Look all you want."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Course," she says.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Bank 37</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Let's talk about those upgrades you mentioned."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Let's talk about those upgrades again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Sure thing," she says. "But in case I wasn't clear before, I can't do much with what *you're* wearing. It's pretty good as-is."
+
+She scratches her chin. "Your friends, on the other hand, I can help. Who needs work done?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Sure," she says, settling her hands on her hips. "Who needs the work?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Matkina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Rhin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Tybir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Actually, they're not here right now. I'll come back with them later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I have to go. Take care of yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"I want to talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"You too, brother."</DefaultText>
+      <FemaleText>"You too, sister."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Callistege."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Erritis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Aligern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"You trying to tell me something, kid?"
+{ALIGERN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Probably," Anshe grins, eyeing your companion. "I could shore up your vest and coat, maybe. Add some lining of my own design. That will run you [Global: b3301_AnsheAligernUpgradeArmorCost] shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Of course," she says. "[Global: b3301_AnsheAligernUpgradeArmorCost] shins, and the upgrades are yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Let's shore up Aligern's vest and coat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Let's get Aligern those inlays for his coat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Sure thing," she says, raising her hands. The nodes on her palm light up one by one, projecting tiny pinpricks of light onto Aligern's chest. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"All right," she says, tweaking a few of the glowing nodes on her hand. Then, she snaps her fingers with a grinning flourish. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Bank 61</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"What are those wires all over your hands?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"What are those wires on your hands again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Inventions of mine," she says. "Cobbled together from parts of course, like everything. These beauties are wired - well not really, but you know - into my head. I use them to build and fix things that are really, really small."
+
+She beams at her hands. "I've had them almost as long as I've been alive." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Tools," she says, shrugging. "I use them in my custom work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"I can't afford his upgrades right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I can't afford his upgrades right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Too bad," she says. "Maybe later? I'll be here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Let's talk about upgrades for someone else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"All right. Who?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>He eyes them uneasily as they race about, altering his equipment, but nods at you.
+
+"Good of you, kid," he says. "I was due for some repairs."
+{ALIGERN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Tickles," Aligern grunts. "Should be interesting to see what I end up with. Thanks, kid."
+
+Looking closely, you see the threadbare edges of his coat darkening. 
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>After a few minutes, she drops her hands. 
+
+"Done and done," she says. "Anyone else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Before long, she's done. 
+
+"Who's next?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"My 'equipment' is perfect the way it is," she says, arching an eyebrow.
+{CALLISTEGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"As I said," Callistege interrupts, "I am not interested in 'upgrades'. Let's leave it there, shall we?"
+{CALLISTEGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"I don't need upgrades!" Erritis declares, outraged. He immediately falters. "Do I?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"You might," Anshe says, frowning as she examines your companion. "Hmm, let me take a look at your doublet and undershirt. I could do something with... slits? Possibly slits. Maybe vents."
+
+She folds her arms. "[Global: b3301_AnsheErritisUpgradeArmorCost] shins and we're square."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Fine," she says. "[Global: b3301_AnsheErritisUpgradeArmorCost] and we're square."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Let's improve Erritis's clothing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Good," she says, lacing her wire-strung fingers together. "Hold still, please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Do I have to?" he says, but he offers you a smile as the threads of his clothes begin moving of their own accord. 
+
+"Thank you, my friend."
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>After a few minutes, she claps her hands. 
+
+"Done. Anyone else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"I don't have the money to improve his clothing right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Why?" she says, giving you a suspicious look. "I'm fine. Everything I own is fine."
+{MATKINA}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"There's nothing wrong with a little tinkering, sister," Anshe says smoothly. "In the right places. I could fortify your hauberk. Nothing major. And possibly add some shielding elements to your cloak. Shouldn't cost more than [Global: b3301_AnsheMatkinaUpgradeArmorCost] shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"All right," she says. "[Global: b3301_AnsheMatkinaUpgradeArmorCost] shins and we can get started."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Let's fortify Matkina's hauberk and improve her cloak."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Gladly," Anshe says, rotating a pulsing node on her thumb, and stretching her hands towards Matkina.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>The assassin twitches and glares at you as her armor remakes itself.
+
+"If this kills me somehow, I'll find a way to take you with me." She bites her lip. "And thanks. Thank you."
+{MATKINA}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>After a few moments, Anshe grimaces and flexes her thumbs. 
+
+"Done. Anyone else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Add some shielding to Matkina's cloak."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"All right," she says, raising both wired palms. A glow rises from their center. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Matkina squints at the lights, then at you. 
+
+"Not sure what she's doing," she says. "Not sure if I like it, either. But thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Anshe drops her hands with an exhaled breath. 
+
+"All done," she says. "Who's next?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"I don't have the money to improve Matkina's equipment right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"I can't afford to upgrade Matkina's cloak at the moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"What?" she says, jumping. "What's wrong with my clothes?"
+{RHIN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Nothing!" Anshe says, smiling down at her. "But I can make a few changes to your jacket and shirt. Nothing fancy or heavy. Just a few things you'll like."
+
+She looks up at you. "[Global: b3301_AnsheRhinUpgradeCloakCost] shins. Neither of you will be disappointed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Of course," she says. "[Global: b3301_AnsheRhinUpgradeCloakCost] and I'll get started."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Let's improve Rhin's equipment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"All right," she says, pressing her palms together. A warm line traces the edges of her joined palms. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"This feels incredibly odd," Rhin says, staring down at her shifting clothes. "But not in a bad way!" She smiles nervously at you. "Thank you."
+{RHIN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Anshe pulls her hands apart. Their glow fades as they fall to her side. 
+
+"That should do it," she says. "Anyone else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"I don't have the money to upgrade Rhin's jacket and shirt right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Me? Why me?" he says, then sniffs himself. "Oh. You do laundry too?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Not even a little," she says, studying your companion with a critical eye. "His sark and mantle are a bit clumsy. I could finesse the rough edges. Minor work. Will cost you [Global: b3301_AnsheTybirUpgradeArmorCost] shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"All right. It'll cost you [Global: b3301_AnsheTybirUpgradeArmorCost] shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"I want you to improve Tybir's sark and mantle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Good as done," she says, cradling a fist in her glowing palm, and murmuring under her breath. The light swells.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Tybir arches an eyebrow at you as his armor begins remaking itself.
+
+"If I end up naked at the end of this, you only have yourself to blame. And if not... thank you."
+{TYBIR}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>After several minutes, Anshe releases her fist. 
+
+"Done," she says. "Anyone else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Can you upgrade Tybir's mantle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Of course," she says, raising a luminescent palm like she has a question. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"This feels odd," Tybir says, eying his changing mantle. "But not bad. Definitely not bad. Thank you."{TYBIR}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Anshe lets her hand fall.
+
+"Finished," she says. "Who's next?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"I don't have the money to upgrade Tybir's sark and mantle right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"I can't afford to upgrade Tybir's mantle at the moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Not a problem," she says. "What do you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Look at this," the woman declares. "Our wayward brother, in the flesh."
+{GAVIN: Test this sucker when the previewer's working again.}</DefaultText>
+      <FemaleText>"Look at this," the woman declares. "Our wayward sister, in the flesh."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Your name is 'Lady' Anshe? Are you royalty?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Heh," she says. "Only in a technical sense. A few years back, I did a favor for the type of person who can spin titles out of thin air. I *told* her I only wanted the money, but she insisted."
+
+She shrugs. "So, Lady Anshe. It's opened a few stubborn doors over the years, but other than that, I don't wave it around much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Sorry to hear that. Come back when you do, though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Wise move," she says. "I don't sleep if I can help it either. Too much to do, you know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"You heard the lady," Anshe says, shrugging. "Anyone else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"You heard her. Anyone else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Rest well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Sure thing. I'm not going anywhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"But I don't need to tell you that," she says. "Quality costs money. Anyone who tells you different is going to take you for twice what you'd pay here."
+
+She claps her ornamented hands together with a *clink*. "So. What do you need?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"But you know money's there to be spent," she says, her eyes twinkling. "When you die, the shins don't go with you, right?"
+
+She claps her ornamented hands together with a *clink*. "So. What do you need?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"I won't lie," she says quietly. "My prices are high but fair, and they'll keep your friends alive longer. Simple as that."
+
+She claps her ornamented hands together with a *clink*. "So. What do you need?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Take a look at what I've got," she adds, more quietly. "My prices are high, but you look like someone who values your friends. And my work will keep them safe."
+
+She claps her ornamented hands together with a *clink*. "So. What do you need?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Not everyone can afford my prices," she says, "but I think you'll want what I have on offer - quality, durable work that's easy on the eyes. You won't find craftsmanship like this anywhere else in the Ninth World."
+
+She claps her ornamented hands together with a *clink*. "So. What do you need?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>She takes a closer look at your clothes. "Actually, I don't think I can do much with this. It's pretty good as-is." She smiles. "But I do have upgrades for sale in a general sense. Tell your friends. Bring them by."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"One of my companions is troubled by demons of some kind. Can anyone here help him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Can't think of anyone, sorry to say," she says, rubbing the side of her cheek. "Between the two of us, castoffs are more interested in squabbling with each other than of being any use to the world."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>She looks immediately at Erritis, who brightens - literally and figuratively - at being noticed. 
+
+"Can't say I've ever seen something like this before," she murmurs. "And none of us are doctors, sorry to say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Can't do anything with your gear, remember? It's good enough. Bring your friends, though, and we'll talk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>When Lady Anshe's done, she drops her hands. 
+
+"Well, that's it," she says, smiling. "You've bought all my upgrades. Thank you for your business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Of course it is," Anshe says, straightening. "But there's perfection and *tailored* perfection."
+
+She sweeps a practiced eye over Callistege's gown. "I can think of a number of small, understated touches I could make to your gown, love. Wouldn't cost more than [Global: b3301_AnsheCallistegeArmorUpgradeCost] shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Of course," she says. "[Global: b3301_AnsheCallistegeArmorUpgradeCost] shins, and I'll get started right away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Let's touch up Callistege's gown."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Of course," she says, lifting her hand, fingers dancing. Ribbons of lights slip between them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>She extends her arms with a long-suffering sigh, but favors you with a smile. 
+
+"I usually do my own work, dear," she says, drawing in a breath as a seam tightens. "This is a welcome treat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>After a few minutes, she lets her hands fall. 
+
+"Finished," she says. "Anyone else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"I can't afford her upgrades right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"What a shame. Perhaps another time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Let's talk about upgrades for someone else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Yes? Who?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"What did the feretory do to me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"It killed you, of course. It'll do that every time, by the way. Just ask Melmoth over there." The corner of her lip turns.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"But these aren't normal times. People are saying the Sorrow's on the hunt again. I don't know if it's true, but better safe than sorry. So instead of passing the time arguing like *everyone* else around here, I'm back to being a humble merchant." She winks. "For now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"You know me, siblings. I have the best goods in Greater Garravia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Come now. I know for a *fact* some of you could use my cyphers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"My deals leave with me, brothers and sisters. Take advantage of them while I'm still here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Oom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Nah," she says, with barely a glance at your companion. "This one's damn near flawless as-is. I mean, look at it."
+
+Oom beams. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Oom settles comfortably in place, mumbling to itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\item_c4411_egg_oddity</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>101</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This egg-shaped object is made of pearly white synth. The moment you touch it, a lively tune begins to play. It's a bright and cheerful sound, a melody that a child might enjoy... and one that's likely to get stuck in your head. 
+
+You notice that the egg has adhered to your hands.
+
+{SOUND: Start playing cheerful children's song. This should always be playing when this dialogue is active (all nodes, except where noted)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>When you touch the egg, you can hear the cheerful, silly tune again. As before, it adheres to your hands, preventing you from accidentally dropping it.
+
+An image reappears on the surface of the egg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Does anybody else hear that music?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Try placing the egg on the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Examine the egg more closely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Put the egg away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText> "Indeed! A heroic march, beckoning me onward to do heroic things! But I *always* hear that song. Because I'm the hero." Erritis pats your shoulder. "Perhaps you're hearing the *sidekick* song."
+
+{AVELLONE: Check voice.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Not a bit," says Tybir pleasantly. "But I can think of several venereal diseases that cause one to hear imaginary music. Never had them myself. I always ended up with the less entertaining varieties."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText> "I don't hear anything." Rhin reaches out and touches a finger to the egg, then jerks it away with a look of disgust. "Ugh! I heard it just then. It reminds me of... egg custard with too much sugar."
+
+{ADAM: Check voice.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"No." Matkina raises an eyebrow. "Hearing imaginary music isn't a good sign, even for a castoff. Maybe you should put away that egg. I don't trust anything that's so... clean."
+
+{COLIN: Check voice.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Aligern snorts derisively. "If it started when you touched that egg, then the cause is obvious. You'd better pray that it stops when you let go of that thing. If not... I hope it's a good song."
+
+{GAVIN: Check voice.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Music, dear?" Dozens of Callisteges glance at one another, and it's clear that none of them can hear a thing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>You're met with an uncomfortable silence. It seems that only *you* can hear the jaunty tune.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>You bend down and release the egg - it separates from your flesh as if understanding your intent. Instead of tipping over as you might expect, it balances perfectly on its bottom end.
+
+The moment you let go of the egg, the cheerful music stops.
+
+{SOUND: No music on this node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Instead of tipping over as you might expect, the egg balances neatly on its bottom end. When you let go of the egg, the cheerful music stops.
+
+{SOUND: No music on this node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>You rest the egg on the ground, as before. It balances neatly on its bottom end. The cheerful music stops.
+
+{SOUND: No music on this node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Push the egg over.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Smash the egg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You give the egg a shove. It rolls over onto its side... and then bounces back up again.
+
+{SOUND: No music on this node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Grabbing hold of a weapon, you swing at the egg with all your might, but it merely rolls over onto its side and then stands up again. 
+
+{SOUND: No music on this node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Pick up the egg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Put the egg away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>As soon as you touch the egg again, the bouncy, cheerful music resumes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>At first you're not sure if the egg is stuck to you permanently, but it separates from your hands as if understanding your intent. Instantly, the cheerful music stops.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>As soon as you let go of the egg, the cheerful music stops.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You put the egg back with the rest of your belongings.
+
+{SOUND: No music on this node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>You peer more closely at the smooth, white surface of the egg. At once, an image takes shape, as if the egg itself is a viewscreen. It's a bird's eye view of... you! 
+
+In the image, you're holding the egg, gazing into it. All around you, little creatures dance and caper. They're the size and shape of toddlers, covered in pastel fur of mauve, orange, or baby blue, with huge, lustrous eyes and wide, furry ears. They begin to sing along with the music. You don't understand the words, but their voices are high-pitched and full of excitement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Look around to see if the creatures are in the real world.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Keep watching the scene on the egg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Put the egg away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Pulling your attention away from the egg, you glance around, but you don't see any of the little creatures. Apparently, they only exist in the weird image on the surface of the egg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>At first you're not sure if the egg is stuck to you permanently, but it separates from your hands as if understanding your intent. Instantly, the cheerful music stops and the image on the surface of the egg winks out. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>As soon as you let go of the egg, the cheerful music stops, and the image on the surface of the egg winks out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The little creatures sing louder, grabbing hold of each other and twirling themselves around, cooing and giggling. Then one of them seems to notice you. It playfully pokes at your leg, and you can *feel* it... a second creature wraps your other leg in a big bear hug, and you can feel that, too. They squeal with delight.
+
+A third creature with bright orange fur jumps up and down in front of you, holding out its little hands like a child who wants to be picked up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Pet the orange creature's head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Pick up the orange creature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Keep watching the scene in the egg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>You lean toward where the creature's head should be and reach out one hand. Sure enough, you feel its soft fur and the firmness of its flesh. You scratch the top of its head, and it purrs contentedly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>You stretch out one of your hands, and the little creature clambers up your arm, giggling. On the surface of the egg, you see it clinging to your body, pulling at your clothes and your hair. Even though the creature isn't visible in the real world, you feel the pressure of its little hands, and you hear its laughter - even its breath - close to your ears.
+
+After a few moments, the little orange creature tires of its game and leaps off your shoulder with a woop.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Another little creature appears at the edge of the scene. Its fur is bright pink, with tufts of green protruding from its ears. It isn't dancing or playing. Instead, it's watching the others while bobbing up and down to the beat of the music. 
+
+One of the little creatures capers past. The pink creature extends its arms for a dance. "Eeee!" the other squeals with joy.
+
+The pink creature takes hold of its arm and tears it from its socket.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Suddenly, the little victim is shrieking in pain as the pink creature tears it to pieces, shoving limbs and steaming entrails into its mouth. The victim's head survives longer than it should, and it's still screaming when the pink creature yanks out its eyes, pops them into its mouth, and smashes the head to pulp.
+
+When it has finished, the pink creature looks directly at you - not the version of you in the image but the *real* you, watching from the viewscreen on the egg. It smiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Keep watching.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Put the egg away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>You try to let go of the egg, but you can't. Your hands and arms are frozen. You can't even pull your eyes from the image before you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Focus as hard as you can, and try to look away from the scene in the egg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Try to look away from the egg again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>You concentrate, driving the instinctual fear from your mind, willing yourself to close your eyes. One eye twitches, then the other, and suddenly, the spell is broken. You jam your eyes shut and turn away from the egg.
+
+For a moment, you hear the pink creature shrieking in fury, followed by a terrible rending sound... then silence.
+
+You cautiously open your eyes again... without looking directly at the egg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>It's no use. No matter how hard you concentrate, you can't shut your eyes or turn away. Indeed, you can't even move or speak. You can only watch as the spectacle continues...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>You still can't even blink. Your eyes are fixed upon the surface of the egg, and you can do nothing but watch the horrible scene play out...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>None of the other creatures seem to have noticed what happened to their playmate. They still romp and frolic about, singing their incomprehensible song. 
+
+The pink creature dances over to another unsuspecting victim. It's the little orange fellow who was so excited to play with you earlier. This time, the pink creature rips open the other's belly and thrusts its head inside, feasting on the victim's innards while it wails piteously and thrashes about.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Finally, the other creatures *do* notice what's happening. They scream in terror, throwing up their little hands and scattering in all directions until they've vanished from sight.
+
+With a happy little burp, the pink creature tears apart what's left of its second victim, leaving skin and fur in a shredded pile on the ground. Then it walks up to you and takes a bite out of your leg. The pain is *real* - and so is the wound - but your scream catches in your throat, and you don't make a sound.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Finally, the other creatures *do* notice what's going on. They scream in terror, throwing up their little hands and scattering in all directions until they've vanished from sight.
+
+With a happy little burp, the pink creature tears apart what's left of its second victim, leaving skin and fur in a shredded pile on the ground. Then it walks up to your leg and presses its tongue against your flesh. It can *taste* you... it *knows* how weak you are right now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Shout for help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Keep watching.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>You try to scream, but you can't move a muscle. Your eyes, too, are frozen on the scene in the egg, but you realize that something else is wrong. Nothing is moving around you. Time itself has stopped... or slowed to an imperceptible crawl. No one can save you. No one even knows what's happening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>The pink creature stands close to your leg. It looks up at you, smiles again, and begins to climb your motionless body. You can feel it moving slowly, deliberately, hand over foot, up your leg, then your back. Its breathing is calm, and it giggles to itself.
+
+Without warning, another sharp pain tears through you. The creature sinks its teeth into the flesh of your back, ripping out a hunk of flesh, chewing contentedly and swallowing before resuming its leisurely climb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>The pink creature stands close to your leg. It looks up at you, smiles again, and begins to climb your motionless body. You feel it moving slowly, deliberately, hand over foot, up your leg, then your back. Its breathing is calm, and it giggles to itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Shout for help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Keep watching.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>At last the creature reaches your head, wrapping its little arms and legs around your skull. Your skin crawls at its touch. One last time, it turns its furry face to look up at you - the real you - and smiles. Then it lowers its head and tears out your throat. 
+
+You sink into darkness...
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>You try to scream, but you can't move a muscle. Your eyes, too, are frozen on the scene in the egg, but you realize that something else is wrong. Nothing is moving around you. Time itself has stopped... or slowed to an imperceptible crawl. No one can save you. No one even knows what's happening.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"An unbreakable toy, built to weather the tantrums of any child." Callistege smiles, then shrugs. "Or perhaps that's not what it was at all."
+
+{SOUND: No music on this node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Really, dear. Just because it killed you doesn't mean you have to *break* it."
+
+{SOUND: No music on this node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>You place the egg with the rest of your belongings, being careful not to touch it with your bare skin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Touch the egg with your bare hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Once again, you place your hands upon the egg, and it instantly adheres to your flesh. The cheerful music fills your ears, and an image appears on the egg's surface...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>You see a bird's eye view of your own body. It sprawls face-down upon the ground, its throat torn out. Blood seeps from the wound, forming a little puddle around your head. 
+
+There is no sign of the pink creature... or any of the others. It seems that the spectacle - or whatever it was - is over.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>You see a bird's eye view of yourself clutching the egg. The torn and bloody remnants of many little creatures lie strewn about. Their murderous 'playmate' must have been so enraged at your escape that it slaughtered them all. 
+
+One pile of fur is bright pink with a a few strands of green. Apparently the killer's rage was so great that it finally tore *itself* apart as well.
+
+It seems that the spectacle - or whatever it was - is over.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>You see a bird's eye view of yourself, clutching the egg. The torn and bloody remnants of the two murdered creatures are still lying on the ground. 
+
+Nearby is a third pile of bright pink fur, with a few strands of green. It appears that the murderous little creature was so enraged at your escape that it tore *itself* apart. 
+
+It seems that the spectacle - or whatever it was - is over.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>You pick up the egg, and the all-too-familiar music fills your ears. An image takes shape on the egg's surface...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>When you touch the egg, you can still hear the cheerful music. However, the image on the surface of the egg is unchanged - neither the murderous pink creature nor any of its 'playmates' have returned. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Place the egg on the ground again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Continue watching the image on the surface of the egg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>As before, you see a bird's eye view of yourself holding the egg. The little, furry creatures are still dancing and capering around you, singing merrily in some incomprehensible language.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>As before, you see a bird's eye view of yourself holding the egg. The little, furry creatures leap and dance around you, and you feel some of them poking playfully at your legs.
+
+One of them - a particularly lively creature with bright orange fur - jumps around in front of you, as if trying to attract your attention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Pet the orange creature again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>You rub the creature's furry head. It closes its eyes and purrs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>{container for outdated stuff}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Look at the image on the surface of the egg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>The scene on the surface of the egg is silent and unchanged. You see a bird's eye view of yourself clutching the egg. Nothing else stirs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>The scene on the surface of the egg is unchanged. Your corpse lies motionless on the ground. Nothing else stirs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>When you touch the egg, you hear the cheerful, silly tune again. As before, it adheres to your hands, preventing you from accidentally dropping it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>You note that the little creatures are remarkably similar to the furry head atop the strange 'toy' you examined earlier. Perhaps the two objects date from the same period in the past... or were brought to the Bloom from the same alien world.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>You try to let go of the egg, but you can't. Your hands and arms are frozen. You can't even pull your eyes from the image before you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>You try to let go of the egg, but you can't. Your hands and arms are frozen. You can't even pull your eyes from the image before you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>It's no use. No matter how hard you concentrate, you can't shut your eyes or turn away. Indeed, you can't even move or speak. You can only watch as the spectacle continues...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>It's no use. No matter how hard you concentrate, you can't shut your eyes or turn away. Indeed, you can't even move or speak. You can only watch as the spectacle continues...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>You still can't even blink. Your eyes are fixed upon the surface of the egg, and you can do nothing but watch the horrible scene play out...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Script Node 109</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Oom merely looks puzzled. Then again, it usually does.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

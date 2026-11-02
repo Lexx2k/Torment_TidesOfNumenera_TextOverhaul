@@ -1,0 +1,1884 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3151_inifere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>287</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Intro]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>This man is long-limbed and bony, unmuscled, with a sunken chest. Sparse hair on a scarred scalp. Rags hang from his slumping body. He wears the castoff tattoo, but he's like no castoff you've seen.
+
+He regards you with bloodshot eyes, fever-mad. But just as the pupils remain black and pure amid the veins, you sense something hard and sane within the madness.
+
+His words are hoarse and dangerous. "You've come too far. Too far by far. There is no escape. *None* leave the gate."
+
+{WORD PLAY: Note, Inifere's dialogue has extensive wordplay throughout. Happy to document each instance if needed.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"You must stop your followers' violence, Inifere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Attack him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Inifere springs back with unexpected speed, and the battle begins.
+
+{CRISIS: Resume Crisis}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"This broken Merecaster... it's yours, isn't it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Inifere shakes his head. "O newborn babe, who knew naught when born, poor in horror, bereft of frights, bereaved of griefs when Father fled your flesh. Few of time's grinding grains have fallen upon you. You stand straight, with fine features, unworn by years, unwarned by fears."
+
+Ruined teeth are bared in an unhappy grin. "But I've lived longer, little brother, awash in wasting sand, and I wish to live longer still, in life's still, distilled to spite, the essence of senescence."</DefaultText>
+      <FemaleText>Inifere shakes his head. "O newborn babe, who knew naught when born, poor in horror, bereft of frights, bereaved of griefs when Father fled your flesh. Few of time's grinding grains have fallen upon you. You stand straight, with fine features, unworn by years, unwarned by fears."
+
+Ruined teeth are bared in an unhappy grin. "But I've lived longer, little sister, awash in wasting sand, and I wish to live longer still, in life's still, distilled to spite, the essence of senescence."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Perhaps a different tactic]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[You try a different approach.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Play it straight. Tell Inifere the horrible things.]
+{SCRIPT: task modifiers based on clues learned}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Try again to tell Inifere about the horrible things.]
+{SCRIPT: task modifiers based on clues learned}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Inifere is saddened by this information, but won't close the gate out of fear.]
+{SCRIPT: note that you made progress with Inifere.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Inifere ignores you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Intimidate Inifere to backdown.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Attempt to intimidate Inifere again.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Inifere appears cowed.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Inifere is not moved.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[The cultists are enraged.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Knowing Inifere's fear, tell him why the Sorrow will attack again.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Back down and try to calm the angered mob.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Sorry, folks. My bad.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[The mob is calmed and Inifere appears moved.]
+{SCRIPT: note that you made progress with Inifere.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[New option to try after others succeeded.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[FInally moved, Inifere decides to close the gate.]
+{SCRIPT: Close the gate cutscene and end the tussle.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Talk to Inifere]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Whoa, buddy. Let's just calm down and talk things out.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Ask questions and learn things that you can leverage later.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[You have all the info you need. Let's try something else.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Inifere scowls. "The Children teach with blades now, brother. The time for words has passed." Then something softens around his eyes. 
+
+"Oh, little brother, our father set pain to be our pedagogos, no matter what course of study we pursue. In time, you'll learn all that I could teach you about the Gate. Enjoy, for now, the blissful ignorance I never knew."</DefaultText>
+      <FemaleText>Inifere scowls. "The Children teach with blades now, sister. The time for words has passed."  Then something softens around his eyes. 
+
+"Oh, little sister, our father set pain to be our pedagogos, no matter what course of study we pursue. In time, you'll learn all that I could teach you about the Gate. Enjoy, for now, the blissful ignorance I never knew."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[More questions...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Here is where the snake sinks his teeth in his own tail and tastes this black truth - worse than his venom's burn is the foul flavor, the sweet savor, of his tainted flesh." Inifere runs his hands across his emaciated body.
+
+"This is where pain flays vain lies that hide from our despising eyes the flaws inside our sorry selves. Truth hurts, brother, bright and scalding as starfire, and here it's howled with tongues of flame."</DefaultText>
+      <FemaleText>"Here is where the snake sinks his teeth in his own tail and tastes this black truth - worse than his venom's burn is the foul flavor, the sweet savor, of his tainted flesh." Inifere runs his hands across his emaciated body.
+
+"This is where pain flays vain lies that hide from our despising eyes the flaws inside our sorry selves. Truth hurts, sister, bright and scalding as starfire, and here it's howled with tongues of flame."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Inifere goes into a blind rage.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[I totally get you. Let me prove it by answering your riddles.]
+
+{JOBY: Looks like this should be Responses. -AH}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Whoa! Hey there, Inifere! Stop, I can help by changing the past through your merecaster.]
+
+{JOBY: Looks like this should be a player response (among some other player responses. -AH}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Inifere is wary... but is listening.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Inifere asks question.]
+
+{JOBY/MARK: This is really more for Mark (though Joby can pre-structure the conversation to better accommodate it), but I'd rather see it as the player choosing to say the right things, rather than answering riddles. (Plus I don't know if Inifere is coherent enough to ask questions - he's kind of insane).
+
+So something like:
+[Inifere is wary, but is listening.]
+PR: I know you don't want the cultists to kill people.
+[Inifere listens more.]
+PR: Marcysa... you loved her didn't you.
+[Inifere nods, not trusting himself to say words.]
+PR: I can help you. I can change what happened to Marcysa. Just let me into your Merecaster.
+[Inifere reluctantly agrees.]
+
+Of course these would require other non-winning options as well (or alternative winning options might be okay too - whatever seems most fun for the player). -AH}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[The correct answer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Any of the bad answers... duplicate as needed]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[WRONG! Inifere attacks you to protect his merecaster.]
+{SCRIPT: continue the crisis...}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Well done. Now answer another...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Inifere asks another question.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[The correct answer.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Any of the wrong answers... duplicate as needed]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[After a number of such questions and correct answers, you earn his trust.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Inifere unlocks his merecaster.]
+{SCRIPT: start Inifere's mere}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Inifere says he was wrong, but will give him another chance.]
+{SCRIPT: chance = 1 and none of these chances are allowed again}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Inifere says he was wrong, but will give him another chance.]
+{SCRIPT: chance = 1 and none of these chances are allowed again}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Never has your body been a more welcome home than when returning from Inifere's mere. Though his wretchedness lingers in your memory, you see again through your own eyes, and even this horrific place seems more wholesome than the refuge where Inifere faced the Sorrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Before you can fully adjust to your return, Inifere screams, spraying flecks of spittle in your face: "Violator! Trespasser! Liar!"
+
+He immediately springs forward to attack.
+
+{CRISIS: Resume Crisis}
+{NOTE: This conditional can be adjusted to make it harder to trigger this outcome.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Inifere is saddened. The cultists are enraged. They attack the player, starting the Crisis, but the player has earned Inifere's trust (and perhaps just by trying has restored a little of Inifere's sanity): Inifere fights on the player's side.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Alternately: Inifere's intervention halts the Crisis entirely. Maybe he sacrifices himself to kick the party out of the Gate and close it, with him and his cultists inside.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Inifere stares at you with newfound recognition, but even as he does, you feel a dark presence stirring around you - the same one you sensed in the mere. Something has sensed your meddling, and means to put an end to it.
+
+Inifere smiles, for the first time without spite. "Brother," he says softly. "Not so little. Not so young. Now you are truly flesh of my flesh." Then he shudders as if he has taken a chill, and a shadow passes over his face.</DefaultText>
+      <FemaleText>Inifere stares at you with newfound recognition, but even as he does, you feel a dark presence stirring around you - the same one you sensed in the mere. Something has sensed your meddling, and means to put an end to it.
+
+Inifere smiles, for the first time without spite. "Sister," he says softly. "Not so little. Not so young. Now you are truly flesh of my flesh." Then he shudders as if he has taken a chill, and a shadow passes over his face.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"You've got the stink of manflesh on your tongue, brother," he hisses. "By choice. Dirty, dirty. Disgusting." He scrapes at a lesion on his left arm and cocks his head as if listening.
+
+"Yes. You're the one who fell, aren't you? We smelled you cooking in the sky. Always a black omen, a falling star. Our father in heaven never showers gifts. Always sows seeds of trouble. And the reaper comes to harvest. Crops we all are, till we come a cropper."</DefaultText>
+      <FemaleText>"You've got the stink of manflesh on your tongue, sister," he hisses. "By choice. Dirty, dirty. Disgusting." He scrapes at a lesion on his left arm and cocks his head as if listening.
+
+"Yes. You're the one who fell, aren't you? We smelled you cooking in the sky. Always a black omen, a falling star. Our father in heaven never showers gifts. Always sows seeds of trouble. And the reaper comes to harvest. Crops we all are, till we come a cropper."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Such a pretty brother. Father's loving touch on every inch of you. Born to run among the sunlit lilac, selah, singing hey-lai, hey-lai to the gusla's strum. Such splendid dreams." He scrapes at a lesion on his arm and cocks his head, listening.
+
+"But you're the one who fell, aren't you? We smelled you cooking in the sky. Always a black omen, a falling star. Our father in heaven never showers gifts. No. Sows trouble. And the reaper comes to harvest. Crops we all are, till we come a cropper."</DefaultText>
+      <FemaleText>"Such a pretty sister. Father's loving touch on every inch of you. Born to run among sunlit lilac, selah, singing hey-lai, hey-lai to the gusla's strum. Such splendid dreams." He scrapes at a lesion on his arm and cocks his head, listening.
+
+"But you're the one who fell, aren't you? We smelled you cooking in the sky. Always a black omen, a falling star. Our father in heaven never showers gifts. No. Sows trouble. And the reaper comes to harvest. Crops we all are, till we come a cropper."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Now you're wandered far away to where woe holds sway, poorly choosing when you chose, chose woes, here beyond the Gate, hate, hate, hate." He smirks, but you cannot tell if it's part of his madness or the hint of a method to it.
+
+"The Children love playmates. Your nieces, nephews. They've learned wild lessons as if from Father's lips. Pain, pain. Taught with teeth, Father did. And I gobbled up every scrap." Now he sneers. "But he *kissed* you, didn't he? Perhaps that's the sharper bite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"I want to speak with you first, to ask you some questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I'd like to ask more questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Inifere's smile widens, revealing teeth that are chipped and stained. "There is *so* much I could teach you, little brother."</DefaultText>
+      <FemaleText>Inifere's smile widens, revealing teeth that are chipped and stained. "There is *so* much I could teach you, little sister."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Inifere licks his lips and nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Of course," Inifere answers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Tell me about our father."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Tell me about our father again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Your brother's voice becomes low, calm, and careful. "His mind's as sharp and shining as a lancet, and all across our clan - all across this rotten world - are the scars left by his surgery."
+
+After a short silence, Inifere hacks a bitter cackle. "Isn't the make of the man obvious from his misbegotten offspring? Or do you find yourself so fine that you dream yourself a kingly sire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Study yourself, brother. His sins are written on our flesh."</DefaultText>
+      <FemaleText>"Study yourself, sister. His sins are written on our flesh."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Have you met any other castoffs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Inifere shakes his head. "Names, names, shames, blames, what of them?"
+
+His eyes grow unfocused and words pour from his mouth. "On Darnali the red blossoms bloom and in poets' mouths they're named fleshflowers, but have they *seen* flesh? I have - silverskin sheaths and yellow adipose clumps and white gristle... how unseemly seems man's unseamed self, how unmeet to these poetasters' versifying, how poorer tasting these versifiers' meat."
+
+"Marcysa." It comes as a sigh. "Marcysa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Speak plainly. Who was she?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"You loved her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"What happened to her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Wilted, gone. We press mortals between folio leaves, little brother - our father's folly - and try to keep them, and the pages bear their scent, till it fades, the dry flower crumbles in our touch, and all that lasts is written on the page, graven on the tomb. 'Marcysa.'"
+
+He strokes his tattoo - the same as yours. "Are we pressed, brother? Are we flowers? Pages? Hands that press? Marks that last?"
+
+He puts his empty hand before his mouth and puffs. "She is memory in a handful of dust."</DefaultText>
+      <FemaleText>"Wilted, gone. We press mortals between folio leaves, little sister - our father's folly - and try to keep them, and the pages bear their scent, till it fades, the dried flower crumbles in our touch, and all that lasts is written on the page, graven on the tomb. 'Marcysa.'"
+
+He strokes his tattoo - the same as yours. "Are we pressed, sister? Are we flowers? Pages? Hands that press? Marks that last?"
+
+He puts his empty hand before his mouth and puffs. "She is memory in a handful of dust."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I want to ask you about someone else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Tell me more about her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Ever-faithful servant, steward of the shrine, preacher of our creed." He smirks. "First among my apostles. Foremost among the devout."
+
+Your brother shrugs. "A woman. A mortal. Blood to bleed, skin to flay, a hoarse voice to howl holy horror unto the Children. A fool. A hook in my flesh. A fraud. A corpse to molder."
+
+His voice softens. "Time has laid her low. Time will level her farther still. She was one thing, and now she's another, and so on, even for us, little brother."</DefaultText>
+      <FemaleText>"Ever-faithful servant, steward of the shrine, preacher of our creed." He smirks. "First among my apostles. Foremost among the devout."
+
+Your brother shrugs. "A woman. A mortal. Blood to bleed, skin to flay, a hoarse voice to howl holy horror unto the Children. A fool. A hook in my flesh. A fraud. A corpse to molder."
+
+His voice softens. "Time has laid her low. Time will level her farther still. She was one thing, and now she's another, and so on, even for us, little sister."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Who was Marcysa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"I want to talk about Marcysa again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Inifere shrugs. "Scabs are for picking, scars for scraping."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Inifere laughs. "Oh, brother, brother, such romance, such sentiment. Were we star-crossed, dearest Marcysa, crossed by this star before me who fell from the heavens? Oh, what sweaty oaths we swore, heaving beneath the sheets, sweet, sweat, wet, weeping, eh, brother? Love! *Love*!" he pants the word.
+
+"Love." Inifere shakes his head. "You are naive and young. Father left the part that loves in the waste when he carved our flesh. We are dry and barren and she was a harrow on my fallow heart."</DefaultText>
+      <FemaleText>Inifere laughs. "Oh, sister, sister, such romance, such sentiment. Were we star-crossed, dearest Marcysa, crossed by this star before me who fell from the heavens? Oh, what sweaty oaths we swore, heaving beneath the sheets, sweet, sweat, wet, weeping, eh, sister? Love! *Love*!" he pants the word.
+
+"Love." Inifere shakes his head. "You are naive and young. Father left the part that loves in the waste when he carved our flesh. We are dry and barren and she was a harrow on my fallow heart."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"I have told you nothing," he answers, "and I will tell you nothing more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Your brother's eyes grow distant, and he seems seized by some vision. "Our father made me cry out, 'Here, I hear!' but fled in fear when they hailed him, ill-met, in a voice he could not bear... bore, borne, born in blood and pain as flesh decrees men should be."
+
+He returns to the moment, licks his lips, gestures at the hellscape around you. "This is the womb that wounds but welcomes home an alien brood, shelter from the Sorrow that shadows our blood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"What is this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Let's talk more about this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Yes, brother, let us."</DefaultText>
+      <FemaleText>"Yes, sister, let us."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Who are 'they' that you say live here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Help me destroy the creatures that dwell here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"What did you mean, 'shelter from the Sorrow'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Would I be allowed to leave?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Where *are* we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Inifere only laughs. "Better two ants make war on the seasons, brother."</DefaultText>
+      <FemaleText>Inifere only laughs. "Better two ants make war on the seasons, sister."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Yes," he answers, pondering. "Who? And are they 'they' or one or none but a shadow cast upon the planes, a mirror to our fear smirking back at us? They writhe, they rise, they reach across the void with whispering grips, groping blindly till a fool lights their way."
+
+Inifere leans in and whispers conspiratorially. "Did Father know their name? Did he dream who'd answer his call? Or did he, too, blindly blunder through the dark?" He shrugs. "No matter. It's done."
+
+"They are who they are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Surely, brother, you know what our father fled, why he fed, why he shucks off husks and hides like the shin beneath a huckster's shifting shells."
+
+Inifere studies your face. "I know you know - I see the Sorrow's horror behind your eyes. It will not cross the threshold of the Gate or face the fiends that lurk in this place. Is that why you came? To trade that terror's harrying for a measured measure of woe? You are welcome. You need only open your mind and they will open their arms to you."</DefaultText>
+      <FemaleText>"Surely, sister, you know what our father fled, why he fed, why he shucks off husks and hides like the shin beneath a huckster's shifting shells."
+
+Inifere studies your face. "I know you know - I see the Sorrow's horror behind your eyes. It will not cross the threshold of the Gate or face the fiends that lurk in this place. Is that why you came? To trade that terror's harrying for a measured measure of woe? You are welcome. You need only open your mind and they will open their arms to you."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Inifere shrugs his bony shoulders. "Beyond the Gate, brother. That is all."</DefaultText>
+      <FemaleText>Inifere shrugs his bony shoulders. "Beyond the Gate, sister. That is all."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"It does seem safer here. I will stay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"No. I did not come here so I could stay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Inifere's breathing slows and a sad smile comes to his face. "You know. You chose." 
+
+He shudders as if taken by a chill, and then you feel it, the Tides moving, swirling around your brother. He is pulling on them, and through them, on you, pulling down safeguards you never knew you had. There is something - something terrible - just beyond the limits of your senses, and those limits are being erased as your mind vastens and slops among the Tides.
+
+Any moment now...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Stop!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Wait for him to finish.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"They will do with you what they want, little brother."</DefaultText>
+      <FemaleText>"They will do with you what they want, little sister."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Inifere gives a hollow laugh. "Wise, brother, very wise. That is, if they permit it."</DefaultText>
+      <FemaleText>Inifere gives a hollow laugh. "Wise, sister, very wise. That is, if they permit it."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>The Tides' crescendo reaches its peak, and then there is silence. Inifere shakes his head. "You chose," he whispers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Then the pain comes, and you know at once there are worse sorrows than the Sorrow, worse ends than oblivion. 
+
+Inifere was bred to bear the brunt of this torment; you were not. In time - if time exists at all in this place - you learn what falsehoods you believed: that agony has a limit, that despair has a bottom, that the body will break if asked to bear too much.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Your voice sounds faint and distant, almost drowned by the rush of Tides around you. 
+
+But your brother hears you. His face twists with otherwise unseen exertion, and then slowly the Tides calm and the *thing* brushing against the borders of your mind withdraws. Or perhaps it is your mind that withdraws. Whatever the case, the peril is passed. 
+
+"And I will pay with pain again for my kin's abortive dalliance."
+
+{Alternatively, we could have this start the Crisis again, or perhaps have it be a DT:Int thing where if you fail it starts the Crisis again.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Are we still on the Ninth World?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Inifere just shrugs, again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Can you teach me about the Endless Gate?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Can you teach me *anything* about the Gate?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Your brother looks down and sighs. "Our father had me sup upon the learning of poets and priests, whores and hangmen, the high and the low. Do you think it sweet nectar, mead of delight, yea, keys to myriad mind-ways?"
+
+He laughs joylessly. "Oh, no, brother. Bitter, bitter, bitten off and chewed to chum, rotting in the gut, skist in the making." He stares at you. "It opened just one door, brother. One Gate."
+
+"I paid for the words racing through my mind. I shall spare you their purchase."</DefaultText>
+      <FemaleText>Your brother looks down and sighs. "Our father had me sup upon the learning of poets and priests, whores and hangmen, the high and the low. Do you think it sweet nectar, mead of delight, yea, keys to myriad mind-ways?"
+
+He laughs joylessly. "Oh, no, sister. Bitter, bitter, bitten off and chewed to chum, rotting in the gut, skist in the making." He stares at you. "It opened just one door, sister. One Gate."
+
+"I paid for the words racing through my mind. I shall spare you their purchase."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"I can." Inifere merely shakes his head. "I will not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>He smirks. "Couriers and courtiers to Paj Rekken and the Chalcedon, each eager to beleaguer the other leader with the horrors of the Gate, and no less eager to belabor to my weary ears their beloved cause, as if I could care for their wrangling and hissing over some scorched and charnel earth."
+
+He stretches his arms wide. "I reign over unbounded burning bloodlands. I need no more, and I am no warlord's cannon." His eyes narrow. "Cannons have a way of being spiked, little brother."</DefaultText>
+      <FemaleText>He smirks. "Couriers and courtiers to Paj Rekken and the Chalcedon, each eager to beleaguer the other leader with the horrors of the Gate, and no less eager to belabor to my weary ears their beloved cause, as if I could care for their wrangling and hissing over some scorched and charnel earth."
+
+He stretches his arms wide. "I reign over unbounded burning bloodlands. I need no more, and I am no warlord's cannon." His eyes narrow. "Cannons have a way of being spiked, little sister."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"I have no love for war, either."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Someday, you'll have to pick a side."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Why are they fighting?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Inifere just laughs. "It is not a matter of love, little brother."
+
+He waves off further discussion of the subject.</DefaultText>
+      <FemaleText>Inifere just laughs. "It is not a matter of love, little sister."
+
+He waves off further discussion of the subject.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Inifere slowly shakes his head. "Poor little brother: you've swallowed worse things than I. There's always another way. Even a coin can land on its edge."
+
+He waves off further discussion of the subject.</DefaultText>
+      <FemaleText>Inifere slowly shakes his head. "Poor little sister: you've swallowed worse things than I. There's always another way. Even a coin can land on its edge." 
+
+He waves off further discussion of the subject.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Inifere laughs. "Why are you scurrying after shadows with the Sorrow at your back? Why do I burn on a pyre of torment?"
+
+He steps forward as if to grab your shoulders, but then pulls back. "Who built the watch, little brother. Who turns its key? Who keeps the time?"
+
+The questions hang in the air for a moment, and then he waves off any further discussion of the subject.</DefaultText>
+      <FemaleText>Inifere laughs. "Why are you scurrying after shadows with the Sorrow at your back? Why do I burn on a pyre of torment?"
+
+He steps forward as if to grab your shoulders, but then pulls back. "Who built the watch, little sister. Who turns its key? Who keeps the time?"
+
+The questions hang in the air for a moment, and then he waves off any further discussion of the subject.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Why are your followers so bloodthirsty?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Oh, the Children long to guzzle many bitter brews, brother," Inifere answers, "but blood is not among them."
+
+"They put the stuff to other use, of course, use, juice, sprucing up the dismal tombs, and who can blame them for bringing color to such a somber land?" Inifere laughs, but it is a false laugh, and his eyes are filled with disgust.
+
+He sees that you've seen what's inside him, and scowls. His voice drops to a whisper.</DefaultText>
+      <FemaleText>"Oh, the Children long to guzzle many bitter brews, sister," Inifere answers, "but blood is not among them."
+
+"They put the stuff to other use, of course, use, juice, sprucing up the dismal tombs, and who can blame them for bringing color to such a somber land?" Inifere laughs, but it is a false laugh, and his eyes are filled with disgust.
+
+He sees that you've seen what's inside him, and scowls. His voice drops to a whisper.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"They're preaching, brother," he hisses, "spreading the Gate's good graces to the heathen flesh-eaters and milquetoast Memorialists." He shrugs. "Apotheosis by agony. They have my own *transcendence*," he spits the word, "and seek it for themselves and others."
+
+His voice lowers again. "It's the Gate, brother. It drives them mad as musth to a bellowheart. They hear the music of this place and it cries for a saber-dance."
+
+He raises his voice. "No door opens without a toll, brother."</DefaultText>
+      <FemaleText>"They're *preaching*, sister," he hisses, "spreading the Gate's good graces to the heathen flesh-eaters and milquetoast Memorialists." He shrugs. "Apotheosis by agony. They have my own *transcendence*," he spits the word, "and seek it for themselves and others."
+
+His voice lowers again. "It's the Gate, sister. It drives them mad as musth to a bellowheart. They hear the music of this place and it cries for a saber-dance."
+
+He raises his voice. "No door opens without a toll, sister."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Close the gate, then. Your followers are destroying the valley."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Oh, if 'must' could do the work we ask of it, what a glorious world we'd have - streets teeming with modest Shalls and groveling Needs scolded about by Oughts, and the Forbidden exiled beyond the high walls. What a world, brother, what a world!"
+
+He laughs.
+
+"But it is not our world. Here is what 'must' be in *our* world - pain and death, a bartering of the one against the other until that final day when the stars grow cold and, at last, no screams echo in the void. Till then..." He shrugs.</DefaultText>
+      <FemaleText>"Oh, if 'must' could do the work we ask of it, what a glorious world we'd have - streets teeming with modest Shalls and groveling Needs scolded about by Oughts, and the Forbidden exiled beyond the high walls. What a world, sister, what a world!"
+
+He laughs.
+
+"But it is not our world. Here is what 'must' be in *our* world - pain and death, a bartering of the one against the other until that final day when the stars grow cold and, at last, no screams echo in the void. Till then..." He shrugs.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"In any case, I fear your folly is quite profound. One does not say to the caged calyptor, 'Prithee, teach thy zookeepers better manners.'"
+
+The smile on his face is one of bared pain. "Make no mistake, brother, they are my keepers, not my followers. My only power over them is to open or close the Gate."</DefaultText>
+      <FemaleText>"In any case, I fear your folly is quite profound. One does not say to the caged calyptor, 'Prithee, teach thy zookeepers better manners.'"
+
+The smile on his face is one of bared pain. "Make no mistake, sister, they are my keepers, not my followers. My only power over them is to open or close the Gate."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"There are people I want to ask you about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"There are more people I want to ask you about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Inifere gives a wide, predatory smile. "Of course, brother. I have savored the company of many."</DefaultText>
+      <FemaleText>Inifere gives a wide, predatory smile. "Of course, sister. I have savored the company of many."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Inifere sighs. "You are an endless wellspring of questions, little brother."</DefaultText>
+      <FemaleText>Inifere sighs. "You are an endless wellspring of questions, little sister."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"I want to ask you about some of the people around the Valley of Dead Heroes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"They are nothing to me, brother, but walking shadows."</DefaultText>
+      <FemaleText>"They are nothing to me, sister, but walking shadows."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Inifere inhales slowly through flared nostrils and runs his tongue across his jagged teeth and ragged lips. "You are a bold one, brother, to goad a god in his domain."
+
+He closes his eyes and again breathes deeply. "She was... a heart that still beat. Eyes, before they lost their light. Muscle and baby fat, and organs spilled on a filthy floor, a purple liver and pink intestines sprawled in the dirt like a skist-stuffed serpent. So much blood in such a small body."</DefaultText>
+      <FemaleText>Inifere inhales slowly through flared nostrils and runs his tongue across his jagged teeth and ragged lips. "You are a bold one, sister, to goad a god in his domain."
+
+He closes his eyes and again breathes deeply. "She was... a heart that still beat. Eyes, before they lost their light. Muscle and baby fat, and organs spilled on a filthy floor, a purple liver and pink intestines sprawled in the dirt like an obscene, skist-stuffed serpent. So much blood in such a small body."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>He shakes off the memory with a shudder. "That is what we are, brother - skin-wrapped bits of flesh, bound to bone by sinew, sparked to life by a universe gone mad."
+
+Inifere sighs. "Snuffed out. But the cosmographers teach that even stars turn to ash. All existence grows cold as it gets wise to woes creation worked. She went fast. We go slow. In the end, there's just the end and nothing past it."
+
+He meets your eyes. "Do *not* mention her again or I will flay skin then bones then marrow."</DefaultText>
+      <FemaleText>He shakes off the memory with a shudder. "That is what we are, sister - skin-wrapped bits of flesh, bound to bone by sinew, sparked to life by a universe gone mad."
+
+Inifere sighs. "Snuffed out. But the cosmographers teach that even stars turn to ash. All existence grows cold as it gets wise to woes creation worked. She went fast. We go slow. In the end, there's just the end and nothing past it."
+
+He meets your eyes. "Do *not* mention her again or I will flay skin then bones then marrow."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Tell me about Choi, the murdered girl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Her name was Choi. She wasn't some carcass or a fading star. She was a little girl!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Inifere closes his eyes, and when he opens them, they are clear of madness and bright with hate.
+
+"You were warned, little brother. You chose."
+
+{CRISIS: Resume Crisis}</DefaultText>
+      <FemaleText>Inifere closes his eyes, and when he opens them, they are clear of madness and bright with hate.
+
+"You were warned, little sister. You chose."
+
+{CRISIS: Resume Crisis}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"There was a man named Ronos Cai'sul who hunted you down."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Inifere smirks. "A meddler and peddler of cheap hope, false friend, and would-be mender of men who broke his back bearing a pack of lies. And so he died, easing no lives, avenging no deaths, helpless, whelpless, gasping and grasping the horrors he sought to choke."
+
+"The knots that bind me to the Gate can't be sliced by a nano's knife - they're serpents with a sharper bite. Hack and they strike back, alas, alack, as, at the last, learned the learned Priest, who steeply paid for the teaching."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>After a moment, the smile - never quite real - slips from your brother's face. "He was not a bad man, little brother, just a blind one, blinded by grief and by staring too long at what should go unseen. He would have done better to watch where he stepped. But the Aeon Priests were right to raise a marker in his memory."
+
+You sense you'll get nothing more lucid out of Inifere on the subject.</DefaultText>
+      <FemaleText>After a moment, the smile - never quite real - slips from your brother's face. "He was not a bad man, little sister, just a blind one, blinded by grief and by staring too long at what should go unseen. He would have done better to watch where he stepped. But the Aeon Priests were right to raise a marker in his memory."
+
+You sense you'll get nothing more lucid out of Inifere on the subject.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"*Locked,* little brother, not 'broken.' Or, better yet, disarmed, unfanged. I scoured far and burrowed deep to make this mine, this mine primed for my mind, set to blast apart the husk our father left behind."
+
+He smirks. "Or did you think it a toy, brother, a spyglass to scry past where your eyes can see, an iron bar to pry me open, a way to wallow in the soiled oily wake I've left upon the Tides?"
+
+"I found it. Hid it. *Locked* it. In your hand it's just ballast, nothing more."</DefaultText>
+      <FemaleText>"*Locked,* little sister, not 'broken.' Or, better yet, disarmed, unfanged. I scoured far and burrowed deep to make this mine, this mine primed for my mind, set to blast apart the husk our father left behind."
+
+He smirks. "Or did you think it a toy, sister, a spyglass to scry past where your eyes can see, an iron bar to pry me open, a way to wallow in the soiled oily wake I've left upon the Tides?"
+
+"I found it. Hid it. *Locked* it. In your hand it's just ballast, nothing more."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"I think you wanted it found. Why else would you hide it in a tomb that is tied so closely to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Unlock it for me, and I'll use it to help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"I've already unlocked it, Inifere. And if you don't leave the Valley, I'll use it to destroy you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"What reason does your cult have to hate the Dendra O'Hur?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Inifere scrapes viciously at the back of his hand, but draws no blood. "Hate, brother?" He clucks his tongue. "It is *mercy* we show in slaughtering them, mercy to the world, mercy to the man-eaters themselves."
+
+He digs deeper with his nails, and now wine-dark blood wells out. "Every death depletes the world's store of sorrows. But the Dendra dredge it back up, like scavengers digging through the graves of the poisoned dead, like slurgen slurping bloated fish from a heavy-metal sump."</DefaultText>
+      <FemaleText>Inifere scrapes viciously at the back of his hand, but draws no blood. "Hate, sister?" He clucks his tongue. "It is *mercy* we show in slaughtering them, mercy to the world, mercy to the man-eaters themselves."
+
+He digs deeper with his nails, and now wine-dark blood wells out. "Every death depletes the world's store of sorrows. But the Dendra dredge it back up, like scavengers digging through the graves of the poisoned dead, like slurgen slurping bloated fish from a heavy-metal sump."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Inifere looks at his bleeding hand and wipes it on his pants. "There is a blight in humanity, brother, and death alone can cure it. The Dendra would rob our sickly race of its only medicine."
+
+He smiles, thin and hard. "So we must cure them first, eh?"</DefaultText>
+      <FemaleText>Inifere looks at his bleeding hand and wipes it on his pants. "There is a blight in humanity, sister, and death alone can cure it. The Dendra would rob our sickly race of its only medicine."
+
+He smiles, thin and hard. "So we must cure them first, eh?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"I want to talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"I want to know about you, how you came here, how all this happened."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Please, tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"You do not, brother, for all you think you do." He rolls his neck slowly, cracking each vertebra. "There will come a day when you'll wish to vomit up the pain that fills you unto bursting, when you'll regret gorging so long at the feast of others' suffering."
+
+He smiles, genuinely it seems, though sadly. "But you will not have me to blame on that day."</DefaultText>
+      <FemaleText>"You do not, sister, for all you think you do." He rolls his neck slowly, cracking each vertebra. "There will come a day when you'll wish to vomit up the pain that fills you unto bursting, when you'll regret gorging so long at the feast of others' suffering."
+
+He smiles, genuinely it seems, though sadly. "But you will not have me to blame on that day."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"You are asking the wrong questions, little brother, and seeking to peek behind the wrong door. Leave it closed."</DefaultText>
+      <FemaleText>"You are asking the wrong questions, little sister, and seeking to peek behind the wrong door. Leave it closed."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Leave that door closed, brother."</DefaultText>
+      <FemaleText>"Leave that door closed, sister."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>[Attack] "This is for Choi, and all the others!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Inifere blinks twice and swallows. He seems taken aback by your suggestion.
+
+"But why?" he asks, finally, as if doubting his own mind. "Why would I want it found?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Because you want someone to look into it and understand you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Because you want someone to use it to destroy you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Because you want someone to use it to help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Perhaps it wasn't *your* want, brother. Perhaps it was someone else's idea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Inifere reels back, as if you'd struck him across the face. "No," he whispers. "No, no, no!" 
+
+And then: "Yes." His eyes open, fever-bright, and he hisses, "Why build a moon if not to pull at our Tides? Tides, ties, tied like a puppet on strings, strummed like the gusla, humming his song."
+
+He lunges forward and grabs your shoulders. "Give it to me, brother, and I'll go to the sea and sink it in the Sound's unsounded depths, and never hear of it again."
+
+"Give it to me, or I'll take it!"</DefaultText>
+      <FemaleText>Inifere reels back, as if you'd struck him across the face. "No," he whispers. "No, no, no!" 
+
+And then: "Yes." His eyes open, fever-bright, and he hisses, "Why build a moon if not to pull at our Tides? Tides, ties, tied like a puppet on strings, strummed like the gusla, humming his song."
+
+He lunges forward and grabs your shoulders. "Give it to me, sister, and I'll go to the sea and sink it in the Sound's unsounded depths, and never hear of it again."
+
+"Give it to me, or I'll take it!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Inifere scoffs. "You're not the first to flash that fly above me, thinking I'll strike. But I see the barbs hiding inside, ready to hook me at the first bite, ready to drag me out to where you can gut me, grope about inside me, grabble and garble and gobble what you want of me. No, little brother, I'll stay down in the muck, and that bauble will stay safe in its lock."</DefaultText>
+      <FemaleText>Inifere scoffs. "You're not the first to flash that fly above me, thinking I'll strike. But I see the barbs hiding inside, ready to hook me at the first bite, ready to drag me out to where you can gut me, grope about inside me, grabble and garble and gobble what you want of me. No, little sister, I'll stay down in the muck, and that bauble will stay safe in its lock."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Inifere shakes his head. "Father made us in defiance of death, brother, and he wrote that in our blood, with our blood. We'll spurn death to the last, until at last the hunter runs us down and finds us gnawing at our limbs like beasts in a trap."
+
+He bares his teeth. "I can bear the taste, little brother. I've eaten worse."</DefaultText>
+      <FemaleText>Inifere shakes his head. "Father made us in defiance of death, sister, and he wrote that in our blood, with our blood. We'll spurn death to the last, until at last the hunter runs us down and finds us gnawing at our limbs like beasts in a trap."
+
+He bares his teeth. "I can bear the taste, little sister. I've eaten worse."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Take it, and leave the Valley."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Inifere snatches the twisted Merecaster from your hand and sighs. His eyes close, and you feel the world about you begin to shift and churn. Everything grows dark and empty, save for voices almost as soft as silence itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Then, the voices are gone and your senses return to you: the scrape of your foot on stone, the sound of your heartbeat in your ears.
+
+You're back where you were before you entered the Endless Gate. The Gate is gone. And so is Inifere.
+
+{NOTE: Ends the conversation, ends the Crisis, Inifere leaves the VoDH, TEH quest is completed, TSC quest is failed if active. Move party back to Marcysa's tomb / entry to The Endless Gate.  Gate is now closed, Inifere is now gone.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Inifere stares at the twisted Merecaster in your hand and shudders. His eyes close, and you feel the world about you begin to shift and churn. Everything grows dark and empty, save for voices almost as soft as silence itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Now you will lie where your lies have left you, little brother."
+
+{CRISIS: Resume Crisis.}</DefaultText>
+      <FemaleText>"Now you will lie where your lies have left you, little sister."
+
+{CRISIS: Resume Crisis.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>Inifere shakes his head. "Fare well? No, little brother. There is a fair chance we'll fare poorly."
+
+You sense something shifting in the air around you, the ground beneath you. There's a rumbling you can't quite hear, speaking words you can't quite understand.
+
+"There's a fare to pay for those who cross the plane this way, weighed in pain, a toll for the soul to thole."
+
+He sighs, then readies himself. "And I am bound to collect it."
+
+{CRISIS: Resume Crisis}</DefaultText>
+      <FemaleText>Inifere shakes his head. "Fare well? No, little sister. There is a fair chance we'll fare poorly."
+
+You sense something shifting in the air around you, the ground beneath you. There's a rumbling you can't quite hear, speaking words you can't quite understand.
+
+"There's a fare to pay for those who cross the plane this way, weighed in pain, a toll for the soul to thole."
+
+He sighs, then readies himself. "And I am bound to collect it."
+
+{CRISIS: Resume Crisis}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"'Help,'" he scoffs. "You're not the first to flash that fly above me, thinking I'll strike. But I see the barbs hiding inside, ready to hook me at the first bite, ready to drag me out to where you can gut me, grope about inside me, grabble and garble and gobble what you want of me."
+
+He shakes his head. "No, little brother, I'll stay down in the muck, and that bauble will stay safe in its lock."</DefaultText>
+      <FemaleText>"'Help,'" he scoffs. "You're not the first to flash that fly above me, thinking I'll strike. But I see the barbs hiding inside, ready to hook me at the first bite, ready to drag me out to where you can gut me, grope about inside me, grabble and garble and gobble what you want of me."
+
+He shakes his head. "No, little sister, I'll stay down in the muck, and that bauble will stay safe in its lock."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"You're not a fish, Inifere, and I'm not an angler. We're in the same boat, and we need to pull together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"If I want to gut you, I won't need a Merecaster. Now unlock it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"I helped Matkina using a Merecaster, and I can do the same for you. I promise."
+
+{ADAM/COLIN/WHOEVER: If we ever put in Riastrad, I suppose this needs variants for him alone, or both him and Matkina.}
+
+{SCRIPT: Pls check to make sure I used the correct conditional.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"If you don't want my help, fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Inifere just laughs, laughs and laughs as tears roll down his cheeks in filthy rivulets. "Brother, brother," he says again and again, doubled over, gasping.
+
+Finally, the fit subsides, and he stands back up. "O, little brother, you are reaching for a fire and vowing a tantrum if I don't let you burn your hand."
+
+He takes the Merecaster and gives it a few twists and turns, then passes it back.
+
+"Be careful what you fight for."</DefaultText>
+      <FemaleText>Inifere just laughs, laughs and laughs as tears roll down his cheeks in filthy rivulets. "Sister, sister," he says again and again, doubled over, gasping.
+
+Finally, the fit subsides, and he stands back up. "O, little sister, you are reaching for a fire and vowing a tantrum if I don't let you burn your hand."
+
+He takes the Merecaster and gives it a few twists and turns, then passes it back.
+
+"Be careful what you fight for."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Inifere raises an eyebrow. "I've heard far worse words, brother, and more than men have menaced me. I've bled on blades that flayed and flensed my sullied frame, been burned by flames with pain past sense, and watched my flesh and skin reknit."
+
+He raises his shirt, revealing a slack belly mottled with stretch marks and scars. "Cut, if you care, gut, if you dare." A moment later, he lowers the ragged cloth.
+
+"There are better battles to fight, brother, and it's a bitter fate you're baiting."</DefaultText>
+      <FemaleText>Inifere raises an eyebrow. "I've heard harder words, sister, and worse than women have menaced me. I've bled on blades that flayed and flensed my sullied frame, been burned by flames with pain past sense, and watched my flesh and skin reknit."
+
+He raises his shirt, revealing a slack belly mottled with stretch marks and scars. "Cut, if you care, gut, if you dare." A moment later, he lowers the ragged cloth.
+
+"There are better battles to fight, brother, and it's a bitter fate you're baiting."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Inifere sneers. "A wanton wants a stranger's probing, but whatever help is won that way is wont to go as quickly as it came."
+
+He pursues his lip like a burlesque coquette, then spits. "Father left me few favors to trade, brother, and the flowers of my mind need no new boots to trample them."
+
+With a wave of his hand, your brother makes clear he is done talking about the Merecaster.</DefaultText>
+      <FemaleText>Inifere sneers. "A wanton wants a stranger's probing, but whatever help is won that way is wont to go as quickly as it came."
+
+He pursues his lip like a burlesque coquette, then spits. "Father left me few favors to trade, sister, and the flowers of my mind need no new boots to trample them."
+
+With a wave of his hand, your brother makes clear he is done talking about the Merecaster.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>Inifere stares at you, and you watch as tiny capillaries burst in his eyes, red wounds in the already bloodshot whites. His raw lips form half-made words that go unspoken. Each hand scrapes the other, raising pink ridges like dunes in the sunset.
+
+At last he nods, and takes the Merecaster in his hands, twisting and turning it without his eyes ever leaving yours. He hands it back. 
+
+"Have it," he says. "Have it all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Inifere smiles sadly. "Poor brother... the Tides will bear us where they will, will-we nill-we, and all our straining striving would but serve to tip the boat."
+
+The smile fades. "I've seen what swims below the surface, brother, and sipped the salty waters of the sea. The world's tears, brother, the world's piss. Better you stay in your boat, and I in my muck, the stars in the heavens and the dead in the earth."
+
+He falls silent, and flicks a finger as if to urge you on to some new subject.</DefaultText>
+      <FemaleText>Inifere smiles sadly. "Poor sister... the Tides will bear us where they will, will-we nill-we, and all our straining striving would but serve to tip the boat."
+
+The smile fades. "I've seen what swims below the surface, sister, and sipped the salty waters of the sea. The world's tears, brother, the world's piss. Better you stay in your boat, and I in my muck, the stars in the heavens and the dead in the earth."
+
+He falls silent, and flicks a finger as if to urge you on to some new subject.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Inifere, please - let me use the Merecaster to help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Your brother shakes his head, unmoved.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Ronos Cai'sul wrote that you were a prisoner. A slave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Inifere shrugs. "We are born into a coffin of flesh, little brother, and even our minds are caged by pain and the fear of pain and the memory of pain. *Life* is our prison. We call its pressing walls and low roof our home, and guard it with all our captive strength against any liberator fool enough to jangle the keys to our cell."
+
+He shrugs again. "I am no better. My wardens bend their knees and call me Master. But Cai'sul was right. I am a slave. So was Cai'sul. So are you. Even Father."</DefaultText>
+      <FemaleText>Inifere shrugs. "We are born into a coffin of flesh, little sister, and even our minds are caged by pain and the fear of pain and the memory of pain. *Life* is our prison. We call its pressing walls and low roof our home, and guard it with all our captive strength against any liberator fool enough to jangle the keys to our cell."
+
+He shrugs again. "I am no better. My wardens bend their knees and call me Master. But Cai'sul was right. I am a slave. So was Cai'sul. So are you. Even Father."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>It seem as if your brother is about to say more, then he considers and chews on his lip. The words come at last, low and slow: "The Children saw in my agony a path to freedom. The grave-worshipers have a road of their own." 
+
+He shakes his head. "But our father seeks fetters, the better to bind him, an armor of chains against the world's banes, an adamantine oubliette, safe from the haunts the hound him."
+
+"I am no better," Inifere says again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Darkness comes... not quite *over* you so much as *out* of you, as if your eyes were rolling back and staring into the black recesses behind them, into the blacker morass of your mind, and into something blackest of all beyond that.
+
+You feel it in your marrow, your fingertips, your gut: a stab of reflective pain, an electric sensitivity, an upheaval of unwholesome chyme. You're remembering a memory of a moment you never lived, a memory awash in self-loathing.
+
+Then the darkness becomes absolute...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Inifere looks to Matkina who gives a quick nod. "He can change it, Inifere. No one else can. He can *fix* it."</DefaultText>
+      <FemaleText>Inifere looks to Matkina who gives a quick nod. "She can change it, Inifere. No one else can. She can *fix* it."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Inifere takes a long, deep breath. He taps his fist against his forehead and looks at the horrorscape around him, his eyes alighting on everything but his two siblings.
+
+At last he nods and, still without looking, takes the Merecaster out of your hand, twisting and turning it without ever looking at the device. He hands it back with a shake of his head.
+
+Your brother meets your eyes with a hard, half-dead stare. "Our minds are more dangerous than cyphers, brother. Meddle at your peril."</DefaultText>
+      <FemaleText>Inifere takes a long, deep breath. He taps his fist against his forehead and looks at the horrorscape around him, his eyes alighting on everything but his two siblings.
+
+At last he nods and, still without looking, takes the Merecaster out of your hand, twisting and turning it without ever looking at the device. He hands it back with a shake of his head.
+
+Your brother meets your eyes with a hard, half-dead stare. "Our minds are more dangerous than cyphers, sister. Meddle at your peril."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Inifere shakes his head. "By your fall, brother, you've stirred a Sorrow worse than woe, a foe that roves and reaves with no reason, no season, no ceasing. But here that horror fears to roam."
+
+His face twists. "You think me a coward? A snake-bitten man steps around a coiled rope."
+
+He encompasses the hell around you in a broad gesture. "Better to die, you think? Oh, no, little brother. Life is a cardsharp. It puts you too deep in debt to quit the game, too poor to wager against its bluff."</DefaultText>
+      <FemaleText>Inifere shakes his head. "By your fall, sister, you've stirred a Sorrow worse than woe, a foe that roves and reaves with no reason, no season, no ceasing. But here that horror fears to roam."
+
+His face twists. "You think me a coward? A snake-bitten man steps around a coiled rope."
+
+He encompasses the hell around you in a broad gesture. "Better to die, you think? Oh, no, little sister. Life is a cardsharp. It puts you too deep in debt to quit the game, too poor to wager against its bluff."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>He shrugs. "You would talk of *closing*, brother, but instead let's broach another gate, part the horn-wrought portal that haunts our sleep."
+
+Inifere's eyes widen and his voice drops to a whisper. "I dream, little brother. I dream, and I doubt. Listen, and tell me what you hear, what I have seen."</DefaultText>
+      <FemaleText>He shrugs. "You would talk of *closing*, sister, but instead let's broach another gate, part the horn-wrought portal that haunts our sleep."
+
+Inifere's eyes widen and his voice drops to a whisper. "I dream, little sister. I dream, and I doubt. Listen, and tell me what you hear, what I have seen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Very well, tell me your dream."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Interpreting dreams is a charlatan's game - they can come from your misfiring mind, what you ate, glimmers from the datasphere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Close the Gate, and then we'll talk of dreams."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"'What you ate,'" he echoes, shaking his head.
+
+"I don't seek the truth in my dream, or in your mouth - I've tasted it, tested it, on my tongue, and found it bitter, brother, better undigested." He spits. "What I want is *meaning.* A man who feeds on truth is starved of it. Let us harvest it from my dreams so that I can taste it again."
+
+"Then," he adds, "we can speak of closing the Gate."</DefaultText>
+      <FemaleText>"'What you ate,'" he echoes, shaking his head.
+
+"I don't seek the truth in my dream, or in your mouth - I've tasted it, tested it, on my tongue, and found it bitter, sister, better undigested." He spits. "What I want is *meaning.* A man who feeds on truth is starved of it. Let us harvest it from my dreams so that I can taste it again."
+
+"Then," he adds, "we can speak of closing the Gate."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>Inifere shakes his head. "I seek closure of my own, brother."</DefaultText>
+      <FemaleText>Inifere shakes his head. "I seek closure of my own, sister."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Fine, tell me about your dream."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>Inifere closes his eyes and his voice seems to settle into something like a reverie.
+
+"The child screams in my dream, in his arms, bent on harm, in his hands, strong fingers clutching the brat, hoisting it up to his lips, bloody, flesh-flecked teeth. The brute bolts the brat's flank in one great gulp, the child shrieking still, shrill, the man's wild eyes stare straight through me, a grisly grin, a knowing wink."
+
+Inifere opens his own eyes then. "So?" he asks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"The child is Choi, and the cultist who killed her is eating her. He's winking because he means to kill again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"The screaming child is Choi, and you are the one eating her. Hence the wink."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"You are the child, and it is Father eating you. He's winking because he thinks you're helpless to stop him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"The child is one of the Children, and the killer is one of the cult's enemies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>Inifere's face gives no indication of how he has taken your interpretation. He merely closes his eyes again, and continues.
+
+"Fire rises, stinks of skin and hair aflame, greasy ropes of smoke groping skyward, soot snowing upon the plain, plain gray, the hush of ash shushing the howls. Peace."
+
+His eyes open. "And this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"The burning rage of the Gate destroys guilty and innocent alike."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Destruction can bring an end to suffering."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"All wrongs are annihilated in the inevitable end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>Inifere nods, without comment or commitment, and shuts his eyes.
+
+"The flames abate. The smoke-clouds gape and rain runs in gray veins from the sky across the land, fast-falling drops and slow-flowing rills. The dirt churns to muck, and from the earth bursts a blossom, carrion-white, a stalk like chalk thrusting at the parted heavens, huge and flush and fleshy. It lives but reeks of death."
+
+He opens his eyes. "And then I wake."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Those who kill the innocent will burn, and the ugliness of their crime will be seen far and wide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Good can spring out of past wrongs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"You mentioned 'fleshflowers' when I asked about Marcysa, and saving memories like pressed blossoms. Maybe her memory's sickening you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"An arum flower. Its stench draws flesh-flies, trapping them to fill them with pollen. It deceives and uses them, just as the Gate does the Children."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Clearly the thought of reproduction disgusts you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>Again, Inifere hardly seems to register your answer. He simply blinks several times and shakes his head, as if clearing his thoughts.
+
+"You would I close the Gate? Convince me, is that what my dream truly means?"
+
+{ADAM/COLIN/GEORGE: Do you think we should have a Tidal Surge option here?  I kind of think yes?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Yes, that's what it means. And there's a lesson in it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"No, Inifere. It means that your mind is deeply troubled, probably by the Gate. Close it, and seek help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Life cannot be stopped with violence - it merely adapts into new, grotesque forms."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>Inifere snaps out of his reverie and hisses. "I told you not to mention her again!" he howls. "You were warned! You chose!"
+
+He drops into a fighting posture.
+
+{CRISIS: Resume Crisis.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"The child represents the Memorialists, and the killer represents the Children. He winks because you are complicit in this crime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"There is no meaning to it. It's all nonsense. What matters is closing the Gate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Close the Gate, Inifere, or that will be the last dream you've ever had."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>Inifere laughs softly. "Brother, our lives are scribbles on a palimpsest that will never be read. The hand writes by rote and the page rots by entropy's writ. What matters is the wounded nib, the gushing ink, the trembling barbules, and even all that lasts but a breath till the quill is cast aside. I do not take your dictation, brother. It is not written in my head that the Gate will close, nor have you read that in my dream. So let us speak of other things."</DefaultText>
+      <FemaleText>Inifere laughs softly. "Sister, our lives are scribbles on a palimpsest that will never be read. The hand writes by rote and the page rots by entropy's writ. What matters is the wounded nib, the gushing ink, the trembling barbules, and even all that lasts but a breath till the quill is cast aside. I do not take your dictation, sister. It is not written in my head that the Gate will close, nor have you read that in my dream. So let us speak of other things."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>Inifere swallows, and glances about at the horrors all around him. Then he meets your eyes and nods. "So be it," he whispers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Hard words, little brother, hardly heard. Had I any fear, it would not be here, where the dark ones' dark love fills me like long, strong fingers in a glove." He cocks his head and the vertebrae in his neck pop like knuckles. 
+
+"But this is my haven, free from craven reavers craving to rob me of my repose. So let's see if this dream-doom you've deemed for me will be, shall we?"
+
+Inifere steps back and readies for battle.
+
+{ADAM: Here and elsewhere (i.e., the first node) it mentions others being present. I have no idea how the crisis works well enough to know whether it's possible to get to Inifere with all the cultists dead. Let me know if this needs adjusting.}</DefaultText>
+      <FemaleText>"Hard words, little sister, hardly heard. Had I any fear, it would not be here, where the dark ones' dark love fills me like long, strong fingers in a glove." He cocks his head and the vertebrae in his neck pop like knuckles. 
+
+"But this is my haven, free from craven reavers craving to rob me of my repose. So let's see if this dream-doom you've deemed for me will be, shall we?"
+
+Inifere steps back and readies for battle.
+
+{ADAM: Here and elsewhere (i.e., the first node) it mentions others being present. I have no idea how the crisis works well enough to know whether it's possible to get to Inifere with all the cultists dead. Let me know if this needs adjusting.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>Inifere takes a step back, then reaches out toward you, as if to take your hand, before he jerks even further away.
+
+"Yes," he says. "I must leave this cursed course coarsening my mind, and find a different way to the waiting end."
+
+"Yes," he says again, more to himself than you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"My sweet brother, you see a sea of sorrow and say, 'Swim up, I'll pull you free.' But salt water runs in my veins, and the Tides tug on my mind. I'm not a drowning man, little brother. I am a sponge, which has no lungs for the blissful air you breathe."
+
+He rocks back on his heels and shakes his head. "The Gate will not close, for through it flows the current of my brackish, blackened soul."</DefaultText>
+      <FemaleText>"My sweet sister, you see a sea of sorrow and say, 'Swim up, I'll pull you free.' But salt water runs in my veins, and the Tides tug on my mind. I'm not a drowning man, little sister. I am a sponge, which has no lungs for the blissful air you breathe."
+
+He rocks back on his heels and shakes his head. "The Gate will not close, for through it flows the current of my brackish, blackened soul."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Yes," your brother hisses, "yes. You've rightly read the wrongs written in my head. I see it. Your words have the rich savor of truth, little brother."
+
+He closes his eyes and sighs, steepling his long, gnarled fingers.</DefaultText>
+      <FemaleText>"Yes," your brother hisses, "yes. You've rightly read the wrongs written in my head. I see it. Your words have the rich savor of truth, little sister."
+
+He closes his eyes and sighs, steepling his long, gnarled fingers.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>Inifere shakes his head. "Brother, the blind are not meant to lead the mad. The tale you tell signifies nothing. Its lesson tallies less than the breath we've wasted."
+
+He shrugs. "My mind is closed, little brother, but the Gate will stay open."</DefaultText>
+      <FemaleText>Inifere shakes his head. "Sister, the blind are not meant to lead the mad. The tale you tell signifies nothing. Its lesson tallies less than the breath we've wasted."
+
+He shrugs. "My mind is closed, little sister, but the Gate will stay open."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>At last, Inifere opens his eyes. "Yes," he says. "The Gate will close. You've whispered my own thoughts in my ear, and they say to stray from this cursed course coarsening my mind."
+
+"Yes," he says again, more to himself than you.
+
+{NOTE: This conditional can be adjusted to make it easier or harder to properly interpret his dream.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>At last, Inifere opens his eyes. "But no," he says. "The Gate will not close. You've whispered my own thoughts in my ear, but they say to stay the course that has borne me thus far."
+
+He shrugs. "So let us speak of other things."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>Inifere seals his eyes shut and begins to howl. You feel the world about you shifting and churning. Everything grows dark and empty, save for voices almost as soft as silence itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Let us trade in pain, my kin."
+
+{CRISIS: Resume Crisis.}</DefaultText>
+      <FemaleText>"Let us trade in pain, little sister."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>
+
+Something else has come with you from the mere, however: Choi's consciousness, or ghost, or whatever you pulled free from Inifere's mind. You feel her hiding, trembling, somewhere inside you, and then she seems to vanish.
+
+{MARK: What global is supposed to trigger this addendum?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Inifere, you need to close the Gate. Now. Before they take control of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Kill yourself, brother. Atone for Choi's death. End the crimes done in your name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Let me leave here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"I'd like to ask you some more questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>For a moment, Inifere seems ready to invite your inquiry. Then his smile grows wide and wolfish, his eyes wild. He laughs.
+
+"Always grasping, clasping, rasping at my thoughts, trying with wiles to file my mind to a shape that suits your needs. No. No, brother. Now we will see how you care to be carved upon."
+
+And with that, he readies himself for battle.
+
+{CRISIS: Resume Crisis.}</DefaultText>
+      <FemaleText>For a moment, Inifere seems ready to invite your inquiry. Then his smile grows wide and wolfish, his eyes wild. He laughs.
+
+"Always grasping, clasping, rasping at my thoughts, trying with wiles to file my mind to a shape that suits your needs. No. No, sister. Now we will see how you care to be carved upon."
+
+And with that, he readies himself for battle.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>Inifere nods and waves for you to go. But his arm stops mid-gesture, and his open hand closes into a fist. He whispers, "I'm sorry, brother."
+
+Then his smile widens and bares broken teeth. "There are those who want you here, and they are the ones who choose."
+
+And with that, he readies himself for battle.
+
+{CRISIS: Resume crisis.}</DefaultText>
+      <FemaleText>Inifere nods and waves for you to go. But his arm stops mid-gesture, and his open hand closes into a fist. He whispers, "I'm sorry, sister."
+
+Then his smile widens and bares broken teeth. "There are those who want you here, and they are the ones who choose."
+
+And with that, he readies himself for battle.
+
+{CRISIS: Resume crisis.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>Inifere scowls. "All that ends in death is he who dies, brother. Let us see whose sands have run out."
+
+And with that, he readies himself for battle.
+
+{CRISIS: Resume Crisis.}</DefaultText>
+      <FemaleText>Inifere scowls. "All that ends in death is he who dies, sister. Let us see whose sands have run out."
+
+And with that, he readies himself for battle.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>Inifere seals his eyes shut and begins to howl. You feel the world about you shifting and churning. Everything grows dark and empty, save for voices almost as soft as silence itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>Your brother nods. "This place has brought but woe and false hope. Let it go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>Your brother nods. "Yes. I will see if the Sorrow cares to taste again the woes that flow within me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>Your brother trembles, slightly, and a sound almost like a whimper escapes his lips. "Yes," he whispers. "You have seen the pain Father chained to my soul, the woes that weigh on my mind. Let it end."
+
+Inifere shuts his eyes, and his face slackens with serenity. It is the look of one floating in a dream. Then, with a sigh, he falls forward.
+
+You feel the world about you shifting and churning. Everything grows dark and empty, save for voices almost as soft as silence itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>He sees the twisted merecaster in your possession, and his eyes creak open, a sudden hunger and *anger* laid bare in them.
+
+Then it is gone, but you notice he glances at the merecaster every few moments, as though to assure himself it is still there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Can you teach me anything else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Where are we again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Beyond the Gate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>Script Node 302</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"Back to your worships, Children!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>[These guests are mine to inspect]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"There was a man named Ronos Cai'sul who hunted you down."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"Ronos Cai'sul wrote that you were a prisoner. A slave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"The screaming child is Ch... an actual child, and you are the one eating her. Hence the wink."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"The child is Ch... an actual child, and the cultist who killed her is eating her. He's winking because he means to kill again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"The screaming child is Choi, and you are the one eating her. Hence the wink."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"The child is Ch... an actual child, and the cultist who killed her is eating her. He's winking because he means to kill again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>[DEBUG] Inifere lets me into his Mere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"That's why you protected Kiyatawa. She reminds you of Marcysa somehow, doesn't she?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>Inifere says nothing, but his furtive glances at everything but you say enough.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"And in the company of one of our father's toys," he says, eyeing Oom. "He breaks them all, given time. This one would tell you as much, could it speak."
+
+Oom does not, but its pupiless gaze seems distant nonetheless. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

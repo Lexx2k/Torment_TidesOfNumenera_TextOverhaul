@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_quijano_del_toboso</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>88</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Ask him to help you fight the Nychthemeron.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Farewell, Quijano del Toboso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I will stand vigil here until your return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>::humming::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>This scrawny old man practically rattles inside dull and dented armor that was clearly made for someone bigger than him. Nonetheless, his eyes burn with a bottomless fire, and his smile - as fierce as it is genuine - flashes beneath his graying thicket of a beard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Another knight!" he bellows, clapping your shoulders with his gauntleted hands. You barely keep your feet - the man is stronger than he looks. 
+
+"Another hero in search of great adventure! You stand before the wandering knight Quijano del Toboso! What brings you to the summit of Mount Ithiador?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"You said you're looking for a great adventure?"
+
+{COLIN/GEORGE: Should there be conditions on this node so it only appears if Quijano can be sent on at least one of the possible adventures? Leaving alone for now as that might be a snarl of conditionals, and his initial warning might justify the lack of options that follows.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I may know of an enemy that is worthy of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Yes! But I feel I must speak plainly," he says, plucking at his beard. "Too many people have mistaken me for a common mercenary."
+
+He straightens. "I am not interested in entangling myself in local quarrels. I will not hunt a beast that cannot hunt me in return! And if I am to fight, it must be against a foe of such wickedness that the stars themselves would wink out rather than shine upon a world that could harbor such malevolent creatures!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I can only pray that you are right, good knight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>""
+{GAVIN: Consider for addition after 1E if Kholn Village is included. Hiding with blank global.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"The Children of the Endless Gate slaughtered innocents in the Underbelly. Will you hunt them down?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I've changed my mind. You should hunt down the Children of the Endless Gate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I am looking for warriors who will help me fight a nychthemeron in the Reef."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I want to talk to you about fighting the nychthemeron in the Reef."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Another topic? Excellent. I have been too long without good company."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Yes?" he says, looking disappointed. "What sort of beast is that, then? It sounds like a fish."
+
+He misjudges your expression and raises his gauntlets. "Fish *can* be fearsome foes. I am not belittling your quest! But one must only step from the water, you see, and the creature is rendered harmless!" 
+
+He frowns. "Except the venom-spitting Spinelords of Gamut-Har, of course. Except those."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"If we must," he says. "But unless your creature is at least three times as deadly as the venom-spitting Spinelords of Gamut-Har, I fear my answer will still be no."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Please! A man can only withstand so much peace and natural splendor!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Sounds like a fish to me," he says suspiciously. "A large, floating one, but a fish nonetheless. Apologies, but I will remain here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"The venom-spitting Spinelords of depthless Gamut-Har," he says, a haunted expression in his eyes. "I swam into those twisted temples, chasing the heart-rending cries of a lost soul. Those foul-breathed creatures hounded my every stroke, spitting their clouds of poisoned needles into my back. At last, I succumbed." He hangs his head. 
+
+"When I awoke, I was floating face-down in a pond. Gamut-Har had vanished, along with its guardians!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Quijano's eyes gleam. 
+
+"I misjudged you," he says. "This beast does indeed sound worthy of a grand adventure! I will hasten to the Reef now and observe our quarry from a distance. I'll see you there, my friend."
+
+He totters off, humming to himself. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"It is a massive floating horror that slaughters its prey. And its prey is humankind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"The venom spitting what of what?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"A nychthemeron is a large floating creature with weapons at the end of its many tentacles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I'll find something more worthy of your time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Your floating fish-beast did not disappoint!" His cheeks are still aglow with exertion. "We faced it with nothing more than courage and the promise of glory. And we prevailed!"
+
+He sighs, misting up a little. "At any rate. What brings you back to the summit of Mount Ithiador?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"We seek challenges that will test our very limits!" Erritis declares. "And then, we will *shun* those challenges as unworthy of us and seek quests that shake the foundations of the possible. That defy belief! For we are not just adventurers, noble stranger. We are the breath of Adventure herself!"
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Tears well in Quijano's eyes, and he fishes a monogrammed handkerchief from the depths of one of his bracers.
+
+"Such a noble company!" he says hoarsely, dabbing his cheeks. "Such a noble goal! Were I not committed to my own path, I would seek to join yours!"
+
+He sighs heavily. "But I will not. Instead... might I seek your blessing?"
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Erritis? Would you bless Quijano as he asked?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I was hoping you would ask," he says, and turns to Quijano, spreading his arms. His mouth working soundlessly, the elderly knight bows his head.
+
+"May your glory always find you. May your burdens only strengthen you and each of your scars tell a better story than the last.  And when your enemies are too many, and your wounds too severe, may you fall with a smile on your face and peace in your faltering heart."
+
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>PAH!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"What brings you up here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Do you know," he says, "that I am not quite sure? My memory is not what it was. I recall kneeling before my family's armor in our estate some time ago." He blinks slowly. "Perhaps I was weeping."
+
+He smashes his gauntlet against his chest, leaving a sizable dent. "I can't recall, and it doesn't matter! For then, I heard a thunderous roar and beheld a great beast in the skies! I donned my armor and gave chase!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"We meet again on the jagged slopes of Mount Ithiador!" he says, clapping you on the shoulder. Your bones creak. "What brings you here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Why did you call this Mount Ithiador? It's a city, not a mountain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"A city!" he says, his sweat-beaded brow drawing together. "Your senses must have deserted you in the ascent. The heat has baked you in your armor!"
+
+He lays a gentle hand on your shoulder, turning you to the horizon. "Do not allow delirium to blind you to your accomplishments, good knight. You have scaled the very heights of Mount Ithiador, the Tooth of the World Beast. Adventure lies in every shadow below us. Every sparkle of light is a quest, ready for the taking!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Your armor looks slightly used."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"What kind of beast was it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"All right. Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Forget I asked why you're here. Please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"That's not hard!" he says cheerfully. "I find I am forgetting more and more these days."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ah!" he says, raising a finger. "Of course! I must have had the frankly brilliant notion of scaling this lonely mountain to better spot the beast from afar."
+
+He shakes his head, his wispy beard waggling. "Alas, I've seen nothing so far."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"It defied description!" he declares, "and so, I shall describe it to defy impossibility itself! Thirteen legs! Six jaws! A thousand eyes aglitter with malice and flame! Scales the color of clouds!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Yes," he says, nodding proudly. "It *has* seen some use. My ancestor forged it in the fires of Silvercloud Mountain for her battle against the Xiriquand Hordes. This was the wound that killed her!" He taps a much-mended spot on the chestplate. 
+
+"In fact, many of my ancestors died in this armor. It served them well!"
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Your beast sounds like a particularly large cloud, and I'm pretty sure you ran into a tree."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"That was... an amazing story. Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"A cloud!" he says, chuckling. "A tree! The perils facing us in this world of wonders are not so mundane."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"You are *most* welcome," he says, patting your hand fondly. "It is so good to share my tales with a fellow knight. Everyone else raises such peculiar doubts!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Erritis, would you bless Quijano as he asked?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Thank you so very much!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>You catch the barest glimpse of some of the golden aura surrounding Erritis flowing down his arms in glowing chains. Motes of light spin and wheel around the elderly knight before sinking into his armored frame. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Well said," Quijano says, raising moist eyes. "Well said." 
+
+He straightens, and oddly, seems larger somehow. Taller, even. 
+
+{SCRIPT: Quijano will now be stronger thanks to Erritis's influence.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"A tragedy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"You clearly tripped and fell into a puddle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"It was my greatest failure," he whispers. A tear rolls down his cheek, disappearing into his beard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"If only that were so! But look!"
+
+He shows you the back of his armor. It is defaced by a tremendous array of black scratches. Something *like* clouds of needles could have caused it. Or he simply might have fallen onto a particularly sharp bush.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"You misjudge it. It is a stain in the sky. A merciless monstrosity. Hate is the only song in its heart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Then we shall teach it a new one!" Quijano roars, his eyes brimming over with happy tears. "This beast does indeed sound worthy of a grand adventure! I will hasten to the Reef now, and observe our quarry from a distance. I'll see you there, my friend."
+
+He totters off, humming to himself. 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"I've heard of these scoundrels! They leave pools of blood and shredded flesh in their wake! You are right, my friend. This world cannot bear the blight of these villains upon her skin any longer! Simply say the word, and I shall hunt them unto my dying breath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I should!" he agrees. "But are you certain this time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Yes. Good hunting, Quijano del Toboso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Actually, I have another adventure in mind for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Foes even greater than those?" he says, his eyes wide. "Tell me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>::excited humming::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"A murderer is loose in the Underbelly. I need help finding clues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"That fiend!" he declares, beard trembling with outrage. "But alas, I cannot help you. A knight must know his weaknesses as well as his strengths, and, er, investigation has never been my strong suit."
+
+He claps you on the shoulders again. "Good hunting, my friend. Good hunting!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"What if I offer to pay you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"I would refuse it, of course! A knight does not work for pay! He lives for glory!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"The sticha are digging tunnels underneath the city, causing homes to collapse into the sea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Diggers under the ground? No, I've never been much of a digger myself. Better with a blade than a shovel. To prevail against diggers, you need a digger of your own, not a knight like me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"The horrible beast *leered* down at me, promising destruction. I promised it death, and it fled across the sky. I followed, darting between the trees..." he pauses frowning. "And I don't recall much after that. I remember walking. Having various adventures along the way, of course. But I cannot quite recall why I came here..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Actually, I can't think of any enemies worthy of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Oh," he says, his face falling. "Perhaps you will think of one later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"What a shame," he says. "What an absolute shame."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Then, he spots Oom.
+
+"And what a fearsome steed! What muscular flanks!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>::mmmm:: Oom murmurs, examining itself for the flanks the knight is speaking of.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

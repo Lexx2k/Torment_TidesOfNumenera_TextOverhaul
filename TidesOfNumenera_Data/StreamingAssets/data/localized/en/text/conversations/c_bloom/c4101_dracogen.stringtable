@@ -1,0 +1,1777 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_dracogen</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>330</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I have no more questions now. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Give Dracogen the Magmatic Annulet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>He holds it up to the light, turning and admiring the Annulet's cunning design. A wide smile on his face, he says, "Can you feel the power of this thing? It twists and curls, ensnares the secret places of the world. This will do nicely. Oh yes."
+
+He places it into a flat pouch at his hip - and no shape distorts the pouch, as if it were merely a gateway to some larger place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Dracogen's flat eyes rove quickly across you, measuring and studying in a glance. He smiles warmly, but his eyes remain hard. "You return, and more quickly than I had anticipated. Do you have something for me, perhaps?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"You requested the Magmatic Annulet, but would you consider anything else as fair trade?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>His eyes search your face, and then he smiles his too-sharp smile. "You have something of value? I may accept that indeed, but its value must be of equal worth." He pauses. "Or better. Be warned, though, that my tastes are... peculiar. Get me something unique, and we may be able to arrange a trade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I need to extend my possession of the Annulet for a short time. You'll have it soon enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>He pauses and considers his options. All the while, his gaze never leaves your face. At last he nods sharply and says, "Very well. I'll accept that you've found it, and that you intend to honor our arrangement. Tell none that I have offered you this freedom. I will hold you to this, my friend." He looks distinctly unhappy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"My friend! How can I be of assistance to you today?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"My friend, you return. I hesitate to remind you that you promised me the Magmatic Annulet. I expect delivery soon." His too-sharp teeth bare in a grin that is not entirely friendly. "Very soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I've brought the Cortex and wish to trade it in place of the Annulet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>His smile fades. He touches his forehead - a headache, or a silent conversation? After a pause, he looks up with a smaller smile. "Your words are wise. I will accept."
+
+He slips it into his hip pouch. The pouch stays flat, as though it opens onto a larger space.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>He seems genuinely disappointed and regretful. "Truly, I wish I could allow this. But need I remind you that we struck a bargain? I told you repeatedly that I deal fairly, and so I do. And I insist that those with whom I deal treat me fairly as well. The Annulet, please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>His face is cold and careful, calculating. "I have trusted your kind before, to my detriment. Yet there is something about you that speaks of honesty. Very well. I will trust your sincerity. Rest assured that if you try to cheat me, my vengeance will be terrible." The smile returns to his face. "Not that I need to threaten you, friend! As proof of my good nature, here is my portion of the bargain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"No!" he snaps in a sudden fury, almost shouting. "I have trusted castoffs before, to my great detriment. Always you come, cozening and wheedling, until at last you find a way to vanish and cheat me of my rightful payment." He points a finger at you, and you have a brief moment to realize his fingertip is a numenera device before agony washes over you. 
+
+"Do not test my patience. Do not try my resolve. Give to me my Annulet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>He gasps. "Oh my. My, my. This is quite a treasure. You found this in the lost anchorage? Discovered a connection for the lascars? How did they feel about the removal of this device?" He turns it over in his hands, and without returning it says, "I can offer a firm price of [Global: c4101_DracogenCortexReward] shins for this device."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"You wish to return it to me now? The Cortex was enough, friend. But I will gladly accept the Annulet. My firm offer is [Global: c4101_DracogenAnnuletReward] shins. Or perhaps I could trade you for another device. It came into my possession via a castoff named Vicarian. She called it a Merecaster."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Tell me about the job you want me to do again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I was under the impression that you kept a journal to remind you of such things. But very well. I need you to acquire the Magmatic Annulet from the Ascension. I don't care how you do it, or with whom you contract, but it is an item I greatly desire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I'd like to talk about the Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText> Follow-up PQ. 28</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I have questions for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I'd like to ask a few more questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"If they are within my power to answer... and if they do not come with a price."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ask your questions, friend. I'll answer what I may."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Dracogen's voice is less patient. "You return again. Surely this time you bear what you promised."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Or perhaps I can do something for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ask away, my friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"My old compatriot? I have told you what I wish to tell you - she is a hard woman in a hard position. She rose to her rank in the time-honored tradition of the Bloom, with bloody knife in hand. She rules in much the same way. Having seen some of the more 'legitimate' governments of the world, her way simply seems more honest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Actually, let's talk about something else instead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"What do you wish to talk about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Are you still interested in exploring the Bloom, my friend? Word has reached these humble ears of a new Maw opening near the court of Gar-koto in Little Nihliesh. If it leads to the place I recall, which I thought long gone, it may contain devices of great value indeed. If I did not have pressing business here, I should explore it myself... but I forget myself. What can I help you with today?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"This concludes your part of the transaction. Let me honor mine. Come with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Tell me more about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>He spreads his hands apologetically. "I have a great deal to say about that subject. Most of it is interesting only to me. What is it you wish to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"What do you do for a living?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"I am an investor. What is my business? I see you ask with your eyes, and so I answer for you - I deal in strange and exotic numenera. The Bloom is a crossroads, a fruitful place, and I see much of interest. My particular clientele demands items of an interesting nature, and they pay me well for it. Well enough that I can afford to pay my finders generously and remain... solvent." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"What about this area? Why do you remain here in particular?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I remain here because a great number of things and people emerge from this particular entrance into the Bloom. I am equipped to deal with them, my friend, and to help with their needs, for I have traveled far and know much of the world. If they prove hostile..." His smile turns dangerous. "I am equipped for that too. Perhaps you will see what I mean someday."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"How long have you been here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Quite some time, as ordinary humans measure it. I have made the Bloom my base of operations for a good hundred years. I have learned to avoid the political squabbles of its residents, for the political turns personal all too quickly. Personal and bloody."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"So you haven't been in the Bloom your whole life?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>He looks faintly offended. "By no means. I've traveled from the Clock of Kala to the Steadfast and seen the towering crystal skyfields. I have journeyed to the Forge of the Night Sky, dodging fire wights and spills of magma. I stood upon metal moons to look down upon the earth and saw signs of life in the stars nearby. I have traversed time and space, bending light around the Nebula Bell, and seen myself transmuted briefly into pure thought. The Bloom is but a small stop. Speak of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"What are you doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I am looking for useful and interesting numenera, my friend. The Bloom is a crossroads of worlds, a place of power and pain, and a great many people from a great many places pass through here every day. I fund explorers, merchants, and other travelers who wish to bring back more for the collection, and I pay well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"What can you tell me about these other people in the courtyard?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>His voice lowers conspiratorially. "You heard none of this from me, of course. Let me summarize. Near the well, you'll find Skaydi, a small-time merchant. She seems different of late, though why I cannot say. In the fighting ring near her, you will see an aeons-old killing construct, Waits-for-prey. Avoid it unless you wish to die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Who was that automaton you were speaking to?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"That, my friend, was one of the Decanted. They are servants of the nobles of the City of Glass - a nearly extinct people who value beauty and form. Had I known your interest, I might have suggested it speak to you. However, as I understand it, your body is artificially grown. They prefer their guests... organic."
+
+He slashes his hand through the air, signifying the end of the discussion. "Let us speak of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"What was that little silver... goblin?"
+
+{SCRIPT:  Need to conditionalize this to only display once the Silver Orphan shows up.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"That was a silver orphan, my friend. The poor creatures roam this world - and perhaps others - in search of machine intelligences. They extrude tools and weapons from their bodies. They can provide tremendous value if given the proper incentive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"What was that... fleshy ball?"
+
+{SCRIPT:  Need to conditionalize this to only display once the Bloom Ball shows up.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Dracogen looks pleased, rather than disgusted. "These are undigested pieces of the Bloom's victims - whether from here or from other dimensions, who can say? - that the Maws smash together into these putrid little curiosities. The Sundermuns are frequently interested in these balls... I provide the flesh, and they provide me with knowledge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Who was that strange-looking fellow who came out of the Maw there?"
+
+{SCRIPT:  Need to conditionalize this to only display once Sir Arthour shows up.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Dracogen's toothy smile grows. "That was Sir Arthour, one of the preeminent collectors of information in the Ninth World. I had known him by reputation only, and I was pleased to make his acquaintance in person. He will provide a valuable contact indeed... assuming that he comes to no misadventure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"What was that stick-looking creature?"
+
+{SCRIPT:  Need to conditionalize this to only display once the jurulisk shows up.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>His face is grim. "A jurulisk. Be glad that it did not manifest fully here, They are ultraterrestrials, ultradimensionals, monsters in form, shape, and line. They grow from small points, like dots on the surface of reality, and turn into lines. From there they develop more quickly, expanding to fill the space. They are aggressive, territorial, and incredibly dangerous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Grisseler tells me the Trade Post is gone. Devoured."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>His voice sharpens, and his gaze is intense. "You have agreed to my terms. Do you now tell me that you cannot fulfill your end of the bargain? I think not. You are resourceful."
+
+He frowns. "I doubt the Trade Post is truly gone. You simply need to find another Maw that will take you there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>He returns quickly, as if he had made arrangements well ahead of time. From what you know of Dracogen, this is not unlikely.
+
+"The Memovira awaits you. She is eager to see you, in fact, though she is busy - quite busy. Speak to Brusca, at the fortress gate, and you will be allowed inside." 
+
+He pauses. "Best of luck, friend. Should you come across any other interesting items, feel free to discuss them with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"It is a great treasure, true. My offer remains the same. [Global: c4101_DracogenCortexReward] shins or a Merecaster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"This item is of similar power and rarity to the Annulet. Why will you not take it instead?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>He balks, suddenly recalcitrant. "This simply is not a worthwhile trade. Not for the Annulet. I would be willing to take it from you, to be sure. Again, my firm offer is [Global: c4101_DracogenCortexReward] shins, or the castoff Vicarian's Merecaster."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"[Global: c4101_DracogenCortexReward] shins? I accept."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Not today."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"A pity. A pity indeed. Perhaps we can come to an agreement some other time. But for now, I require that you abide by the terms of our bargain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"I'd like to talk about some of the people of the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"I do not frequently indulge in gossip, but I see no harm in answering your questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Actually, I'd like to ask you about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Inquisitive minds are the sharpest minds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>His nostrils flare slightly. "The air around you is different, castoff. You bear the Annulet. Give it to me and we shall consider our agreement concluded."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"I'd like to talk about something else first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"What do you know about Miel Avest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"What can you tell me about other castoffs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"What can you tell me of the Changing God?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>He takes the device from you, slipping it into the flat pouch at his hip, and when he withdraws his hand, he holds a bag of shins. "Your reward, my friend. But let us not be hasty. Do not think this absolves you of your responsibility to give me the Annulet."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"You're ready to surrender the Annulet? At last. I thought I might have to hold this Merecaster forever." He drops a sly wink, and accepts the Annulet from you. He holds it up to the light, turning and admiring the Annulet's cunning design. "The scent of this device... ahh, but you can't smell it as I can. Be assured that this will do nicely."
+
+He places it into a flat pouch at his hip - and no shape distorts the pouch, as if it were merely a gateway to some larger place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"What will you give me for the Magmatic Annulet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"[Global: c4101_DracogenAnnuletReward] shins? I accept."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>He takes the circlet from you, slipping it into the flat pouch at his hip, and when he withdraws his hand, he holds a bag of shins. "Your reward, my friend. Now, do we have other business? Something else with which I may assist you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Not today."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"A pity. A pity indeed. Perhaps we can come to an agreement some other time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"I'm not giving you the Annulet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>He sighs and turns away. A moment later, agony like nothing you have ever experienced burns through you, alternating hot, cold, caustic, aching, stabbing, biting. When Dracogen turns back to you, his ordinarily placid face is set into a terrifying predator's rictus. "You agreed to my terms, castoff. Give me the Annulet or you will wish for death. And then you *will* die. Return it. Now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"I will not give it up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Give him the Annulet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>His left finger flicks the air, and an iridescent shell materializes around you. It is impenetrable, soundless, airless, and it grows smaller with every moment. You have just enough time to consider the foolishness of your actions before it pulps your body and roasts your bones in a blaze as hot as a star.
+
+{SCRIPT: Do we want to animate this somehow, like Skoura's Iron Wind death? -JF}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>His demeanor changes instantly. "Very well, friend, very well!" He takes it from you. He holds it up to the light, turning and admiring the Annulet's cunning design. A wide smile on his face, he says, "Can you feel the power of this thing? It twists and curls, ensnares the secret places of the world. This will do nicely. Oh yes."
+
+He places it into a flat pouch at his hip - and no shape distorts the pouch, as if it were merely a gateway to some larger place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Dracogen's smile is less open. His voice clipped, he says, "I want the Annulet." 
+
+He gestures for you to speak.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Give Dracogen the Magmatic Annulet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Soon, yes. In the meantime, I'd like to talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>He sighs theatrically. "You are doing my reputation no good as an enforcer of bargains, friend. Very well. Ask away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Until next time, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Alas, I have only heard stories. I know that it was a place of refuge, a sanctuary. I once sought it out - its name means Stone of Wonders in an ancient, largely forgotten tongue, and I thought perhaps to acquire the stone." He smiles ruefully. "I did not find it, naturally, but the search allowed me to make the acquaintance of a number of your brethren. This proved fruitful on several occasions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Bank 111</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"You mentioned knowing about Miel Avest before. What else do you know about castoffs and the Changing God?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Let's talk more about castoffs and the Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Bank 114</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"You ask to plunder a great deal of knowledge. But I suppose you'll discover these things sooner rather than later, and it would behoove me to have you think well of me." Again, the sharklike smile. "But we should make your questions come one at a time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Again? Very well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Ask your questions, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"I have had the pleasure of knowing quite a few. Some were excellent business partners and sources of information - Matkina, especially, for she knew the Bloom and the city above. Inifere hid from his acolytes in the Bloom but found no peace here. I have met with the Chalcedon and Paj Rekken as they sought advantage for their armies. Your kind are drawn here frequently, though they rarely stay long."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>His mood darkens. "Your sire is brilliant, but he is dishonest and untrustworthy. I dealt with him while he was in the body of one of your ill-fated brethren. He carried the Annulet then, and he vowed that I should have it for my troubles when he had no further need for it. Instead, he locked it away in the Ascension, beyond my reach, and then he vanished."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"I would have taken my vengeance, but I discovered that the body that returned to me was not the mind that had left. It was through this interaction that I came to know more about your kind. But the fact remains that the Changing God is a scoundrel and a cheat, a man who breaks his word as easily as breathing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"I might be interested in selling some powerful numenera. Are you interested?"
+
+{ADAM KEVIN GEORGE JESSE This is the "sell stuff to Dracogen" node. We can lose it without hurting the integrity of the conversation.}
+{Marked Should Not Play until/unless it is implemented. -AH}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>His toothy smile gleams in the murky air. "I am *always* interested, friend. What do you have for me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Nothing right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Perhaps later, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"You knew the old Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Briefly. I had not made friends with him as I made common cause with this one. The old one was not amenable to favors or to alliances with those he did not already know. When the new Memovira stepped in, she and I had... an understanding."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Did you help her overthrow the old Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"I do not become involved in politics. I am a businessman, and politics - especially here - becomes personal too quickly. Personal and bloody. I may have helped acquire tools that sped the transition, but I did not play any direct role. Such treachery does not go unremembered."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"What happened to the old Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>He smiles slightly. "The ghosts of the past are always with us. In the Bloom, moreso." He looks away for a moment. "Time changes us all. Justice comes on its own feet. It is best to let events take their own course, and to steer clear of entanglements one cannot control."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"As I said, I am a businessman, collecting items for my specific clientele. They pay me well for powerful numenera, and so I make it my mission to find devices that might be interesting additions to their collections. That is all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Who are your clients?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>He shakes his head, the smile gone from his face. "They are private individuals, with no desire for their identities to be made public. They are collectors. That is all I will tell you. That is all I *dare* tell you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>His gaze shifts. "Near the great door to the fortress, you'll see Brusca, the Memovira's hand... and fist. A particular friend of mine, though not particularly friendly to others. Just as she wants it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"That was a silver orphan, my friend. Their living metal bodies are similar to the armor of your companion. Perhaps it might be of some use to you. You should know: they value machine intelligences. Should you encounter one, it might behoove you to barter your knowledge for theirs."
+
+{SCRIPT Is Riastrad Nearby?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Ah, friend. I have sad news to report." Dracogen's smile is gone. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Why are you telling me this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"What can I do about it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Thank you. I'll deal with her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"I have no doubt, castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>[Dracogen tells you about this totally awesome thing you can do.]
+
+{JESSE: I can write up this awesome thing. - Colin}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>He looks slightly baffled for a moment. "I suppose it is because you are a good client. You are valuable. You do what you say you will do. And if I may be permitted a more mercenary explanation, we have an excellent business relationship, and it profits me nothing if you die. Whereas if you survive... why, you are the Bloom's new ally. Together you and I can do great things."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Your escapades in the heart of the Bloom have not gone unnoticed. There has been... a seismic shift. Our friend in the tower, the old Memovira, knows what you have done. Even now, she prepares a trap for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Are you the only Dracogen? I have heard of your name as far away as the Steadfast."
+
+{COLIN: Remember to make sure this flag gets set in Monte's Mere dialogues. love, Colin}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>His eyes narrow, his mouth tightens, and you see his muscles bunching under his clothing. But then he laughs. "You're a castoff. Of course you could discover such a thing. But I must caution you against speaking of this publicly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Bank 149</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>His eyes narrow, his mouth tightens, and you see his muscles bunching under his clothing. But then he laughs. "You're a castoff. Of course you could discover such a thing. But..." and here his eyes sweep your companions, "... but I must caution your friends against speaking of this publicly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"I am a member of what you might call a fraternity, or better, a franchise. My employer selects beings of certain abilities and a lack of compunction when it comes to ensuring fair trade. Others bear my name, it is true - but we all cast off our old names and old identities when we agree to become a Dracogen. I could not even tell you who I was."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"We stake out certain territories, and if one of us falls... why, another will come to take our place. And they will most certainly know the particulars of our deaths." He looks around. "That is all I will say on this topic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>He sniffs the air. "Alas, you do not. The time of mere mortals is not of the same scale allotted to castoffs, friend. I urge you to speed your search."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>He gestures. "Then the slaver Parsim Flint, who claims to abide by the rules. Untrue, of course, if you have the shins. Of the others, my heart rests with Qianne... is that the proper term? No? No, I *empathize* with her. She is here through no fault of her own, a victim of chance. A kind spirit, and likely a dead one soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>He clears his throat. "Didn't I tell you, lad? 'Don't get cross-wise with Dracogen, I said. 'Make sure it's all on the level.' And if I didn't, I certainly should have."</DefaultText>
+      <FemaleText>He clears his throat. "Didn't I tell you, lass? 'Don't get cross-wise with Dracogen, I said. 'Make sure it's all on the level.' And if I didn't, I certainly should have."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>He eyes Tybir coldly. "Sound advice. Would that you had been smart enough to take it yourself, thief." 
+
+Dracogen turns back to you as Tybir breaks out in a greasy sweat. "Now, *castoff*, are you going to live up to your word, or die by my hand?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>He clears his throat. "Didn't I tell you, lad? 'Don't get cross-wise with Dracogen, I said. 'Make sure it's all on the level.'"</DefaultText>
+      <FemaleText>He clears his throat. "Didn't I tell you, lass? 'Don't get cross-wise with Dracogen, I said. 'Make sure it's all on the level.'"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>He eyes Tybir coldly. "Sound advice. Would that you had been smart enough to take it yourself, thief." 
+
+Dracogen turns back to you as Tybir breaks out in a greasy sweat. "Give me the Annulet." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>He nervously smooths his coat. "Hang on, now. The lad didn't have to come back here today, did he? He could have done what he needed to with the whatsit and come to see you *tomorrow* and you'd have been none the wiser. He was doing the polite thing by letting you know he had it, and would deliver it a day late, and you're going to kill him for his courtesy?"
+
+"Seems your streak of cruelty has grown wider than your streak of honor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>He groans. "Do you want to die, friend? You don't ask Dracogen prying questions!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Whew! Can't believe we got out of that transaction alive."
+
+{SCRIPT: If possible, have this play at the same time as Dracogen's "Farewell" bark. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>His cold eyes burn into Tybir for a long moment. "That you know anything of honor surprises me. You must have read of it in a book. *Can* you read?"
+
+He turns back to you with a tight smile. "The thief is right. I have let my impatience intefere with what is fair. Keep the Annulet for now, but if you do not return it soon, you will see just how wide my streak of cruelty has grown."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"What can you tell me of the Changing God?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Tell me about the Changing God again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"A scoundrel and a cheat. I first met him in the body of one of your older brothers. He cheated me out of the Annulet, and I have never forgotten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"What can you tell me about the other castoffs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Tell me what you know about the other castoffs again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"I have known quite a few. I have had interactions with Inifere, the Chalcedon, Paj Rekken, Matkina... too many to recall, really. Your kind are quite prolific."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"What do you know about Miel Avest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Tell me what you know about Miel Avest again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Sadly, I know very little - only stories, really. Its name means Stone of Wonders in an ancient tongue, but alas, I have never found nor recovered that stone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"What do you do for a living?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"What do you do for a living again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"How long have you been here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"How long have you been here again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"A good hundred years, more or less."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"What are you doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"What do you do here again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"I'd like to talk about the Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Tell me about the Memovira again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"A hard woman in a hard position. That's all I care to say now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"What about this area? Why do you remain here in particular?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Tell me again why you're here specifically."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Because a great number of things and people emerge from this particular entrance, and I am equipped to deal with them like few others."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"What can you tell me about the other people in this chamber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Tell me about the other people in this chamber again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"There's Skaydi, a small-time merchant. The construct they call Waits-for-prey, who does exactly that."
+
+He gestures toward the great fortress doors. "Brusca, the Memovira's hand and a friend of mine. Parsim Flint, the slaver, and Qianne, a sad victim of chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>His smile disappears as he considers your words. "I did say that, and I am a man of my word. You have persuaded me, castoff. This will be acceptable."
+
+He places it into a flat pouch at his hip - and no shape distorts the pouch, as if it were merely a gateway to some larger place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>He frowns, the tips of his sharp teeth peeking between his lips. "Do not presume to throw my word back on me, castoff. I said I would accept an item of *equal* worth. And while that item is indeed interesting, it is not the equivalent of the Annulet."
+
+He looks at it a moment in thought, then says, "I would be willing to take it from you, though. My firm offer is [Global: c4101_DracogenCortexReward] shins."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>Bank 213</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"And do you have a reason for this? Some careful forethought, a great insight that requires you to break our arrangement? I hesitate to introduce flaws into our verbal contract - it implies foolishness and a lack of wisdom." He smiles thinly. "None should accuse us of such things."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>His lips part quickly in a predatory smile. "And why do you feel this way? What great emotion drives you to me and demands that we destroy our arrangement? I am neither quick nor impulsive, but I tell you that the thought of reneging on our contract heats my blood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Is this fair? Is this *just*? We made a pact, castoff, and you agreed to it. Would you truly have your reputation be that of an oathbreaker?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>He places his hands theatrically on his chest. "I feel your need, my friend, but surely they have told you of me." His voice sharpens. "I have no compassion. I am motivated not by caring, but by profit. Further delay is unacceptable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>He looks at you keenly. "You require its power, do you? You need its strength to fuel your trajectory?" His smile is bloodless. "I need it because I have promised it. And you have promised it to me. Let us not clash. Such an encounter would leave those around us reeling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"I said that I need to keep the Annulet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"I want to talk about what you did to Auvigne, you worthless piece of -"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"One moment, please!" He turns to Tybir. "Old friend - let us resume our acquaintance, shall we? How is Auvigne? Did you have a joyful reunion?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Tybir's jaw drops. His face goes pale. 
+
+"I... I don't... how do *you* know... "
+
+His eyes seek yours in mute appeal as his tangled questions take his breath from him and leave him, for once, speechless. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Tybir, is there something more you need to tell me about Auvigne? Was he in the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"I don't...  I don't know," Tybir says, and beneath his obvious terror in the presence of Dracogen, you see anger. And guilt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Oh," Dracogen says, clucking his tongue. "I've confused you both. Let me connect some of these dangling threads."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Tybir, who's Auvigne?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Former lover. Forget it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Come now, don't sell your epic short, Tybir! This was a love for the ages!" He claps your companion on the shoulder and turns to you.
+
+"Let me tell you, the two of them were inseparable. Inseparable! But somehow they parted, lost track of one another."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"We don't really have time for this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Ahh, but we do. Your friend here had a partner named Auvigne." He pauses, considering. "No. Not a partner. A lover. And theirs was truly a great love. For years they traveled together, doing great deeds, and they were inseparable. Inseparable! But somehow they were parted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText> "Auvigne came to me a year ago, asking me about Tybir. He came to me, you see, because the two of them shared - let's call them *mind-link rings.* Well! Tybir gave his ring to me for... legal and moral considerations. Shortly afterward, he hoofed it for the city above. Foolishly, I turned the device off as I was examining it, and poor Auvigne thought his lover dead. He came *running*, begging my help. Well. It seems that Auvigne has broken his word to me. Tsk tsk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Say nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"I haven't seen him in years," Tybir manages at last, staring at Dracogen with a mixture of fear... and helpless rage. "How do you know him?" His fist clenches. "Where *is* he?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"I really couldn't say," Dracogen says, all concern. "He found me through that ring you gave me in reparation for the *incident*. I had turned it off, and he came running, assuming you were dead." A gentle smile creases his face. 
+
+"I told him I would help him find you in exchange for his services." He arches an eyebrow. "But then, he vanished. Frankly, I had assumed that Auvigne found you and reneged on our deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Auvigne would never do that!" Tybir says hotly, then flushes. "He's... he's a man of his word, and... well, you have to admit that you *do* have a fearsome reputation, and Auvigne wouldn't want to cross you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>He taps his chin. "This does present a problem, then. Auvigne pledged a year of service to me in exchange for certain information, and... well, now he's vanished."
+
+"I thought of using the paired mind-link ring you gave me as collateral in order to track him down, but then realized that *anything* could have befallen the poor man here in the Bloom... and besides, who am I to stand between two long-lost lovers? Perhaps you might be more inclined to seek him out than I."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"So here. You can have your ring back. May it be useful to you."
+
+He smiles to you and bows. "My apologies, but I simply *had* to make sure of Tybir and Auvigne. I do look forward to hearing of the successful resolution of our arrangement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"What *I* did? Tybir. Really." Dracogen looks to you.
+
+"Did Tybir not tell you how he and I came to be acquainted? Then let me."
+
+He crosses his arms. "Tybir was a mercenary, for sale to the highest bidder. He came to the Bloom to serve as a lackey to whomever would pay him the most in coin, drink, or flesh. An employer approached him about  retrieving an artifact from a guarded vault. He took the job."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Let him continue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Tybir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"I'm not interested in hearing this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>He looks a little sick, but he puts a hand on your arm. "No. I want to know what happened."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>He shakes his head, his lips pressed together. "Let him talk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Your gallant friend helped pacify the guards, and he watched as his compatriots slaughtered the helpless men. It was then they revealed the vault was *mine*. Wisely, Tybir quit the job and threw himself on my mercy, naming all his conspirators."
+
+"I took justice on them and gave their children a lifetime of nightmares. But from Tybir, I asked only a year of his service, or his mind-link ring and a favor to be named. He gave me the ring and fled. I did not pursue him. I am a man of my word."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"When his lover came, seeking answers about the ring, he found me instead. Auvigne agreed to serve in my employ for a year, in exchange for the truth of Tybir's whereabouts. I made him my toy. He did work that Tybir would shrink at, in some of the darkest, most dangerous depths of the Bloom."
+
+"And in all this time, Tybir never returned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Tybir knew what he sacrificed when he gave me the ring, he *knew* that Auvigne would come, but he gave up the ring without a second thought. At any time, he might have come to me to request its return. He never did. In so doing, he knowingly condemned his lover to his fate in the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>He swallows hard, shaking his head, not in negation but in shock. He does not interrupt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"As for you, Tybir, the favor to be named later is this - I want you to recall the many ways you could have saved Auvigne. To think of how he might have died. To reflect on the depths of his devotion to you... and shallowness of yours to him."
+
+"This is the kind of man you travel with, castoff. Know his true character. Best of luck to both of you."
+
+He waves his hand, dismissing you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Now go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Ah, you've brought my friend Tybir at last! Tybir, how *are* you? How is Auvigne? Did you have a joyful reunion?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Ah, Tybir!" His voice is jolly, and his eyes gleam. "You look as if you have something to say to me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"You requested the Magmatic Annulet, but would you consider anything else as fair trade?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>His eyes search your face, and then he smiles his too-sharp smile. "You have something of value? I may accept that indeed, but its value must be of equal worth." He pauses. "Or better. Be warned, though, that my tastes are... peculiar. Get me something unique, and we may be able to arrange a trade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"I'll trade you for the Merecaster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Excellent, excellent." He takes the device from you, slipping it into the flat pouch at his hip, and when he withdraws his hand, he pulls out an ovoid chunk of machined steel and places it into your palm. The device is about the size of a fist, with four star-like points studding its surface. Two hexagonal holes punch clear through its center. It almost looks like a large gear.
+
+"Now... give me the Annulet, please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>She shrugs at Dracogen. "I'm sorry on his behalf. He doesn't know better than to ask rude questions."</DefaultText>
+      <FemaleText>She shrugs at Dracogen. "I'm sorry on her behalf. She doesn't know better than to ask rude questions."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>He gives her a curt smile before turning to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"Your loyalty to your old friend is inspiring. Do you have any more details about this trap?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>He barks a short laugh. "I do *business*, castoff. I don't trade in loyalty."
+
+"I do not know what she plans. I know only that her anger is fierce. Be on your guard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>
+
+Then he pauses and leans toward you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"One of my companions is infested with demons of some kind. Can anyone in this place help him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Demons." It is not a question. He stares at you for a moment. "No. I know nothing about 'demons'. Perhaps one of the doctors in Chiurgeon Slump will be able to assist you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>He turns to Tybir. "My friend, you look as if you are positively *bursting* to speak with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Inquisitive minds are the sharpest minds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Thanks for the accolades. Would you have said the same thing if I weren't here?" A smile tugs at her lips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Ah, Matkina, you know me better than that. Of course I would have. I speak my mind. You would know if you had incurred my wrath." He bows his head slightly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"I buy and sell choice numenera and occasionally assist explorers when our interests coincide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"How do I get to the Heart of the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>He stares at you for a moment and licks his lips. At last, he replies, "I must admit I do not know. This is knowledge I have sought and failed to acquire. I can only suggest that you ask someone... closer... to the Bloom than I. Someone who is not the Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"I want to talk about what you did to Auvigne, you worthless piece of -"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Tybir, you said you had something to discuss with Dracogen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"You said you had something to say to Tybir. Here he is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>He turns to Tybir. "Old friend - let us resume our acquaintance, shall we? How is Auvigne? Did you have a joyful reunion?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Do not think this absolves you of your responsibility to bring me the Annulet."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Do not think this absolves you of your responsibility to bring me the Annulet."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"I vow I'll give it to you. The Annulet, or a worthy replacement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"If you betray me, castoff, you will wish for the mercy shown to the Tabaht by your father. Do not return until you are ready to bring the annulet to me." He pauses. "Wait. A worthy replacement?"
+
+He considers. "I would be a fool to insist on the Annulet if you find something equally exceptional. Very well. I accept." His eyebrows lower. "But *I* will judge the worth of whatever you proffer. Not you."
+
+He finds his composure. "What else can I do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>["I've reconsidered. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"This is a great treasure indeed, a great treasure." He examines it for a long time and then hands it back to you, regret creasing his face. "But I am not convinced it is equal in value. I can pay [Global: c4101_DracogenCortexReward] shins. Or perhaps I could trade you for another device. It came into my possession via a castoff named Vicarian. She called it a Merecaster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"I still require the Annulet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"What about this navigational cortex? Can I trade this in its place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"The time for such negotations is over. Give me the Annulet or die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>Attack him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>Script Node 305</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"I've heard that you have sought the Cortex from the Anchorage before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>He bows slightly. "Indeed. As I mentioned, I have an interest in unique artifacts, and I occasionally fund expeditions to find these artifacts. When the Bloom opened on the Anchorage, I offered a reward to the team that could bring me interesting treasures from this location. Alas, the lascars caught and... prosecuted my employees."
+
+He smiles. "When we have concluded our business with the Annulet, I may have a proposition for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"Would you accept anything in place of the Annulet? I would like to use the Annulet a bit longer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"If you found something worthwhile, something of a value that rivals or exceeds that of the Annulet, I might consider it. But frankly, my friend, finding such an item is nearly outside the realm of possibility."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"I've heard that you sought the Navigational Cortex of the lascars. Would you accept it in place of the Annulet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"Ah, yes. That would indeed be sufficient. I have tried to acquire it before, but to no avail. Should you manage to obtain it, it would certainly be a fine substitution for the Annulet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"Would you accept the Cortex that we discussed earlier in place of the Annulet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"Ah, yes. That would indeed be sufficient. Should you manage to obtain it, it would certainly be a fine substitution for the Annulet. But... I have doubts. I have tried and failed to acquire it before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"The agents I employed previously were not up to the task. This was an occasion of great surprise to me - they were tough, capable explorers, and I thought them more than sufficient to the job. If you gain access to the Anchorage and the Cortex, I suggest that you employ guile before violence. I would hate to see you fail as they did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"I'll trade you for the merecaster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Excellent, excellent." He takes the device from you, slipping it into the flat pouch at his hip, and when he withdraws his hand, he pulls out an ovoid chunk of machined steel and places it into your palm. The device is about the size of a fist, with four star-like points studding its surface. Two hexagonal holes punch clear through its center. It almost looks like a gear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>Bank 317</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"I've changed my mind. What will you give me for the Magmatic Annulet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>Bank 320</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"Either [Global: c4101_DracogenAnnuletReward] shins or the Merecaster of the castoff Vicarian. It makes no difference to me."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText> Follow-up PQ. 323</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"What will you give me for the Navigational Cortex?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"I've changed my mind. What will you give me for the Navigational Cortex?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>Bank 326</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"My firm offer is [Global: c4101_DracogenAnnuletReward] shins. Or perhaps I could trade you for another device. It came into my possession via a castoff named Vicarian. She called it a Merecaster."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"Either [Global: c4101_DracogenAnnuletReward] shins or the Merecaster of the castoff Vicarian. Your choice."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"I'll take the shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"I'll trade you for the Merecaster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"Let me think about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>He takes the device from you, slipping it into the flat pouch at his hip, and when he withdraws his hand, he holds a bag of shins. "Your reward, my friend. Now, do we have other business?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"Excellent, excellent." He takes the device from you, slipping it into the flat pouch at his hip, and when he withdraws his hand, he pulls out an ovoid chunk of machined steel and places it into your palm. 
+
+The device is about the size of a fist, with four star-like points studding its surface. Two hexagonal holes punch clear through its center. It almost looks like a gear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"Of course. You know where to find me should you come to a decision."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"I failed to recover the Cortex. The lascars have barred my entry to the Anchorage, so I won't be able to reach it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"Ah, well, it was worth the attempt, was it not? The Anchorage is a particularly vexing puzzle, but one day I will solve it."
+
+He pauses. "If you cannot reach the Cortex, then you have nothing to trade for the Annulet. I expect you to honor our agreement." He holds out his hand expectantly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"Well, castoff. What news have you? Have you managed to obtain the Cortex, or are you ready to surrender the Annulet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"I had other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"Later, perhaps. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>He sighs. "You begin to exhaust my patience. Very well. Ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"Do not tarry overlong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>"Can I trade this Navigational Cortex for the Annulet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"Let's talk about returning the Annulet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"Are you prepared to fulfill your end of the bargain then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"I'd like to offer this Navigational Cortex in place of the Annulet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"Bring me the Annulet and then we can negotiate. Until then, my firm answer is no."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"Well, castoff. What news have you? Are you ready to surrender the Annulet, or have you found something else to appease me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>Dracogen shrugs. "Then you can forget about ever seeing the Memovira. No one else has both the influence and the inclination to do this for you, castoff. I suggest you rethink your position on the matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>Script Node 362</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>"I failed to recover the Cortex. The lascars have left their Anchorage and taken the device with them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>"Their emigration has not escaped my notice. I have no doubt that our paths will cross again, and perhaps I can acquire it then. In the meantime, we'll see what my agents can find on that marvelous station of theirs."
+
+He pauses. "Regrettably, if you cannot reach the Cortex, then you have nothing to trade for the Annulet. I expect you to honor our agreement." He holds out his hand expectantly.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

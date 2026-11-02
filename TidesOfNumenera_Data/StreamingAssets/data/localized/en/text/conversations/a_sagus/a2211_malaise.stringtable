@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2211_malaise</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>90</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This small, unassuming man occupies this space quietly, hands folded in front of him. He does not look at you, but you feel his regard slip across you and dismiss you as you approach. His attention remains focused on the trio at the nearby table.
+
+Everything about him is nondescript, from his light-brown skin to his drab clothing. But something about him gives you pause, as if you were approaching the throbbing core of a fallen vessel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"You draw close to me, but you do not yet know the words of desire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>When at last he turns his attention on you, you *feel* his regard settle... like a soft blanket, made of metal, it is almost oppressive.
+
+"Malaise," he says. "That is who I am."
+
+His voice sounds distorted, strangely out of sync, as if he were calling to you from a distance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I want to play your game, Adversary."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Where did you come from?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Can you tell me about yourself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Can you tell me anything more about yourself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Why are you watching those people?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Can you tell me why you're watching those people again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"What can you tell me about this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Can you tell me about this place again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I am Malaise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>He slowly turns his gaze toward the other patrons. "A lodestone, a gathering of energies. Empty meat, a brief morsel, an obstruction. A bone, an ingrown hair." His empty, terrifying gaze turns back to you.
+
+"An impediment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"The taste of failure and regret. Fresh minds and stale hearts, a bitter loss in friends." His eyes fix you to the spot. "Negation in service. A tragedy that awaits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>His voice is strange and disjointed. "The world has always known me. Look around the corner. I exist on the smallest edge. Close your eyes and shiver - I am the cold in your bones. The saccade is my home, the interstices my mind." The frost that surrounds his words suggests that you have offended him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"There is no *way* to fare."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>He turns fully toward you, his lambent gaze stripping away your ego. "You speak my name. You wish to play." He *expands*, somehow. "Let us begin."
+
+Darkness falls around you.
+
+"Our minds must come into accord. When we achieve concord, when agreement has settled, I shall bring you into my union and your individuality will no longer trouble you."
+
+{SOUND: Distant wind howling, a faint screaming of many voices}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"They shine. They call. They tempt."
+
+His voice shimmers strangely, and you hear a distorted echo of thousands of voices mimicking his words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"The illusion of time surrounds them. Death has coiled. Probabilities collapse and shiver until inevitability crushes them. Unawareness is intoxicating."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>The stage is set. Light filters into your vision.
+
+You view the world from above, a familiar sight from the long fall of your birth. It is nighttime now, and you see great lattices of light joining cities together, extending deep into the oceans. It is a miracle of civilization, a world at peace made possible through a singular vision.
+
+"Is this your desire?" asks Malaise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>It focuses on a breach, some violation of fundamental truths. Something *you* have done has upset a balance, and you must right it or be destroyed. One of you must die. But the love you bear for the child... the thought of her oblivion is unbearable. Losing her voice in the world would be an abomination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"This is also my desire."
+
+The image shifts forward in time. It shows a consciousness skipping through a series of bodies, and you get a flicker-flash of the pain and anguish those bodies leave behind. Each of them moves through the world and you watch their psychic imprint, great ripples of suffering that extend from them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>The fear the Sorrow summons is too great. You cannot think clearly or act quickly enough - your only thought is for your own survival... even though the love you bear for the woman is so great.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The guards are hoarding knowledge, and the mob seems hungry for the wisdom behind the walls.
+
+What they intend with what they find, you cannot say.
+
+But... it seems as if the crowd is not made of individuals. It's a great mass under a single controller. You're not sure whether that controlling mind should achieve its goals or not.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Pause. "This is not my desire. Oblivion is counterfactual."
+
+The image flashes into motion again. You slap the burning insignia, and the woman in the tank flinches and then settles back, the life fled from her into another body prepared far from here.
+
+The Sorrow destroys the tank fractions of a second later, and then its pseudopods lash around you, tearing your molecules apart. A brief flash of agony, and then darkness.
+
+Darkness unending.
+
+A moment later - or an infinity, Malaise speaks again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>With a thought, you close in on the people. The closer you draw, the less human they are. All of them move almost in unison - a single creature, or directed by a single mind. The storehouse does not contain food - it holds books and datacubes full of knowledge.
+
+And the mob looks as though they want to destroy that wisdom.
+
+But wait... you feel a presence in the crowd. Something that feels like the seed of Malaise's mind. The information in the storehouse would destroy that mind's growth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>You open your mind and the words slither from their hiding place to your mouth. You speak them aloud in your mind, and it is like an oily residue, a psychic stain that pulses and burns, as if they desired to be spoken again.
+
+In the Labyrinth, the space where Theboros implanted the word of Qra implodes, vanishing as if it had never existed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Do you know your name means sickness?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Meaning itself is sickness. Vision, action, movement - this is the only sign of health." His slow and indolent gaze is like a great weight on you. "The energy that flows in your body - I read it through your skin. I see your actions before your muscles even begin to twitch. The body's secrets are no defense against me. What is sickness compared to this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Try to identify the technology powering the lights.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"This is my desire. A world at peace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"This is not my desire. It is dangerous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Something about the hue of the lights, their cyclical flicker nags at you. After a few moments, it comes to you: these are unstable reactors, prone to failures - spectacular, hugely toxic failures. And from the cycling of the colors in the spectrum, you see the reactors are on the verge of failure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>You recall something about reactors and their dangers, but the particulars escape you. A memory nags you about this image, but... no. It's gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>You see Feriok - an idealized version of him, to be sure, a fluttering candle being buffeted by strong winds, a chance moth driven toward a singular possibility: destruction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Let us evaluate our compatibility."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"It is my desire as well. Observe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>A brief pause. "No? It would have been a world at peace. But... observe."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Again, your perspective is from above. A mass of emaciated, half-naked people surges toward a gate, a great wave crashing against the walls of a storehouse. Nervous guards on the wall clutch strange bolt-throwers, but they do not attack. They seem terrified, perhaps of the starving people who storm the gates and their hunger.
+
+The gates begin to sway. The guards raise their weapons to their shoulders, take aim, and place their fingers on their triggers. They squeeze...
+
+"Is this your desire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Examine the scene for clues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"This is my desire. Let the guards fire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"This is not my desire. Stop the guards from firing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Pause. "It is your desire? Why do you resist the call of a singular wisdom? This path leads to death. Observe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>The beautiful lattice glows, beckoning. One of the nodes flares and pulses, sending a surge of light through the network. All the nodes flare simultaneously then, and the cool blue of the lights erupts into the lurid scarlet and orange of flame. The continent is aflame, and your enhanced vision shows you the agony of a billion dying souls.
+
+"Observe," says Malaise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Neither is it my desire. Observe."
+
+The guards withhold their fire, and the mob tears down the gate. They do not touch the humans inside, but rush toward the containers containing the datacubes, books, and other vessels of knowledge. Vials fall to the floor, torn from the racks, and biological poisons flow into the air, mutating every living thing they touch.
+
+The mob that found their way inside have barricaded the doors, blocking all ingress and egress from the chamber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>The weapons spit out a dissolving flame, and the violence of the crowd becomes a pool of viscous soup. Within, a woman opens one of the datacubes.
+
+Time passes, sped by some strange alchemy.
+
+The woman has used her knowledge to build a horrifying, biological creation, and it unleashes spores across the planet. The indigenous life sickens and dies, the flora fades, and the world becomes a dead, dull sphere. At the same time, the Adversaries never rise. 
+
+This vision fades away, and Malaise says, "Observe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>The toxins - and toxic knowledge - are trapped inside the room. They devour themselves, destroying themselves, but the world outside is spared.
+
+Your view retreats into space, and time accelerates. The world is full of life, combining and separating, until vast, inhuman intelligences rule over it, shaping the world to their desires. No spark of freedom remains. You feel a kinship between these beings and Malaise.
+
+"Peace." You feel the smile in Malaise's voice. "Observe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>You feel Malaise inside your imagination, pulling forth images and fears.
+
+You are in a darkened room, lit only by holograms. You feel a strange connection to a young woman who lies in a tank, alive by the grace of your abilities. The insignia you know as a castoff tattoo blazes on her incubator. You reach out to press it.
+
+... and then you feel a presence in the dark. You turn.
+
+The Sorrow. It exudes a tendril, and that tendril wavers between you and the woman. You have only a moment to react.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Focus on the particulars of the room and ignore the looming danger of the Sorrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Let the Sorrow take the woman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"I will sacrifice myself to save the woman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Our desires are entirely compatible. Let us merge our intelligence, our wisdom, our strength. I will give you chains, and your chains will sound like freedom. You will know my power. I will show you truth."
+
+Its mind presses down on yours. You can feel its psychic weight flattening your very identity. If it succeeds, it will snuff your mind in an instant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Our desires are nearly compatible. You need only a small adjustment to understand the truth. My truth. In a moment, comprehension will be yours. You will wear my chains as a collar."
+
+Its psyche roars around you, a whirlwind of spite and unending hunger. If it closes on you, it will snuff your mind from existence utterly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"You deviate from knowledge. I will correct you. I will teach you desire. I will bring you comprehension of truth. You will see the explosions of pleasure and pain. You will know dominance. When I am finished."
+
+The Adversary's will begins to batter at your thoughts, a chaotic melange of hunger and power, and you feel your control slipping. In an instant, you realize that if it can control you, it will snuff you out forever.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"You do not understand the truth. My truth. You will see. The unending fields of flesh. The hunger. The war. You will learn. Observe. *Observe*."
+
+You feel its mind pressing on yours, an insistent beating at the walls you have erected, and if you do not resist, it will destroy you forever.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Accept Malaise's words and merge your consciousnesses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Resist the Adversary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Use the Words of Qra on the Adversary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>You throw the force of your mind, the burden of your psyche... all the unfinished business, all the desires, all the striving... into the struggle to push Malaise's weight from you.
+
+Images flicker. You are a statue, frozen in place - but you force yourself to move, ever so slowly. You are a laak in a wildfire - but you creep outside of the ring of flames. You are in space, naked, dying - and you conjure the safety of walls around you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>You concentrate, trying desperately to maintain your hold on your sanity... but it is not enough. The sheer malignant force of the Adversary's mind is overwhelming.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>The Adversary recoils, shrieking, as the words begin to infest its psyche. The pressure on your mind lessens immediately and dramatically. Malaise shivers and shudders, crushing the words from its being before its mind is destroyed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>The Adversary sweeps past your paltry mental defenses, destroying the bonds between self and body, shredding the "I" in you, drawing you into itself.
+
+As your very identity is torn apart, you see flickers of the thing that consumes you: an orb of swirling energy, of hatred and rage, thousands of meters in diameter, haloed with despair. It hovers in a black-starred void, violet streamers coruscating from it like plasma. Other orbs float in the inky blackness nearby, a vast infection in the stars.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>The Adversary has not merged with your consciousness... it has devoured you. It absorbs your energy, nourishing itself with your mind, and your last conscious act is a single unending scream.
+
+{GAME OVER DEATH}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>For every image the Adversary places in front of you, you counter with images of safety and comfort. For every danger, you imagine sanctuary, armor... victory. You thwart his despair with hope.
+
+And at last you close in on the Adversary... or at least its projection into this reality. It is a great extrusion of psionic force pushing through a shimmering wall. With a thought, you harden that wall, strengthening the barriers between worlds, and the extrusion dissolves into dreamspace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>When you open your eyes, Malaise is gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>You can't read his thoughts any more than you can read the thoughts of the tables in the bar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"If we fail to reach accord, I will not bring your consciousness to mine. You will continue to exist alone, unloved, unknown."
+
+"You must enter my union. It is the fulfillment of all you are. I will guide you away from these small ambitions and tiny dreams. You will no longer exist as you are, but as an adjunct to *my* dreams and *my* desires." A sudden chill shivers your spine as he says this.
+
+"We begin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"I am a constant. I live. I thrive. When a thought passes in your mind, I rush before it. I hear the pulsing of your thoughts. I am fabric, essential."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>A wave of annoyance pulses from him. "No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"It is truth, knowledge, and power. But your desire is not yet strong enough. You cannot even winkle out my purpose. Find my name. Find my aim. Then we will weigh your strength."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Find my name, find my truth, and ask me again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"I want to know about your game, Malaise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Can you tell me about your game again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"I'm told that you play a game with your prey, Adversary. Tell me how it works."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Tell me again about your game."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>His smile is dead, an imitation of cheer. "You know my purpose. You ask for truth. You would *know* it."
+
+"It is a clarification. An education. Strength and will, combined. An epiphany, a revelation of power and vision. A guarantee of life, wisdom." His eyes are lambent, full of a strange vitriol. "Tell me you wish to play, and we will take your measure. We will find your suitability. The stakes are low. It is a test, nothing more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"You know my name. You know my truth. Speak the word, and it will change your life. Tell me you wish to play."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>::sssss:: Oom says, shrinking. Shuddering. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

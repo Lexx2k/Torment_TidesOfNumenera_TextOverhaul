@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4111_lascar_leader</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>40</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Offer to help find another way for them to get home.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Then she reconsiders her words. "Ordinarily hospitality is ours. Forgive this one. The Maw to our anchorage has closed." She indicates the hideous, tentacled 'mouth' that lies dead in the center of the platform.
+
+"Another way we must find. Have you word of open Maws that lead to our station?" She lowers her voice. "Beseech you, even. Trapped here with the supplies we purchased for our compatriots."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Sought have we, but alternate routes to the anchorage remain closed. Your fortune - has it been better?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I found a Maw in Little Nihliesh. It looks like it leads to your anchorage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>For the first time, a broad smile cracks her face. "A savior. Truly, the opener of the ways who can rescue marooned travelers." She turns and speaks to her crewmates. "Challan askun toveld! Getsa!"
+
+She turns back to you and presses a small device into your hand. "Is useful. Old but reliable."
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Three humanoids wear carved armor of an unfamiliar material, like undersea dwellers of legend. They move with fluid grace despite the bulky suits. Their unhelmed leader appears human: close-cropped hair, angular face, jaw clenched as though chewing on a problem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[If asked who the lascars are, the officer describes them as the descendents of sailors who plied the great void. She shouldn't go into any detail here - we'll leave that to the Anchorage.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[I will help you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I'll see what I can do. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[If asked who the lascars are, the officer describes them as the descendents of sailors who plied the great void. She shouldn't go into any detail here - we'll leave that to the Anchorage.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"If you want me to help, you'll need to answer some questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Her jaw unclenches by the smallest fraction. "Naturally this one will seek to provide informative truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The jemadar Arechi looks sharply at you upon your return. The cast of her face remains hard-bitten and impassive. "No fortune has come to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>At your approach, she gives you an irritated glance. "You address the jemadar Arechi. Speak what you need, or begone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>These three humanoids wear intricately carved armor that makes them look like undersea dwellers of legend. You cannot recall having seen the material from which they are shaped, either. Though the suits are bulky and seem unwieldy, their wearers move with a strange and fluid grace. You might have mistaken them for monsters initially, but their leader is unhelmed and appears human. She has close-cropped hair, an angular face, and her jaw is clenched, as if she were subconsciously chewing on a problem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Bank 37</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"How did you come to be trapped here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Tell me again how you came to be trapped here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Left the anchorage where our ancestors have served for centuries. Sought resupply as we have so many times before. Upon return, the way was closed." Again she indicates the dead Maw at her feet. "Worried now that comrades may suffer without us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Bank 45</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Tell me about your... anchorage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Tell me about your anchorage again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Bank 48</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Where should I go to look for Maws?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Tell me where the Maw that led to the Anchorage was again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"All the refuge we have ever known. We await the Ship that will end our mission and take us Home. Captain Janur commands us. If you find the Maw and speak to her, perhaps she can tell you more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"This one hoped you would know. We are strangers here. Buying supplies is all we know, not hunting Maws." 
+
+She looks down at the dead Maw on the platform. "Here was the Maw that led to our anchorage. Here it had been for many years. Yet on our return... dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Not yet. I had some questions first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"No. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Farewell, helper. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>At your approach, she gives you an irritated glance. "You address the jemadar Arechi," she says. "Speak what you need, or begone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Then she reconsiders her words. "Ordinarily hospitality is ours. Forgive this one. The path to our anchorage has closed. Another way we must find. Have you word of open Maws that lead to our station?" She lowers her voice. "Beseech you, even. Trapped here with the supplies we have bought for our compatriots."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Closed is the path we have taken so many times before. Worried now that comrades may suffer without us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Not Home, but where we await the Ship that will take us Home. If you can find it, Captain Janur can tell you more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Here, at our feet, as it had been for many years."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>The lascar smiles broadly when she sees you. "Met my people as they migrated Home. Remained behind to thank. You are a savior of all lascars."
+
+She presses a small device into your hand. "Is useful. Old but reliable. All I have to offer in thanks." She smiles again, places a hand gently on your arm, and then follows her comrades' path to a long-awaited homecoming.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

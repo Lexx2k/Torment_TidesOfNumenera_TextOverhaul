@@ -1,0 +1,1142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2321_matkina_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>207</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>{angry, startled, suspicious - first time meeting the player}"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>{SHOULD NOT PLAY} [This node is if the PC enters from the Caravanserai through the guidance of Riastrad and Satsada, AND Riastrad is in the party.]
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>If the player entered from the Caravanserai, Matkina will be angry at Satsada for bringing someone here (and less impressed with the player).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>If the player hasn't already learned about Mazzof and Miel Avest from Satsada, he can ask Matkina about the resonance chamber. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>If the player *has* learned about Mazzof and Miel Avest, then Matkina will just ask for the player's help. Satsada, if present, *will* warn the player about the dangers of Merecasters, much to Matkina's irritation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>She's pacing the room, staring into space, and muttering down at the little machine she holds in her hands. It takes her a moment to focus on you, but even before she does her weapons are ready, at the speed of instinct.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[How dare you ruin my assassination]
+
+
+{COLIN: NOT FOR 1E}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Her eyes flick to your tattoo again, then back to her workbench. Suddenly the device is in her hand, though you didn't see her pick it up.
+
+"You're one of us, then. Disembowelling would just be a waste of time for you... and a mess for me." 
+
+She spits on the floor and scuffs it with her boot, all nervous energy. "So what do you want from me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Return node.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"You promised you'd pay me back for ruining my work. Now's your chance. Turn me down, and you'll never get what you want from me. You can lie to me, lie to yourself, but you can't have the truth until you dig it out."
+
+{COLIN: NOT FOR 1E}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"You again? Fine. Here I am. What do you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Thought you'd warn ol' Jebedee I was coming? No one escapes the White Death!]
+
+{COLIN: NOT FOR 1E}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>""
+
+
+{COLIN: NOT FOR 1E}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>She thrusts a small machine at you, an ovoid made of synth and bone, with incorporeal lights circling it like moons. "Fix it. This is what I want from you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"What's this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"How do I use it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I'm not touching that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"No. No, you must do something for me." She caresses the black and jagged device, knobbed and protruding with antenna. A sigil reminiscent of your tattoo is emblazoned on it.
+
+"This is Tash's Merecaster. I want you to enter his Mere and find out what you can about the jahk. I'm convinced... I'm convinced that's the key."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[It's a Merecaster, doofus. Don't you have one? These store memories and lifetimes. I want you to check out the guy who wiped my memories and see what he did with the jahk.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"The resonance...?" A glint of understanding shines in her eyes. "Ah. Yes, of *course* he would have hid it there."
+
+A crooked grin plays about the corner of her mouth, and then vanishes. "I know who can help you. Or did." She shakes her head. "It slips away. My mind has holes in it. One of our brothers took a rusty scalpel to my thoughts, my memories. I can't..."
+
+She trails off. She catches a hold of the table, and it seems to anchor her. Her eyes harden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>She rubs her head in frustration. "Gods, focus, Matkina. It's the jahk, I think. It has to be the jahk. It's in here."
+
+Then she grabs your shirt. "You need to help me. I can't tell you anything until you help me heal my thoughts. One of our brothers - he put holes in my memory. I need to find out what he did so I can stop the drain, but I can't use the Merecaster myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"What's a Merecaster?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"What is a jahk?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Why should I help you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I heard you might know who can repair a device I found in the Reef, something called a resonance chamber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"What can you tell me of other castoffs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Self-absorbed, treacherous, leave a trail of misery and suffering... shall I continue? Also, powerful, scheming, ambitious." Her smile is crooked and quick. "But you want names, don't you?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Nothing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Nothing. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"You want *nothing*? Even I know this - you wanted to find me. You found a way to my hiding place. You... you want something. Playing coy doesn't convince me. Out with it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Fine." She raises a hand, turning already back to her workbench, already muttering to herself, her attention back on the strange device she was holding.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Tash, you scum... what did you hide from me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>She barks a laugh that's half a sob. "You won't get them from me, though. Not now. I remember Aadiriis, and I remember the First, and I remember Tash... and I killed Tash for what he did to me, for the hole he cut in my memory, but that hole grew and grew, and..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"You're Matkina. I've been looking for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Can you tell me about yourself again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Why are you hiding down here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"What are you planning?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"You found a way into my hidey-hole. You know who I am."
+
+She spins a knife around her fingers, appraising you. Her eyes flicker again to the device.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Didn't I just tell you?" She looks flustered. "I'm sure I told you."
+
+Her cold mien settles back onto her face. "I'm Matkina, fool. You're in my home. You'd better know who I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I'm not hiding!" Her rage is quick, hot, and palpable, and something about it makes your vision dim for a moment. "I'm strategizing, planning. Why would someone live voluntarily in a place like this?" She gestures around her, and as her eyes break contact with you, her emotion leaks from her frame.
+
+"It's... this is where I stay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>She snarls, "It's nothing that concerns you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Her eyes flicker to her workbench, and then back to you quickly. "It's nothing. I have a job to do, and I have my reputation to uphold, and by the Black Three, I'll hold it. That's all I need say to you." She bites down on her lips hard enough to draw blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Can you tell me what you're planning again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Why are you here?" She catches herself. "Did you change your mind about the Mere? What do you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Is entering a Mere dangerous?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>You feel, rather than see, Riastrad's tension, and his brow furrows. Satsada's angry voice emerges from his lips. "Would you claim another of your siblings in your mad quest for revenge, Matkina? How many more must suffer before you are satisfied?"
+
+{COLIN: NOT FOR 1E}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Dangerous?" She laughs. "Why would it be *dangerous*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText> Something about her laughter rings false to you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"What are you hiding from me, Matkina?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"You're digging in someone else's mind. You're not in control."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"All right. Let me ask some other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Hiding? Nothing!" She looks at the Merecaster in her hands. "Oh. Oh."
+
+Her eyes turn back to you. "Safe as long as you don't try to take control, anyway. Even in places where it's soft, reality has a definite idea what happened. You try to change it, to break reality, reality might break you." Her voice carries a hint of cruelty. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"I never suggested he try to change his own past, Satsada! I suggested only that he *observe*, but he had to take it further, didn't he? Do you think I don't recognize the danger? That's why I'm telling our new *brother* here just to watch!"
+
+{a2321_MerecastersAreDangerous=1}</DefaultText>
+      <FemaleText>"I never suggested he try to change his own past, Satsada! I suggested only that he *observe*, but he had to take it further, didn't he? Do you think I don't recognize the danger? That's why I'm telling our new *sister* here just to watch!"
+
+{a2321_MerecastersAreDangerous=1}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>She catches her breath and looks sidelong at you. "I was going to tell you, truly I was. Don't try to change anything. Just observe it. Find the jahk, and come home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I'm investigating some murders in the Underbelly. Someone said they thought it was your work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I've killed... lots of people. Lots. In the Underbelly, though? I don't... I don't think so. Do you want someone killed?"
+
+She pauses. "No. Wait. I could tell you, but... my mind won't let me. I don't remember. If I were whole again..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Was there any distinguishing marks around the scene?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Yes. I found a symbol. It looked like a circle containing a triangle bearing a bleeding eye, with another triangle breaking the circle from the right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>She shudders. "The Children of the Endless Gate. A splinter sect of the Dendra O'Hur. Both of them gifts to the world from our beloved brothers and sisters. The Dendra are mostly harmless, disgusting as they are, worthless as their creator is. They have a chapel in the Underbelly. Go talk to them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Where did you come from? How did you know where to find me?"
+
+Her startled look turns to a glower. A blade flickers through her fingers. You're sure it wasn't there a moment ago.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Mapper told me where to find you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"I followed your trail."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Who? I don't know... wait. *Him*. Him? The tattooed freak who can't stop talking about every speck of dirt he's ever set foot on? But how did he get here? What did he *see*?" 
+
+She casts her gaze around the cave, as if to assure herself that nothing is missing. Her voice hardens. "Maybe I need to hang a map or two around here. Improve the decor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Skist. Thought I'd covered it. Thought I'd covered my tracks. Thought... Fine. You wanted to find me? You've found me. More's the pity. So now it's time to talk. Wait, are you asking the questions here? Or am I?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"You ever felt your guts slither through your fingers?" She smirks, and a keen blade fickers through her fingers. You're sure it wasn't there a moment ago. 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>She begins to pace, muttering to herself. "Where was he? Cliff's Edge? Circus Minor? No, he was hiding, looking for something down below, that's why he came looking for me..." 
+
+Her eyes flash, triumphant. "He's in the Underbelly, isn't he? It'll be short work. He's slow, doesn't use weapons well, bit of a limp. Yes. Just as soon as I..." 
+
+She sees you standing there. Her hand jerks, and the blade is there again, as if she'd forgotten you were here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"It's a bolthole. Always has been, for those who know where to find it. Even Chila hid here, they say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>She glances at your tattoo. "How new are you? What were the circumstances of your birth? *When* did you happen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"I was born as my body fell from an exploding moon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"It's not any of your business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"I have questions I want to ask you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"No. This is *my* house... well, my home... and *my* rules. You *will* answer the question."
+
+The knife is suddenly in her hand again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"How did you know where to find me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[Satsada told me where to find you]
+
+
+{COLIN: NOT  For 1E}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"We told him, Matkina. He needed to find you, and we concurred."
+
+{COLIN: NOT FOR 1E. Attaches to Node 88}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"I don't need you to save me, Satsada! You think I'm incapable of solving this problem?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[various squabbles back and forth that will help tease out some of their history]
+
+{COLIN: NOT For 1E}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"But that's life for you, shine? You work hard to achieve... *something*... and then some would-be chagan comes and tears it all away." She pokes a finger in your chest. "It's strength and weakness. You want to make a mark, you've got to show you mean it." She breathes deep. "I mean it. The work I do here teaches 'em to fear me out there. I ask again - what do you want from me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"No. No, we're not playing this game. You're in my place of power. You came to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"It's my turn to ask some questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Forget it. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"My business is killing people. If you were looking for me, you'd know that. Now answer the damn question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Ha! That bastard of a creator always finds a way to abandon us at the worst possible moment. Have you heard the stories of Tuck or Inifere yet? You should."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"You hold it in your hands, and you relax your mind. You know about the Tides, yes? Just feel them flow around you, let go, and the Merecaster will do the rest. It's easy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Ha. Am I really the first one to say the word to you? Oh, you're in for a surprise, dear brother."</DefaultText>
+      <FemaleText>"Ha. Am I really the first one to say the word to you? Oh, you're in for a surprise, sweet sister."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Every castoff has one. Just like every castoff has this." She taps the tattoo on your head. "No one knows what they're for. Aadiriis used to think they were a byproduct of the transfer process - just like us..." She seems lost in thought for a moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"You... you don't know? I thought it was a common instrument... no. No, it might not be so much anymore. One of the curses of a long life." She laughs raggedly. "Fashions come and go before you even know they exist. Probably easier just to let them go, or make new ones of your own, like some of the other castoffs..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Because you came to me looking for my help. I can't help you with my memory in this state. So if you need me - if you really need me - you'll enter the Merecaster. If not... I'll find some other way. And you will too."
+
+Her knife is in her hand again. "And maybe you'll find out that castoff healing doesn't keep pain away." That crooked smile again. "Not that I'd threaten you. Wait. Did I threaten you? Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Then she shakes her head. "Wherever they came from, they can be used like a kind of temporal viewer. You relive an event in the life of the castoff whose Merecaster it is. That event is called a Mere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Can a Merecaster be used to spy on other castoffs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Why did the Changing God make us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"How do you activate a Merecaster?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"I... I... dammit!" She raps her knuckles on her head. "I can tell you. I know I can tell you. It's in here... somewhere. I'm losing the sense of it."
+
+She grits her teeth. "The most feared assassin in Sagus Cliffs and I'm losing my memory. What happens when it's all leaked out, eh? What becomes of me then?"
+
+She grates out a laugh. "But we won't need to find out, because you're going to help me. You're going to find where Tash put the jahk and that'll make things right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Not spy. More like... like seeing pictures of their past. Like watching them from inside their minds at times when they burned or raged or... changed. When their life was at a moment of flux."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"I won't enter the Mere for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"I'll do it. What do I have to do to use a Merecaster?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Sorry. No. Not sorry. You should know this. You should know about things. History. That's what life is. Knowing and doing."
+
+"Matkina... you need to focus. Tell him what he needs."
+
+She breathes deeply. "A jahk is an ancient woodwind, and this one was kept in a sealed cave behind massive doors from a prior world. It had powers. But... but I can't remember what those powers were."</DefaultText>
+      <FemaleText>"Sorry. No. Not sorry. You should know this. You should know about things. History. That's what life is. Knowing and doing."
+
+"Matkina... you need to focus. Tell her what she needs."
+
+She breathes deeply. "A jahk is an ancient woodwind, and this one was kept in a sealed cave behind massive doors from a prior world. It had powers. But... but I can't remember what those powers were."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Amateur. If you need my help, you need to bring me something to work with." She raises an eyebrow. "You *were* coming to me for my aid, yes? Not some half-cooked accusation?" She waves a hand at you. "Go on. I have... I have things I need to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"I wanted to talk about the murders in the Underbelly again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Did you ask about that already? I... I don't remember."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Not yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Then don't waste my time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText> "You'll be back. You have to *know*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"You should be fine. Just watch Tash's actions. Find out about the jahk. Then you can leave and tell me what the jahk *does*. And then... then I can help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"I'm not going to do this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"I'll do it. I'll enter the Mere for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>She plucks Tash's Merecaster from the table. She looks at it, at you, and back at the device. She licks her lips, as if weighing her options... and then, before she can hesitate anymore, slaps it into your hands. It's surprisingly heavy. 
+
+"Do it," she says, her voice heavy. "Find the jahk. Bring me my answers."
+
+You focus on the device, and you feel something tugging at your mind...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"I'd like to ask a few other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Forget it. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>A moment of panic flashes across her eyes, a deep and denied yearning... but it's gone before it can take hold in her. She turns away. "What are you doing here, then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Well," she sneers, "at least you're consistent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>An almost palpable hunger fills her eyes, a yearning. "Hold the Merecaster. You'll feel the tug immediately. Don't resist. Empty your mind and let the Tides pull you into the Merecaster."
+
+She collects herself. "Then just watch him. Watch for the jahk. When you see what he's done with it, pull your mind away from Tash's, and *tell me* what you saw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"I told you, didn't I? I'm sure I did..." She thinks a moment. "Let the Tides show you the way. We all figured it out. You can too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"No. Make a decision."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"I'm investigating some murders in the Underbelly. Someone said they thought it was your work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"I haven't killed anyone in the Underbelly for years. I remember that much." She crosses her arms. "I've got a style. A reputation to maintain. Underbelly people don't do that for me. Maybe you should check the scene before you believe every rumor, shine?"
+
+She pauses. "But wait. Now I'm interested. *Did* you check the scene?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Yes. I found a symbol. It looked like a circle containing a triangle bearing a bleeding eye, with another triangle breaking the circle from the right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>She shudders. "The Children of the Endless Gate. A splinter sect of the Dendra O'Hur. Both of them gifts to the world from our beloved brothers and sisters. The Dendra are mostly harmless, disgusting as they are, worthless as their creator is. They have a chapel in the Underbelly. Go talk to them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Amateur. If you need my help, you need to bring me something to work with." She raises an eyebrow. "You *were* coming to me for my aid, yes? Not some half-cooked accusation?" She waves a hand at you. "Go on. I have... I have things I need to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"I wanted to talk about the murders in the Underbelly again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Have you actually examined the scene?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Not yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Then don't waste my time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Bank 146</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Bank 149</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Bank 152</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Bank 155</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Script Node 158</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Script Node 159</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>[DEBUG] Skip all this and go to Matkina's post-Mere conversation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Trigger Conv Node 161</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Hang on. I've got some questions about the process."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Fine. Ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Is it really that important to know how I found you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Yes. Because I need to know how to stop it from happening again. And if it means cutting some throats, it's no worse than I've done before. Like I'll do to... wait, no, you're a castoff, that wouldn't work." The knife disappears as quickly as it appeared. Her hand steals out and picks up that strange device again, almost of its own accord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"I want to ask about the resonance chamber, about other castoffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Not until you do this for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>(Lie) "I was born a couple of years ago. I don't remember the circumstances of my birth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"I was born recently, in the Broken Dome down in the Reef of Fallen Worlds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>One eyebrow rises appraisingly. "So you *are* the falling star. I've heard of you. Sagus's incessant buzzing reaches even through these cave walls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Bastard." She smirks. "You're too young to be lying to *me*. Did you think I hadn't heard of the 'falling star'? It's exactly the sort of birth our *sire* likes to give his children." She says the word 'sire' with a sneer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Her eyes flicker, and her cold gaze returns to you. "This is more than *you* need to know. They're bastards, all of them. You as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"If the jahk is a key, what does it unlock?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Her brow furrows, confused for a moment. She curses. "If I knew *that*, I wouldn't need *your* help, would I?"
+
+She sighs at length. "He stole that memory from me, all right? If you can find it for me... it will all come back. All of it..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Why can't *you* enter the Mere?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Don't you think I've tried?" She snarls with sudden rage, her knife a handspan from your neck. "Do you think I would waste my time with a newborn, a thief who steals into my home, if there were *any* chance I could do this myself?" Her shoulders heave up and down with each angry breath.
+
+"I try and my mind fills with static. Like I'm talking to a murden. Only it slashes and stabs and *burns* me, and..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>She blinks then, confused. "Why am I angry? Did you..." She straightens, flipping the knife back into her cloak. "No. It'll all be right. Just find the damn jahk, and I'll tell you whatever you need to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Oh, and don't try to change anything," she says, almost as an afterthought.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"How do I enter a Mere?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"How do I enter a Mere again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Why shouldn't I try to change anything in the Mere? What did you mean by that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Nothing *serious*." She says it as though speaking to an overly concerned child.
+
+She laughs suddenly. "It's not like you can change the *past*. But I need you to learn a specific piece of information. If you change something, then you might go the wrong way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"What's a Merecaster?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"What's a Merecaster again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>She shrugs. "A byproduct of the transfer process, at least that's what they used to tell me. Regardless of what it truly is, *you* can use it to relive an event in the life of another castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>She lets out a long sigh. She mumbles, audibly talking her anger down.
+
+"I don't know, all right?" she says through gritted teeth. "He stole that memory from me. If you can find it for me... It will all come back. All of it..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"I want to talk to you about the Mere again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>She raises one eyebrow suspiciously. "Yes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"That's all I wanted. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>[DEBUG] Skip to Matkina's post-Mere conversation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"The resonance...?" A glint of understanding shines in her eyes. "Ah. Yes, of *course* he would have hid it there."
+
+A crooked grin plays about the corner of her mouth and then vanishes. "I know who can help you. Or did." She shakes her head. "It slips away. My mind has holes in it. Tash took a rusty scalpel to my thoughts, my memories. I can't..."
+
+She trails off. She catches hold of the table, and it seems to anchor her. Her eyes harden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"I won't enter the Mere for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Never mind. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>She leans in close to you. "I wouldn't have thought it possible, but it appears we have found someone even more paranoid than poor Aligern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>He mutters, "I think she and Callistege would get along just fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Watch yourself, lad," he whispers. "I've heard she's gone dull in the head, but that knife looks sharp enough to me."</DefaultText>
+      <FemaleText>"Watch yourself, lass," he whispers. "I've heard she's gone dull in the head, but that knife looks sharp enough to me."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"What of *them*?" She points her chin at your companions. "If you think you can overpower me with *mortals*, you're mistaken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"What of your friend?" She points her chin at your companion. "If you think you can overpower me with *mortals*, you're mistaken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Oh, she *is* fascinating, isn't she?" A wicked smile crosses her lips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Sounds just like her father."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"As mercenaries go, she's actually pleasant. Which is to say I've met worse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"*What* did you say? You're trespassing in my home, you know. Coming with a castoff makes you *more* suspicious, not the other way around."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Trust me. We mean no harm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Any friend of mine won't hurt you unless I tell them to. Don't give me reason."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Given everything I've heard about you, I felt I needed the help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"I *don't* trust you. That's the problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Ha! If I gave you reason to hurt me, you'd be dead before you realized I'd given it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Flattery? You're wasting your breath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"But fine." She flicks her hand and the knife disappears. "Disembowelling you would just be a waste of time for me anyway."
+
+She turns back to her workbench and picks up the device again. Then she spits on the floor and scuffs it with her boot, all nervous energy. "So what do you want from me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"I want to ask about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Fine. If you want your answers, though, you'll give me mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>This woman's skin is white - the color of alabaster or fresh ivory. Flat black eyes surrounded by sharply pointed features stare coldly at you. She wears jet-black hair cut straight at the shoulders. Her clothes are functional and drab; her cloak is fastened by a necklace of five canisters, each of different shape.
+
+She turns a black device over and over in her hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"I don't want to fight her," she whispers to you, her voice barely audible. "She's scaring me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>His mouth has dropped open. "You... you..."
+
+He swallows and whispers something beneath his breath. You hear the word, "beautiful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Oh, were you part of my plan? You weren't. It's not your business."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

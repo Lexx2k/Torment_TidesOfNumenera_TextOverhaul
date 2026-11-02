@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4311_captain_janur</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>130</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"So, you come to me with questions in your eyes. Ask, and I will answer if I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Farewell, Captain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I have uncovered the location of Ishtrinu, your homeworld. The Bloom lives in that world. You just need to go through the portal and you'll be home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>She summons the crew, and when they have assembled she speaks to them for long moments in their own tongue. Her face shines; you hear gasps and cries of muted praise. Some weep openly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>This careworn woman is dressed in strange, ornate armor. Her bearing is military-stiff, and her eyes roam constantly, though the rest of her body is under strict control. She assesses you in a glance.
+
+"Outworlder. The Bloom portal is open? It is good that you speak... spoke to me first. Few lascars speak your tongue. Officers, mainly." She clucks her tongue. "We need practice. Welcome to the Anchorage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Tell me more about your people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"We lived here, on the Anchorage, as did our ancestors for countless generations. Trapped here, they grew old, intermarried, raised families. Our laws came one by one as we built a new society here in isolation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Can I help you leave the Anchorage?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>She smiles slightly. "We are not searching for any port that will take refugees. We await the Ship that will come for us. Our tradition tells us that Home has not forgotten us, and that we will one day breathe its air again. Until we can reach Home, we will not."
+
+She chuckles. "Could you summon the Ship to us or create a pathway to our native land, we would depart gladly. But not until then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"What's that pinging noise?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>She looks at you strangely for a moment, as if she had no idea of what you spoke, and then comprehension comes. "Ah! The signal! For so long have I heard it I have forgotten. We call for the Ship. Perhaps it has become lost. If so, we light a beacon in the Void."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Tell me more about the Anchorage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"The Void is great and vast. It holds terrors. Monsters and pirates. The Anchorage is... respite. A place of rest and safety. There were once many Ships with many people. They came here, rested, refueled, took on passengers. Passengers traveled to many worlds around many stars. And then... they stopped coming. But we remain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Are your ancestors the ones who built this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I do not think so. We lived here many many years, but if we built the Anchorage, no memories remain. They tell us only that we serve. Perhaps it was built by our people. Perhaps it was always here. We do not know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Tell me more about your society."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I lead. As captain, the Anchorage is my command. Marriages, I approve. I lead the rites. To me falls all responsibility for survival." She smiles. "But such duties are onerous. I delegate, as captains did before me. So we have pilots, majors, jemadars, and others. They prove themselves through work, rise through ranks." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"How long have you waited for the Ship?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"As long as necessary, outworlder." She stops, re-translating your words. "Apologies. We have waited for many families, many parents. My family. Their family, and their family, and back many families before them. The Cortex would know, surely. But I do not think we wait much longer. Something in the Anchorage's air... it smells of our time here coming to an end. The Ship will come soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I met some of your crew in the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText> Follow-up PQ. 21</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Tell me about the Ship."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Can you tell me about the Ship again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText> Follow-up T. 24</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Until the Ship appears from the Void and comes to take us Home, we serve the Anchorage as did generations uncounted before us. Some fear the Ship may never come, but we hold our eyes to the heavens in faith."
+
+She spreads her hands wide. "Until that day, we toil. When the Ship comes, and it comes soon, it will find a welcome berth in our Anchorage and in our hearts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"It is a messenger, promised of old. Our Cortex tells of it, says that it was dispatched to return us to glory. It fell into the Void, and we await its return. When it comes, the Anchorage will be ready. I will have the honor of leading my people Home. If not me, my successor. But I feel... I feel it will be me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Jemadar Arechi and her crew?" She presses a hand to her chest and bows her head. "Our thanks, outworlder. From myself and from the crew. Should you see her again, please tell her that the way to the Anchorage is open to her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I found this broken helm in the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"How came you by this? We have sought and sought..." She looks away and swallows. "We had given up hope of finding our wayfarer. It is a day of greatness." Her voice is hoarse. "Please. Take this helm to the Cortex room, there to show it to our guide. Perhaps we will have some answers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Script Node 31</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ayu chanasti, jemadarus!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Script Node 33</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Jemadar, tozint acru. Cha!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"I am Captain Janur. This anchorage is my command. All you see is under my command. Explore our home if you like, but our traditions - respect them, please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"We will speak again, I am sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I have uncovered the location of Ishtrinu, your homeworld. The Bloom lives in that world. You just need to go through the portal and you'll be home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"What evidence have you of this? How do you *know*? The Cortex... the Cortex must verify the truth. Excuse, please." She hurries from the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Her face is pale, and her hand trembles as she returns. A single tear rolls down her cheek. "You... have done us a great service, outworlder. Your wisdom, your knowledge... they bring us Home." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"We are military, lascars, soldier-sailors. We have hierarchy and strength. All know their place. All have the chance to ascend on merit. No favoritism. My own child is not even a jemadar. I do not review her records - I could lose my position for such an infraction." She shrugs. "All families have such struggles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Such a family are we lascars. We struggle against time, against memory, as we keep an eye to the sky, always dreaming of escape. Until then, we hold tradition of the civilization of Home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>The messenger arrives, and he can barely contain his rage. He makes a quiet report to the captain, and they both glance at you as he does.
+
+When he finishes, he stands behind the captain. She squares her shoulders and says, "Our most precious resource is gone. In all these long centuries have we held the Cortex dear, and in all that time it has sat in the great chamber. Now - with your arrival - it is missing."
+
+She looks at her guards. They nod. She continues: "Give us back our Cortex."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"What evidence have you of this? How do you *know*? The Cortex... the Cortex must verify the truth. Excuse me, please." She summons one of the nearby lascars, whispers in his ear, and he hurries from the room. Janur turns back to you, her face betraying her hope. "Could it be? Is this the end of our pilgrimage?" She begins pacing, waiting for the lascar to return.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I did not realize it was so important to your people. I return it with my apologies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>(Lie) "I did not realize it was so important to your people. I return it with my apologies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I have told you the way home. Why do you need the Cortex? Simply gather your people and leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"You'll have to take it from my corpse. *If* you can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"You leave no choice." She motions to her guards, and they attack!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Nonetheless, we must verify. Come with me to the Cortex chamber. Should your words prove true, we will leave the Anchorage. The Cortex is yours then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"We will verify first. The words of thieves are worthless. Give the Cortex to us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>She raises a finger to debate the point and then catches herself. "You say intelligent thing. You give your word the cortex has told you the way? Then we go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>She looks almost sad. "It is no use. Guards."
+
+She motions to her waiting soldiers, and they attack!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>She eyes you for a long, silent moment. 
+
+"Perhaps you do not know," she says at last. "But you have broken our trust. My guards will take you to the exit. Please do not return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"This is not what Genjes reported," she snaps. "Thieves are not welcome here. You will leave the Anchorage. My guards will escort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Very well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"I don't think so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>At last she finishes her speech. The lascars gather their belongings and line up outside the portal to the Bloom. The captain seeks you out.
+
+"Outlander, whatever lies beyond the Bloom is the place we call home. We are in your debt." She presses a device made of synth, studded with flashing lights, into your hand. "May this serve you well."
+
+She follows her crew out the portal.
+
+{JESSE: I am setting Cortex Heist to 4 here so the PC can still get through the airlock after lascars leave. Also adjusting c4311 to let the PC through the airlock when Heist = 4}
+
+{SCRIPT: Need to give a cypher of some sort here - maybe just crafting incredient}
+
+{SCRIPT:  Probably need a cutscene here for all the lascars heading through the Bloom portal.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>She calls the lascars to her, and when they have assembled she speaks to them for long moments in their own tongue. Her face shines and her words ring; you hear gasps and cries of muted praise from her assembled crew. Some weep openly from joy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>You follow her to the Cortex chamber, and she replaces the device in the great orb. She works the Cortex professionally, quizzing it in clipped, precise tones. Her eyes widen as her responses come in, and she looks to you in disbelief. When she finishes her session, she enters an extraction sequence and hands the Cortex to you.
+
+You return to the main chamber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>She calls the lascars to her, and when they have assembled she speaks to them for long moments in their own tongue. Her face shines; you hear gasps and cries of muted praise from her assembled crew. Some weep openly from joy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>They escort you to the airlock, and deposit you there wordlessly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Every ten years, those of high rank may challenge me for my position. We speak to the Cortex and match our minds. We solve scheduling, mathematical, logistical problems. Should my challenger win, I retire and advise. We cannot survive without cooperation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Lascaru, totelin cor!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Sevet angus! Cha!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Jemadarus, orchil kaana!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"A-sovint esca, jemadar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Tell me more about your people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Tell me about your people again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"We are lascars, soldier-sailors. We live by the traditions of our people, always dreaming of the day we return Home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Tell me more about the Anchorage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Tell me about the Anchorage again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"The Void is great and vast. It holds terrors. The Anchorage is... respite. A place of rest and safety. There were once many Ships with many people. They came here, rested, refueled, took on passengers. Passengers traveled to many worlds around many stars. And then... they stopped coming. But we remain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"A place of rest and safety. There were once many Ships with many people, and they came here to rest and refuel. They stopped coming long ago. We remain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>At last she finishes her speech. The lascars gather their belongings and line up outside the portal to the Bloom. "Outworlder, whatever lies beyond the Bloom is the place we call home. Our service is done. Our thanks."
+ 
+She follows her crew out the portal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>When she finishes her speech the lascars line up outside the portal to the Bloom. 
+
+"Outworlder, whatever lies beyond the Bloom is the place we call home. Our service is done. Our thanks."
+ 
+She presses the navigational Cortex into your hand, and follows her crew out of the Anchorage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Achilli's memory said she needed to compare her data to the Navigational Cortex's archives."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Janur claps her hands over her ears, hesitates, then drops them, eyeing you balefully. 
+
+"Do not share the memories of fallen Lascars with others. It is not done. Understand?" She stares to your left, weighing her response, and continues. "Forget this memory. We do not let outworlders visit the Cortex for any reason."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Bank 88</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"What is that Cortex you mentioned?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"What is the Cortex again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Bank 91</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"It is a device sacred to us," she says carefully, her eyes on yours. "It is our only connection to our lost home."
+
+She folds her arms, and adds: "We do not allow outworlders to see it. I mean no offense, but do not ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Our sacred connection to our lost home. Outworlders are not allowed to see it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Bank 94</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Why can't I visit the Cortex?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Why can't I visit the Cortex again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Bank 97</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>She exhales, teeth clenched, and looks up. Fury wavers like a trapped flame behind her eyes.
+
+"We were not always so protective. That was before other outworlders tried to steal it a few years ago."
+
+She holds up a hand. "Perhaps you are different. This does not matter. No outworlder will ever be allowed to see the Cortex again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Outworlders once tried to steal it from us," she says, through clenched teeth. "This will never happen again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Bank 100</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Can you tell me anything about the outworlders who tried to steal the Cortex?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Tell me what you learned from the outworlder who tried to steal the Cortex again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>She growls, sweeping a hand over her head. Clearly, she regrets broaching the topic at all. 
+
+"We were foolish. They came to us through a portal from your world. We welcomed them as guests and showed them the Anchorage. The Cortex."
+
+Her hand is a fist at her side. "One of them *put hands on it*. His friends attacked us. The Anchorage. Burning the walls with their fire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"He would give us only one word. 'Dracogen'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Shaking her head, she continues. "We killed them, of course. All except the one who touched the Cortex. Him, we questioned until he died screaming a word over and over."
+
+She watches your face. "The word was 'Dracogen.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Janur claps her hands over her ears, hesitates, then drops them, eyeing you balefully.
+
+"Do not share the memories of fallen Lascars with others. It is not done. Understand?" She stares to your left, weighing her response, and continues. "Let her secrets die inside you. As I say before, outworlders are not allowed near the Cortex."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Her gaze flicks down to the helm in your hands, and back up. She draws in a long, controlled breath.  
+
+"Achilli. I knew she was lost to us, but I take no pleasure in it. Thank you, outworlder. Her family will be glad to have it back once you surrender it to me."
+
+She lifts her eyebrows expectantly. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Give her the broken helm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>She takes it from you with a stoic nod, and reaches inside. You hear a whispering *hiss* and a series of *clicks*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"I listened to one of her memories. She thought she'd found something important."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Disgust flashes across her stony face and is just as quickly suppressed. 
+
+"I do not wish to hear of her private memories. Her thoughts are hers and should die with her." The last sentence has a lilt to it, as if Janur is quoting verse.
+
+The hard line of her mouth softens then. "Achilli was intelligent. Adventurous. But prone to wild theories. Do not worry about her 'important discovery'. Let it fade with her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"You said you're planning on giving the helm to Achilli's family?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Yes, but not immediately. First, I will erase the private memories inside it, as is tradition. Then, I will clean it. Perform maintenance rituals. After, the helm will be given to her eldest sibling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"I want to hold on to her helm a while longer. I need to see what she discovered."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>She gives you a hard look. "No. You can not *scavenge* through her memories because the helm is not tuned to you. And besides, it is forbidden..."
+
+She falters, her mouth hanging open. "I had this conversation once before. I had it with Achilli." The corner of her mouth twitches, but she does not speak for a long, long moment. 
+
+"Fine," she says, sweeping a hand over her eyes. "It would make her happy to know that her helm is carried by someone with her curiosity. Take it with her blessings." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Yes. I will do this when I am finished erasing her private memories within, as is tradition. Then, I will clean it, perform the necessary maintenance rituals, and give it to her eldest sibling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Give me the helm back. This discovery was important to her, and I don't want it erased."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Script Node 119</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Let her finish her work on the helm. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Staring at the ceiling, tongue caught between her teeth, Janur twisted her wrist once. Twice. You hear a soft, firm, *clack*, and she holds it before her. 
+
+"It is done. Achilli's memories are gone. Her family can take it without shame."
+
+She squints at the soiled helm in her hands and winces. "*Ayu*. When it is clean, of course. This will take time. What else can I answer for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Script Node 122</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Script Node 123</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>[Aligern (and/or other companions) comments that Janur sounds pretty adamant, and you might have to do something unlawful if you want to get in and interact with the cortex.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Script Node 125</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Well, I don't think we're getting in the official way," Aligern mutters. "You know what that means."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Well, she certainly sounds adamant," Callistege murmurs. "We'll have to find another, less scrupulous way into the Cortex Chamber, it seems."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"I guess that's it," Erritis sighs. "There's no way into the Cortex Chamber, and we're not the type to sneak in when everyone's backs are turned." Then, he freezes.
+
+"We aren't, are we?" he whispers, concerned.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Well," Matkina mutters. "Looks like we might have to break some rules to get in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Hmph," Rhin mutters. "We're not going to let *that* stop us, are we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Well, what a pity," Tybir says loudly. He plants a consoling hand on your shoulder, and adds, in a whisper:
+
+"Let's just keep looking around, shall we? Perhaps we'll find a way to bend the rules... or, at least, which locks we need to break."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Script Node 133</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Script Node 134</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

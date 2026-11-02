@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4121_offering_table</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>54</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A slab of pitted stone sits in the center of the shrine, heaped with a motley display of offerings. Judging by the accumulated dust and filth, it's been here for decades or longer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Try to steal the Merecaster.
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Leave the offerings alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You wait until the Speck's attention briefly shifts away and then seize the device from the slab, careful not to knock any of the other offerings to the ground. 
+
+The Speck turns back toward you, eyes glittering, and you think you hear a faint hissing, growling noise beneath the whispers of the Bloom. Even though she says nothing, you suspect that she - and the Bloom - know what you did.
+
+{SOUND: Angry hissing of Bloom - should be standard sound effect when player loses Bloom favor.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>You wait until the Speck's attention briefly shifts away. Then you begin to reach for the Merecaster...
+
+"Were you thinking of taking it back, Castoff?" The Speck appears at your elbow, a mischievous smile on her face. "That device was offered as a gift, so another gift must be provided in return." 
+
+Even as she speaks, you notice tendrils of Bloom-flesh rising quickly from the floor, and others, even smaller, curling from the surface of the slab, fastening themselves around the Merecaster. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>This stone slab is piled with broken weapons, desiccated body parts, trinkets made of silver, and questionable offerings of food - all left by visitors to the shrine.
+
+You've already acquired the Merecaster that was left by the Changing God - nothing else appears to be particularly valuable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You wait patiently for an opening... and then, as luck would have it, one of the cultists drops something, making a terrible clatter on the other side of the shrine. The Speck turns away, and in that moment, you seize the device from the slab, careful not to knock any of the other offerings to the ground. 
+
+By the time the Speck returns her attention to you, it's clear that she has no idea what you did... and in escaping her eyes, you seem to have escaped the Bloom's as well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You wait until the Speck's attention briefly shifts away. Then you seize the device... and all the nearby offerings fall to the floor with a crash. Turning, you see the Speck shaking her head, a pitying look on her face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Try to steal the Merecaster while the Speck is distracted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText> Follow-up PQ. 11</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Examine the offerings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Examine the offerings again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Search for the offering that was left by the Changing God.
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>You casually inspect the offerings, careful not to seem like you're planning to steal anything. Fortunately, something quickly catches your eye - the sharpened edge of a metallic device, half-buried under the pile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>You scan the pile of offerings for a long time, but nothing catches you eye. Suddenly the Speck is at your elbow. "Your sire's offering is there," she whispers, pointing to a spot near the bottom of the pile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Do you want it back, Castoff? That device was offered as a gift, so another gift must be provided in return." Even as she speaks, you notice tendrils of Bloom-flesh rising quickly from the floor, and others, even smaller, curling from the surface of the slab, fastening themselves around the Merecaster. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>The objects on the slab are a bizarre mixture of trophies left by visitors to the shrine. Many of the offerings appear to be 'food' of the most ghastly nature... candied eyeballs, amputated fingers and claws in little cakes and pies, and puddings made from other, unidentifiable organs, probably all harvested from vanquished foes. 
+
+You also see broken weapons, severed limbs, and a scattering of silver items - little pots, cutlery, buttons, and other discarded scraps of the metal. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText> Addend. 25</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>
+
+If the Changing God left an offering on the slab, it will take a careful search to find it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>People have obviously been leaving their offerings here for some time, and everything is a jumbled mess.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>The objects on the table consist of questionable 'food,' broken weapons, desiccated body parts, and various trinkets made of silver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Take the Merecaster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>You reach for the metal device, glancing instinctively at the Speck. She nods. "Take it, Memovira. Everything here is yours."
+
+Lifting it from the slab, you take a closer look... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>You pluck the Merecaster from amongst the cluttered offerings. The cultists don't even glance in your direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>As you begin to scan the offerings on the slab, the Speck appears at your elbow. She points toward a metal device that is half-buried in the pile. "That's what you're looking for, isn't it? The offering left by your sire?" 
+
+She gives you a long, discerning look. "Something about you reminds me of him... and of *Chila*... the silvery glimmer I'd catch sometimes out of the corner of my eye. You have it too, though it's not as brilliant as theirs, not yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Place the Transdimensional Scalpel on the offering table.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Search for the offering that was left by the Changing God.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Since the Speck is gone, and the cultists aren't paying any attention to what you're doing, you make a leisurely inspection of the offerings. Most of them are entirely worthless, but finally you spot the sharpened edge of a metallic device, half-buried under the pile. Its unusual shape evokes a feeling of familiarity. You're certain it belonged to the Changing God... and you suspect that it's a Merecaster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Coming to a decision, she nods her head. "Take the device - it's yours. I'd rather see it in your hands than buried and forgotten here." 
+
+She plucks it from the pile of offerings and gives it to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>The device is cylindrical in shape, wrought from azure steel, with curved, sharpened projections on all sides, making it difficult to hold. It feels *familiar* to you, like a family heirloom that you've only heard about in stories but always pictured in your mind. Somehow you know that it's a Merecaster.
+
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>As you set the scalpel on the slab, a mass of tiny Bloom-tendrils rise from its surface where they've been lurking amongst the offerings. They wrap themselves around and around the knife, growing and thickening, enveloping it in scabrous flesh. In a matter of moments, the scalpel is gone. You hear a fierce chittering noise in your ears, and you get the distinct sense that the Bloom is pleased.
+
+Other Bloom-flesh tendrils disengage themselves from the Merecaster, and you lift it from the slab...
+
+{SOUND: "Pleased" chittering from the Bloom. Should be standard sound effect when player gains Bloom favor.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Look more closely at the device that was left by the Changing God.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Only one end of the device protrudes from underneath some other offerings, its sharp edges glinting azure in the flickering light of the shrine. You're certain it belonged to the Changing God... and you suspect that it's a Merecaster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Search for the offering that was left by the Changing God.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>
+
+Your sharp eyes catch sight of tiny Bloom-tendrils that snake along the surface of the slab, attaching themselves to the offerings. They writhe and undulate, as if feeding upon them, yet the offerings bear no physical signs that they've been touched.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>The old woman closes her eyes, listening to the voice of the Bloom. "A weapon... one that can cut open a Maw... that's what it wants. A transdimensional blade. The fewer of those that are lying around, the better, from the Bloom's point of view."
+
+She opens her eyes. "Leave the blade on the offering table, and the Bloom will release your sire's device. A fair trade, very fair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Castoff," she sighs, "your sire would not be impressed. All you needed to do was *ask* for it."
+
+She nods her head at the slab, and you notice tendrils of Bloom-flesh rising quickly from the floor, fastening themselves around the Merecaster. "Of course, that device was offered as a gift, so another gift must be provided in return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Only one end of the device protrudes from underneath some other offerings, its sharp edges glinting azure in the flickering light of the shrine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Do you want it back, Castoff?"
+
+The old woman gives you a long, discerning look. "Something about you reminds me of him... and of *Chila*... the silvery glimmer I'd catch sometimes out of the corner of my eye. You have it too, though it's not as brilliant as theirs, not yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Take it, Memovira," whispers the Speck, nodding. "Everything here is yours."
+
+You lift it from the slab...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>You carefully inspect the offerings. Most of them are entirely worthless, but finally you spot the sharpened edge of a metallic device, half-buried under the pile. Its unusual shape evokes a feeling of familiarity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Only one end of the device protrudes from underneath some other offerings, its sharp edges glinting azure in the flickering light of the shrine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Take it, Memovira," whispers the Speck, nodding. "Everything here is yours."
+
+You lift it from the slab...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>You carefully inspect the offerings. Most of them are entirely worthless, but finally you spot the sharpened edge of a metallic device, half-buried under the pile. Its unusual shape evokes a feeling of familiarity. You're certain it belonged to the Changing God... and you suspect that it's a Merecaster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>You reach for the metal device, glancing instinctively at the Speck. She huddles near the wall of the shrine, eyes clouded, completely unaware of what you're doing.
+
+You lift the device from the slab...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>You wait until the Speck's attention briefly shifts away. Then you begin to reach for the Merecaster...
+
+"Were you thinking of taking it back, Castoff?" The Speck appears at your elbow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>The old woman gives you a long, discerning look. "Something about you reminds me of him... and of *Chila*... the silvery glimmer I'd catch sometimes out of the corner of my eye. You have it too, though it's not as brilliant as theirs, not yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>A slab of pitted stone sits in the center of the shrine, heaped with a motley display of offerings. Half-buried in the pile, you see the glinting edge of the Merecaster that was left here by the Changing God.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Immediately you see the sharpened edge of a metallic device, half-buried under the pile. It's so obvious you wonder you didn't notice it before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Its unusual shape evokes a feeling of familiarity. You're certain that this was the offering left by the Changing God... and you suspect that it's a Merecaster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>You scan the pile of offerings for a long time, but everything there is worthless.
+
+You are about to turn away when the Speck appears at your elbow. "I know what you seek," she whispers. "Your sire's offering is there" She points to a spot near the bottom of the pile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Sure enough, you see it now - the sharpened edge of a metallic device, half-buried under silver trinkets and the moldering arm of some unidentifiable beast. Its unusual shape evokes a feeling of familiarity. You're certain that this was the offering left by the Changing God... and you suspect that it's a Merecaster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>A slab of pitted stone sits in the center of the shrine, heaped with a motley display of offerings. The metallic gleam of a device catches your eye again - the mysterious offering left by the Changing God.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

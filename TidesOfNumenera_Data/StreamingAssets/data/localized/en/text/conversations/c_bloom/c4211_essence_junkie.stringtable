@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4211_essence_junkie</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>52</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This young man's beauty shines even through his grimy face and his tattered clothes. His eyes are wide and staring, electric blue, and the movements his fingers trace through the air look like birds in flight. He snaps out of his reverie and grins at you, his teeth even and white against his brown skin.
+
+On closer examination, you see that his rags were once fine fabrics, carefully and expertly stitched.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>He greets you with an easy familiarity, like an old companion. His voice is smooth and educated, mellifluous and soft.
+
+"Hello, friend. My name is Bourras! Can you spare [Global: c4211_BourrasDonation] shins?"
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Give him [Global: c4211_BourrasDonation] shins.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Oh... oh! Really? Thank you! Oh, this has made my night. I won't f-f-forget your generosity, friend. When I get back on my feet, you'll get this back. With interest!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>He sketches a friendly salute. "Hello again, f-f-friend. Sheen's essences are top-notch today. I can hear her in there muttering, and that's always a good sign for me. It means she has something special brewing." An idea strikes him: "*You* should try her essences. They'll change your life."
+
+He stops for a moment. "But wait until after I've bought m-mine, all right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Hello again, friend! In case you don't remember me, my name is B-b-Bourras. You helped me out of a tight spot yesterday, and I was wondering... I hate to be a bother... can you do it again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>He looks up, his ready grin faltering and dying as he sees your face. "Oh. It's y-y-you. Why do you keep coming back here to talk to me if you don't plan to help me? Do you f-f-feed on misery? What's *that* like? Come on. Give me some shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>His good mood is infectious. "Anyw-w-way... what can I do for you? You have questions?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"That white automaton is still giving out free essences in the Memovira's Courtyard. Everyone seems happy with their purchases."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Bank 12</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I have nothing to spare today, but I do have news for you. A white automaton is giving out free essence samples in the Memovira's Courtyard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Did... did you say 'f-f-free'?" His eyes light up with a childish enthusiasm. "Friend, I wish I could stay to speak with you longer, but I have urgent business to attend to. Namely, I need to p-procure some of these samples before people who won't ap-appreciate them like I do!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"F-f-free? Oh my. Oh my." He starts to pat down his rags to make sure he has everything, and he even begins to take a few steps toward the exit before he stops, and he slouches back to his position. "You know, the l-l-last time I left for a free sample, I was set upon and robbed. The time before that, someone injected me with living sound. I... I don't trust free."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Oh my goodness! F-f-free? Then I won't be needing to pawn these!" He claps you on the shoulder with one hand and with the other deposits a pulsing mass of green gobbets into your hand. They drip and ooze, and you can feel the heat coming from them. "I'm sure you'll find a way to make them work!"
+
+And with that, he's off.
+
+{SCRIPT:  Need biological power sources.}
+{SCRIPT:  Removed a SetBusy() call here. This should be replaced with a fade cutscene.}
+{LOOT - ESSENTIAL - drops Pulsing Mass}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"No. No. N-no!" He is shaking his head hard. He slaps it a couple times to make his point. "I learned not to trust the f-f-free samples. I learned it the hardest way - by actually experiencing it. In a way that I remember is my own life. I won't do that again."
+
+He pauses and looks away from you, and then mutters, "I remember that I shouldn't trust people who tell me about f-f-free samples, too."
+
+{SCRIPT:  Removed a SetBusy() call here. This should be replaced with a fade cutscene.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"If you happen to come into some money, remember me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I don't have much money to spare."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Then w-wh-why are you wasting my time? I need to remember the feel of the wind on my skin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Bourras hasn't gotten better - if anything, he's worse. His mouth is open and drooling, and his eyes are focused on a different reality. His fingers twitch and he sways slightly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Bourras, are you all right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>He doesn't respond. A thick rope of saliva trails from the corner of his mouth, gathers speed, and lands with a disgusting splat near your feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Shake him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Slap his face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>He continues to stare blankly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You shake him hard enough to push him over. He rights himself. He has no other reaction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Walk away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Why? *Why*? Friend, do you remember the first time you fell in love? The sweet laughter of an infant? Th-th-the taste of a tear when you hear of a friend's death? I do. I remember them even though they haven't happened to me." He stops, puzzlement crossing his face. "At least, I don't think they have. But no matter! Here, inside this shop, Sheen sells the essence of those experiences. If you have the shins, you can live them all yourself!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Go through his pockets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>You find a bare handful of shins and some gooey green pellets that are disgustingly alive and warm to the touch. They dissolve at your touch, coating your hands temporarily with slime.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Why do you need the money?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Bourras gazes off into the distance, his mind trapped in some inner reminiscence. His body twitches and shakes, as if he were dreaming of some major accomplishment. He does not respond to your words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Shake him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Walk away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>As you begin to move off, he suddenly comes to himself. "I am so sorry. Were you standing there long? My mind is wandering into strange places. I don't know what's happening."
+
+He takes stock of himself. "I need a doctor. Do you think Demeray and Obervich can help me? Well, no, wait. They ask for payment up front, and I'm skinned." He looks at you shyly. "I hate to ask, but you've been so generous. Can you help me get well?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>At your first touch, his eyes snap open and focus on your face. He scuttles backward for a moment before he realizes who you are. 
+
+"Were you standing there long? My mind is wandering into strange places. I don't know what's happening."
+
+He takes stock of himself. "I need a doctor. Do you think Demeray and Obervich can help me? Well, no, wait. They ask for payment up front, and I'm skinned." He looks at you shyly. "I hate to ask, but you've been so generous. Can you help me get well?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"At least, you can live them until you run out of money. Wh-which I have. Did... did I ask you for shins already? I could swear I did. I only need [Global: c4211_BourrasDonation]."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Shin-pinching m-m-miser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"It's going to be a good night!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>(Lie) "I don't have much money to spare."
+
+{GEORGE/COLIN:  Adding another version of this line when you are lying and actually have the money.  It doesn't make any difference at the moment, but if we ever track lies for any reason, it's here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Why do you need the money again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Sheen sells the essence of every experience you could ever dream of! Unfortunately, I need [Global: c4211_BourrasDonation] shins to live another."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Slap his face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Slap him again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Shake him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Shake him again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>You shake him even harder than before, but he doesn't react at all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>You slap him hard, but he doesn't seem to feel it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>He glances longingly toward the exit, obviously conflicted, but finally shakes his head. "T-too many bad experiences with f-f-free handouts..."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

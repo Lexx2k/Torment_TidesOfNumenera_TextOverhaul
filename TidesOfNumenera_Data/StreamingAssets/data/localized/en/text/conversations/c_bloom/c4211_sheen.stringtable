@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4211_sheen</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>82</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>She does not meet your gaze as she greets you, but her eyes rove across your body, watching and weighing. "Traveler. The shop of Sheen lies open before you. Essences distilled. Draughts for quaffing. Experiences delivered a mouthful at a time."
+
+Her voice is flat, though an undercurrent in her voice sings at a register you cannot hear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>DEBUG: Buy Bravery essence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>DEBUG: One Bravery Essence, coming right up!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Can you create a mixture that will open the Maw here in the Slump?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Farewell, traveler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I have a hank of Artaglio's hair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"All well, all good. Give the hair to Sheen."
+
+She takes the hair from your hands and begins humming tunelessly and tonelessly as she manipulates the levers and bolts of her strange device. She inserts Artaglio's hair into it and it begins to glow. It pulses in regular time, like a heartbeat, and she lays her hands along its sides. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Let me see what you have for sale."
+
+{STORE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Do you happen to have an essence that would provide someone the feeling of being an aerial predator?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The gaunt skull of her face transforms for a moment, and you see the beauty shine through as joy. "The essence of the Hontri! A fresh creation, newly born. A feather and a beak came to my door, the small machines within still writhing and trying to rebuild."
+
+She reaches into her cavernous space and pulls out a milky flask, then places it alongside the other essences on her shelf. "Look amongst the bottles for your needs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>DEBUG: Buy the aerial predator essence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>DEBUG: You now have the Hontri essence!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"What did you mean when you said, 'Essences distilled and experiences delivered'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Unpleasant horizons, into the depths of human experience. Some seek solace in pain or domination or unusual abilities. Were the traveler to present a gift of a unique experience, a transfusion of energy, to Sheen, arrangements might be made."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I have many unique experiences. I can provide the feeling of overwhelming another's mind with a wave of psychic energy."
+
+{TIDES}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Let me see what you have for sale."
+
+{STORE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I had other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Do you have anything in your store that can turn a timid youth into a soldier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>When she turns, you realize that the thing you had mistaken for a bundle of sticks and twine is a woman - an impossibly thin woman, her face all angles and lines, her arms summer twigs. Her clothes drape across her like sailcloth, and though her face is young, her eyes are old, old, old.
+
+Her hands are pitted and scarred from alchemical processes, the apparatus for which stands in dizzying profusion behind her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"The traveler fills my door again. What brings him here this time?"</DefaultText>
+      <FemaleText>"The traveler fills my door again. What brings her here this time?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Her eyes widen in anticipation. "Sheen has heard of such as you. Dominators and manipulators. Sheen offers essences in trade for these energies. Your offering lowers my prices. Does the traveler accept?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>She closes her eyes, as if picturing Artaglio in her mind. "The man wears the black mask of fear, but he carries the marks of a hero. He carries a soldier's *essence*, but he has forgotten its face." She frowns, and holds up two bony fingers. "Two ways to do such."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"What if it desires him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"The Hontri essence? My store possessed that item one time, but a certain traveler has already claimed it. Perhaps a negotiation lies in the future. Or perhaps a thorough check of pockets and packs." She gestures vaguely in the direction of your waist and returns to work.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>She pauses to think, her fingers rattling out a complex rhythm on her thighs as if she were cataloguing her inventory. At last she says, "No. But violence, brutality... expose your innocent to these and the knowledge will desensitize her... or him. The taste of this experience showed rage, corpses, entrails. Dreams that night were of devoured bodies. The morning's light was the color of bruises and hurt, and the sight of mortals a vision of walking meat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Know you what it seeks?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"It wants to devour Artaglio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"I have no idea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Let me ask you some other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I don't. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I can create any essence you desire...if your desire holds solid in your mind. Otherwise..." She blows across her fingers, "... ephemera. I ask again: do you know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I await."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Forget it. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"That which we eat, that which we drink - this is not the only nourishment in our lives. Without joy, without peace, without happiness or courage, existence itself becomes empty. These states, I recreate, and into dull lives restore aught of glory." She looks proud for a moment. "Clients come to me from across the Protectorate - they desire to open themselves to new sensation, though perhaps unpleasant. Why? I ask not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>She glances quickly at your chin, and looks away again."The traveler knows of my desire to distill the darker range. To explore the underbelly, the ravager's mouth of emotion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>She looks briefly at your nose before darting her gaze back to her work. "The draught of domination is complete. The traveler opened these eyes, and a path has opened for my studies as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"One." She holds up her first finger. "Fetch me his skin or bring me his hair, and I can find the truth of the man. A warning - the condottiere will see no change if you give him the essence. You must provide another subject. I mean to say that another must ingest his essence." 
+
+She meets your gaze for a moment. "The Bloom is not gentle. Few would accept your offer, knowing this. Only the truly desperate plot this course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"How do I get the man himself to open the Maw?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"What do I need for his psychic aspect?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Two." She lifts her second finger. "You must awaken bravery in him. The draught in your possession, my last - give it to him and restore him to himself."
+
+She closes her fist. "What else demands your attention?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Two." She lifts her second finger. "The bravery sold already. But alas, that has failed, and I have no more. This path to sate the Maw is closed. It must be the man himself."
+
+She closes her fist. "What else demands your attention?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Two." She lifts her second finger. "I can remind him of his truth. I tell you this - the Bloom will likely devour him. Simply look in my wares, and you shall find the bravery that he requires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>She holds her breath for a moment, and then bursts forth: "Such pain in this life! Such sadness! A small sample passed these lips, and emptiness swept upon them, a place where silver sparked into lightning, coalescing about a core, and forced its will on another. A wonderful draught. A masterpiece. An essence that completes a course of study. I thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Bank 56</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Can you tell me what you do again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>As she touches it, the glow surrounds her as well, and it cycles through a kaleidoscope of colors into a spectrum you cannot name but that evokes a painful clarity of emotion. The riot of colors subsides, and the machine ceases to glow, but the colors still play about her hands. She raises them to her eyes. The colors pass within.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>In a few moments, she begins coughing, great heaving spasms that shake her fragile frame. She glances at you as she retches and holds up a single finger, telling you to wait.
+
+She snatches a small bottle from her countertop, and a stream of thin, yellow gruel rockets from her mouth. She catches it expertly, missing not a drop, and rises from her hunched posture.
+
+She passes it to you. "Stand before the Maw and quaff the essence of the soldier. If it desires him, you will serve in his place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>She continues, more calmly. "Rather than suffer legal exile, to this place I came. The Bloom sought a piece of my mind, and so I took a piece of its, and from that connection comes the ability to draw essences. Clients seek me now, seek my knowledge, care not whether my modifications endanger me. Bliss." The angry cast of her eye suggests that these memories are anything but. She turns and spits into a bottle near her strange apparatus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Bank 62</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Can you tell me of yourself again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Bank 65</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>The expression drains from her face. "From the Clock of Kala I hail, superiority made flesh. The city of Sada Emidu, the house above the Indygel, saw my birth. My birthright - to explore, to delve, to *understand*. Yet the Zealitor in his *wisdom*, with his *implants*, told my family that *my* researches endangered me, reduced me from an augur to a mere human!" Her voice has risen to a shout, and she collects herself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"You ask me to relive suffering? Once already have I summoned memories for the traveler. Once have I saved my hurt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Ask something else. That well runs dry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Sheen has other answers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"I do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Not yet. I had other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Then step in with me."
+
+She reaches out for you as she activates her apparatus. Her hand makes contact with you, a rainbow aura settles across both of you, and you feel a connection to her mind - fleeting images of a grand palace arching over a river, a mad flight over polluted swamplands, and great aerial predators that swoop onto unwary travelers in a grassland that seems to have no end. 
+
+You feel the familiar swirl of Tidal energies begin deep within you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>As the machine continues to whir, you feel her insistent thoughts pushing at your mind. The Tides curl around her. The shell of her mind compresses, her body becomes a puppet to your will, dancing to your invisible strings. Her grasp on your arm tightens as she writhes and screams, but she lets it go on... and on. 
+
+Finally, with a shriek, she releases her grip on your arm and fumbles for a beaker.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Semi-solid bloody tears spill from her eyes, great gouts of rich and putrid scabrous tissue. She retrieves them with her bottle, scraping the lip of the bottle up her cheeks to ensure that she captures the essence completely.
+
+The apparatus winds down, and the rainbow glow fades. 
+
+Sheen meets your eyes for a long moment. "Let us never do that again. Browse the wares. The cost negligible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Such an experience should suffice - a lifetime of rage and dreams of blood, distilled into a moment, should create your soldier." She reaches into her strangely cavernous space and extracts a vial, placing it alongside the others. "Browse as you will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"I have heard that certain skilled doctors might be able to resurrect a quishamis. Are you one of them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>She slides her fingernails across her forearms, and a brief look of contempt flashes across her face. "Essences, yes, I create. Miracles of life, dead things, Sheen has no part of them. Perhaps the vivisectionists." She gestures vaguely toward the other side of the squalid Slump.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Bank 80</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Can you create a mixture that will open the Maw here in the Slump?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"I want to talk about opening the Maw here in the Slump again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Bank 83</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"I can create any essence you desire...if your desire holds solid in your mind. Otherwise..." She blows across her fingers, "... ephemera. I ask again - do you know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Then I cannot help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Know you what it seeks? All creatures live in desire. So too must the Maw desire something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"I barter *experience*, *sensation*. Any state and any emotion, if I have the means."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Semi-solid bloody tears spill from her eyes, great gouts of rich and putrid scabrous tissue. She retrieves them with her bottle, scraping the lip of the bottle up her cheeks to ensure that she captures the essence completely.
+
+The apparatus winds down, and the rainbow glow fades. 
+
+Sheen meets your eyes for a long moment. "You bring me a familiarity. Kinship in spirit." She inclines her head slightly. "My wares - their cost to you is my cost to buy. Gratitude."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Let me see what you have for sale."
+
+{STORE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>She looks at you, almost... concerned? "Intelligence suggests a way to achieve the answer. Reason, investigation, deduction." She considers the Maw. "It stands near the camp of the the soldiers. It weaves a song with its tendrils. It behaves in a way that suggests it summons. But who."
+
+She nods. "Answer is clear. Artaglio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Her angular face bobs forward. "Perhaps you do know. Perhaps you do not recognize the feeling. Look at the Maw." She matches word to deed. "See the tendrils? Do they speak to you with their movement? Do they dance in your mind? No. Feel their desire." She nods, sharply. "You feel it? They desire Artaglio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"I've considered your offer. I'll help you create an essence in exchange for lower prices on your wares."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Script Node 95</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

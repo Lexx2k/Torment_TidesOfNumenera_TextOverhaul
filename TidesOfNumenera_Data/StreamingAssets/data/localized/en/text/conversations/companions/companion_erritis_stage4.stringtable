@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_erritis_stage4</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>182</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I thought the inside of *my* mouth was strange, but this place... it's like being inside my mouth while it's inside *another* mouth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"What's on your mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"{Less cheery than normal}Oh? Oh, it's you. Can I ask you something?"
+
+If you didn't know better, you'd think he looked *thoughtful*. He rubs his tired eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Oh? Who?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I have some questions about you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"How are things between us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I think it's best we part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Nothing for now. Let us continue on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I had some questions about the people we're traveling with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"It doesn't matter. I have other questions for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Forget it. Let's continue on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"What do you think of Aligern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"What do you think of Callistege?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"What do you think of Satsada?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"What do you think of Riastrad?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"What do you think of Matkina?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"What do you think of Oom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"What do you think of Tybir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"What do you think of Rhin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"He's grumpy, did you notice that? I can't say I like him. At all. {Dramatic whisper}I think something happened to him. You know, in his... what do you call those things that happened before now? In his stories?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I have additional questions, if you don't mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>{Excited}"About my exploits? {Crestfallen}Or something else that's dull. I'm guessing dull."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"He's fine, so far as brutish glaives go. He doesn't say much though, does he?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"What's not to like! He... it... seems to think an awful lot of you, too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"He's great! And his *moustache*! I hope he becomes just like me when I grow up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"I don't know. Do you really think it's wise to have a little girl travel with strapping adventurers like us? I suppose it's safer than her *not* traveling with us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"She's *amazing*, isn't she? So kind and loving and amazing. I think she likes me as much as I do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Satsa-who? Wait, you mean that pretty woman who floats around Riastrad? I thought I had imagined her. I do that sometimes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Oo, she's *nice*. But I've noticed she's not all *there*, if you know what I mean. I mean, she certainly is *all there*, just not quite all at once."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Are you kidding? Being with you is *fantastic*! It's like adventure and love and glory all rolled up into some sort of... food you roll things up into."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Great! Before I met you, I had to make my own adventures. Now I don't even have to *think*! I just open my eyes and... {Soft, Melodramatic}adventure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I'm... all right. Though I do hope we can fight something soon, yes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I... I'm not sure. I feel tired and not at all fighty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"What's that word? The one that's the opposite of joy and swordplay. {Increasingly scared}Is it pain? Is this what pain feels like?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"That tale you mentioned in the Compound... the Thousand Kisses?"
+
+{SCRIPT: Conditional: Erritis mentioned the Thousand Kisses earlier.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Back in the Compound, did you say something about 'Intestinal Jetty of Fem-ra-door?'"
+
+{SCRIPT: Conditional: Erritis mentioned FemRhador earlier.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"The Serpentess of a Thousand Kisses, yes. I almost miscounted, that would have cost me my life. Or my dignity. It might have cost my dignity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"She had extremely sensitive lips and needles for teeth that would rotate on a belt. Only once every thousand kiss was safe, it was just a matter of knowing which one not to kiss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Oh no, no, no, all one word - *FemRhador*. You have to capitalize the R, and let it roll off the tongue like one word."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"That's why I got thrown in there in the first place, I think - it's hard to recall. They weren't a very nice people. They squirted when they talked, and didn't make much sense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"What was the jetty?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"The jetty was a huge tube that could curl and uncurl like a snake across a mucous field. In order to catch the ship that floated by, you had to enter it, and, uh, get expelled into it."
+
+Erritis shudders. "*Not* pleasant. At all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Oh, me? I'm just your normal, everyday hero. Well, not *normal*, I mean I'm the greatest hero who has ever lived! But don't tell the other heroes that. They get jealous and try to hurt me and sometimes they die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Well, I suppose I'll have to go off and write some chapters of my own... do you let me know the next time you're back in the chapter, and we'll tackle it together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Oh, well... hmm. I was having such a good time. I don't suppose I could take Oom with me...? No? Very well, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Oh... well, I shall miss you. And you, my dear Mattie, most of all. May your heart not trip on its own steps until our paths cross again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Well, I would say it's been fun and exciting, but, really, now that I think about it, it's been somewhere... {Depressed}I don't even know how to describe it. Maybe I can find something to cheer me up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"I was rather hoping we could part ways... in truth, not only do I feel in your shadow, but... well, your shadow is tremendously painful sometimes, both in body and mind. I wish you what luck and happiness you can find."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"If you have need of me again, I'll be at {X, being wherever Erritis will be}."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"What's strange about the inside of *your* mouth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"*All* mouths are strange! Fleshy bits flapping and squishing behind exposed bones?" 
+
+He pauses mid-shudder, thinking. "Although... *my* mouth doesn't have anyone walking around in it. In comparison to this place, anything's normal!" 
+
+He beams. "Thank you. My mouth no longer makes me nervous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"I want to talk about you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"About my heroics? Yes! Let's talk about my heroics!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Bank 104</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Where are you from?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Tell me where you're from again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Bank 107</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"What's that glow around you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Tell me about that glow again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"I talked to a reflection of you in the Labyrinth. He said that glow is a cloud of magic that feeds on you and makes you do dangerous things."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"I have other questions, if you don't mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"That's all I wanted. Let's continue on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>{Crestfallen}"Oh. Yes, I suppose. If you must."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Bank 115</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Have you always glowed like that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"How long have you been glowing again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Oh that's the best part about me! Well, that's not right. The *best* part about me is my dashing wit, my brazen handsomeness, and my derring-do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"I don't remember *where* exactly, but I come from low beginnings. I am every man's everyman. Every woman's too!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"But my origins make it so much better, because I was just a farm boy, and now I'm the world's greatest hero. I bet you've never heard a story like *that* before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Glow? Oh, right. I often forget how dim and drab other people are. That's just me. When I'm heroic and brave, I glow even brighter. And that means I'm ready for more heroics and braves!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"It's just me. I'm brighter the more amazing I am, and the more amazing I am, the brighter I get. It's a... what do you call it? A back feedery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Oh, yes! Well, no. That is to say, I don't remember *not* glowing. But then there is a great deal I don't remember. Not *important* things, mind you. Just a lot of things."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"For as long as I can be bothered to remember."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Erritis blinks. "{Long beat}I can honestly say I have no idea what you're talking about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"I've been pondering some things for *over an hour* about what happened back there in Miel Avest. All those people, with stories so like your own, and now so many of them have just... stopped. And I barely knew them at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"How... " He pauses, toying with his doublet and staring at the sky. His glow pulses, growing brighter and brighter until it is hard to look at him directly. "How are they supposed to be part of my story if they're dead?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Forget it!" he exclaims, relieved. "Why didn't I think of that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"I suppose you're right. What did you want to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"They aren't part of your story. Most of them were born long before any of us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"You talk about them like they didn't exist before you came along. They were important too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"They were my brothers and sisters, and now they're gone. It's not really about you, Erritis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Oh, I know," he says, chuckling. "I didn't think they *appeared* the moment I arrived."
+
+He shakes his head. "It must have been hard for them, you know? Waiting for me to get there. Knowing that things would be so *boring* until I did."
+
+Then, he slaps his forehead. "We weren't talking about me. We were talking about your family."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"It's not?" He blinks. "I don't understand. Unless I'm supposed to avenge them for my loyal friend."
+
+He glances at you sidelong. "That's you, of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Of course!" he says, chuckling. "I didn't think the world started when I was born."
+
+He shakes his head. "I often wonder what it was like, you know. The whole world, waiting for me to be born, but not knowing when it would happen."
+
+Then, he slaps his forehead. "We weren't talking about me. We were talking about your family."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Their..." he begins, then winces. The glow around him is glowing brighter than it ever has before. He doesn't appear to notice, however. "Their stories are over now, aren't they? I mean, unless they come back at some dramatic moment, more powerful than they were before. I love doing that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"But assuming that *doesn't* happen. What does it mean? Their stories mattered to them, I think. But what do they matter now?"
+
+The golden light of his aura and his casual words can't quite hide the glimmering beads of sweat rolling down his cheeks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"We escaped and they didn't. It's up to us to determine whether their lives and deaths matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Their lives are over. It *doesn't* matter. We must make sure our lives *do*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"I like to think they live on - in our memories, if nowhere else. The stories of theirs that we know are part of something larger now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"I've always lived life to the next adventure, but now I'm wondering where it will end. What will it be like?" He pauses, shocked by his own thought. {Beat}{Surprised at the thought}
+
+"What will happen after?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Erritis nods. "That's what I've always thought."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>{Wistfully}"Yes," he says wistfully. "A larger story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"*We* determine *their* stories? I've never thought of it that way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>He shakes his head. "I suppose I'll find out. Anyway, what's on your mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"I'm still thinking about what happened down there. You know, in the heart of this place. This thing. This place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"That was the perfect moment to end my story. Why didn't you let me sacrifice myself in the jaws of death? Why did I *let* you not let me?"
+
+{SCRIPT: Erritis offered himself to the Heart, but the player refused.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"I feel stronger than I ever have! Was that the end, then, or are there greater deeds yet to achieve?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"You... you stepped in for me. It was very brave - the kind of thing I would do. *Should* have done. Why would you do that?"
+
+{SCRIPT: Erritis was about to give up a memory when the player told him to stop and the Heart took something from the player.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>[Something else]
+
+{SCRIPT: Some other outcome occurred in the Heart. Maybe Erritis gave a different story that has different reactivity.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"You are my friend, and it was harming you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>For a long moment, he is silent, his glow dim. Then - 
+
+"It's almost as though... you had your own story in this. A separate one. That mine isn't the only one worth hearing."
+
+He touches your shoulder carefully, then looks you in the eyes. "Be honest with me. Am I the only hero or not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"I need you at your best. I was afraid it would weaken you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"You mean there's more to come?" He brightens. Literally. "I suppose that makes sense, but still..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"I just changed my mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Well, I can understand *that*, but still..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"You aren't strong enough. It was better that I took the Bloom's attention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"You're here because of me, so the risks should be mine as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"I didn't think you were strong enough to handle it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"I didn't want you to get hurt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"I can't die, remember? There's nothing it could do to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"That... doesn't make any sense," he says gently. "We all die. Some of us sooner than others. Sooner than we'd really like."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"That's probably kind of you," he says suspiciously, "but no, you probably couldn't. I'm very good at fighting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"How thoughtful!" he says, cocking his head. "And unnecessary. I never get hurt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"But you *can* die. That Sorrow-thing killed so many of you already."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"I guess that fits what you told me before, about how we determine the stories of others." He chews his lip. "Other people's stories matter too, don't they?"
+
+He frowns. "But then, if all stories are important, who's the hero?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"So were you ensuring that *your* story mattered then?" Erritis says, looking hurt. "At the risk of ruining mine?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"I guess that fits what you told me before, about all of us playing a part in a larger story. It..." Erritis cocks his head. "It makes me think that *others* matter, too."
+
+He frowns. "But then, if all stories are important, who's the hero?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"But if that's true, then which of our stories matters more? Which of us is the hero?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"We are all heroes. And we protect people until *they* can be heroes too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Erritis's aura reignites, but it's not his normal manic glow. The *timbre* of it has changed somehow. 
+
+"That must be it! A hero, then, not only makes stories, but *protects* others as well. Gives them time to let their stories grow!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Your story only matters in how it helps the stories of others."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Yes, but your moment of destiny is coming later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"How do you not know this? Of *course* others matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>{Taken aback}"Oh, I didn't mean... But I did." He gets a far off look in his eyes. "{Thinking aloud, growing more confident}You matter, of course. You are a part of my story. A larger story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Yes... I see it all now." Erritis glows a little brighter as he speaks. "My time is only beginning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"You joined me, remember?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"I don't... Yes, I suppose I did. What a strange thought..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Bank 184</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"How did you become a hero?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Tell me how you became a hero again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Bank 187</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"I... don't remember. I remember *not* being very heroic. I was all sad and folksy. Now I'm amazing!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"I honestly don't remember. Or choose not to? Yes, maybe I choose not to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"We are both heroes, Erritis. We each have our own story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Hmm. And maybe everyone is the hero of their own story?" He freezes, and his mouth falls open. "What a wonderful idea. I hope it's true!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Their stories don't matter, only yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Ah! That's what I thought. It seemed strange, for a moment, to have so many stories end at once. It makes more sense your way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Why are you glowing so bright?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"I'm not glowing," Erritis says, practically a human-shaped star at this point. "It's just a nice, sunny day! Help me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Did you just ask me to help you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"You are getting brighter. What's going on?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"No," he says wearily. "Stop changing the subject. We were talking about *you* and your family. How do they matter now that they're gone?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"I don't know what you're talking about," he says wearily. "And stop changing the subject. We were talking about *you* and your family. How do they matter now that they're gone?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Your thoughts seem... distressed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Stop changing the subject," he says wearily. "I'm not responsible for what my thoughts get up to. We were talking about *you* and your family. How do they matter now that they're gone?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>He looks away, murmuring to himself, his radiance fading like a setting sun, but not before you feel something... change in your mind. In the Labyrinth. 
+
+It feels - in a way you can't describe - like Erritis. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"I'm not glowing," Erritis says, practically a human-shaped star at this point. "It's just a nice, sunny day!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Is there something else on your mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Something happened when we were talking before. I heard your voice inside my head."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"You're not afraid, are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"No!" he shouts. "Maybe. Yes. But just because I'm afraid, that doesn't mean I'm frightened."
+
+He folds his arms, triumphant. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Yes! We've been standing still for too long!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"I'm very much finished with this line of questioning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"But I was just getting to the good part!" He pauses. "Wait, no. I already told it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"How rude!" he says, furrowing his brow. "Well, go into your head and tell my voice to leave immediately. I won't be offended!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"The Bloom seemed like the *perfect* place to sacrifice myself." He says this calmly. His eyes are glazed and weary. "But I'm whole. I'm alive. And not through lack of trying!"
+
+He frowns. "It's surprising."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"You want to die?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Yes!" he says cheerfully. "Well, no. I want to almost die." He gasps. "Or to die and come back from the dead at the last minute! Yes, that!"
+
+He kicks at the ground. "But instead, I keep on *living*. It's disappointing. Like death itself has stopped paying attention to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"You're not dying so long as I'm around." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"I can kill you myself if you're in a hurry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Erritis blinks. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"This is ridiculous and I'm out of patience for you, Erritis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Oh," Erritis says, faltering. "I suppose I'll th-th-think about it on my own. With my own thoughts, I mean."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>::sighs::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText> Follow-up PQ. 201</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Erritis gives your question somber thought. The effect is somewhat ruined by the fact that several of his long golden hairs are standing entirely on end. 
+
+"Not at all," he concludes at last. "I feel completely normal." A spark leaps from his head and *pops* in the air. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"I don't think so. Maybe... stronger? And weaker. Stronger and weaker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"My ideas don't feel as shouty as they used to," he says, thinking hard. "But other than that, no."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"I *think* I'm still me. And that me hasn't changed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"I spoke with the nano-spirits inside you. Do you feel any different?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Are you sure you don't feel any different since I spoke with the nano-spirits inside you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

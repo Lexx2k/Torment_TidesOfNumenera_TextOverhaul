@@ -1,0 +1,1453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4211_artaglio</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>271</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"If the Maw wants you, maybe you should confront it. Maybe you can scare it. Or maybe you can convince it that you're not worth the trouble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Confront my fear? Show it that I'm not afraid of it? Are you sure you aren't one of my soldiers' well-meaning mothers?" He stops to think. "Though aside from the occasional beating, my mother did have some good advice." He makes a decision, and suddenly he stands taller and stronger. You see the warrior that he once must have been.
+
+"Gentlemen! Ladies! Time to show the Bloom how a real soldier behaves!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"If you won't sacrifice yourself to the Maw, then I need a scrap of hair or some of your blood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The moment you nod, he happily draws his knife and saws off a hank of his hair. "Here you go," he says. "Anything else I can do to get you eaten?"
+
+{LOOT - ESSENTIAL}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"You should offer yourself to the Maw, Artaglio. You're a brave man, aren't you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The peals of laughter that spill from his lips render him nearly helpless for a moment. He finds this so funny that he drops his flagon and doesn't seem to care. As his laughter subsides, he bends over to pick up his flagon and refills it from the nearby cask. He slaps you on the back. "Excellent jest, my friend. Excellent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>He bursts out laughing. "You are truly the soul of wit. You're not a bad sort for a castoff. Not at all." He takes another hearty gulp of rum, and this brow furrows. "You're also dead right. For a change."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Are you seriously telling me that I need to confront my fears? Last time I tried that, I had to flee a balikna. And, furthermore, I was naked. No. There's no good reason for me to confront the Maw. I don't owe you any favors, I'm not particularly brave. Maybe you should impersonate me and go do it yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>He listens to your argument, and he seems to be deep in thought. Then he slams his flagon down and shouts, "Yes!" He brushes off his pants: "It's time I face these fears. Why live in the shadow of terror?"
+
+"Gentlemen! Ladies! Time to show the Bloom how a real soldier behaves!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Are you mad? Are you completely insane? Or are you simply some evil half-child who delights in the suffering of others? I'm not going to expose myself to that thing. You want it open that Maw so badly? Pretend you're me and jump in it yourself. Now get out of my sight!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"This? This is Astarian rum, one of the finest and deadliest concoctions I've found in my travels across this land. It's like being smothered in a blanket of soft fur and drowned in love. It can strip the gloss off just about any material you care to name, too." He takes a hefty swig. "And it's not for the weak. Want some?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"You think you can outdrink me? I doubt it."
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Maybe later. I have other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>It burns on the way down. He wasn't kidding about its harsh qualities, but he failed to mention the acrid sting it puts in your nose. Tears spring to your eyes, but you manage to swallow it all.
+
+Artaglio beams broadly. "Have another?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>You raise the cup to your lips and swallow, and it feels like someone poured acid across your teeth. Tears spring unbidden to your eyes, and you barely manage to swallow instead of vomiting.
+
+Artaglio laughs. "Like I said: it's not for the weak."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>You take the cup in your hand, and with a smooth motion swallow its contents in a single gulp. You can feel it burning in your throat and in your stomach, but you control your body's reflexes and show no outward sign of your discomfort.
+
+Artaglio whistles approvingly. "Have another?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>The offensive taste of the rum is matched only by its potent bite, and you are unable to keep it in your mouth. You spew your mouthful on the ground, and the nearby mercenaries laugh at your discomfort.
+
+"Like I said: it's not for the weak." he turns back to his mercenaries and begins a tall tale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Absolutely."
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Thanks, but I've had enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Have it your way, castoff." He turns his back to you and begins to regale his mercenaries with a tale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>It doesn't go down any easier than the first. In fact, it's a little tougher. But you manage to choke it down, and though your stomach rebels, you're able to keep it under control.
+
+"Most people can't drink one mug, let alone two. Even these brave soldiers - " he gestures to the crowd around him, irony inflecting his voice, " -even these mighty warriors find it hard going. But you? I challenge you to match me, and I'll match you. Put that vaunted castoff constitution to the test."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>He laughs as the acrid drink binds up your throat. You're unable to finish your second cup, and in any event the mercenary doesn't offer you any more. He salutes you, and turns back to regale his soldiers with a story.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Not only do you swallow one mug, you reach past Artaglio and refill the cup, downing its contents as well. Artaglio looks at you with a new respect - or perhaps it's fear?
+
+"All right, friend. Time to put that vaunted castoff constitution to the test. Match me, and I'll match you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>You're unable to hold the liquor in your stomach, and it turns out you're unable to keep your lunch there either. Everything burns just as badly coming up as it did going down. Artaglio and his mercenaries roar with laughter. He turns back to his coterie to continue a story.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Drink some rum.
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>You're not sure how much you've had to drink, but Artaglio is as good as his word, matching you shot for shot. At last, though, he aims a drink for his face, misses, and falls to the ground howling with laughter. His troops cheer you and share laughter at his expense.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>You lose count of the number of drinks you have, but Artaglio matches you, just as he said he would. In the end, his long experience with the rum wins out, and you find yourself slumping to the floor. His troops give you a friendly jeer, and Artaglio turns back to them with another story.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>You remain unaffected by the alcohol, but Artaglio is slumping further and further toward the ground. He drops the last half-meter in an instant, knocking over his cup. His troops hoot and holler, and they cheer your success.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>He gathers himself at last, pulling himself from the ground, and says, "Castoff, you are better than any other of your kind I've ever met. From this day forth, we are mug brothers. Mug brothers! You get one favor from me - ask quick, before I forget."</DefaultText>
+      <FemaleText>He gathers himself at last, pulling himself from the ground, and says, "Castoff, you are better than any other of your kind I've ever met. From this day forth, we are mug brothers. Mug brothers! Or mug sisters, if you want. You get one favor from me - ask quick, before I forget."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>You take the first shot and the accumulated effects of all the alcohol catch up with you at once. Your head spins, your stomach clenches, and you barely manage to avoid splashing yourself with vomit.
+
+The mercenaries have a brief but friendly laugh at your expense, and Artaglio resumes his story.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Then do me a favor and stop whining about the Maw. Go confront it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Some thieving murdens stole in here the other night, raiding us for food, weapons, and shins. They didn't get away with much, but they managed to swipe our standard. I think it was a personal insult."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I think you're missing something." Give him back the company's standard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>The conversations around the Slump die down. Artaglio's soldiers look at you, at each other, at their commander, and at the standard that Artaglio takes from you and unfurls. He unfolds it reverently, momentarily taking his eyes from the Maw. The standard is stained from the murdens' trash heap, bloody, and torn, but he holds it as if it were an infant.
+
+His face and voice lose their ironic, cynical edge. "I am in your debt, castoff. Truly I am. Name your price."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"If you are truly in my debt, then I ask that you face the Maw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>He stiffens noticeably, and the good cheer drains from his face. His eyes sharpen, no sign of drink in them now, and he studies you carefully to see if you jest with him. He looks around at the soldiers, who have fallen silent, and he sighs.
+
+He stands. "My soldiers! Time to see how a man faces his fears!" He turns to the Maw, muttering something under his breath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"I accept coin for my labors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>He nods solemnly and enters his tent. Therein, he uncovers a small chest that is festooned with locks both mechanical and mystical and performs some sleight of hand. The chest opens for him, and he scoops out large handfuls of shins.
+
+"The debt is paid, my friend. You have my gratitude."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>The features of this once-handsome man are sunken and splotchy, the face of anxiety and drink, evidenced by the flagon in his hand. The veins of his nose have broken, giving it a rosy appearance. Any cheer that might have lived in his face is destroyed by the frequent nervous glances over his shoulder. Following his gaze, you see a Maw some distance away. He looks you over, his eyes lingering on your castoff tattoo.
+
+He takes a slow, deliberate drink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"You again?" He takes a swallow of his vile-smelling drink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Come looking for soldiers, have you? You've found us. Want a kingdom overthrown, a tomb robbed, a caravan guarded? If you've got the shins, then you've still come to the wrong place. Artaglio's Irregulars are *not* ready to serve. Go hang." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>He grimaces, his face showing his age as he does. "A tattered old rag, to be sure. But the troops seem strangely attached it. Must come from marching under its flutters and seeing so many of their friends dying under it. Does strange things to a person's mind." He drinks again. His gaze shifts nervously to the maw again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"If you're a military company, where is your standard?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Murdens! We ought to go over and *buy it back*. Buy it with blood, I mean. *Their* blood. The murdens, I mean. What are we waiting for? This damsel in need - " He stops at Artaglio's glare. "This gentleman in need requires our help!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Why would they be insulting you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Why don't you go get it back yourself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Why don't you send some of your troops to get it back for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"You're a soldier? Tell me about that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Why do you keep looking over at the Maw?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Bank 68</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Tell me about your standard."
+
+{JESSE: Can you check these preconditionals? Does it break anything to have this set at 1 and the below node at 0?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Tell me about your standard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Bank 71</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"A bloody scrap of cloth, soaked in the anguish of good men and women. We fought and died under its flutters and flapping. I suppose that's why the troops are so attached to it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>He regards you through bleary eyes, leans back, and prepares to recite his tale. You can tell he's had long practice in turning incidents into anecdotes. Then he stops. "Murdens stole it. Insult. So forth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Jealousy? Because we've beaten them back before? Because we have more stuff than they do? Figuring out how abhumans think is a fool's errand. It's better to go with your instinct when dealing with them - that's what they know. Whatever the reason... well, they've got it now, and sometime I should get it back, but..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"It's not worth the bother. We raid them, they raid us... I'll get to it eventually. The Irregulars might grumble, but we'll find it soon enough." He swallows another drink, but not before you see a brief shadow of fear scattering itself across his face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"For some reason they seem to think that it's *my* duty. They want me to do it personally. I'll get to it. Eventually." He takes a hefty swig from his flagon, and his eyes dart to the Maw again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"What is this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Why did you stare at my tattoo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>He scowls. "Not much to talk about, is there? I was a condottiere. Not for hire anymore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Artaglio, Artaglio... How do I know that name? Oh, yes! I remember! You fought for the Changing God down at Flame Torrent. Serving under the Chalcedon, wasn't it? Yes, that's right."
+
+He grins. "Brave little band, as I recall, though wasn't there was some scandal?"
+
+{DESIGN Tybir in party}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Why does the Maw want to eat you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"No reason. I just don't like the way the damned thing looks. I don't like the way it *sounds*." He takes another drink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"You don't hear that whispering, chittering noise that sounds like primal hunger?" He looks suspiciously at his flagon. "It wants to eat me. I *know* it wants to eat me. Worried that it might be sneaking up on me, or that I might accidentally be slipping backward toward it. You don't fight in as many battles as I have without recognizing a potential death wish in your own heart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>He licks his lips. "You're a castoff. I'm waiting for you to tell me the penalty for desertion." He holds up his hand as if to motion a stop, and you see that his troops are all watching you. "But unless you come with more strength than this, you'll have a hard time enforcing that penalty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"What are you talking about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Desertion? From what?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Never mind. I had other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>He peers gloomily around the Slump. "I'm stuck here in the Bloom. The fight's gone out of me. I'm afraid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Artaglio looks closely at your companion. "Tybir. What a... delight... to see you again. Here to collect the bounty on us, then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Why aren't you for hire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"A condottiere?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Tybir snaps his fingers. "*That's* why the Chalcedon was so furious. You skipped out on him and the rest of the Changing God's army! I knew I remembered a scandal!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>He glares. "Castoffs can stand up after they've had their throats slit. The rest of us stay dead. When we took our last objective, we found a nest of jurulisks - not one, mind you, but many. I reported it personally to the Chalcedon, the commander of the Changing God's army, and he told me to wipe them out no matter the cost. Having lost ten of my friends that day... the cost was already too high."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"A bounty? How much- " He catches himself as he sees Artaglio's face harden. "No, no. No need to worry. Not my line at all anymore. These days I'm a... an advisor to my employer here, but..." 
+
+His eyes light up, eager for gossip. "But, tell me, what was it you did to warrant your price? Did you turn on the Chalcedon? Make off with the pay wagon? Romance someone you shouldn't have?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Nothing so dramatic. We took our objective, and then we deserted. Simple as that."
+
+He turns to look at you. "And you're telling me you're not here to collect on that? Just a castoff passing through, eh? No connection to the Chalcedon?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>(Lie) "I don't even know this Chalcedon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"I'll accept payment not to tell the Chalcedon you're here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"So I took it on myself to get the pay we were owed, and then we left. We came here to carve out a living, but it looks like we're *still* not clear of castoffs. Yes, we deserted our posts. The Endless Battle is a ruiner of lives, and I'm damned proud I didn't waste any more there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Chiurgeon Slump, the homiest place in all the Bloom. We've got the good doctors Demeray and Obervich here, and if you're sick, they'll see you right... as long as your illness is 'interesting' enough. Need something alchemical? See Sheen. Our job is making sure no one gets too friendly with their shins but us. Anyone who wants to make a home here..." he pauses as he looks at your tattoo. "*Almost* anyone who wants to make a home here is welcome if they can pay the price."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"I don't care about any of that. I just want some questions answered."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Pay you? Ha. If he wants me, he can come himself." He takes a swig. "Here's a better deal - have some rum." He waves a hand, dismissing you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Just as well. He's one of the commanders of the Changing God's army. Pompous, arrogant bastard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"What can you tell me about the First?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"What do you mean, pompous?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Nothing you can't find out on your own. She's been dead for decades, maybe centuries, but her hatred for the Changing God was so hot and so fierce that her factotums still struggle on years after her death. They said she was canny, that she laid intricate plans, and that she was a match for her sire. Past that, I don't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Just what I said. He's fighting in something called the *Endless* Battle, and he's got Paj Rekken - the castoff general on the other side - locked in a stalemate. Every move she makes, he counters. She learned at the feet of the First, so when he earns a draw, it's almost like he held off the First. And like the First, he doesn't care about mere mortals."
+
+"That's why we got out. Such a waste." He glances at the waving tendrils behind him. "Don't know that we got far enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>He peers into your face. "I'd have thought you were here for the bounty. Didn't the Chalcedon send you?" He looks back to you. "We deserted from the Endless Battle. We fought for the First's Militia on occasion, but for the Changing God's army most times. Until we were given a near-impossible task."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"A professional warlord. A venture captain. A mercenary leader. These days, a... ah, *protector*... for the good leeches of the Slump."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Because I realized I didn't want to waste the lives of my soldiers for someone who couldn't die. Because I stopped believing that shins were a worthwhile payment for living. Because the battle was endless. Because I'm a coward." He licks his lips, and glances at the Maw. "Choose one, and you're probably right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"What's that you're drinking?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"My precious skin has been scarred enough in the service of castoffs, thank you very much." Then he stops talking and thinks. "Wait a moment. You've been talking to Sheen, haven't you?" He glances toward the alchemist's lab. "About opening the Maw?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Yes. I need to open this maw, and if you're not man enough for the task - "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Actually, forget it. But answer some other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Never mind. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"I had a few more questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"No. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Best of luck with... whatever you're doing, castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"I have no idea. It's calling for... for bravery. But I tell you frankly, the idea of bravery around this thing unmans me. I haven't got anything for it to eat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Tabaht take you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>He shouts to his troops. "My dear fellows! Your leader wishes you to know that he is not, in fact, a mewling craven! It's time to show the Bloom what *Artaglio* is made of!"
+
+His troops stare at him, aghast. They clearly don't want to disagree with their condottiere, but they also recognize that this is pure foolishness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"I had just a few more questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Of course! What did you want to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"All right. I *will* forget it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"What now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Like what?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>He leans back and chuckles. "Of course you do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"So I tell her that I'm a visitant who knows nothing of human anatomy, and she says she'd be happy to show me..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"... and when the bellowheart demanded fresh meat, I unbuttoned my trousers. ... It surrendered shortly after that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"... and the Aeon Priest tells me that he'll need a much closer look to make sure I hadn't taken any long-lasting damage. Anyway, the next morning..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"So they blamed the smell on my guts, but we round the corner and there's a cragworm rolling in filth..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"So the First herself comes barreling through the flames on the back of her aneen, walls of fire curling in behind her like great wings - "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Farewell, Artaglio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"I'm a deserter from the Endless Battle. The Changing God's side. Don't tell me you haven't heard of me?" He looks away. "Don't answer that. Let me tell you what happened. We'd been working for the commander they called the Chalcedon for years. We earned our pay the hard way, but we did it honorably. We took bigger and bigger risks, and when I objected one day, the Chalcedon told me any castoff could do my job, and for cheaper."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Castoffs don't die easy. Not true for the rest of us. When we took our last objective for the Chalcedon, we found a nest of jurulisks - not one, mind you, but many.  I reported it personally to the Chalcedon, the commander of the Changing God's army, and she told me to wipe them out no matter the cost. Having lost ten of my friends that day... the cost was already too high."
+
+He glances again at the Maw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"... and the seas were boiling with this fish's breath and blood, and the captain of the vessel says we appease it with a virgin... why are you all looking at me like that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"I need no repayment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>He sighs. "You're one of those, are you? Shiny synthsteel armor, nobility dripping from every orifice, 'the work is its own reward' type? Let me give you some free advice: When someone offers you repayment for a dangerous task, accept. Self-satisfaction doesn't spend." He takes another swig from his mug.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"You want to repay me for returning the standard? Turn and face the maw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"I'll accept coin for returning your standard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>He bursts out laughing. "You are truly the soul of wit. You're not a bad sort for a castoff. Not at all." 
+
+He takes another hearty gulp of rum, and this brow furrows. "You know what? You're right. I've been putting this off for long enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>He stumbles slightly as he turns to address his troops. "My dear fellows! In case you were concerned, I am not, in fact, a mewling craven! I am..." He sways momentarily. "First, I'm drunk, and second, I am *finished* with looking over my shoulder. Time to give the Bloom some Artaglio!"
+
+His troops stare at him, aghast. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"If I'm really your mug brother, I want to call in that favor you promised."</DefaultText>
+      <FemaleText>"If I'm really your mug sister, I want to call in that favor you promised."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Some people might call this a protection racket." He takes another swig and glances sidelong again at the Maw. "Not in my hearing, though. Not unless they want to make use of one of the leeches themselves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"... uh, sir? The First has been dead for decades."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Shut up, Ranard. I'm telling a story!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Then do something about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"How would you recognize a death wish?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"The best solution is to take charge. Command these troops, and lead them out of here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"I just had a few more questions..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Until later, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Not now." Then he sighs. "Graceless of me. Sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Tell me about why you deserted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>He walks toward the Maw, and its tongues tremble at his approach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Artaglio staggers over to the Maw, and the tongues tremble at his approach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"I'd like to drink more rum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"I'd like to take another shot at your drinking game."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>He laughs approvingly and claps you on the back. He leans in close, and bellows in your ear, "Not a chance, castoff!" He leans back, smiling, and says, "You'll drink me out of house and home, and then I'd be sober. I think we can both agree that's no fit state for a man of my stature."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>He grins. "No, no. I'd hate to waste the rum. If you couldn't keep up with me the first time, I've little doubt you'd be painting the Bloom with your bile next time." He makes a show of looking around the place. "Though it *could* use some color..."
+
+He rummages around in a backpack that's lying nearby. "Hold a moment. I've got a consolation for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>He pulls out a battered mug. "Here. This is appropriate for you, friend. Wait, watch." He pours a healthy serving of rum into the mug, then starts laughing as the rum disappears to a mere swallow. "Could be helpful for the next time you think to challenge someone, eh?" He throws a friendly elbow into your ribs. "Best part is that it only does that to intoxicants. I mean, it's the best part if you're a lightweight. Me, I think it's a criminal waste."
+
+{LOOT - ESSENTIAL}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"What do you have to offer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"I'll think of something later. In the meantime, I have more questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"After all that rum? Oh, castoff... you're a cruel one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>::belch::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Shins, numenera, Ranard..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Sir!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Fine, then. Shins or numenera. Better yet, how about a favor to be named later?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"I'll take the shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"I'll take numenera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>He digs inside his filthy jerkin and pulls free a clattering coin purse. He tosses it to you, laughing. "Spend it well, castoff."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Bide a moment." He rummages in his footlocker, and he produces a piece of machined metal. "I was told this thing could be useful, but I never got around to testing it out."
+
+{LOOT - ESSENTIAL}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Is this your standard?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"I want to talk about the Maw."
+
+{JESSE - I removed the "KnowArtagliosMawDesire=1" global here}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>He shivers. "I'd rather not." He looks over his shoulder again, as if afraid that it has crept closer. "All right, fine. What did you want to talk about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Let's talk about repayment for returning the standard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>He sighs. "I'll honor my agreement. What did you want for your labor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"On second thought, I need to think about it some more. I have other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Never mind. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Then he reconsiders. "Fine. What d'you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Don't be in a hurry to come back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"I want to ask about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>He sighs. "Of course you do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"I wanted to talk about your drink."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"My favorite subject! How did you know?" His eyes twinkle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"I want to ask about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Why would they be insulting you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Remind me why they would insult you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Jealousy? Because we've beaten them back before? Because we have more stuff than they do? Figuring out how abhumans think is a fool's errand. It's better to go with your instinct when dealing with them - that's what they know. Whatever the reason... well, they've got it now, and sometime I should get it back, but..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Who knows how abhumans think, if they even think at all. The point is *I* take is an insult."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Why don't you go get it back yourself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Why don't you get it yourself again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"It's not worth the bother. We raid them, they raid us... I'll get to it eventually. The Irregulars might grumble, but we'll find it soon enough." He swallows another drink, but not before you see a brief shadow of fear scattering itself across his face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Oh, we will." He takes a long drink and slurs his next word. "Evenshually."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Why don't you send some of your troops to get it back for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Tell me again why you don't send your troops to rescue the standard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"For some reason they seem to think that it's *my* duty. They want me to do it personally. I'll get to it. Eventually." He takes a hefty swig from his flagon, and his eyes dart to the Maw again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"They want me to do it personally, and I will... eventually."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"I'll think about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>He looks around again, his eyes lingering on the Maw behind him, and he takes a long drink. "Fine. I owe you a favor. Let me know when you want to call it in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>(Reconsider) "I've changed my mind. I will accept a favor for the standard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Ha!" he barks. "What'd I tell ya? Self-satisfaction don't pay. Now what do you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"What's that you're drinking?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"What are you drinking again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"This? This is Astarian rum, one of the finest and deadliest concoctions I've found in my travels across this land. It's like being smothered in a blanket of soft fur and drowned in love. It can strip the gloss off just about any material you care to name, too." 
+
+"Most people can't drink one mug, let alone two. Even these brave soldiers find it hard going. But you? I challenge you to match me, and I'll match you. Put that vaunted castoff constitution to the test."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Astarian rum! Not for the weak." He takes a hefty swig. "Want to try your luck in a drinking game?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"It's in the darkness." He peers gloomily around the Slump. "In your marrow. You can feel your muscles, your *soul*, rebelling against your own desires. And when you turn around, you find your desires have changed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>Then he looks at you again, and seems to realize who he's talking to. "Tabaht take me, why am I opening my heart to a castoff? Get out of here!"
+
+He turns his back to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"You should offer yourself to the Maw, Artaglio. You're a brave man, aren't you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"Are you sure you won't offer yourself to the Maw?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>The peals of laughter that spill from his lips render him nearly helpless for a moment. He finds this so funny that he drops his flagon and doesn't seem to care. As his laughter subsides, he bends over to pick up his flagon and refills it from the nearby cask. He slaps you on the back. "Excellent jest, my friend. Excellent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>His face darkens. "It was funny once, castoff. No more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Why does the Maw want to eat you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Why does the Maw want to eat you again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"I have no idea. It's hungry for... for *bravery*, I think. But I tell you frankly, the idea of bravery around this thing unmans me. I haven't got anything for it to eat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"It's hungry for *bravery*." He huffs. "I don't know why it thinks it'd find any in *me*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"I want to talk about the Maw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"I want to talk about the Maw again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>He shivers. "I'd rather not." He looks over his shoulder again, as if afraid that it has crept closer. "All right, fine. What did you want to talk about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"Fine. But be quick."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"You should confront it. Take charge of your destiny. You're Artaglio! Captain of the Irregulars!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>[DEBUG: Start the cutscene of Artaglio offering himself to the maw.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"A nice try, castoff. What was that? Poison? Hallucinogen? Nano-something or other? I've had my fill of most every toxin around these parts, but they really ruin the flavor." He peers at you and sighs. "You want me in the Maw badly enough that you're messing with my drink? It must be pressing business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"It was bravery essence. I want you to confront the Maw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"But here's the thing, castoff: you have nothing for me. What do I owe you? I'm just standing in your way, and like all your siblings, you give no thought to *my* life if it means getting what you want." 
+
+He takes a measured drink, and then he holds up a finger, inspired. "Wait, here's a grand idea! Why don't you pretend to be me and jump in the damned thing yourself?" He chuckles morosely. "Failing that, get out of my sight. Your type makes me ill."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"You know the Maw wants you, and you want to give up... but you're drowning your fear with drink, Artaglio. Just give up. Go to the Maw."
+
+{TIDES}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>You feel something *pulse* within your chest, and a crimson rush of power forces itself from you, curling around the soldier and spinning back into you, bringing something strange... almost as if you had caught a piece of *him*.
+
+Artaglio staggers back a bit and raises a hand to his face. "What the... what was that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>He looks at the Maw, and this time he lets his gaze linger. "You... you make sense, castoff." His voice is quiet, almost dreamy. "Why would I let myself live in fear? I'm already hiding in the depth of the Bloom. This is but one more step, eh?"
+
+He turns and places an unsteady foot in front of himself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"You're stronger than your fears, Artaglio. Look inside yourself and recognize the truth. Face the Maw... and *live*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"What must your soldiers think, watching you dither and drink in front of something that scares you. Inspire them, Artaglio. Face the Maw. Show them what you're made of."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Tell me again about soldiering."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"Oh, didn't I introduce myself? How rude." He swigs again, and then makes a mock bow. "Artaglio, condottiere at your service. Veteran of countless battles, mercenary not currently for hire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>He laughs, a gleam in his eye. "I'm brave. It wants my bravery. Can't you *tell*?" He turns and spits at the Maw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"My bravery! My very best characteristic!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"Because it wants to eat me. But I'm not scared! You hear that?" He turns and grabs his crotch at the Maw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"I should warn you, though, that if you make a move on my rum, you'll find I've lost none of my skills with the blade. Oh, I saw you eyeing up my barrel, and I'll fight to defend its honor."
+
+He sighs. "But you're here now. You must have a reason. What d'you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"What will happen if the Maw eats you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"It'll take what it wants of me. Then it'll open a portal to... somewhere." He shrugs. "Same thing that always happens when a Maw feeds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"I really need to open that Maw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>He snorts. "So pretend you're me and jump into its mouth yourself. What do you expect me to do, castoff? Kill myself to solve your problems?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"I can't believe you offered yourself to the Maw for me." His eyes are wide and wondering. "I've never... I've seen military comrades risk their lives, but I never thought I'd see the day when a castoff might. You have my deepest respect."
+
+He pauses. "But I'm still going to keep my insouciant air. People expect it of me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"Cutting open the Bloom? Friend, you're far braver than I ever was. Ever. Keep an eye over your shoulder, look out for sudden tentacles in the floor, and don't go down any strange hallways... I'd hate to see you eaten."
+
+He drinks. "On the bright side, it's not whispering to *me* anymore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"Castoff." He nods respectfully. "Welcome back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"You're welcome here any time, castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>He looks at you sharply. "How do you know what it wants? I didn't tell you."
+
+Then he waves a hand. "Bah... never mind. I don't want to know your secrets, castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"Have you seen any of the Memovira's patrols around here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"They stopped by to collect their 'duties' a while ago." He belches. "Can't remember when, exactly. I think they were headed for the old slave block next. That's where the *murdens* live." He lifts his mug in a mock salute. "Best of luck to them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"They stopped by to collect their 'duties' a while back. Can't remember when, exactly. I think they were headed for the old slave block next." He squints at you. "But I'm guessing you knew that, judging by the look on your face."
+
+Shrugging, he takes another swig of rum. "That's the only patrol I've seen for a long time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>The features of this once-handsome man are sunken and splotchy, the face of anxiety and drink, evidenced by the flagon in his hand. The veins of his nose have broken, giving it a rosy appearance. Any cheer that might have lived in his face is destroyed by the frequent nervous glances over his shoulder. Following his gaze, you see a knotted mass of Bloom-flesh, surrounded by waving tendrils, some distance away. He looks you over, his eyes lingering on your castoff tattoo.
+
+He takes a slow, deliberate drink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"Why do you keep looking over at that knot of Bloom-flesh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"The Maw? Because it wants to eat me. But I'm not scared! You hear that?" He turns and grabs his crotch at the Maw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"The Maw? No reason. I just don't like the way the damned thing looks. I don't like the way it *sounds*." He takes another drink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"I don't even know this Chalcedon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>"Oh yeah? What is it you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"Give me the shins you promised."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>"Give me the numenera you mentioned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"Go confront that Maw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Some people might call this a protection racket." He takes another swig and glances sidelong again at the knotted mass of Bloom-flesh. "Not in my hearing, though. Not unless they want to make use of one of the leeches themselves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"Actually, let's discuss it later. I have other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>Script Node 350</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

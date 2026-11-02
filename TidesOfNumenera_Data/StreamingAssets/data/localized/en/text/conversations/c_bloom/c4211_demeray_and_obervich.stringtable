@@ -1,0 +1,1391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4211_demeray_and_obervich</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>259</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Why, good sir! Greetings, greetings, and welcome to our little... *operation*!" His long face suffuses with a smile at his joke. His sagging skin and the dark bags under his eyes speak of a deep physical weariness, but his manner is bright and cheery. He wipes his nose on a filthy sleeve and extends his hand. "My name is Doctor Demeray!"</DefaultText>
+      <FemaleText>"Why, good lady! Greetings, greetings, and welcome to our little... *operation*!" His long face suffuses with a smile at his joke. His sagging skin and the dark bags under his eyes speak of a deep physical weariness, but his manner is bright and cheery. He wipes his nose on a filthy sleeve and extends his hand. "My name is Doctor Demeray!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>His partner steps forward as well. "And I'm Doctor Obervich!" He extends his hand. "It's probably best to grasp the top one." Like his partner, his face is long and seamed. Unlike his partner, each of his arms is bifurcated at the elbow, with a mechanical forearm and hand grafted to them. A multitude of prosthetic eyes are drilled into the top of his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"*Most* in our profession believe that they should preserve a patient's anonymity. Not us! When one works far on the outskirts of knowledge, we feel, one has an obligation to share knowledge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"As revolutionaries in our discipline, we help disseminate facts and truths others might need. Indeed, this is the primary purpose of our venture. We will be publishing any day. Any day." He clears his throat. "You asked about our patients."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Do you know any way to restore the sight of someone without eyes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Without eyes? Were they destroyed, or is this inherited? Was this a creature that has no visual cortex?" He waves his hands. "It makes no matter. I can restore sight to any living creature." He leans forward and taps your chest. "*Any*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Obervich is nodding and smiling, and prepares to offer a boast himself, but as he holds up his strange arm, his index fingers in the air, he pauses and says quietly, "Do you mean restoring sight *and* retaining independent nervous autonomy? That is, without scooping out portions of the brain?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Oh dear. Oh dear, oh dear." He paces a very small circle. "I know only one procedure that meets the specific qualification that she retain all her faculties, I'm afraid. It is long work. Long, hard work. Long, hard, *expensive* work." He glances at Obervich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>The half-man returns his partner's quick look. "It would require compensation worth more than coin. Perhaps if you found us an interesting test subject for investigation, we could consider a fair trade. And when I say 'perhaps' and 'could', I actually mean that it would suffice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>His head starts bobbing up and down before you're finished speaking. "Oh yes. So very *much* yes. We would be particularly interested in investigating this tattoo on your head. It seems reactive and strange."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"We have seen others with this kind of tattoo, and have tried to recruit some of them. Some have been less than willing, and we have had some unpleasant feedback loops from others. I'm delighted to know that you come to us voluntarily."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>The first order of business is an injection. Your consciousness swims into a dreamy half-haze, objects taking on a luminous, rainbow-tinted beauty. A sense of great satisfaction fills you, a rush of pleasure through your veins. Even when Obervich leans over you with a scalpel and begins to cut, you feel only a slight tugging... and the bead of your blood stuck to the edge of the scalpel makes you want to weep for its transient beauty.
+
+Eventually you drift into darkness.
+
+{JEREMY: I'd prefer the player to lose 2 permanent points of Health or 1 point of Int here, but leaving it at 1 Health for now, pending your balance pass.}
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ah, friend! Welcome back!" Demeray wipes his nose and grabs your hand, pumping it furiously.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Oh, you return! I hope something is wrong with you. Ah, by which I mean I hope that we get to treat you. By which I mean, of course, that you are fascinating. Just fascinating."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>A distant thunder summons you back to consciousness. Your eyes blink blearily open, and you see Demeray's face peering into your own. You feel as though you have been torn open, your mind stripped, and something indefinable snatched away. A sense of loss pervades your being.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"All of our patients are unique in some way. We need someone outside the norm, someone who has some special aspect that no one else can offer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Oh, yes, yes. We are always trying to expand our knowledge, advance the field of study, to... well, you get the point. We need someone who can help us develop *art* and *understanding*. Which is to say, someone new, not someone we've already enhanced."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Would any of my companions serve as an adequate test subject?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ahem. Well, let me be perfectly frank, since my broad hints were apparently a little too subtle - I was hoping that you might let us examine *you*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Bank 30</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>He turns to Aligern. "Those tattoos on this older gentleman are something, I must say. Look at the way they writhe! Obervich, are you seeing this? Oh my, yes. This gentleman would make an excellent subject to expand our horizons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Now, now, my friend. Let us not be greedy or presumptuous. We have been presented with an intriguing choice. Let us examine this opportunity with the thoroughness it deserves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>He recoils when he looks at Matkina. "Ah, no. She is unsuitable, quite unsuitable. I had the opportunity to interview her once before, and discovered that she has some latent ability to blind people. Additionally, she is not cooperative."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>He touches Riastrad. "Ah, the enforcer in the living armor. We've already examined silver orphans and have developed some theories about their control of metal. We don't need to explore those theories just yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>He holds his hands near Oom's center of mass. "Oh my. Oh... *my*. This is truly fascinating. Is the thing psychically reactive? How does it learn? It seems to have formed a bond with you, but without a visible sensory apparatus... no, wait, is its entire *skin* a sensing organ? Oh, this one will do nicely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>He reaches for Erritis. "A pale boy? No, I don't think... wait a moment... *wait a moment*... this golden cloud, do you know what it does, lad? Are you aware of - " he stops talking, aware that Erritis is simply staring at him. "This boy will be an excellent subject."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ah, yes. Ahem. We've already had some exposure to our former colleague, Callistege. We've had our researches and our hypotheses, and so far have turned up nothing. We'd love the chance to expand our knowledge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>He lifts his eyes to Tybir. "A sellsword past his prime? Does he do any tricks? Have any hidden talents? Does he perhaps gout purple flame from his rear?" Obervich's eyes click through a number of different foci and filters, and he frowns. "No. Just an ordinary man. No, not suitable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>His gaze rests on Rhin for several moments. Suddenly he shakes his head and looks away. "No," he murmurs. "She is not suitable. Leave her be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Why don't you examine Oom? Let me know what you find."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"You said that Aligern would be an interesting study to increase your knowledge. Take him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"You've said Erritis would be an acceptable choice. Erritis, go with the chiurgeons. Help them increase their understanding."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Oom shrinks in on itself, and extrudes thorns as the duo close in on it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Me? You're going to give me to these butchers? Not if I've anything to sa-" He whirls on Demeray, who is sneaking up behind him, and sticks his finger in the chiurgeon's face.
+
+"Not another step, quack, or you'll find out what these tattoos can do firsthand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>His chest puffs out. "Well now. These fine gentlemen have obviously *not* seen the distinctive sheen of heroism before. Prepare to be astonished!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>It prepares to lash out at Demeray, and with remarkable speed Obervich sprays it with some sort of aerosol. Whatever was in the spray instantly destroys Oom's defenses, and Oom loses shape and collapses in a puddle on the floor. The two doctors scoop it up carefully and carry it to the table for careful examination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Demeray sighs and sprays Aligern in the face with some sort of aerosol. The big man drops as if he'd been paralyzed. The two chiurgeons load him up and drag him to the table for his examination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Err... I suppose it *could* happen, but I make no promises." 
+
+The doctors make encouraging noises to Erritis, soothing sounds that calm his nerves as they lead him into a side room. Demeray pulls a white curtain closed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Demeray nods respectfully to you. "We'll have your little friend back for you in no time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>At last they are finished, and Demeray reveals the table on which Oom sits. The little blob is quiescent until you approach, with none of the signs of personality that marked its character.
+
+"A success!" Demeray announces. "Patient #28 was an admirable client, and should make a full recov-" He pauses and looks at Oom carefully. "Should mostly recover relatively quickly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>He steps in to cover for his partner's faltering explanation. "Quite a thrilling exploration, if I may say so myself. Quite an honor to study it. Quite an honor indeed!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ah, my good colleague has forgotten to tell you, but you may experience dizziness, nausea, some bleeding for a short time. Nothing to be concerned with!" He clears his throat. "We've uncovered some interesting facts about your tattoo, if you'd like to hear them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"So in order to help an acquaintance regain her sight, I need to provide a test subject?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Yes, yes indeed! We always need good test subjects, and those who provide *interesting* research opportunities are few in number."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"These days, more so than most. It is the cruel irony of finding a place with so much potential, so far from the prying eyes of meddling do-gooders, and with such rich potential for otherworldly visitors... and with so few actually worthy of our time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Demeray nods respectfully to you. "No worries! We'll have him back and better than... We'll have him back shortly!"
+
+He shoos you away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>At last they are finished and you can see Aligern sitting on a table spattered with blood. He raises his face slowly to you, and his eyes look low and empty.
+
+"What a surprise!" Demeray announces. "Patient #28 was (note to self) initially difficult, but we were able to sedate him successfully and complete our investigation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Quite exciting indeed! This was a well-chosen subject, no doubt. Thank you so much for the opportunity!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Err... I suppose it *could* happen, but I make no promises." 
+
+The doctors make encouraging noises to Erritis, soothing sounds that calm his nerves as they lead him away. Demeray pulls a white curtain around them.
+
+A high-pitched buzzing emanates from the operating area, and then a strong golden pulse, like a heartbeat, fills the small room. Hours pass, and the glow dims.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>At last, Demeray steps out to greet you. Behind him, you see Erritis sitting on a long table. The glow around Erritis is patchy and flaking, rather than a robust shine. He looks drained.
+
+Demeray's dirty coat is slightly dirtier than before, and a sheen of sweat covers his forehead. His eyes are aglow, however.
+
+"Fantastic. Just fantastic. Your cohort was an excellent subject. We hardly dug around inside him at all, so he should recover quickly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Oh *my*, yes. We've studied Patients #28 through 13492928512 (that's 28 to the 7th power, and we will probably file them under #28 for easier reference), but lost track of the patients because they keep co-joining and separating. Your friend performed splendidly. I hope you don't mind, but we took a small sample to investigate more thoroughly. At any rate, I'm sure you'll want to be off." He stands expectantly, waiting for you to leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Perhaps my companion could serve as your test subject?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Callistege's voice is as warm as you have ever heard it. "The good surgeons. How fare your adventures in art?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Bank 67</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>He turns to your companion. "Callistege. The years have been kind. Or," he adds, chuckling, "they have been kind to those of you within range of my perception."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Well, very well! Now that we're in the Bloom, we no longer need scruple with mundane things like antiquated laws or alleged codes of ethics, and are free to pursue the avenues of thought that were previously closed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"I don't suppose you've managed to make headway on my... concern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Let them continue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"I hate to break up the reunion, but I need some questions answered."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>He turns his multi-eyed gaze to you. "Of course, of course. But first... Callistege, we have prepared this injection for you. Remove the Attractor, use this, and it will seal off your mind. Permanently, I'm afraid - you will lose your *fascinating* status as a potential hive-mind." He shakes his head and tuts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"But where are our manners? How can we help you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Not yet, alas. Other matters have come up. Other avenues have opened. Other possibilities have beckoned." He smiles again. "That's a response for three of you. There are so many possibilities here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Yet not one answer for my possibilities. You've had years, and we fracture through time. My sisters' voices grow louder, and I grow louder in their minds as well. The situation is becoming *intolerable*. I must know - can you find a way to sever us, or can you find a way for us to integrate ourselves smoothly?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Our apologies, Callistege. We'll begin a new course of study shortly." A hint of steel creeps into his voice. "We can't change the past - at least, not yet - so that will have to suffice." His warm tones return. "Now, what can we do for you, traveler?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText> Follow-up PQ. 78</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"What can you tell me of yourselves?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Can you tell me of yourselves again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText> Follow-up T. 81</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>His chest puffs. "We are chiurgeons - no, *doctors* and *explorers* - who seek to expand the universe of medical knowledge. We have found the answers to many questions, dissecting and vivisecting any number of strange beasts, and we come ever closer to unlocking the deeper secrets of human existence!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Are you sure you're not sick? Perhaps you require us to examine your ears? Hmm. It might also be your memory. Just a quick examination, no more than a few hours. But let me refresh you - we are doctors, friend, and we are here to conduct experiments that advance our field of knowledge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Bank 84</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"I hasten to add that we are not licensed in a number of jurisdictions, and in fact I understand that several localities have warrants for our arrest." He gestures to himself. "We do nothing to others that we are not willing to perform on ourselves. In fact, we only seek out specialized persons - we are particular about our patients."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"It does look as if you've sustained some damage. The scar on your face - a burn? But it looks like a friction burn, rather than... oh my, yes, we should definitely like to examine you more closely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"We take on any number of specialized patients. Take Patient #27, for example... or Jont, as he calls himself. He was a visitant from another world - an alien creature. Our local Maw devoured him and then spat him out a year later without his skin, muscle, or memory. Yet if you look at him, you can see that he has both skin *and* muscle. Granted, it's *human* skin and muscle, but that's all we had to work with." 
+
+He pauses. "We couldn't do anything about his memory."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Why couldn't you restore his memory?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"What happened to his memory?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"I have other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Thank you. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"The Bloom devours more than flesh and bone. It is hyper-aware, hyper-sentient, and its needs are still beyond our knowledge. We do know that it sometimes feeds on certain mental states, and that certain psychic wavelengths attract its attention. I theorize that it nourishes itself on those wavelengths. This is most likely what happened to Jont. His *essence*, if you will, has been absorbed and probably excreted by now. There is no recovery from that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"The subject should retain her faculties, yes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Well, she didn't specify..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"I thought you said this was a long, hard, and expensive operation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"What if I put it on my own face?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"It will likely not work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>He has the good grace to blush. "With the chance to examine one of the Changing God's children, I couldn't let the opportunity go past. Think of your contribution to knowledge!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>" - and it would scoop out a portion of your brain in the attempt. No, sadly, I cannot recommend that you try it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"With the chance to examine you, I couldn't let the opportunity go past. Think of your contribution to knowledge!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Think of what I'm going to do to you if this eye doesn't work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Yes, I'm quite thrilled. Answer some more questions for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>He looks down at his feet. "We have had some experience with disgruntled patients. it is true. How do you think Obervich gained his eyes?" He looks back up. "We prefer to think of the mob's savage beating as an opportunity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"It is true. If the eye does not work, we deserve nothing less than your scorn, and perhaps a minimal level of physical violence." He bows. The only tell of his anxiety is an involuntary curl of his lip. 
+
+"Do you have any other questions?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Good day!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Now, now, my friend. This companion might be worth investigation. Let us not be hasty. Haste is the hallmark of the dabbler and the dilettante." His eyes *whir* as they focus on your companion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"If you can convince your companion to, ah, submit to our ministrations, we are ready to begin any time you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"I regret to say this, but say it I must - simply not appropriate. Only one person of your cohort is interesting enough for our study." He rubs his fingers on his dirty coat as he speaks, and then meets your eyes. "You. Only you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Ahem. Well, let me be perfectly frank, since my broad hints were apparently a little too subtle: I was hoping that you might let us examine *you*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>He shoots a sidelong look at Matkina. "Or, at least, cooperatively."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Not really. You promised to help me restore a woman's sight, remember?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"What kind of facts?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"What?... Oh! Yes! My apologies!" He reaches up to the profusion of eyes on his head and selects one, seemingly at random. With a grimace, he works it free from his head. His scarred flesh flows around and fills the hole where it resided. 
+
+"Simply place this eye on the recipient's face, and it will do the rest of the work. Easy!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"The tattoo is not really a tattoo. It's more like an amorphous gateway, a skein of living tissue that reacts to specific psychic vibrations. If I am not mistaken, a specially-skilled individual might even be able to use this skein as an entry into your mind itself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"You said that you could tell me more of my tattoo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Tell me again what you learned about my tattoo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Never mind. I had other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Of course! We will answer what we can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Ha! Who's to say that there might not be someone there already?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>He curses, though his words sound more like someone who has never learned the hang of the business. "We should have checked for that while we were in there." He turns to you. "Perhaps you'd let us go back in and check for any visions, spectral voices, or hallucinations?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Regretfully, my friend, our client has fulfilled his part of the bargain. Furthermore, opening him up again would probably kill him - even despite that remarkable regenerative ability he evinced."</DefaultText>
+      <FemaleText>"Regretfully, my friend, our client has fulfilled her part of the bargain. Furthermore, opening her up again would probably kill her - even despite that remarkable regenerative ability she evinced."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"You were a model client, simply fantastic. I can also tell you with 90% certainty that almost all of your organs are back where they should be." He beams, clearly proud of his work. "Incidentally, you're completely impotent, and will never be able to father any children. Er, I hasten to add that you were like that when we started."</DefaultText>
+      <FemaleText>"You were a model client, simply fantastic. I can also tell you with 90% certainty that almost all of your organs are back where they should be." He beams, clearly proud of his work. "Oh! I should mention that your reproductive system is just for show. It was like that when we found it, I hasten to add. If you have parents, you might want to let them know that they will never be grandparents."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>He looks at you, clearly expecting you to leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"So what are the next steps to restore the sight to my blind acquaintance?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Gladly! You'll be interested to know that the tattoo is not really a tattoo. It's more like an amorphous gateway, a skein of living tissue that reacts to specific psychic vibrations. If I am not mistaken, a specially-skilled individual might even be able to use this skein as an entry into your mind itself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Ha! Who's to say that there might not be someone there already?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>He curses, though his words sound more like someone who has never learned the hang of the business. "We should have checked for that while we were in there." He turns to you. "Perhaps you'd let us go back in and check for any visions, spectral voices, or hallucinations?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Regretfully, my friend, our client has fulfilled his part of the bargain. Furthermore, opening him up again would probably kill him - even despite that remarkable regenerative ability he evinced."</DefaultText>
+      <FemaleText>"Regretfully, my friend, our client has fulfilled her part of the bargain. Furthermore, opening her up again would probably kill her - even despite that remarkable regenerative ability she evinced."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Oh, just that it's not ink but living tissue, that it amplifies certain psychic abilities, and that it might act as an ingress or egress for other minds. Nothing to be worried about!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Well, unless you find yourself doing something dramatically out of character or a host of memories suddenly begin playing in your mind. Then you might be under some sort of psionic attack. Not likely, though!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"So... what do we do about my blind acquaintance?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"But of course!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Tell me what you learned about Oom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Did you realize this little fellow is reactive to psychic energies? Apparently it imprints on a single person, and feeds on a body of forces that we haven't quite been able to figure out. But it is a gifted mimic, of a nature we haven't seen before. By attuning itself to the psionic leak of its chosen partner, it is able to react in a way that should please its master." He looks carefully at Oom. "I would suspect he was a curio, perhaps a toy? Are there others like him in the world..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>After about fifteen minutes of murmured conversation, after the sounds of metal instruments being set down in metal trays, you hear an oath from Obervich. Then you hear a scream from Demeray. Even as you move toward the table, their screams escalate in pitch and volume and are suddenly cut short.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>The place is a charnel house. Aligern, lying in repose with his tattoos writhing energetically, is covered with blood, but very little of it seems to be his own. Most of it seems to belong to the two doctors on the floor, who have been torn apart. But by whom or what? There is no one else in this area but Aligern, and no other entrance.
+
+No amount of cajoling can seem to wake Aligern. You'll have to wait for the sedative to wear off.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>After an hour or so, Aligern stretches and sits up. "What th- What happened while I was out?" he demands. "Are you going to try to pin this on me?" He grabs his top and pulls it back on. "Seriously, what happened here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"You murdered them while you were asleep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"I have no idea. One moment, it was peaceful, and the next... blood everywhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Maybe they should have waited for *my* consent, then." He picks up his gear. "Let's get out of here." He leaves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Take Obervich's mechanical eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Follow Aligern out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>You reach down to the ruin of Obervich's head, and you try to remove the helmet perched atop his skull. It cracks as you pull, and strands of wire pop and crackle as you separate it from his head. Beneath the synth is a ruined, shattered mess - no bone; only tissue. 
+
+Of the eyes on the helmet, only one remains lit. You pry it off and drop the rest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Tell us what you learned about Aligern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"No idea what happened, then? I'm not going to lose any sleep over it. These two were butchers, and they paid the butcher's price. Let's get out of here." He picks up his gear and leaves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Well! First, those tattoos truly are alive. They are independent, sentient beings that react to your compatriot's desires. Furthermore, it seems as if they're trying to communicate - not just with each other, but with their bearer as well." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Additionally, they are not what they seem. Their sentience is encysted inside the writhing lines, which seem to be some sort of transportable shell. I'm not sure about their symbiosis or translation, but I would advise caution in their use. Ah! But we are forgetting our agreement, Doctor Obervich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"You've said Erritis would be an acceptable choice. Erritis, the woman with no face needs our help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Having no face makes her seem more like a monster than someone we should help... but no. A hero helps everyone. Very well!" Puffing up his chest, he happily steps to the table where Demeray and Obervich await. 
+
+"I am not afraid. Study me all you like. As long as it doesn't hurt. And you don't poke at my teeth. I don't like that..." A thought strikes him. "Do you think you could put hands on my feet? Could that happen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Aligern, the woman Skoura needs our help. Will you volunteer yourself as a subject?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"I appreciate your concern for others, but I don't think you know what these two butchers do. If I have anything to say-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Tell me what you learned about Erritis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Well! Your friend here is not what he seems. Or at least not entirely. The glow that surrounds him is a collective machine intelligence, and the cloud draws its strength from him even as it makes him stronger and more skillful. At the current rate of energy transfer, he's not likely to survive much longer... but that remaining time will be *amazing*. More study of our sample will be warranted, of course."
+
+He inclines his head toward the exit, clearly offering a hint.
+
+{GAVIN: Does this reveal work for you here?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Me? Why are you offering me?"
+
+{COLIN: This exchange is 9 nodes long. Can it be shortened at all?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"My good sir, your nanite glow is astonishing, and we-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>He exchanges a glance with his colleague. "Yes. It's your... heroism... which has us so excited. We hope to... ah... teach others how to be heroic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"I am not afraid. Study me all you like. As long as it doesn't hurt. And you don't poke at my teeth. I don't like that..." A thought strikes him. "Do you think you could put hands on my feet? Could that happen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Erritis seems a bit out of sorts and can't seem to focus. His field is fluctuating wildly, almost panicked, although he himself seems calm, almost blank. 
+
+"What... what am I doing here? Who are you?" He blinks. "Who am *I*?" A note of fear enters his voice. "What is that buzzing? Am I dreaming?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"I think those doctors broke Erritis. In his feeling places."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>She whispers, "...and his head places."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"...and... someone's in trouble! We're missing someone! Never leave a woman behind!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"He, ah, he'll be fine in no time. Back to normal. Normal in no time at all! You'll see. Now, if that concludes our business..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"What concern was that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>He gives you a nervous bow. "You may have noticed that your friend has, ah, splintered herself through multiple realities. We have been seeking solutions for her to return herself to a single reality, or to shield her core individuality. Ah, we have been doing so at least part of the time. But let us not interrupt!" He turns and waits respectfully as Obervich answers Callistege. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Bank 201</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"What sort of work do you do here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Tell me about your patients again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"And I am always delighted to provide more answers, am I not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"No explicit consent? We've gone that route before." He sucks on his lower lip for a moment. "We should assume she wishes to remain fully aware, yes. Assume the positive. But then again... no. No. Hm. Wait. Let me think." He starts muttering to himself. "Mulder's Vise? Kaisen's Precise Memetics? Hyen's Mental Melter? Zaiyet's Laborious Incision? No, none of those. Only... hm." He looks up at you, dismay in his eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Bank 206</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"What qualifications do you need for an 'interesting' test subject?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Tell me again what qualifications you require for a test subject."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Then I'll volunteer myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"It is. But let's talk more about your test subjects."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Actually, let me ask some other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Certainly, certainly!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>Bank 214</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Would *I* qualify as an 'interesting' test subject?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"I volunteer myself as a test subject."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Are you trying to get rid of me? What of our bargain?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Kill me? I think you nearly did, you frauds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Ha! That's not the first time we've been called *that*, nor do I imagine it will be the last! Doctor Obervich, let us prove our good intentions and fulfill our end of the bargain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"*Bleeding?*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Well, we did have to cut you open here and there. You volunteered, did you not? Now, listen, it's important you hear what we've discovered."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Ideally, though... we'd be able to investigate *you*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"A toy? Perhaps, if you call every two-handed cleaver a knife. I submit that this creature was a *weapon*, a deadly fighting machine that... Well, maybe not so deadly anymore." He pokes Oom with his finger, and the ball of inky flesh barely reacts.
+
+"Anyway, we have an agreement to fulfill, Doctor Obervich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"I just wanted to let you know that Obervich's eye has restored a blind woman's sight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"It did? I mean... of course it did!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Indeed." He bows. "We have a nigh-unbreakable guarantee of the efficacy of our cures."
+
+He turns and whispers to Demeray, though loudly enough that you hear it. "That was lucky, was it not? I hoped, but I did not know."
+
+He beams at you. "Now... how can I help you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"My friend, you are in luck. This was my colleague's thesis back in his university days, before they took exception to some of his more unusual explorations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"A *part* of my thesis, good sir. A part only. The other part involved grafting human intelligence onto the reconstituted creature." He bows slightly. "I was successful in the first part, I am happy to say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>He adjusts his smock. "Do you have the original core of the quishamis? If not..." He spreads his four hands apologetically. "I must caution you: the process may possibly destroy your artifact."
+
+He coughs. "Certain of my clients have been, ah,  *disappointed* or perhaps even dismayed by this eventuality, and so I thought it best to warn you of this ahead of time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"I have it here." Give him the Magmatic Annulet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Never mind. Answer some other questions for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Never mind. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>He smiles gently at you. "Our answer remains the same, my tattooed friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>Bank 239</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Do you, by any chance, know how to resurrect a quishamis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"I'd like to talk about resurrecting the quishamis again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>He takes it lovingly from your hands and murmurs, "I have always thought that these creatures are beautiful. I can see the remnants of the intelligence inside this." He turns his head up to you. "Never fear. We'll have your pet restored... well, restorable, anyway... in no time."
+
+Something significantly longer than 'no time' passes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Success!" He holds out the Annulet. However, he doesn't meet your eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Indeed, you should not be alarmed. Although the utility of the device you gave me has not been compromised, as is my usual modus operandi in these cases," (and here he shoots a dark look at his colleague), "I was able to analyze and reverse-engineer its life-cycle and growth habits. Despite the lack of 'smashing' per se, I would call this venture a smashing *success*." He beams.
+
+{WORDPLAY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"I had other questions, actually."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Which we'll be delighted to answer, no doubt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"To bring your pet back to life, simply expose this device to strong sunlight, scatter some of this dust across it, and deploy it to an appropriate crystalline nesting structure. This should result in a relatively quick expansion of the creature's body." He clears his throat. "I do not believe the light of the Ascension is sufficient to the task, though it could certainly support a living being."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Of course!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Someone outside the norm, with some aspect no one else can offer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"*And,* I hasten to add, someone whom we've not yet enhanced." He looks at his partner and chuckles. "We can hardly learn from our *own* genius, now, can we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"My thanks. Answer some more questions for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"What have you done with my Annulet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Do you want to tell me what you were doing back there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"What was all that noise?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Your... what?" He looks a little frantic for a moment, and then realizes what you mean. "Oh! The heart of the quishamis." His relief is almost palpable, and he chuckles a little to himself. "What a funny name. *Annulet*." He looks at you. "Despite a few hammer-related mishaps, the integrity of your... annulet... is entire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>The sounds of hammering, sawing, muffled curses, and high-pitched ringing sounds echo from their work area. You hear the sounds of tools falling on the floor. At least, you hope they're tools. 
+
+The good doctors hiss whispers at each other, growing louder, until you hear Demeray half-shout, "Don't break it!" Silence falls. A pregnant pause, and then their work resumes much more quietly.
+
+At last they fling open the screen to their operating area.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Oh, ah, I would say that we were expanding the boundaries of knowledge. Your knowledge, anyway. For us, it was more of a refresher. Very exciting, isn't it? For you, I mean. Rehashing old lines of inquiry is not as exciting for us, and sometimes we find ourselves carried away. Not to worry - your heart remains intact!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>He blushes a little. "Oh, you heard that? Ahem. My colleague grew perhaps a little too enthusiastic in his response to a potential new line of inquiry, and I had to dampen his scientific ardor." He holds his hands up quickly. "Nothing has been broken, I assure you - neither your heart nor... my colleague's desire for understanding." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>Bank 263</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>He casts a welcoming eye on you. "Ah yes! Knowledge of your coming has preceded you, friend! We are but humble servants of knowledge, though admittedly rather grandiose in our reach and declamations. We seek knowledge, truth, and wisdom, and if some coin or reputation fall into our laps because of it, who are we to turn away such able companions on the path to success? We are doctors, and our path is strewn with dissection, vivisection, and (one hopes) the unlocked secret of human existence!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>He shares a pitying look with his partner. "Was it this one we'd heard such great things about? Are you sure? I seem to recall the rumors being of a metal mind, recall sharp as unwavering Sturvian steel. But! Perhaps you have contracted some sort of memory-wasting disease? Oh dear, oh dear. We'd be happy to examine you to be sure that everything in your mind is where it should be. As doctors, we are *eminently* qualified to perform such an evaluation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Expensive and time-consuming? What about all the eyes your colleague has on his head? Did he undergo all these surgeries, one by one?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"My friend, these eyes provide a valuable function for me, and they are not simple baubles to be handed out as favors. They are *affixed* to me, and provide certain insights." He bobs his head quickly and nervously, and as if to belie his words, one of them falls from his head. "Blast," he adds, hastily scooping it up and reattaching it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Very well, very well. You've caught us in a slight embellishment, as one might expect from someone of your mental caliber." He looks to his compatriot. "Did I not tell you that our friend's intellect was something to be admired? I did." He bows to you. "We don't necessarily need a subject, I suppose. But I did not embroider the truth entire - this *is* an expensive item. To replace it will cost us [Global: c4211_DemerayObervichEyeCost] shins."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"You said that in order to help my acquaintance regain her sight, I need to provide a test subject or pay [Global: c4211_DemerayObervichEyeCost] shins?"
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Yes indeed! Though naturally we prefer the interesting test subjects, a bit of coin is always welcome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"I'll pay the [Global: c4211_DemerayObervichEyeCost] shins."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"I hope my esteemed colleague will cheer himself by thinking of how we can advance our research through the expenditure of these funds!" 
+
+He elbows Obervich. "I believe our guest is waiting for something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>He shakes his head sadly. "Such a possible contribution to knowledge and learning, lost." That doesn't stop him from taking your money.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>He holds up a hand to forestall his compatriot's words. "I am certain that he has many horrific stories about his quest for knowledge. The pain was worth it... to him, at least, as it should be for all our subjects. I am sorry, friend, but our demand remains the same. We simply cannot afford to change our method of doing business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Erritis is trying to purge demons from his body. Can you help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"I don't think we've ever expelled one of those. That does seem like the sort of thing one would remember."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"No... no, I think not. Growths, yes. Intestines, yes. Demons and miscellaneous supernatural infestations? Not our area of expertise, I'm afraid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Erritis needs to get that machine intelligence out of him. Can you help him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Well. We could remove all infected organs and drain the fluids until the infection abates. Hold a moment. Is he interested in surviving the procedure?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Please," says Erritis earnestly. "This is the first time I've been accused of having intelligence, and whatever it is, I want it *out*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"I would prefer not to be dead until I am dead," he says politely. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"I'm not picky."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Well, scratch that option, then. Hmm. I feel like we're missing something obvious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Or someone, my esteemed colleague! I remember hearing about an expert in the field of nano-demons who fled to the Bloom. I cannot remember her name for the life of me, but I believe she's hiding in the Old Slave Block. Happy hunting!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"There you have it, then! Though I feel like we're missing something obvious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"I am?" Erritis says and turns to the doctors. "Can you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Actually we are *seeking* patients at the moment. The old cases have grown a bit... stale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Patient #27, perhaps? The visitant, Jont, whose skin, muscles, and memory were eaten by the Bloom? We replaced the skin and muscles... but not the memory."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Mm. Let me see..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>He nods at Aligern. "This gentleman's tattoos are fascinating, I will admit. We will accept *him* as a subject, if you can convince him to undergo an examination."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>His eyes fix on the glowing cloud that surrounds Erritis. "The boy will be an ideal subject, oh yes. We will gladly examine *him*, if he agrees to the procedure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"No. Only one of your cohort is sufficiently interesting from a scientific perspective, and that is *you*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"No. Only *you* are sufficiently interesting from a scientific perspective."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"If she permits us to examine her further, we would be *delighted* to work with our colleague Callistege again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>{Storage container for moved nodes}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"Ahem. I am merely exercising my professional curiosity. But if you won't cooperate, perhaps... ahem. Perhaps it's not worth the bother."
+
+He turns back to you and shrugs apologetically.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"This wonderful little sack of goo would be an excellent test subject."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"Callistege will contribute to your knowledge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"Gladly. My friends understand that sometimes science involves sacrifices."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"Of course, of course! Will you require anesthetic this time, dear Callistege? No? Wonderful. Please, join us over here."
+
+He turns to you. "We'll bring her back, none the worse for wear! At least, that is my fervent hope!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>At last they are finished. Both of the doctors seem remarkably shaken, although Callistege is complacent, almost on the verge of a smile.
+
+"A...  success?" Demeray ventures. "Patient #28 - in this reality - was a cooperative and amiable client. Some of her echoes in nearby realities were not so amenable to our inquiries."
+
+He shudders. Some of Callistege's sisters are scowling. At least two of them are spattered in blood, while another looks as if she has positively bathed in the stuff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>She laughs lightly. "They objected to the good doctors' intrusions, and they took measures into their own hands."
+
+She pats them on the shoulders, and they shrink from her touch. "No worries, my friends! You are not the same as their victims, and I assure you that I hold you in the greatest esteem. Now, please deliver your report."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"Err... yes. Yes, of course. We've discovered that each reality Callistege inhabits splits away moment by moment - indefinable choices split the timestreams, and they become gradually more and more different as time progresses. We managed to make contact with certain other echoes, and they informed us that they seek to translate themselves to the datasphere, and install themselves as the singular leaders of the Callistege mind - "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>Her face darkens as they speak. "No. No, they cannot do this. If they succeed, then they will snuff *me* out. This will not do."
+
+She turns to you. "Come, castoff. We have much to accomplish. I must reach the datasphere before they do."
+
+She scowls at Obervich. "We have an agreement. Fulfill your end of the bargain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"If your friend with the tattoos might reconsider, we'd love to examine him more closely. Alas, I can see by that alarming scowl that he has other ideas. Rest assured, we mean you no harm, sir!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>Script Node 318</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>She shrugs. "I warned you. You ignored the warning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>He winces and rubs his side. He moves behind you, placing you between Matkina and himself. "If you're ready, let us begin the investigation, shall we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>She pats you on the shoulder. "It will be over before you know it... and think of the knowledge you'll gain!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"Have you, ah, have you researched the datasphere as we suggested? Should that avenue prove untenable, I believe we might be able to achieve a severance from your sisters - indeed, I have prepared an injector that can mute the influence of your sisters on your mind. It would require you to remove the Attractor permanently to take full effect. Its use would be a point of no return."
+
+He wrings his hands. "I wish I had better news for you. Perhaps we might look into another avenue for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"That's all, is it?" She sighs in as exaggerated a manner as you have ever seen. "Give me the injection, then. I might as well get *something* out of our relationship." She holds out her hand imperiously. The doctor meekly places a syringe in her palm.
+
+"We sacrificed a sister for your knowledge. I had hoped you would have further answers for us."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

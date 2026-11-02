@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_siowan</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>89</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Despair lines the face of this ghostly figure. His aquiline features are clean and strong, his head shaven. His eyes, empty sockets, are bleeding - but they turn to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"What does the Maw want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Despair and ennui. Too many people give up here, and the Bloom takes advantage of all of them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>This man seems almost ghostly, transparent, as if his essence had been devoured... yet still he clings to reality, and despair still lines his face. His aquiline features are clean and strong, his head shaven. His eyes, empty sockets, are bleeding - but they turn to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[. If you end up killing him, please let him sigh with relief and accept his fate.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Bank 6</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Why do you want me to kill you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Tell me why you want me to kill you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Bank 9</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"What happens if I kill you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Tell me what happens if I kill you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I can't help you. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Try to kill him with a normal weapon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Bank 14</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Then I die. I disappear. The Bloom gets no more of my essence. Whatever afterlife may await us is my reward. If you don't..." He falls silent, sighing.
+
+"If you don't, I'll be here. Fighting despair. Listening to the weeping of the others and trading hopeless words until I fade away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"The Bloom is weakened, fractionally. I die. I cease suffering. I don't stand here, blind in the wet dark, until the Bloom digests me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Bank 17</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>He looks at you, shocked, and speaks slowly. "Why... do I want you... to kill me? Are you completely blind? Look around you! Look at this place! Do you think I want to... to *dissolve* here? The Bloom is eating me, digesting me, and I'm stuck in its gut. What life is left for me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>He turns his empty face to yours and stares for a few moments. "I am food for the Bloom. I am dying, not living."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Focus power through the Magmatic Annulet to annihilate him.
+
+{GEORGE: This option feels super weird. Why can't I just annihilate enemies in combat with the Magmatic Annulet for the rest of the game? -JF}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Slash his throat with the Transdimensional Scalpel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Eradicate him with the Tides.
+
+{COLIN/GEORGE: This needs to cost someone something. Either it should have a downside for Siowan, or it should hurt the player in some way.
+
+I made it Gold assuming it will aid Siowan and hurt the player. If it hurts Siowan instead, the Tide should probably be different.} {SCRIPT: TIDAL SURGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Hello," he says. His voice is deep and sepulchral. "I'm glad you're here. Kill me, please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>He turns his long-suffering eyes to you. "You said you would end me. Do it. Do it now. Kill me. You said you would kill me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>The weapon passes through him as if he isn't there at all. 
+
+He sighs. "Do I *look* as if that might work?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Will you kill me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Bank 27</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Tell me what the Maw wants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Tell me again what the Maw wants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Bank 30</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"It desires nothing more than despair and ennui. Too many people give up here, and the Bloom takes advantage of all of them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"It wants you to give up. It wants to eat loss and pain. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>(Truth) "Yes, I will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>(Lie) "Yes, I will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Then find your own answers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>::sighs::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Then I will tell you what the Maw wants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>His empty eye sockets track your movements. "Please. End my suffering."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"What does that Maw there want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Bank 41</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Tell me about those identical women near the Maw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Tell me again about those identical women near the Maw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Bank 44</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"I see no women. I see a woman and a trap." He smiles slightly. "The Bloom is a predator, with prey from across countless worlds. Do you not think that it has evolved stratagems, decoys, *cunning* to ensnare its morsels? And here, closer to its center, it grows far more intelligent." He shakes his head. "She is doomed, unless she can be convinced away. I don't know how you can do that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"You mean the woman and the trap." A smirk tics the corner of his mouth. "Or perhaps I should call her the victim. She will be lost unless you can find a way to unsnare her mind. I do not know how."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>As the blade passes through his flesh, a look of surprise crosses his face. The scalpel cuts deeply into his insubstantial trachea, and a spray of horrifyingly substantial blood spews from the wound. 
+
+Even as he fades away, Siowan finds a way to smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>His translucent body crumbles and flakes, its pieces rising in the air and vanishing forever. You see skin and nerve exposed to the light as the components of his body spill from him.
+
+But even in the midst of this agony, as his essence fades and dissipates, Siowan finds a way to smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"... my... thanks..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>You touch the annulet and pour your mind through it. A blast of force lifts him from his feet and starts to unmake him from the outside in.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>You reach inside yourself, at the place where the Tides ebb and swell, and you pull forth a surge of power. Siowan is caught in its currents, lifted from his feet, and the Tidal energy begins to destroy him from the outside in.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>As though responding to his words, you feel a force churn within you. The Tides. *That* force would certainly affect him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Bank 54</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Convince Siowan to give himself to the maw. That'll kill 'im.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Try once again to convince a suicidal man to kill himself. How did this fail the first time?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Siowan agrees to feed himself to the maw.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Siowan's a bit gunshy about this whole "maw" thing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"You shouldn't be so willing to throw away your life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Really," he says, with a scornful smile. A thread of blood spills from an eye socket, and he wipes it, leaving a blurred arc of crimson across his cheekbone. "My life is *over*, stranger. The Bloom is *digesting* me, and I can't escape. Nothing I do here will matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"So tell me. Why shouldn't I 'throw away' my life, as you put it? What value does it have down here? What would you have me wait for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"You're a stone in the Bloom's gut. You're fighting back just by surviving."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Today, you feel hopeless. Who can say how you'll feel tomorrow?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"You aren't alone down here. Why don't you join with the others and fight your way out?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Why are you standing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Listening," he says, with a slow nod in the direction of the whirlpool. "It sounds like a heartbeat, doesn't it?"
+
+He leans forward, ever so slightly. "It sounds like peace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Perhaps you should jump in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"You ever think that standing near this thing is what's making you want to die?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>He barks a laugh and fresh blood streams from his empty eye sockets. 
+
+"I'm not quite so hopeless as that, thank you. I won't be giving myself to... whatever is down there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>He goes still for a moment, considering your words.
+
+"Perhaps," he says at last. "Or perhaps it's the fact that I'm trapped here, and I'll never, ever escape until I'm dead. But have no fear. I'm not giving myself to... whatever is down there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Bank 71</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"You don't need me to kill you anymore. I found a Maw that will destroy you completely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Feed yourself to the Maw. It will destroy you completely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Completely," he echoes. "Yes. I would like that. A moment of pain, then simple oblivion."
+
+His smile is a thin, weak thing. "I'll do that, but... I don't want to be alone when it happens. Meet me at the Maw. Please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"No," he says, his voice a distant whisper. "I want death... but not at the hands of the Bloom. I would *deprive* this creature of its feast... a small defiance, but that is all I have."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Thank you for your words, stranger. I won't forget them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>He leans away from the whirlpool, ever so slightly. 
+
+"I've seen what happens to those who throw themselves into those waters." His mouth twists. "They're torn apart, but they don't die. They live on as part of the Bloom. We hear them weeping sometimes. Or screaming."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Don't do it. Don't even think about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Too late," he says, actually managing a rusty chuckle. "Too late by *far*. But have no fear. I'm not giving myself to... whatever is down there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>His anger subsides a little, and he chuckles, despite himself.
+
+"That's a pretty way of looking at it, but it's also a lie. No one's fighting here. We're waiting to die, and I'm tired of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Hopeless," he snarls. "That's how I'll feel. Trapped. Dwindling. Dying. And you'd have me wait for that? What's the point?"
+
+He falters, then sighs again. "I'm tired, stranger. That's all. I want this to be over and done with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Could be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"You're right. It was a foolish thing to say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Have you *seen* the others? Most of them are wild beasts. The rest are losing their minds. No, stranger... there's no hope for us, no future. Only the horror you see before you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>His anger falters at your words, and he sighs. 
+
+"You were only trying to help. And you still can. Just help me die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"What happened to your eyes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"I don't know," he says flatly. "I came here too long ago, and memories are the first things the Gullet takes. Then hope. Then the senses."
+
+He looks down. "All I know is that I've been here a long, long time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"No, I told you. I want my death to be my own... not a *surrender* to the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Listening," he says, with a nod in the direction of the fleshy basin and the hole at its bottom. "It sounds like a heartbeat, doesn't it?"
+
+He leans forward, ever so slightly. "It sounds like peace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>He leans away from the empty basin. "If I jumped in, would I become part of the Bloom? Would my thoughts flow as juices in its veins? No. Better that my mind is snuffed out, *silenced* forever."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

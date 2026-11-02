@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4111_inkpot</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>169</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I've changed my mind. I'll have a talk with Ioxu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>His face brightens, and he pulls a handful of scribbled papers from a pocket and shoves them into your hands. "Scriptures! Scriptures of the Great Devourer to inspire your thoughts and guide your words." Another tortured smile cuts across his face. "From the pen of Inkpot, who is me."
+
+{LOOT: Give Oddity to player: Scriptures of the Great Devourer.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Inkpot looks up from his scribbling, his crooked mouth shaping itself into the mockery of a smile. "We await your intercession with Ioxu... but our god is in pain, so we will not wait forever."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I convinced Ioxu to stop his measurements of the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Praise the Devourer!" He embraces you, eyes wild and feverish. The other cultists caper about, bending and twisting in exultation.
+
+Releasing you suddenly, he rummages in a pocket and drops a handful of shins into your hand, along with a small device. "Payment from the Extremities, in the manner of the outside world. But the greater reward is the favor you have earned from our god."
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"So your *god* is too weak and impotent to deal with Ioxu itself? Is that what you're saying?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"You need to stop harassing Ioxu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ha!" His laugh is a discordant shriek. "While our god suffers, so will the damned Ioxu. He'll have no peace, no rest, as long as we live!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Friend of the Great Devourer," Inkpot bows his head, his wild curls drooping forward and back. "How may the humble Extremities serve you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Away with you, blasphemer. You chose the wrong side."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"We await the Bloom's judgment of Ioxu," he whispers, eyes shining feverishly. "Here we'll stay until the blasphemous *measurer* is punished... or the Devourer calls us to its heart." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Inkpot is writing furiously on a scrap of paper. He glances up, eyes shining even more feverishly than before. "The *measurer* Ioxu is dead! I gathered many of my brothers and sisters together and we *assailed* his house. That monstrous automaton couldn't kill us all, not before we slew its master." 
+
+He spits a wad of phlegm onto the back of the paper, sticks it to his robe, and immediately begins scribbling another. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>A tall, gawky man with spring-like hair smiles at you. His feverish eyes look too large for their sockets.
+
+He beckons, still scribbling. A harness holds a tiny writing tablet and inkwell, letting him write as he walks. Notes cover his leathery robes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Even as he motions you closer, the man is scribbling words on a scrap of paper. He has fastened some sort of harness around his body - it holds a tiny writing tablet and inkwell so that he can continue to write as he moves about. You notice that dozens of scrawl-covered notes are stuck to his leathery robes.
+
+"Help us, brother!" he intones in a wet and breathy voice. "We are Extremities of the Great Devourer, and we beseech your aid to right a great wrong."</DefaultText>
+      <FemaleText>Even as he motions you closer, the man is scribbling words on a scrap of paper. He has fastened some sort of harness around his body - it holds a tiny writing tablet and inkwell so that he can continue to write as he moves about. You notice that dozens of scrawl-covered notes are stuck to his leathery robes.
+
+"Help us, sister!" he intones in a wet and breathy voice. "We are Extremities of the Great Devourer, and we beseech your aid to right a great wrong."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ioxu desires to understand the Bloom, to quantify its impulses. This causes *pain* to our god." His eyes bulge even wider, and it occurs to you that you haven't once seen him blink. "The evidence is clear for all to see, in the raw and swollen flesh of Ioxu's house."
+
+"We have warned Ioxu to stop his pokings and proddings and *measurings*, but he will not listen. What methods are left to us?" He lets the question hang in the air, an unspoken threat. "Perhaps you can help him to change his mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"You have questions about our faith, perhaps? The answers are writ upon me," he indicates the scribbled papers that adorn his robe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Can you tell me about your beliefs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I will not speak of *beliefs*," he frowns, "but I will tell you what is *true*. First, that the Bloom is a god - the only true god - and all that takes place within its body is solid and real. That which exists outside the Bloom is an illusion, a cruel trick, a falsehood."
+
+"Second," he intones, "that our goal is to become one with the Bloom, to transform ourselves into living embodiments of its will... and one day, to be called to its Heart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The mood among the cultists is dark. They glare at the red and enflamed dwelling. 
+
+"Ioxu laughs at us. He defies our god with his work. Are you sure you won't intercede... convince him to stop his blasphemous *measurings*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"You there! We need your help!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Praise the Great Devourer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Very well. I'll have a talk with Ioxu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"I can try to work out some kind of compromise, at least."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>At the word 'compromise,' his mouth twitches. "Try, if you like, but blasphemers are loath to 'compromise'... they are steeped in sin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"No. Deal with this problem yourself." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>A flash of something dark and murderous crosses his face, but he quickly averts his eyes, returning to his scribbling. "Our god remembers such words," he mutters, "but it also remembers those who ease its pain, and it rewards them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Is it safe to drink the water from that pool?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Better than safe. Those fluids are the holy secretions of the Great Devourer. To drink them is to put your mind in communion with the Bloom." He leans closer to you, and your eyes are drawn to the profusion of festering sores in his mouth. "You can listen to its voice and *know* what it wants. For a time, at least."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>{SCRIPT: The bark on the next node should only play if Ioxu is *not* dead already. The odds that the player would somehow miss this bark before Ioxu is killed are very low, but it's a possibility.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Extremities of the Great Devourer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"What sort of wrong?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"No doubt you've heard of me, or you wouldn't have asked for my help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"We are those who venerate the Bloom as divine... and seek to become a part of it, if it will have us."
+
+He pauses. "We are the only ones who can see that a great wrong has been done here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Bloom cultists. The fancy name doesn't make them any less crazy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"You walk in the company of a heretic, I see." The awkward-looking man peers at Matkina, then scribbles furiously on his paper. "But heresy has its root in fear... fear that chokes the ears and drowns out the voices of the Great Devourer. We do not hate the heretic... we pity her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Sorry, not interested."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"A terrible torment," he whispers, "visited upon the Bloom, our god. It is the work of Ioxu, the measurer and meddler, who dwells in that nodule of flesh." He raises his pen toward the 'house' that sits on the other side of the platform, red and stinking and enflamed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Only rumors of a man fitting your description, conveyed from mouth to ear and finally to parchment." He touches one of the parchment scraps that are fastened to his cloak. "The Bloom sends every scrap of parchment to my fingers... or to the Speck's." 
+
+At the mention of this last name, the other cultists briefly incline their heads.</DefaultText>
+      <FemaleText>"Only rumors of a woman fitting your description, conveyed from mouth to ear and finally to parchment." He touches one of the parchment scraps that are fastened to his cloak. "The Bloom sends every scrap of parchment to my fingers... or to the Speck's." 
+
+At the mention of this last name, the other cultists briefly incline their heads.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Have I heard of the one who spoke to the Bloom... and restored the Trade Post to its place? Oh yes. You are like us, an Extremity of the Devourer, whether you acknowledge it or not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText> "Heard... of you?" He exchanges looks with the other cultists. "If you speak of the outside world, we have no concern with it. The earth is false and corrupt... truth is found within the Bloom, not without."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"A great evil is being done in that nodule of flesh." He raises his pen toward the 'house' that sits on the other side of the platform, red and stinking and enflamed. "A creature named Ioxu dwells inside. He cares nothing for the damage he wreaks upon the Bloom, our god."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"I have a few questions before I go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Thanks... and farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"I pray that Ioxu will *cease* his work... one way or another."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Why should the Bloom need your help at all? Or mine?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>He frowns, confused. "The need is plain. Can you look upon the swollen flesh of that house and tell me that a poison doesn't fester inside?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Did the Bloom *ask* for your help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"You claim that the Bloom is a god. Are you saying that your god is too weak and impotent to deal with Ioxu itself?"
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"You're right. Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Then you'll speak to the *measurer* Ioxu on our behalf?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>His mouth quivers. "It spoke to me of its need. I heard its voice in my mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"You said 'voice,' not 'voices.' Those who can *really* hear the Bloom speak of many voices. You're a fraud - you have no idea what the Bloom wants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"You're wrong. The Bloom spoke to *me* about Ioxu. It doesn't want your help at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"No, I would never! The Devourer will surely break through his defenses on its own." He licks his lips, glancing at his followers out of the corners of his eyes. "Perhaps you're right. Give it time, sweet time, for Ioxu's defenses to crumble. Then the Bloom will dissolve him bit by bit - a more satisfying end than brute violence, yes."
+
+He nods, his decision made. "We will watch and wait, and I shall record his end in scripture when it comes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"A god can lay a test before its followers. Perhaps the Devourer *allows* this affront to see what we will do, to *assess* our devotion." The other cultists nod their agreement.
+
+"Those who act on the Devourer's behalf will find favor, and paths shall open to them. So it is written..." he glances across a few of the 'pages' that hang from his coat but doesn't seem to find what he wants, "...somewhere in the scriptures."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Enough questions," he intones, attempting to straighten himself and popping a half-dozen joints in the process, "lest we incur the Devourer's wrath. Will you speak to Ioxu on our behalf?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"All right, I believe you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>The other cultists frown. "Many voices," mutters one. "That's what the Speck always says. How many voices *did* you hear, Inkpot?"
+
+"I... I misspoke. I heard many. Hundreds of voices," he stammers. The other cultists shoot him dark looks and start to back away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Is the Bloom not a god? Can it not speak in one voice or many voices, as it chooses?" He leers at you in what he probably thinks is a condescending manner. "Ignorance is not a sin, so your harsh words are forgiven."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>He rounds on you. "Do you see what you've done? You've broken their faith! The Bloom sees and remembers, you damned heretic, and *I* will remember too. Trust in that!"
+
+Spitting a gob of yellow phlegm at your feet, he hurries after his former comrades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"I... may have misunderstood the Devourer's intent. Perhaps I should wait... consult the scriptures." He nods to himself and fingers a few of the papers that adorn his robes. "Best not to act rashly where gods are concerned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"And what proof do you have, 'prophet'?" The cultists snicker amongst themselves. "Claiming to hear the words of a god is a hideous sin, but we will forgive you this once."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"A god's favor could be yours! I pray you will reconsider..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>The awkward-looking man is scratching on a wisp of parchment with his quill. He glances up and leers at you. "A change of mind? Will you help us to right a terrible wrong?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"I just want to ask you some questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"No, I won't. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Time grows short for Ioxu. We won't stand idle forever..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Questions?" Inkpot gestures to the scribbled papers that hang from his robes. "I am bedecked with answers to all questions of faith, for those are the only ones that matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Bank 83</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Are you sure it's safe to drink the water from that pool?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Of course! Drink the juices of the Bloom, and your mind will be opened to its thoughts and desires."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Bank 87</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"What are all those papers on your robes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"What are those papers again? The holy canon of your faith?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Scriptures of the Great Devourer. They are ever-changing, in imitation of the Bloom. You see?" He tears one of the scribbled papers from his robe, crumples it up, and tosses it over the side of the platform. "Those words are gone, forgotten, but new ones can be added as we like." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>He takes a scrawled paper from the little writing 'desk' that is strapped to his body, spits a wad of yellow phlegm onto its back, and sticks it to his robe. "Now these words are part of the canon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Only a part. Everything written by an Extremity is part of the scriptures... until the writing is lost or destroyed. No one can know all the writings, just as no one can know every part of the ever-changing Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Ioxu is dead. His measurements of the Bloom have ended."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"The measurer is dead?" His eyes bulge even wider. "Killed, killed, dead, dead!" 
+
+He capers about, his crooked body lurching and twisting in what you assume must be exultation. The other cultists join him, shrieking and calling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Exhausted, he turns to you with a leering smile, his breath hot and fetid. "This is more than we dared hope! His corpse left to rot, scorned by the Bloom, never to meddle or measure again! Here - payment from the Extremities, in the manner of the outside world." He rummages in a pocket and drops a handful of shins into your hand, along with a small device. "But the greater reward is the favor you have earned from our god."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Bank 96</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"I'm telling you again - you need to stop bothering Ioxu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"No, you don't speak for the Bloom. We listen only to our god."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"What if I pay you to leave Ioxu alone?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Look at yourself, all skin and twisted bone. I could break you like a twig... and I will, if you don't do as I ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[Attack] "I guess I'll have to kill you, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Fine. Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>He scoffs. "The shiny trinkets of your world outside are nothing to us. The flesh of our god is all that we need - it feeds us, clothes us, shelters us... devours us, in the end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>He swallows hard and licks his lips. "Blasphemer," he whispers. "Have your way, then. You may be stronger than me, but the Bloom will destroy Ioxu in time... and it will kill you, too."
+
+As he departs, you hear harsh whispers all around you... the wrathful voices of the Bloom. After a few moments, they fade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Break me, then!" he cries, drawing himself up like a spindly bird. "Shatter my bones, feed me to my god piece by piece, and I will laugh with joy! Then a hundred of my brothers will take my place, and *still* Ioxu will have no peace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Terrified, he backs up a step, loses his balance, and falls on his rump. You notice that his robes are wet with piss. "Stay back, blasphemer!" he shrieks, scrambling away. "The Bloom won't tolerate my death! You think I'm running, but I'm... I'm saving you from its wrath!"
+
+With that, he and his followers flee into the gloom.
+
+{SCRIPT: Inkpot and the cultists run away and despawn.}
+
+{SCRIPT: Give XP for completing quest.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Hoo! Ha ha!" He laughs again, high-pitched and grating, and spits a thick, yellow wad of phlegm onto your chest. "Do you hear this, brothers? He threatens us in the very bosom of our god! We may forgive, but the Bloom will not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>You draw your weapon and advance toward Inkpot. Eyes wide and bulging, he scrambles back, shrieking, his bravado suddenly forgotten. His robes are wet with piss. "Stay back, blasphemer!" he shrieks, scrambling away. "The Devourer won't tolerate my death, but it will *remember* this sacrilege!"
+
+With that, he and his followers flee into the gloom.
+
+As they depart, you hear harsh whispers all around you... the wrathful voices of the Bloom. After a few moments, they fade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>He leers at you. "Ah! Something more pleasing to the ears?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText> Follow-up PQ. 111</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Tell me about your faith again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"The Bloom is our god. Amongst the faithful, it is known as the Great Devourer. All that exists outside its flesh is false and corrupt. Our hope is to become one with the Bloom, to embody its will so completely that it calls us to its Heart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText> "You want to be 'called to the Bloom's Heart?' What does that mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"What do you think of the Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"You think the Ninth World is an illusion?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"How do you plan to become one with the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Something else?" His mouth twitches, as if he's irritated to change the subject.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>His eyes glisten. "When it wants us, the Bloom will open a Maw at our feet or reveal a tunnel where one hadn't been before. The passage will close behind us, and we will never be seen again by human eyes, but we'll follow its turnings to the Heart and be one with the Devourer at last... and *prey* to no one, ever again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"When her will was one with the Bloom's, we revered her. But no more." He frowns. "She is no Memovira, not anymore, not to us. Another will be found in time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"I *know* it is. The people of that world try to tell you that life is not *pain*. They weave illusions and call them *laws* to protect the weak and the poor and the... the ugly, the malformed... but look closer, and you'll see that they *lie*."  He spits a gob of yellow phlegm off the side of the platform. "Only here, in the Bloom, is the horror of life revealed without pretense. Becoming one with the Bloom is our only hope of salvation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"We clothe ourselves in its flesh... feast on its bile and viscera. If we are lucky enough to hear its voice, we empty our minds and let it govern our actions and our thoughts." His long, misshapen fingers clench and unclench. "The Devourer will only call us to its Heart when its will is one with ours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"If the Bloom is really a god, why does it need human help at all?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>He frowns, confused. "The need is plain. Can you look upon the swollen flesh of that house and tell me that a poison doesn't fester inside?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Perhaps you're right. Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"If you have *doubts*, then you should keep them to yourself. We don't want to hear of them again, do we brothers?" The other cultists vigorously shake their heads.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Do not *broach* such questions with me again," he intones, attempting to straighten himself and popping a half-dozen joints in the process, "lest we incur the Devourer's wrath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Did the Bloom *ask* for your help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>His mouth quivers. "It spoke to me of its need. I heard its voice in my mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"All right, I believe you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"You didn't have to kill Ioxu. We could have found another way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Too long, it was taking too long." He shakes his head, not even looking up from his scribbling. "Our god was in pain, we had to act!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Dead, dead, the *measurer* is dead," he hums, scribbling furiously on a scrap of paper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Never mind that. Ioxu tells me that you've been threatening him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"He lies. We are trying to stop him from inflicting *torment* upon the Bloom, our god.  That is exactly why we ask for your help!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Your deity is nothing. I am the Changing God. When I command, you will *obey*."
+
+{TIDAL SURGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>You feel the Tidal energies surging through you, making you seem larger, towering over the cultists, rippling with arcane power. Fear blossoms in their eyes, and they cringe away from you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Forgive us... immortal... we didn't know." Inkpot presses his forehead against the wet flesh of the ground, his bravado gone, and you notice that his robes are soaked with piss. "We won't trouble the measurer anymore, just please let us go in peace."
+
+He backs away, motions to his terrified comrades, and they flee into the gloom.
+
+As they depart, you hear harsh whispers all around you... the wrathful voices of the Bloom. After a few moments, they fade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"I've heard rumors of one fitting your description. One who knows the secrets of the world, who speaks with the divine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"I've heard rumors of one fitting your description. One who takes action when action needs to be taken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"I've heard rumors of one fitting your description. One who seeks justice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"I've heard rumors of one fitting your description. One who helps those in need."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"I've heard rumors of one fitting your description, conveyed from mouth to ear and finally to parchment." He touches one of the parchment scraps that are fastened to his cloak. "The Bloom sends every scrap of parchment to my fingers... or to the Speck's." 
+
+At the mention of this last name, the other cultists briefly incline their heads.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Help us, brother!" he intones in a wet and breathy voice. "We are Extremities of the Great Devourer, and we beseech your aid to right a great wrong."</DefaultText>
+      <FemaleText>"Help us, sister!" he intones in a wet and breathy voice. "We are Extremities of the Great Devourer, and we beseech your aid to right a great wrong."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"You are he who has spoken to the Bloom... and restored the Trade Post to its place! Oh yes. You are like us, an Extremity of the Devourer, whether you acknowledge it or not."</DefaultText>
+      <FemaleText>"You are she who has spoken to the Bloom... and restored the Trade Post to its place! Oh yes. You are like us, an Extremity of the Devourer, whether you acknowledge it or not."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"We beseech you! Each day, the torment becomes worse! The measurer - the meddler - must be stopped."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"I won't do it. Ioxu has done nothing wrong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"You want to be called to the Bloom's Heart? What does that mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Tell me again about the Bloom's Heart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>His eyes glisten. "When it wants us, the Bloom will open a Maw at our feet or reveal a tunnel where one hadn't been before. The passage will close behind us, and we will never be seen again by human eyes, but we'll follow its turnings to the Heart and be one with the Devourer at last... and *prey* to no one, ever again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"When we have pleased the Bloom enough, it will swallow us. We'll follow its turnings to the Heart and be one with the Devourer at last."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"How do you plan to become one with the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"How do you become one with the Bloom again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"We clothe ourselves in its flesh... feast on its bile and viscera. If we are lucky enough to hear its voice, we empty our minds and let it govern our actions and our thoughts." His long, misshapen fingers clench and unclench. "The Devourer will only call us to its Heart when its will is one with ours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"We clothe ourselves with the Bloom, feed from its flesh, until we can hear its voice. Then we make our will one with the Devourer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Inkpot's followers mutter to themselves then look to their leader with brows furrowed.
+
+Inkpot turns his head quickly, looking between them and you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Inkpot and his followers laugh. "What kind of god would he be if he coddled our every whim? The followers of the Devourer would be but infants incapable of serving him." The other cultists nod their agreement.
+
+"Those who act on the Devourer's behalf will find favor, and paths shall open to them. So it is written..." he glances across a few of the 'pages' that hang from his coat but doesn't seem to find what he wants, "...somewhere in the scriptures."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>The other cultists frown. "He's right, Inkpot," says one. "That's what they all say - the Speck, the guides. Many voices. Are you lying to us?"
+
+"No, I... I..." Inkpot stammers. The other cultists grumble and move toward Inkpot menacingly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Inkpot and his followers laugh. "Spoken as one who knows nothing of the Devourer. The Bloom is many. The Bloom is one. It grows and moves and sustains us all, while you quibble about semantics."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>He rounds on you. "Do you see what you've done? You've broken their faith! The Bloom sees and remembers, you damned heretic, and *I* will remember too. Trust in that!"
+
+Spitting a gob of yellow phlegm at your feet, he hurries away. His former followers walk after him and vanish into the gloom.
+
+{SCRIPT: Inkpot and his cronies should exit and despawn.}
+
+{SCRIPT: Give player XP for resolving the quest.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Inkpot and his followers step back, their eyes wide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Inkpot and his followers laugh. "And what proof do you have 'prophet'? It's very easy to say the Bloom speaks when you cannot hear it, but the true followers of the Devourer know otherwise."
+
+The other cultists nod in agreement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Your brazen self-assurance - even though it isn't real - is enough to shake the confidence of the cultists. They exchange worried looks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>His eyes rove up and down your armor, glinting with envy. "Oh, to be attired as you are, in the *living* flesh of the Devourer. What joy it must be. What *rapture*!" 
+
+The other cultists nod their assent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Memovira!" His face lights up with a hideous smile. "We are poor cultists, worshippers of the Great Devourer, and of its chosen." He grovels before you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"I have happy news to tell you! The *measurer* Ioxu is dead! I gathered many of my brothers and sisters together and we *assailed* his house. That monstrous automaton couldn't kill us all, not before we slew its master." His eyes shine feverishly, and he gestures toward the tumorous 'house' nearby.
+
+"I must write the tale for all to see! I must write it now!" He immediately sets to work, scribbling on another dirty scrap of paper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Memovira!" Inkpot's face lights up with a hideous smile. "Look! I am writing of you in the scriptures!"
+He shoves a filthy page at you. It is covered with writing that is quite illegible, but you see childlike drawings of you - identifiable by your tattoo - in the margins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Praise the Great Devourer! Praise the new Memovira!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"I have happy news, Memovira! The *measurer* Ioxu is dead! I gathered many of my brothers and sisters together and we *assailed* his house. That monstrous automaton couldn't kill us all, not before we slew its master." His eyes shine feverishly, and he bounces up and down with joy.
+
+"I must write the tale for you! I must write it now!" He immediately sets to work, scribbling on another dirty scrap of paper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>He lowers his voice. "Beware the old Memovira... the forsaken one, the apostate. She *knows* that the Devourer has chosen you, and she knows the fate that awaits her." Inkpot's eyes shine feverishly. "Give her to the Bloom to feast upon, and we shall listen with delight for her screams."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Aligern glares at you, even as he grits his teeth against the onslaught of Tidal energies. "You're no god," he whispers under his breath, but it's clear that the cultists don't hear him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Script Node 184</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Script Node 186</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Wait! Come back! I misspoke!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Script Node 188</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>::rrrmm:: Oom rumbles, considering the man. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

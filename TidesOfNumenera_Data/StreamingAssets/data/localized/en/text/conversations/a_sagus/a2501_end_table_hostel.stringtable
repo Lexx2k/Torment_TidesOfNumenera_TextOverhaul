@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_end_table_hostel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Beside the bed is a handsome and well-made night table with a single drawer. A large, open book sits on top of it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Examine the book.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The pages of the book are made of thick vellum, and it appears to be an atlas of the region. The book is open to a map that depicts the city of Sagus Cliffs, the Valley of Dead Heroes nearby, a range of mountains to the north, labeled as the Ossiphagan Range, and a circular desert farther to the east, marked as the Lost Sea. 
+
+A thin strip of fabric has been placed between the open pages. A second fabric strip marks another place in the book.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Try to open the drawer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The drawer appears to be locked, but you hear something rattling around inside. The noise is faint but constant, as if the object were alive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Attempt to pick the lock on the drawer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>After a bit of effort, you hear a satisfying click and the drawer opens soundlessly...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>No matter how you twist and jiggle the lock mechanism, it refuses to open.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The lock opens on your first try...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Your clumsy attempt mangles the lock. No one will ever be able to open it properly again. However, your hamfistedness has weakened the drawer, which should now be easier to force open.
+
+{JESSE: This should provide an asset on the Smashing task (node 13).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Leave the end table alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Inside you find a small ornamental comb that looks like a jeweled insect. In fact, it *is* a jeweled insect - a biomechanical marvel that is very much alive. The pincers seek to fasten themselves upon locks of hair, and its wings allow it to hover around the wearer's head. 
+
+Several strands of hair are still clutched in the comb's pincers. They are a vibrant purple.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Attempt to force the drawer open.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You pry at the drawer a while, and it finally opens with a faint crack. No one seems to have heard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>The drawer is stronger than it appears. You pry at it for a while, but it doesn't budge. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>The lock mechanism gives way with a faint crack, and the drawer snaps open. Apparently you underestimated your own strength.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>You wrench at the drawer and it flies open, sending a shiny object from inside arcing through the air. Before you can get a good look at it, it skitters off the edge of the platform and plummets toward the ocean far below.
+
+While you can't tell exactly where the object landed, you can see that the water narrows to a tiny inlet at the edge of a cavern entrance.
+
+{JESSE: I like the reactivity here - let's set a variable and implement this. I've made a note in the dialogue description for the fishing lines, but you'll need to modify the existing a2301_fishing_lines dialogue to include the hair comb. It'll be another option that follows node 19. Please coordinate with Gavin so that he can update the text once you add this,}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText> Addend. 18</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>You feel like you've seen this style of biomechanical craftsmanship before. It is very, very old - probably older than the Ninth World.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Bank 20</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Try again to force open the drawer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Bank 23</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Try again to pick the lock on the drawer. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Examine the book again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>The book appears to be an atlas. It is currently open to a map that depicts the city of Sagus Cliffs and the surrounding region, including the nearby Valley of Dead Heroes and a circular desert called the Lost Sea.
+
+A thin strip of fabric has been placed between the open pages, with another marking another place in the book.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Try to judge the age of the book.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Look for the names of nearby settlements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Examine the page marked by the other fabric strip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Based on the condition of its pages, you can guess that the book is about twenty years old. The vellum was probably made from the skin of a herd animal - a young aneen, perhaps, or a gallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The book doesn't seem new - its pages are worn from frequent use - but that's all you can discern. It might be anywhere from ten to fifty years old. No dates are stamped on any of the pages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Besides Sagus Cliffs, you only see a few other cities and towns. In the center of the circular desert are a large blue dot labeled 'The Oasis of M'ra Jolios' and a smaller dot immediately next to it, 'Jerboa.' On the far side of the desert is another city, 'Haref.' 
+
+On one end of the Valley of Dead Heroes is a dot labeled 'The Necropolis.' It's unclear whether this is a settlement or just a site of interest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>You see another full-page map, this time representing a region called Augur-Kala. It seems to be located somewhere to the northwest of Sagus Cliffs, and it's defined by a massive ring of mountains labeled as the Clock of Kala. The mountain range is so perfectly round that it was almost certainly engineered by artificial means in the distant past.
+
+Several cities and towns dot the landscape, but the largest and most prominent is named Sada-Imidu.
+
+After a few moments, you turn back to the map of the Sagus Cliffs region. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Examine the night table instead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Walk away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>The table is finely made and has a single drawer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Besides Sagus Cliffs, you only see a few other cities and towns. In the center of the circular desert are a large blue dot labeled 'The Oasis of M'ra Jolios' and a smaller dot immediately next to it, 'Jerboa.' On the far side of the desert is another city, 'Haref.' 
+
+On one end of the Valley of Dead Heroes is a dot labeled 'The Necropolis.' This must be the site you visited in the Valley.
+
+{SCRIPT: Player has already visited the Valley of Dead Heroes.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[DEBUG: Just give me the comb, fer chrissake.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>The floating comb - and the purple hair - match Omahdon's description of Perseia. It seems likely that she stayed in this very room... and probably not long ago.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

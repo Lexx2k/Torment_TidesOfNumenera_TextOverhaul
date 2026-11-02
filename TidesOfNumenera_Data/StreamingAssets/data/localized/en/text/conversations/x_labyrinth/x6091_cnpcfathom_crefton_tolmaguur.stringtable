@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6091_cnpcfathom_crefton_tolmaguur</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>81</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>If Tol Maguur is present, the player will have to release Tol from her illusion before he can release Rhin. Whatever the player says, she'll be too afraid to be convinced of anything as long as Tol is present. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>If Rhin or Erritis is present, then Tol is not trapped in an illusion but is in her right mind. She intends to take Rhin or Erritis or both back to the real world, as soon as she figures out a way to get there (Erritis is now a weak farm boy-just the sort of slave Tol looks for).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>If Rhin or Erritis is present, then Tol is not trapped in an illusion but is in her right mind. She intends to take Rhin or Erritis or both back to the real world, as soon as she figures out a way to get there (Erritis is now a weak farm boy-just the sort of slave Tol looks for).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Trying to make a profit, of course. As soon as I can figure out a way to get myself out of here, I plan to get this meat on the market. I've got just the buyer, too." She taps her lip. "The problem is, I don't know how to get out of here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>If both Rhin and Erritis are present</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>If neither Rhin nor Erritis are present, then Tol will be trapped in an illusion-the slavers (which might not actually be slavers in her vision) have turned on her. The writer is welcome to think of a way to get her out, or it might be that the player can't rescue her from this illusion and she's doomed forever.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Walk behind her and break her neck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>•	The player can use a Tidal Surge to send her away (costs DP, and should have some other downside as well, since there is no Sorrow Urgency here anymore).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Your powers don't work because it's *my* mind. Surrender your will, and I won't destroy you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Have I ever betrayed you, Tol? You need to trust me, and when you do, you will be free."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>If the player pissed Tol off in Sagus Cliffs (either fought her for Rhin or gave her name up to the cultists), then he can only use aggressive or intimidating options. The player also may need to learn about these illusions from Efimpi before he can break this one (up to the writer).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The player also may need to learn about these illusions from Efimpi before he can break this one (up to the writer).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The shades fade away from around her, and she mouths silent gratitude. She rests her weary head on the floor of the Labyrinth, and sinks into the ground, leaving no trace behind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>If dealt with in a friendly way, she might weaken the Specter as well, though not be present in the final confrontation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>But you can do nothing for her. You watch for a few moments, and then walk away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The slaver Tol Maguur turns her head to watch you as you approach, and she laughs softly. "Look at these two. My Rhin, and this strapping young man. Perfect specimens. They should fetch a decent price. I just need to find a way to get out of this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Tol still contemplates the trapped Rhin and Erritis. Her only concession to your presence is a raised eyebrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The slaver Tol Maguur turns her head to watch you as you approach, and she laughs softly. "Look at this strapping young man. A perfect specimen. He should fetch a decent price. I just need to find a way to get out of this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Tol still contemplates the trapped Erritis. Her only concession to your presence is a raised eyebrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>The slaver Tol Maguur turns her head as you approach, though her feet stay strangely rooted to the floor. She laughs softly. "Ah, my dear Rhin. Such a precious girl. She should fetch a decent price, once I find a way to get out of this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Tol still contemplates the trapped Rhin. Her only concession to your presence is a raised eyebrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>The slaver Tol Maguur is here, her arms flailing across her body. Shades of her Tide-addicted compatriots flicker around her, substanceless specters who radiate a burning, ephemeral *need*. Her hands pass through them, and each time she looks as if she is going to vomit. Her feet are buried in the ground - she cannot move.
+
+You feel the Tides coil within you, perhaps as a response to the hungry ghosts that surround Tol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>She still stands in the midst of the swarm of hungry ghosts. She sees you, but doesn't process your presence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Those shades aren't real. You can free yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"You want to get out? I'll set you free if you promise to leave him behind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"You want to get out? I'll set you free if you promise to leave Rhin behind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"You want to get out? I'll set you free if you promise to leave them behind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Walk away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Lash the shades with Tidal energy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"The shades are devouring you, as you devoured so many lives to feed your own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>She struggles and screams against the need of her erstwhile minions, but somehow your words penetrate the barrier of her fear.
+
+She opens her eyes and sees you. She reaches out a hand to you, and a spark of energy flashes between your fingertips.
+
+With it, awareness comes to her eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>She struggles and screams against the need of her erstwhile minions, and your words do not penetrate her fear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>She cannot hear you, but your words lend solidity and substance to her tormentors. They burrow under her flesh, inhaled into her lungs like smoke, and she shrieks in horror and violation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Your words have no effect, and she continues to writhe in torment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>At first they lap up the Tides, swarming around you as if for nourishment... but they cannot absorb it all, and they bloat and expand and become amorphous, diaphanous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Leave this place, Tol."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Walk away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Not while I see profit." She smiles. "You know me better than that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Then destroy me. You're a weak, vain fool, and I will never surrender to you. *Never*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>She shrinks before your threat, and as she does, she loses solidity. She begins to sink into the floor of the Labyrinth, and the last you see of her are her frightened, despairing eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Destroy her with the Tides.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"How? *How* will you do that? My powers don't do anything here. How is it that yours will be sufficient to the task?" She almost hides her sneer. "Here's the bargain I'll offer - you free me, I'll walk away. You don't, I'm taking her with me when I go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"What are you doing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"No. No, you never have. You're not like the rest of us." She looks away, and looks back, and then reaches out her hand. "All right. I do trust you."
+
+As she touches you, she begins to fade. She regards her feet with amusement as she lifts them from the floor. She lowers herself gently to the ground then, her hand still clasped in yours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>She laughs bitterly. "You're a castoff, like me. Like Matkina. Like all the others. Trust you? I'd sooner trust a cragworm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Shades flicker around her, substanceless specters who radiate a burning, ephemeral *need*. 
+
+She flaps a hand irritably at them. "Pity these specters keep interfering. Worse, my feet are mired. If I can just get free..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"What are you..." She twists, trying to keep an eye on you and push away the shades at the same time, but she's unable to do both.
+
+You step close, wrap your arms around her neck, and with a quick yank and twist, you break her spine.
+
+She collapses to the ground, gagging and twitching. A few long moments later, she dies. Her body dissolves, sinking into the floor of the Labyrinth, and she is gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>
+You feel the Tides coil within you, perhaps as a response to the hungry ghosts that surround her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"What are... what you doing? I can feel you... no. No. No!" Her veins bulge, and blood fills her eyes. Her body swells, her clothing tight around her. Her skin splits... and she starts to burn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>A moment later, and all she ever was is ash on the ground. The Labyrinth devours it greedily.
+
+No sign of Tol or her shades remain.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>A woman with a mask and a surprising amount of hair stands before you, her arms flailing across her body. Shades flicker around her, substanceless specters who radiate a burning, ephemeral *need*. Her hands pass through them, and each time she looks as if she is going to vomit. Her feet are buried in the ground - she cannot move.
+
+You feel the Tides coil within you, perhaps as a response to the hungry ghosts that surround her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>The wild-haired woman turns her head away from young Rhin as you approach, though her feet stay strangely rooted to the floor. A breathing mask dangles from a cord around her neck, and you see where it has cut permanent grooves into her face.
+
+"Once I find a way out of this place, I can make a handsome profit from this human flesh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>She gazes at you levelly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Shades flicker around her, substanceless specters who radiate a burning, ephemeral *need*. 
+
+She flaps a hand irritably at them. "Pity these specters keep interfering. Worse, my feet are mired. If I can just get free..."
+
+You feel the Tides coil within you, perhaps as a response to the hungry ghosts that surround her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>She mouths silent gratitude, then rests her weary head on the floor of the Labyrinth, and sinks into the ground, leaving no trace behind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Tol, is that you? What is happening to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>She stops batting the shades for a moment, looking at - no, *through* - Rhin. "I thought I heard something... a bird..." Then she cries out as another shade flickers near her face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Those ghosts, I know them. They were people addicted to... what she did to them. Without me around to temper her powers, she'd kill them."
+
+She turns to you. "We should help her if we can. She was terrible to me, I know, but... she *needed* me as well." She shakes her head. "I'm not condoning what she did. I'm just... I want to forgive her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>She grabs your hand in a surprisingly firm grip. "No," she says, still looking at Tol. "I'm not saying she wasn't a terrible person, or that she doesn't even deserve death, but..."
+
+She looks you in the eye. "The decision is not ours to make. If there's nothing you can do for her, then let us leave her to her fate rather than decide it for her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>The shades greedily lap up the Tides, swarming around you as if for nourishment. When they have consumed all you have to throw at them, they return to their former activity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Is that... my little bird?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>She cowers, covering her head from a fresh attack. She seems completely unaware that either of you are even there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Unable to speak, Rhin only nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>She frowns. "I hate for anyone to be tormented so... no matter how much they might deserve it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>She looks at Rhin, awareness coming to her eyes briefly. "Is that... my little bird?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Break her neck now that Rhin isn't around to stop you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>She desiccates suddenly, her flesh shriveling and flaking away, until all that's left is dust.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

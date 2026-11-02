@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_mechela</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>62</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>In a stall filled with all manner of dusty parts, connectors, and strange devices, a woman tinkers with a half-assembled power source, peering at it through spectacles that have several adjustable lenses. Her long white hair is disheveled, and the skin of her thin frame is marked with small scars and burns. She looks up curiously as you approach.
+
+"Welcome to Mechela's Mechanicals. I got a bunch of broken stuff and a few things that work. You want any of it, let me know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The scrawny old woman peers at you through her spectacles. "Welcome back. Wanna buy anything, let me know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Do you know a woman named Matkina? Pale skin, hard looks?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Do you know a glaive named Riastrad? A big man wearing armor that flows and changes? Walks like he's asleep?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Let me see what you have for sale."
+
+{STORE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"After all the sticha have done to this city, I wouldn't think you'd care so much about their young."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Can't say. Sounds like most glaives. Well, maybe not the armor, but I'd remember *that* if I'd seen it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Oh aye. I know that one. Carked and twitchy. Asked me to ken the workings of some weird old device she had. Obsessed with it - like it was a bit of sniff and she a slave to it. Never seen the like."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Near to killed me when I couldn't make it work for her." She frowns, remembering. "I'd'a been mad 'cept I saw how sick she was with it - shaking, tears, the whole lot. Sent her on her way and wished her luck. She'll need it, poor thing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>She leans in. "You seem like the kind would be interested, so I'll tell you. It was a jagged, knobby thing, black and evil, little warts all over. She seemed to think it could help her remember something, but I couldn't even figure if it was on or off."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>She shrugs. "Trade mostly. There's an old priest, name's Aligern, who brings me things now and then. Doesn't like to tell me where he finds them, so I don't ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"You trade with the sticha?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Now and then. They dig up all kinds of things in those tunnels of theirs. Picky about what they trade for, though. Only want things that'll hold a lightning charge - flash packs, generators, that kind of thing."
+
+Her brow furrows. "Which is weird, now that I think of it, 'cause their eggs hold a charge. Like little batteries, they are. I've even converted a few of 'em to power things. Though don't tell the sticha that. Be like using a baby for firewood, in their eyes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>She shrugs. "Trade mostly. Your friend Aligern there brings me things now and then. Hello, priest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>He nods, curt. "Mechela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I get stuff from little Manth too, though sometimes his stuff's too hot to touch. Even a few things from the sticha, if you can believe it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"After all the damage the sticha have done, what would the levies say about you trading with them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Aye, aye. Off you go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Where do you get your stock?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Tell me again where you get your stock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I trade for it. That's what traders do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I have some sticha eggs. Can you convert them into power sources?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I want to ask you again about the sticha eggs. Will you convert them into power sources?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>She grimaces. "I'd rather not, to be honest. It's dangerous work for a start. I could end up losing the rest of my eyebrows, and if the sticha ever found out, they'd snip me to pieces with their claws. Those are their babies, you know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Like I said, I'd rather not. The sticha won't like it, and I might blow myself up - again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>She thinks about it for a moment, then nods. "I suppose you're right. But it's still my neck if they find out, so I'm going to charge you [Global: a2301_MechelaPriceForEggs] shins for each cluster of eggs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>She thinks about it for a moment, then shakes her head. "You're probably right, but the risk isn't worth it. I'll pass."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Her eyes widen behind her lenses. "You wouldn't do that to an old woman, would you? Well, maybe you would. All right, all right, I'll convert the eggs. But you've got to make it worth my while... [Global: a2301_MechelaPriceForEggs] shins for each egg cluster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Pff. The levies don't care about me. If I swap a few baubles with the sticha, so what? Far worse happens down here, and the levies stay topside."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Please convert my sticha eggs into power sources."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"All right, just a minute. Let me get my tools together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Mechela hands you one of the sticha eggs. It is now fitted with small, humming attachments, including a metal prong that could be attached to another device. 
+
+"Some of 'em broke while I was fiddling with 'em," she sighs, "and a couple weren't viable to start with. This one's all that's left, but it's still worth more than you paid."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"The sticha will never find out. We're the only people who need to know, and I can make it worth your while."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Nope... not worth it." She crosses her arms. "But I told you that already."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I have friends topside. One word from me, and they'll shut you down... or worse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>She squints at you, uncertain. "Maybe that's true and maybe it isn't. I'm still more scared of the sticha than I am of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Looks like you have more than one cluster. How many do you want me to, uh... convert?" Her mouth twists on the final word, as if she almost said something else.
+
+"[Global: a2301_MechelaPriceForEggs] shins for each cluster."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"All three."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Two of them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Just one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"You don't have enough shins," she frowns. "I said [Global: a2301_MechelaPriceForEggs] for a cluster. That covers the work *and* the risk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>The old woman nods. "Wanna buy something else instead?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"All right, just a minute. Let me get my tools together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Mechela hands you some of the sticha eggs. Each is now fitted with small, humming attachments, including a metal prong that could be attached to another device. 
+
+"Afraid I didn't get all of 'em to work. Some broke while I was fiddling with 'em. These are what's left."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"All right, just a minute. Let me get my tools together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Mechela hands you some of the sticha eggs. Each is now fitted with small, humming attachments, including a metal prong that could be attached to another device. 
+
+"Afraid I didn't get all of 'em to work. Some broke while I was fiddling with 'em. These are what's left."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"I used to get stuff from little Manth too... before he got killed." She sighs. "Hope it wasn't something he nicked for me that painted a target on him."
+
+"Sometimes I get a few things from the sticha too, if you can believe it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Before they all cleared out, I did." She gives you an accusatory frown. "They dig up all kinds of things in those tunnels of theirs. Picky about what they trade for, though. Only want things that'll hold a lightning charge - flash packs, generators, that kind of thing."
+
+Her brow furrows. "Which is weird, now that I think of it, 'cause their eggs hold a charge. Like little batteries, they are. I've even converted a few of 'em to power things. Good thing the sticha never found out though. Be like using a baby for firewood, in their eyes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Sorry, I'm all sold out. Maybe I'll have some things available tomorrow."
+
+{SCRIPT: Placeholder response until we get store tech.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Peliai said that you'd convert these sticha eggs into power sources for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"If the sticha hear that I'm turning their babies into batteries, they'll take me underground and *lose* me." She sighs. "Guess I'll add it to Peliai's tab. Let me get my tools together..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Mechela hands you one of the sticha eggs. It is now fitted with small, humming attachments, including a metal prong that could be attached to another device. 
+
+"Some of 'em broke while I was fiddling with 'em," she sighs, "and a couple weren't viable to start with. This one's all that's left."
+
+"No charge, as agreed."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

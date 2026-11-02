@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6101_stasis_pylon_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This strange machine vibrates, humming almost below the register you hear. Every few seconds, the air around it ripples and an arc of energy spits across the space between this pylon and the enormous tower nearby. A small control panel glows in the side of the machine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>As before, the machine hums at some ultralow frequency. A small control panel glows in its side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Question node]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Try to activate the pylon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Step away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The controls are not hard to figure out. Within moments, the air around the pylon begins to ripple, and an arc of energy connects it to the other machines nearby. The machine's humming increases.
+
+As you step away from the controls, the pylon's power begins to fade. The knob you turned to activate is slowly turning back by itself.
+
+It's only a matter of time before the pylon powers down again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Oddly, the other castoffs - those still under the Labyrinth's illusions - avoid the pylons. When one of them comes near, their actions grow sluggish, but only slightly.
+
+It doesn't appear to be any effect of the pylon itself, but rather what they *believe* the pylon to be. If you activated all of the pylons, it might have a more pronounced effect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[DEBUG] Turn on all three pylons right now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>With all three pylons activated, the massive tower pounds the air. Every castoff caught within the web of its energy - those still under the Labyrinth's illusions - suddenly freezes in place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The air around the pylon ripples, and an arc of energy connects it to the machines nearby.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Activate the pylon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Almost immediately, it begins gradually powering down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>With no enemies around, there seems little point in wasting time with this device. You leave it alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

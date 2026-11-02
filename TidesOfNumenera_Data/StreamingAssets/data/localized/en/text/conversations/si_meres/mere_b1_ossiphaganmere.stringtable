@@ -1,0 +1,1620 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\si_meres\mere_b1_ossiphaganmere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>256</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You are on the spine of a great, dead monster buried in the lava. Rib-like towers jut out of the ground all around you. A transport floats next to the top of one tower.
+
+Two landmarks are visible in the distance: massive obsidian formations and a carved mountain pass beyond a field of glowing lights.
+
+{ART: The Spine}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Climb the tower to the transport.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Go to the obsidian formations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Go to the mountain pass.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Try to remember who you are and how you can find Mazzof.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Use your connection to the dead to learn more about the area of the spine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You are in the body of Zerian Daywalker, a jack who can speak with the dead. Indeed, now that you remember that, you can *feel* the dead all around you. You can hear them. It takes little effort to *know* the stories of those who died here. You may even be able to imbue some of your life force into their corpses.
+
+Zerian is wearing a black, form-fitting suit that keeps off the worst of the heat. He carries a whip and various necromantic ornaments.
+
+Zerian was on a task for someone called the Chimaera. He was sent here to find some kind of sphere.
+
+{SOUND: "Had a memory" stinger}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You can't recall this body's past, but you know his name: Zerian Daywalker. Another name lingers without meaning: the Chimaera.
+
+His fitted black suit shields you from the worst heat. He carries a whip and ornaments that evoke the dead.
+
+The ornaments are more than decoration. You *feel* the dead and their stories around you. Perhaps Zerian's connection to them explains his mission.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You can't remember any of the memories this body once had. All you know is you are wearing a black, form-fitting suit that keeps off the worst of the heat. You have a whip at your side and various ornaments that remind you of the dead.
+
+The ornaments are more than decoration. You can *feel* the dead around you. Whoever this was must have had a connection beyond the world of the living - perhaps part of their mission.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The sphere is an artifact called the 'urlimnion.' The Chimaera would be quite upset if Zerian returned without it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Explore the towers around the spine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Explore some more in the spine's towers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>You search through tower after tower. Some of the chambers you come to are filled with piles of dead relics and broken cyphers, but nothing of value.
+
+Finally, you come across something promising.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>You search for a long time through the towers. There is clutter and death in abundance, but you find nothing of value.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>You're in luck! The first tower you come to contains a pile of prior world relics. Most of them are dead and useless - the best having been scavenged centuries ago - but you do come across something promising.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>You search for hours, convinced there is treasure among the clutter. But every glimmer of hope you find turns out to be a waste. These towers have been cleaned out by centuries of scavengers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>You are in a place called the fields of Ossiphagan, and many have lived and died here, though it seems a terrible place to live.
+
+Scavengers from Sagus Cliffs have been through here in recent centuries, seeking treasures of the past. Before that, it was mutants fleeing revolution after bloody revolution in a place called Haref. Before that, refugees from a village called Shuenha.
+
+Before that, the Ossiphagans themselves.
+
+You see a glimmer of a powerful artifact. Hundreds of years ago, there was a battle here. Many died. Two people - a middle-aged woman and a teenaged girl - fought over a copper sphere at the top of the glowing bone tower.
+
+{SOUND: Had a memory stinger or else some other "ability use" sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>You are at the top of the broken bone tower. Jagged bone walls act as a kind of parapet.
+
+From here you can see the fields of Ossiphagan even better: the spine below you, the obsidian formations in one direction, and the glowing fields in front of the mountain pass in the other.
+
+Floating just next to the tower is a hovering pod made of azure steel. A ramp leads from the parapet into the transport.
+
+{ART: Atop the Bone Tower}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Return to the spine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Enter the transport.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Use your connection to the dead to learn more about the top of this bone tower.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Little has happened here, but for one event that immediately becomes apparent. You see a middle-aged woman - you know her name is Ama - facing off against a young girl named Thiya. Ama is hovering in the air, like the transport does now. She holds a copper sphere that glows with a golden light.
+
+Angry words are exchanged, and suddenly Thiya leaps off the tower and tackles Ama. The two of them soar through the air toward the obsidian formations in the distance.
+
+{SOUND: "Had a memory" stinger or else some other "ability use" sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>As you approach the ship, a tingling crawls up your spine. You have a profound sense of a task unfinished, and that trouble awaits you - or at least it awaits the person whose body you are in - if you leave now. Is this what Aadiriis meant when she said to be careful with Zerian's life?
+
+{SOUND: "Had a memory" stinger}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>The transport is cramped for an adult human. You lie on your side with your legs bent. The ramp recedes, the doorway disappears, and your stomach lurches as the transport takes to the sky.
+
+At first you try to peer out of the tiny portholes, but all you see is pitch black - presumably the volcanoes' black clouds. Eventually, they are replaced by the black of a starry sky. You try to see the land below, but it's impossible in the cramped space.
+
+Hours pass. Finally the transport slows. Its humming ceases, and the door reappears.
+
+{SOUND: Stop volcanic ambient sound. Optionally add a transport/flier sound.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You step out of the transport, stretching painfully. You are in a strange cavern. Artifacts are strewn everywhere, in various stages of repair or experimentation. One wall is covered by a network of displays, showing people and scenes that mean nothing to you.
+
+In the center of the room is an enormous cage made from steel tendrils that twist together at the top. The cage glows for a moment, and a figure walks out. He wears a thick cloak. His face shifts and blurs, its features never settling into a person you could describe.
+
+His name comes to your mind immediately: the Chimaera.
+
+{SOUND: End transport/flier sound.}
+{SOUND: Open flier door.}
+
+{ART: Chimaera's HQ}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Get in anyway.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Crossing the volcanic plains, you arrive at the obsidian formations. Massive structures of cooled, shining rock leap from the ground, curling into impossible shapes. An enormous black wall rings most of the formations, rising a hundred meters out of the ground in places.
+
+The obsidian formations are dark, quiet, and desolate. A hot wind blows from magma flows farther off, but here nothing flows and nothing lives.
+
+In the distance, you can see the spine and bone towers, and in the other direction the plains stop at a sheer cliff face with a mountain pass carved in between.
+
+{ART: The Arches}
+{SOUND: Ambient volcanic noises softer here}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Use your connection to the dead to learn more about this location.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>The obsidian formations did not form naturally. Creatures made of pure light, called fire wights, formed these structures out of hot, flowing magma, then super-cooled them into the shapes they are in now.
+
+The wights were trying to get at something, or someone. You see a pair of figures atop a small flying platform. One of them holds a copper sphere that glows with a golden light. The wights tried to trap them here with their wall, but they escaped and flew toward the mountain pass.
+
+{SOUND: "Had a memory" stinger or use ability sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Explore this area.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Seek out the gemorrn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>You search for anything remotely interesting, but the place is barren. As you are about to leave, an orange glow reflects off the rocks ahead. An enormous paw steps in your path, and the rest of the creature emerges.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Now that you know what to look for, the gemorrn is easy to find. Unfortunately, it's also looking for you. It howls in endless pain and frustration and stalks toward you.
+
+{ART: Gemorrn}
+{SOUND: Gemorrn roar}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Draw your whip and attack the gemorrn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Attack the gemorrn with the staff you found in the bone towers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Taunt the Gemorrn. Get it to chase you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Try to speak with the dead victims that form the gemorrn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Run to the spine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>The whip cracks in the space where the gemorrn stands. As before, it has no effect whatsoever.
+
+Before you can decide what to do next, the gemorrn pounces, pinning you to the ground with surprisingly substantial claws. Fire and teeth tear into your skin, while an onslaught of mental anguish shreds at your mind.
+
+{SOUND: Whip}
+{SOUND: Enraged Gemorrn roar}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>You aim the charred end of the staff at the center of the gemorrn and press the button on the side. Thunder claps in the air and a scalding beam of light strikes one of the gemorrn's faces.
+
+The gemorrn howls in pain. Its rage wasn't directed at you before, but it is now. It charges at you. 
+
+You try to fire the staff again, but nothing happens. The staff is useless.
+
+{SOUND: Lightning Lance}
+{SOUND: Enraged Gemorrn roar}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Gauging its speed and strength, you snap your whip from a safe distance. It roars. You feel the weight of a hundred people crushing your head, but you don't stop. You throw rocks at it, insult it in a handful of languages.
+
+Nothing you do hurts it, and it probably doesn't understand your words, but it understands your intentions well enough. It charges at you with great speed and intent to kill.
+
+{SOUND: Whip}
+{SOUND: Enraged Gemorrn roar}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>You snap your whip at the thing. The whip does nothing, but the gemorrn roars. You feel the weight of a hundred people crushing your head.
+
+The gemorrn leaps forward, swiping at you with one of its enormous claws. You must have misjudged the distance, because it hits you square in the chest, knocking you aside.
+
+You get up, shaken and injured, but otherwise okay. At least the creature is angry now. It scuffs the ground, preparing to charge again.
+
+{SOUND: Whip}
+{SOUND: Enraged Gemorrn roar}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Gauging its speed and strength, you snap your whip from a safe distance. Though the whip does nothing to it, the creature roars. You feel the weight of a hundred people crushing your head. Reflexively, you push back with your own mind, speaking to it, taunting it, and insulting it in some psychic language that it clearly understands. It charges at you with great speed and intent to kill.
+
+{SOUND: Whip}
+{SOUND: Enraged Gemorrn roar}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>You lash your whip at the gemorrn. It has as much effect as whipping a campfire, but the creature roars. You feel the weight of a hundred people crushing your head.
+
+Before you can do anything, the gemorrn pounces, pinning you to the ground with surprisingly substantial claws. Fire and teeth tear into your skin, while an onslaught of mental anguish shreds at your mind.
+
+{SOUND: Whip}
+{SOUND: Enraged Gemorrn roar}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Your last memory before blacking out is of Zerian - not you - summoning something. Then the pain is too much and you are gone.
+
+When you awake, you are lying in a small metal pod - the transport you saw from the spine. A corpse lies broken on the floor, and you realize Zerian must have summoned it to carry your body here after you were killed.
+
+You see nothing outside the pod but blackness, and there are no controls or interfaces of any kind. Finally, you feel the transport slow, then stop. Part of the wall disappears, the corpse falling out of the hole.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>The victims within the gemorrn do not speak. All they know is hunger and fury and rage. They want to consume you, but only because you are there. Even more they want *revenge* against those who murdered them all: fire wights.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Run to the mountain pass.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>You run. The gemorrn shrieks, right on your tail. Your chest tightens and breathing becomes difficult when you reach the bridge leading to the spine.
+
+As soon as you step onto the bones of the great beast, the gemorrn quiets and stops. It watches you a while, then it turns away and returns to the obsidian formations.
+
+{SOUND: Gemorrn chasing, like a charging bull}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>You run. The gemorrn roars behind you, but it doesn't seem interested in you, in particular. After a while, its roars fall away into the distance.
+
+{SOUND: Gemorrn roar fading}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>The gemorrn lets out a piercing cry. It stays right on your tail the entire way, forcing you to sprint, gasping for breath in the hot air.
+
+You can feel the gemorrn's rage like a hand pressing against your back. It presses harder, squeezing your mind. The gemorrn's howl makes the ground tremble.
+
+Suddenly the pressure releases, and the air turns burning cold. You risk a glance behind you and realize you are in the center of the plains leading to the mountain pass, surrounded by fire wights. The gemorrn grabs wights one at a time, tearing them in two then tossing them aside. The wights rush forward together to defend themselves against the horrible beast.
+
+In their anger, you are forgotten and ignored.
+
+{ART: The Wights and Gemorrn Attack Each Other}
+{SOUND: Gemorrn chasing, like a charging bull}
+{SOUND: Wights and Gemorrn fighting}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>You run. The gemorrn roars behind you, but it doesn't seem interested in you, in particular. After a while, its roars fall away into the distance.
+
+{SOUND: Gemorrn roar fading}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>The mountain pass is still some distance away, but you're close enough to see that there is too much rubble at the bottom to make your way through.
+
+Spread out in front of the cliffs is a great volcanic plain. Across the entire expanse are hundreds and hundreds of creatures lit with a dim glow that has nothing to do with the magma.
+
+You know these creatures are called fire wights. At the moment, they seem to be ignoring you.
+
+{ART: The Charred Pass}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Explore the fields... carefully.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>You search for a time, but there's very little out here in the fields. You do find some kind of large shield embedded in the molten rock nearby. You also *feel*, rather than see, the strong presence of death here.
+
+You try to search further, but a group of fire wights crowds in and threatens you. It's going to be difficult to get past them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Use your connection to the dead to learn more about this location.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>You see a group of people in tattered clothing march through the pass and out of these fields. They are terrified, having lost many of their number to the wights.
+
+You see two figures riding a small flying platform, almost like a shield. Suddenly the platform teeters, and the figures fall.
+
+You can see the spot where the shield fell, and though the bodies are no longer there, you can *feel* their presence very strongly.
+
+And there, a short distance away, you can see where one of the figures dropped what looks like a copper sphere.
+
+{SOUND: "had a memory" stinger or use ability sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Study the wights' behavior.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Study the wights some more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>You watch for a long time. The wights seem to wander aimlessly, but the changing air temperature is their doing.
+
+They use it to communicate with each other. Perhaps understanding this could help you slip past.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[You can't figure them out, but you found the bodies and artifact while you were watching.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>You quickly realize the wights are changing the air temperature to communicate with each other - perhaps with you, too.
+
+You understand little of it, but colder air generally means greater danger. Not always: they seem to distinguish different kinds of cold. Perhaps this could help you slip past.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[They make no sense to you at all, but at least you found the bodies and artifact while you were watching.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>You study them some more, but you can still see no pattern to their behavior - nothing you can use, anyway.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>You study them some more, but you can still see no pattern to their behavior at all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Attack the wights with your whip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>The whip has no more effect than it does on the air itself. Several wights turn toward you at the sudden intrusion. The air around you ripples between hot and cold so quickly it makes you feel sick.
+
+Three of the wights reach out to you and begin sliding closer.
+
+{SOUND: Whip attack}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Try attacking with the whip again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Run to the spine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Run to the obsidian formations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>As the whip passes through the wight, it grows chilly in your hand. Ice crystallizes on the far end, which falls to the ground with a thud.
+
+Then the wights pounce on you with surprising speed. Three of their hands push *into* you, and a terrible pain stretches through your chest into your entire body. Within seconds, you are too weak to even run.
+
+{SOUND: Whip attack}
+{SOUND: Zerian screaming}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>The air grows colder as the wights close in. You bolt in the opposite direction. As you cross the bridge, you can feel the air heating up again to its normal levels. The wights seem to have gotten bored and left you alone.
+
+{SOUND: Zerian running}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>The air grows colder as the wights close in. You bolt in the opposite direction. As you near the enormous obsidian structures, the air heats up again to its previous volcanic levels. The wights have disappeared suddenly, and you are alone.
+
+{SOUND: Zerian running}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Attack the wights with the staff you found in the towers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>You aim the charred end of the staff at one of the wights and press the button on the side. The air feels like it rips apart as a scalding beam of light strikes the wight in the chest. The creature disappears in a flash of fire and heat.
+
+The air grows icy cold, broken by irregular streaks of intense heat. The other wights back away slightly, but they are clearly looking for a chance to strike again.
+
+{SOUND: Lightning Lance thunderclap}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Use your connection with the dead to speak to those that died here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Though there are no bodies on the surface, you can feel the dead beneath the rock, preserved by magma that has flowed over this spot over the centuries. One is a middle-aged woman named Ama. The other is a girl, but she is strangely silent. Even with your strange powers, there is nothing there to speak with.
+
+"Peace," says Ama. "Is it better? Better, yes. Better oblivion."
+
+{SOUND: "Had a memory" stinger or use ability sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Get the sphere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Try to slip past the wights to get the sphere again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>With the wights' attention focused exclusively on the dangerous gemorrn, it's easy for you to slip in and grab the sphere. None of the creatures notice you at all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>For the most part, the wights seem to ignore you. Most of them don't even seem aware of your presence, though a few turn their heads toward you.
+
+As you walk toward the sphere, however, their attention changes. One moves to block your way. When you try to feint around it, three more appear behind you. The closer you get to the sphere, the more wights block or surround you. You can't get through.
+
+Strangely, when you walk away from the fields and the sphere, the wights seem to quickly lose interest in you, like they are protecting it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Use your connection to the dead to animate a corpse and have the corpse get the sphere for you. [Cost: 1 Intellect]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Reaching into the earth, you find the body called Ama and summon her forth. With uncanny strength, she crawls out from the cooled rock. Though her skin is charred and rotting, a castoff tattoo is clearly visible on her head.
+
+You command her to collect the sphere, but Ama's body only makes it a short way before the wights attack her. Their hands reach inside of her, consuming what little life force you imbued her with. As they do so, the air grows intensely cold.
+
+{SOUND: "Had a memory" stinger or use ability sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Now that you know the wights communicate through temperature variation, you might be able to avoid their attention by feel better than sight, assuming you can figure out what the different temperatures mean.
+
+The sphere is about three hundred meters away, and the wights shift  around constantly. It's going to be tricky to get close.
+
+{SlipPastWightsCounter = [Global: MB1_SlipPastWightsCounter]
+WightIsFollowing = [Global: MB1_WightIsFollowingPC]}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Move closer to the sphere, staying where the air is cool.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Move closer to the sphere, staying where the air is warm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Move closer to the sphere, trying to stay where the temperature ripples between hot and cold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Leave the sphere and go back to the spine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Leave the sphere and go to the obsidian formations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>You edge your way closer to the sphere. One wight looks your way, then another. Suddenly, the air alternates between streaks of intense cold and heat. You don't know what it means until several of the Wights block your way to the sphere. The rest come at you with outstretched hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Attack the wights with your whip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>As you close in to the sphere, the wights seem suddenly wary. You're afraid they'll stop you again, but you raise your staff and they back off.
+
+You pick up the sphere and put it into a bag at your side. Suddenly the wights seem to have gotten over their fear and they slide toward you, arms coming for your chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Attack the wights with your whip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Study the wights.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Go to the spine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Go to the obsidian formations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Using the temperature of the air to feel where their attention might be, you close the distance to the sphere by about a hundred meters. The wights don't seem to notice you.
+
+{SlipPastWightsCounter = [Global: MB1_SlipPastWightsCounter]
+WightIsFollowing = [Global: MB1_WightIsFollowingPC]}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>You close the distance to the sphere by about a hundred meters. It seems like the wights are ignoring you, but suddenly one turns your way. It seems more curious than hostile, but either way it's following you now.
+
+{SlipPastWightsCounter = [Global: MB1_SlipPastWightsCounter]
+WightIsFollowing = [Global: MB1_WightIsFollowingPC]}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Move closer to the sphere, staying where the air is warm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Move closer to the sphere, trying to stay where the temperature ripples between hot and cold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>The wight continues following you, but it remains at a distance. You are able to escape the attention of the other wights and close the distance to the sphere by another hundred meters.
+
+{SlipPastWightsCounter = [Global: MB1_SlipPastWightsCounter]
+WightIsFollowing = [Global: MB1_WightIsFollowingPC]}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>The wight follows you for a time, while you lead it on a circuitous route - near the sphere, but not too near. Eventually, it seems to get bored and it leaves. You manage to close the distance to the sphere by another hundred meters.
+
+{SlipPastWightsCounter = [Global: MB1_SlipPastWightsCounter]
+WightIsFollowing = [Global: MB1_WightIsFollowingPC]}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Close enough! You dive forward, grabbing the sphere and tumbling away before the wights can stop you.
+
+The air suddenly becomes a sickening pattern of intense cold and heat. You have escaped the wights' attention so far, but they're paying attention to you now. Several of them attack you with outstretched hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Walking away from the sphere, the wights leave you alone entirely. Even those that occasionally turn their attention toward you soon lose interest and continue whatever they were doing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Walking away from the sphere, the wights leave you alone entirely. Even those that occasionally turn their attention toward you soon lose interest and continue whatever they were doing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Excellent!" The Chimaera's voice is metallic and artificial, shifting as often as the features of his face. His expressions slide and change, but all of them are smiling as he reaches forward and takes the sphere from you. "I knew your unique gifts would come in handy, Zerian. I'm impressed that you found the urlimnion so quickly."
+
+The Chimaera sets the urlimnion on a nearby table with a *clunk*. He immediately picks up a variety of scanning tools, one after the other, probing the urlimnion and its secrets.
+
+He seems to have forgotten about you. You look around the cavern, but there are no entrances or exits, nowhere this Mazzof could be except for the cage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Took you long enough." The Chimaera's voice is metallic and artificial, shifting as often as the features of his face. His expressions slide and change, but all of them are frowning as he reaches forward and takes the sphere from you. "With your unique gifts, I thought finding a dead relic would come easier."
+
+The Chimaera sets the urlimnion on a nearby table with a *clunk*. He immediately picks up a variety of scanning tools, one after the other, probing the urlimnion and its secrets.
+
+He seems to have forgotten about you. You look around the cavern, but there are no entrances or exits, nowhere this Mazzof could be except for the cage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>The Chimaera looks you up and down. From his expression, you must look terrible.
+
+"You failed." The Chimaera's voice is metallic and artificial, shifting as often as the features of his face. His expressions slide and change, but all of them are frowning. "I thought you were smarter than that, Zerian. Next time, perhaps I should find a more *sturdy* castoff."
+
+He makes a scornful gesture indicating you should leave him alone, then he turns to one of the relics nearby and begins tinkering with its innards.
+
+He seems to have forgotten about you. You look around the cavern, but there are no entrances or exits, nowhere this Mazzof could be except for the cage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"You failed." The Chimaera's voice is metallic and artificial, shifting as often as the features of his face. His expressions slide and change, but all of them are frowning. "Worse, you *quit*. Aren't you a castoff? Shouldn't you rather have died in the attempt than give up? This will not go unanswered, Zerian. We'll discuss the punishment for failure another time. Leave."
+
+He makes a scornful gesture, then he turns to one of the relics nearby and begins tinkering with its innards.
+
+He seems to have forgotten about you. You look around the cavern, but there are no entrances or exits, nowhere this Mazzof could be except for the cage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Where is Mazzof? I need to speak with him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>(Lie) "I want to speak with Mazzof about that artifact I found."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Examine the cage to figure out how it works.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Attack the Chimaera with your whip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>You take two steps toward the cage, but the moment you reach your hand toward it, the Chimaera stops you with a bark. "What do you think you're doing? Your mission is complete. I have no purpose for you out there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>You lash out with the whip while the Chimaera's back is turned. He cries out in pain, then whirls on you with a glowing blade in hand.
+
+The Chimaera lunges forward to attack, but you strike with your whip again. Suddenly, you are blinded by a bright flash of light. You shield your eyes, preparing for a counterattack, but none comes. When you can see again, the Chimaera is gone.
+
+{SOUND: Whip attack.}
+{SOUND: Flashbang as Chimaera disappears.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Mazzof?" The Chimaera's altering voice slips from baritone to falsetto in a rapid series of notes. A dozen different eyes narrow with suspicion. "I'm not sure that tinkerer could tell you anything *useful*... but I can think of no reason to deny you."
+
+The Chimaera turns and slides a hand along one of the metal tendrils. Although no discernible interface appears, he presses his finger against the metal twice and the cage begins to glow.
+
+The Chimaera turns his attention back to the sphere, indicating you should enter the cage with a dismissive wave.
+
+{SOUND: Open portal sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Where is Mazzof? I need to speak with him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"I want to speak with Mazzof about that mission."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Examine the cage to figure out how it works.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>You take two steps toward the cage, but the moment you reach your hand toward it, the Chimaera stops you with a bark. "What do you think you're doing? Your mission is complete. I have no purpose for you out there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Five separate expression play on the Chimaera's face, all of them suspicious. "There is no need for that. Go and await further instruction."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Really?" His eyebrow changes from orange to black to purple in the time it takes him to raise it. "I see no harm. Very well."
+
+The Chimaera turns and slides a hand along one of the metal tendrils of the cage. Although no discernible interface appears, he presses his finger against the metal twice and the cage begins to glow.
+
+The Chimaera turns his attention back to the sphere, indicating you should enter the cage with a dismissive wave.
+
+{SOUND: Open portal sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Absolutely not," the Chimaera says, his altering voice jumping from bass to tenor to baritone with each syllable. "That is the last we will speak of it. Rest and await further instruction."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Two of the metal tendrils become a kind of doorway. On the other side, Mazzof squats on some sandy, alien shore. Stars twinkle in the sky behind him, but they are no stars you recognize. He picks up his head as though he heard something, then he turns around to face you.
+
+One of his eye sockets is artificial, alternately projecting a human eye, a snake's eye, and something even more alien in the time he looks you over. He looks like a shipwreck survivor: bare-chested, ragged pants, ragged beard. If so, he's better fed than you'd expect.
+
+"Zerian?" he says, his human eye squinting in the light. "What the hells do *you* want?" He peers forward, as though trying to see into the cavern.
+
+{ART: Talking with Mazzof}
+{SOUND: Small waves lapping on a beach. Possibly an ambient sound.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Where is Mazzof? I need to speak with him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"I want to speak with Mazzof about that artifact I found."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Examine the cage to figure out how it works.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>You take two steps toward the cage, but the moment you reach your hand toward it, the Chimaera stops you with a bark. "What do you think you're doing? I have no purpose for you out there. Await further orders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Where is Mazzof? I need to speak with him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"I want to speak with Mazzof about that artifact I found."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Examine the cage to figure out how it works.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>You take two steps toward the cage, but the moment you reach your hand toward it, the Chimaera stops you with a bark. "What do you think you're doing? Your mission is a failure. The last thing I want is to have you out there making more trouble for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Where is Mazzof? I need to speak with him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"I want to speak with Mazzof about that artifact I found."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Where are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"You're not in the Chimaera's hideout. Where is that place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>He spreads his arms in mock welcome. "I'm on a gods-damned beach having the time of my life. Where's it look like I am?"
+
+He crosses his arms across his chest. "What the hells did you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>He only glares in response.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Are you really Mazzof? The one who talks to machines?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>His brow furrows, while his artificial eye socket cycles through about a dozen different eye patterns in two seconds. His tone drops to a dangerous low. "Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"And where's our beloved leader?" The way he says 'beloved leader' leads you to believe he's anything but. "I can't believe you'd be allowed to work the gate without supervision."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"I attacked him. I'm here alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Him? The Chimaera." Some kind of understanding appears on his face. "He's been around a *long* time, son. Not so easy to get rid of as all that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"The resonance chamber has been smashed. I need to know how to fix it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>He puts a hand to his chin, all anger and suspicion gone in the face of a puzzle. "Well, it ain't that hard if you know the basics. The chamber's crystal, yeah? So it's grown, not built. So long as the chamber's core is intact, it should know how to grow itself. You just need a catalyst to..."
+
+He trails off and looks at you anew. "*Why* do you want to know this? The resonance chamber's only good for..." He gives you an angry look. "Who sent you? Why are you after this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"I'm trying to stop the Sorrow from hunting us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"The Specter - a, uh... being... in my head. He told me if I fix it I could stop the Sorrow from hunting us down."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Don't worry about that. Just answer the question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Mazzof barks a short, bitter laugh. "I don't doubt it would stop the Sorrow, and a great many other things. I don't know how, but the Changing God's trying to use you. If that chamber's fixed, nobody benefits but him. You can't trust a damn word that bastard says."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Mazzof barks a short, bitter laugh. "I don't doubt it would stop the Sorrow, and a great many other things. The Changing God's trying to use you. If that chamber's fixed, nobody benefits but him. You can't trust a damn word that bastard says."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Mazzof glowers. "I'm not telling you a damn thing. The only person who benefits from the chamber is the Changing God, and I ain't helping *him* anymore. He'll just destroy us all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Why would the Changing God lie to me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"It wasn't the Changing God who told me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"How would the resonance chamber benefit the Changing God?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"What does the resonance chamber do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Ha! Well, if it that's true then it's someone who only has our sire's interests in mind. Stay away is my advice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Why do you think?" Mazzof hitches up his ragged breeches. "Why does he do anything? To get what *he* wants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Our sire has a new castoff body that he plans to use as a catalyst for the chamber, but the First has a better plan - something that *won't* snuff out every last one of us. Look for her in... in the Bloom," he says grimly. "Just make sure you don't -"
+
+Before he can finish, you feel a wrenching twist in the center of your body like your heart is being wrung dry. Your vision tunnels black, and you feel as though your body were being sucked through a steel pipe. You're being pulled out of the Mere, but it's far more painful than it ever was before.
+
+Then Mazzof, the cave, and everything else disappears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>The Chimaera's shifting voice cuts through your conversation. "Hold on!" He shoves you aside and presses the metal tendrils, shutting the portal to Mazzof immediately. "Tell me now, *where* is this resonance chamber? It's vital that we - "
+
+Before he can finish, you feel a wrenching twist in the center of your body. Your vision tunnels black, and you feel as though your body were being sucked through a steel pipe. The Chimaera, the cave, and everything else disappears.
+
+{SOUND: Mere ending sound.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>When you first open your eyes, there's only a ruddy glow and frightening shapes in shadows around you. The air is hot and stifling.
+
+As your eyes adjust, you realize you're outside, but the sky is darkened by clouds of pitch. The ruddy glow comes from lava flows as they trundle down distant mountains into the volcanic fields all around you.
+
+Sharp towers pierce the sky, tapered like the bones of a rib cage. Indeed, they look like bones in every way, as does the ground beneath you. You appear to be standing on the spine of an enormous beast - the bottom of its jaw can be seen far in the distance, half-buried beneath a layer of cooled lava.
+
+{ART: The Spine}
+{SOUND: Volcanic rumblings (should this be a constant ambient sound?)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Most of the bone towers look identical, but one shines from the inside with an odd, blue light. The top of the glowing tower has been snapped off, and what looks like a transport hovers next to its peak. It's *your* transport. You were sent here to find something...
+
+Twisted bridges connect the spine to the volcanic fields around you. In one direction lie enormous formations of obsidian: arches, spires, a wall. In the other direction a narrow pass is carved into the mountain face. The field leading to the canyon is illuminated by hundreds of glowing lights.
+
+You know this body wasn't sent to find Mazzof, but Aadiriis said he'd appear. Perhaps following through events will lead to him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>You find a staff made of some prior world metal. It's cool to the touch - unusual given the extreme temperature of the air itself - and burn marks blacken one end.
+
+Very likely, this was used as a weapon. It may work again, but probably only once. You take the staff with you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Attack the Chimaera with the staff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>You aim the charred end of the staff at the Chimaera's back and press the button on the side. A thunderclap booms in the cavern and a scalding beam of light strikes the Chimaera between his shoulders. He shouts and falls onto the table.
+
+Suddenly you are blinded by a bright flash of light. You shield your eyes, preparing for a counterattack, but none comes. When you can see again, the Chimaera is gone.
+
+{SOUND: Lightning Lance.}
+{SOUND: Flashbang as Chimaera disappears.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>With the Chimaera gone you investigate the cage. The moment you step near it, a glowing hand with three fingers appears on the side of the one of the metal tendrils. It disappears when you place your hand on it and is replaced by a ring of small circles.
+
+When you look at each circle, a different image appears in your mind of a person or a place. You look at each circle again and again until a memory stirs and you know which one is Mazzof.
+
+Pressing that circle activates the cage, and you step inside.
+
+{SOUND: Open portal sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Another event occurred here. The fire wights have killed many people over hundreds - even thousands - of years. These deaths culminated in the creation of something called a gemorrn, a creature of pure rage. The gemorrn has since wandered these volcanic fields with an insatiable lust for revenge, mostly against the wights that created it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Taunt the gemorrn from a distance. Get it to chase you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Taunt the gemorrn again to get it to chase you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Reaching into the earth, you find the body called Ama and summon her forth. With uncanny strength, she crawls out from the cooled rock. Though her skin is charred and rotting, a castoff tattoo is clearly visible on her head.
+
+You command her to collect the sphere. The wights are preoccupied with the gemorrn, and so Ama's body reaches the sphere easily and returns it to you. Then the corpse collapses.
+
+{SOUND: "Had a memory" stinger or use ability sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>With the wights ignoring you, searching the fields is relatively easy. You find a kind of shield embedded in the molten rock, and you *feel* rather than see the strong presence of death here.
+
+Searching further, you find a copper sphere lying on the ground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>You are on the volcanic plains in front of the mountain pass. The gemorrn and the fire wights are still fighting a terrible battle. The wights have surrounded the gemorrn now. They seem intent on destroying it. But the creature is very strong and cornered. It could be a long fight.
+
+{SOUND: Gemorrn and wights fighting}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Get the shield.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>The wights don't bother you as you try to pry the shield from the ground, but after a few minutes of tugging and digging you realize it's impossible. The rock has cooled and melted and cooled again several times around the device. It's not going anywhere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>You watch the wights, avoiding their attention and circling the plain for a long time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>You find a shield embedded in the rock, and you can *feel* the strong presence of death in that spot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>You see a copper sphere, though the wights consistently cut off any paths to it, preventing you from getting near it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>But you can make no sense of their behavior.
+
+They are obviously interested in protecting the sphere for some reason, but otherwise they seem to be milling about aimlessly except when you antagonize them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>You watch the wights, avoiding their attention and circling the plain for a long time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>You find a shield embedded in the rock, and you can *feel* the strong presence of death in that spot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>You see a copper sphere, though the wights consistently cut off any paths to it, preventing you from getting near it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>But you can make no sense of their behavior. They seem to be milling about aimlessly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Attack them with the staff again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>They flinch back as you raise the staff again. You press the button on the side... nothing happens.
+
+Fortunately the wights don't seem to have noticed that your weapon only had one shot - not yet, anyway.
+
+{SOUND: Ineffective weapon click}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"What happened to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Why can't I speak with the girl?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Let her return to her peace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Ama becomes silent. You sense a wave of gratitude and annoyance, but mostly the former. Then nothing. Her presence is gone. You feel like no asking will bring her back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Ama?" The disembodied voice sounds like it's calling Ama rather than naming herself. "No, not Ama. Shelled. Cast away. Eaten and alive and eaten again. Not Ama. Food for wights."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Buried to death. Before that, lived. Before that, died. Before that, lived and died and lived and... So many cycles. So many deaths."
+
+The air shivers. Her tone drops dangerously low. "Before that, someone else. Awoke and remembered. A fight. A girl. Urlimnion."
+
+Though you cannot see Ama, her presence moves through you, turns your head. You see in the fields, in the distance, what she is talking about. The urlimnion. A sphere of burnished metal lying in the rock. And you *know* this is what you were sent here to find.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Gone. Gone, but not gone." You shudder, but it's not you who is shuddering. "She woke something. Vengeance. Though no vengeance is in her."
+
+You feel Ama's presence looking off toward the obsidian formations. There's something glowing - and *moving* - over there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Unfortunately, the Wights only interest now is you. They quickly decide you're not going to attack them again. Several of them rush toward you at once.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>The air grows colder as the wights close in. You bolt in the opposite direction. They stay on your tail all the way to the bridge and onto the spine itself.
+
+So you duck into the glowing tower heading toward the transport. As soon as you enter the tower, the air grows warm again. The wights will not enter the tower. After a while, they leave, returning the fields they came from.
+
+{SOUND: Zerian running}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>The only body on the surface is the corpse you called forth. You can feel other dead beneath the rock, preserved by magma that has flowed over this spot over the centuries.
+
+The corpse is a middle-aged woman named Ama. The dead beneath is a girl, but she is strangely silent. Even with your strange powers, there is nothing there to speak with.
+
+"Peace," says Ama. "Is it better? Better, yes. Better oblivion."
+
+{SOUND: "Had a memory" stinger or use ability sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Buried to death. Before that, lived. Before that, died. Before that, lived and died and lived and... So many cycles. So many deaths."
+
+The air shivers. Her tone drops dangerously low. "Before that, someone else. Awoke and remembered. A fight. A girl. Urlimnion."
+
+Though Ama's corpse doesn't move, her presence ripples through you. She speaks of the sphere you tried to get her to retrieve for you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>
+
+It's the gemorrn, a pillar of light with claws. A hundred faces twist in its body - emerging, howling, then melting back into the curling fire. The creature is easily three meters wide, and at least twice as tall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>
+
+It's like a pillar of light with claws. A hundred faces twist in its body - emerging, howling, then melting back into the curling fire. The creature is easily three meters wide, and at least twice as tall. The word "gemorrn" bubbles to your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>
+
+Several of its faces turn toward you. They open their mouths in unison, and their scream is like the sound of a hundred people being torn apart by broken hounds. The impact of its rage strikes you like a hurricane.
+
+{ART: Gemorrn}
+{SOUND: Gemorrn roar}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Buried to death. Before that, lived. Before that, died. Before that, lived and died and lived and... So many cycles. So many deaths."
+
+The air shivers. Her tone drops dangerously low. "Before that, someone else. Awoke and remembered. A fight. A girl. Urlimnion."
+
+Though Ama's corpse doesn't move, her presence ripples through you. You realize she's speaking about the sphere she collected for you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>Enter the transport anyway.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Don't board the ship just yet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>You back away from the transport. The nagging worry disappears immediately, as though it were only a brief hallucination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>You take two steps toward the cage, but the moment you reach your hand toward it, the Chimaera stops you with a bark. "What do you think you're doing? Your mission is a failure. The last thing I want is to have you out there making more trouble for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>
+
+DEBUG INFO:
+Timer Variable = [Global: MB1_TimerVariable]
+TimerVariableLimit = [Global: MB1_TimerVariable_TooLong]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>Draw your whip and attack the gemorrn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>Whip the gemorrn again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>You lash your whip at the gemorrn. It has as much effect as whipping a campfire.
+
+{SOUND: Whip}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"The resonance chamber's only good for one thing." He holds up a finger. "And that's snuffing us out. The Changing God plans to use it to merge all of us - every castoff that still lives - back into his body. *That's* his plan for stopping the Sorrow."
+
+He puts a grease-stained hand on your shoulder. "Look. I don't know who you are, or what your part in this is, but you *cannot* let him activate that chamber. You need..." He glances over your shoulder at something in the cavern, though when you turn, you see nothing there.
+
+"The First is *alive*," he whispers, drawing your attention back to him. "And she's got her own plan for the chamber, one that won't kill us all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Examine the cage to figure out how it works.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Ignore him. Examine the cage again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>The Chimaera grabs your arm with a grip like steel. "No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>A dozen different eyes narrow with suspicion. "No," he says finally. "I cannot allow that. Go rest, pending further instructions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"I'm not really Zerian. I'm a new castoff, using a Merecaster to project myself. I was told you could fix the resonance chamber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>Mazzof's human eye grows as wide as a saucer. His other eye flips through a few images, landing on a red eye with three pupils that scrutinizes you up and down. "This is beyond me, and that's saying something," he says. "About the resonance chamber though, the only one who benefits from it is the Changing God. That bastard's got nobody's interests at heart but his own. Don't listen to a damn thing he says."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>Perhaps Zerian's mission will aid you on your own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>Perhaps Zerian's mission will aid you on your own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>Perhaps Zerian's mission will aid you on your own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>Perhaps Zerian's mission will aid you on your own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>[DEBUG] Skip to the end.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>Use your connection to the dead to animate a corpse and have the corpse get the sphere for you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>Try animating a corpse to get the sphere for you again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>Again, Ama's body crawls out from the cooled rock, and again the wights devour her life force. It looks like you'll need something more to get past the wights.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>Perhaps that copper sphere is what you were sent here to find.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>It seemed like they were fighting over the copper sphere. Perhaps that's what you were sent here to find.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>It looked like they were fighting over the copper sphere. Perhaps that's what you were sent here to find.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>That copper sphere *must* be what you were sent here to find.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>Using the temperature of the air to feel where their attention might be, you close the distance to the sphere by about a hundred meters. The wights don't seem to notice you.
+
+{SlipPastWightsCounter = [Global: MB1_SlipPastWightsCounter]
+WightIsFollowing = [Global: MB1_WightIsFollowingPC]}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>You close the distance by another hundred meters. The wights still don't notice you.
+
+{SlipPastWightsCounter = [Global: MB1_SlipPastWightsCounter]
+WightIsFollowing = [Global: MB1_WightIsFollowingPC]}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

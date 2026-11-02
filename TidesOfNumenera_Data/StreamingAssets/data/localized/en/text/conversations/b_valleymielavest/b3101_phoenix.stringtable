@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3101_phoenix</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>98</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The man looks nice enough and seems unassuming at best. But - and this is the strangest feeling - it's almost as if he doesn't exist. As you try to focus on him, a sense of dread builds in you. You're not afraid, exactly, but you know you aren't safe.
+
+"You'll want my name... It's been long since I spoke it. Let's see... How about you call me Fenz? No, that's terrible. Hang on." He starts muttering. "Finx... Foeens? Fee... nix? Yes! that's it! Phoenix! Call me Phoenix."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>He smiles. "Trouble? Not for me. They have come for me many times. They do not leave."
+
+The fact that he stands in the middle of the valley - alone and safe - supports his story.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I hold it and I study it. I read it. Yet I do not understand it." He points a finger that cycles through the colors of the rainbow. "So how do I learn it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Oh. You're back." He seems slightly surprised.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Tell me about yourself again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Have you had any trouble from the cultists here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Tell me why you haven't had any trouble with the cultists again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I found your marker in the Necropolis. The note contains a code to your tomb."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Can I see the note that brought you here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Can I see the note you talked about yet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Would you fight me?"
+
+{SCRIPT: If we don't have the Tussle for Phoenix, eliminate this branch}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I want you to fight me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>You see no sign of any struggle, however.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"They cannot threaten me. They... try to touch me with their material. They pass their blades through me. I touch them in return, and then... they are gone. Their forces returned to their fundamental states."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Until some other time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I seek. I was given a note. A strange note. A note that told me to come here, and that I would find the answers I need."
+
+Something about him *pulses*, an almost subsonic beat, and you stagger slightly. Anger creases his brow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Answers. They call me here." He scowls. "But mastery of space, of forces, the ability to see... they mean nothing if I can't understand this note."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"What are you doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Tell me what you're doing here again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"You have the mind of a seeker. Not merely an explorer. Yes. You may take the note."
+
+He passes you a piece of engraved synth. "Return if you are able to find my answer."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"You joke, yes? You have not yet proven to me that you have the inquisitive mind that can unlock its secrets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I have decided. My name is Phoenix." He says the name as though tasting a new wine.
+
+He holds up his hand, and for a moment you see light fading through it. "I am... a seeker? Is that how one would say it? Yes. I am a seeker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Phoenix. The seeker. The truth lover and wisdom finder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"It is... wisdom. Wisdom I seek." He closes his eyes and starts laughing. "All the things I've found."
+
+His eyes snap open. "The structure of the world is not as you imagine. What you see and feel is nothing more than the varied interactions of fundamental forces that apply rules to subsequent, large pieces. Those pieces become what we call matter. What we call meat. What we call reality."
+
+He reaches out to touch your shoulder and his hand passes through you, and you feel nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>He reaches out again, and this time his touch is cold, it is fire, it is acid and star-shine... but you are undamaged.
+
+"Enlightenment comes from within," he whispers, and he begins to cackle. "Or does it come from without?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>He steps forward and puts a hand on your shoulder. "You have come here. Perhaps you obey the call of the tombs, and give me what I need. I tell you, I need answers. Someone gave me a note. It said to come here, and I would find my answers. I would find the truth. But I can't understand this note."
+
+His eyes burn - literally - though his face seems untouched. "What use is power if I cannot understand? What is the purpose of my power if I cannot *see*? Ask me! I do not know!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Perhaps if you asked others for help..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Can I see the note? I might be able to shed some light on it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"The purpose of power is to accumulate more power."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>He slows. "Ask me of wisdom, and I may grant it to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I have power undreamed, but not the insight I need. Talk to me, and perhaps I can learn from you. We must *ask* these *questions* together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"If you can show me that you *know*, then I will share my knowledge with you. So. Let us talk. You will ask me your questions, and with them, you will share your insights."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Others? What do others know of my experience? What do others know of my reason?"
+
+He pauses. "But perhaps you have some comprehension. Let us explore these *questions*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Enlightenment comes from within."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Enlightenment comes from without."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Can't it come both from within and without?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"So I thought, until another showed me the truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"So I thought, until I looked within myself and found my answers there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"It can." His eyes gleam. "Find answers within, let another show you the path. Both lead to surprising destinations, if you let them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"How can I answer that without looking at the note?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Have you studied it in different spectra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ask someone else to help you with it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>He frowns. "I *have* asked."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"I'd recommend finding out who sent it to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"It arrived from out of time, a dimension where I cannot see..." He crosses his hands. "...yet. Though I believe I might. Someday."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"I had not considered that." He pulls a scrap of engraved synth from his pocket, and you see a rainbow of light flash across his eyes. "But no. It is no use. Nothing changes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>He nods his head. "A good answer. A knowledge-seeker's answer. You do not learn by assertion. I can study it more. Or perhaps you can help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Names are a construct of consciousness, but is there some fundamental importance to them? Or to consciousness itself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"No. Consciousness is just a short period in between oblivion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Isn't consciousness necessary to assign 'importance' or other values?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Yes, although the importance is what we make it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Yes. I believe there is meaning to our lives."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>He takes the note from you, scrutinizing it intently. He shimmers and flickers momentarily, and then exerts himself to remain material through a force of visible will. 
+
+"That... that would explain why I could not understand myself. An artificial construct in my mind. I am dead, and manifest again. Have I mastered time?"
+
+He takes an internal inventory. "No. I am... a particular shade. A remnant, an echo of what could have been. I shall fade, then, and hope that my lesson remains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"You... you have earned a gift before I go. You showed yourself a student. In the case of questions to which you had no real answers, you asked more questions. Many tell me what to do. They wish to force a view upon me. But you forced questions. So here. Take this."
+
+{LOOT: Artifact}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"A bold statement for one who has known nothing but life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"On what basis do you make that judgment? Faith? Hope? Sound rational observation and experience? You say *believe* as though it were a talisman to hold you free of account for your thoughts, but I tell you that it's a chain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"So a self-assigned importance? What makes consciousness so special that it can determine its worth? I have seen a world of crystal life that built greater things than the Ninth World... without consciousness. Why should a mind grant itself a special prize for its appreciation of itself?" 
+
+He waves a hand in dismissal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>He bows his head. "A fair counter. From what I have seen, life continues in many places, in many worlds, and consciousness has mediated itself out of existence in some species. I cannot say if it is importance." He smiles. "*I* cannot say. Perhaps *we* might."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>He smiles gently. "I do not think it worth your while. Or mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"You wish to test yourself. This is admirable. But it will be no easy fight. I bear you no ill will if you defeat me... and hope that the converse is true."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>He breathes, and you feel as though the world contracts around him. "Let us begin."
+
+And then, in a blur, he leaps to attack!
+
+{SCRIPT: Start Tussle with Phoenix}
+{TUSSLE: }</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>He doesn't seem surprised by your return. In fact, he looks as though he had been expecting you.
+
+"We have settled your curiosity. Let us further examine reality."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"I thank you. Knowledge is... precious. Treasure yours. And now... I will rest. Farewell."
+
+With a flicker of light, the yawning of a consciousness roused and returning to oblivion, he flickers away into the air.
+
+A faint hiss is the only marker of his passage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>You recognize his face. You've seen it in a tomb in the Necropolis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"I found a marker in the Necropolis that mentioned you by name. It said you were dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Yet if I were dead I would not live. Prove to me that I should trust your wisdom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"You joke, yes? You have not yet proven to me that you have the inquisitive mind that can unlock its secrets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"You have not yet proven to me that you have the inquisitive mind that can unlock its secrets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Why don't you remember your name?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Are you from this world?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>He pauses, frowning. "It is familiar to me. The lines, the curves, the structures. But it is like a poor sketch of the world I remember. I see its *textures*, its *strokes*, and I see the medium on which it is drawn. But I can lift the sketch and see the truth beneath it. I... I do not know my origins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>The Tides coil and constrict around Phoenix, and for a moment surprise fills his face. Then he laughs. "You think to compel me with your tricks of energy? I am not made of such crude stuff."
+
+"But you are determined to *know*, and if you would risk your sanity and mine to uncover these answers, then I believe your determination."
+
+He passes you a piece of engraved synth. "Return if you are able to find my answer."
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Give me the note. I would discover its answers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"You're Phoenix? I found your marker in the Necropolis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Bank 96</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>
+
+The note is mostly illegible, but it does have four numbers written in the truth. Those numbers match the tomb in which you saw Phoenix's marker.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Bank 99</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>He reaches out and takes the note back from you.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"*Ask* our questions? Hm." He rubs his chin and stares intently at Phoenix. "You don't want our answers, do you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"I want your wisdom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>::rrssk:: Oom says, very quietly.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_skaydis_aneen</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>81</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A large and agitated aneen looms over you. It bares its teeth and snaps at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Examine the aneen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Touch the aneen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Leave the aneen alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Staying just out of biting range, you see blood around the aneen's mouth. It looks like it has been bleeding, or possibly... feeding on something?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>As you approach, it snaps its head forward, snarling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Kill the aneen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The beast growls and bares its teeth. But aggressive as it is, it's still just an herbivore. It only takes a single weaponstroke to end its life.
+
+For a moment, you think you hear the chittering whispers of the Bloom rise up in protest, but they fade before you can be sure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Staying just out of biting range, you see blood around the aneen's mouth. You think back to the wounds on the merchant's neck, and the connection is suddenly obvious. The aneen has been feeding on Skaydi.
+
+Even as you come to this realization, you glance toward Skaydi. Once again, you catch a glimpse of that pleading look in her eyes before she quickly looks away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>{Mindblast/Psychic Incision} Use Mindblast to disrupt the psychic interference.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>In an instant the aneen's body language changes, its tense stance disappating as it lazily sits back on its haunches. Skaydi looks around in confusion, shaking her head as if clearing it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Use the Magmatic Annulet to disrupt the psychic interference.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The now docile aneen sits on its haunches, staring placidly into the distance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>The aneen seems to know that something is amiss. It glares at you angrily, froth bubbling past its lips as it emits a low, steady growl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Try to pull your hand back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Let it bite you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>You jerk your hand back, and the aneen's jaws snap shut scant inches from your fingertips.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The aneen bites your hand, drawing blood even though its teeth are blunt. It shakes your hand back and forth, then releases you, and you stagger back.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>You easily withdraw your hand, leaving the aneen snapping at air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You weren't fast enough. The aneen's blunt teeth tear a bloody chunk of flesh from your hand, then wolfs it down hungrily.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>{Scan Thoughts} Scan the pair's thoughts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>You can sense the presence of a third mind influencing both minds, a mind vaster and more powerful than either one. As you dig deeper, you realize it is the Bloom, which has linked the two minds together in a strong predator-prey bond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Yes, now I see. The Bloom psychically linked the two in a predator-prey relation. We must help them!" {McComb, needs rewrite}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>This kind of behavior is not normal for aneens, some kind of psychic interference must be at play here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>{Satsada} Tell Satsada to sever the psychic link.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Haha!" Erritis purposefully strides forward and with a single punch knocks out the aneen. He turns back to you, grinning. "Problem solved!" {Avellone, retwrite needed}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>The moment the aneen loses consciousness, Kaydi breaks out of her trance, shaking her head as if clearing her mind.
+
+She looks to Erritis. "Thank you for breaking the bond that was holding me. I will get rid of my aneen immediately."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>The merchant staggers and shakes her head.
+
+After a moment, she looks at you, her eyes now clear. "Thank you. I don't know what was wrong with me. The Bloom must have gotten in my head... and *changed* my aneen too." 
+
+She looks down at its corpse and gently touches its head. "I wish there'd been some way to save me without killing her. But I'm free... that's what matters."
+
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>
+
+It's clear that something unnatural is happening here. Aneen are herbivores, and they would never feast on blood or flesh. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>With a single punch, Erritis knocks out the aneen. "There! Problem solved!"
+
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>A large and agitated aneen looms over you. It bares its teeth and snaps at anyone who passes, swiping at them with its stubby claws.
+
+"Foul aneen! Feeding on your mistress like some... feeding thing!" Erritis strides forward, rolling up his sleeve and balling his fist. "I'll handle this!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Wait, Erritis! Punching it might not be the best option!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Let Erritis punch the aneen. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Erritis turns, scowling. "Punching is always the best option. Unless you can skewer. Skewering is even better." He smiles benevolently. "But please, tell me your other exciting options."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"We could ask the owner what's wrong with it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"We could see if we can cure it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"We could examine it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Fine. Let's skewer it. But I'll do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Never mind. Your way is best. Punch away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Erritis sighs. "Fine. If you want to do the boring thing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"But that's what I was going to do! I was going to give it a fist-jection!"
+
+"All right, fine. Do it your way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"To find the best place to punch it? Excellent idea! Examine to your heart's content."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Awww. You always get to do the fun stuff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Then, punch I will! Prepare to meet thy haymaker, you hexed herbivore!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Look!" cries Erritis. "The beast has blood on its mouth! And its mistress has blood on her neck. That means..."
+
+Erritis's eyes widen. "Foul aneen! Feeding on your mistress like some... feeding thing!" Erritis strides forward, rolling up his sleeve and balling his fist. "I'll handle this!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Staying just out of biting range, you can see blood around the aneen's mouth. 
+
+Satsada's voice fills your head as you ponder this oddity. "The beast's teeth seem to match the bite marks on the woman's neck. It appears it has been feeding on her, but there is something else. A link between their minds."
+
+"Perhaps we should talk again with the woman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Satsada's voice fills your head and stays your hand. "Wait. I do not think the trouble is with the animal. Nor with the woman. There is some other force at work here."
+
+"Speak to the woman again. We may be able to save her without costing her the aneen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Rhin shrieks as you threaten the aneen. "No! Don't! It's not bad! It's just sick!"
+
+"Please. It's only an aneen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Callistege steps in your way. "What are you doing? There are fascinating forces at work here, binding the woman and the animal together, and you're just going to bash away at them like a Callerail?"
+
+"This requires a more subtle touch. Talk to the woman again. Let us learn something first. Then you can kill the beast - if you must."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"All right. I'll spare it. For now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Sorry. The beast must die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"But, Rhin, it... all right, all right. I'll see if we can find another way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"I'm sorry, Rhin. It has to be done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"All right. I'll spare it. For now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"There's no time for study. The woman is in danger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>The moment the aneen loses consciousness, the merchant blinks and shakes her head as if coming out of a nightmare. She looks to Erritis. "Thank you! I don't know what was wrong with me. The Bloom must have gotten in my head... and *changed* my aneen too. I'll have to get rid of the beast... before it wakes." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Erritis, I've changed my mind. Go ahead and punch the aneen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText> Follow-up PQ. 65</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Examine the aneen again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Obviously the wisest course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Rhin lets out a relieved sigh. "Thank you."
+
+She looks like she's about to pat the aneen then thinks better of it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"I should hope so. Let me know if I can be of assistance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Script Node 72</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Script Node 73</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Script Node 74</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>::grunt::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>::growl::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>::hiss::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>::snarl::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Hush, girl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Shh, it's all right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Go on, girl, have another drink."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>::snort::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>A broad smile spreads across Erritis's face as he springs toward the aneen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[DEBUG] Test Erritis punching the aneen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>A large and agitated beast looms over you. It is an aneen - a beast of burden. These creatures are normally docile, but this one bares its teeth and snaps at you as you draw near. It rakes the air with its stubby claws.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>A large and agitated aneen looms over you. It starts to bare its teeth, then takes a long look at you and seems to think better of it.
+
+You hear the hissing of Bloom-voices around the creature, but more of them are concentrated around its owner, the woman who stands nearby. The voices seem to be affecting both of their minds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Oom's eyes dart between you and Erritis.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

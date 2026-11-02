@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_callistege_stage4</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>144</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"What is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"What knowledge do you seek?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"How can I assist you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>""
+
+{COLIN: I don't know what's supposed to go here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>""
+
+{COLIN: I don't know what's supposed to go here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>She waits expectantly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>""
+
+{COLIN: I don't know what's supposed to go here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Yes, dear?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>{COLIN/LEANNE: Blank node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>{COLIN/LEANNE: Blank node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I want to talk about what happened in Miel Avest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Let's talk about what happened in Miel Avest again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Let's talk about you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Let's talk about you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"What do you think we should do next?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>{COLIN/LEANNE: Blank node. (These nodes and their conditionals should already exist in the global template. They should be copied from there, then write the text unique to Callistege).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"How are you holding up?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I had some questions about the people we're traveling with."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I think it's best we part."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Let's move on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Let's."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Well, dear, I rather think we should continue to look for a connection to the datasphere. Although how to even be sure it's *this* world's datasphere from inside this interstitial behemoth..." She pats one of the fleshy walls fondly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>{COLIN/LEANNE: Blank node. (These nodes and their conditionals should already exist in the global template. They should be copied from there, then write the text unique to Callistege).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"So that was the Sorrow in its full power, castoff? What else have you been hiding from me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"It shouldn't concern you, Callistege. It hunts castoffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Then why did it look at me?" Her face is ashen. "It saw me, it saw *through* me to all of the thousands of realities where my sisters reside! And I knew... I knew..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"This is what being immortal means, Callistege. Facing enemies you can't possibly imagine who want to destroy you simply for existing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Then I don't want that!" She covers her ears with her hands as her echoes grow more and more agitated. "None of us do!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"What it is is of no concern to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Her eyes register hurt, flat and dull, before her face moves smoothly into a disdainful sneer.
+
+"If you will keep your knowledge from me then you leave me no choice. I will not stand idly by and wait for your mistakes to catch up with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Moving-on Response 2]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[CNPC Response]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"It doesn't matter. I have other questions for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Okay.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Forget it. It's none of your concern. Let's continue on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Forget it?" she hisses. "I will *never* forget it! Not for as long as I live, the length of which seems to diminish the more time I spend in your company!" She takes a step back.
+
+"This is your fight alone," she says, taking another step. "And I wish you had never brought me into it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I wanted to gauge your thoughts on the dear departed Herja. What do you think made her take her own life?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"We'll never truly know. Suicide is a highly personal decision."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"You make it sound as if there's nothing that could have been done. And that, perhaps, there may be nothing we can do in future."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"The knowledge of what she had done was too much to bear. It was that which killed her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"You speak of knowledge as a terrible burden. Yet what of others who seek it out? Do you infer that we should all be bound by the same fate, that knowledge itself is a poison that slowly kills those who cannot control it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"It was guilt, plain and simple. She couldn't live with what she'd done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Simple? I see. Well, that certainly clears things up, wouldn't you say?" Her sisters chatter in agreement.
+
+"Believe what you will, dear. The exercise was to understand you, not some stranger. And in that, at least, we have succeeded."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"It was the easy way out of a situation she didn't want to deal with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Easy indeed. Slitting your own throat is surely one of life's great pleasures." She raises one hand in a diffident shrug.
+
+"Believe what you will, dear. The exercise was to understand you, not some stranger. And in that, at least, we have succeeded."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"It doesn't matter. I have other questions for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Naturally."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Forget it. Let's continue on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Very well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"People have a right to self-determination. I can no more take that from them than they can from me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"It's not our responsibility to save people from themselves, Callistege."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Perhaps there isn't. That doesn't mean the attempt is hopeless."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Why does it upset you so?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"But you could know, if you would only take a taste of her." She sees the look on your face and relents.
+
+"I had only hoped to discover the conviction that spurred her to such lengths. It seems to me to take a great amount of determination to choose to end your own life. When considered from certain angles it is, after all, the only truth we really have about ourselves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"It's a waste." She speaks without hesitation. "Knowledge lost, for no gain. In this case, at least, her death served a purpose, but beyond her guilt we know nothing else of her life. What other mysteries might she have solved if she remained alive? It is that which upsets me, dear, and no mere loss of life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>She shakes her head.
+
+"What is done must remain so, and we will learn no more by dwelling on it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"You speak of knowledge as a burden, yet you yourself seek it out. Are we two simply gluttons for self-punishment? Will we one day follow the same path as Herja, when the weight of our minds overcomes our desire to live?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"She was weak. We are not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Knowledge is neither inherently good nor bad. It is what we choose to do with it that makes it so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Let's move on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>She bows her hear. "As you wish, dear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Her face softens for a moment, then she gives you a wan smile.
+
+"Of course, dear. I should never have doubted it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>She laughs.
+
+"Oh, child, I never doubted it for a second."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Let us continue. There is much yet that needs be done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Spoken like a true scholar." She smiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Though I will admit that occasionally I envy your certitude." She falls silent, staring into the distance for several moments.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"I never suggested that it was, dear." She pats you magnanimously on the arm, as though soothing an overwrought child.
+
+"There, now, we shall discuss it no further."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"No? So you would doom us all to unnecessary theatrics instead?" She pats you magnanimously on the arm, as though soothing an overwrought child.
+
+"There, now, we shall discuss it no further."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"And if they make decisions that harm themselves? If you care for them, what then?" She presses a finger to her lips, bu removes it again, agitated.
+
+"You and I - we are both caught in situations beyond our control. You, your deaths, and me, my... my weakness." She subconsciously touches the Attractor as she speaks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"A valid point, dear. We are only ever the products of our choices." She nods at you. "You of yours, and me of mine. It's some small comfort, if you can let it be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Perhaps self-determination is the true burden," she says, almost to herself. "Our one inescapable freedom also creates the chains with which we bind ourselves to consequence." She looks to you, her expression hunted.
+
+"Perhaps this is what Herja knew. Would that I could unthink it myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"I knew that if it ever came after me, if I so much as crossed its path again, it would undo me, for now and for all time, simply by virtue of knowing *you*!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"I knew that it would stop at nothing to see you dead." She takes a step back. "And that I would be next if I were to stand in its way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>She quietens, and stares at you with a mixture of disgust, despair, and admiration.
+
+"How can I stay with you?" she asks, taking a step back. "How can you ask this of me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"I need you, Callistege."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"We can solve this together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Think of all the secrets you have learned while traveling with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Go, then. But always know yourself for the coward you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Dear heart..." She takes another step back, then stops.
+
+"I can refuse you nothing," she says, shakily. "You know this. You know it." She stares at you, her expression haunted, then slowly  moves back to stand by your side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>With one more step, she turns and flees into the bowels of the Bloom.
+
+{SFX: retreating footsteps}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"I'm with you, child."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"No." She takes other step back. "This is beyond either of us." With one finaly step, she turns and flees into the bowels of the Bloom.
+
+{SFX: retreating footsteps}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>She looks at you, taking in your words with barely more than a flicker of acknowledgement. Then she moves slowly toward you, until you stand face to face.
+
+"Do not let it devour me," she says, searching your eyes. "That is all I ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"We would do better alone than with each other."
+ 
+With a resentful glare she turns her back on you and walks into the bowels of the Bloom.
+
+{SFX: Retreating footsteps}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"What you say is true," she concedes. She takes a half step back, then stops.
+
+"Do not let it devour me." The plea in her words is nowhere in her expression as she comes back to stand by your side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"You dare?" Her eyes flash fire, and for once her echoes mirror her movements exactly. "You put *my* life and the lives of everyone at risk and you have the gall to suggest it is none of my concern?" She spits at your feet.
+
+"That for you and your great castofflegacy!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>With one last withering glare, she turns and runs away from you, into the bowels of the Bloom.
+
+{SFX: Retreating footsteps}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Her eyes register hurt, flat and dull, before her face moves smoothly into a disdainful sneer.
+
+ She spits at your feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"And may you know yourself as the consummate spawn of your sire! I doubt he could have dreamed a more perfect successor than you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>With a final, withering glare, she turns away and stalks into the bowels of the Bloom.
+
+{SFX: retreating footsteps}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>{softly} "No. No, I don't think you do." She sighs and straightens. "No matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"This is beyond either of us. No matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>She sneers. "And what do you care for knowledge? You wield it to ends that suit you and only you, bastardizing all in your pursuit of... what? Another few hours of life?" 
+
+She takes another step back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"That for your castoff brothers and sisters! The Sorrow take you all!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Her face moves smoothly into a disdainful sneer. She spits at your feet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"You want to know how this ends. More, you want to know what my creator knew."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"You wanted the Changing God's notes on the datasphere? Here. Take them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Dracogen did seem rather keen on that Annulet. Without it, I doubt he will introduce us to the Memovira. Of course, his motives are purely mercenary, which at least makes them easy to comprehend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"The Memovira might know something about the First. In Sagus, they say all knowledge that doesn't come from the Bloom is second-hand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"If the First is languishing in the depths of the Bloom, then that is where we must go. We can hardly expect to receive our answers otherwise."
+
+{SCRIPT: Conditional to mark that player is on the quest to go to the Bloom Depths.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Dear, I do think it rather curmudgeonly for the Memovira to have lied about her reasons for sending us to the Heart. Perhaps a little chat is in order."
+
+{SCRIPT: Conditional to mark that player has taken control of the Bloom's Heart.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Time is of the essence, dear. Wherever we are, and whatever these doors represent, it's clear no good will come of anyone but you opening portals within your mind,"
+
+{SCRIPT: PC is in the Labyrinth after the Memovira/Sorrow crises.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"You know, dear, I'm not quite sure. What would you suggest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Castoff, I must speak with you. Urgently."
+
+{SCRIPT: Would we force this bark after the first Dracogen conversation, please?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"What possible solution could there be?" She  stares at you in horror.
+
+"And what madness is it that I cannot bring myself to refuse you?" She falls quiet, and eventually comes to stand by your side.
+
+"For good or ill."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Do you?" She stands where she is, looking strangely lost.
+
+"I can refuse you nothing," she says quietly, half to herself. "Even if it may mean my death." She meets your gaze, then moves back to stand by your side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Of course, dear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"You seem rather taken with the notion of dying, child. What I would know is why."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Each death is an experience. Through them, I learn what it means to live. That is why."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Each time, I gain something for nothing. It sounds like a good deal to  me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"I hadn't really given it much thought."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"I don't want to talk about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Then I hope at least you'll think on it, dear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Callistege stares at you for several long moments. Then her expression softens, and she smiles.
+
+"I had not known we were so alike," she murmurs, almost shy. "It pleases me immensely to hear you speak so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Shall we continue, dear?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"It is," she agrees, "until the price changes." She considers you.
+
+"Have you honestly never thought that one day, you may not wake up from your latest sojourn into the darkness?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"No. Never."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"If it happens, it happens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"I worry every time. But so far, it's been all right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"I don't want to discuss this with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Then you are a fool. Or you know something you're not telling me." She narrows her eyes. "Either way, I don't care for it. I hope you will be more cautious in future."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Let us continue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"That is a very cavalier attitude to take toward the people who care about you," she says.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Speaking only for myself, I hope you will be more careful in future." She hesitates before putting a hand on your arm.
+
+"Please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"I may not count myself among them, but that doesn't mean I am blind to their affections for you. Nor should you be, either." She gives you a long, hard look.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"In any case, let us continue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Then let us hope it will always be so," she agrees dispassionately. "So long as you are aware of the risks you take."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>She purses her lips.
+
+"Very well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Let us move on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Then you must. I don't ask that you stop, but for the sake of those who care about you..." She looks at her echoes as if they might be listening, but their attention is elsewhere.
+
+"Consider what happens if you don't wake up next time." She holds your gaze for several seconds before relenting.
+
+"Now that's out of the way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>She bursts into laughter, her echoes fluttering around her as they join in.
+
+"I think you may have just perfectly encapsulated yourself in a single phrase, child," she says, still laughing. "In which case, there is nothing more that needs to be said."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText> "I've come this far, I suppose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Script Node 163</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"You wanted the Changing God's notes on the datasphere? Here. Take them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

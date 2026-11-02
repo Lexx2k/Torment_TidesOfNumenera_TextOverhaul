@@ -1,0 +1,2439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_casmeen_and_mimeon</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>465</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As you approach the duo, you see that they are arguing heatedly but quietly. The petite woman turns toward you. Her hair is unusual - a light, almost-yellow color - and her bright eyes dominate her pretty face. "Excuse me, sir, my friend and I were having a discussion, and- "
+
+Her eyes fall upon your tattoo, and her breath catches audibly in her throat.</DefaultText>
+      <FemaleText>As you approach the duo, you see that they are arguing heatedly but quietly. The petite woman turns toward you. Her hair is unusual - a light, almost-yellow color - and her bright eyes dominate her pretty face. "Excuse me, milady, my friend and I were having a discussion, and- "
+
+Her eyes fall upon your tattoo, and her breath catches audibly in her throat.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Casmeen and Mimeon greet you and ask all about what happened to you. After explaining it to them, they tell you that a castoff built the resonance chamber, so maybe another castoff could help you. There are two in Sagus Cliffs - Matkina and Riastrad.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"You return, revered one. How may we assist you today?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Ask about the resonance chamber.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[They say that they'll tell you more about the resonance chamber if you can help them discover the identity of the figures trapped within the Clock.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I would like to rest here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"We would be honored if you choose to stay with us. We do request a small donation of [Global: a2101_CultTCGRestCost] shins to offset our costs. We must rely on donations... even from our revered visitors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Farewell, beloved vessel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>She whispers, "As much as I would like to help you achieve your goals, my partner set you a test to investigate the figures within the Clock. I cannot offer you aid before it's done."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I am the Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I am the Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"We struck a bargain, revered one. We would be poor in spirit indeed if we did not honor our promises. Yet I see the Clock remains unfixed, and you bring us no new knowledge of its workings." He bows regretfully.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Mimeon's deep-set eyes pierce Aligern as he snaps, "Would you have us profane everything you hold dear? Shall I defecate on the pain you carry, Aligern? I know you, and I can speak words that will harm you. But out of respect - not necessarily for you, but for civility and reason - I do not. Accord us the same courtesy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>(Lie) "I came from the north."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I fell from the sky and landed in the Reef."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Where did you come from?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>He bows deeply. "You return, o revered one. How may we help you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Another castoff, then? I wonder where your creator is now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"No, I'm not the Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"And misfortune follows in his wake, as surely as the river finds the sea." His mouth is twisted into something that looks as if it's trying to be a smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Casmeen says, "That star falling was you? I saw you land!"]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Cas, I would welcome the opportunity to question our inspiration directly... but kindly remember that we have been deceived before." He turns to address you. "If you truly are he, perhaps you can settle this question for us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>His fingers shrug eloquently for him. "But the Clock is unmoored in time, you see. We do not have a knowledge sufficient to investigate. But you might. You created the Clock. If you are who you claim, you should be able to align it with the present time... and uncover who these figures are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I'm not interested in fixing the Clock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"We have set our price, o holy one." She does not seem able to meet your eyes. "We must know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>He gives a short, curt nod, and then he studies you carefully. "Tell me truly, please. Do not deceive us, for we will know. Are you the Changing God himself, incarnate here before us?"</DefaultText>
+      <FemaleText>He gives a short, curt nod, and then he studies you carefully. "Tell me truly, please. Are you the Changing God himself - " He catches himself, and says, "Er, *her* self, incarnate before us?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>She snaps her fingers, as if she is finally figuring out a mystery. "You're... wait, let me remember your face." She studies you carefully. "You're... oh my... you're *new*. Are you... are *you* the Changing God? Can it be?"
+
+She reaches out to touch your sleeve, and pulls her hand back quickly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Rumor and conjecture, nothing more. Idle speculation from those who wish to pretend to knowledge of your sire's motivations, passed along as fact."
+
+He leans out to touch you. "Have you seen it? Do you know where it is? What it does?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"May I... may I see your tattoo?" Seeing your confusion, she hastily adds, "It marks you as an agent of the divine. You have been touched by our lord, and his touch manifests differently on each of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"No, I'm not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>His eyes flicker toward you, and his mouth draws down for a moment, but he says nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"As I thought. You are a castoff, one of his children." He touches you reassuringly. "There is no shame in such a thing. Many castoffs have come to our attention, and some of them have sought to deceive us so that they might seem more important. If you are as new as we suspect, it is better for you - for *us* - to know the truth of your existence than to bluster and lie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"You're not a castoff, not one of his children," she breathes. "I *knew* it." Her hungry eyes are adoring. She hardly seems to blink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>He looks as if he's swallowing gravel, but he manages to force out the words. "My apologies, Mimeon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>His mouth turns up in a hard, triumphant smile before he regains control of his face. He says nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>He gestures toward the Clock behind him. "Dark figures circumambulate these clock faces. I theorize that your creation of the time-shields that protected this city established a connection with your future selves. Or perhaps your wisdom brought them here. Whatever the truth, we believe those figures may be castoffs - or ghosts of castoffs, perhaps - the living shells of the bodies you have worn previously."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>His fingers weave through an intricate dance of disapproval, but he bows slightly and says, "You return, Deceiver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Player claims to be TCG, player fixed the clock; Mimeon will test him three times]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>He bows low. "Your holiness. What can your humble servants provide? Or have you come to enlighten me and teach me wisdom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Was... was the nighttime your doing? I don't think this was part of the ideal functioning of the clock, but Mimeon would know more than me." She looks strangely disappointed. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[I'd like to join your group]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[They believe PC is TCG; deny membership]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Her face is downturned, and she whispers, "On behalf of our congregation, I apologize that we did not meet your needs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I'd like to join your group."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"What does it take to join your group again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Who did you say could lead me to the repair of the resonance chamber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Tell me again who can lead me to the one who can repair the resonance chamber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>He looks briefly shocked. "My lord, self-worship? Do you jest with me? You would learn nothing in study of yourself..." He pauses and smiles. "Ah. You instruct me with your question. We should indeed strive to study ourselves, but not within the strictures imposed by others. I thank you for the lesson."</DefaultText>
+      <FemaleText>He looks briefly shocked. "My lady, self-worship? Do you jest with me? You would learn nothing in study of yourself..." He pauses and smiles. "Ah. You instruct me with your question. We should indeed strive to study ourselves, but not within the strictures imposed by others. I thank you for the lesson."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"You can't worship yourself, o holy one, no matter how changeable your aspect. It would be unseemly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"That's quite impossible. We serve the Changing God, but you have sought to deceive us. We will honor you as one touched by his creating hand, and we will offer what succor we can, but... no. Ask what you will of us, and then find some others to work your wiles upon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Her hungry eyes are cold and flinty. "You cannot join us, Deceiver. The Changing God lifts and elevates us, but your ruse would have debased us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>He steals a glance at his compatriot. "It is unusual for a castoff to join our group. We are *delighted* to have the opportunity to get to know you better."
+
+His fingers pause momentarily, and you hear the light crackling between them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Just bring us knowledge of another of your siblings, so that we can record their names and deeds in our records. Oh, and you'll have to give up membership in any other group you've joined."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"I have news of a castoff, here in the city. Her name is Tol Maguur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"I have news of a castoff. The First is still alive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"I know the name of the castoff who was recently killed by the Sorrow. It was Orseolo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Do you have any supplies to sell?"
+
+{JESSE: Please set up a store here}
+{STORE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Her voice is flat, almost angry. "To what do we owe this honor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Can I join your group?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"I need a place to rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"What can you tell me of the city?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Are there other branches of your group?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I am not actually the Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Crestfallen, she touches your shoulder. "Are you... are you *sure* you're not...?" She catches herself. "No, why would you lie about that?"
+
+With a noticeable effort, she wrenches herself into optimism, and she chirps. "But you're new, aren't you? You're *new*. Have you decided what you'll do? What you'll *be*? Your sire's other children have done amazing things, amazing... and no doubt you will as well!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>He lays a hand on her shoulder and his voice is low, cautionary. "Cas."
+
+She looks away from you for a moment, swallowing sudden tears, and he says, "We have a request for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Why, you can, lord. Did you not build it alone?"</DefaultText>
+      <FemaleText>"Why, you can, lady. Did you not build it alone?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"It is much as you left it, lord. The Caravanserai's custom is much less than it was during your most famous time here, but if you descend to Government Square, you will find the place largely familiar."</DefaultText>
+      <FemaleText>"It is much as you left it, lady. The Caravanserai's custom is much less than it was during your most famous time here, but if you descend to Government Square, you will find the place largely familiar."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[question node while Mimeon tries to trick the PC with a number of questions only TCG could answer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Yes, of course. Who rules now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"You've misspoken, Mimeon. You mean *up* to Government Square."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Do you have any idea how to fix the Clock?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>He turns to his partner and says, "A new deceiver walks among us. Do you doubt my perception now?" He squares his shoulders. "Ask your questions, liar, but expect no honor from us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>She shoots him a sharp look. "In answer to your question, holy one, the city ebbs and flows as always. You have found one of your shield generators in the Clock already, but the rest seem to be in disrepair. We give thanks every day that you annihilated the Tabaht. Ships still play the Sound. The houses still stand atop the cliff, and if some few slide off, this is the lot of the unfortunate." She dabs her eyes. "Of course, the Slave Families still rule. Your guidance is missed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"I didn't build it alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"I did, but the Sorrow struck me and took my memory of its construction. Who can repair it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"We do require you to investigate the Clock. Its unmooring is the source of constant consternation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"I have other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I won't do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"I'll do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>He nods grudgingly, strangely disappointed, but a secret hope builds in the movement of his fingers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Ah, of course, my lord. I misspoke." He nods his head, a narrow line creasing his forehead. </DefaultText>
+      <FemaleText>"Ah, of course, my lady. I misspoke." He nods his head, a narrow line creasing his forehead. </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>[You know how this works, just answer the damn question]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"You broke the Clock." His eyes gleam and his fingers stop their incessant tapping. "I knew it. I *knew* it," he breathes. 
+
+He turns to his partner and says, "A new deceiver walks among us. Do you doubt my perception now?" He looks at you. "But we owe you the answers on which we agreed, don't we? As soon as you tell us what you saw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"It is not right that I should interfere in your test, holy one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"You fixed the Clock! I knew you could do it. I *knew* it." She shoots a triumphant smile at Mimeon. "You must tell us what you saw. Who were those figures? Were they castoffs? What did they say? Were you able to retrieve them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Patience, Cas. We must first congratulate our guest." He turns to you. "Masterfully done, revered one. A performance worthy of your sire." He bows gravely to you. "You are most welcome here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"No matter," he says, steepling his fingers. "You have tried, and proved conclusively that you are not the Changing God. Just as well you did not try to deceive us, eh?" He smiles. "I intend no offense, revered one. There are those among your kind who think to inflate their importance, and we always find the truth. We are pleased that you are not among their number." He bows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>He gestures toward the Clock behind him. "Dark figures circumambulate these clock faces. I theorize that your sire's creation of the time-shields that protected this city established a connection with his future selves. Given this, we believe those figures may be castoffs - or ghosts of castoffs, perhaps - the living shells of the bodies your creator has worn previously."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>His fingers shrug eloquently for him. "The Clock is unmoored in time, you see. We do not have a knowledge sufficient to investigate. But you might. You have a connection with he who created the clock. You should be able to align it with the present time... and uncover who these figures are." 
+
+A gentle, rare smile appears. "If you cannot, at least you will increase our store of knowledge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>She smiles bravely, looking between Mimeon and you, and says, "And then we can answer the questions you must have... right, Mim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>She places a hand on his arm. "We welcome all castoffs, Mimeon. Even the deceivers. They have touched the divine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>His fingers are still and deadly. "But you are not welcome here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Her hands clutch and tumble at each other, and she practically gasps her words at you. "We are here to serve you, lord!"</DefaultText>
+      <FemaleText>Her hands clutch and tumble at each other, and she practically gasps her words at you. "We are here to serve you, lady!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"I would like to join your group."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"I have no more questions. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Who can repair the resonance chamber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Can you tell me who can repair the resonance chamber again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"What can you tell me about my creations, the castoffs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Can you tell me more about the castoffs you know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Farewell, my lord!"</DefaultText>
+      <FemaleText>"Farewell, my lady!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Who can repair the resonance chamber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Can you tell me again who can repair the resonance chamber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"I would like to rest here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"What can you tell me about the city?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Can you tell me about the city again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>His fingers stop, and his face is frozen. He pauses and chooses his words carefully. "Then we cannot help you. At all."
+
+He looks carefully into your eyes. "You are new. You have questions. We know many things about you. Without our help, you will surely fall victim to the Sorrow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>She cringes a little, as if fearful of your wrath. "But we can't answer them. Not until you... We *must* know if castoffs are trapped within the Clock."
+
+She lays a hand over her heart, and the other across her eyes, almost ritualistically. She pulls them away, and says, "You are the only one who might be able to discover this. Only *you*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>As her partner turns from you, she looks imploringly to you. "I beg you... we must have our answers. Mimeon will not relent until you resolve this, and I will not be able to bend him. Investigate the Clock, tell us - tell *me* - and we can help you."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Farewell, revered one!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"We have tried. I have appealed to the Order of Truth. I have spoken with eminent seekers of knowledge. We have sent for wisdom from as far as the Steadfast - a great achievement, you must agree. None have given us an answer. We believe your sire created the device, or had a hand in it. Perhaps..." Dismay dances across his fingers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>His hungry-eyed compatriot steps in. "Perhaps you can find an answer where others have failed. And then *we* can help you."
+
+She turns away. "You will have our boundless gratitude, revered one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"And for now... best of luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>His composure breaks for a moment, and a wash of relief floods his face. "This will be a true gift to knowledge, revered one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Perhaps you can find an answer where others have failed. You will have our thanks, our boundless praise. We will answer what we can for you then. Return to us, revered one. We will wait for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Agreed. I will seek out my brethren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"I'll let my siblings have their privacy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Actually, let me ask some other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>He bows. "As you wish." His face is neutral, but his fingers flash with disappointment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Oh, do say you'll bring us word of more castoffs!" Her eyes dart to Mimeon, and she clears her throat. "Yes, of course. Please let us know if we can be of assistance." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Of course, revered one. As a member of our church, you are welcome to sleep in our tents and pavilions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"It is not right that we should interfere in your task, revered one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Some other castoff. Maybe the one who helped build it. Go find Matkina and ask her if she knows." When she looks at you, her eyes are full of reproach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>He stares unflinchingly at you, his eyes memorizing every aspect of your appearance. Light arcs between his fingertips as he says, "Matkina. Your *sister*. The White Death. She is somewhere in the city, likely in hiding."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Regrettably, we do not know. As we said before, we know it was one of your children... but we don't know which. Perhaps you might find Matkina. I heard she was in the Underbelly. She might not be there any longer, but it's worth investigating, holy one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"With us?" Her breath catches in her throat. "Of course, holy one. You may stay with us for as long as you like."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"I'll pay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Never mind. I had other questions, though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Never mind. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Your sister Matkina might know which of your brethren helped your father to build it, but we don't." She sighs. "I am sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"I have consulted my records and made inquiries on your behalf, revered one, but I have been unable to ascertain any truth. Like the Clock, this is beyond us. Perhaps the castoff who aided in its construction? Your sister, the albino Matkina, might be able to assist you further. Seek her in the Underbelly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"What are the benefits of joining your church?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Can you tell me the benefits of joining your church again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>He steeples his fingers.
+
+"We can provide our adherents with useful items. We can offer safety against the depredations of those who would harm them as they sleep. Our members may be available to aid each other in specific situations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Apart from the chance to meet more of those who have carried the divine spark of your sire? We have trinkets and artifacts carried by your kind. We even offer a safe place to rest for those who join with us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Do you have any supplies to sell?"
+
+{JESSE: Please set up the store with a 20% discount here}
+{STORE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"There was a castoff who was recently killed by the Sorrow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>He reaches out to still Casmeen with a soothing touch, and then raises an inquisitive eyebrow. "Do you have a name for this poor soul?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Yes. His name was Orseolo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"No, I don't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"My apologies, revered one, but we must have a name. Else our records will be incomplete." He bows. "I am certain you understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Her hands fly to her horrified mouth. "Oh no! Such a loss to the world! Do you... do you know who it was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>She gasps. "He was here, among us this whole time? And now he is dead? I think of the stories he could have told... the people he must have met... the influence he had!" She shakes her head. "If only I had been more diligent, I might have found him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"It is no shame not to find someone who does not want to be found, Cas." His fingers create a pyramid, light dancing within. "I mourn his lost knowledge, his lost potential. He must have come to believe that our holy trust was not for him, and so he absented himself from the company of his brethren. A loss for all." 
+
+He bows his head. "I do wish I knew where we could place him in our genealogies, but this chance is lost to time, as so many secrets are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>He holds aloft his hands and then presses them across your heart and eyes. "O Light of Brilliance and Defender of Humanity, we ask that you accept this vessel into your care, that you provide him with knowledge, power, and the wisdom to use them both well."
+
+He steps back, and for the first time a smile crosses his lips. "I welcome you to our church, brother."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"What do you have for sale?"
+
+{JESSE: Please add Store at 40% discount}
+
+{STORE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Do you have any supplies to sell?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"I have no more questions. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Yes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"We have nothing. Not for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Yes. We have told them a new deceiver walks among us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>He shoots a warning glance to his companion. "Nothing that you cannot discover for yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Have you come to join us at last?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"I thank you for the information. We will record it. You have fulfilled the terms of the agreement. Do you wish to join our organization? You must renounce all others."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"I want to join the Church of the Changing God." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Perhaps later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Of course. You may ask at any time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"The slaver?" Horror fills her voice. "Gods, she's as bad as Melmoth... no, Inifere! Trafficking in misery, trailing pain behind her... " She trails off. "How can someone do that to another?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Not all of your brethren do great things, revered one." His voice is grave, his fingers stately. "Do not take Tol's actions to heart."
+
+He bows to you. "We will go to interview her, as our tenets require, so that we may enter her name properly into our genealogies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"I want to join the Church of the Changing God, and I renounce the Dendra O'Hur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"I want to join the Church of the Changing God, and I renounce the Order of Truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>His composure cracks, almost breaking entirely. With an effort, he masters himself. "The First is... alive?! How could the defenders of your sire not have known this? Is this perhaps a test of our faith? What does this mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Hush, Mim. We have called her the Deceiver all these years. Her powers are mighty. Has she not engineered pain and suffering beyond our wildest imaginations? Is it so hard to imagine that she has scuttled like an insect beneath the notice of the Changing God?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>He laughs shakily. "You're right, of course. Entirely correct. Her symbol is the mask, after all."
+
+He wipes away a tear. "This is hard news to bear. But I will learn."
+
+He faces you and regains his stoic face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"You sought answers about who might repair the resonance chamber. I wish I could tell you that, I truly do. We know that you built it with the aid of one of your vessels... but we don't know his - or her - name. Perhaps one of your children might know where to find him. Or her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"What can you tell me about other castoffs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Can you tell me more about other castoffs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Your siblings have been many things: Queens and leaders, generals, thieves, assassins, creators and artists, saviors of their communities... it was your sire's example that led them to great heights. You need only look to your holy sire to show you the way. You can use his divine gift to elevate the world. So it is that we seek to emulate all of you as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"It was through their good works that we came to know your sire. We saw the strength of Kamose, the inventive mind of Melmoth Leviarm, and the indefatigable strength of the First. We know her as the First Deceiver, but we must acknowledge her power and wit while she lived."
+
+She smiles. "We have heard of the Blackmoor, who was trapped in the Black Cube and united the warring factions within. Legends tell of Tuck, who saved the world from a devouring disease. Greatness follows in all your footsteps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Rest well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"It is said that you offered Endira Thirdloss a kingdom for his actions at the Tower of Birds. Is this true?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>[Tidal Surge] "Why are you trying to trap me, Mimeon? I *am* the Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"I *am* the Changing God. Believe me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>The two of them stagger under the force of your will, a whipcrack of psychic power that forces them to their knees. Mimeon's fingers clutch at his head, light sparking across his scalp as he tries to process the new information that jostles for space with the truth.
+
+"... yes... you are..." he manages to croak.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>She has fallen to her knees and stares worshipfully up at you, pushed over the brink into sheer faith. Her hungry eyes demand more, more, more, and she reaches out to touch the hem of your garment.
+
+"Lead us, o lord," she whispers, lost in rapture.</DefaultText>
+      <FemaleText>She has fallen to her knees and stares worshipfully up at you, pushed over the brink into sheer faith. Her hungry eyes demand more, more, more, and she reaches out to touch the hem of your garment.
+
+"Lead us, o lady," she whispers, lost in rapture.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>He smiles, though reservations still dance in his eyes. "Hush, Cas. Our inspiration had a question for us once the task we set for him was complete."</DefaultText>
+      <FemaleText>He smiles, though reservations still dance in his eyes. "Hush, Cas. Our inspiration had a question for us once the task we set for her was complete."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"I need to know who can repair it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"I don't know much about my tattoo. What does it mean to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Can you tell me about the meaning of this tattoo again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Can you tell me who you are again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Do you know anything about a device called a 'resonance chamber'"?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>He considers your words before answering, a thoughtful pause. "I am Mimeon. I am one of the leaders of the Cult of the Changing God in Sagus Cliffs, and my primary duty is as chief archivist. My colleague is Casmeen. She is responsible for the day-to-day administration of our encampment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>She bobs her head, her eyes never leaving your face. "I am Casmeen, and this is Mimeon. Together we lead the Cult of the Changing God." A puzzled tone fills her voice, as if she is trying to place your face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"You have been touched by the Changing God," she whispers. "His mind sheltered in you. He shared his dreams, his power, with your mind. And when he left your body, he created *you*." She swallows.
+
+"The tattoo marks you... all of you... with his symbol. It grows and changes as you mature, so that it becomes your symbol instead. There are more of you. They call you 'castoffs'."
+
+She cocks her head, studying you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>He bows. "You are a castoff of the Changing God, our inspiration, the man who has cheated death for centuries so that he might accumulate wisdom. He wears bodies like clothes and abandons them when he has exhausted his studies in them. Yet when he leaves, a spark of consciousness remains... *your* consciousness, revered one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>He looks sharply at you now, all distraction gone. "I do not recognize you," he says. "You do not match any descriptions we have recorded."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"You are welcome here, revered one. We stand ready to serve as we can. Have you any questions for us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"The resonance chamber is in the Reef of Fallen Worlds, under a broken dome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"I don't know anything about the resonance chamber, but I was told you might."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Truly? Oh, Mim, we should organize an exploratory party! Just think! We might be among the first to touch it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>He smiles slightly and spreads his hands in apology. "Not as much as I should like, but we have ways to find answers."
+
+His eyes trawl your face, and it seems as if he is on the verge of understanding something. "It is said by those loyal to your sire that the chamber is the solution to the Sorrow, the creature that hunts you all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"What do *you* know about the resonance chamber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"And perhaps to learn something from it?" His voice is a gentle rebuke. "We should focus on uncovering and celebrating his hidden accomplishments, Cas. Not prancing around his existing creations like superstitious savages!" He waves his finger. 
+
+And with that, an epiphany seems to break in his mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>Her partner is an unnaturally tall man, gaunt and sour-faced, his voice sonorous, with fingers that twitch and weave through strange contortions. Occasional light sparks in the air as he does. 
+
+He turns to you and opens his mouth to speak, registers your tattoo and closes it again. His throat bobs for a moment, and he says, "It is an honor." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"What can you tell me about the city?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Can you tell me anything more about the city?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"The city your sire built and defended? The cradle of civilization? The center of the empire of knowledge?" His eyebrows rise, and his slow tone is effusive. "It is among the great works of humanity in the Ninth World. Built on the foundations laid by unknown creators, it has risen to become one of the preeminent cities on Garravia Sound."
+
+He pauses. "It is somewhat diminished in these latter years, to be sure. Perhaps if the Changing God were to return to lead us to glory..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Many thousands of souls call Sagus Cliffs their home. They came here for safety, for succor, and the Changing God protected them! Now you can visit the spires of Government Square, where he once sat, or the places where his machines once shifted the city out of time."
+
+"Your sire even faced the Bloom when he was here." She represses a shiver. "But you should avoid it all costs. There is much else to do in the city, if you want to walk in your sire's footsteps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"We have tried ourselves. I have appealed to the Order of Truth. I have spoken with eminent seekers of knowledge. We have sent for wisdom from as far as the Steadfast - a great achievement, you must agree. None have given us an answer. Perhaps..." Dismay dances across his fingers. "Perhaps memory of your creation will come to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>His hungry-eyed compatriot steps in. "Perhaps you can find an answer where others have failed."
+
+She turns away. "You will have our boundless gratitude, revered one. You had questions about the resonance chamber, you said. *We* can help *you*. But first you must investigate the Clock and the figures inside it, or else..." She trails off. "Or else we must turn from your words."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"Best of luck, revered one. We await your insight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"What can you tell me about other castoffs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Why can't you tell me more about other castoffs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>She smiles and laughs. "We have spent years compiling our records, revered one. I know the time seems as nothing to your kind, but we must protect our knowledge. Perhaps if you were to join our group, provide some of your experience to add to our knowledge...?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Our secrets are our own. We do not provide them to outsiders. Of course, if you were to join us, you would no longer be an outsider." He bows his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"I met Kamose, Diviaticu, and Villon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>(Lie) "Shadowy figures pulled me in. I was in a Labyrinth. I did not see their faces or learn their names."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"You sought answers about who might repair the resonance chamber. We know that your sire built it with the aid of another castoff... still unknown to us. Perhaps one of your siblings might know where to find him. Or her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"You sought answers about who might repair the resonance chamber. We know that your sire built it with the aid of another castoff... who is still unknown to us. Perhaps one of your siblings might know where to find him. Or her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>Disappointment creases her face. "I know these names. They're not new to us. They were favored servants of your creator, castoffs who served him well - indeed, Diviaticu brought the Order of Truth to Sagus Cliffs! - but they betrayed their holy trust and disappeared."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>He sighs. "Nevertheless, we will honor our arrangement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>Disappointment creases her face. "You could not learn their names, nor save them? This is a disaster!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"The best of travels to you, holy one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"Seek her. And begone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"Farewell, castoff. I must consult with my colleague."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>Casmeen's hungry eyes have gone cloudy, and she does not seem to register the world completely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"It still stands on your works and celebrates your name!" She frowns. "Celebrates quietly, at any rate. But the time generators still stand. The houses still perch on Cliff's Edge. The veterans still gather at the Fifth Eye, and the mighty watch over the city from Government Square. Time changes everything, and changes nothing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"Of course, of course. The Slave Families still rule under your edicts. The time-shields have fallen into disrepair, but with the threat of the Tabaht ended, we need them no longer. Sagus Cliffs remains the vital, beating heart of the Sagus Protectorate, and you'll not find a larger city this side of the Clock of Kala."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"I *am* the Changing God, Mimeon. Trust me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>Bloody furrows scar his head, and his fingernails are stained and torn, as if he were trying to scratch out his thoughts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>She gives Mimeon a playful punch on the arm. "We don't know, lord. You and one of your children constructed it, and if you can't repair it yourself, then perhaps you could find him." Abashed, she looks away. "But we don't know who it is. Maybe Matkina knows? The last we heard, she was in the Underbelly."</DefaultText>
+      <FemaleText>She gives Mimeon a playful punch on the arm. "We don't know, lady. You and one of your children constructed it, and if you can't repair it yourself, then perhaps you could find him." Abashed, she looks away. "But we don't know who it is. Maybe Matkina knows? The last we heard, she was in the Underbelly."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"Ah, of course not! I was thinking perhaps of the Chalcedon. He is said to be most ruthless in battle." 
+
+He stops and nods, a narrow line creasing his forehead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"Your children have been many things. Queens and leaders, generals, creators, thieves, assassins, creators and artists, saviors of their communities... it was your example that led them to great heights. They need only look to their source to show them the way. They have used your divine gift to elevate the world. So it is that we seek to emulate them as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"I did. He served well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"It was through their good works that we came to your worship, Death-cheater. We saw the strength of Kamose, the inventive mind of Melmoth Leviarm, and the indefatigable power of the First." She hastens to add, "We know her as the First Deceiver, but even you must admit her knowledge and wit while she lived."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"We have heard of the Blackmoor, who was trapped in the Black Cube and united the warring factions within. Legends tell us of Tuck, who saved the world from a devouring disease. Greatness follows in the footsteps of your children. We seek to follow in theirs, to bring new knowledge to the world."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"Don't you mean *up* to Government Square?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>He comes to a decision then, and prostrates himself at your feet. "Forgive me, lord, for doubting you. We have had many come before us claiming to be you, but none have possessed your knowledge. I had to test you, and it is a mark of your truth that you did not even know that I tested you. Forgive me."</DefaultText>
+      <FemaleText>He comes to a decision then, and prostrates himself at your feet. "Forgive me, lady, for doubting you. We have had many come before us claiming to be you, but none have possessed your knowledge. I had to test you, and it is a mark of your truth that you did not even know that I tested you. Forgive me."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>He comes to a decision then, and prostrates himself at your feet. "Forgive me, holy one, for doubting you. We have had many come before us claiming to be you, but none have possessed your knowledge. I had to test you, and it is a mark of your truth that you did not even know that I tested you. Forgive me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>He comes to a decision then and prostrates himself at your feet. "Forgive me, holy one, for doubting you. We have had many come before us claiming to be you, but none have possessed your knowledge. I had to test you, and it is a mark of your truth that you did not even know that I tested you. Forgive me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"I don't think so, no."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"As I recall, his actions were a disgrace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>She pats his head. "And others of us *knew*, Mimeon. We had faith."
+
+She turns back to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"We have heard of the Blackmoor, who was trapped in the Black Cube and united the warring factions within. Legends tell us of Tuck, who saved the world from a devouring disease. Greatness follows in the footsteps of your sire's children. We seek to follow in theirs, to bring new knowledge to the world."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"We tell the world that you and your brethren are aspects of the divine truth of the Changing God, and that each of you brings forth a particular facet of his truths. We seek to study you... so that we can become more like you." Her teeth gleam as she smiles at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"We seek to learn, revered one, from you and your siblings. Your paths through this world show us the truths of your sire. We resist the ideas of the First, the Deceiver, who rebelled and led her coterie against him. We try to learn and improve, so that like your creator, we can bring light back into the world."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"Do not think to lie to us again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"Ah, but you have not yet completed your task." He smiles wolfishly. "Our agreement is not yet complete, Deceiver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"Ah, you return to us. And you have completed your task. What did you see inside the Clock?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>His lip curls with distaste. "You have not yet completed our agreement. We have nothing to say to each other until you have concluded your part of the bargain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"We revere your example, lord, and so we must insist that you uphold your end of the bargain. Come back to us when you have investigated the figures in the Clock, holy one."</DefaultText>
+      <FemaleText>"We revere your example, lady, and so we must insist that you uphold your end of the bargain. Come back to us when you have investigated the figures in the Clock, holy one."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"Revered one, have you investigated the figures in the Clock? Until you report your success to us, we can't tell you what you need to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText> He smiles. "We are, as always, at your service."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"Tell us!" She is nearly breathless with excitement. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"Return when you have the knowledge you promised."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"We'll honor our agreement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"Apologies, honored vessel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>"But we have answers for your questions, revered one. That is, as soon as we hear the report of what lay within the Clock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>He frowns. "You have not yet completed that task. We must honor our agreement. Both of us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>"Return when you have the knowledge you promised."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>"And we do have answers for your questions, revered one. That is, as soon as we hear the report of what you have found."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>He frowns. "Unfortunately, your task is not entirely complete. We told you our price. That decision stands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>He pauses, considering his words. His tone is almost pleading. "And... please... do not lie to us, whether through word or omission."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>"Do you know anything about the Sorrow?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"Can you tell me anything else about the Sorrow?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>She shudders and touches herself ritualistically on the forehead and on her lips. "A monster of deepest nightmare. I have heard that it wants you dead - every one of the Holy One's creations, all dead. I don't know why, but it hates you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>He nods somberly, raising a finger to his forehead. "Only that it is remorseless, pitiless, and it wants nothing more than the destruction of you and all those who, like you, were created by your sire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>"What can you tell me about... uh... my sire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>"Can you tell me about the Changing God again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>"You mean the most accomplished inventor of our time? The hero of Sagus Cliffs? The man who dodged Death itself? The timeweaver? The man who destroyed the Tabaht? Oh, we have so much to say!" She catches herself. "But perhaps we should wait for another time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>"An inspiration to inventors and seekers after knowledge. Rather than meekly accepting his impending death - and the immeasurable loss to posterity his passing would have occasioned - he found a way to continue his work. He is a model for those of who value wisdom and insight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>"I know of only one other castoff still in the city - the albino assassin Matkina. They call her the White Death. She wore a camouflaging cloak and brought destruction in her wake. The last I heard of her, she was in the Underbelly." He restrains a shudder. "Seek her. But be wary."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>"I know of only one other castoff still in the city - the albino assassin Matkina. They call her the White Death. She wore a camouflaging cloak and brought destruction in her wake. The last I heard of her, she was in the Underbelly." He restrains a shudder.
+
+"Seek her. But be wary."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>"I know of only one other castoff still in the city - the albino assassin Matkina. They call her the White Death. She wore a camouflaging cloak and brought destruction in her wake. The last I heard of her, she was in the Underbelly." He restrains a shudder and then turns from you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>"We don't know how, though." She bows her head slightly. "We take this as an article of faith. The resonance chamber will save you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>"What do you know about the resonance chamber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>"Can you tell me what you know about the resonance chamber again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>"Only rumors! I've heard your siblings whisper about it. They say it can stop the Sorrow... but some of them say it's a tool of destruction. Maybe it will destroy the Sorrow?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>"Rumor and conjecture, nothing more. Idle speculation from those who wish to pretend to knowledge of your sire's motivations, passed along as fact. If we could study it, we might learn something from it." He looks at you, and his fingers seem to signal *hope*. 
+
+"It is passingly strange that such a power should be so well-hidden. Perhaps you might reveal its secrets to us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>"Ah, of course! I was thinking perhaps of the Chalcedon. He is said to be most ruthless in battle." 
+
+He stops and nods, a narrow line creasing his forehead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>"Do you have any supplies you could share with me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>"I'd like to purchase more supplies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>"Share? Oh, dear. We are a small group and not wealthy. We exist on donations, curios, and the occasional great gift from one of your siblings. For instance, we had a weapon once used by the Chalcedon. The Chalcedon! The commander of -" She catches herself. "My point is that we require some payment for our wares."
+
+{STORE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>"For a small remuneration, of course."
+
+{STORE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>"Do you have any supplies you could share with me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>"I'd like to purchase more supplies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>"We will gladly share with one of our brethren, of course. But we are not wealthy. We exist on small donations, curios, and the occasional great gift from one of your siblings. For instance, we had a weapon once used by the Chalcedon. The Chalcedon! The commander of -" She catches herself. "My point is that we require some payment for our wares." She hastens to add, "At a discount for you, of course!"
+
+
+
+{STORE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>"At a significant discount, of course, for one of our beloved brethren."
+
+{STORE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>"Do you have any supplies to share?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>"I would like to buy more supplies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>"It is our great honor to provide our wares to you, holy one. But we are a small group and are not wealthy. We exist on small donations, curios, and the occasional great gift from one of your children, such as a weapon from the Chalcedon. As much as we would love to gift these to you, we simply cannot afford to do so... however, because it is you, we will not ask for much in return."
+
+
+{STORE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>"Naturally, holy one."
+
+{STORE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>His eyes gleam and his fingers stop their incessant tapping. "I knew it. I *knew* it," he breathes. "Government Square is an *ascent* from here. Your sire, who forged this city's streets, who strode them over hundreds of years, would never have forgotten their truths. He would have corrected me in a moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>"I need a place to rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>"I need a place to rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>His fingers are still and deadly. "But you are not welcome here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>He stares at you for a moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>With poor grace, he snaps, "Very well. The price is [Global: a2101_CultTCGRestCost_Deceiver] shins. Pay, or find your rest elsewhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>"I'll pay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>He gestures toward a small, empty tent. "Sleep over there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>"Never mind. I had other questions, though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>"Never mind. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>"If you must."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>(Lie) "I am not a member of any other factions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>"So you have seen it? You have touched it?" She catches herself. She seems almost overwhelmed. "Your tattoo... like all the others, but this one is... different."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>"You return." His fingers smile for him. "I hope that we may be of more assistance this time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>"I have nothing more to say. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>"Wait... revered one." He peers at you, all traces of distraction gone. "I do not recognize you. You do not match any descriptions we have recorded."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>"We honor you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>His words are bland and friendly, but his fingers dance another story - wariness, concern... an almost *predatory* anticipation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>Stare at Mimeon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>
+His raised eyebrow is not merely inquisitive... it is *hungry*. He is on edge, waiting for you to make a mistake.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>
+His words suggest merely scholarly curiosity, but his fingers have paused, and the sigil that burns within suggests an arachnid waiting for its prey.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>He smiles thinly. "You did *not* build it alone. Your sire is said to have planned its construction for centuries, and required another, equally skilled apprentice to aid him. He created a body specifically for this purpose, and he and your older sibling created the chamber." He leans in close. "You are not the Changing God. I know this, and now you know I know this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>Your companion mutters to himself, "Mimeon would know, wouldn't he? He would *know*." He shakes his head, and stares at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>He sits back, satisfied. "I thought so. I *thought* so. Your sibling Thirdloss was a disgrace, and he was in the service of your sire's immortal enemy. You are not the Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>He collects himself. "If I might impose on your time for a moment. Will you tell me about your tattoo? How did you shape it? Do you know why it differs from the others?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>"Others? You mean other castoffs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>"What do you mean, shape it? Don't tattoos stay the same?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>"Yes, revered one, your siblings." He bows deeply, and his fingers spark with a repressed joy. "You are a child of the Changing God. His mind saw the world through your eyes. He gained knowledge in your body... as he has done countless times over the centuries. The tattoo on your head marks you. We theorize it has a role to play in his creation of you, his castoff shells."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>"Not yours, revered one." Her voice is the barest whisper as she curtsies. "You are a castoff of the Changing God, Light of Brilliance. His touch is on your head. The tattoo marks you as his child."
+
+She gazes at you, enrapt. "You are not alone. Other castoffs live. And we treasure each of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>She gives Mimeon a playful punch on the arm. "We don't know, lord. You and one of your children constructed it, and if you can't repair it yourself, then perhaps you could find him." Abashed, she looks away. "Perhaps your companion Matkina can tell you more? She might have a solution for you."</DefaultText>
+      <FemaleText>She gives Mimeon a playful punch on the arm. "We don't know, lady. You and one of your children constructed it, and if you can't repair it yourself, then perhaps you could find him." Abashed, she looks away. "But we don't know who it is. Maybe Matkina knows? The last we heard, she was in the Underbelly."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>(Lie) "His name was Buken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>[DEBUG] Skip talking to the Wonder Twins here and advance the quest so you can start fixing the clock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>"So." He folds his arms across his chest. "Have you decided to tell us what you saw in the clock?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>"I don't have to tell you. Figure it out for yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>"I won't tell you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>"Unfortunately, that was not our agreement. If you will not help us, then we will not help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>As her partner turns away from you, she says, "Please, Mimeon can be so stubborn about such things. *Do* tell him so that we can help you."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>"Farewell, revered one!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>"Then we have nothing more to speak of. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>"I would like to sleep here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>468</ID>
+      <DefaultText>"I would like to sleep here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>"I would like to sleep here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>"I would like to sleep here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>Script Node 472</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>"What can you tell me about the beliefs of your church?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>"Can you tell me again what your beliefs are?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>"We have a requirement for membership. You must bring knowledge of a castoff who is not known to us." He holds up one of his unnaturally long fingers, forestalling you. "Lest you inquire, you *are* known to us. That is all. If you are a member of another group, you must also renounce your membership with them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText>"Can you tell me about the castoffs you know again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>"I would like to join your group."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>"Why can't I join your group again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>Trigger Conv Node 481</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>Tybir steps forward suddenly. "Have you forgotten that Ris will die tomorrow if we do nothing today? Sleep now and he'll be dead before you wake. You promised me you'd save him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>"Very well. We won't rest right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText>Tybir steps forward suddenly. "Have you forgotten that Ris will die tomorrow if we do nothing today? Sleep now and he'll be dead before you wake. You promised me you'd save him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>"Very well. We won't rest now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText>"You are not welcome here anyway, deceiver. Better for us all that you leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>Tybir steps forward suddenly. "Have you forgotten that Ris will die tomorrow if we do nothing today? Sleep now and he'll be dead before you wake. You promised me you'd save him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>"Very well. We won't rest now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>"I have bigger concerns than an executed criminal. We're resting now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>"The fate of a condemned criminal is far less important than the needs of the Changing God. Keep in mind the imposition you cause."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText>He breathes a sigh of relief. "You have no idea. This is important."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText>"I have more important concerns than an executed criminal. We're resting now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>He sighs heavily. "I appreciate that, friend. I really do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>"I have bigger concerns than an executed criminal. We're resting now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText>"That's a huge relief. My thanks, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText>She steps in, an angry frown in her brow, her voice sharp. "I hope you realize the signal honor this child of the Changing God does to you... and to your criminal friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText>His gaze is sour. "When I need advice from a god-botherer, I'll ask for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+      <DefaultText>"Perhaps you can write about his charitable nature in your histories," he replies sourly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText>Script Node 499</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>500</ID>
+      <DefaultText>"I thank you for the information. We will record it. You have fulfilled the terms of the agreement. Do you still wish to join our organization?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText>"Yes. I want to join the Church of the Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>507</ID>
+      <DefaultText>"You have done as we requested. Do you truly wish to join us now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>508</ID>
+      <DefaultText>"Bring us the name and knowledge of another castoff, revered one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText>"I'd like to join your group now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>Script Node 510</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>511</ID>
+      <DefaultText>[DEBUG] Test the blue halo VFX that appear on Mimeon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>He nods his head to the two of them. "I've brought someone you should meet." He turns to you. "These are Casmeen and Mimeon. They're the leaders of the local branch of... your church."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText>"You have our thanks for the introduction, Aligern, our deepest thanks." He eyes the Aeon Priest for a moment as if about to say more, but thinks better of it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText>She sighs. "Must we indulge in this religious nonsense?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText>"Your opinion of our beliefs is noted. We have discussed our differences with you, and you made your position *quite* clear, thank you!"
+
+He turns back you, anger etched on his face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText>"Salimeri at the Order of Truth told me that you would know about the artificer who helped build it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText>She taps her fingers thoughtfully on her lips. "I haven't heard that part of the legend. I thought that it was the Changing God who built it himself. Do you know more about the resonance chamber than what we've been taught, Mimeon?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText>Script Node 519</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

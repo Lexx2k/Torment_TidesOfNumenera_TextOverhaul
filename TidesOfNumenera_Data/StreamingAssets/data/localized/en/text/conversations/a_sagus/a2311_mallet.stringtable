@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2311_mallet</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>142</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"What?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[I'd like to ask you about some murders.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Sure. You have investigated me. Anything else?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>The burly man sneers at you, flexing massive, scarred hands that could easily encircle your throat. His tongue probes his stained, sharpened teeth, and a short, bloodstained club swings from a hook at his waist. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"So, what you doing down here, shiulmeat? Playing in the dark?"
+
+He chuckles, long and low.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"What you want, shiulmeat?" he says, leering. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Mallet," Tybir mutters through a frozen grin. "This numb slab beat his partner to death over two shins."
+
+{TYBIR}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Yeah. See you later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Have you been part of the Dendra O'Hur for long?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"What sort of work did you do before?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"No. Not long," he says. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"I broke stuff," he says, his eyes gleaming with dull humor. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Tell me about the Dendra O'Hur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"You can't tell me anything about the Dendra O'Hur?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Don't have to tell you nothing," he says, snorting. "You ain't one of us. You ain't *nobody*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Nobody said nothing about 'can't'," he says, picking a tooth. "The word is 'won't'. Maybe Imbitu will feel different."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Why did you join the Dendra O'Hur?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Why did you join the Dendra O'Hur again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I used to do work for Fulsome," he says with a grimace. "Muscle work. You know. Money was good, but Fulsome kept giving me little jobs. Giving the best stuff to his *proteges*." He curls his lip.  
+
+"Then I saw the Dendra O'Hur. Saw the way people respect them even if you could break most of 'em in half with two hands. I thought that maybe there was room for a man to grow here." He grins. 
+
+"I was right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Got tired of working in Fulsome's shadow," he says. "Sick of taking orders from him an' hearing people laugh behind my back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>""
+
+{GAVIN: Conditional a2311_Mallet_HeEatsPeople=1}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>He gives you an appraising eye. "*You* know how it is. I can tell. Respect is good, right? But fear is better. An' even Fulsome's people fear me now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Imbitu gave me permission to ask you about the murder of Fulsome's protege Wheedle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"I have more questions about the murder of Fulsome's protege."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Is that right?" he says, glancing at Imbitu. The leader of the Dendra O'Hur gives him a small nod.
+
+"Yeah, all right," he says. "Ask your questions, for all the good it will do you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"All right," he says, smirking. "Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I want to talk to you about your eating habits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Let's talk about your eating habits again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"There's a murderer loose in the Underbelly. Do you know anything about that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"I just want to ask a few questions about the murderer in the Underbelly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"I know I'm not supposed to run my mouth about it," he says, folding his arms. "Not unless Imbitu says so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Yeah? I want a lot of things too. But unless Imbitu gives the go-ahead, I ain't saying nothing." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Tell me what you think about the other members of your 'family'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Can you tell me more about the other Dendra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Family," he repeats. "Heh. Good one. I'd trust my brother over this bunch, an' he tried to cut my throat when I was five."
+
+He clucks his tongue. "Go on an' ask your questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Yeah, sure. Who?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"What are your opinions on Imbitu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"What's your opinion on Imbitu again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"What do you think of Gh'zei?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"What do you think of Gh'zei again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"How do you feel about Kiyatawa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"How do you feel about Kiyatawa again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"I have some other questions."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Yeah? What about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Is that right?" he says, scratching one of his sharpened teeth. "Not much of a mystery there. I eat people. I like it." He shrugs. 
+
+"If that doesn't answer your question, go on an' ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Again?" Mallet says. "Yeah, sure. Ask away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Maybe I'll go for another walk tonight," he muses. "Can't help wondering what else I'll find, hidden under things."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"He's all right," Mallet says. "Got half the city scared of him, an' the other half bringing him meat. Not bad for an old man who smiles at everyone an' never raises his voice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"He scares people," Mallet says. "I respect that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Gh'zei's a monster," he says, shaking his head. "Less than human an' more than a beast. I've seen her take a corpse's face off with a swipe of those claws an' tuck it into her mouth like panbread. Didn't stop until the body was gone, down to the last drop of blood."
+
+He bites his upper lip, drawing ribbons of blood. "Talk to Gh'zei if you want. Figure her out. Me, I keep my distance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Gh'zei's a monster, an' I keep my distance," he says.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>He opens his mouth to respond. Closes it, thinking. 
+
+"Something's wrong with her," he says finally. "An' I ain't stupid. I know how that sounds, coming from me. Just... something's broken in her, an' it's always getting worse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Don't like her," he says. "Don't trust her. Something's wrong in her head."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"How many corpses have you eaten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"How many bodies have you eaten out in the city again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Have you ever heard of something called the Endless Gate?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"You're sure you don't know anything about the Endless Gate?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"No," he says. "Strange name, though. If it don't end, it ain't much of a gate, is it? It's more of a hallway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"No," he says, frowning. "I told you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"You mean besides you, shiulmeat?" he says, chortling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Can't give you the exact number," he says. "You eat what's given to you here. But at least one time, at midnight? I was out on my own, and found a corpse lying beneath a stack of rusty metal. Someone just left him there to rot." He shakes his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Just one," he says. "Wasn't prime meat, but it wasn't trash neither."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Doesn't eating human flesh bother you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Why do you eat corpses if it troubles you so much?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Bother? No. Bother ain't the right word."
+
+He rubs the back of his neck. "You think you're gonna mind the taste, but you don't. The part I don't like is that memories from the person you eat end up in your head, and you can't make 'em shut up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"It doesn't *trouble* me," he growls, but his voice is shaking. "It just ain't easy. But it'll get better. Look at Imbitu. He's been doing this a long time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"The four of us ate this scholarch... not a fancy one, but one with old robes. Kiyatawa was talking about some word she kept hearing after."
+
+He scowls. "I didn't get a word. I saw a memory of his when I was picking him out of my teeth. He was lying in bed, dying maybe, waiting for his son to come see him. His eyes kept closing, closing, an' his son never came." 
+
+He shakes his head like a beast trying to dislodge a biting insect. "Not that I saw, anyway. And that's from just *one* meal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>His eyes flicker away from you, and briefly you see the fear in his eyes. The helplessness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Yeah, I bet you do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"I want to ask about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Did you know Wheedle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Who do you suspect again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"I'm finished asking about the murderer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"All right," he says, smirking. "I'd wish you luck, but I don't want to waste it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"All right. We all done here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Heh," he says. "Yeah, I knew him. Glad to hear he's dead."
+
+He chuckles. "He was smart an' knew it. Always looking down on the rest of us. Always ordering people around with Fulsome looking on, smiling." He snorts. 
+
+"But if you're thinking I chopped him, I didn't. I was getting drunk in a corner of the manufactory." He grins nastily. "Wondering what all the screaming was about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Kiyatawa or Gh'zei. They're both hiding something." He chortles. "Compared to them, I'm an open book. And like I said, I was getting drunk in the manufactory when Wheedle was doing the last of his lovely screaming." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"You know who you should ask," he says, leaning in. "Kiyatawa. I saw her hunched over some corpse in an alley, all by herself. Doesn't matter what the meat is - people who eat on their own always got something to hide."
+
+He nods at the other cultist. "An' Gh'zei's one to watch too. She ain't like you or me. She's a mutant, an' not one of the nicer ones."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"People? She said that?" He shoots a dark look at Kiyatawa. 
+
+"Yeah, all right, but not 'people'," he says, stretching his thick neck. "It was just the one. Someone - yeah, I ain't gonna give you a name - who stole something from me once. And the fact that you ain't here asking about *him* means no one misses him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Yeah, I'm sure," he says. His usual smile, however, is missing. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Kiyatawa says you've been killing people instead of waiting for them to die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Are you sure you haven't killed anyone else since you joined the Dendra O'Hur?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"You sound like a man with a lot of grudges. Sure you didn't decide to settle some with Fulsome?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"And that's it? You never got the urge to kill again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"You must think I'm an idiot," he says. "Sometimes, grudges pay off, right? Make you feel good, right in your gut." He slaps his belly.
+
+"But no one - *no one* - ever gets the better of Fulsome. Even if I killed every one of his proteges - and I'm not saying I killed even one - the man would have me skinned and hung before I dropped my club."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"I ain't got nothing against killing," he says. "It's done me a lot of good. But no. That was the last time." His eyes drift away from yours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Huh," he says, chuckling. "You should have seen Kiyatawa running out of here just before Fulsome's people came. Thought she was so clever. Better than the rest of us. But she wasn't smarter than you, yeah?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"What you doing back here, shiulmeat? Gonna share some more of that tender flesh?"
+
+He chuckles, long and low.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"What I did..." Tybir says, scratching his jaw. "What I did. Oh! You're talking about how I told everyone you killed your partner for less than the cost of dinner?" He smiles, but his eyes are cold. "I'd do it again, and for free."
+
+{TYBIR}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"An' don't think I don't recognize you," he adds, looking over at Tybir. "I remember you. An' what you did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Doesn't matter," Mallet shrugs. "None of that stuff matters anymore. This is my place now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"No, Mallet, no," Tybir sighs. "You've never seen an open book in your life. I wouldn't even wager you've read a cover."
+{TYBIR}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Maybe not," Mallet says, scowling. "But you might want to keep your mouth shut. Someone's been killing smartasses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Bank 130</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>His eyes drift away from yours.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Bank 132</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>His expression of mock regret barely masks his smile. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>You feel eyes on you. You glance around in time to see Kiyatawa look away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>You glace at Imbitu. The elderly head of the Dendra O'Hur waves and gives you a huge, rotten grin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Imbitu gave me permission to ask you about the murders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"I have more questions about the murders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Way I see it," he drawls, "is I don't know you. You ain't done anything for me, an' we got nothing to talk about. Not now, anyway."
+
+He crosses his arms. "So, why should we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Not much for conversation, are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"You'll open up if we have something to talk about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Oh yeah," he snorts. "You won't be able to shut me up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Imbitu is watching the two of you, you notice. Frowning. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>He jerks his thumb at an elderly man standing nearby. He is watching the two of you. Frowning. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"That's Imbitu, is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"I have other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Sharp one, ain't you?" Mallet says with a rusty chuckle. "Yeah. I know he doesn't look like much, but that'd be your mistake. He runs things in here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Why not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>He jerks his chin at Imbitu. "You want a tour, you talk to him. I'm busy." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>He jerks his chin at the elderly man who stands nearby. "You want a tour, you talk to Imbitu. I'm busy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Is he in charge?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"I'll do that now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Yeah." Mallet chuckles. "And at his age, he'd better be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Good." </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

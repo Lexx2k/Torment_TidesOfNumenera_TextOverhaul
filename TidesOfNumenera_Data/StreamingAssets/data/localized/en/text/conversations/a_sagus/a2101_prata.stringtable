@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_prata</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>118</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>In the shadows cast by the folds of this merchant's cowl, you glimpse hints of verdant chitin and amber mandibles erupting from pale human flesh. Her voluminous robes cannot hide the fact that her movements are... off, as if too many joints inhabit too little space. 
+
+But her voice - her voice is a warm, tumbling flood of spoken thoughts and impulses.​</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Oh! Hello! Here to shop, or just to chat?" She gasps. "Or both?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"A fair afternoon to you! Well, I say 'afternoon', but night has come early. I wonder what..." 
+
+Her brilliant, multi-faceted eyes flicker over you. Something begins humming in one of her many pockets. "Another one with that tattoo. Adhesive residue on the fingertips. No surprise at the sudden night." Her mandibles click open, revealing a delighted smile. "*You're* responsible for our unexpected nightfall. Tell me how you did it!"
+{SOUND: Weird (but pleasant) humming}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"A fair afternoon to you. Warm, isn't it?"
+
+Something begins humming in one of her many pockets, and her brilliant, multi-faceted eyes flicker toward an invisible point in the distance. "Well, not as warm as it could be. But this is the warmest minute of the week by a considerable margin." 
+
+She trails off, but the hum continues. "Oh, you have one of those tattoos too. Anyway! Can I interest you in some prime artifacts? Dusty relics? Numenera of uncertain origin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Bank 5</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"You appear to be transforming into an insect."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Why do you think you're transforming again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Bank 8</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I know! Isn't it fantastic? I think it might be caused by the intermingling fields of the numenera I use to organize my thoughts. Or the ones I'm selling. Maybe all of them? You never know how a variety of cyphers will interact with each other. They are *such* fun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Intersection of numenera energy fields? Something in the air? Who knows!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Bank 11</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Let me see what you're selling."
+
+{STORE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Let me take another look at what you're selling."
+
+{STORE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText> Follow-up PQ. 14</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"You said someone else had my tattoo. Who?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Tell me about the pale woman with the tattoo again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Bank 17</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I'm looking for someone who can repair a complex machine. Can you help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Are you sure you can't help me fix something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I've never visited this city before. Can you tell me about it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"No!" She laughs, and it sounds like a cloud of insects taking flight. "I'll do better than that. Tell me anything about this place that worries you, and I'll make it better. That's a guarantee!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"What part of the city should I see first?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Are there any dangerous areas I should avoid?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I'm still finding my way. Think I could get a discount on your goods?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"All of it! Take it from me - *everything* is worth seeing, even the boring bits. Take your time, talk to everyone you meet, and keep your eyes open!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Not at all!" Prata says, waving her claws at you. "I heard so many rumors about how the Underbelly was ruled by vicious thugs, but when I went down there to make a trade, no one so much as glared at me!"
+
+She hesitates. "Of course, they were probably worried I was going to snip their heads off. But the Underbelly is *fascinating*, and worth the risk! Most everywhere is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Why not! I don't normally do this, but you strike me as a kindred spirit. I'm almost never wrong on these things!"
+
+She winks. "I'll give you a discount on everything I carry, from now until the last star in the sky collapses. Or, you know, one of us dies. Can't do a thing about that!" She laughs again, clearly unworried by the prospect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Bank 32</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Oh! Right. A pale lady. She wanted me to fix an artifact of hers, but I couldn't make any sense of it. And that is *rare*, believe me!"
+
+Prata sighs. "I felt sorry for her, to tell you the truth. She seemed sad, like she'd lost something and was never going to get it back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"She'd either lost something, or was just lost. I wish I could have helped her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Enjoy the market!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Well, I... adjusted the Clock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>(Lie) I have no idea what you're talking about. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Did you?" she says, eyes round with wonder. A cycling melody joins the humming filling the air. "Which aspect? The face? The gears? The caged metaphor? Oh! And did you use tools? The mental interface? Wait. Did you use the consoles?"
+
+She trails off, waving a claw at you. "No! Don't tell me. Answers take all the mystery out of life. Anyway! Can I interest you in some prime artifacts? Dusty relics? Numenera of uncertain origin?"
+{SOUND: Same humming as in Node 3 along with a cycling melody}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Trade secrets!" she says, clapping her chitinous hands with an ear-shattering clatter. "Lovely! I won't try to guess. I'm always right when I do, and it takes all the mystery out of life. Anyway! Can I interest you in some prime artifacts? Dusty relics? Numenera of uncertain origin?"
+{SOUND: Chitinous hands clapping}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Bank 41</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I want to use that discount we talked about."
+
+{STORE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Let me take another look at your discounted goods."
+
+{STORE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Bank 44</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"See? Things are already looking up!"
+
+{SCRIPT: Shop rates have been left at the default. Feel free to adjust to a fair discount.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Right away!"
+
+{SCRIPT: Shop rates have been left at the default. Feel free to adjust to a fair discount.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Bank 47</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Ooh. I'd love to. Complex machines are my favorite! But... no, I shouldn't. I'm really behind on work orders this month. This may surprise you, but I'm very, very, *very* easily distracted."
+
+She shrugs beneath her robes. "You're better off with someone else, sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Quadruple sure," she says cheerfully. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Bank 52</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Tell me about the numenera you use to organize your thoughts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"I want to talk about your thought devices again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Bank 55</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Oh, it's simple. Sort of." Prata pulls three tiny numenera from her robes: a buzzing bird figurine, a green music box, and a circular spring. 
+
+"I have too many thoughts. If I tried to hold them all in one brain, I'd just stand and drool, you know? So each of these have a slightly different purpose. Which one do you want to hear about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Sure!" She pulls out the bird figurine, music box, and spring again. "Which one do you want to hear about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"The bird figurine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"The music box."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"The circular spring."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Bank 65</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Jadebox is a tough old lady. If I'm rolling with a more complex line of thinking, I bring her up and she chomps the individual ideas and feeds them back to me. I try to use her as little as possible, because she gives me headaches. No. What's the opposite? Headeases?"
+
+Prata frowns. "Anyway, they're worse than headaches because you can't go around thinking everything's all right. It's bad for your health!" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Jadebox stores my thoughts, but also helps me process them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Bank 68</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Birdy's pretty simple. If I'm running with a great thought I don't have time to complete, I shunt it into her so I can pick it back up later. She does make everything smell like berries, though." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Birdy holds ideas for me until I want them back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Bank 71</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"That's Rounda. She's a bit scary. I can shunt a bunch of thoughts into her, but she doesn't process them. She just gives them back to me, slightly changed, and infinitely better than when they went in."
+
+Prata leans in conspiratorially. "I try not to use her much," she whispers. "It feels like cheating."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Rounda improves any idea you feed her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Actually, I want to buy one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Prata flushes. "I hate to say no, but I've had them since I was little. They're practically family."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Absolutely!" Something whirs beneath her cloak, and she swats playfully at it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Well..." she says, looking momentarily uncertain. It's like watching a lone cloud passing across a summer sky. "You know what? I'll give you a discount on everything I carry, from now until the last star in the sky collapses. Or, you know, one of us dies. Can't do a thing about that!" She laughs again, clearly unworried by the prospect. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>She hums quietly to herself, her features hidden by her cowl and the sudden night. 
+
+"You're back! Here for more questions? Or here to shop?"
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Hmm," she says. Her mandibles click. "No! Near the market, yes. I was closing up shop and only noticed her because she was staggering a little and talking to herself."
+{SOUND: Mandibles click.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Bank 86</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Have you seen a Dendra O'Hur woman in the market lately?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Do you remember what that Dendra O'Hur woman you saw was saying?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Something about circles," Prata says, clicking her mandibles. "Hmm."
+
+*Click-click.* "That's it," she says. "She kept talking about a hollow circle.  A red, hollow circle."
+
+She giggles. "I didn't know the Dendra O'Hur got drunk!"
+
+{SOUND: Mandibles click twice.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Hollow red circles," Prata says, shrugging. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"What did the Dendra O'Hur woman you saw in the market say again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"On second thought, I'll find my own way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Good for you! Nothing's as refreshing as a firm leap into the unknown!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"What part of the city should I see first?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"What part of the city should I see first again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"All of it! It doesn't matter what you see first, really, if you eventually see it all!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Are there any dangerous areas I should avoid?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"What dangerous areas should I avoid again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"None! There are rumors about the Underbelly, to be sure, but it's well worth the risk!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"The bird figurine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"The bird figurine again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"The music box."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"The music box again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"The circular spring."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"The circular spring again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Do you?" Tybir says, leaning over to look at her shrouded hands. "Snip heads off, I mean. You don't seem the type."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"I might be!" Prata says brightly. "I've never had to find out!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>He leans back out of snipping range with a fixed, polite smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Script Node 115</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"I'm looking for that woman you mentioned. Was her name Matkina? Do you remember where she went?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"I don't know anything else about her," she says, and though you can't see her face, you hear the frown. "I wish I could help you more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Well..." She points at Matkina. "It was her, actually. Tell me, did you ever get your artifact working again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>She gives you a sidelong glance, then says to the merchant, "I found what I was looking for, yes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Oh, I *am* glad to hear that. I felt so terrible when I was unable to help you."
+
+The merchant turns back to you pleased. "Is there anything else you wanted?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>::srrrl:: Oom sighs, tracing the ground with a small tendril. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>She scratches her hidden neck nervously with a sound like coarse stones grinding together. 
+
+"Or pets, maybe? Like your little friend there," she says, gesturing at Oom. "You wouldn't sell it, would you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Not sure I could even if I wanted to. It lives in my head."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"No, never."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"I might, if the price was right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Well, there you are," she says, relieved that an understanding has been reached.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"It does?" she says, her momentary discomfort utterly forgotten. "That's wonderful! Does it keep your lonelier thoughts company? Never mind. Don't answer. I want to write an exploratory poem about it later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Oom bats at your calf fondly, but otherwise holds its tongue. So to speak. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Oh," she says, mandibles working quietly. She clears her throat politely. "Well, I wouldn't. But if I'm ever looking to buy a new companion, I'll let you know."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

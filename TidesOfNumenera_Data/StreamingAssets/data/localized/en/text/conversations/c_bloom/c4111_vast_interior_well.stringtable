@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4111_vast_interior_well</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This pool is filled with yellowish 'water.' A wide area around the pool is wet, suggesting that people have been drinking the unpleasant fluid... and possibly bathing in it too.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Examine the water.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>A large reservoir of fluid lies just under the surface of this platform. You see nothing of interest in its depths. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Drink some of the water.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Description of the effects of the water. The idea is that drinking the water temporarily gives you a minor connection to the Bloom, which may affect some conversations.]
+
+{SCRIPT:  Apply the Bloomjuice fettle to the player.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Collect some of the water.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[You fill a flask with the water.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Step away from the pool.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Dive into the water.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Beneath the surface of the pool is a large reservoir of fluid. You can't see anything of interest in its depths.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[You dive into the well and swim down a healthy distance, looking for the source of the flash that you saw. Just as you spot it again, you realize your mistake as a monstrous creature latches onto your leg.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Attempt to swim away.]
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Let the creature carry you away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[You manage to break free of the creature and swim back to the surface.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[You fail to get away, and the creature drags you deep into the liquid-filled bowels of the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Your struggles drive the creature off but also manage to shake loose something of value. You quickly reach the surface, your unexpected prize in tow.]
+
+{SCRIPT:  Give the player something cool. Maybe a Bloom Pearl of some sort?}
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[The only thing worse than being drowned is being drowned and losing some money in the process. As you're forcefully carried through the murky depths, you brush rather harshly against a sharp outcropping, and see some of your shins spill out and quickly disappear behind you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[You briefly wonder how far the tunnels go before drowning.]
+
+{SCRIPT:  Player dies and respawns near Dracogen. Dying in this manner applies a fettle that makes it easier to deal with Inkpot and his cultists, who think you're blessed by the Bloom.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Look into the pool.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Look into the pool again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Again you raise the yellow fluid to your lips. It's clear that the effects of your last drink still haven't worn off, and imbibing more of the fluid is likely to make things even worse...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Drink the fluid anyway.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>You take another long drink of the yellow 'water.' The Bloom's voices grow louder still, drowning out your thoughts, chittering madly in your ears. The world blurs... you stumble and collapse to the ground, and everything goes dark...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Don't drink the fluid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>You dump the fluid back into the well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You take a sip of the yellowish 'water.' It has a greasy texture and a slightly sour taste, but it quenches your thirst. You take another sip...
+
+...and you start to hear whispers. They're faint at first, but they grow louder, resolving into the chittering voices of the Bloom. They buzz in your ears, scratching at the inside of your skull. You stumble, struggling to keep your balance. Even as your senses dull, the Bloom's voices seem *clearer* than before. 
+
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You hear countless whispers all around you, though none of them are localized near the pool. Most of them seem to be coming from elsewhere in the Bloom, but they 'echo' across this open space, chittering and hissing as if the Bloom is having a thousand different conversations with itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>You notice that the voices here are calmer and quieter than before, probably thanks to Ioxu's demise. Now you hear other whispers from elsewhere in the Bloom. They 'echo' across this open space, chittering and hissing as if the Bloom is having a thousand different conversations with itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>You're immediately aware that the voices here sound *angry*. Hundreds of them hiss and shriek in murderous rage, directing their ire toward the enflamed, fleshy dwelling on this platform. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>You take another sip of the yellowish 'water,' and again the voices of the Bloom fill your mind, dulling your thoughts and reflexes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Drink some of the fluid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Drink more of the fluid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Collect some of the fluid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>You find a small, discarded flask at the edge of the well and fill it with the yellowish fluid.
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The greasy, sour fluid tastes the same as the Bloom-water you drank in the Memovira's courtyard. As you sip it, you begin to hear the Bloom's whispers in your mind, while your thoughts and reflexes grow sluggish and dull.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

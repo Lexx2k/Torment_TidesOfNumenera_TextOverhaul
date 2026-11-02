@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3121_callistegesi</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>139</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText> Callistege traces the deep-set band of concentric circles with her fingertips, oblivious to the attention of her echoes.
+
+ "Such artistry," she whispers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"What does it say?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I'm not sure..." She frowns, continuing to trace the lines with her fingers as her sisters look on, each observing it from a slightly different angle. "At the center, here, there's what looks like the Ninth World. But these other images..." She falls silent.
+
+"Machines, nanobots, the datasphere. And if this image is correct... yes. Under the proper circumstances, I will be able to make a connection..."
+
+She trails off again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Let me see if I can decipher it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>She steps nimbly out of the way, ceding you access with easy grace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I can't understand it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Keep trying, dear! This is vital to our quest. I just know it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>(Lie) "I can't understand it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"We will prevail if we just continue, dear. Give it a little more time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"It doesn't matter. I have other questions for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Okay.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Forget it. Let's continue on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"What?" Callistege whirls to face you, her echoes copying the motion. "You can't mean to leave now! We've understood nothing!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>She gives you a look, but says nothing, stepping back only as far as necessary to allow you access to the wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Try to decipher the image.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Try again to decipher the image.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>As soon as you get a clear look at the image, everything falls into place. There, at the center, is the world, and surrounding it is a vast net of interconnected tines and towers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>You see the Ninth World at the center of the drawing, but the rest of the lines make no sense at all. Some are at right angles, some form loops, and some disappear entirely, only to show up elsewhere. It's a thoroughly confusing mess, and not one that it seems it will be easy to untangle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>You stare again at the image, but no new insights come to mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>It is a schematic, a structural drawing of some ancient vintage - towers, forks, circles, energy orbs, and more litter your vision. You focus on a fork more intently, and you recognize the leftmost tine as one of the many devices your sire had hidden away under Sagus Cliffs. In the image, however, it's surrounded by a series of sharp lines, one of which is bisecting an unrecognizable figure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>It is a schematic, a structural drawing of some ancient vintage - towers, forks, circles, energy orbs, and more litter your vision. You focus more intently. The leftmost tine of one fork is surrounded by a series of sharp lines, one of which is bisecting an unrecognizable figure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>By comparison, the towers are surrounded by concentric circles, in which the figures remain whole. The tips of the towers reach the third concentric ring around the world, while the tines only reach the first.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"It looks like... defenses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Callistege's eyes widen. She turns back to the drawing, tracing it with renewed vigor.
+
+"Of course! These taller structures pierce the third layer, whereas these small others..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"That's what we saw in your sire's lab," she says slowly, turning to look at you. "If your interpretation is correct, that numenera will not help me." She falls silent for several moments.
+
+{SCRPT: Conditional - PC took Callistege to the Buried Crossroads.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>She frowns. "I don't know how we're supposed to identify these in the world, but perhaps it is safe to assume that they are rendered faithfully, and we shall know them when we see them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"The question is when and where I will be *able* to make this connection. It implies a willing biological construct."
+
+And then she perks back up. "I am one step closer to understanding the datasphere, and you have progressed one step further than your sire ever came!" She nods in a self-satisfied way. "You should be proud, dear. You have just surpassed your creator."
+
+She releases her grip on you, and waves the image into nothingness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Now, let us move on!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"You're right. Let's keep trying."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"We can come back later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Perhaps there is nothing to understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"We're done here, Callistege. Don't question me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>She breathes a sigh of relief. "Thank you. Just a few more moments."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>She steps away from the wall, openly watching you. She turns on her heel and stalks away. She snarls over her shoulder as she goes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Very well." Callistege sweeps past you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I suppose my wishes can wait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Or perhaps you simply lack the insight to comprehend." She fixes you with a withering glare. "Say what you will in your defense. I see now that you will only ever be your sire's creation, and nothing more." She turns on her heel and stalks away.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Perhaps." She takes a step back, and then another.
+
+"What sad, vain hopes are these that so small a realization can undo them?" she says softly, then turns and walks away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I see how it is, castoff," she says stiffly. "I am only surprised it took me this long." With a withering glance, she turns on her heel and stalks away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Look!" Callistege brushes away the tattered remnants of a prayer flag, revealing an image engraved into the stone beneath. Names and other symbols have been carved over and around it, but none with as fine a precision or purpose as the original. Callistege traces the deep-set band of concentric circles with her fingertips, oblivious to the attention of her echoes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>The carved head and its beaded strings have not changed since your last inspection.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Her eyes alight on the eight concentric rings, and she hisses with delight.
+
+"I would like to uncover this thing's secrets." She runs idle fingers across the strings, producing a series of discordant notes that shiver a jagged, ugly rainbow into being. She frowns.
+
+"It must require tuning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>With Callistege's hand on your shoulder, the images snap into a clear focus. You see an intricate image, with flickering lights that seem to indicate data and measurements, projected into the air. You realize that these images and measurements project through realities, through dimensions, and you have a momentary glimpse into Callistege's everyday perspective. Probabilities coil around you, and it is only through the power of your shared mind that you can make sense of what you're seeing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Even with Callistege's multidimensional aid, the images are too strong, too intense for you to look on. Something in the quality of the light *burns* your eyes. You look away, eyes watering.
+
+"We must try again," she pleads. "I need your help! Focus!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>You try again, and struggle to see the images through the burning light, but you cannot hold your eyes on it before you tear up again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Intricate etchings cover this carved head, with the most prominent being eight concentric channels centered on the brow. A small porcelain bead in each channel is attached to loose metal strings of varying thickness. The strings run down into the bridge of the nose, and emerge from the open mouth at even intervals, reaching down to the floor.
+
+It reminds you of a large, stringed instrument - though you have no idea how to play it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I would like to uncover this thing's secrets." She runs idle fingers across the strings, producing a series of discordant notes that shiver a jagged, ugly rainbow into being.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"We must learn to play it appropriately. It will reveal its secrets to us then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"She leans in close, her hands hovering over the carvings, and her sisters surround it as well. One of them makes a decision and presses a button in her reality. All of the echoes stand back, communicating on some higher plane, and at last your version of Callistege turns to you.
+
+""It's an instrument,"" she announces proudly. ""These carvings tune it. If we can figure out the appropriate sequence, we can unlock its secrets."""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Examine the strings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Examine the beads.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Try to tune the strings by manipulating the beads.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Examine the strings again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Examine the beads again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>She sighs in frustration. "We need to resolve this. *I* do." She swallows. "I... I beg you to stay. Just a little longer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Just a bit longer, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Why? Why is this so important to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"We have other pressing business. We must go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Very well." Her face hardens, and her echoes are all studiously looking away from you. "I understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Your needs come first, after all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Thank you. This means a great deal to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>She sighs. "It is of great value to my interests. The secrets locked in this </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"We must learn to play it appropriately. It will reveal its secrets to us then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>She beams brilliantly. "No need to tinker with it any longer, my dear. We have what we need."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Examine the carvings and etchings on the head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Examine the head's carvings again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>These carvings were not made by human hands. They curl and flow in an alien script, and lights glimmer within them... staring at them induces a mental fog, the feeling that your mind is being pulled away into some astronomically distant maze. But when you blink, you snap back to reality.
+
+You feel nausea coming on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Again they bewitch you, drawing your mind away from your body, and again the spell is broken when you close your eyes.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Her eyes alight on the eight concentric rings, and she hisses with delight.
+
+"I would like to uncover this thing's secrets." She runs idle fingers across the strings, and she smiles as they produce the same unearthly sounds you heard before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Each bead is made of a different metal, machined in exquisite detail. A tiny indentation in the bead fastens on to the string - a beam of coherent light. A small bridge anchors the bead to a partner in the neighboring channel. The beads are loose in their channels, so if you push on one, the other moves in tandem.
+
+Closer examination reveals four slight declivities, in the shape of an X, in the channels. If you moved the beads into those spots, you might be able to lock the strings into place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>They are tiny, made of metal, and each bridges to another in a neighboring channel. They appear to tighten or loosen the strings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Each of the eight strings is fully transparent, of varying thickness, and is made of shimmering light, coherent but gentle. When you touch them, they make a terrible noise... as of shattering glass, crunching metal, and screaming, exotic animals.
+
+The head of each string is attached to a small bead in one of the eight concentric circles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>They are made of shimmering light, and they howl and crash when you touch them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Try to tune the strings properly again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Now that the strings have been tuned, they shimmer and glisten in the diffuse light of the tomb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Now that the strings have been tuned, they shimmer and glisten in the diffuse light of the tomb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>You slide the bead bridges into the deeper indentations and they *click* audibly into place. Each of the strings shifts slightly in the visible spectrum, and the jangling, terrible noise the strings produced has changed to a pleasant hum. Each of the eight strings is now in harmony with the others.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>You push the beads around their concentric channels, but you are unable to lock them into place. They slip back with a horrific crash.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>You're unable to manipulate the bead-bridges with any degree of skill, and they slip out of your fingers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Play something on the tuned instrument.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Play another melody on the tuned instrument.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>You stroke your hands across the strings, and lights appear above the instrument. A strange interplay of colors flickers, not quite in time with the tune you play, but while images *almost* resolve, none quite cohere. You develop a headache, and your mouth fills inexplicably with the taste of sand. 
+
+You stop playing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>The lights flicker and shine again, disjointed images flashing like ghosts across your eyes. Pictograms, numbers, letters in unknown languages - they all race by too quickly for you to understand, and the sounds from the strings carry some information that evokes fleeting memories and emotions.
+
+You stop again when the headache becomes too powerful to bear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"I believe I know a melody or two that we might play."
+
+She settles her fingers on the strings and concentrates. Several of her more solid echoes lean in to whisper, and she smiles and murmurs. She begins to strum.
+
+The sound is unearthly, crystalline. It shivers through your bones. After a few halting notes, Callistege has the sense of the instrument and plays a haunting melody in a minor key.
+
+{AUDIO: Something like a harp, only pitchshifted and modulated so that it sounds almost like windchimes}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>She lifts her hands from the strings and steps away from the instrument. Nothing happens. "How disa-" she begins.
+
+The strings harden completely, humming. Above them hovers a welter of confusing lights and images. You can't even look at it - some sort of spatial or temporal distortion blinds you.
+
+Then Callistege places a hand on your shoulder, and for a moment you see as she does. The image slides into focus along planes of realities. "Together," she whispers, "we will solve it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"We must decipher the images, and then we'll be able to move on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Her eyes alight on the eight concentric rings, and she hisses with delight.
+
+"I would like to uncover this thing's secrets." She runs idle fingers across the strings, producing a series of discordant notes that shiver a jagged, ugly rainbow into being. She frowns.
+
+"It must require tuning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Without Callistege's touch, the images do not cohere. They tear through realities and you are unable to make any sense of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Without Callistege, it's hopeless. The images are too dispersed through realities.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Try to decipher the image.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Try again to decipher the image.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"What do you see?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Do you have what you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Let's go, Callistege."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>She raises an eyebrow at you, whispers to her sisters, and they all stare intently at the image. Satisfied, they nod. She releases her grip on you, and you are instantly nauseated by the vision the instrument projects.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Whenever you're ready, dear. Thank you for the opportunity to examine this device."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"One more moment." She looks at the schematic, and she and her sisters commit it to memory. "Yes. We are finished here. Look away."
+
+You do, and she releases her grip on you. Your familiar, flat reality reasserts itself in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Her eyes widen. She turns back to the drawing, tracing it with renewed vigor.
+
+"Of course! These taller structures pierce the third layer, whereas these small others..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Callistege plays the same melody as before. The images flicker to life again, but not with the same intensity - as if the image's power was spent with your comprehension of its message.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Let us tune this device and uncover its secrets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"We must decipher the images, and then we'll be able to move on. Let us examine them, castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Are we ready to uncover the truths hidden here? Take my hand, and let us examine the image."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Thank you for the opportunity to explore this device again." She steps forward to the instrument. "Let us uncover its secrets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Callistege plays the same melody as before. The image remains, flickering through multiple realities, with a strength and intensity that hurts your psyche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>You stroke your hands across the strings, creating a discordant tune that is nothing like the melody Callistege played.
+
+The lights flicker and shine again, disjointed images flashing like ghosts across your eyes. Pictograms, numbers, letters in unknown languages - they all race by too quickly for you to understand, and the sounds from the strings carry some information that evokes fleeting memories and emotions.
+
+You stop again when the headache becomes too powerful to bear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>The carved head and its beaded strings have not changed since your last inspection.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>The carved head and its beaded strings have not changed since your last inspection.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"It needs to be tuned. Let's do so, hm?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"You have tuned it!" Her eyes sparkle with desire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"We must decipher these images," she says, eyes wide in fascination. "We'll do it together."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

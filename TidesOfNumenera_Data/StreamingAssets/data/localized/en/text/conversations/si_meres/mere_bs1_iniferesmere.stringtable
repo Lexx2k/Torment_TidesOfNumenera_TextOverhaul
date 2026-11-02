@@ -1,0 +1,1510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\si_meres\mere_bs1_iniferesmere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>213</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>In every direction, all is gray: a dreary sky above the calm sea on which you float. The air is wet and lukewarm like the water below. The only sound is the wind's susurrus, so faint as to raise no waves. Weightless and alone, you're not deprived of sensations, but *relieved* of them. 
+
+For a moment, you bask in something like rapture, a purely physical bliss that belongs to this body, not to you.
+ 
+Then, it's gone, replaced with a rush of terror and rage and violation. &lt;Go away!&gt; your mind screams at you. Without your will, *against* your will, your body convulses. You are no longer floating effortlessly. You are thrashing desperately, trying and not trying to drown.
+
+{ART: Just an empty gray screen. It can be marbled or something, but there's no sense burning a real illustration here unless we have resources down the line.}
+
+{SOUND: A looping whispering, maybe something along the line of the sound in LOTR where someone contemplated putting on the One Ring, but quieter - plausibly wind rather than a whisper. Loop continues till Node 10.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Try to relax.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Tread water to keep from going under.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Tell your mind, &lt;Stop fighting.&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>For a moment, you have control of your body and mind. You sink your claws deep, and no thrashing will shake you loose entirely.
+
+But thrash your body does, and so does your mind, as a wild shrieking echoes around you: &lt;Out! Out! You can't take this from me! You won't!&gt; It's Inifere! Only seized by a wild terror he never showed in the flesh.
+
+Your body - his body - the flesh that now houses you both - twists spastically in the water. Inifere doesn't seem to be *trying* to drown, but his panicked struggle against you leaves him unable to swim or float.
+
+Why is his mind still here? This never happened before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Your mind - the mind you are trying to make yours - gives no more heed to your command than would a blood-maddened dragolith. You're buffeted, battered by thoughts that are not merely nonverbal but almost subhuman.
+
+Then the voice returns and shrieks, &lt;You think I'll yield? Never! You can't take this from me! You won't!&gt; It's Inifere! Only seized by a wild terror the castoff never showed in the flesh.
+
+Your body twists spastically in the water. Inifere doesn't seem to be *trying* to drown, but his panicked struggle against you leaves him unable to swim or float.
+
+Why is his mind still here? This never happened before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You yield control of your body and try to recapture the peace of a moment ago, but the gesture is worthless. &lt;Out!&gt; the voice shrieks. &lt;You can't take this from me! You won't!&gt; 
+
+You recognize the voice now: it's Inifere's, only seized by a wild terror the castoff never showed in the flesh.
+ 
+Your body - his body - the flesh that now houses you both - twists spastically in the water. Inifere doesn't seem to be *trying* to drown, but his panicked struggle against you leaves him unable to swim or float.
+
+Why is his mind still here? This never happened before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Try as you might, you can't achieve anything like a proper rhythm: your arms and legs jerk spastically as another consciousness tries to move them at the same time.
+
+&lt;Out!&gt; the voice shrieks. &lt;You can't take this from me! You won't!&gt; You recognize the voice now: it's Inifere's, only seized by a wild terror the castoff never showed in the flesh.
+
+He doesn't seem to be trying to drown, but he is clearly unwilling, or unable, to let you keep your body - his body - the flesh that houses you both - afloat.
+
+Why is his mind still here? This never happened before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You slip underwater and discover you're not alone: dozens of corpses bob around you, some just a few feet from the surface, some in the darker depths. Among them is Choi Cai'sul.
+
+It's no longer quiet. What had seemed the whisper of a breeze was, in fact, the droning of the dead. Now, with the water's amplification, you can hear them distinctly. "Filth!" "Worthless slut!" "Traitor!" "Nobody!" "Monster!" some jeer. "Shame, shame," moans another. "Fraud!" one cries out, clear as truth. Choi just weeps.
+
+Inifere's consciousness seems overwhelmed by the tumult: your body's stopped flailing and is merely sinking. But his enervation affects you as well, and your limbs feel leaden and lifeless.
+
+{ART: Underwater.}
+
+{SOUND: The whispering should now be louder, and more clearly whispering - perhaps very much like in LOTR.  This loop continues until node 40.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Force yourself to swim upwards toward the surface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Force yourself to swim downwards - there's not going to be an easier opportunity to deal with Inifere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>&lt;Snap out of it! We're going to drown!&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Every stroke is a struggle. This body is weaker than the one you've grown used to. Inifere isn't resisting, but his will stands between your thoughts and your movements, dragging you down.
+ 
+You gulp piss-warm water instead of air. The harder you fight, the farther you sink. The light above fades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>The moment Inifere realizes what you're doing, he rouses himself and fights against you. This is a battle he cannot possibly win: he can turn your smooth strokes into spasms, he can clench your muscles, but he cannot change your body's density or make it float again.
+ 
+Driven by Inifere or perhaps its own reflexes, your body gulps for air, but swallows only piss-warm water. Inifere fights harder, but loses even more ground. The weak light of the world above is already fading.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>&lt;Quiet! Quiet! This is my place, you don't belong here!&gt;
+
+Inifere seems far less concerned with the fate of his body than with your invasion of his mind. With neither of you able to properly control your limbs, the laws of physics do their inevitable work on your flailing frame.
+
+Downward you go, as your lungs burn for the air they can't find. Driven by Inifere or perhaps its own reflexes, your body gulps for air, but swallows only piss-warm water.
+
+The weak light of the world above is already fading.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>As you sink deeper into the dismal sea, you can make out the shadow of something below the corpses. Something huge and ancient and awful, all teeth and hunger, which needs no words to convey how small and mean and meaningless you are. Loathing wells up, not from below, but from within. Your flesh and mind resonate with that overpowering will, and your body trembles.
+ 
+A single, massive eye opens, and in a glance assays your entire self. You realize for the first time that you are naked. You see your spindly limbs and sallow, pockmarked skin, your unsexed, withered, worthless body, and you are ashamed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>You're on a hard bed, beneath a coarse sheet. Voices again surround you, their words the same as the corpse-curses. "Slut," one chants in an endless mantra. Another mutters, "Shame, shame," punctuated by the slap of rawhide. But these aren't the voices from the dream - only echoes.
+
+Your eyes open, and you see as never before. Nothing's added or subtracted, but certain details take on new clarity: the mold blossoming from cracked plaster; the blemishes on the weary, raddled face of the woman at your bedside; the sores weeping on another attendant's arms. You're not just in Inifere's body - you're in his misery.
+ 
+"The Master has spoken! The Master has awoken!" the woman cries. 
+
+{ART: Bedroom}
+
+{SOUND: A gasp, heavy, masculine, not a gasp of surprise but more of a choking gasp, a bit wet, if that makes sense - like someone coming out of a nightmare or even a coma.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>She faces the others. "Let us give thanks." They kneel, and she turns back to you, eyes gleaming with the pleasure of power. "Master, thank you for redeeming us in our suffering, for revealing how, by receiving the world's cruelty, we may escape the world's bondage." Her humility is cheap and hollow, but the others are deaf to the hypocrisy. They murmur their thanks.
+
+&lt;Marcysa.&gt; Inifere sighs her name, and you're stabbed with his feelings for her - contempt and craving alloyed into something harder and sharper than love.
+
+So this is the woman who served as Ronos's guide. Something else nags at you, but before you can grasp it, Inifere realizes you're still in his mind, and howls &lt;OUT!&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Force your way into Inifere's memories of Marcysa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>&lt;Inifere, stop fighting me.&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Try to focus on the nagging sensation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>You plunge deeper into Inifere's mind, and remember that day when he first saw the fraud in Marcysa's eyes as she told the Children that the wretchedness of their lives had meaning - not just *some* meaning, but the *only* meaning that mattered.
+
+She said it as she always had, but he understood then that, like him, she knew that the only secret of suffering was that it had no secret, no purpose. 
+
+Like all Inifere's thoughts, this one is rotten - but it has rot's overpowering sweetness, too. For here was a certainty: however loathsome he might be, she was worse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>As you worm your way toward Inifere's memories of Marcysa, you are barred by the force of his will. &lt;Stay out!&gt; he howls.
+
+His mind guards her with desperate strength, like a tongue across rotten tooth: too painful to touch, too precious to lose.
+
+In the end, that is all you can get: disgust and need and the sense that she is integral to him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Wake up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Fight Inifere. Force yourself to wake up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Wait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Keep waiting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>&lt;Inifere?&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>&lt;Inifere, are you still there?&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>You try to will yourself awake, but Inifere clings to the darkness, its solace and solitude, and forces your flesh back into a slumber.
+
+So this is how it will be: a test of wills. But you are no novice to such struggles, and Inifere is no Kalaghat Anvor. In the end, even the Tabaht general could not stand against you. Inifere whimpers in the shadows of your mind - he cannot defy you either.
+
+{SCRIPT: If this node plays, ALL of the non-persuasion mental DTs in this Mere should be slightly easier.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>And then, everything's gone, and there is nothing but the liminal darkness between dream and reality, life and death, madness and reason.
+
+{ART: Just remove any image here. A black screen is fine.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Time passes, or doesn't. The darkness does not lighten, the silence does not lift. Inifere is out there - you can sense him, but only vaguely. Besides him, and you, there is nothing here at all. Even the dead are, for the moment, speechless.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Nothing changes. You are between moments, and Inifere's patience appears infinite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>You try to will yourself awake, but Inifere clings to the darkness, its solace and solitude, and forces your flesh back into slumber.
+
+So this is how it will be: a test of wills. But for all his resistance, Inifere's consciousness soon retreats into the darkness of your mind, whimpering, giving way. It seems he has little stomach for battle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>At first, there's no reply, but you know he's in here still, thwarted, sullen.
+
+In time, he answers. &lt;Who are you? You're not like the others. You're still awake. Scheming. Grasping. You feel different. Like *him.* How are you here? I've never tasted you.&gt; He pauses briefly in his demands, and you feel his consciousness brush against yours. &lt;Who *are* you?&gt;
+
+For all his frantic questioning, your brother is not yet the madman you met beyond the Gate. His mind may be cracked, but it is not shattered.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>You sense his seething consciousness lurking somewhere in your mind, but he gives no response.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>You try to will yourself awake, but Inifere clings to the darkness, its solace and solitude, and forces your flesh back into slumber.
+
+So this is how it will be: a test of wills. You are no novice to such struggles, but Inifere is no Kalaghat Anvor and his mind has none of the Tabaht's sharp edges or brutal order. This is a struggle you can win.
+
+{SCRIPT: If this node plays, all Intellect checks in the Mere are slightly harder.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>&lt;I'm a castoff, like you. I came here through a Merecaster. To help you.&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>&lt;How are *you* here? My consciousness should have replaced yours.&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>&lt;What were those things? The 'others' - those bodies and the creatures beneath?&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>&lt;No one helps me,&gt; Inifere snaps. &lt;I know what you do. *Family.* You'll use me. For the Gate. For your wars. No. I'm no tool. I don't have to listen to you, or the dead voices, or the dark ones' whispers.&gt;
+
+He pulls away and falls silent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Inifere hisses. &lt;I will never yield to you, or the dead voices, or the dark ones' whispers. I know how to fight you now. Gods help me, it is the only thing I know.&gt;
+
+He pulls away and falls silent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Inifere laughs. &lt;Weren't you paying attention? Dead men tell so many tales of torment, and Father made me listen with my mouth, fattened me on grief. Now they're in my flesh and blood.&gt;
+
+His thoughts rub across yours like oily feathers. &lt;As for the dark ones...&gt;
+
+He pulls away and falls silent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Say aloud: "Stop! There's no salvation in the Gate - you're only hurting yourselves and others."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Listen! I am telling you to stop worshipping me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Marcysa shoots you a look that is surely cagey, then addresses the Children. "The Master frees us from the fleshpots of certainty, the luxury of easy faith. He gives us doubt, and the anguish of the groping soul."
+
+"We doubt," the others answer, "we suffer."
+
+Marcysa nods sharply. "We doubt, but we do not stray. The Master rebukes us, and we receive the rebuke. The whip cracks, and the flesh rises to up to meet it."
+
+A cultist brings a crop down across his shoulders in response, crying out more in ecstasy than pain.
+
+"We thank you, Master, for the fire that burns, for the fire that lights the way. Help us to comprehend the wholeness of suffering, so that we may open the Gate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"We doubt," the cultists cry. "We suffer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>&lt;Never,&gt; he hisses. &lt;We will war for every thought in every second of your occupation until you leave me be.&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Get out of bed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Try again to get out of bed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>You try to rise, but Inifere is fighting you even in this simple act. Your limbs move disjointedly, as if you were some misborn freak controlled by two heads. Your weight shifts. Your body falls back to the hard bed.
+
+The cultists stare at you with passionate but incurious eyes. That their Master should be beset by seizures is holy... but wholly unremarkable as well. One tries imitating your awkward gestures but the charade is unsatisfying, and he returns to scoring his arms with filthy nails.
+
+Marcysa places her hand on your twitching shoulder. "The flesh suffers, and the Gate draws nearer."
+
+{SOUND [B]: A thud of falling back into a hard bed.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>You make no more progress than you did the last time, and even less of an impression on the Children.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>You try to shut out the room around you, the litanies chanted by the cultists, the sharp sounds of pain being inflicted and received.
+
+As the outside world fades, an inner one rises up: the same accusations from the dream resound inside you - not spoken, but *understood,* a drone of humiliation and loathing and disgust that drowns out other thoughts and feelings.
+
+Still, there is something more. Not the dead. Not Inifere. Not you. Something like a little chime, ringing inside your eye.
+
+&lt;The ward!&gt; cries Inifere. &lt;He's here!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Inifere leaps from the bed, fully in control of your shared body. The sheer force of his exuberance sends your thoughts reeling. As adrenaline floods his flesh, you turn giddy, but it only seems to sharpen his thoughts.
+
+"Now, Children, we are to be tested." His voice is greased with unpracticed insincerity, but the others cry out in joy. "Now comes one who would steal the keys to the Gate and twist the rising path of suffering into a downward spiral."
+
+You cross the room in long, quick strides. "But we are not unready. Let us meet him in the Gallery."
+
+{SOUND: Inifere jumping out of bed.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Rough-hewn stairs lead to an enormous room, more cavern than hall, that ends in wooden gates. 
+
+The chiming of the wards is louder, faster. The chatter of the dead is incessant. But more than anything you feel the weight of Inifere's will, and the bloody purpose to which it is put. All these years, he has expected your father's return. His mind repeats over and over, &lt;Not helpless, not again, not helpless, not again.&gt;
+
+You know what he knows: that under the floor there are numenera, that hidden in cracks and crevices are cyphers. You see what he sees: the faithful girding themselves for battle.
+
+This is not a homecoming. It is an ambush.
+
+{ART: The Gallery}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>&lt;Inifere, listen to me: I want to talk to our father.&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>&lt;Why is he here?&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>&lt;What exactly are you planning to do?&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>&lt;No,&gt; Inifere decrees. &lt;I have traced his thoughts from the scars in my mind. I have heard his words from dead lips. He has no more to teach.&gt;
+
+Inifere nods to Marcysa, who hands him a barbed spear graven with strange geometric glyphs. He dips it in his flesh and wets its tip with blood. Your blood. His blood. &lt;Let him taste what I have lived,&gt; Inifere whispers, more to himself than to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Suddenly, the gates shatter inward. Before the splintered wood and twisted iron even hit the floor, the Children have fallen to their knees, sobbing, clutching their ears, helpless.
+
+It is not your father who has come.
+
+Floating in the breach, wreathed in smoke, is the Sorrow. For the moment, it makes no move, though it gives no hint as to why.
+
+&lt;It's not him,&gt; Inifere whispers, and though he still stands, he is as paralyzed as his followers.
+
+Marcysa acts first, pushing herself to her feet and shrieking commands. "Receive the horror, embrace it! Stand! Guard the Master! Obey the Master!"
+
+The others rise uncertainly, while the Sorrow abides. Inifere remains stupefied.
+
+{ART: The Sorrow in the Gallery}
+
+{SOUND: Explosion of a wooden gate, followed by whatever noise the Sorrow makes in game, I assume it has some kind of floating sound or something. If it has such a sound, it could probably loop if that works, until node 114 or 139.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>&lt;He wouldn't throw away a tool he worked so hard to make,&gt; Inifere answers. &lt;I knew he'd come.&gt; His thoughts harden, his voice grates. &lt;But I won't be used!&gt;
+
+Inifere nods to Marcysa, who hands him a barbed spear graven with strange geometric glyphs. He dips the point in his flesh and wets it with blood. Your blood. His blood. &lt;Soon he'll see that tools can cut their builder's hand,&gt; Inifere whispers, more to himself than to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Inifere nods to Marcysa, who hands him a barbed spear graven with strange geometric glyphs. He dips it in his flesh and wets its tip with blood. Your blood. His blood. 
+
+&lt;I mean to let him taste what I have lived,&gt; Inifere whispers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>&lt;Inifere, listen to me. This thing, it's called the Sorrow. It will kill you all if you don't act!&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Attack, Children!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Flee.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Throw your spear at the Sorrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>In your mind, Inifere snorts with contempt - for you, for them, for the world. &lt;You think I haven't tried to save them from this foolishness? They can't escape their madness any more than I can escape them. I am a prophet who cannot be falsified.&gt;
+
+He recedes once more into sulking silence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText> Our father is here!&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText> My father is here!&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Kill Marcysa, and put an end to this cult.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Inifere crushes the thought before it even fully forms. &lt;Never!&gt;
+
+His panic and terror fill your body, take hold of your mind. &lt;Do you think that would stop them? No, no, no. It would *teach* them, teach them the ecstasy of killing, a new secret of suffering, the rack of a murderer's guilty conscience, a way to proselytize with the blade.&gt;
+
+His mind grabs yours and almost seems to shake. &lt;And then you'll go. Like *he* left. And all around me, in my name, the reek of offal and slaughter I cannot stop.&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>He's wrong. She must die for the greater good. Force your body to act.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>&lt;Your cult will turn to killing anyway. I've seen it.&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Let it go.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Inifere's will here is as firm as it is anywhere, and will not bend. She will not die. His need for her, sharp and desperate, goads his mind into battle, and he keeps his body pinned to the bed until your murderous thoughts fade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>You feel Inifere probing at your mind, testing the truth of what you've said.
+
+At last, an inarticulate howl echoes inside you, and he groans, &lt;Uglier and uglier, until the sun swells and swallows our crimes.&gt; Before he slips away, he adds, &lt;But still, she shall not die.&gt;
+
+His will is nowhere firmer than it is here, and it will not yield.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>As thoughts of murder recede from your mind, Inifere's hold loosens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>With that one look, Inifere understood that Marcysa had come to the same end as him - miserable among the miserable - not by fate or misfortune or fault of birth, but by choice. She came to grub for the shabbiest of vanities: not even to be first among the least, but to be *second*. 
+ 
+So when the dead voices whipped up waves to drown him in self-hate, Inifere knew he could always cling to the fact of her shameless grasping after shame, and keep from sinking into oblivion.
+ 
+The memory slips away, and you are back in the bedroom, seeing Marcysa all the more clearly through Inifere's eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>You force your will on Inifere's body, which sits up in bed, its sinews tensing. But Inifere fights back desperately, despairingly, summoning up all the reserves of his will simply to hold this line: she will not die.
+
+At last, his primal howl resounds within you, and his body collapses back onto the bed. His mind, battle-weary and weakened, drifts away.
+
+For all Inifere may be able to fend you off this particular path, you sense that your control over his body has grown stronger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>The Sorrow remains unmoving within the breach in the gateway. It makes no gesture, issues no demands. It is waiting for something, or looking for something, or pondering. There is no way to judge what passes within its mind, if it even has more than mere instinct.
+
+You feel the Tides washing around you, stirred up by the Sorrow's arrival, but here in Inifere's body, in his mind, you have no means to turn them to your advantage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>The smoke around the Sorrow churns and its alien gaze sweeps across the room with a predator's contempt for kine but without a predator's hunger. Its patience, like its resolve, is inexhaustible and almost indifferent.
+
+The Children cower as its gaze passes over them, and some cry out, "Master, save us!" But Inifere is gone, hidden somewhere in the recesses of your mind, as indifferent to their terror as he was to their praise.
+
+{SOUND [B]: Whimpering from the Children (who are adults, not kids).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>The Sorrow sweeps forward into the hallway, moving so fast you can hardly track it. It swaddles one of the Children in its shifting limbs, and when it releases him, he is simply snuffed out. Not dead, but gone.
+
+The Sorrow pauses above its kill and seems to read the room again, seeking without finding, but implacable as ever.
+
+{SOUND: Sorrow moving and then snuffing someone out. I have no idea what noises it makes in game but obv. these should be drawn from the same aural palette.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>As the Sorrow begins to stir again, Marcysa grabs you by the shoulder, her nails drawing blood. "Enough," she hisses. She pulls you back, and you find yourself following - she's pulled Inifere back, too, it seems.
+
+As you retreat, Marcysa cries out, "Stand! Rise upon the pain!" The slaughter that ensues behind you is strangely silent: shuffling steps, half-hearted battle cries, smothered deaths.
+
+Marcysa hurries you through a warren of tunnels until you pass through another gate, this one made not of wood and iron, but of solid azure steel. As you pass through, the vault seals shut behind you.
+
+{SOUND: Sorrow moving, racing footsteps, after a pause, a sound of a heavy metal vault door closing and locking.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>&lt;No,&gt; Inifere decrees. &lt;I have traced his thoughts from the scars in my mind. I have heard his words from dead lips. He has no more to teach.&gt;
+
+Inifere nods to Marcysa, who hands him a barbed spear graven with Tabaht glyphs. They speak of dust and ash and oblivion. He dips the point in his flesh and wets it with blood. Your blood. His blood. &lt;Let him taste what I have lived,&gt; Inifere whispers, more to himself than to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>&lt;He wouldn't throw away a tool he worked so hard to make,&gt; Inifere answers. &lt;I knew he'd come.&gt; His thoughts harden, his voice grates. &lt;But I won't be used!&gt;
+
+
+Inifere nods to Marcysa, who hands him a barbed spear graven with Tabaht glyphs. They speak of dust and ash and oblivion. He dips the point in his flesh and wets it with blood. Your blood. His blood. &lt;Soon he'll see that tools can cut their builder's hand,&gt; Inifere whispers, more to himself than to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Inifere nods to Marcysa, who hands him a barbed spear graven with Tabaht glyphs. They speak of dust and ash and oblivion. He dips the point in his flesh and wets it with blood. Your blood. His blood. 
+
+&lt;I mean to let him taste what I have lived,&gt; Inifere whispers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>&lt;Inifere, you need to spring the traps.&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>&lt;Please, spring the traps!&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>For a moment, Inifere gives no reply. Then, his voice choked and shrill with terror, he says simply, &lt;Run. Hide. We must escape.&gt;
+
+We.
+
+A form of progress, in the face of annihilation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Force Inifere to spring the traps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>You fling the spear with all the strength Inifere's muscles can muster - which is not much, not compared to the body you left behind.
+
+The weapon is surprisingly light, a masterpiece of the killing arts. It soars toward your foe as if steered and propelled by some internal mechanism. The glyphs glow.
+
+It gets within a foot of the Sorrow before a wisp of smoke touches it, and the spear disintegrates into a cloud of drit. A moment later, the tiny shards drop to the floor. The Sorrow is not merely unharmed, but unfazed.
+
+{SOUND: A spear being thrown, then the sound of sand falling.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Goaded by your cry and Marcysa's words, a few ill-armed Children stumble forward. It's obvious that they know far more about receiving pain than inflicting it.
+
+The Sorrow gives no indication that it even notices their approach until one woman howls and rushes at it, brandishing a cudgel. The Sorrow swivels its head toward her, and in an instant, something invisible seizes her and hoists her into the air.
+
+The Tides. You can feel them.
+
+Then, the woman is gone, reduced to scattered limbs and smeared entrails. "In suffering, transcendence!" cries Marcysa, though she herself does not attack. The other attackers give feeble cries and stumble forward. 
+
+Then, they too are gone.
+
+{SOUND: Slow, shuffling footsteps, a howl, running sound, then the a fleshbursting sound, followed by multiple bursting sounds.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Your words - your thoughts - make their way to the dark corner of your mind where Inifere has hidden. You feel him stir, numb and mute. A piece of knowledge unfolds: how to trip the traps rigging the hall. It takes no more than a whisper.
+
+"Rebirth."
+
+The room explodes with light and sound. Prismatic beams blast from machicolations, synth nets spring from corners, projectiles pepper the Sorrow, energy fields encase it.
+
+After the fireworks come stillness and silence. The Sorrow is unharmed. If anything, it is stronger. Wings unfurl, arms stretch. Fields shatter, nets sunder, and myriad darts fall free from its body.
+
+&lt;Worthless,&gt; a dead voice whispers. &lt;Vain idiot.&gt;
+
+{SOUND: Traps springing: these include projectiles firing (perhaps with a blow-gun type sound), nets falling, lasers blasting, energy fields opening, etc. Then a shattering sound. Then dead voices whispering.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Your request echoes in your mind, unanswered. You know Inifere is here somewhere, but you cannot find his cowering consciousness, and he seems unwilling to help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Inifere gives no response.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Study the Sorrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>You dredge your mind until you find Inifere's consciousness, and then you will him to do your bidding, to trip the traps rigging the hall. 
+
+It takes no more than a whisper. "Rebirth."
+
+The room explodes with light and sound. Prismatic beams blast from machicolations, synth nets spring from corners, projectiles pepper the Sorrow, energy fields encase it.
+
+After the fireworks come stillness and silence. The Sorrow is unharmed. If anything, stronger. Wings unfurl, arms stretch. The fields shatter, the nets sunder, and myriad darts fall free from its body.
+
+&lt;Worthless,&gt; a dead voice whispers. &lt;Vain idiot.&gt; Inifere, heeding the words and freed from your grip, scuttles away.
+
+{SOUND: Traps springing: these include projectiles firing (perhaps with a blow-gun type sound), nets falling, lasers blasting, energy fields opening, etc. Then a shattering sound. Then dead voices whispering.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>You dredge your mind until you find Inifere's consciousness, but he wrenches away as you try to catch hold of him.
+
+&lt;Hide, hide, hide,&gt; he repeats, scuttling away into some dark, unthinking corner.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>It defies scrutiny. You're certain you've faced it before, but its texture and even anatomy seem altered - and keep changing before your eyes. 
+
+But exactly *how* it is changing, you cannot say, just as you cannot manage to wrap your mind around its contours. The more you look at it, the more your head aches.
+
+No. Not your head. Something else, something more fundamental: whatever it is inside you that calls the Tides and answers them. That is where the pain is.
+
+At last, you break your gaze, unable to maintain it any longer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>As you turn to flee, the Sorrow stirs from its stupor. Marcysa grabs you by the shoulder, her nails drawing blood. "Hurry," she hisses. She yanks your hand, and you find yourself following - she's pulled Inifere back, too, it seems.
+
+As you retreat, Marcysa cries out, "Stand! Rise upon the pain!" The slaughter that ensues behind you is strangely silent: shuffling steps, half-hearted battle cries, smothered deaths.
+
+Marcysa hurries you through a warren of tunnels until you pass through another gate, this one made not of wood and iron, but of solid azure steel. As you pass through, the vault seals shut behind you.
+
+{SOUND: Sorrow moving, racing footsteps, after a pause, a sound of a heavy metal vault door closing and locking.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>The room has the faded opulence of a lost civilization. The ornate reliefs carved from the granite walls have crumbled and eroded to abstract deformities. Ancient, flickering lights line the ceiling. Their humming resonates with the metal floor, and their bluish light illuminates the tarnish.
+
+In the center of the room, a silver throne rests on a dais. Unlike the floor, the throne shines as if recently polished. Tiny, gleaming needles line the armrests and a halo-like ring hangs above the back.
+
+Marcysa is doubled over, gasping for breath, retching. Your own body, weak as it may be, is untroubled. Inifere's gone, again, yet something lingers, like spores from his mind infecting yours.
+
+{ART: The Throneroom.}
+
+{SOUND [B]: Annoying fluorescent hum.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Marcysa rises to her feet, a bit unsteadily. She examines both you and herself, as if searching for physical evidence of the peril you've escaped. She finds none: the Sorrow's violence fell upon others, who remain at its mercy beyond the vault door.
+
+"Master, tell me how I may serve, what I may endure, in your cause." Hidden though Inifere may be, his contempt at this continued fraud burns in your gut like acid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>There is a new sound - almost masked by the humming of the ancient lights. It's coming from the vault door.
+
+It seems the Sorrow has made its way through the Children. &lt;Coward,&gt; hisses a ghostly voice. &lt;Shame!&gt; But they are not the ones calling to Inifere now; it is the temptation of the Gate, the promise that he will outlast another day.
+
+{SOUND: A deep vibration sound.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>A huge white blister forms on the vault door, then another. The ancient barrier takes on the look of a leper's face.
+
+More surprising than its yielding to the Sorrow is that it holds at all. Despite its disfigurement, there is no sign of structural failure yet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Examine the throne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"How does the throne work?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"What *is* this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Enough with the charade, Marcysa. I know you don't believe in any of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>As you study it, a memory bubbles up and bursts into your consciousness.
+
+Inifere sits motionless on the throne. Marcysa adjusts dials on its back. The Children gather around, like suppliants seeking an audience.
+
+"Now," Marcysa intones. "Be one with the Master."
+
+Inifere has only an instant to ponder how he has consented to this abomination before the vastening overtakes him. The Children wail, writhe, soil themselves, vomit. One staggers to her feet and drags a dagger across her throat. Another gouges out his eyes.
+
+They're hearing the voices, feeling the loathing that has festered inside Inifere. It's more than mortals can bear. It's sublime.
+
+His memory ends. His shame lingers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>&lt;Inifere?&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>He doesn't answer your call, but you hear him whispering to himself, or perhaps to the dead souls who haunt his mind. &lt;The Gate,&gt; he says, over and over again.
+
+Eventually, thoughts rise up from the ferment of his terror, and you understand how he opens the Endless Gate. It's not a Tidal Surge, not even some castoff power. It's simply a matter of turning inward and embracing the horror inside him. He doesn't even open the Gate himself: the creatures beyond do. He only needs his suffering to shine like a beacon across the planes, and they worm their way to him.
+
+And now you know how to kindle that flame.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Now the door has become mottled. Its alloyed ancient elements are separating. A lattice of hairline cracks appears, and you hear a low moaning, as of a beast that has endured too much punishment.
+
+The dead voices cackle about vanity and futility and how all that you touch turns to skist. And the others give their own message, the comfort of a familiar whip and the promise you won't perish.
+
+{SOUND: A groaning sound of fatiguing metal, like as the Titanic was breaking apart or whatever. Overlay the dead whispering sounds.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>It is coming now. There is a stillness in the air, the prickle of a storm about to burst. The Tides are being stirred.
+
+Marcysa feels it too. She stops her pacing and stares at the vault door, at the widening, hissing cracks. Inifere feels it and twitches free from his stupor. Terror has put its spurs to him, and those beyond the Gate offer a lump of salt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Open the Gate and escape: your survival - Inifere's survival - is paramount.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Sit on the throne and face the Sorrow in a final ambush: you can learn more about your enemy, and Inifere can redeem himself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Open the vault door and face the Sorrow: Inifere has suffered enough, and you can learn what your foe does to castoffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>A lethargy takes you as you move toward the door, a resistance from Inifere that is neither love of life nor fear of death.
+
+He's borne too much for too long: surviving is now its own end, no matter the cost. Indeed, it is the cost already paid that makes the persistence of his self too dear to squander. The time to die was the day he was born. Having endured all the days that passed, he may as well endure the days to come. This force - more undeath than life - is not the product of reason or even instinct; it is the stubborn defiance of a child who will bear the beating but not yield to correction.
+
+You cannot lead him to the door. You cannot bring him across the threshold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>&lt;Think, Inifere. The only escape from your suffering lies through that door. Beyond the Gate is just more pain. Forever.&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Force him to open the door.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Find another way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>You yield before Inifere's insistence, and you feel his consciousness recede once more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Inifere fights you mightily, and his body lurches and flails like a misused marionette. But in the end, you are the one who holds the strings, and you force him ever closer to toward the vault door.
+
+"What are you doing?" Marcysa asks sharply, but you can't answer: it's trouble enough to force Inifere's fingers into the small motions of opening the locks.
+
+The door swings open. Beyond it floats your foe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>In the end, it's as simple as the law of inertia: for you to prevail, you must move the body, while Inifere need only keep it at rest. He takes a static defense, and it is enough: you cannot advance even an inch toward the door.
+
+Whatever Marcysa thinks of the palsy that plays through your muscles, she says nothing. Perhaps Inifere's broken body is given to such shudders even without the interference of your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>&lt;An end,&gt; Inifere whispers.
+
+The men and women whose woe festers in his flesh mock him. &lt;Coward!&gt; they cry. &lt;Weak! Weak! Weak!&gt; He cannot ignore them. He can only listen to their tirade as he slumps his way toward the vault door.
+
+"What are you doing?" Marcysa shouts at him. He turns. Notes the thick spittle caking at the corner of her lips, the wild terror in her eyes. Smiles slightly. Nods.
+
+He needs your help to walk the last few steps: his strength, his will, is faltering. But he opens the locks himself.
+
+The door swings open. Beyond it waits Inifere's end.
+
+{SOUND: Vault door opening.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>&lt;You want me to die. You want to destroy me because it will help you. But I won't. I'll live. I won't be wiped away. I'll hurt and I'll live like I always have until the day I find our father. I'll live even if I spend a century beyond the Gate.&gt;
+
+Battered though his mind may be, it is still strong enough to hold its ground on this.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>The Sorrow shows no surprise, no respect for your audacity. Nothing at all shows on its face, which stays fixed as its body shifts and twists.
+
+In your mind, Inifere whimpers wordlessly. His courage, if he ever had it, has failed at the edge of oblivion. But he doesn't try to run or to open the Gate. Death's coils have him too tight.
+
+The hairs on your arms rise and pressure builds in your eardrums. Your bowels open. Dead voices shriek their worst but their curses are lost in the roaring of Tides.
+
+The Sorrow cocks its head. Turns a hand. Marcysa is screaming - nothing but a whisper on the wind. There's no pain. You're neither hot nor cold. Neither here nor there. You are simply... gone.
+
+{SOUND: Sorrow snuffing Inifere out.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>As you step toward the throne, you involuntarily recoil in revulsion. Inifere has returned.
+
+&lt;Never again,&gt; Inifere hisses. Something wells up beyond what was in his memory: a sense that to sit upon the throne is to carry the Dendra O'Hur perversion a step further, spreading one's own pollution into the world. And even more than that is the fear of losing control, that once the floodgates of suffering are opened, there will be no closing them again, no more quiet floating above the agony inside him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>&lt;*This* is the reason for your suffering, Inifere: it's a weapon to wield against our common foe.&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Force him to take the throne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Respect his refusal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Inifere gives no answer, and you sense no agreement from him, no courageous stirring to stand against the Sorrow. Just confusion and a sense of resignation, that it is easier to trust in your purposes than to form purposes of his own.
+
+He lets you walk his body, yours now, to the throne and take a seat upon it. The needles prick your arms far more painfully than they should, and they hold you in place with myriad tiny barbs. But the pain passes, and when it does, you nod to Marcysa.
+
+She takes her position behind the throne and reaches for the knobs. As she does, the vault doors burst open, and the Sorrow enters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>&lt;No,&gt; Inifere answers. &lt;I am not a tool. Not his. Not yours.&gt;
+
+His will wells up, and in the end it is yours that yields.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Every step toward the throne is a struggle against something stronger than the will to survive: you are fighting Inifere's need to preserve his *self.*
+
+But he is fighting a losing battle. Your will is stronger than his, and the Merecaster is forcing your consciousness upon his body. Meter by meter, you approach, until at last you fling yourself onto the silver seat.
+
+The needles prick your arms far more painfully than they should, and they hold you in place with myriad tiny barbs. But the pain passes, and when it does, you nod to Marcysa.
+
+She takes her position behind the throne and reaches for the knobs. As she does, the vault doors burst open, and the Sorrow enters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Try as you might, you can't force your body to take a step toward the throne. Inifere's consciousness is a silent, unbreakable shackle. He gives no reasons, but gives no ground, and in the end it is you who yields.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>You will not make Inifere suffer the throne again, and as he feels your decision has been made, he withdraws once more into the recesses of your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>As the Sorrow pauses, you hear the click of turning knobs and feel the obscene swelling of your thoughts.
+
+Every door in the columbarium of Inifere's mind swings open; the shame and anguish and loathing interred within stir to life. The torment does not leave Inifere, but merely spreads outward like rancid oil on water, lapping in ever larger waves as Marcysa raises the throne's power.
+
+The Sorrow senses the attack. Its form shifts, as if to make a shield against Inifere's woes. It rushes across the room toward you, so fast, but too slow, slow enough to absorb a long lifetime of suffering.
+
+An alien shriek fills the room, or your mind, or both.
+
+And then the Sorrow is gone.
+
+{SOUND: I'm not sure exactly what it should be, but basically an unpleasant sound rising in volume and intensity, then an "alien shriek" and silence.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Inifere's mind abounds with pain, and you grab a memory at random to begin the ritual. An old one. Not yours or even his. It's your father's.
+
+You're kneeling on dirt, mouth seeping with the need to vomit, stomach swollen like a broodmare's. Your body wants to rebel, but it lacks its Chila and it remains your slave. Soon you'll set it free, but not yet. You raise the hunk of human flesh and eat more, savoring the suffering that runs like blood from the meat.
+
+One memory triggers another. Disgust catalyzes disgust. The dead souls suffusing your body raise a chorus of scorn and self-loathing. Their shames are yours, Inifere's. Revulsion becomes physical agony.
+
+Agony becomes a beacon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Before the Sorrow can breach the vault, the Gate opens. Beyond it is pain and those who delight in pain. Inifere's thoughts stir, his heart swells, and you feel in your flesh the relief of a homecoming.
+
+It's Inifere who steps through the Gate, not you. Marcysa follows, but she was never made for such a place, not in body, not in mind. She doesn't last long, though the horror in her eyes seems to stretch that short span to an eternity.
+
+Outside the Gate, the Sorrow floats impotently. It cannot, or will not, cross the threshold. It goes.
+
+And then the pain comes, a great wave that washes all else away, and you're drowning in it, until at last your mind can bear no more...
+
+{SOUND: The Gate opening.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>The door bursts, the Sorrow enters, the Gate opens: flaming, fetid, familiar. Beyond is pain and those who delight in pain.
+
+As the Sorrow ponders this irruption, Inifere runs toward the Gate. Closer. Closer. You smell the sulfur. But the Sorrow has your scent now and moves like the wind. Too fast.
+
+"No!" cries Marcysa, diving between you and the Sorrow. She slows it for only an instant before it turns her to a red mist. It's enough. Inifere crosses over.
+
+Behind you, the Sorrow floats impotently. It cannot, or will not, cross the threshold. It goes.
+
+Then the pain comes, a great wave that washes all else away, and you're drowning in it, and at last your mind can bear no more...
+
+{SOUND: Door shattering, gate opening.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Just wait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>You slump down on the edge of the dais. Or perhaps Inifere does so. Marcysa starts to speak, but stops.
+
+Time slows. The Tides seem to turn back upon themselves in a vortex from which no will can escape. Inifere is silent. The dead are cowed by the death drawing nearer. Only those beyond the Gate are untouched, and their sibilant whispers continue unabated.
+
+As the cracks in the door widen and whole hunks of metal fall free, Inifere stands. He is the one who acts this time. &lt;No,&gt; he says. Then, &lt;Yes.&gt;
+
+Inside your mind, his consciousness careens from one sickening memory to the next. His thoughts are a torrent of pain and disgust.
+
+He is kindling a signal, calling for the Gate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Marcysa frowns. "Master...?" she begins, before trailing off. She stares intently, perhaps reading Inifere as easily as he read her.
+
+Eventually, she shakes her head. "You're wrong. There *is* something I've believed in, all this time. If I could help you find some good in all your suffering - prove that it gave hope to others, meaning to others - if I could lighten your burden even a gram, then..." She shakes her head again.
+
+"We've *all* suffered, Inifere. There must be something good born from it, even if only a noble lie."
+
+Inifere's jaded senses can find no falsehood in her, and you feel him sink even further into despair as he realizes Marcysa is not the hypocrite he believed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Marcysa gives you an odd look, as if you should know the answer, as if it is madness to ask a tourist's question while death itself roams the halls. But she replies all the same.
+
+"This is the sanctum sanctorum, where sibyls shared their lucid dreams with princes and peasants and popes." She smiles faintly. "You wanted a place where you could be alone. I gave it to you."
+
+You remember - Inifere remembers - the day you came to this retreat, more fortress than temple, hacked from granite hills. Not alone. The Children trailing you like chicks. But inside, the promise of solitude.
+
+A false promise, like all the ones life makes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Marcysa shrugs. "It's a mystery. When you sat upon it, we shared in the ecstasy of your suffering. When the sibyls sat upon it, they shared their dreams. Only the Harefi who assembled it for them could say how it works, and he has long since turned to dust. I know only enough to activate and amplify the device."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"You've been a good servant, Marcysa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"We can't escape suffering with lies, Marcysa, only with understanding."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"For the sake of one, you've hurt dozens. And the only thing you made from suffering was more of it, and a heavier burden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>She cocks her head and eyes you suspiciously, as if you've heard nothing she said, as if you've said something she's never heard.
+
+In the end, she gives no reply beyond a small nod of neither satisfaction nor agreement, simply an acknowledgment that there's nothing more to be said.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Marcysa shakes her head. "No," she answers. "The more I understand of the world, the more I see to hate." Her sad, ugly face twists in a sad, ugly smile. "Sometimes, master, I'm afraid you've come to understand too much, and now you're alone in the dark truth. But thanks to that, you will shine all the brighter for the Children."
+
+But you know what Inifere's light draws, and his consciousness stirs and brings forth memories, vague and awful, of the creatures beyond the Gate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Marcysa is speechless. Her sagging face sags farther; the little light in her eyes fades; her shoulders slump.
+
+You feel a twinge of something from Inifere. Pleasure, maybe, or maybe just the comfort of being joined in despair.
+
+The thing beyond the vault doors, however, cannot be hurt with mere words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Say nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Marcysa seems unaffected by your silence, or accustomed enough to such slights to mask their impact well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Everything you've done was wasted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>As the Sorrow pauses in contemplation, Marcysa whispers in your ear: "I will eat your flesh and learn the secrets of the Gate. Then I will give our Children the faith they deserve."
+
+Bound to the throne, there's nothing you can do to her, or to the Sorrow.
+
+It wakes from its reverie, then crosses the room with a shriek and a swirl of smoke. You feel the Tides churn around it, and then around you, and then you feel pain - not in your body but in your essence, a pain that reaches beyond Inifere and through the Merecaster.
+
+You barely break free from Inifere's consciousness, leaving him to face his fate alone.
+
+{SOUND: Sorrow moving, then snuffing out Inifere.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>The vault door shatters, and the Sorrow enters. Simultaneously, the Gate opens: flaming, fetid, familiar.
+
+As the Sorrow pauses to ponder this strange irruption, Inifere runs toward the Gate. Closer. Closer. You smell the sulfur.
+
+Then you're falling, and there's pain, terrible pain, in your leg. In Marcysa's hand is a blowgun, in your knee, a barbed dart. The look on her face could mean many things.
+
+Inifere crawls, but by now the Sorrow has his scent. It crosses the room with a shriek. The Tides churn around it, then around you, and then there's only agony - not in Inifere's body but in your essence.
+
+It takes all your will to break free from Inifere. When you do, all goes dark.
+
+{SOUND: Metal shattering, the Gate opening, a then the sound of an arrow piercing flesh. Then the Sorrow moving, and Inifere being snuffed out.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Marcysa shakes her head. "No," she answers. "The more I understand of the world, the more I see to hate." Her sad, ugly face twists in a sad, ugly smile. "Sometimes, master, I'm afraid you've come to understand too much, and now you're alone in the dark truth. But thanks to that, you will shine all the brighter for the Children."
+
+For a moment, Inifere's consciousness stirs, and an image spills from his mind to yours: a lighthouse above a wild sea, its lamp drawing in desperate storm-tossed sailors, even as cyclopean monsters circle its base, waiting, hungering, exulting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>The throne's power fades, and you go limp. Inifere returns. He rips his arms from the throne. Flesh tears, and he bleeds heedlessly. He's searching for something, and then he finds it.
+
+Finds her.
+
+Marcysa lies crumpled behind the throne, her face a rictus of pain. Her eyes flick back and forth as if trying to look away from something too big to avoid. A sound comes from her. It's hardly human. She's hardly human. Just a lump of ugliness and agony.
+
+Inifere takes her in his arms, and he says aloud, "You can go," to you, or to her, but not to himself, because the last thing his mind shares with you is the certainty that he can't escape and the sound of a voice keening, &lt;Shame. Shame.&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>For the moment, the vault door still holds, though more blisters have risen and burst across its surface.
+
+It is only a matter of time before the Sorrow gains entry.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Force yourself to swim toward Choi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>&lt;I want to help you, the way Ronos Cai'sul tried.&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>&lt;Why was Choi Cai'sul among the dead?&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>&lt;Ronos Cai'sul?&gt; Inifere sounds incredulous. &lt;Do you know what came of his help? He lay gibbering on the floor, spitting obscenities till he bit off his own tongue. *They* touched him. The dark ones.&gt; He pauses. &lt;You can't help me. No one can. You can only hurt us both.&gt;
+
+He pulls away and falls silent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Inifere laughs bitterly. &lt;Father taught me to listen with my mouth, fattened me on grief. I learned to carry the weight of their woes in my flesh and blood.&gt; He pauses. &lt;I saved her the only way I knew.&gt;
+
+He pulls away and falls silent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>&lt;They're killers already. I saw what they did to Choi Cai'sul.&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>&lt;No,&gt; Inifere answers. &lt;Not *they*. *Him*. And I destroyed him with these hands.&gt; Your fingers flex into claws. &lt;*My* hands. I destroyed him and his crime. I undid his deed and ate his sin. And thus I blackened the light of his... inspiration.&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>&lt;Inifere, your mind's bleeding into mine. Can you use that to give me Choi's remains, before it's too late?&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>You know Inifere hears you. You feel him pondering, the weight of his thoughts shifting beside your own.
+
+At last, in a low hiss, he answers. &lt;You're a fool. If you want this burden, take it.&gt; 
+
+Then his mind stabs into yours, like a syringe, and the echo of Choi that survived inside him is now inside you. He withdraws, but she remains, and it is as if a pall has settled over your consciousness. Inifere seems about to speak, but in the end, he says nothing.
+
+In the recesses of your mind, you hear a faint weeping. Whatever your grief, this will surely be a better home for her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>&lt;No,&gt; Inifere answers. &lt;You are seeking a way into me, a way to cut deeper. No! I won't be fooled.&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>Force him to give her to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>&lt;The last thing I need is more of your mind. I want to set her free, and perhaps ease your burden.&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>Reach into his mind and take her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>You press your will down upon Inifere's consciousness, wrap him up in it, and squeeze until Choi oozes out like a drop of juice from a dried-up fruit. You lap her up.
+
+From Inifere comes nothing but rage, rage at his own impotence, rage at your theft. And from Choi comes the sound of faint weeping, echoing in the recesses of your mind.
+
+Whatever your grief, whatever hers, you will surely make for a better home than Inifere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>&lt;Liar!&gt; he snaps back. &lt;You're trying to trick me, I know it!&gt; You feel his anger and fear bristling around his consciousness like spines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>You press your will down upon Inifere's consciousness, wrap him up in it, and squeeze until Choi oozes out like a drop of juice from a dried-up fruit. You lap her up.
+
+From Inifere comes nothing but rage, rage at his own impotence, rage at your theft. And from Choi comes the sound of faint weeping, echoing in the recesses of your mind.
+
+Whatever your grief, whatever hers, you will surely make for a better home than Inifere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>You press your will down upon Inifere's consciousness, but he fights back defiantly. In the end, though you are weakened by the struggle, you manage to wear him down. You squeeze his mind until Choi oozes out like a drop of juice from a dried-up fruit. You lap her up.
+
+From Inifere comes nothing but rage, rage at his own impotence, rage at your theft. And from Choi comes the sound of faint weeping, echoing in the recesses of your mind.
+
+Whatever your grief, whatever hers, you will surely make for a better home than Inifere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>Let it go, and leave her in Inifere's mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>You pull your thoughts back from Inifere's, and as you do, you hear the faint sound of weeping.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>[DEBUG] End the Mere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Which ending would you like?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Inifere sacrifices himself to the Sorrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Inifere escapes into the Gate and Marcysa follows (and dies).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Inifere escapes into the Gate and Marcysa rescues him from the Sorrow at the last second (and dies).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>Marcysa betrays and kills Inifere (either on the throne or as he's trying to escape - doesn't matter).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Inifere drives off the Sorrow and Marcysa dies.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

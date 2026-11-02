@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4301_accelerator_dead</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A construct lies motionless and partly disassembled here, spiderlike legs splayed about it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The wreckage of the partially disassembled construct lies where you left it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Search the construct for anything useful. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>You search for a few minutes but find nothing of value. Scavengers must have long ago picked this construct clean.
+
+Absently, you lay your hand upon the metal shell to push yourself away from the wreck and feel a faint, intermittent vibration. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Inspect the construct.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Inspect the construct again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You study the remains of the construct, putting the details together, noticing scattered piles of refuse and burnt holes in the back of its armor. 
+
+The construct was likely cornered here and tried to flee up the mounds of trash rather than fight its tormenters. They attacked it from behind, and it fell, either dead or dying. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The massive construct died fleeing the beings that killed it. Countless small, charred wounds speckle its rear armor. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Then you notice something odd. Some of its wounds are partially repaired, as if someone has been visiting the dead construct and haphazardly patching over the burnt holes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Leave. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Reach into the hulk and find the source of the vibration you felt. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Reach into the hulk again to find the source of the vibration you felt. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Putting your shoulder up against one of the construct's vertical vents, you reach into the dark, probing carefully, following the vibrations rippling toward you.
+
+Straining, you walk your fingers up mesh-swaddled objects, across a cable to... a partially-crushed cube, strung with frayed wires.   </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>You reach into the construct's dark interior, touching various plates and devices. You feel the vibration, but you can't quite trace it to the source.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>A piece of knowledge clicks into place. This is - was - a creature known as an 'accelerator', a machine intelligence housed in a mechanical frame. Though they appear fearsome, the creatures are terrified of death and are always seeking new technology to incorporate into themselves in the hope of prolonging their lives. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>You recognize the cube as the construct's intelligence casing. It was catastrophically - and perhaps deliberately - damaged. The construct is well and truly dead.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>You listen to the soft clicking for a long while, until you realize you are making the sounds yourself, beneath your breath - speaking words of grief in a machine's tongue. 
+
+"I'm sorry. I forgot. Come back. Come back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Take the sphere and the module.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Watch the sphere at work. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Watch the sphere at work some more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You pull the communication module from the surface of the cube, and the sphere follows, shivering in the open air. 
+
+It turns, as if taking in the ruined hulk one last time. Then it settles into your open palm obediently, shuddering. 
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The sphere drifts around the inside the dead construct, occasionally halting to... yes, it's repairing damage, as if patching holes in the armor will bring its host back to life. 
+
+Every few moments, it returns to the broken cube and attempts to repair it again. When nothing happens, the sphere vibrates. And when *that* happens, you hear a soft series of whirring clicks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>It continues its circuit of the dead construct, trying to bring it back to life with minor repairs. Every time it fails, it breathes a series of soft, whispery clicks. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>You peer between the plates into the carcass's interior. Judging by the scratches, gouges, and broken components you see inside, someone purposefully jammed a blunt pole into the construct's innards in an attempt to crush its vital systems. Whether this happened before or after its death is unclear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>You carefully shift a loose hunk of metal from the cube's surface aside and keep looking for the source of the vibration. 
+
+A wave of wordless sorrow crashes over you, tinged with flecks of hope. Your gaze shifts back to your hand, and the hunk of metal. The alien emotion came through it into *you*.
+
+As if summoned by the thought, a small floating sphere drifts into view. It prods at the cube with a beam of light, then vibrates softly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>It may be some sort of machine language, but you can't make any sense of it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>You listen for a while, but the meaning of the clicks still eludes you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>The partially disassembled construct lies here, utterly motionless and silent. Now that you've taken the spherical drone from inside of it, there's little else to do here. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The wreckage of the partially disassembles construct lies where you left it. Inside, a spherical drone hovers about, probing various components with a frail beam of light. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Script Node 40</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Oom touches the sphere with a gentle tendril, as if comforting it.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

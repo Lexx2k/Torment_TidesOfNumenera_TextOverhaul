@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4301_herja</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>116</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This striking woman towers over you. Though she seems gaunt and her skin is pale, even whitish, she still has a healthy glow that shines through a layer of dirt and grime. A flat circle of metal is affixed to her forehead, showing through her long blonde hair. At your approach, she begins to flex and tense - not in fear, but in preparation to fight. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Back again so soon?" Her smile doesn't reach her eyes. "Have you come to free poor Herja from her cage?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"What are you doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>She sighs. "These... *mutants*... have accused me of a crime. They tell me that I must confess to this imaginary horror before they will let me go. So here I sit, rotting away, while they ask me to choose between the truth and my freedom." She rolls her shoulders and looks you squarely in the eye. "I choose to honor the truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Farewell, Herja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I am going to free you, Herja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You press the disk into her skin, and she draws back from you, backing into the wall of the imaginary cage behind her. When she has nowhere else to go, she presses herself against as if steeling herself against pain.
+
+You turn the disk three times counterclockwise, and it falls off her head into your hand. Herja staggers backward as the cage disappears, landing on her rump.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Her heavy armor is scarred by energies and battered by blades, but it seems to have retained its integrity. The sigil of two crossed swords is etched into the breastplate.
+
+She glowers, "Have you come to beat the poor prisoner? Then be ready to tell your friends about the day Herja bested you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The crossed swords etched upon her armor remind you of the book you were given by Falinda in Circus Minor. This formidable woman wears the sigil of the Angulan Knights, an order known for its devotion to justice and its desire to reclaim the world for humanity. But they also persecute abhumans and mutants.
+
+She glowers, "Have you come to beat the poor prisoner? Then be ready to tell your friends about the day Herja bested you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Then she studies you more closely. "Or have you come to question me? Tell Gar-koto that my answer is unchanged. He can rot in his soup." She pauses. "I would appreciate an honest soup. The food they provide here would shame a murden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I don't work for Gar-koto. I'm a visitor to this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"If you answer my questions and hold nothing back, perhaps I can help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I have no idea what you're talking about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Herja stares at you for a moment, as if weighing the truth of your words. "My apologies. I have been in this place too long, and I am leaping to unwarranted conclusions on the basis of no evidence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I told the mutants the truth." She eyes you carefully. "I have nothing to hide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>She presses her hand to her face, making a show of her embarrassment, but she still looks wary when she draws her hand away. "My apologies, then. The mutants demand that I confess to a crime I did not commit, and I thought they were sending a human this time to break my will." She looks around. "It will be good to speak of other things, with a true-blooded human."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"So..." She scans the crumbled ruins that surround her, contempt in her eyes. "You want to ask me something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Angule, protect and guide me..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"What can you tell me about Gar-koto?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Bank 24</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Tell me about Gar-koto again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText> Follow-up T. 27</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"The mutant prince? He - *it*, I need to remember the mutant is both male and female - swims in its disgusting stew of a tank, bathing in its own filth, and somehow it summons powers that keep the rest of its creatures in line. They said Gar-koto was a wizard... I didn't believe them until the mutant imprisoned me with its powers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Which part do you want to hear again - how it lives as both a male and a female, how it can't survive outside its tank, how it captured me and imprisoned me within its spell?" She waves her hand dismissively. "I'm tired of talking about the mutant. Ask me something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"The exit is over there. You could easily overpower the mutants. Why don't you just leave?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>For a moment, her eyes threaten to tear, and then she steels herself. "Prince Gar-koto has cast a spell on me. Here, let me show you." She steps toward you, reaching a hand out to grasp your shoulder, but before she can touch you, her fingers begin to bend as if they had encountered an invisible wall. "You see? But in case you think I jest with you..." 
+
+She hurls herself at you, shoulder first, and she rebounds dramatically, staggering backward. "I am confined to this space until I confess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Why have you been imprisoned?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Because they require someone to blame for some deaths among their people, and they chose me. The scum looked for someone *different* from them, and I happened to be nearby." She barks an unpleasant laugh. "At this point, I'm inclined to show them what kinds of horrors I *could* visit upon them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"The sigil on your armor is the sign of the Angulan Knights. Are you one of them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>She gasps. "You have heard of us all the way out here? We are many, many kilometers from Steadfast - even from the Beyond - and I have not yet met another who has heard of my order."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Looking at her with fresh eyes, you realize that the crossed swords on her armor are the sigil of the Angulan Knights - an order known for its devotion to justice and helping to reclaim the world for humanity. But they draw the line at the misfits of the world: abhumans and mutants.
+
+{COLIN/GEORGE: Marked as Should Not Play for now. Maybe this can be a global flag check for the player having learned this in Zone A?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Show her Falinda's book. "I have a book on the Angulan Knights. Based on what it says, your order is well-known for its hatred of mutants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I don't think it's possible to commit crimes against something that's not human. These creatures disgust me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>She laughs with delight and then claps her hands over her mouth. "Thank Angule," she breathes. "I thought you might have been a mutant-lover and a race traitor. They *are* disgusting, aren't they? I thought a powdered tincture of axium ensemble would 'cure' them - but only the oldest and weakest died."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Her face is carefully impassive. "Perhaps you should share your feelings with Gar-koto. Maybe the prince will set you in my place and let me go free."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>She studies you carefully, weighing your words against some internal barometer. At last, she says, "Yes. It's true that I poisoned their water. I could not enter Nihliesh itself, but I had heard of this bastard offshoot of their clan. I wanted to slay one of the Fahat. I took the journey from the Steadfast under considerable peril, and I brought death with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"No! I tell you, I am innocent of this and any other crimes that they might wish to assign me." She laughs a little. "Perhaps I fit the description of someone who did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Gar-koto has agreed to release you... but only if you face the Maw and allow it to draw out your guilt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ha! I have nothing to confess or to regret, so the Maw will find me a paltry meal. I accept your bargain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>The disk on her forehead pulses briefly and loses its cohesion to her flesh. It falls to the ground, and Herja's eyes widen as her imaginary prison disappears.
+ 
+She bends over to pick up the disk, and she passes it to you with a mocking smile. "As a knight, I live by my honor. And it's my honor to put some miles between this place and me. A quick jaunt to this Maw, and then I'll show my heels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"What can you tell me of the Angulan Knights?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Bank 49</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Tell me about the Angulan Knights again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Bank 51</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Her face lights with passion. "The symbol of our order represents our willingness to step beyond the bounds of propriety and advance the cause of humanity." She looks around, and lowers her voice. "*Actual* humanity. *You* know."
+
+She tosses her hair. "If we must take up the blade to mete out justice, we do not hesitate. We travel Midgard for the betterment of all, and those who oppose our mission soon see the error of their ways. In the Steadfast, the Order of Truth itself blesses us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>She smiles. "Our founder, Angule, thought to make a world suitable for humanity. The ancients left wonders, yes, but they also left a legacy of horrors and dangers. We seek to mitigate those dangers and to remove those horrors, by word or by blade, and to make the world safe for its true heirs - humanity. If we sometimes must step beyond the bounds of propriety in order to achieve that goal, so be it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Bank 54</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Bank 55</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Can you tell me why you were imprisoned again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>She stares at you for a moment. "I am here because these despicable mutants need someone to blame. They think someone poisoned them. They're mistaken. Look around - does this place *look* healthy to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Bank 58</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"I told you already - I tried to poison the mutants here, to remove their taint from the world, but I failed. A few of them died, the old and the sick, but most of them were only sickened for a time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Yet again? Perhaps the air of the Bloom has contaminated your mind. I used a mixture of powdered axium ensemble to poison the water supply. It wasn't enough, obviously, or the mutants would be dead and I wouldn't be here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Test it for yourself."
+
+You lift your hand and wave it through the air. You can even step close to her, and you feel nothing. She takes your hand and says, "Now step back." You do, and at the exact same point where she rebounded from the air, her hand is torn from yours.
+
+"They have to have their criminal," she says. "I suppose I fit their bill."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>With a slight sneer, Herja steps toward the Maw. "I will tell you what I *regret*," she declares. "Let the Bloom do its worst."
+
+Confidence shines from her face, and her proud carriage - even despite the filth that smears her - makes her look every inch the knight she claims to be. The Maw's tongues reach out to her, grasping and tugging, and as they penetrate into her flesh and draw her close, you see the first flickers of doubt and fear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Trigger Conv Node 64</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>She raises her hands to her head in disbelief. "It's gone? It's gone!" She stands and embraces you. "I owe you a great debt. A *great* debt. Should you need to call on me or my organization, we will be ready to assist you." She walks - or rather, stumbles - toward the entrance of Little Nihliesh. Though they eye her with venom, the mutants make way for her as she passes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Bank 67</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"The Angulan Knights? What can you tell me about them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Tell me again about the Angulan Knights."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"What's that sigil on your armor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>She looks down, frowning, as if she had forgotten she wore such an emblem. "This? This is the symbol of the Angulan Knights. The crossed blades represent our ability to step beyond the laws of nations in order to deal true justice. We seek to reclaim the world for humanity's light."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Bank 72</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I am a Knight Marshall in our organization - I have proved myself many times over, and I will continue to do so as long as I draw breath."
+
+She leans back, her eyes closing. "Our hunger for justice brings a great physical hunger as well. One council, I recall, they brought us fresh waters distilled from the dew of the mountains, roasted and spiced aneen, and exotic flaming cheeses. We do not ask anything of those we aid, but sometimes their largesse humbles me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"The council has granted me the rank of Knight Marshall for my works, and when the *mutants* here release me, I will return to my brethren with reports of my activities. Until then, I can only hope for the intervention of someone who hungers for justice as much as I do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Bank 75</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>She swallows. "And have you, by any chance, brought something that a human mouth can eat and a human stomach digest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Bank 77</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>She tosses her greasy hair. "We mete out justice, and we do not hesitate. We travel Midgard for the betterment of all, and those who oppose our mission soon see the error of their ways. In the Steadfast, the Order of Truth itself blesses us."
+
+She licks her lips and swallows. "We do not shirk when duty calls. Even if it leads us far from family and friends. Our mission is paramount: Humanity must rise in a dangerous world."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"I suppose I have nothing better to do. Our founder, Angule, thought to make a world suitable for humanity. The ancients left wonders, yes, but they also left a legacy of horrors and dangers. We seek to mitigate those dangers and to remove those horrors, by word or by blade, and to make the world safe for its true heirs - humanity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"I have brought you some food."
+
+{JESSE: I still need to put a couple food vendors in the Bloom - I've added items and descriptions to Sharepoint}
+
+{JESSE/COLIN: I've told Colin that this is a lot of items to create for a B-priority side option. I suggested Colin use some existing item or MAYBE limit it to one thing. This needs to be revisited. - Adam}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"What have you brought me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"I have kiehla water."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"I have the burnt skin of the procus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"I have a slice of aneen, run through a series of fermenting and spicing tubes, in the shape of a brick."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"I have sweetened and spun butter infused with a handful of exotic nuts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"I have some fruit from the Verxulian Wastes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"I have good, plain bread."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Nothing, actually. Let me ask a few more questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"I misspoke. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Why do you torture me so? They are starving me here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>She wrinkles her nose. "I suppose if I must beg for my food, I can't complain about its flavor. But please - can you find something more suitable for someone who has traveled the world?"
+
+You notice that this doesn't stop her from eating the proffered food.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>She snatches it from you and guzzles it greedily. One bubble pops outside her mouth and its nectar splatters her armor, but she doesn't seem to care. Her smile of pleasure is immediate and sincere, and she relaxes visibly for the first time. "Thank  you," she says. "That was one of the finest things anyone has done for me in years."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>She grabs the food from your hand and devours it without taking time to savor it. "Ye gods," she exclaims, "I have missed this."
+
+Her smile of pleasure is immediate and sincere, and she relaxes visibly for the first time. "Thank  you," she says. "That was one of the finest things anyone has done for me in years."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Gar-koto has agreed to release you into the custody of the Decanted in the courtyard." Release her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>You reach out, and following Gar-koto's instruction, press the disk into her flesh and rotate it three times counter-clockwise. It drops into your hand, and Herja's eyes widen in disbelief and joy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>She laughs aloud, triumphant. "No need to escort me, friend. Upon my honor, I accept these terms." She looks around Little Nihliesh, her lip curling. "So I'm to serve a short time with this Decanted thing, eh? I don't know what that is, but I tell you that I'll be glad to do whatever it takes to put some distance between myself and this cesspit."
+
+"You have my gratitude. That's no small thing." She straightens her hair and clothes, then marches proudly toward the exit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>She raises her eyebrows in surprise. "You know our order well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"How dare you! The order of Angulan Knights is about justice for humanity. I shouldn't have to answer for what a bunch of mutants *think* I did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Thank Angule," she breathes. "I thought you might have been a mutant-lover and a race traitor. They *are* disgusting, aren't they? I thought a powdered tincture of axium ensemble would 'cure' them - they must be suffering, don't you think? - but they only sickened and the oldest and weakest died. If only you could carry on my work. Perhaps you should consider joining the Knights, should you ever make it to the Steadfast."
+
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"You mock me and my order, sir. I have seen how you have interacted with these creatures, yet you think I would believe you hate them? Perhaps you would share your feelings with Gar-koto then. Perhaps he'll have us fight for their amusement." She smirks and clenches a fist, as though excited by the idea.</DefaultText>
+      <FemaleText>"You mock me and my order, madam. I have seen how you have interacted with these creatures, yet you think I would believe you hate them? Perhaps you would share your feelings with Gar-koto then. Perhaps he'll have us fight for their amusement." She smirks and clenches a fist, as though excited by the idea.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>
+
+{SCRIPT: Should not play. This is now C-Priority, and unless we decide that an extended junk food joke is  worth investing time, it'll be out of the game. Otherwise, we need to create Bloom food vendors to sell this stuff.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Tell me for the sake of your order's reputation, Herja: Did you commit the crime of which you have been accused?"
+
+{TIDES}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"I think you *did* poison the mutants... because you believed it was right. Why not admit the truth, at least to me?"
+
+{TIDES}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Tell me, Herja, for the sake of your reputation: Did you commit the crime of which you have been accused?"
+
+{TIDES}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"*My* reputation?" A sudden fear fills her frame. "What will my reputation be if the truth is known? Among whom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"I don't think you're telling me everything. The mutants must have *some* reason to be suspicious of you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>She smiles a bit, and quickly composes her features.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Her tone is icy, indignant. "How dare you? How dare you impugn my honor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[DEBUG] Test cutscene of Herja going to the Newborn Maw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"I want to talk about the allegations against you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"I want to talk about the allegations against you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"The mutants claim that I poisoned them. A number of them died, and they decided that I was to blame."
+
+She frowns. "That is all they are - allegations. Gar-koto has no right to imprison me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"I maintain my innocence. I've done nothing wrong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Let me ask some other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"It will surely pass the time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Are you *sure* you're innocent? If you don't confide in me, I can't help you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>She nods. "I am innocent of *any* crime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>She eyes the book, seems to recognize it, and turns away. "That just makes me an easy scapegoat. It doesn't prove anything."
+
+Still, you see her shoulders slump a little, and she doesn't seem as defiant as before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"This is the first time that I have tried something like this. I do not regret what I did. The mutant prince wishes to see me show remorse, but he will not have the satisfaction."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

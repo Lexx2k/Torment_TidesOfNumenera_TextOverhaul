@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3101_hidden_memorialists</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Yet... you see a disturbance in the dust of the crawlspace. Someone came by this way, at least. Perhaps they're still here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Please," murmurs Beltrax. "I beg you. Do not turn us over to them. They'll murder us and paint the walls with our blood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"All right. All right. But do not do their bidding, friend. Please."
+
+Beltrax wriggles out from under the heavy stone and pulls Ronos free. They begin to make their slow, reluctant way toward the waiting cultists.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The wind whistles mournfully through some of the larger entrances, almost like the sound of human breathing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>You pull the planks back. A crawlspace extends behind them, with two small alcoves recessing the walls. They are remnants of grave markers and memorials from ancient times. One seems shallow. The other has been blocked by rubble falling from above. 
+
+Both them appear to have been built to hold bodies, but neither are occupied.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The alcoves and crannies behind the planks are empty, their only inhabitants the dust from the sere desert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Please," says Ronos. "Beltrax is but a visitor to this place. He has no part in our struggle with the Children. Tell them that we have fled, and that you couldn't find us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Search more thoroughly to see if anyone's still there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Walk away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The wind still whistles faintly through the alcoves, an eerie counterpoint to the lifelessness of the valley.
+
+{SOUND: Faintly whistling wind}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You peer deep into the gloom. The dust has been more than disturbed - you see footprints. After a few minutes, your diligence is rewarded - there is a third alcove at the back of the crawlspace, hidden behind a great stone slab. The slab is held up by a stone the size of a human head, creating a small gap hardly half a meter high.
+
+You crouch down and peer through the gap. Two people are hiding in the space behind it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>You peer deep into the gloom, and though you see marks in the dust, there is nowhere they could be. Someone *was* here recently, but they're gone now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>One of them, a bearded man with a kind expression, whispers to you, "Hold, friend - if friend you be. My name is Beltrax. This is Ronos Cai'sul. Those damned cultists gave chase to us. Ronos knew of this small sepulcher in which we have hidden, but we have nowhere left to run. They will murder us if you reveal our position."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Come out. I'm going to take you to Klin'Kar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Cover your tracks. I'll deal with the cultists."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Remove the stone and trap them in the sepulcher forever.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"No, wait!" As you heave on the stone, Beltrax does something with his fingers, and a shimmering cloud of golden dust spreads over his companion, and then Ronos is gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"You have our gratitude. Good luck, friend." They watch you leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I see goodness and empathy in you," Beltrax whispers. "You understand what it means when others suffer. Do not turn us over to them. They'll murder us and paint the walls with our blood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Come out, and we'll figure out what to do then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>But he can't move fast enough to save himself. When you remove the stone, not only does the slab fall, but the entire sepulcher collapses, crushing the life from Beltrax. He tries to climb out, screaming in agony as the weight of the rock compresses his ribcage. His protestations turn to bloody gurgles that stop only when a rock falls on his head. His blood leaks out from between the stones, leaving tracks in the dust.
+
+{SOUND: A small cave-in. Man screaming in agony as he's crushed by them.}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

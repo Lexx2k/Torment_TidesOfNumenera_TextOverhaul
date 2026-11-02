@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_memovira_courtyard_jamesherbertobelisk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>34</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A metal pylon - so polished it might be crystal - has been thrust into the Bloom-flesh at the junction of two armored neural axons. Whether the bulbous protrusion around it is an effect of this invasion, or whether it was the reason for the insertion in the first place, is impossible to judge.
+
+Like so much of the Bloom, it oozes both mystery and mucus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The sleek pylon is embedded in suppurating Bloom-flesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Examine the pylon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Study the Bloom-flesh nodule and the neural sheaths running outward from it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Leave the pylon alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"I think this is part of a dimensional anchor," Callistege says, as much to herself - or herselves - as to you. "But if it is, whoever was building it didn't get very far."
+
+{LEANNE: Voice?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>As best you can tell, Callistege was right: the pylon represents the foundation of a dimensional anchor. But *just* the foundation - to be sure, it is in some ways the most difficult part to construct, but it is worthless without a variety of additional, properly attuned numenera. To finish the project would be a considerable undertaking - far more than you could hope to attempt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The pylon appears to be the foundation of a dimensional anchor. But *just* the foundation - to be sure, it is in some ways the most difficult part to construct, but it is worthless without a variety of additional, properly attuned numenera. To finish the project would be a considerable undertaking - far more than you could hope to attempt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>You have no way of judging whether Callistege's assessment of the pylon is right or wrong. Its purpose is opaque, and the polished metal reveals no further clues.
+
+You notice, however, that there's a deep sulcus in the Bloom-flesh where it meets the pylon. The tulk filling the crevice makes it impossible to tell what, if anything, is inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>You notice that there's a deep sulcus in the Bloom-flesh where it meets the pylon. The tulk filling the crevice makes it impossible to tell what, if anything, is inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The pylon's purpose is unclear, and the polished metal reveals no further clues.
+
+You notice, however, that there's a deep sulcus in the Bloom-flesh where it meets the pylon. The tulk filling the crevice makes it impossible to tell what, if anything, is inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Reach into the sulcus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Reach into the sulcus again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>You're forearm-deep in warm, mucousy tulk when your fingers brush against something with a hard edge - obviously not part of the Bloom-flesh, but also distinct from the pylon.
+
+Unfortunately, your touch has dislodged it, and it begins sinking deeper into the crevice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>As you slide your arm back into the throbbing crevice, deja vu washes over you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>You accomplish nothing beyond covering your hand in thick Bloom mucus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Try to grab it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Pull your hand out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>It is a great relief when your hand slips free from the warm and pulsating embrace of the Bloom-flesh. 
+
+A few quick shakes remove most of the tulk that had clung to your skin. But sadly, not all of it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>You plunge in deeper and catch hold of the metal object. With relief, you pull your arm - and the recovered cypher - out from the mucousy sulcus.
+
+{LOOT: Sunspot Totem should drop here}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>The thing - whatever it was - slips away, too deep in the sulcus for you to reach. But as you plunge your arm in after it, deja vu washes over you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Judging from the ancillary organs that protrude from the nodule, it seems to be the organic equivalent of a regional control center: not a true brain, but something more than a mere cluster of nerves. It's unclear whether it is a part of some larger mind or a near-sentient organism of its own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>The nodule is pink, pulsating, and moist to the touch. The sheaths, by contrast, are hard and bony. Beyond that, it's a mystery.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>An old man describes a thought experiment involving prehistoric rodents capable of linking their minds telepathically - perhaps ancestors of the seterdin. 
+
+He proposes that enough rodents, pooling the force of their desire, could reshape reality. "And for what world would these scavengers wish?" he asks, rhetorically. "One where everything, even the very dirt, is man's detritus, eh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>It seems that he intends to manipulate the Bloom's transdimensional nature to test his Murine Dreamtime Hypothesis. Such meddling, of course, cannot be tolerated, so as he natters on, you slip the Sunspot Totem into the sulcus. 
+
+It seems implausible that the codger will ever complete his dimensional anchor, but now, at least, you can be sure that it will not interfere with your own plans in the Bloom.
+
+{LOOT: The item described here must be the same as that dropped in node 27.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The specifics, like the lost object, are beyond your grasp. But *you* were the one who put something here, something that would guarantee that the pylon would never function as intended, even if it was completed. Your reasons for this sabotage - whether some larger plan or pure spite - remain a mystery.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>The memory fades. You pull your hand out of the mucus.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

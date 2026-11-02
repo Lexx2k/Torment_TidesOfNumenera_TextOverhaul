@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1131_memoryobject1</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You stand before a rusted door, taking a moment's respite in a bubble of humid, dank, stale air. In a former body, you breathed water and lived decades beneath the waves. But this body needs air, and the constant pressure is slowly crushing you. Worse, your companion's mind seems to be wandering from the task.
+
+He's a genius with machines, as you well know, but now he seems... distracted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The device bristles with knobs, wires, and antennas. He thinks it can open the corroded door, but only stares at it. Perhaps he doubts his invention. That is hardly your concern. The mission cannot wait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Deceive him by telling him that you've heard sounds of pursuit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Threaten him until he returns to the task at hand. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>This is taking too long. Cast a spell - an esotery - to fix the device yourself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Your words snap him out of his daze. He looks up, grimacing. "All right. We'll be through the door before they catch up."
+
+He adjusts the device. The door swings open, freshening the stale air. A dark passage beyond links the water-bordered cells and aquatic viewing areas - your destination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Your shout seems muffled in the stale air. He flinches. "Sorry. I just wanted to be sure I hadn't made a mistake."
+
+He adjusts the device. The door swings open, freshening the stale air. A dark passage beyond links the water-bordered cells and aquatic viewing areas - your destination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You mutter, drawing power from the air until a solution forms. You snatch the device, rewire it, and shove it back.
+
+"Oh," he says, examining your work. "Sorry. I was trying to improve the thing."
+
+He waves the device at the door. The door swings open, freshening the stale air. A dark passage beyond links the water-bordered cells and aquatic viewing areas - your destination.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>His fingers make minute adjustments to the knobs and blinking levers of the device, and the stale air of your bubble freshens as the door swings open. A dark hallway lies beyond, a passage that links the water-bordered cells and eases into the aquatic viewing areas. 
+
+That's your destination. What you seek lies there.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>The air thickens with each step you take towards this watery orb, and whispering voices flit across one of the countless, aching gaps in your mind. This must be one of the memories you were told to find. 
+
+Two figures swim down through the orb, as though it is a fathomless ocean. One vanishes into the ebony depths before you can study it. The other, a male, seems to be struggling... or perhaps, drowning. 
+
+You realize that - like the swimmer - you cannot breathe. </DefaultText>
+      <FemaleText>The air thickens with each step you take towards this watery orb, and whispering voices flit across one of the countless, aching gaps in your mind. This must be one of the memories you were told to find. 
+
+Two figures swim down through the orb, as though it is a fathomless ocean. One vanishes into the ebony depths before you can study it. The other, a female, seems to be struggling... or perhaps, drowning. 
+
+You realize that - like the swimmer - you cannot breathe. </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The memory fades as if you're drawn backward through a tunnel. More pylons rise from the pit.
+
+It fills a gap in your mind, but its rough edges feel foreign, as though the memory is not yours.
+
+Sour air draws at you, as if something in the darkness has caught your scent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You're underwater again, your hands closing around a strange yet familiar artifact turning above a pedestal. You need it to finish... something.
+
+As your hand crosses the pedestal's vertical plane, electricity jolts your fingers. A shimmering field snaps into place, its pressure stunning you. A sonar alarm pulses through the water.
+
+The guards won't be far behind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You have already sunken into the memory in this orb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Run. You can come back for it. They won't be able to protect it forever.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Disable the sonar pulse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Use a device to stop them - one of the cyphers in your belt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The water is crystal clear around you as you kick away from the pedestal. Your companion hangs motionless in the water, too far for you to reach before the guards arrive. You stroke for the hallway through which you entered and, emerging into the air, you race for the great door.
+
+The sounds of something breaching the surface behind spur you to greater speeds, but you fear you're not fast enough.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>You focus on the cloudy base of the pedestal. Your fingers instinctively find the control panel for the jeweled force field, almost as if you had built it in the first place. You remove it, casting it to the side, and you reach inside to deactivate the crystals that power both the pulse and the pedestal. As you remove them, a scaly hand falls on your shoulder. 
+
+Your head whips around, and you see... only the inky blackness of a piscine eye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>You run urgent fingers over the devices fastened to your waist, a fog rising in your mind. A few can be used against the guards, but will also turn your skin to synthsteel, or the surrounding water to boiling wax. Hardly ideal. 
+
+Finally, you find a small silver sphere. Setting the sphere in place, you kick desperately for the safety of a nearby alcove.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The sphere whirls and unfolds into a spiraling vortex. The sphere at its center speaks a few polite words in an ancient language, then begins draining the surrounding water into itself with alarming speed. The approaching guards shout, then scream as they, too, are sucked into the whirlpool and ripped to pieces.
+
+You allow yourself a fleeting smile, but are all too aware that more alarms are going off in the distance...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Tear the orb open to release the water within.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Rescue the swimmer before he drowns.</DefaultText>
+      <FemaleText>Rescue the swimmer before she drowns.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Walk away from the orb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>You plunge your hands into the warm surface of the orb, and slowly, inexorably, tear it open.
+
+As you do, you feel stronger - something about this place causes even your smallest choices to shape who you are.
+
+Suddenly, a memory floods your mind...
+
+{SOUND: Wet ripping/cracking}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>You plunge your hand into the orb and catch the tiny swimmer. Surprisingly strong muscles flex against your palm, and the swimmer pulls *you* through the breach.
+
+As he does, you feel faster - something about this place causes even your smallest choices to shape who you are.
+
+As you plunge into the water, a memory floods your mind...
+
+{SOUND: Splash}</DefaultText>
+      <FemaleText>You plunge your hand into the orb and catch the tiny swimmer. Surprisingly strong muscles flex against your palm, and the swimmer pulls *you* through the breach.
+
+As she does, you feel faster - something about this place causes even your smallest choices to shape who you are.
+
+As you plunge into the water, a memory floods your mind...
+
+{SOUND: Splash}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>The swimmer evades your questing hand with a languid kick, then seizes your wrist and yanks you painfully through the surface of the orb.
+
+As he does, you feel faster - something about this place causes even your smallest choices to shape who you are.
+
+As you plunge into the water, a memory floods your mind...
+
+{SOUND: Splash}</DefaultText>
+      <FemaleText>The swimmer evades your questing hand with a languid kick, then seizes your wrist and yanks you painfully through the surface of the orb.
+
+As she does, you feel faster - something about this place causes even your smallest choices to shape who you are.
+
+As you plunge into the water, a memory floods your mind...
+
+{SOUND: Splash}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You plunge your hand into the orb and catch the tiny swimmer in one deft motion. Instead of yielding to the rescue, the swimmer kicks harder, yanking you through the breach.
+
+As he does, you feel faster - something about this place causes even your smallest choices to shape who you are.
+
+As you plunge into the water, a memory floods your mind...
+
+{SOUND: Splash}</DefaultText>
+      <FemaleText>You plunge your hand into the orb and catch the tiny swimmer in one deft motion. Instead of yielding to the rescue, the swimmer kicks harder, yanking you through the breach.
+
+As she does, you feel faster - something about this place causes even your smallest choices to shape who you are.
+
+As you plunge into the water, a memory floods your mind...
+
+{SOUND: Splash}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>The swimmer evades your clutching fingers, then bites you. Before you can recoil, tiny, immensely powerful hands close around your wrist, and yank you through the surface of the orb.
+
+As he does, you feel faster - something about this place causes even your smallest choices to shape who you are.
+
+As you plunge into the water, a memory floods your mind...
+
+{SOUND: Splash}</DefaultText>
+      <FemaleText>The swimmer evades your clutching fingers, then bites you. Before you can recoil, tiny, immensely powerful hands close around your wrist, and yank you through the surface of the orb.
+
+As she does, you feel faster - something about this place causes even your smallest choices to shape who you are.
+
+As you plunge into the water, a memory floods your mind...
+
+{SOUND: Splash}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Your fingers scrabble for purchase on the smooth surface of the orb as the air in your lungs dwindles. Finally, just before you lose consciousness, you make a tiny scratch in the orb's surface.
+
+Even so, you feel yourself getting stronger - something about this place causes even your smallest choices to shape who you are.
+
+Suddenly, a memory surges forth from the wound, flooding your mind...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Your hands crack the surface of the orb like a thin sheet of ice, and the water gushes out.
+
+As it does, you feel stronger - something about this place causes even your smallest choices to shape who you are.
+
+Suddenly, a memory surges forth from the breach, flooding your mind...
+
+{SOUND: Wet ripping/cracking}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>You cannot so much as make a single scratch the orb's smooth surface. Airless lungs aching, you sink to your knees, then fall on your side. Red-tinged black closes over the edges of your vision as you watch the tiny swimmer reach the bottom of the orb, and pierce it.
+
+Even so, you feel yourself getting stronger - something about this place causes even your smallest choices to shape who you are.
+
+Suddenly, a memory surges forth from the wound, flooding your mind...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>As soon as you touch the orb, a memory floods your mind...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

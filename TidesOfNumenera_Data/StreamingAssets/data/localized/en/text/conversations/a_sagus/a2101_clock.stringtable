@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_clock</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>59</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[The clock appears to be out of phase with this time.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Fix the clock.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Leave the clock alone.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Upon fixing the clock, you are sucked into a fathom where you can pick your class. Click this object again to handle the fathom and continue the quest.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[The next scene in the game is not included in the Beta content. In the final game, you'll wake up in a new Fathom of the Labyrinth and meet three castoffs - Kamose, Diviaticu, and Vallon. They will teach you about Foci - selections of abilities unique to your character.
+
+Since their Fathom hasn't been implemented yet, you can choose your Focus here. (Note that you'll have more options in the final game).]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Choose Focus: Brandishes a Silver Tongue (persuasion, intimidation, and leadership abilities).
+
+{SCRIPT: Give PC Brandishes a Silver Tongue Focus.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Remain in the fathom. No idea why you'd pick this, maybe you forgot to check your journal?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Excellent! Now return to Casmeen and Mimeon. They will want to hear what happened to you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Botch fixing the clock.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Oops. You're not sure what you did, but the clock appears to be fixed in the present time now. The bad news is that it is now nighttime in Circus Minor and the clock appears to no longer be working.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[The clock is fixed. The figures within it can be seen much more clearly now.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Peer closer at the figures trapped within the clock.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Just as you begin to make out details about the figures, you are suddenly pulled *into* the clock!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[The clock appears to be correctly phased in time.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Examine the clock]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[There are people trapped within the face of one of the clock displays. They too appear to be out of phase with time.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Jam the clock face to free the people]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[The clock appears to be in phase with time, however, it is no longer working.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The towering machine shimmers, partly transparent. Its purpose is unclear, though the three faces suggest clocks showing several times at once.
+
+Humanoid silhouettes seem to watch you beneath the central face. One presses a hand against it like a glass wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The machine is solid now. Each of the three clock faces shows a single time - though none of them point to any time measurement that you understand.
+
+You lean closer to the central clock face. Three shadowy figures still lurk within, their features almost discernible now...
+
+Suddenly, the figures surge out of the clock toward you. Intense pressure strikes your head like a steel spike. Then everything goes black.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>The machine is solid now. Its three clock faces are fixed on a single point each. The clock's purpose is still a mystery, but at least you can interact with it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The complex machine shimmers in the air when you look directly at it. The clock faces seem to show several different times at once.
+
+Shadowy silhouettes watch you from beneath the central clock face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Reach for the silhouetted figures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Reach for the silhouetted figures again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Your hand passes straight through the clock face, the figures, and the entire structure. It's as if the entire machine wasn't even there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Your hand passes through them as before. You'll have to find some other way to get at them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Reach for the silheoutted figures again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[You enter the fathom again(?)]
+
+{GEORGE: Can the player enter the fathom again or is it closed? Either way is easy to do.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Examine the machine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Examine the machine again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[It's weird and unmoored in time.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Still weird. Still unmoored.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>As you pull your hand away, a memory strikes you as powerfully as if someone took a club to your chest...
+
+You are working at the clock. It is no longer transparent but perfectly solid.
+
+There is a noise behind you. So they've come, the three traitors. They think to surprise you, but through the powers of the clock you have foreseen this moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Now that you've fixed the control device, Tidal energies tug at your body and mind. You could easily *push* the machine back into its previous state, unmoored in time. Doing so would probably reactivate the three devices around Circus Minor as well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Tidal Surge] Reboot the clock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Using the Tidal energies that swirl between you and the machine, you force the machine to reset, sending it out of the present time.
+
+Immediately, the three control devices sing back to life, and the sun returns to Circus Minor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Step away from the clock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>The towering mechanism wavers in the air. Similar to Callistege, it appears to be in several states at once, though all of the machine's states are in the exact same location.
+
+You can't touch it either - your hand passes right through the structure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>The machine wobbles in the air, seeming to be in several states at once. It makes you a little sick to look at it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>The machine hums and ticks in a steady, droning rhythm. It is definitely a clock of some kind, though it is not measuring time in any way that you understand. The figures that were beneath the central clock face are gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>The massive clock continues its persistent ticks and drones. The figures that were beneath the central clock face are gone now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[DEBUG] Fail the puzzle once to unlock the "Smash this device" option on the control devices.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[The puzzle is unlocked. You failed it once and can now break one of the control devices if you want to.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Push the machine out of the present, and release Circus Minor from perpetual night.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Push the machine out of the present, and release Circus Minor from perpetual night.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>As the last shreds of the memory fade, a swirl of energy passes through your body. Cold barbs prick every muscle. Suddenly Tidal forces arc from the clock to three ancient devices in the cultist encampment.
+
+The clock recognized something inside you - or maybe vice versa. Either way, you have inadvertently activated the nearby devices.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[DEBUG] Fix the clock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>As you approach the clock, there is a pause in the argument the duo next to it are having. The petite woman turns toward you. Her hair is unusual - a light, almost-yellow color - and her bright eyes dominate her pretty face. "Excuse me, but my colleague and I were having a discussion, and- "
+
+Her eyes fall upon your tattoo, and her breath catches audibly in her throat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Trigger Conv Node 57</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Choose Focus: Masters Defense (defensive combat abilities).
+
+{SCRIPT: Give PC Masters Defense Focus.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Choose Focus: Breathes Shadow (sneaking, backstabbing, finding vulnerabilities and pressing that advantage).
+
+{SCRIPT: Give PC Breathes Shadow Focus.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>You notice that the figures of Kamose, Diviaticu, and Villon are no longer present in the central clock face. They only exist in your Labyrinth now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>There is the faintest sound of metal sliding against leather. You slap a hand on the central clock face, activating the clock's arcane powers. You're not sure what it will do to them, but it's better than what they'll do to you.
+
+There is a flash. Arcs of energy stretch out from the clock, over your shoulders to your would-be attackers. You don't see what happens to them, but they quickly disappear along with their screams.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

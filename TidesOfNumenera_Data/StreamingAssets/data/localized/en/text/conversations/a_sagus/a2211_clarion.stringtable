@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2211_clarion</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>130</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This young woman wears finely polished armor and paces back and forth restlessly on the walkway. Her long hair is lustrous and healthy, and her whole form exudes a wholesome vitality. 
+
+When she sees you, she raises her voice in greeting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"The veterans still won't listen to me." She lowers her voice. "But my allies in the Endless Battle need their help. Will you talk to them for me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Welcome, friend, to the Fifth Eye!" She strides closer to speak more softly. "You come at an exciting time. I have been trying to convince some veteran warriors of their eminent suitability to join the Endless Battle. So far they have rebuffed me, but perhaps you can succeed where I have failed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Can you tell me anything about these veterans you hope to recruit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Can you tell me any more about these veterans?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"What can you tell me about the Endless Battle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Why are you trying to recruit these veterans? Perhaps they're tired of war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Let's talk about the merits of conflict again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I have an update on the recruitment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I have another update on the recruitment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Jernaugh sent me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>She smiles, showing her teeth. "Jernaugh is a dear friend. A good ally. A clever man."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>{COLIN: NOT FOR 1E: If the player previously talked to Clarion about her views and expressed agreement with them, she'll recommend that the player speak to Jernaugh at the chiurgical parlor. If the player hasn't spoken to Clarion about her views, she'll briefly test the waters to see if the player agrees with the ideas of the Jagged Dream. If he does, she'll recommend that he speak to Jernaugh. }</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I've reconsidered. I'll help you recruit these veterans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I'll help you recruit the veterans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I won't help you. I just want you to answer some questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I won't help. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"If you change your mind, let me know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I've recruited Dhama."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I've recruited Theboros."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I've recruited Leto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I've talked to Ziobe. She refuses to leave the bar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I've talked to Feriok. He refuses to leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Do tell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"But of course," she purrs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I'm done recruiting now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"I look forward to your return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"You will have my gratitude - and a generous reward - if you can succeed in this, friend."
+
+She begins to point. "At the bar, you see Leto, the woman clad in desert robes. Behind the bar, Feriok. At the table there, Ziobe."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Much as it sounds," she says. "It stemmed from a rift between the Changing God and one of his offspring and has endured for hundreds of years. Raging over the same battlefields, using the deadliest technology of the ancients, the landscape is scarred and pitted beyond recognition. The walls between dimensions are thin there. Every day, horrors cross into our world."
+
+She stands, arms akimbo. "Worse, in recent years, the struggle has expanded."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>She shakes her head. "Conflict shapes us all. It sharpens us, makes us stronger than we ever thought we could be. If you hide from it, you'll never know what you might have become... or worse, you'll be easy prey for those who are stronger or crueler than you." 
+
+She clutches your shoulders. "These veterans have grown tired and complacent, I want to help them recapture what they lost. No... I want to make them even *greater* than they were."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"What is there to talk about? Challenge, response. Thesis, antithesis, synthesis. Overcoming weakness is the only way we grow strong. Do your muscles grow through disuse? Does your mind sharpen while staring at a wall? Life itself is conflict. Without conflict, there is only... stasis. Or worse, decay."
+
+Her eyes are bright with confidence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"You're not wanted here. The veterans want you to leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"I have been *not wanted* in many places. Yet somehow I never left, except of my own accord. It is a pity I arouse discomfort in them, but perhaps they should examine why that is. Do they fear a new challenge?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"You managed to acquire all three of the major players? I would not have thought it possible. Perhaps we should speak of a more permanent engagement for you in recruiting warriors. The Endless Battle will know their coming, and should they survive it, our veterans here will become some of the most feared people on Earth's psychic landscape. The world is a better place for your work. Take this as a reward."
+
+She hands you a strange device.
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Two of them have agreed to come? Truly, you work wonders. They will see with their eyes, and experience with full hearts, the sharpness of existence and the truth of reality. They will be stronger and better than they were. You have done them - and the world - a great service. Here. Take this as a reward."
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Only one? A pity. Still it's better than I achieved on my own, and I thank you. When we return, sharper and better, you will see the difference. You have done this veteran - and our world - a service. Take this as a token of my gratitude."
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Fantastic! He's the key to the rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"I'm done recruiting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"I think I can recruit more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Then I look forward to hearing of your success."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>{SCRIPT: Start cutscene}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"A warrior of language is always welcome. The visions he shapes will be crucial."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"A seer's abilities will be truly worthwhile - seeing the inflection points and acting upon them is a key trait for a tactician and a strategist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"A pity. She is strong and wise. Perhaps the others are willing to test themselves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>She shrugs. "He has not been the same since his last battle. His powers seem to have changed, but he has not become noticeably stronger. No great loss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>The momentary flash of irritation disappears, replaced with her dazzling smile. "Perhaps you'll reconsider later. In the meantime... what can I do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"You want conflict? You want bloodshed? Let's shed some of yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Fine. Answer some other questions for me, will you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Forget it. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Always a pleasure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>She quirks an eyebrow. "That was easier than I'd expected. What questions do you have?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>For the first time, she seems discomfited. "Would you... you wouldn't. They have a strict prohibition against physical violence here. They won't let you touch me. Would they?"
+
+She studies your face and shoots a glance at the assembled patrons. They are studiously ignoring the both of you, though you feel their focus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>She laughs delightedly. "Such spirit! You'll shed no blood in here, stranger. They've a strict policy about physical violence in their establishment. Why do you think I've been given such latitude to remain? Come now. Let's be - " She grins wolfishly. " - *civilized*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"I... all right. If that's how they feel, I'll leave. I don't need any trouble. Please - please accept my apologies."
+
+She walks hurriedly to the door, determined not to break into a run.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"When the hosts want you to leave, you leave. Or they send someone like me to do it for them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>She staggers back from you, clutching her head. Blood sprays from her nose like an uncapped geyser, and she claps her hand across her face. She sinks to her knees. "Oh gods... I'll leave... I'll leave!"
+
+The other occupants of the bar are staring at you, as if you have just screamed in her face, and then they turn back to their drinks... almost as if they have already forgotten what occurred.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"They have fought in countless battles and emerged victorious. They have made decisive forays that turned entire wars. They are clever and thoughtful, though I know only their reputation. The Third Inversion, for instance, saw them reach into a new dimension and... I won't bore you with the details, but they were integral in an offensive that would have changed the course of that conflict."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>She frowns. "They have kept their abilities largely secret from me. I have not seen them in action, but the stories tell of five companions who turned the course of wars."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Nearby settlements - founded to provide material support for the combatants, or existing there long before the two sides came to rage on their borders - have been engulfed by the spreading chaos."
+
+She frowns. "It is not too late to change the course of the battle... if only warriors of proven mettle would join the fight. That is why I am here. That is why I beg for your help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Recently, the village of Kholn was swept under the madness. Innocent lives were destroyed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"The village of Kholn stands in the Endless Battle's path. Lives are at stake!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"It is not too late to change the course of the battle... if only warriors of proven mettle would join the fight. That is why I am here. That is why I beg for your help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>She lowers her voice again. "With Ziobe, you see Theboros. He is older, but he has great experience."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>She indicates the final target with her chin. "And then the crowning piece, Dhama. He's their leader."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Script Node 85</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"You want conflict? You want bloodshed? Let's shed some of yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Can you tell me about yourself again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"What else do you know about the Endless Battle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"What is the Endless Battle again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"I am Clarion. I seek strong warriors, brave souls, to fight in the Endless Battle... to hold back the advance of the enemy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"I am Clarion. I recruit warriors for the Endless Battle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"It's not truly endless, of course, but it has raged for hundreds of years. Imagine the wonders you see around you, the discarded pieces of the ancients' lives. Now imagine all their power bent toward destruction. Imagine what that would do to the land. It is a force, a disaster, that creates heroes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"A crucible of fire and blood. It has raged for hundreds of years, always growing in scope and fury."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"You're not wanted here. The veterans would like you to leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"I must ask you again to leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>A hint of a smirk plays on her lips. "Perhaps you should examine why that is. Do I threaten you in some way?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"I've talked to Theboros. He's made up his mind not to leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Unfortunate. His unique abilities would have been a great asset. Let us hope the others prove more eager for the glory that awaits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>
+She considers a moment. "Theboros would have been an ideal candidate, had he survived."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>
+She shakes her head sadly. "Dhama would have been an incredible addition. He was their leader, you know, a natural charisma. Alas, but the world moves on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>
+She bows her head in quiet respect. "Had Dhama and Theboros survived the day, they would have likely proven valuable assets... but clearly they were no longer at the peak of their strength. Perhaps it is for the best."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Script Node 110</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"What side are you recruiting for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"The Changing God's. He has always been the patron of Sagus Cliffs. Perhaps we would not exist if not for his lives and his castoffs - certainly we would not be as we are."
+
+She pauses. "But that is not the *only* reason. The Changing God's forces have allied with the towns and villages of the Verxulian Waste. We seek to prevent the Endless Battle from expanding beyond its borders, growing in size once again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"The enemy attempted to sweep across the plain once before. They were foiled at a village called Kholn, betrayed by some of their own. Now they're trying to take the village again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"The enemy has attempted to sweep across the plain before. They tricked the Changing God's allies, centuries ago... destroyed an army of Sand Knights and took half the settlements in the Waste. We won't let them do it again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>
+Matkina shifts uncomfortably at your side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>
+
+Matkina shifts uncomfortably at your side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"What side are you recruiting for again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"The Changing God's," she says proudly. "We have allied with the surviving towns and villages of the Verxulian Waste. Our forces are trying to stop the enemy from sweeping across the plain. We will *contain* the Endless Battle if we can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Matkina, do you know something about the Endless Battle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Of course... and so do you. We were *there*." Clarion looks back and forth between you, confused.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Matkina lowers her voice to a whisper and pulls you out of earshot. "The 'trick' she mentioned... that happened at Kholn Village. Paj Rekken, the Militia... they were the 'enemy.'"
+
+She grips your arm. "If this woman is recruiting soldiers to fight Paj Rekken, we should do whatever we can to help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Matkina catches your eye and nods her approval. She mouths the words, "Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"I don't care about any of that," murmurs Matkina. "But it's a measure of justice for Kholn. And if I have my way, it's just a start."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"If I help you, will I get a reward?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Of course. I am not a wealthy woman, but I have allies in the city who are. The more veterans you convince to join the Battle, the more you will be paid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"The armies of the First Castoff. They have never been friends to the people of Sagus Cliffs." She frowns. "The First Castoff is long dead, but still her forces hold a grudge against her sire... and his patron city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Who is the 'enemy' you're fighting?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>When she sees you, her smile is radiant. "Do you bring news?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Script Node 133</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Script Node 134</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"I'll miss this place. But I guess you all already know that. I'll be back, if I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"The future awaits, and I enter it with eyes closed. Farewell, my friends."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Not much for departures, so I'll keep it short - so long, you knaves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"I cannot see my futures. I am left with the hope that I will meet you all again. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"O said I would birth empires. I can only hope that means I survive." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"I've talked to Leto. She will not come."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>She frowns. "A seer would have been a worthwhile addition. But no matter. We will make do without her."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

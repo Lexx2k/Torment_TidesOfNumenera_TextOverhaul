@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4602_generator</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>55</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>All of the cables in the room connect to this bulky machine and its twin. They generate a low rumble that you feel in your feet.
+
+As you approach, a screen lights up. A strange, mazelike rune flashes angrily in the center of the screen. Three other glyphs revolve slowly around it in an elliptical orbit - a bolt of lightning, a set of parallel lines, and a circle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The smashed generator sits quietly in the corner. No rumbling or power emanates from within, and the screen remains resolutely black.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The machine continues to rumble softly. As you approach, the screen lights up again - a mazelike rune flashes angrily in the center of the screen with three glyphs revolving slowly around it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Touch the flashing, mazelike rune.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>A technical schematic appears of the device at the center of the room - the source of the low hum. Vertical lines of runes display next to it, but you don't recognize the script.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Step away from the machine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Bank 7</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Try to decipher the runes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Try to decipher the runes again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Although you can't read the runes, the gist of the message becomes clear. It's a warning about the device with the two crystals at the center of the chamber. The device has deteriorated to an unstable state, and *any* fluctuation in power is likely to result in an interruption in function.
+
+The runes do not say what will happen if the device ceases to function, or if they do, you cannot decipher it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You catch snippets of meaning here and there, but the gist of the message eludes you. It seems to be a warning about the current state of the device with two crystals at the center of the chamber, but whether it is a call to action or a warning against such is unclear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Return the interface to the initial screen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You press a small icon in one corner. The display disappears and is replaced with the flashing mazelike rune surrounding by three revolving glyphs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Touch the glyph that looks like a bolt of lightning.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Touch the circular glyph.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Touch the glyph of parallel lines.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The circular symbol dims, and the pulsing rhythm of symbols marching into the image cease.
+
+The low hum that permeates the cave fades then grows completely silent.
+
+{SOUND: The humming sound should stop here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>After a brief pause, the device in the chamber's center makes strange popping sounds. Its image flashes on the screen. Red parallel lines cross the former power connection.
+
+Arcs of energy jump over the surface of the device for a few moments, then cease. The cavern becomes eerily quiet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[In the quiet that follows, you could swear you hear a faint hissing sound off in the distance. As you ponder its source and significance, the crystals around you erupt, revealing themselves to be deadly creatures bent on your destruction!]
+
+{SCRIPT:  Start tussle!}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>An image appears depicting the humming device in the center of the room - the one with two crystals. Symbols flow into the image, showing that the device is currently receiving power from the machine before you.
+
+A circular symbol pulses each time a symbol flows into the image. Pressing it would likely cut the flow of power to the crystals, causing the humming to cease. 
+
+The circular symbol is outlined in red, suggesting that the function of this device is particularly important.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Press the pulsing circular symbol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Bank 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Destroy the machine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Try to destroy the machine again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>The screen cracks and shatters under your mighty blow. You continue, smashing the frame and the housing until the machine itself goes dark.
+
+The devices in the rest of the room go dark as well. The humming that once permeated the cave grows eerily silent.
+
+An energy field near the entrance of the room disappears.
+
+{SOUND: Stop the low hum.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>You dent the machine in several places, but the flow of power continues to the other devices in the room. The screen is cracked but still functional.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>An image appears of the pod in the far corner of the room. The image of the pod is dim. A circular symbol sits next to the image.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Bank 28</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Try to figure out the key to unlocking the force field based on the clue from the experiment notes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Try again to figure out the key to unlocking the force field based on the clue from the experiment notes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>*The three geodesics through the barycenter are the key.* Watching the glyphs revolve around the central rune, the meaning suddenly becomes clear. The symbols increase and decrease in size as they move around the rune, traveling more quickly when they come close to it and slower when they're farther away.
+
+They aren't revolving. They're *orbiting*, and the rune is the barycenter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>The notes said, "The three geodesics through the barycenter are the key." You hoped that looking at the generator's interface might make that clear, but it doesn't. The 'clue' makes as much sense now as it did when you first heard it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The rune and glyphs disappear, replaced with an image depicting the bank of three large crystals to your right. Symbols flow into the image, showing that the device is currently receiving power from the machine before you.
+
+A circular symbol glows next to the image. Each time one of the symbols enters the image of the crystals, the circular symbol pulses brightly. Pressing it would likely cut the flow of power to the bank of crystals.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Touch the pulsing circular symbol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>The circular symbol dims, and the symbols freeze in place, no longer marching into the image of the three crystals. To your right, lights on the bank of crystals fade.
+
+A phobit blinks and chirps within one of the large crystals, finally freed from its imprisonment. It zips around in the crystal, makes cheerful noises in your direction, then vanishes in a flash of light.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Press the dim circular symbol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The device powers up again. Unsurprisingly, the phobit doesn't return.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>An image appears depicting the large machine to your right that houses a bank of three crystals. The image is dimmed, showing no power flowing into it.
+
+A dim, circular symbol sits next to the image.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>An image appears depicting the humming device in the center of the room - the one with two crystals. It flashes angrily. Red parallel lines cut through the lines of power.
+
+The circular symbol is gone. There seems to be no way to restore power to the broken device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>An image appears of the pod in the far corner of the room. The image of the pod is dim. Symbols flow into the image, showing that the pod is currently receiving power from the machine before you.
+
+A circular symbol pulses each time one of the symbols enters the image of the pod. Pressing it would likely cut the flow of power into the pod.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Press the dim circular symbol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Both the symbol and the pod light up on the screen. The circular symbol pulses in time with odd symbols that march into the image of the pod itself.
+
+In the far corner of the room, new noises indicate that the pod is now receiving power.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Press the pulsing circular symbol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Both the symbol and the pod dim. The marching symbols disappear. In the far corner of the room, the pod itself goes dark.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>The interface disappears, replaced by an image of some kind of field projector. Triumphant, you cut the power to the projector.
+
+Across the cavern, the force field deactivates.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>The technical schematic of the humming device appears again. Vertical runes display next to it, warning that any fluctuation in power to the device will result in an interruption in function.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>An image appears of the device in the center of the room. Red lines cut through the picture at an oblique angle, flashing angrily.
+
+A single line of runes flashes next to the picture - clearly a warning that something is wrong with the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>A picture appears. It looks like a technical schematic of the device behind you, at the center of the room - the source of the low hum.
+
+Vertical lines of runes appear next to the schematic, but you can't read them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>You do not learn anything new.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Suddenly, a colorful light blinks and chirps within the crystals housed by the machine. It's a phobit! It zips around in the crystal, makes cheerful noises toward you, then vanishes in a flash of light.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>You try again, and though you are able to mar the surface of the machine even further, the flow of power continues unabated.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Staring at the interface for several minutes more, you still can't make sense of the clue from the experiment notes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>The definition of geodesic rises from the depths of your mind as well. It means a great circle track - the shortest line between two points on a sphere.
+
+On a hunch, you draw a line from each of the three symbols to the others, curving the line through the rune in the center. The symbols stop orbiting. Lines appear where your finger drags across the interface. Soon you have three curved lines connecting each of the symbols - three geodesics through the same barycenter...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>The circular symbol dims, and the symbols freeze in place, no longer marching into the image of the three crystals. To your right, lights on the bank of crystals fade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>The screen cracks and shatters under your mighty blow. You continue, smashing the frame and the housing until the machine itself goes dark.
+
+The devices in the rest of the room go dark as well. The humming that once permeated the cave grows eerily silent.
+
+{SOUND: Stop the low hum.}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

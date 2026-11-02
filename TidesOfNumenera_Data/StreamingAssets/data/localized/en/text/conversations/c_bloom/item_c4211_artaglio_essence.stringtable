@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\item_c4211_artaglio_essence</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Drink Artaglio's essence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Put the essence away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You uncork the bottle and the smell that rises is vile beyond description. It smells like rotting meat mixed with acid, rank with fear. But underneath that fear is a bolder, earthier smell, and you focus on that rather than the sharp scent. It makes the draught go down easier, though you still gag as it clings to your throat. The aftertaste is surprisingly not horrible. In fact, it's almost palatable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The thin, yellow gruel that sloshes around this bottle reminds you of nothing more than the bile that remains after a lengthy bout of sickness - whether the result of a dry heave or the product of an altogether different orifice, you can't say. Either way, its smell repels you, and you are loathe to have it contact your skin. How did Sheen vomit this up? What sort of man is Artaglio if this is his essence?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Actually, the aftertaste is becoming quite pleasant. Bold, spicy, large. Your limbs tremble for a moment as a bout of fear shakes through you, adrenaline shorting your limbic system into a purely instinctive fight-or-flight, but that rush disappears, leaving behind a pleasant glow. Your head clouds, your vision tightens, a pressure building behind your eyes - not a painful pressure, but a feeling like you're about to cry... or laugh harder than you've ever laughed before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>No... it's laughter. You feel laughter welling within you.
+
+You snort as you consider what this means for Artaglio's legacy - deemed by most a coward dressing himself in the face of a brave man, but underneath is a man whose greatest pleasure is in his friends and in doing great deeds for them. You suddenly understand that his fear is not for himself, but the idea that he can't protect his cohorts.
+
+And then you start laughing. You can't seem to help it. Life's all a big joke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Artaglio's memories burn themselves into your consciousness, and you're not quite sure where his end and yours begin. You feel his mind and feelings jostling for space in your being, and suddenly... a wide space inside you opens, a calmness. The Calm. You feel a new presence there, distinct from your own, but integrated and whole.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

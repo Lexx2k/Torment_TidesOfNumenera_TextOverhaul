@@ -1,0 +1,1342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2621_salimeri</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>233</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This tall, stately woman studies the air with the intense focus of an artisan. She senses your approach and faces you.
+
+Concentration turns to surprise... then awe-tinged anger.
+
+"Adahn!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>You float beneath a nauseous tide of darkness. Indistinct sounds drift by you like shining fish. Slowly, you rise towards consciousness and the sounds string themselves together into words. A woman's voice, arch and scornful. 
+
+"Have you *any* idea who this is? Who you've hauled through the streets like a sack of grain? Qorro, look at the tattoo, for pity's sake. Does it mean nothing to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You recognize one of the parties in this one-sided argument - Qorro, the star-seeker you met in the Reef. He studies his boots, silent and miserable. 
+
+The other is a tall woman in finely-cut robes, regarding the man with arch disdain. 
+
+"When I told you to retrieve the falling star, I wonder if you heard 'return to me with empty hands and excuses'." She sighs. 
+
+"I no longer need your services, Qorro. Collect your things and go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"What? No, Salimeri, I... I *tried*. I nearly died!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"And that is why you are unsuited for this work." She massages her eyes. "Honestly, I don't know what I expected. I saw promise in you, but also the flaws. And I ignored them. "
+
+She spots you out of the corner of her eye and turns to you, framing a sharp rebuke at your intrusion. Her anger turns to stark amazement when she sees your face.
+
+"Adahn!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"What? No, Salimeri, I... I searched the Reef for hours! Whatever fell was long gone by the time we got there!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"He can't be," Qorro says, after a moment. "I saw him die. Salimeri, I swear to you that I had no idea-"</DefaultText>
+      <FemaleText>"She can't be," Qorro says, after a moment. "I saw her die. Salimeri, I swear to you that I had no idea-"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Of course you didn't," the woman says. "Reaching even the most obvious conclusion requires at least *some* degree of intelligence. I asked you to retrieve the falling star, whatever it was, not assault a stranger, and *especially* not one who happened to be the Changing God!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"He'll be awake soon, Salimeri, I promise. And I swear to you that I had no idea-"</DefaultText>
+      <FemaleText>"She'll be awake soon, Salimeri, I promise. And I swear to you that I had no idea-"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Get up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Knock Qorro down. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Qorro recoils with a muttered curse as you rise, grimacing and unsteady.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Grimacing, you lash out, kicking Qorro's legs from under him. He topples onto his back with a startled squawk. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"That was beneath you, Adahn," the woman says. You rise, struggling to focus on her.
+
+Salimeri's arms are folded, and she is distinctly unamused. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Come now, Adahn," Salimeri says. "Do shake it off. I don't believe for a second that you're actually feeling your age." 
+
+You struggle to focus on Salimeri. Her arms are folded and she is distinctly unamused.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I haven't seen you in ten years. Ten. Years. I cannot *begin* to imagine what your excuse might be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I am not, uh, Adahn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>(Lie) "I meet a lot of people. Can you remind me how we know each other?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>(Lie) "If you want an apology from me, you'll be waiting a long time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>(Lie) "I became aware of a plot against my life. I had to flee the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>She shakes her head.
+
+"Well," she says. "At least my memory of your temperament is accurate. Despite the name, you never change, do you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>She arches an eyebrow. This was, apparently, exactly the wrong thing to say. 
+
+"You have a scar on your left buttock," she says. "Does that paint a picture, perhaps?"
+
+She trails off, studying your face. A smile blooms. "Oh. Oh, of *course*. You're not Adahn. You're a castoff. Really, you should have said."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"A plot!" she exclaims. "Just one? *Please*. It would take nothing short of an army to send you into hiding..."
+
+She trails off, studying your face. A smile blooms. "Oh. Oh, of *course*. You're not Adahn. You're a castoff. Really, you should have said."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>She blinks once, twice. A smile blooms. 
+
+"You're a castoff," she murmurs, studying you from head to foot with an appraising - and somewhat proprietary - eye. "Remarkable. This is rather like visiting a house you once owned, and seeing new tenants through the windows."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Qorro glances between the two of you, clenching his fists.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"You left me in the middle of the night without a word of thanks," Salimeri continues. "After I introduced you to the Order of Truth. Connected you to my contacts at the Oasis. Helped you with your research!"
+
+She settles her hands on her hips, a lone finger tapping her impatience. "What I'm saying is that I have a problem, Adahn. And you're going to help me with it. You owe me that much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText> Addend. 30</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>A furious blush creeps down her throat, and though she is hiding it well, her hands are shaking. This is not the reaction of a former colleague or a friend. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>(Lie) "I fell in love with someone else. I'm sorry, but that's the truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>She nods, her face a carefully-composed mask.
+
+"Well, of course you did," she says. "But we are both adults, Adahn. You could have told me rather than absconding by moonlight. I'm not saying I would have been delighted, but I would have at least known you were *alive*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"I've met members of your little family before, of course. Trailing around in *that* shadow, looking for clues, or trying to repair the damage."
+
+Her smile is genuine and somewhat sad. Her eyes linger on yours, as if looking for *any* flash of recognition. "I can help you, if you like. But I need something from you first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"I owe you nothing, Salimeri. You'll be lucky if I even remember you in a hundred years' time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"That sounds interesting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I'll think it over."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>She barks a laugh in your face. 
+
+"Have it your way," she says. "Miss out on the expedition of several lifetimes for the sake of your *pride*." 
+
+She turns away from you. "Don't let me keep you, Adahn. You were leaving."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Doesn't it? Well, it's a bit of a long pitch, so do let me know when you're ready to talk it over."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>::mutters::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Do that," she says, then grins wolfishly. "And tell me when the answer is 'yes'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText> Follow-up PQ. 42</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Let's talk about that favor you want."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I want to talk to you about the Anechoic Lazaret."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Of course."
+
+She draws your attention to a map of the Reef of Fallen Worlds on her workstation and taps a gilded, ornate structure, not far from the dome containing the resonance chamber. "This is the Anechoic Lazaret. It has been hopelessly sealed since the dawn of the Ninth World until," she smiles, "I managed it in a week or two. It was quite simple once you figured out the trick."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Oh?" she says, her face a carefully-composed mask. "What is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"I've been slipping in and out at nights, investigating the technology within, taking notes." She frowns. "Then, more recently, I discovered that the structure was sealed again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Do you think one of your colleagues is responsible?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Maybe you tripped an ancient security measure?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I doubt it," she says. "First of all, I haven't told them. The Order has been trying to open the Lazaret for centuries, and I want it to myself for now."
+
+She rolls her eyes. "Secondly, my colleagues are nosy and *somewhat* competitive in a charmingly amateuristic fashion. But none of them have the stones for out-and-out treachery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"No," she says crisply. "I would not make such a careless mistake."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I believe *someone* tramped inside with no regard for the dangers and managed to trigger a failsafe that resealed the structure." She flicks a strand of hair from her eyes. 
+
+"I need someone to reopen the Lazaret and," she waves a vague hand, "handle whatever nonsense the trespassers have stirred up in their wake."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Why not send Qorro?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Why me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Can't you handle this yourself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"I suppose I could do that," she says. Qorro stirs hopefully. "If I wanted him dead by sundown, and the entire structure looted by strangers. Or aflame."
+
+She arches a cold eyebrow. "Alternately, I could hire someone competent." 
+
+Qorro sags. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Simple," she says. "You are a castoff. All of you were made to be useful in some way or another. All of you are, at minimum, competent. In short, you're better than any of the draff I have at hand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Oh certainly," she says with a gentle snort. "Perhaps I could draw upon my literal *seconds* of combat experience, and deal with the potentially violent intruders in a series of sporting one-on-one duels." She gives you a flat look. "On second thought, perhaps we should play it safe."
+
+"I want you to take care of this for me. Needless to say, I would also prefer the structure in an undamaged state, as I left it."
+
+She smooths her robes. "Well. There it is. Will you help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Besides, I *can* reopen the structure. The concern is what's waiting for me inside." She holds your gaze for a moment to make sure you understand. 
+
+"I want you to deal with whatever's gone wrong in there so I can resume my work. Needless to say, I would also prefer the structure in an undamaged state, as I left it."
+
+She smooths her robes. "Well. There it is. Will you help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"False modesty? That's unlike you. Or perhaps you're fishing for compliments."
+
+She folds her arms. "Very well, if I must. 'You are the Changing God'," she intones. "'The Secret-Breaker. The Nano with a Million Faces. Doors fall open at your word. The deepest mysteries unravel themselves at the touch of your gloved hands."
+
+She cocks her head. "Is that better?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Excellent," she says briskly, but relief flashes across her face. She hands you a metallic stalk with flower-like ridges along its length and a mechanical eye at one end.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Yes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Not right now. Perhaps later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"I will if I have time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Of course," she says smoothly, but disappointment flashes across her face. She hands you a metallic stalk with flower-like ridges along its length and a mechanical eye at one end.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Of course," she says smoothly, but disappointment flashes across her face. "Let me know if you change your mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I've changed my mind. I'll investigate that Anechoic Lazaret for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>""
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"This, as you likely know, is the eye of a mlox, and how I originally accessed the structure. The fact that the Lazaret recognizes this organ as an authorized user implies that its builders were machine intelligences. Maybe a machine *civilization*, from before the dawn of the Ninth World."
+
+She smiles, brushing off her hands. "Well! On your way. Do watch your step in the Reef. It can be quite dangerous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Please, Salimeri," Qorro says, edging in beside you. "Give me another chance. I can handle this!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Simply head down to the Reef of Fallen Worlds, brandish this at the door of the Lazaret, and it should - *should* - open before you. Good luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Let him try, Salimeri. Why not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"I don't work with amateurs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Say nothing. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Qorro's fist clenches, but he otherwise continues pretending you don't exist. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>He shoots you a mistrustful glance, but otherwise continues pretending you don't exist. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Hmm," she says, looking between the two of you. Salimeri considers you both, then sorts through her worktable, picking up a metallic eye. 
+
+"You're welcome to try, Qorro," she says. She hands the eye over, but holds onto it when he tries to take it. 
+
+"This is your last chance," she says. "If you come back empty-handed, you had better be dead as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Bank 81</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"I'm trying to repair something called a resonance chamber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Who did you say can advise me on repairing the resonance chamber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"I have some questions about the Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Good," she says. "Curiosity about your origin is quite healthy."
+
+Her expression hardens. "I will be happy to share what I know once you've completed that favor for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText> Follow-up PQ. 87</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Can I ask you some questions about the city?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"I have more questions about Sagus Cliffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText> Follow-up T. 90</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Ah, yes. Your little device," she says, glancing away. "I'm afraid I never understood how it worked. Perhaps one of the other priests will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Hmm. Best to ask everyone in the Order of Truth, I should think."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText> Follow-up T. 93</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Ah, that contraption," she says. "I'd be delighted to help - as I was before - but I'll need you to do that little favor for me first. Enter the Anechoic Lazaret, and make it safe for me to resume my work there."
+
+She lowers her voice. "If you seek assistance from the others in the Order, do be careful - I suspect one of them is an informant for the Memovira. Too many of our finds have been pillaged by her thugs."
+{JOURNAL: Should add a journal note about Salimeri mentioning there is a spy in the OoT, but not knowing who it is.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"I need you to do that favor for me first. Reopen the Anechoic Lazaret, and deal with whatever trouble you find inside. I'm not quite in the business of providing my expertise for free, after all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Perhaps I'll see you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Yes," she says. "Let's."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Trembling, Qorro pockets the eye and leaves, eyes downcast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Oh," she adds, seeing your expression. "You've already told someone."
+
+She shrugs lightly. "Well, that was a mistake. But do return once you've reopened the Lazaret, and I'll help you if I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Bank 102</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"What is the Anechoic Lazaret, anyway?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"What is the Anechoic Lazaret again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"I'm not quite ready to issue definitive answers on that topic," she says lightly. "I *suspect* it was once a place of healing - or quarantine - for machine intelligences. Even if I'm wrong, this is the find of many, many lifetimes. Few remnants of the prior worlds are ever so intact." 
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"I believe I told you that I am not quite sure," she says, frowning. "That is rather the reason why I need access to it again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"I'm helping Aligern here with a problem. Have you seen a priest named Orth Faung?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Not recently," she says. "Min may know where he is, however."
+
+She turns her attention to Aligern. "Amazing," she says. "Still toddling about in Adahn's shadow after all this time. It's a wonder you ever found time to be an Aeon Priest."
+
+She affects a pained expression. "Oh. My apologies. You quit, didn't you? I keep forgetting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"I'm surprised you even know what an Aeon Priest is," Aligern growls. "The Order of Truth is supposed to share knowledge. You hide it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"'The truth', huh?" Aligern says quietly. "Good to hear."
+
+Salimeri studies your face, giving no impression that she heard him. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Aligern chuckles bitterly. Salimeri, studying your face, gives no impression that she heard him. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"And with good reason," she says smoothly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"What have you been doing while I was away?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"What do you do here, anyway?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Much of the same," she says casually. "Advancing my research. Working on one book or another. Handling tasks for the city when they arrive. The time has flown past, frankly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Still laboring under lesser minds, dear?" Callistege says, running the edge of her thumb along a nail. "I've never understood how you put up with it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"It's quite simple," Salimeri says with brittle humor. "They pay. That helps a great deal. Will you be staying with us for long this time?"
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"I study the ruins and remnants of past worlds," she says. "When I have time, of course. These days, the Order spends more of its time helping the city than on its own research."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Bank 122</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Where am I?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Where am I again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Of course," she says wearily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Certainly," she says. "Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Qorro hit you rather hard, didn't he? This is the Order of Truth. Government Square? At the top of Sagus Cliffs? Any of this sounding familiar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"The Order of Truth in Government Square."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"The Order of Truth," she says, half-turned away so she doesn't need to look at you. "Government Square, near the top of the city crag."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Certainly," she says. "I would have thought all of this was rather familiar. Still forgetful after all these years, aren't you?"
+
+She clucks her tongue. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Bank 131</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"I'm looking for the Cult of the Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Where is the Cult of the Changing God again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"They're camped about the clock in Circus Minor," she says. "Do go see them. Let them bask in your self-importance, Adahn. Don't let me keep you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>She nods. "These days, they're camped about the clock in Circus Minor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Camped about the clock in Circus Minor." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Bank 137</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"I need a place to sleep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Can you tell me where I can sleep in the city again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Her nostrils flare. 
+
+"Do you," she says. "I believe Tranquility's Rest in Caravanserai might have you. Or perhaps you'd prefer bedding down with one of your fawning cultists in Circus Minor?"
+
+She turns her back fully on you. "I'm busy here. Farewell, Adahn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Tranquility's Rest is a decent hostel. You might find a bed there. Failing that, I'm sure the cult in Circus Minor would have you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Tranquility's Rest in Caravanserai or the cultists' camp  in Circus Minor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Honestly, Adahn," she says, giving you an odd look. "The city hasn't changed *that* much in ten years."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Ah. There you are," she says, beaming, and holds out a smooth palm. "The eye of the mlox, please."
+
+You hand it over, and she returns it to her workstation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Qorro gives you a pleading look. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText> Then, she gracefully inclines her head in Qorro's direction. 
+
+"Was he of any use to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Yes, he was."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"No, you were right. He's useless."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Very well," she sighs. "Qorro, you can stay. Do try to limit your failures in the future to matters I care less about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Qorro exhales all at once, and nods in your direction. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Oh, Qorro," she says, clucking her tongue. "I would wish you luck out in the world, but I do so hate to waste it. Please gather your pride and leave us before I summon a levy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>With one last, murderous look at you, Qorro storms off.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"With that out of the way," she says, "here is a reward for your considerable effort. Thank you."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>""
+{GAVIN: Implement later once Order of Truth is in. Blank globaled for now}
+{SCRIPT: Only visible if PC has completed her quest.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Bank 157</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>""
+{GAVIN: Implement later once Order of Truth is in. Blank globaled for now}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"By the way, I managed to save a few of the drones in the Lazaret from Peerless."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>She nearly jumps. 
+
+"Lower your voice," she whispers. "Astonishing. Your predecessor couldn't have done better."
+
+She passes you a heavy bag from her workstation. "A small bonus. Keep what you've learned in there to yourself until my book is finished."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>She nearly jumps. 
+
+"Lower your voice," she hisses. "I never expected... you *remarkable* man. I'd kiss you if I wasn't still furious with you."
+
+Still, she is smiling. "Take this instead. And get out of my sight."
+{LOOT}</DefaultText>
+      <FemaleText>She visibly flinches 
+
+"Lower your voice," she whispers. "I never expected... you *remarkable* woman. I'd kiss you if I wasn't still furious with you."
+
+Still, she is smiling. "Take this instead. And get out of my sight."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Bank 167</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"I've solved your problem. Now I need help fixing the resonance chamber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Tell me who can fix the resonance chamber again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Well, I remember what you told me," she says, frowning. "You built it using living crystals from a world called the Ascension, and were remarkably resistant to telling me what it was for, regardless of the interrogation methods I employed." Her mouth quirks. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Well, I remember what Adahn told me," she says, frowning. "The chamber was built with living crystals from a world called the Ascension. Your predecessor was remarkably resistant to telling me what it was for, regardless of the interrogation methods I employed." Her mouth quirks. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"The artificer castoff who helped build it, I suppose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"You only said that it would stop the Sorrow, and that none of the castoffs could know about it.  Which seemed... odd to me at the time. Escaping the Sorrow would be in all of your best interests, I would think."
+
+She snaps her fingers. "Have you spoken to the castoff who helped you build it? That surly artificer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Mazzof," Matkina mutters. "That's Mazzof."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"He only said that it would stop the Sorrow, and that none of the castoffs could know about it.  Which seemed... odd to me at the time. Escaping the Sorrow would be in all of your best interests, I would think."
+
+She snaps her fingers. "Seek out the castoff who helped him build it. That surly artificer whose name escapes me at the moment."</DefaultText>
+      <FemaleText>"She only said that it would stop the Sorrow, and that none of the castoffs could know about it.  Which seemed... odd to me at the time. Escaping the Sorrow would be in all of your best interests, I would think."
+
+She snaps her fingers. "Seek out the castoff who helped her build it. That surly artificer whose name escapes me at the moment."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Mazzof," Matkina mutters. "That's Mazzof."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"I forget his name," Salimeri continues, "and I only saw him once. He has machines buzzing away in his body and circuits embedded in his flesh."
+
+She taps her lip thoughtfully. "Speak to Adahn's little cult in Circus Minor if you haven't already. They always seem to know who your brothers and sisters are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Thank you, Salimeri."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"That's all you know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Her lips part, and for a moment, she looks surprised.
+
+"You're welcome," she says at last. "You're quite different from your father, you know."</DefaultText>
+      <FemaleText>Her lips part, and for a moment, she looks surprised.
+
+"You're welcome," she says at last. "You're quite different from your mother, you know."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"You are your father's son, aren't you? You're just like him."</DefaultText>
+      <FemaleText>"You are your mother's daughter, aren't you? You're just like her."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Adahn was fascinating. Intense. Focused on building that chamber. Passionate one moment, and distant as the stars the next. I never understood why."
+
+She half-turns away from you. "Oh, and Adahn was ruthless. Utterly ruthless. I am living proof of that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"I thank you," Qorro mutters, clapping your shoulder awkwardly as you pass, and handing you a small, jingling bag. "Can't say I would have done the same in your place."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>
+An image flashes before you, unbidden - Salimeri, ten years younger, and asleep in bed beside you, her lips parted. She is dreaming. And smiling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Uh. Are we talking about *romantic* favors here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>She rolls her eyes.
+
+"Please. That time is dead, gone, and buried beneath a decade. At any rate, think it over." She grins wolfishly. "And tell me when you're ready to help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Well," she says, raising an eyebrow. "Look who's back. I half-expected you to be gone for another decade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Back so soon?" she says, raising an eyebrow. "You're far more dependable than Adahn ever was."
+
+She pauses. "In some ways, at least."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Yes, Adahn? What is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Yes?" she says, looking at you out of the corner of her eye. "What is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Remain silent. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"What should I know about the interior of the Lazaret? Is it dangerous?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"It wasn't," she says. "But since I suspect someone or something got trapped inside..."
+
+She shrugs slightly. "Be careful. And do try to avoid breaking anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>The hint of a vindictive smile graces her lips. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"What was your advice about the resonance chamber again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"I forget his name, and I only saw him once, when you are I were having breakfast in the Ambiguous Gardens." She smiles at the memory. "You know who I mean. The one with the machines in his body and the circuits on his flesh."
+
+When you don't respond, she says. "You never remember your castoffs, do you? Speak to your little cult if you haven't already, Adahn. They always seem to know where your children are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"The Changing God cult in Circus Minor might be able to help you find him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Mazzof," Matkina mutters. "That's Mazzof."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>::mutters::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"I think not," Callistege says, letting her hand fall. "Busy times ahead, I'm afraid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Not recently," she says. "Min may know where he is, however."
+
+She turns her attention to Aligern. "Amazing," she says. "First you wander about in Adahn's shadow, and now you're trailing after his castoffs. It's a wonder you ever found time to be an Aeon Priest."
+
+She affects a pained expression. "Oh. My apologies. You quit, didn't you? I keep forgetting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Hold on. You think there's a spy in the Order of Truth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Almost certainly," she says, losing interest. "But I let Min worry about that. Spies aren't a problem if you never share your secrets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>She watches him go and sighs. 
+
+"He is going to fail, of course. It's what he does best."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"I had such hopes for him," Salimeri says, watching Qorro go. "I really must stop *hoping* one day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Oh," she adds, seeing your expression. "You've already told someone."
+
+She shrugs lightly. "Well, that was a mistake."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Perhaps I'll see you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>She pulls you away from Salimeri. "This was not how I pictured you arriving at the Order of Truth, to be clear. I had no part in Qorro's ambush, but I did prevail on him to allow me to accompany you here."
+
+"Now that you've come, you may as well take full advantage of the situation and avail yourself of the knowledge here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>She curls her lip in distaste. "Aligern is not with us, as you can see. He would not sully his precious mind by stepping within these walls, and so he has gone off to his workshop in the Underbelly. I suggest you let him rot there. The words we spoke as we parted were... unkind. His accusations of betrayal were the final pin atop an overloaded bridge. So you were, in a sense, the catalyst of our change."
+
+Her disposition becomes radiant. "And we are free of his gloom and mistrust. Come! "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Salimeri's dangerous little task can wait, dear. Let's explore the city, you and I."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"That could have gone better, don't you think?"
+
+She pulls you away from Salimeri. "This was not how I pictured you arriving at the Order of Truth, to be clear. I had no part in Qorro's ambush, but I did prevail on him to allow me to accompany you here."
+
+"Now that you've come, you may as well take full advantage of the situation and avail yourself of the knowledge here. Perhaps you might make amends with Salimeri to start."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"I'm not going to agree to anything without more information."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Oh," she says, rolling her eyes. "Reason. Lovely. Well, think it over."  She grins wolfishly. "And tell me when you're ready to help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Who or what is the Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>She gives you a long, strange look. 
+
+"Is your age catching up with you, Adahn?" she says at last. "She's a crime lord. She rules the Bloom. Any of this tinkling any bells?"
+
+She massages her eyes with her fingers. "I'm going to assume you have other things on your perfectly healthy mind. It spares me from asking any probing questions that would simply embarrass us both."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"The simple definition would be 'a crime lord in the Bloom'. But she is quite a bit more than that. In all ways that matter, she rules that tangled cesspit. And her spies are everywhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"I suppose some apologies are in order," she says, glaring at you. "I'll go first. If I had known *you* were the falling star, I would have given Qorro very different instructions."
+
+She raises an eyebrow. "Now, it's *your* turn." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"You're talking about Mazzof, aren't you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Yes, that was his name! You already knew? Were you *testing* me?" She arches an eyebrow. "That's exactly the sort of thing your 'father' would have done."</DefaultText>
+      <FemaleText>"Yes, that was his name! You already knew? Were you *testing* me?" She arches an eyebrow. "That's exactly the sort of thing your 'mother' would have done."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"That castoff artificer... Mazzof." She gives you a quizzical look. "But you were the one who told *me* his name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"I forget his name, and I only saw him once, when you are I were having breakfast in the Ambiguous Gardens." She smiles at the memory. "You know who I mean. The one with the machines in his body and the circuits on his flesh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Mazzof."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Say nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Yes, that was his name! You already knew? Were you *testing* me?" She arches an eyebrow. "You haven't changed at all, Adahn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"You never remember your castoffs, do you? They're the closest thing you have to children, but they matter nothing to you." She rolls her eyes. "You haven't changed at all, Adahn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Yes, that's right. The one with the machines in his body and the circuits on his flesh. I only saw Mazzof once, when Adahn and I were having breakfast in the Ambiguous Gardens." She smiles at the memory.
+
+When you don't respond, she says. "You never remember your castoffs, do you? Speak to your little cult if you haven't already, Adahn. They always seem to know where your children are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"That's right," Salimeri says, snapping her fingers. "The one with machines buzzing away in his body and circuits embedded in his flesh."
+
+She taps her lip thoughtfully. "Speak to Adahn's little cult in Circus Minor if you haven't already. They always seem to know who your brothers and sisters are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"The world lies open before us!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Outrageous," she mutters. "Aligern was actually right about something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Now, now, Callistege. The man is exceptional in his own way. Just because he can't match your analytical speed doesn't mean that he does not have gifts and wisdom of his own." She arches an eyebrow to you.
+
+"At any rate, seek out the cult. They should know how to find your machine-man brother."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

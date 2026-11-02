@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\item_c4311_navigational_cortex</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You pull the Cortex out and hold it, and as you focus on it, a pale blue symbol discreetly appears in your vision, overlaying reality. It's a small, encircled 'plus' sign, and somehow, instinctively, you know that it's a location finder. It blinks quietly but insistently, waiting for you to acknowledge it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The Cortex's pale blue symbol overlays your vision, blinking softly but insistently, waiting for your attention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Where am I now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Put the Cortex away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>A broad, spinning disk with arms that spiral around a bright center appears in your vision, lingering long enough for you to realize that this is an image of *stars*.
+
+And then the view changes as the Cortex's picture rushes toward a small point in one of the spiraling arms. It resolves into a reddish-yellow star, with seven dots circling it, in roughly elliptical orbits. Three of these appear to be rocks, while others are gassy giants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Stars in dizzying profusion appear in your vision, a number so great that your breath momentarily catches. They spin around a central axis of indescribable brilliance and beauty, but before you can focus, you are diving toward a point at the uppermost reaches of the images. 
+
+The point resolves quickly, a single dim, white star hovering in relative isolation. Five orbs circle the star, and the Cortex focuses on the fourth, a crystalline sphere with a somewhat elliptical orbit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>A mass of stars swirls in your vision, a conglomeration of so many billions of stars that you can't quite comprehend its scale. Suddenly you are diving toward a point to the middle right of the starfield, swooping and zooming toward a single star system. Projected orbits of its planets and moons are overlaid on the gas giants and small rocks that circle the star. The image in your vision focuses first on the star, and then shifts quickly to the fifth rock around it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>That world is small and blue, seeming to consist largely of oceans, with a few small, brown land masses. Some abandoned cities loom in patches on its islands, but before you can focus on those, the view shifts again to a single cord that rises from a dry plain on the largest island. Following the cord toward the sky, you see something that looks like a child's toy - a central hub that looks like a ziggurat mirrored top and bottom, with thick spokes that radiate from its center to the network of lines that surround it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>With a start, you realize that you're looking at the anchorage, and that the blobs at each of the intersecting lines are docking stations for space-faring vessels, and that the lines are passageways and transport tubes. Script and numbers scroll across your vision. The Cortex speaks in your mind.
+
+"You are in Waystation #5193, attached to the world Emmosh-thun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The small world is unmistakably the Ascension. From here, you see that it is regularly shaped, with stands of crystal growing high into the atmosphere, spaced at specific intervals, with patterns you can almost - but not quite - grasp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>The Cortex's voice speaks to you. "You are on the world known as the Ascension of Kex-Lianish."
+
+Strange script scrolls across your vision. You assume that it matches the voice's words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Local denizens refer to this planet as 'the Ninth World'. It has also been called 'Dirt' or 'Earth'."
+
+Script flows across the bottom of your vision, presumably matching the voice's words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The Cortex pauses here for a moment, and then focuses on the second rock. It is primarily blue, with a single dominant continent and scattered island chains. The view rushes toward an inland sea in the southeast of this four-pointed landmass. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"How far is this from the Ninth World?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Calculating." The image returns to the mass of stars, and the Cortex draws a line between this star and another on the right side of the image. A number appears: 30,000.
+
+"Distance shown is in light-years, displayed in your preferred mental time measurement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"How far is this from the Ninth World?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Calculating." The image retreats again, showing the great mass of stars again, and a red line appears between the location of the anchorage and another world. A number appears: 117.
+
+"Distance shown is in light-years, displayed in your preferred mental time measurement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"My companion Rhin can describe her sky. If she were to give you a visual description of a starfield, could you match it with your records?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Assuming an accurate description, I can provide an array of potential systems that would be suitable candidates."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Rhin, can you describe the constellations of your world?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Rhin describes her stuff and names some constellations.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Accessing. Comparing. Correlating local folklore." The cortex is silent in your mind for a moment, and then it speaks aloud. "No matches found. Please describe constellations in their position in the night sky, including direction."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Not right now. Let's step back a level."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I await your command."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Rhin describes where the stars go in the sky]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>The cortex is silent again, and you can feel it pulse in your hands before it speaks aloud again. "Projecting. Please adjust accordingly."
+
+Over the next few minutes, Rhin and the cortex discuss the constellations of her homeworld, her hand adjusting stars to match her memory. At the conclusion, the cortex announces:
+
+"No known worlds match. Preserving starfield in memory. Will project again upon request."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Show me Rhin's constellations again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Projecting." The starfield Rhin and the cortex constructed together beams out from the device, hovering in the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Bank 30</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>It looks vaguely familiar to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>You're not quite sure, but this looks familiar. You've seen this before, relatively recently... yes. It looks like the Ninth World, as seen from your precipitous fall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>You're certain that this is the Ninth World - you should know, having had a very similar view of the world during your harrowing fall from the moon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"You are in Waystation #5193, attached to the world Emmosh-thun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"You are on the world known as the Ascension of Kex-Lianish."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Local denizens refer to this planet as 'the Ninth World'. It has also been called 'Dirt' or 'Earth'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Can you analyze the images on the helmet now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Processing... one moment. Biological matter has entered some of the helmet's contacts. Modifying signal strength." The 'plus' sign in your vision shrinks and brightens. 
+
+"Processing complete. Report: Jemadar Achilli was struck and killed at the date of her last record. Her file has been updated to reflect this information. Analysis continues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>All of the images contained inside the helmet strobe rapidly through your vision. The images of the night sky that were so prevalent in the helm appear now, and the Cortex begins to layer star charts over the top of those pictures.
+
+"The information about the location of this world has now been added to my memory."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Do the images I saw in the broken helmet match any in your records?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Based on time regression analysis of star field and relative planetary position, those images were taken on the world that the lascar people call Home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Can you identify the helmet I found in the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"This helm belongs to the Jemadar Achilli. She has been missing for... fifteen years. It contains a visual record she marked as being of importance. She suggested these images be analyzed. I will do so on your command."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Analyze the information I found on the broken helmet."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

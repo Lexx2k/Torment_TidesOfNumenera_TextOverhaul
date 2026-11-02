@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3101_bubbling_pool</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Bubbles rise from the pool before you, and its barren edges are crusted with a white rime. The acrid reek of the water makes your eyes tear up. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Examine the pool. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Leave the pool. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The rime and reek around the pool suggest that the water has a dangerously high alkaline content. It would be dangerous to drink, or even to touch. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The water is slippery and tastes like soap. It constricts your throat so much it's hard to swallow. It burns on the way down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Despite the bubbles and deep color, the water is crystal clear, and you see down into the depths of the pool.
+
+There is a brassy metallic globe down there, caked with rime, but otherwise whole. Unfortunately, it is too far down to reach without diving in.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You walk away from the pool. Your eyes and sinuses thank you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The pool continues to bubble and stink. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Dive into the pool and try to retrieve the object. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Dive for the object again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>You dive into the water and your eyes instantly start burning. Your body is aflame, but you kick down, determined, and scrabble for the globe. As soon as it's safe in your hands, you kick for the surface. 
+
+You are screaming in pain as you climb from the pool. After agonizing minutes, you're able to pull yourself together enough to examine the globe. When you do, you discover it holds a treasure trove.
+
+{LOOT: a couple things, shins, cypher, misc, etc}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You dive in again, this time remembering to close your eyes, and again the water eats at your flesh. Finally, you find the globe by touch, then bring it up. 
+
+You are nearly unconscious from the pain as you pull yourself out, and it takes a while before you have recovered yourself enough to examine the globe. When you do, you see that it is a container, and, opening it, you find a little stash of cyphers.
+
+{SCRIPT: Loot drop.}
+{SCRIPT: PC takes a lot of damage.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>You dive into the water and your eyes instantly start burning. Your body is aflame, but you kick down, determined, and scrabble for the globe.  Unfortunately, the pain overwhelms you before you find it, and you have to swim to the surface again. 
+
+You scream in agony as you pull yourself out, and it takes a while to recover yourself and breathe normally.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>You dive in again, this time remembering to close your eyes, and again the water eats at your flesh. Sadly, you still cannot find the globe, and you are forced to head to the surface again almost instantly. 
+
+As you drag yourself out again, you see that this time, the water has eaten into your skin, and you are bleeding in several places. The flesh of your hands is as ragged as torn cloth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Drink the water from the pool. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Drink the water again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>The water burns your already tortured mouth, eating at your gums and the inside of your cheeks. You throat closes so tightly now you can't swallow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>You collapse, vomiting, as your stomach and intestines are eaten away and the water attacks your internal organs, then you lie there, retching and heaving, until, after far too long, you die.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"You know, ordinarily I'd laugh at your mistakes, but this one might get you killed. Don't do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"If my researches have taught me anything, it's that drinking from strange pools rarely has a salubrious effect." She shrugs. "But if you feel you must submit yourself to pain, be my guest."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

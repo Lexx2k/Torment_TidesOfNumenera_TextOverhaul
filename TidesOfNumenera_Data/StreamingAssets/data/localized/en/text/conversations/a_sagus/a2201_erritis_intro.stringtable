@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_erritis_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>118</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The first thing you notice about this wiry young man is the golden haze - the *glow* - surrounding him. It sparkles in his eyes and gives his easy grin a warmth that you can *feel* right down to your gut.  
+
+He spots you and straightens. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Greetings! Are you ready to travel together yet? Have amazing adventures?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I know what you're thinking. 'How in the world did you survive that crash, Erritis?' The answer is, as it always is, 'backflips'. But hold on. {slightly confused}How did you know my name? {urgent}Never mind. Not important. Of course you know my name. I'm Erritis!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Script Node 4</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I know! I'd call it luck that I didn't, but I *hate* modesty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"You'll never guess what happened next!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"You could have killed all of us!"
+{SCRIPT: Node 4 should only play the first day that the player encounters Erritis. These are triggered by the player's proximity, and will play in order. }</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"You knocked a house into the damn sea!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Now, all of you must be wondering how I survived the crash."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Just leave us alone!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Bank 11</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"How did you end up crashing the airship?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"How did you crash the airship again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I'm glad you asked!" This is somewhat of an understatement. He looks *ecstatic*. 
+
+"I was climbing up the cliffs to Caravanserai to see how impossible it was when I saw a star falling toward the Reef." He raises an earnest finger. "I knew, right then, that finding that star was my destiny."
+
+He runs his hands through his curls. "But what was I going to do? Climb down? Boring. Already did it the other way. Walk? *Walk*? Worse. Far worse. No fun at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I didn't! It crashed itself while I was flying it toward the fallen star in the Reef."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"You're in luck. That 'falling star' was me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"That star's old news now anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Cheer up. I bet no one found that star."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Why should I let you join me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>He gives you a puzzled look, as if you've just wondered aloud why air is important. 
+
+"I'm an adventurer," he repeats, brow furrowed. "I thought I told you. Adventure happens when I'm around, and you'll get to be a part of it."
+
+He raises a finger. "But you'll have to keep up, where we go..." He stares at the invisible horizon. "...we go swiftly. Strongly. And most of all, handsomely." He leans in conspiratorially. "Until you get handsome, I'll cover for the both of us." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Maybe you can join me another time. I already have too many people with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"You do?" He looks past you to your companions, and recoils in surprise. "Were they always there?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I changed my mind. I want you to join me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"That's strange," he says, sweeping a lock of blond hair out of his eyes. "I already talked to him once. I was explaining to him how I needed to borrow an airship. He said no, so I waited until he wasn't looking and borrowed it anyway..." He trails off, his golden glow diminishing slightly. A troubling thought wrestles its way onto his face. 
+
+"He's not *angry*, is he?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"He is *very* angry with you. You should talk to him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Oh," he says, staring at the ground. His glow fades further. "If you think it's the... the right thing to do."
+
+He blinks, and a wide smile spreads over his face. His aura *flares* like a star. "Yes! It *is* the right thing to do! And I'm going to do it! I'm going to right this wrong!"
+
+He strides off toward Caravanserai, whistling cheerfully. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Say I'm sorry? Whatever for? Sorries are for those that *are* sorry, and unfortunate those lot are, always sad-eyed and head-hunched. Be proud of your sorries, I say!" He takes a quick breath. "If *anyone* should be handing out sorries, it's that lazy airship! Think what could have happened in less disciplined hands!"
+
+A muffled *boom* sounds from within the crumpled airship nearby. 
+{SOUND: Muffled boom.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"He's going to be so grateful when I apologize!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Is there any way I can convince you to go up and see him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"No!" he says cheerfully. "You said it yourself. He's pretty angry at me, and I'm not good at making people not-mad. Nothing short of chains could drag me back up there."
+
+He pauses, frowning. "Of course, I might end up there by accident. I don't have a great sense of direction. Sometimes, I just follow people around for hours, hoping they know where they're going more than me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Apology?" he says, pronouncing it like an unfamiliar word. "Apologies don't fix broken airships. I don't think he'd appreciate it very much."
+
+He shakes his head. "I respect him too much to waste his time like that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I think you owe him an apology."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Bank 45</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"The owner of that airship wants to have a word with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Are you sure I can't convince you to talk to Master Rennio about the ship you stole?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"I'm sure! The only way I'm going to Caravanserai again is if I get lost or if someone drags me back up there!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Yes! Absolutely! Let's do that!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"See you later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I'll be here! Unless I'm not!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Script Node 53</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Everything started going red and blinky!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"I blindfolded myself for safety!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"All of the buttons burst into flame!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Then, I spun the wheel! Clockwise! Counter-clockwise! Counter-counter-clockwise!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>::grumbles::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Of course we can! We were there, you dimwit. You crashed that damn ship onto my vegetables!"
+{SCRIPT: All the empties here are lines for a generic male Cliff's Edge townsperson.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"I flipped the airship over - and this is the exciting part - on purpose!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Are you going to pay for all this damage or not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Of *course* not! I don't carry money! But a good story is priceless!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"No, no. It was already falling when I crashed.  *That's* why I aimed the airship for it. To hold it in place!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Don't worry. I don't need a medal or anything. Just happy to help!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"I wish you didn't!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Backflips! The answer is backflips!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Before I finish my story? I'd never do that to an audience."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"True!" Erritis shouts. "Wait a minute. That sounds like something *I* would say if you were me and I was still me!!"
+
+He waggles his finger at you. "I should have known we were kindred spirits from the start. We should travel together, other Erritis! Have adventures! Say yes! Don't say no!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"That's nice of you to say," he says, his glow pulsing with apparent gratitude. "You're kind, you know that? That's a rare thing these days. Very rare. People like you deserve wonderful things."
+
+Inspiration strikes his face like lighting. His glow blooms until he's hard to look at. "And I'm going to make sure you get one. Let's travel together! Don't say no!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Real sharp, this one," Aligern says, smirking. "A regular Aeon Priest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Yes, darling," Callistege says dryly. "But don't take it too hard. My sisters and I do tend to blend into the background."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"What. Why are you looking at me like that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Yes," says Rhin, looking concerned. "The entire time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"No, I'm an *adventurer*," Erritis says patiently. "Please try to keep up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Good gods."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Oh, hello," he says, waving at her. "And to you, and you..." He spends several happy moments waving at every variation of Callistege that flits through your reality. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Really? I didn't notic-" He looks past you, and sees Matkina for what is apparently the first time. His jaw drops. "Uh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Erritis takes a breath and tries again. 
+
+"Uh," he explains, with the expression of a drowning man. His golden aura pulses, possibly in time with his heartbeat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>She stares at him, unblinking, and turns to you. "Why is he looking at me like that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"I could hazard a guess, but I don't think I need to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"You two are going to make such a great couple."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>She glares at you, trying to decipher your devilish clue. Understanding dawns along with a slow, creeping horror. 
+
+"Don't," she says to Erritis, "Really, don't. Insomuch as I *have* a type, you aren't it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Erritis takes a shuddering gasp, blinks with what appears to be every muscle in his body, and rips his gaze from Matkina. 
+
+"What... what were we talking about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Her eyes go wide in horror. Then, she glares at Erritis. 
+
+"Don't," she says to Erritis, "Really, don't. Insomuch as I *have* a type, you aren't it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"No!" Erritis shouts, overjoyed. "Yes? Really? It was really you?"
+
+He grabs you by both shoulders. "This *is* fate. You were meant to travel with me. You have to! Don't say no!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"My mistake," Erritis says cheerfully. "It must be because you're so short. I don't look down that often. Adventure usually swoops in from the skies!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Yes, lad," Tybir says in soothing tones. "I don't want to worry you, but absent-mindedness is a classic sign of shin poisoning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"It is?" Erritis says, managing to look alarmed and delighted at the same time. "Is that dangerous?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Oh, very," Tybir says somberly. "Let me inspect your money, and I'll, er, look for traces of poison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Tybir, leave the man alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Remain silent. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>With exaggerated care, Erritis removes a jingling pouch from his belt and hands it to Tybir as though it might explode. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Fine," Tybir says, sighing. "Deprive the lad of vital life lessons. You're not doing him any favors, you know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"I'll look this over in my lab later," Tybir promises. Without looking your way, he palms a few shins from the bag and hands them your way. 
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Are we heading into a fight, or should I start one?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>He grins. "Then I saw the airship docked over my head. I raced on up, borrowed the ship, and pointed it right at the Reef."
+
+His face falls. "I don't know what happened next. Despite my expert piloting, the airship steered itself directly at the cliffs. I had no choice. I landed it as fast and hard and safely as possible." Shaking his head, he sighs. 
+
+"I never did find that falling star. At this point, someone else has found it, and it's *their* destiny now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Bank 107</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"What is that golden glow around you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Seriously, what is that glow surrounding you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Where?" says Erritis, turning around.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"What glow?" he says, looking behind him. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"That's all right," he says, shifting impatiently from foot to foot. "I can wait."
+{GAVIN: Add more Tybir scamming here, once ever.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Your thoughts are... strange."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"I can hear your surface thoughts. Why are they so different from what you're saying?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Why are your thoughts so strange again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Thoughts?" Erritis's eyes widen, in alarm. "I... try to avoid those. They have agendas, you know. Thinking. Planning. Plotting. No, no, heroic instinct - that's always best."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"If I have thoughts, sir, then that's news to me!"</DefaultText>
+      <FemaleText>"If I have thoughts, madam, then that's news to me!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>A broad smile splits his face. "I can honestly say I have no idea what you're talking about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Of course you do! And I'm ready! I'm always ready!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Can you fight well in a group?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"You have a *group*? Where are-" He looks past you, and sees Matkina. His jaw drops. "Uh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"You have a *group*?" He looks past you to your companion. "Were they always there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Yes. I want you to join me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"You said it!" Erritis groans. "But you should change your mind! You really should."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>The thin, glowing young man stares dully at the airship he crashed. Then, spotting you, he hurls his arms into the air in delight.
+
+"I was hoping you'd come back! Well, that's not true. I'm not sure what I was hoping, but I bet it was *thrilling*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"I still have too many people with me. Maybe you can join me another time."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

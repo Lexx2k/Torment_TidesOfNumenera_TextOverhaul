@@ -1,0 +1,1339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\si_meres\mere_bg2_daughtersmere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>235</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You're in a glass dome, several kilometers above the ground. Blue sky fills your vision. Beneath you is a floor of golden metal. A deafening klaxon blares in warning against... something.
+
+A familiar-looking stasis chamber lies in the center of the dome. A chest fashioned from synth and cold iron sits to one side. Behind the pod, a diamond hovers in the air, scattering prismatic light. A pedestal glows near your hand, a deep azure blue. 
+
+There is nothing that seems to warrant the blaring klaxons, yet you know the alarm sounds for a reason.
+
+{SOUND: Blaring klaxons, with an interval of maybe 2 seconds (something slightly annoying but not super annoying). This is an ambient sound that continues throughout this Mere until (and unless) the player turns them off in node 139.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Look at the chamber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Look at the chamber again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>It's a stasis chamber - the same as the one you saw in the dreamlike laboratory minutes ago. There is a girl inside, maybe twenty years old. Her skin is pale and there are dark circles around her eyes. Her face is exactly like the ghostly woman from in the calm of your mind. Her chest rises and falls as though she were sleeping soundly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>It's a stasis chamber. Inside lies the real version of the ghostly woman from the calm of your mind. Her chest rises and fails in a soft, peaceful rhythm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Open the chamber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Suddenly a man appears between you and the chamber. He's not all there - you see the clouds and vista on the other side of him. His hands are raised in front of him placatingly. "Hey, what are you doing? If you open that, Miika will die!"
+
+His mannerisms remind you of the Specter from the Labyrinth, though his face, clothing, and voice are not the same.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The spectral man appears between you and the chamber. His hands are raised in front of him placatingly. "Hey, what are you doing? If you open that, Miika will die!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Open the synth chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Go back to the synth chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The chest is locked with a keypad bearing seventeen strange symbols. You're about to lose hope when you realize you *know* which symbols to press to unlock the chest.
+
+You enter the correct code before the memory can slip away. The chest opens with a soft click. The only items of note inside are a wooden shaft with a multi-colored crystal tied to one end and a large hemisphere made of azure steel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>You open the synth chest and examine its contents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Examine the rod with a crystal on the end.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Examine the rod and crystal again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Examine the azure steel dome.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Examine the azure steel dome again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Activate the wall projector.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Take the rod with the surrimene crystal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Return your attention to the stasis chamber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Outside the glass dome, the horizon moves slightly as though the entire laboratory were swaying several kilometers up in the air. In the middle of the room is a large chamber with a figure inside it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Upon close examination, it's not a domination rod like you first thought. The crystal matches the description from the archives exactly. This is a surrimene crystal, used as a weapon by the Tabaht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>There is nothing mystical about the wooden haft, but the crystal on the end is definitely from a prior world. You think it might be a domination rod - the crystal saps the will of any creature it touches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>You think it might be a domination rod. If so, the crystal should sap the will of any creature it touches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>It's heavy - too heavy to lift by yourself. Your best guess is that it's a wall projector of some kind, probably brought up here as a defensive measure for the laboratory. Unfortunately, you can't see any indication of what *kind* of barrier it would create, nor any way to activate it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>It's probably a wall projector of some kind, but you can't see any way to activate it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Assuming it's the same as the one mentioned in the archives, this is a transdimensional wall projector. It will create a barrier around the outside of the laboratory that should protect against any non-corporeal creatures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>You find the panel mentioned in the archives. Once you know where it is, it slides open easily. You place your hand on the black glass inside. It grows warm at your touch, and there is the smell of a light rain.
+
+A low hum murmurs at the edge of your hearing, and the air outside the dome begins to shimmer. The shield appears spherical. You can only hope it will buy you some time against what's coming.
+
+{SOUND: A hum as of a machine powering up (creating an energy barrier around the laboratory).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>The rod has a good heft and balance, like a well-made spear. It may or may not help you, but it will do more good in your hand than in a box.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Investigate the hovering diamond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Go back to the archival diamond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>As soon as you approach the diamond, the top of it blooms open. An illusory globe appears within - words and images speed across its surface.
+
+A woman's voice speaks directly into your mind. "Welcome back. Please state your query."
+
+A wave of familiarity slams into you. The Changing God used this as an archival device. He kept records of his thoughts and experiments. Specific records can be retrieved by speaking a search term.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>The diamond blooms open, and a woman's voice speaks directly into your mind. "Welcome back. Please state your query."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"The Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Adviser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Daughter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Domination rod."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"The Tides."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Listen to the entry for "the Tides" again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Escape."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Listen to the entry for "escape" again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"The Sorrow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Listen to the entry for "the Sorrow" again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Wall projector."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Listen to the entry for "wall projector" again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Miika."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Listen to the entry for "Miika" again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Consciousness transfer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Listen to the entry for "consciousness transfer" again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Surrimene crystal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Listen to the entry for "surrimene crystal" again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"The Tabaht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Listen to the entry for "the Tabaht" again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"The siege of Sagus Cliffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Listen to the entry for "the siege of Sagus Cliffs" again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Dalad."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Listen to the entry for "Dalad" again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>It's the ghostly woman's stasis chamber - the real one from which the Labyrinth constructions were made. The Changing God's daughter lies inside. Her skin is pale and there are dark circles around her eyes. Her chest rises and falls as though she were sleeping soundly.
+
+This laboratory - this *body* - must belong to the Changing God.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>It's a stasis chamber. Inside lies the real version of the Changing God's daughter. Her chest rises and fails in a soft, peaceful rhythm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Your voice says, "The Tides have proven to be an extremely fruitful path of exploration. The Tabaht don't realize what they have unearthed. They saw these trinkets as just more numenera, but these forces may even have the power to turn back death itself. I certainly hope so for her sake."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[There is no entry for that.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[There is no entry for that.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[There is no entry for that.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[There is no entry for that.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Your voice says, "I won't take any risks with this new body. I've initiated a failsafe procedure to transport me away should something happen to me or the laboratory. If any unforeseen danger presents itself, I should be able to escape to a backup location."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>The voice says, "I don't know what the Sorrow is exactly, just that it's old. *Really* old. And it doesn't pay much attention to established laws of space-time - I wonder just how 'established' those laws really are. Anyway, I first came across mention of it in my research of the Tides. It appears to have been some kind of guardian against Tidal abuse. Evidence suggests it may have been solely responsible for the destruction of one of the prior worlds."
+
+The voice sighs. "My experiments with consciousness transfer appear to have woken it. I don't believe it's after *me* specifically, but I have come to believe it was responsible for the destruction of my previous laboratory."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>A picture of the azure steel dome from the chest appears on the globe inside the diamond.
+
+Your voice says, "The panel was not easy to find - there are no visible seams anywhere - but it's easy to open once you know it's there. As soon as I found it, I had the transdimensional wall projector moved to the new laboratory. I don't know what, exactly, destroyed the old location, but I know it was transdimensional in nature. The projector should create a barrier large enough to surround the entire dome, in case whatever it was comes hunting again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Your voice says, "Miika's condition has not improved after the consciousness transfer. If anything, it has worsened. I've traced the cause to the weapon I retrieved from the Tabaht after their failed siege of Sagus Cliffs, but damned if I know how to undo its effects."
+
+There's an agonized pause. "I don't understand. I should be able to figure this out. I *will* figure it out! I just need more data. I've discovered a theoretical process to merge my consciousness with hers but... I just need more data. With luck, I can run experiments in the next few days."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>There is only a single entry for that query - the same entry from when you queried the word "Miika." The entry said he would try it in the next few days, but that entry is dated several months ago. If he did try it, he never entered anything about it into the archives.
+
+Maybe the spectral adviser knows more about it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Your voice says, "The consciousness transfer was a success! I transferred Miika to a new body first - a clone of her original. There appeared to be no ill side effects after several days, so I performed the procedure on myself. I'll be watching both of us carefully over the next few weeks, but thus far I am very hopeful. I'm sure there will be unforeseeable long-term effects, but for the moment, it seems I have found a way to stave off death itself. I cannot imagine any long-term effects that could outweigh that benefit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>A picture of a wooden shaft with a crystal tied to one end appears on the globe inside the diamond.
+
+Your voice says, "A command word! I should have known, though I cannot fathom how the Tabaht figured it out. It must have something to do with that Underspine of theirs. One needs only touch the crystal to its target and speak the word 'kadishtu,' and the crystal's powers will be unleashed. I've brought the crystal into the new laboratory to examine it further."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Your voice says, "The Tabaht were fools, but they were skilled scavengers gifted with the luck of having discovered the Underspine. I still don't know what the Underspine *is*, but I'm convinced it came from the Dalad - the same people from which I gleaned the powers of the Tides and figured out the key to consciousness transfer. It's the best explanation for the Tabaht's success. Without the Underspine, they are little more than abhumans of above average intelligence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Your voice says, "Today marks the twenty-eighth anniversary of the siege of Sagus Cliffs. Twenty-eight years since her illness began. It was a simple thing to defeat them - to unmoor the city from the present and strip those trapped inside of their numenera. It has not proven so simple to undo the effects their terror unleashed on us. I still don't know how the surrimene crystal *works* nor what it does to its victims. I doubt they knew either, but they were pillagers not priests. They only knew it was a weapon."
+
+The voice sighs. "I wonder if they knew the extent of its power, how it could destroy the life of a young woman and her father, even chasing them *across* lives."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Unlock the other entries, this one is not in your voice, but the female voice that belongs to the archival diamond itself.
+
+"The Dalad people are believed to have existed long before the Ninth World. 'Dalad' is probably not what they called themselves. Their true name is unknown. They made great use of a force referred to in these archives as 'the Tides,' using them especially to affect individual psyches. The civilization of the Dalad did not decline but was completely wiped out by a creature called the Sorrow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>So the Sorrow must have destroyed the Dalad because of how they abused the Tides. If the weapon that caused Miika's illness was from this same civilization, then it stands to reason her illness is Tidal in nature - like a Tidal Surge perhaps.
+
+If so, maybe there's some way you can undo it. The spectral adviser might know more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Touch the pulsing light on the pedestal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Speak to the spectral man.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>The pedestal dims, and a man appears between in front of you. He's not all there - you see the clouds and vista on the other side of him. He looks worried. "We have a problem - it's here."
+
+His mannerisms remind you of the Specter from the Labyrinth, though his face, clothing, and voice are not the same.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>The spectral image looks at you expectantly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"What are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"What are you again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>He gives you an odd look. "Now's really not the time to get into this again. I'm an intelligence, put in charge of this laboratory - and either created from, or overlaid with, your knowledge and personality. As your adviser, I refuse to argue about the nature of my existence until we're safely out of this mess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"I'm your *adviser*," he says patronizingly, "and as such, I *advise* you to let the nature of what I am go for the moment in light of more pressing matters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"What's here? Why are the alarms going off?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"What's attacking us again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>His face darkens. "The Sorrow is here. It found us somehow, and now it's trying to break into the lab. We need to get you out of here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"The Sorrow. It's making scraps of our defenses. It's just a matter of time before it gets here." The floor of the dome shudders frighteningly, as if to emphasize his point.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Can you make the alarms stop?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Sure, just uh... don't forget that the *reason* for the alarms is still on its way."
+
+The blaring alarms cease immediately, replaced with a low rumbling and an occasional crash of metal.
+
+{SOUND: Turn off ambient blaring alarms for the rest of the Mere.}
+{SOUND: Replace the klaxons with a new ambient sound: a low, occasional thump or rumble, as of a large creature trying to pound its way into a metal door. This should be a much lower interval than the alarms, maybe pounding every 5-6 seconds.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Alarm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>The illusory globe becomes blank. The voice speaks into your mind. "There are no matching entries. Please restate your query."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Do you control the teleport failsafe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"I want to talk to you about the teleport failsafe again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Yes! Now there's a good idea. Problem is it can only teleport one person. The girl, your archives, and your equipment will all be lost. Of course you can just recreate me from your own consciousness, so it won't be a *total* loss. Anyway, why do you ask?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"What about it? Have you decided to take my advise and get out of here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"I want to ask you about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"What do you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Can you set it to teleport the girl instead of me if something happens?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"The girl's more important. Set the failsafe to teleport her out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Can you turn the failsafe off?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Turn the teleporter off. I won't run away while she's stuck here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>His illusory brow furrows. "I could, but what's the point? Outside the stasis chamber, she'll die within months - a couple of years at best. It's better for you to live, so we can find a way to save her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>He frowns. "All right. It's done. But for the record, I think this is pure foolishness. If the Sorrow gets here, you're just throwing our life away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>He scowls. "Why would you do that? Not that I don't trust you to figure some way out of here, but *somebody* should escape with our knowledge. What's the point if we all die?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>The adviser crosses his arms across his chest. He looks he's about to refuse, then he says, "Right. It's done. I think this is idiotic though. It's a *failsafe*. It would only activate if everything else failed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"I've changed my mind. Reset the teleporter to get me out if something happens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Ha!" A broad grin splits his face. "Now you're talking. I knew you weren't crazy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Tell me about the girl in the chamber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"You mean Miika?" He looks at the chamber. It's difficult to read his expression, but he seems sad. "She's no better than she was before. Worse, actually. I hate to say this, but I don't think we can save her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"How close is the Sorrow?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Where is the Sorrow now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>[Answers based on the Sorrow timer.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Why is the Sorrow here? What does it want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"I couldn't tell you what it wants. Maybe there's something in your archives. You told me we woke it up, somehow, when we did that first consciousness transfer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"What cures have we tried for Miika?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"I want to do it. Let's merge my consciousness with hers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"What happened when I tried to merge my consciousness with Miika's?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Merge consciousness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>[Have only tried a few, but others are theorized. Probability engines, multiple body transfer, merging consciousnesses. Only the latter would work for sure.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>[You never did. After further research, we discovered it would snuff out your own personality, so you rejected it as an option.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>[We can't. It was just an idea, but we'd need [something that PC definitely has].]
+
+{ADAM: Player should get something here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"I think Miika is sick because of the Tides, possibly a Tidal Surge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"If that were true... Yes, that would explain quite a lot, including why her sickness followed her from one body to the next. Ha! You're a genius, if you don't mind my saying so."
+
+The spectral adviser paces back and forth, though his feet never actually touch the ground. "Could an equivalent Surge undo the effects? No, that would require more power than either of your bodies are capable of generating."
+
+He stops and looks at you excitedly. "But I think you've discovered an exciting path of inquiry. It may take a few years, but..." The laboratory rumbles and quakes as the Sorrow pounds away below. "Never mind. We don't have years. In a few minutes, we won't have *anything*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Can you activate the teleporter immediately?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Activate the teleporter. Get me out of here *now*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"To get you out? Absolutely. That's probably the safest course, to be honest. Just say the word." He scratches his head. "Remember though, it *is* a failsafe. If you want to wait until the last minute to get something or try something for her sake, it's safe to do so. Probably."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>He nods, a serious look on his face. "Good idea. This is hard for me too, believe me, but I think..." He looks wistfully at the chamber. "We'll figure out some way to get her back. Absolutely."
+
+Immediately, your body begins to fade, teleported somewhere else.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Activate the teleporter to get Miika out of here *now*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Absolutely not. If it's that important to you, I'll set it to teleport her instead of you, but as a *failsafe*. There's no way I'm killing us all right now, no matter how scared you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>[DEBUG] See timer variables.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Timer = [Global: MBG2_SorrowTimer]
+
+First Barrier at [Global: MBG2_SorrowTimerExpire01].
+Second Barrier at [Global: MBG2_SorrowTimerExpire02].
+Last Barrier at [Global: MBG2_SorrowTimerExpire03].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>There is a thunderous boom. The floor shakes and sways beneath you, causing you to lose your balance. Outside the dome, the horizon tilts back and forth, giving you a sense of vertigo.
+
+The spectral man appears in front of you suddenly, a look of human terror on its face. "It's broken into the tower! It's only a matter of time before it reaches us here. We have to do something fast!"
+
+{SOUND: Thunderous distant crash. The Sorrow has smashed through a heavy door at the bottom of a very tall tower. The crash reverberates all the way to the top.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Suddenly, there is a tremendous popping sound. The air sizzles, causing every hair to stand on end and your entire body to tingle dangerously.
+
+The spectral man appears in front of you again. It puts its hands on your shoulders, though you feel nothing. "It *shattered* the electrostatic shield! If it breaks through the plasma window, we're done for."
+
+It looks at the hatch in the ground as though it could see through it. "What's your plan? You've got a plan, right?"
+
+{SOUND: Sharp sizzle and loud pop. The Sorrow has broken through a powerful electrostatic barrier.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>There's a hiss and a screech beneath the floor. Suddenly the metal hatch flies off its hinges, cracking the stronglass ceiling then smashing the glowing pedestal.
+
+The spectral man's image disappears. A foul black cloud rises from the hatch, and the air is filled with an unearthly wail and the stench of rotting flesh. Tendrils lash out, slicing metal and synth wherever they touch it.
+
+A terrible face emerges from the cloud. It examines you, then it turns its attention to the chamber.
+
+{SOUND: A plasma hiss and a metal screech. The Sorrow smashes a steel hatch off its hinges.}
+{SOUND: An unearthly wail accompanies the Sorrow (should match any Sorrow sounds made for Sorrow crises). This can be an ambient noise from here to the end.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Use the surrimene crystal against the Sorrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>You shove the crystal deep into the Sorrow's form and shout the command word. Shafts of light burst out of the Sorrow in all directions. It shrieks in pain and fury. One of its tendrils darts toward you, slicing through both the stronglass wall and steel floor. It reaches your face and...
+
+You feel nothing. The tendril goes right through your body. You realize that the dome is fading away - no, your *body* is fading away as some device tugs it safely away to another location.
+
+{SOUND: The Sorrow's wail increases in intensity, becoming a terrible shriek.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Leave her alone! I'm the one who initiated the consciousness transfer. Take me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>The Sorrow turns its horrible attention to you. One of its tendrils darts toward you, slicing through both the stronglass wall and steel floor. It reaches your face and...
+
+You feel nothing. The tendril goes right through your body. You realize that the dome is fading away - no, your *body* is fading away as some device tugs it safely away to another location.
+
+{SOUND: Sorrow tendril swiping towards the player.}
+{SOUND: Teleportation sound (NOT Star Trek - something uniquely Ninth World).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Attack the Sorrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>You charge the Sorrow with your bare hands, crying out in anger and fear and an attempt at courage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>While the Sorrow is distracted, duck past it and down the hatch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Call out to the adviser: "Get me out of here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Call out to the adviser: "Get Miika out of here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>The Sorrow's unearthly wail becomes a shriek.
+
+Though the spectral adviser is gone, you hear his voice in your head. "I'm disobeying your command. We always said we'd never let our emotions get the better of us. If she dies, she dies. But if you die, then we're both gone, and our entire legacy with us."
+
+In fury, the Sorrow's tendrils flay the laboratory all around it. The chest and diamond are cut to ribbons. The chamber disintegrates in a ball of purple flame, and the last thing you see as your mind fades from this body is the face of the young girl, melting and boiling into ash.
+
+{SOUND: The Sorrow's wail increases in intensity, becoming a terrible shriek.}
+{SOUND: Tendrils whipping. Smashes and explosions as the Sorrow destroys the laboratory.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>The Sorrow's unearthly wail becomes a shriek.
+
+Though the spectral adviser is gone, you hear his voice in your head. "Thank goodness the failsafe kicked in. You'll be safe, though the girl and I are doomed. I'll be easy to recover, but she... I'm sure you'll -"
+
+He's cut off as the Sorrow's tendrils flay the laboratory all around it in a blind fury. The chest and diamond are cut to ribbons. The chamber disintegrates in a ball of purple flame, and the last thing you see as your mind fades from this body is the face of the young girl, melting and boiling into ash.
+
+{SOUND: The Sorrow's wail increases in intensity, becoming a terrible shriek.}
+{SOUND: Tendrils whipping. Smashes and explosions as the Sorrow destroys the laboratory.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>[There's a lot of info to go through here. Searching any entry is going to take a lot of time.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Tell me about the storage locker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Tell me about the diamond."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"What about it? Last I remember, you moved a bunch of new stuff in there while I was deactivated. I don't know anything about what you've put in there." He crosses his arms. "Really, I don't see how I can advise you at all when you keep things from me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Your archives? The archival interface doesn't work with mine directly. I only know what you upload to my database - which you haven't done in *years*, by the way. Until then, those are just notes to yourself."
+
+He reaches out a hand suddenly. "If you're thinking of going through those looking for a solution, be careful. We don't have a lot of time, and you've made a lot of notes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"What should we do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>["Hey, I'm just an assistant. I say you get out of here and save both our minds, but that would mean leaving *her*."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Get the surrimene crystal from the synth chest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Use the domination rod against the Sorrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>With a shout, you shove the crystal deep within the Sorrow's form.
+
+Nothing happens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Take the domination rod.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"What should we do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Tell me what we should do again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"I strongly advise you to save yourself, thus saving both of our minds. Unfortunately, that would mean leaving *her*." He looks at the chamber and frowns.
+
+"I don't like it any more than you do. The only other options I can think of are to somehow stop the Sorrow by force - unlikely - or figure out what it wants." He shakes his translucent head. "I don't think we have enough time for either, but maybe you know something I don't."
+
+He points to the hovering diamond. "Maybe you can find something in your archives to help us. Just be careful what you research in there. We don't have any time to waste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Well, if you insist on risking our lives waiting for the last minute, then I recommend you find some way to defend us. Or maybe you can find out what it wants. But be careful what you research in the archives. You have a tendency to fall down sticha holes, and we don't have time for that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"The plasma window is faltering! It'll be here any second!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"It's just below us! All we've got is the plasma window between us and destruction."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"It's nearly broken through the electrostatic barrier! We don't have much time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"It's inside the tower! If it gets past the electrostatic barrier, then all we've got is the plasma window below the hatch to hold it at bay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"It's almost broken into the base of the tower - probably will any minute now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"It's at the tower base, trying to break its way in. I wouldn't expect that synthsteel door to hold against it. Once it gets through that, we have to hope the electrostatic barrier or the plasma window will stop it." He rubs a hand on the back of his neck. You get the impression he doesn't have a lot of faith in either of those defenses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"That transdimensional wall projector you found bought us some time, too, but probably not as much as we'd like."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>DEBUG MODE ONLY: Show timer variables.
+
+Timer = [Global: MBG2_SorrowTimer]
+
+First Barrier at [Global: MBG2_SorrowTimerExpire01].
+Second Barrier at [Global: MBG2_SorrowTimerExpire02].
+Last Barrier at [Global: MBG2_SorrowTimerExpire03].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>There is a thunderous boom. The floor shakes and sways beneath you, causing you to lose your balance. Outside the dome, the horizon tilts back and forth, giving you a sense of vertigo.
+
+Suddenly a man appears in front of you. He's not all there - you can see the clouds and vista on the other side of him. He wears a look of human terror on its face. "It's broken into the tower! It's only a matter of time before it reaches us here. We have to do something fast!"
+
+His mannerisms remind you of the Specter from the Labyrinth, though his face, clothing, and voice are not the same.
+
+{SOUND: Thunderous distant crash. The Sorrow has smashed through a heavy door at the bottom of a very tall tower. The crash reverberates all the way to the top.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>You've only taken two steps when the Sorrow turns its horrible attention to you. One of its tendrils darts toward you, slicing through both the stronglass wall and steel floor. It reaches your face and...
+
+You feel nothing. The tendril goes right through your body. You realize that the dome is fading away - no, your *body* is fading away as some device tugs it safely away to another location.
+
+{SOUND: Sorrow tendril swiping towards the player.}
+{SOUND: Teleportation sound (NOT Star Trek - something uniquely Ninth World).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>You open the synth chest and examine its contents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>Scores of entries flit through your mind, their order unclear. Finding anything useful takes time.
+
+You will have to be careful what you spend time researching.
+
+At last you find the right entry. A male voice - this body's voice - speaks in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>Previews of several entries flit through your mind. There are scores of results, and you can't figure out how they're organized, nor how to quickly ascertain whether an entry will be useful to you or not. It takes some time to sift through them for something useful.
+
+You will have to be careful what you spend time researching.
+
+Finally you find one that's what you're looking for. A male voice - the voice of the body you are wearing - speaks in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>Previews of several entries flit through your mind. There are scores of results, and you can't figure out how they're organized, nor how to quickly ascertain whether an entry will be useful to you or not. It takes some time to sift through them for something useful.
+
+You will have to be careful what you spend time researching.
+
+Finally you find one that's what you're looking for. A male voice - the voice of the body you are wearing - speaks in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>Previews of several entries flit through your mind. There are scores of results, and you can't figure out how they're organized, nor how to quickly ascertain whether an entry will be useful to you or not. It takes some time to sift through them for something useful.
+
+You will have to be careful what you spend time researching.
+
+Finally you find one that's what you're looking for. A male voice - the voice of the body you are wearing - speaks in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Previews of several entries flit through your mind. There are scores of results, and you can't figure out how they're organized, nor how to quickly ascertain whether an entry will be useful to you or not. It takes some time to sift through them for something useful.
+
+You will have to be careful what you spend time researching.
+
+Finally you find one that's what you're looking for. A male voice - the voice of the body you are wearing - speaks in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>Previews of several entries flit through your mind. There are scores of results, and you can't figure out how they're organized, nor how to quickly ascertain whether an entry will be useful to you or not. It takes some time to sift through them for something useful.
+
+You will have to be careful what you spend time researching.
+
+Finally you find one that's what you're looking for. A male voice - the voice of the body you are wearing - speaks in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>Previews of several entries flit through your mind. There are scores of results, and you can't figure out how they're organized, nor how to quickly ascertain whether an entry will be useful to you or not. It takes some time to sift through them for something useful.
+
+You will have to be careful what you spend time researching.
+
+Finally you find one that's what you're looking for. A male voice - the voice of the body you are wearing - speaks in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>Previews of several entries flit through your mind. There are scores of results, and you can't figure out how they're organized, nor how to quickly ascertain whether an entry will be useful to you or not. It takes some time to sift through them for something useful.
+
+You will have to be careful what you spend time researching.
+
+Finally you find one that's what you're looking for. A male voice - the voice of the body you are wearing - speaks in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>Previews of several entries flit through your mind. There are scores of results, and you can't figure out how they're organized, nor how to quickly ascertain whether an entry will be useful to you or not. It takes some time to sift through them for something useful.
+
+You will have to be careful what you spend time researching.
+
+Finally you find one that's what you're looking for. A male voice - the voice of the body you are wearing - speaks in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"You don't remember? I guess that's why you made me." He chuckles. Then his face grows serious. "You never tried to merge your consciousness with hers. After researching it for a while, we discovered that doing so would snuff out your personality - you weren't content with me being the only one of us left. So we rejected that option and kept searching for some other way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"I'm afraid we can't. You rejected it before we could implement any kind of experiment. We'd need some kind of psychic substrate for your consciousness and hers to reside in simultaneously. Then we'd need a catalyst of some kind to create the resonance that would merge you with her. It's certainly possible, given time, but the Sorrow's at our doorstep!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>Although your body is gone, your awareness somehow remains *here*, in the laboratory. The spectral adviser is gone, and the Sorrow breaks through the last defenses and up through the hatch. Its tendrils flay the laboratory all around it. The chest and diamond are cut to ribbons. The chamber disintegrates in a ball of purple flame, and the last thing you see as your mind fades from this body is the face of the young girl, melting and boiling into ash.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>[DEBUG] Exit mere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>[DEBUG] Exit mere with consciousness-merging knowledge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>The transdimensional wall projector has already been activated, though there's no indication of whether the wall is holding or not.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Absolutely not. I've already set the failsafe to teleport her instead of you - which, for the record, I think is a *bad* idea. But there's no way I'm killing us all right now, no matter how scared you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_diving_suit</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The armored suit was not made for a human occupant. There is a semi-transparent visor or faceplate in the helmet that would allow you to peer inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Get the Sealants.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Walk away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Examine the suit more closely.]
+
+{Colin: I'm thinking the first examine just offers environmental info of the suit, while a deeper examine for a second lootable is skill based. But please setup skill checks as you see fit.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Leave the suit alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>There are a number of tools and strange devices attached to the suit's right hand. You might be able to extract one or two of these, if you're careful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Attempt to salvage the devices from the right hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[See if there's anything else to extract from inside the arm.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Most of the attachments are broken or corroded, but through some careful maneuvering, you're able to detach something that looks like a spray canister. A test squirt produces a glob of quick-drying, liquid synth... a highly-effective sealant.
+
+Once you detach the device, you notice that there's more machinery deeper inside the suit's arm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You reach into the arm, and your fingers graze a small metal orb. You carefully pry it loose and withdraw it from the arm. It looks like you've found a reservoir of the sealant material used in the spray device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You feel around in the alien machinery, but most of the components are impossible to understand or identify, and you don't find anything of value.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You reach in, carefully, and your fingers graze a small metal orb. You finagle it carefully from its socket... it looks like you've found a reservoir of the material used in the sprayer device. You might be able to use this as a kind of detonation!
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Again you plunge your hand into the alien machinery, but this time, you inadvertently activate something within. A small reservoir of sealant explodes inside the arm, encasing the interior in hard synth. You manage to pull your hand out in time, but you won't be able to salvage any more components.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Look inside the faceplate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Some visitant lived inside this suit, a creature with multiple eyes scattered across its face, based on the skeletal remains you see inside. At least, you assume they're eye sockets - they might have been some other alien orifice. Oddly, the creature had no visible mouth or jaw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Will you look at that! I've heard of these vivaric armatures before, but I've never seen one in the flesh. Other Aeon Priests have found them all over the world. We're - they're - not sure what these are for, but they've been known to carry some serious weaponry." He catches you looking at him and immediately dampens his enthusiasm. "If you care about that sort of thing, I mean."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Her echoes look back and forth at one another, and Callistege smiles. "It's a vivaric armature, pets, isn't it? Who knew that we could find such a thing here?" At your glance, she continues, "The learned and the lucky have found these suits throughout the world. None know their purpose, but they carry some impressive devices, if you know how to extract them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>It seems to be metal armor, or perhaps an exploration suit, at least twice human size. Even if you could get inside, its alien limbs and joints would force you to contort in ways a human body was never meant to bend.
+
+It has a visor or faceplate at its top.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Bank 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Examine the arm for more components.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Look inside the arm again for more components.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Bank 25</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Examine the suit more closely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Examine the suit closely again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Bank 28</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>The strange metal of this suit looks as if it could survive the cold of the interstellar void or the depths of an impossibly deep sea. When you push on it, it gives just a little bit, and expands by the same amount. 
+
+The Bloom-flesh around it is puffy and irritated, almost infected. The Bloom seems to be trying, unsuccessfully, to absorb the suit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Your careful examination pays off. Near the faceplate, you find a small, detachable lens. It may have been used to focus beams of light or some other visible force. You detach it carefully and store it away.
+
+{LOOT - ESSENTIAL}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>You don't find anything else of interest on the exterior of the suit.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

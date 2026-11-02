@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_skaydi</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>182</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I'm Skaydi. You here to trade?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Let me see what you have for sale."
+
+{STORE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Her eyes meet yours, and for a moment you almost think there's a pleading quality to them. Then they blaze with fury. "That's none of your business. Leave it be, or just leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Rip her scarf off.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Tugging at the merchant's scarf reveals jagged, still-bleeding teeth marks across her neck.
+
+She yelps in surprise and leaps away from you, hastily pulling her scarf back up. "How dare you put your hands on me! Get away!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Skaydi dances out of your range and shouts that she's being robbed. Luckily, the nearby guards don't seem to care.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"There may be something wrong with your aneen. It has blood around its mouth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>She pulls her scarf up. "I don't need strangers telling me how to take care of my beast, thank you. Do you want to buy something or not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>As you approach, Skaydi's eyes widen in fear, darting momentarily toward her aneen. "I told you to leave me be. I'm not selling you anything." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Skaydi gives you a nod. "I'm feeling myself again, thanks to you. But I wish it hadn't cost me the aneen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Skaydi offers a friendly greeting.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Skaydi smiles warmly as you approach. "Hello again, my friend. What can I do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[You put two and two together and realize that her own aneen must be the one that bit her. Aneen don't typically act that way, so something must have control of the creature.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Use psychic powers to sever the hold the Bloom has over the two.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Use the Magmatic Annulet to sever the hold the Bloom has over the two.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[The aneen suddenly calms down, and Skaydi gets a disoriented look on her face. You decide to give her a moment to collect herself.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[You manage to remove Skaydi's scarf without her even noticing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The merchant pulls away as you make a grab for her scarf, and glares at you suspiciously. "What's the matter with you? That's not for sale!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[You wonder what kind of creature could leave such a mark.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Attempt to rip her scarf off.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Attempt to rip her scarf off again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Riastrad leans towards you, and Satsada's voice fills your mind. "Something is wrong here. There is a weight on her mind, a fear that is buried under... a concern for the aneen. I suggest you inspect the animal." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Skaydi eyes you suspiciously, tugging at her heavy scarf. "What do you want this time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"How did your aneen turn savage?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"We both drank water from that well. A lot of it. Maybe that's how the Bloom got in our heads."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Can you tell me more about the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Tell me again about the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I know the Memovira's word is law. It's a dangerous place... dangerous enough that I only come here to sell my goods, and I leave as quick as I can - though this time, not quick enough." She sighs. "I'm going to have to sell a lot of goods if I want to replace my aneen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I can't tell you more than I already have. Stay on the Memovira's good side, keep your head down, and get out quick, or maybe you'll end up like me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"What do you know about the Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Can you tell me anything else about the Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>She nods her head at the imposing gates across the courtyard. "They say she runs this place from that fortress. I've never seen her, though. Just her thugs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Only that she doesn't care much about folk like me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Can you tell me about the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Tell me again about the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"What do you know about the Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Can you tell me anything else about the Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"How did the Bloom get into your head?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"I don't know. The Bloom does strange things to you if you stay here long enough. My aneen and I drank water from that well. That might have something to do with it, or maybe not, but I'm not letting her drink it again, that's for sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Until we meet again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"I travel through here a lot, but maybe not after this. Too dangerous, no matter what the Memovira's guards say about her keeping it safe."
+
+She shrugs. "Good chance for profit, though. Bloom folk need outside goods, and you can find unique things here - things from... other places. Still, once bitten twice shy, if you know what I mean. I'm gone as soon as I sell the last of my stock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"I can't tell you more than I already have. Stay on the Memovira's good side, keep your head down, and get out quick."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>She nods her head at the imposing gates across the courtyard. "They say she runs this place from that fortress over there. I've never seen her, though. Just her thugs. It's almost like she doesn't dare come out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"No. And even I knew something, it's not safe to say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"How is your aneen now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Shaken... but better. And now that I know this can happen, I won't risk it happening again. We're getting out of the Bloom as soon as I sell my stock, and we're not coming back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>As you back away from the angry woman, you wonder what could have caused such wounds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Your aneen tried to bite me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Your aneen bit me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>She sneers. "What were you trying to do, pet it? Just leave it be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>She glances at her aneen, eyes wide, like a child with a guilty conscience.  "Just leave us alone," she hisses, waving you away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>You recall the aneen's bloody mouth and odd behavior. Somehow, her aneen must be feeding on her. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>This kind of behavior is not normal for aneens, some kind of psychic interference must be at play here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Use Mindblast to break the psychic bond.
+
+{SCRIPT: check for Mindblast ability}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Satsada, can you sever the link between Skaydi and the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Kill the aneen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Use the Magmatic Annulet to connect your own mind to the Bloom and break the bond yourself.
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>As soon as your fingers brush the Annulet, you sense the presence of a third mind that is exerting control over Skaydi and her aneen... the vast and powerful consciousness of the Bloom. For some reason, it has linked the merchant and the aneen together in a parasitic relationship.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>The chittering cacophony of voices you recognize as the Bloom rises to an almost unbearable pitch as it fights the powerful psychic intrusion... then it abruptly falls silent.
+
+The merchant's eyes soften and focus. She shakes her head as if clearing it. The aneen ceases its fidgeting and settles back on its haunches, visibly relieved.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>It growls and paws at you as you approach. But aggressive as it is, it is still just a big, slow herbivore. It only takes a single weaponstroke to end its life.
+
+Rather than react with anger at the killing of her animal, Skaydi looks confused, shaking her head as if emerging from a daze. You give her a moment to collect herself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Try to pull aside her scarf.
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Try again to pull aside her scarf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>You realize the marks on her neck match the blunt teeth of a large herbivore, like her aneen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>As she speaks, she fiddles with her scarf again, and you notice splotches of blood on it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Skaydi glances at her aneen, eyes wide, like a child with a guilty conscience. You recall the aneen's bloody mouth and odd behavior, and it occurs to you that its teeth match the size and pattern of the bite marks on her neck. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>
+But aneen are herbivores, and as far as you know, they can't digest meat or blood...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Touch the Magmatic Annulet, and try to sense the 'whispers' Skaydi hears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Skaydi, talk to me. What's going on between you and your aneen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Please... don't ask... don't ask that." 
+Her shaking becomes more violent. She grits her teeth, but she can't seem to stop her whispering.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Why are you making those whispering sounds? I've heard them before - the Bloom makes the same kind of noises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"I can help. Just tell me what's happening to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"No! For the last time, leave me alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"My aneen, it... it feeds on me... suckles the blood from my neck. For some reason I can't... no, I don't *want* to make it stop." She shakes her head, trying to clear it. "But that's a lie. I *do* want it to stop."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"The Bloom-whispers... they're in my head. They're soothing when I give in, when I let the aneen feed... but if I fight, they get angry." She grits her teeth harder. "You're making it worse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Use Psychic Incision to break the psychic bond.
+
+{SCRIPT: check for Psychic Incision ability}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Skaydi swallows hard as you face her, glancing back and forth between you and the beast. "You... you *know*..."
+
+She adjusts her scarf over the teeth marks on her neck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Skaydi seems even more distressed than before. Her eyes are wide and pleading, but she cannot bring herself to say anything.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>The merchant turns to you with clearer eyes. "Thank you. I don't know what was wrong with me. The Bloom got in my head... and *changed* my aneen too. But I think she's back to her old self now." 
+
+She hesitates, then nods. "You come back any time you like. I'll give you a discount. It's the least I can do."
+
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Riastrad nods and takes a step towards the merchant, closing his eyes and raising his hands. Your mind squirms and recoils as you catch the edge of the mental blast Satsada levels at the link between the woman and her aneen. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>The merchant jerks back as you make another try for her scarf. "Stay *away*, I said!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Bank 129</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>You notice there are splotches of blood on her scarf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Try to see under her scarf. "Uh, you have a little something on your scarf. Right there under your chin."
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"The Bloom is affecting your mind, Skaydi. It's bound you and your aneen together. Can't you feel it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"I do? Where?" The woman pulls the scarf from her neck to look at it, revealing  jagged, still-bleeding teeth marks on her throat.
+
+She sees you staring at them and realizes she's been duped. "Dirty trickster!" she snarls as she pulls the scarf tight again. "Go try your games on someone else!"
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"I do? Whe - ?" The woman makes to pull the scarf from her neck, then realizes what you're up to and wraps up tighter instead.
+
+"Dirty trickster!" she snarls. "Go try your games on someone else!"
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>She grits her teeth. "M-maybe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Fight the Bloom, Skaydi. Concentrate on the whispers, and drown them out... push them from your mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>You see the woman struggle. Her whole body shakes. You faintly hear a whispering cacophony of sound, chittering and buzzing, lashing out in rage as it fights back. Then it falls silent.
+
+The merchant's eyes soften and focus. She shakes her head as if clearing it. "I... I did it. The voices are gone."
+
+The aneen also shakes its head, snorts, and settles back on its haunches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>She groans, her whole body shaking as she struggles against the Bloom. At last she sags, defeated, barely able to stand. "I... I can't. It's too big, and I am so small."
+
+She glares at you. "Why did you make me do that? Now my head hurts worse than ever."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"You're insane! The Bloom is bigger than a city, I can't just push it out of my mind... it'll kill me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"I don't think I can help you right now. I'm sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>A pale, heavyset merchant woman stands by an agitated aneen. Her eyes seem to have trouble focusing on you, and when they do, she drops them, her hands nervously adjusting the scarf around her neck. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>She wrenches her eyes away from her aneen, closes them tightly, and begins to shake her head rapidly back and forth, muttering incoherently. Her whispers sound more like buzzing and hissing than words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Hmmf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Bank 171</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"I'm not going to leave until you tell me what's happening to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Bank 174</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Try again... and try harder this time. Focus on the whispers, and drive them out of your mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText> Follow-up PQ. 177</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Can you tell me about the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Are you sure you have nothing to tell me about the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Bank 181</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"The Bloom?" For a moment she appears confused, as if she doesn't remember where she is. "No... no. What's to tell?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>She pauses, brow furrowing. "I... I think so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Why are you wearing that heavy scarf?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Did it... draw blood?" She seems suddenly alarmed. "No, it... it wouldn't have. You're lying, trying to make me send it away, but I won't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"The whispers... can't you hear them?" She clenches her eyelids tight. "Just go away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Her voice quavers in terror. "I think the Bloom did this... to my aneen and to me... tied us together somehow. It's in our heads... I can hear it whispering to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>A chittering cacophony fills your mind, almost knocking you to the ground. You try to fight against it, to drown it into silence, but it's too strong. Your head throbs at the temples... pain cascades from one nerve to the next, down your back, along your arms and legs. 
+
+Sensing mortal danger, you let go of the Annulet. The sounds and the pain vanish at once.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Bank 192</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Touch the Magmatic Annulet, and try to break Skaydi's bond with the Bloom again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Go away, leave me be!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Fine," she mutters. "That's fine. If I don't *think* about it... then it doesn't hurt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>You wait until her attention is drawn to something else in the courtyard. Your fingers dart forward, tugging lightly on her scarf. Undeneath are jagged, still-bleeding teeth marks across her neck.
+
+She turns back to you. She must see something on your face, because she looks shocked, but only for a moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>The merchant smacks your hand and tugs her scarf more tightly around her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"I do? Where?" The woman pulls the scarf from her neck to look at it, revealing  jagged, still-bleeding teeth marks on her throat.
+
+"I see nothing." She becomes suddenly self-conscious and pulls the scarf on tight, eyeing you suspiciously.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Ha! Nice try. I may be addled, but I'm not an idiot. Try your games on someone else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"My aneen, it... it feeds on me... suckles the blood from my neck. For some reason I can't..." Suddenly her head snaps backwards, and you feel the constant hissing of the Bloom grow more intense. "No..." she says. "I can't..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"My aneen, it... it feeds on me... suckles the blood from my neck. For some reason I can't..." Suddenly her head snaps backwards, and you feel the constant hissing of the Bloom grow more intense. "No..." she says. "I can't..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"I'll find some other way to help you, Skaydi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"I... hmmf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>You can see the woman struggle. Her whole body shakes. You put a hand on her shoulder, willing her strength. The whispering cacophony of sound, chittering and buzzing, increases, touches your own mind, then falls abruptly silent. You get the sense the Bloom has conceded Skaydi to you.
+
+The merchant's eyes soften and focus. She shakes her head as if clearing it. "I... I did it. The voices are gone."
+
+The aneen also shakes its head, snorts, and settles back on its haunches. Its eyes are placid now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>The chittering cacophony of voices you recognize as the Bloom rises to an almost unbearable pitch. Using the connectiong of the Annulet, you fight back with equal fervor. Suddenly you feel the Bloom concede, almost as though it didn't want Skaydi anyway. The voices abruptly grow silent.
+
+The merchant's eyes soften and focus. She shakes her head as if clearing it. The aneen ceases its fidgeting and settles back on its haunches, visibly relieved.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>The chittering cacophony of voices you recognize as the Bloom rises to an unbearable pitch. It lashes out at your mind painfully, then abruptly grows silent.
+
+The merchant's eyes soften and focus. She shakes her head as if clearing it.. The aneen ceases its fidgeting and settles back on its haunches, visibly relieved.
+
+{DAMAGE}
+
+{GEORGE: Could the player lose 2 Bloom favor here?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>She returns to herself, pale and sweating. "The Bloom... in our heads... the aneen and I..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Fight the Bloom. Concentrate on the whispers, and drown them out... push them from your mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Go away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Whispers?" Callistege looks carefully at Skaydi. "If only *we* could hear them too..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Whispers." Aligern frowns. "That might have something to do with the Bloom. Might help if *we* could hear them too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Whispers?" Matkina grabs the woman by the shoulders. "You're hearing the *Bloom* - it's taken hold of your mind. It's *playing* with you."
+
+Skaydi takes hold of her head and moans softly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Matkina turns back to you and gestures toward the aneen.
+
+"The Bloom is probably in the beast's head too. It does this kind of thing sometimes... *torments* people or animals. These two weren't strong enough to resist on their own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"You can't resist the Bloom, Skaydi. It's already taken root in your mind - just give in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"You're suffering, Skaydi. Stop fighting the voices in your mind, and your pain will end."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>Her shoulders slump. "You're right. It's too hard... and I'm too weak."
+
+Slowly, her body relaxes, and the tortured grimace fades from her face, replaced by a flat, vacant stare.
+
+Distantly, you hear soft whispers all around you, hissing and chittering, tickling the folds of your brain. For a moment, they share with you a sense of excitement... exultation. Then they are gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>She whimpers softly but shakes her head. "No, I... I can't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"I know you're right, but... I can't just..." She closes her eyes and grits her teeth so hard that you hear them grinding together. "Why won't it leave me alone?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Carefully adjusting her scarf to hide the marks her neck, Skaydi looks at you again. Her expression is bland, dull-eyed, like a broken beast.
+
+"...still got goods to trade... if that's what you want..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Skaydi's eyes are sunken, her face placid and blank, reminding you of a gelded, broken animal. She adjusts the scarf around her neck.
+
+"...got goods to trade... if you want 'em."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"...fare... well..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"How are you doing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>She stares at you, making no reply. Nearby, the aneen growls softly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>As you approach Skaydi, you hear the whispers that cluster around her and her aneen... a swarm of little Bloom-minds that were lurking in the pool nearby, clinging to swirls of mucous and bile, invading the thoughts of the pair when they drank too much.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>The whispers have transformed the normally docile aneen into a parasite that subsists on Skaydi's blood... just as she is driven to protect her tormentor, to hide their unnatural 'relationship' from everyone around them.
+
+If you told the Bloom-whispers to leave Skaydi alone, you're certain that they would.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Cast the Bloom-voices out of Skaydi and her aneen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>You place your hands upon Skaydi's shoulders and command the little Bloom-minds to get out. Their whispery voices shriek as one, and Skaydi stares at you in terror - apparently she can hear them too. Then, obediently, the whispers flee from her mind, and from the mind of the aneen, too. You can sense them retreating back into the well, chittering and buzzing to one another as they recede into the arteries and conduits of the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>The aneen shakes its head, snorts, and settles back on its haunches. Skaydi blinks a few times, and her eyes clear. 
+
+"You... you got rid of the voices. You saved me." She clutches your hands. "Thank you! I... I don't have anything to give you in return, at least not anything that would repay you for... for this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>She fumbles in her pockets, pulls out a jingling purse, and gives it to you. "That's all the profits I made on this trip. It's yours. And if you want anything from my shop, I'll cut the price to what I paid for it." Then she bows her head. "Memovira," she whispers. "I know that's what you are."
+
+{LOOT: Give player a lot of shins.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"What do you want?" Skaydi eyes you suspiciously.
+
+You can still hear the Bloom-whispers that surround her and the aneen, forcing them into an unnatural, parasitic relationship.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>Skaydi smiles warmly as you approach. "Hello again... Memovira. What can I do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"How is your aneen now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"She's back to her old self." Skaydi smiles. "I don't feel afraid here anymore. Not with a friend like you. I don't think the Bloom will bother us again, since you showed us your favor."
+
+Again she ducks her head in a little bow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>You realize at once that you *can* hear the whispers, thanks to the Bloom-fluid that you drank. They seemed like mindless noise before, but now you realize that they are speaking directly to Skaydi and her aneen, and their meaning becomes clear. They fill the tiny mind of the aneen with *hunger* for its owner's blood. The whispers are speaking to Skaydi, too - deadening her senses, filling her mind with a helpless apathy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"I don't know. The Bloom does strange things to you if you stay here long enough. My aneen and I drank water from that well... that might have something to do with it. I won't be drinking anything else that comes out of the Bloom, that's for sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"I just want to see what you have for sale."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

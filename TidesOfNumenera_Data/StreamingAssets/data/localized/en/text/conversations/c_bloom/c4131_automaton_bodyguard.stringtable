@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4131_automaton_bodyguard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Barbs and blades cover the surface of this hulking metal construct. Its scalloped skin looks like a suit of intricate armor, the joints able to bend in directions impossible for a human. Though the constructs is immobile, something in its design sparks a frisson of involuntary dread within you, as if it were a predator regarding you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Examine the construct.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The construct doesn't seem to mind your prodding and poking. Indeed, it doesn't react at all. By the time you're finished, you are reasonably certain that while it maintains basic locomotive and processing functions, its mind has been utterly erased. It truly is an automaton now, lacking any sort of free will.
+
+Some of its weapons systems have also been deactivated, though its killing blades are as deadly as ever.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The construct doesn't seem to mind your prodding and poking - indeed, it doesn't seem to react at all. However, you're unable to make sense of the technology, which seems entirely alien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>As you poke and prod the automaton, you discover some slight scorching at its shoulder joints. A little more investigation suggests that the construct kept its brain in its armored torso, rather than an easily targeted extremity. You find a way to lift the construct's arms for access to that space, and almost immediately, you see what the problem is. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Walk away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The ominous construct remains in the corner. It isn't overtly threatening, but somehow it still exudes a sense of menace, of barely contained power.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The construct doesn't seem to mind your prodding and poking - indeed, it hardly seems to react at all. However, its armor plating continues to slide and readjust itself, as if it were preventing you from accessing any vital areas... so when you see some exposed wiring, you poke at it.
+
+Somehow this activates something inside it, and a beam of hard light fires over your shoulder, grazing and burning you.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Bank 10</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Examine the construct again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The design of this construct is remarkably reminiscent to that of Waits-for-prey, the construct you saw in the Memovira's Courtyard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>You notice now that the design of this construct is remarkably reminiscent of Waits-for-prey, the construct you met in the Memovira's Courtyard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Bank 20</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Why don't you speak to me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>It continues to stare impassively ahead, ignoring your attempts to converse. If it weren't for the faint hum from within its chest, you would question whether it is even functioning.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Hello?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Aligern, can you examine this construct for me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Callistege, please examine this construct and tell me what you find."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Approach something that looks like a deadly killing machine and poke around its workings while you stand a safe distance away? I don't see why not." Despite his dour words, his eyes are alight with the challenge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>She flutters her eyes mischievously across a dozen shadows. "You're calling on *my* expertise? What a thrill. Let's see which of me wants to take the lead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>The varjellen glances at you in disgust and returns to his work.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"What are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>He steps up to the construct and begins a thorough investigation. He leans in closely, peering at every joint. He lifts the automaton's left arm and wrinkles his nose in disgust. "You know how some automatons keep their brains in their torsos where the best armor is? This wasn't that kind of design, but... well, come here and look at this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Our host here did a fine job of removing its memories and personality. Superb, really. He got into the power cell and overloaded it, and the discharge lobotomized the construct. Pity he wasn't more precise, though, because his... procedure... also overloaded the weapons systems. The killing blades still function, but the more advanced weapons don't. A real shame to ruin a piece of art like that. Though considering what the construct was designed for, maybe for the best."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>One of her forms settles down in front of the construct, while the others phase and flicker behind her, offering half-heard suggestions and comments. It's only a few moments before she has both its arms lifted and a minute or two after that before she stands to face you. "The construct was a stunningly effective killing machine, and if it were still active, it would likely have destroyed at least one of my shadows."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Fortunately, it seems someone took a knife to its mind, worming a way into the armored torso and overloading the power cell to generate a neurotoxic surge into the head - at least, that's what this circuit indicates. We *think* it may have been accidental, but that same operation appears to have destroyed any autonomy it once had. It also ruined most of the weapon systems... except for the killing blades, of course. In this fallen age, I doubt we have the knowledge to repair this creature."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>There's some significant burning and scorching under the arms here, as if someone or something overloaded the machine brain. Whoever did this did some irreparable damage to the construct. Anything that made it an autonomous unit is gone... but the weapons systems still function perfectly.
+
+On the bright side, you can see that the construct appeared to have some sort of teleporter mechanism... and you can just barely pry it from the space under the shoulder. You do.
+
+{GEORGE: You can remove the last paragraph if you want}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>{Colin}
+{Please flesh out the flow of this option to your liking}
+[Atempt to Disable the Construct]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Although it looks similar to Waits-for-prey, you hear nothing of its thoughts, as though it were an empty shell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>You sense no thoughts of any kind from this machine, as though it were an empty shell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>The construct remains utterly silent. It doesn't acknowledge you at all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"But our host has taken a knife to its mind. He overloaded the power cell to generate a neurotoxic surge into the head - at least, that's what this circuit indicates. That operation appears to have destroyed any autonomy it once had. It also ruined most of the weapon systems... except for the killing blades, of course. Sloppy work. Amateurish, really."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>He points at some barely visible scorch marks and smudges. "See these burns? Someone managed to get into the torso's power cell and overload it. The power surge overloaded into the autonomous nervous systems, so they lobotomized the thing. But they also fried the weapons systems. The killing blades still function, but the advanced weapons don't. A real shame to ruin a piece of art like that. Though considering what the construct was designed for, maybe for the best."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

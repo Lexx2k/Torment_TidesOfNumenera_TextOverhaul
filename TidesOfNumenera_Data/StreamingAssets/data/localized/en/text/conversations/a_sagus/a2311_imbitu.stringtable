@@ -1,0 +1,1223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2311_imbitu</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>212</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>At first glance, it would be easy to assume that this man is dying of some wasting disease... or starvation. He is little more than a too-tall skeleton wrapped in translucent flesh and a tattered robe. His hands are essentially bony claws.
+
+And yet... he beams at you, his sunken eyes glittering with suppressed laughter and feverish life.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Sure. You have investigated me. Anything else?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[I'd like to ask you about some murders.]
+
+{GAVIN: Should this be gated by GotLead?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I want to talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ah. Welcome back. I see you are still on your feet!"
+
+You notice he seems disappointed about this, despite his feverish cheer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I want to join the Dendra O'Hur."
+
+{GAVIN: Write this part after 1E.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I've changed my mind. Go ahead and kill me and eat my flesh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Do you have any insight on what I've seen so far?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Share a vision with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"He hates the bed... this prison that holds her," he growls, and the voice is scarcely his own. His cheerful brow contorts.
+
+"He swears words in tearful haste and wears them like jewels in a crown for centuries, even long after they have lost their luster - and their purpose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"He regrets the first one he leaves behind. The next... less so. Soon they are falling like leaves to be crunched underfoot, and by then, he has begun telling himself it is not only necessary but *good*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Each year brings him closer to his goals. Each year brings her closer to him. Her of the long arms and the bruised blood. Her that loved the Tides first and holds dominion over them. Her that hollows, burns, and kills."
+
+He absentmindedly wipes a line of sweat from his withered forehead. "Her breath is on your neck. The long race is done, and you have lost."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Doors. Three doors. All of them belong to your greatest enemies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Imbitu smiles. His teeth are a muddy brown.
+
+"I know you! So many eyes have lingered on that tattoo. That noble brow." He reaches for your forehead with a shivering, skeletal finger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I want to talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Tread carefully, dear," Callistege murmurs. "Imbitu is friendly enough, but he's also intelligent. Frighteningly so. Do not try to lie to him."
+
+{CALLISTEGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Keep your guard up around this one," Aligern murmurs at your side. "Imbitu's sharp. Very sharp. He's eaten a lot of very smart people."
+{ALIGERN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText> Follow-up PQ. 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I have some questions about the Dendra O'Hur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I have some more questions about the Dendra O'Hur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Farewell! Take care! Take *great* care."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText> Follow-up PQ. 26</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText> Follow-up T. 29</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"We eat corpses to assimilate their accumulated memories, their knowledge... even their consciousness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Bank 32</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"How do you 'preserve' humanity's knowledge?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"How do you preserve humanity's knowledge again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Lovely! This may surprise you, but we rarely get curious visitors. Most people seem quite nervous about us!"
+
+He wets his cracked lips and awaits your questions with polite interest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Splendid!" he says, rubbing his hands together. "Ask away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Oh," he says, clearly disappointed. "Very well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Bank 39</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Tell me about your cult."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"What is the purpose of the Dendra O'Hur again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"We worship the Great Queen Sar'lavun, Lady of Maggots, Goddess of Entropy, and Guardian of the Empty Barrier," he says, then pauses, tapping a muddy tooth thoughtfully. "Although 'worship' is the wrong word, perhaps."
+
+He points to the altar nearby. It displays a skull with flat, unforgiving eyes buried in its hollow sockets.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"We preserve the knowledge and memories - even the consciousness - of mortals before they pass into the realm of the Great Queen Sar'lavun and are lost forever."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Oh. I thought everyone knew *that*," he says, surprised. "We eat the flesh and organs of corpses to assimilate their minds, then..."
+
+He trails off, noticing your expression. "What?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"That is disgusting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I was more interested in the process than your methods."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Nothing. I'm grateful to you. Humanity's greatest achievements shouldn't be forgotten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Oh!" he says, dissolving into giggles. "Oh my, no. It's *death* that's disgusting! Think about it. Organs, *bulging* with information, rotting and liquefying, spilling their priceless secrets into the dirt."
+
+He smiles. "Perhaps our *methods* trouble you. But the alternative is far worse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Ah, a fellow scholarch," he says. "Well, It's quite simple and impossibly complex at the same time!"
+
+He points to the various hoses and chambers adorning his robes. "We do not chew on the corpses, of course. That would be quite messy. And lethal, most likely. Humans are a diseased bunch. Our suits liquefy dead flesh, extracting the information contained within. When we feed upon this, er, enriched flesh, it becomes part of us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ah," he says, his hollow cheeks flushing. "That's very kind of you to say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Bank 53</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"What did you learn from eating my flesh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Share a vision with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Quite a bit" he says cheerily, then grimaces. "Too much, in fact. Your immortal flesh proved slightly too *rich* for some of my children."
+
+He pats his belly. "I have quite a bit more experience - and fortitude - than them, however. For me, it is merely overwhelming rather than, er, explosive." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Consider my expertise at your disposal!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"How kind of you!" he says, and motions you towards a nearby bier. "Do try to make yourself comfortable."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Bank 59</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"A sculptor told me that your people may have found a man killed by a strange creature."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Yessss," he says. "I believe I know the poor man. Dry as a leaf! Hollow as an eggshell! Barely any mind left in there at all!"
+
+He clucks his tongue. "Inspect him at your leisure. He's the one with the charred skin on his brow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Now, I don't know much more about him," he says chuckling. "Though I can assure you we *plumbed* the depths of his mind and body for answers. But... I seem to recall seeing him before - possibly not through my eyes, mind you - in Cliff's Edge. He was coming out of a building near the chiurgical parlor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>And yet, you realize you may not need to pursue this any further. This is the man - the castoff - the girl's reflection spoke of. You can return to Zaofi the Sculptor when you are ready.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>You look past Imbitu at the corpse on the bier, and a wave of sorrow swells around you. For a brief second, you see the Reflection of the woman whose corpse you discovered in the ruins of a house. She and this man are somehow connected.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Bank 70</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"I'm helping Fulsome investigate some trouble in the Underbelly. Can I ask you some questions?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"I have more questions about the trouble going on in the Underbelly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Of course! And do tell Fulsome hello from me. We are dear friends!"
+
+He raises a finger. "Well, he frowns more than I smile, but we do have a grand time whenever we meet. Which is often!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Oh dear," he says. "I was hoping it was all over by now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Bank 75</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"One of Fulsome's proteges was murdered. Do you know anything about it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Are you sure you don't know anything about the murder of Fulsome's protege?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Bank 78</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Not a thing," he says, then grins. "Why, am I a *suspect*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Oh my," he says. "I suppose so. Do be gentle with them." He flashes his teeth at you. "If they deserve it, of course." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"I have evidence that the Dendra O'Hur are involved. Can I speak with your acolytes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Bank 83</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Where were you when Fulsome's protege was killed?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Where were you when Fulsome's protege was killed again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Ah!" he says, excited. "I have quite an amazing alibi. Is that how you say it? 'Alibi'?"
+
+He draws himself up and sets his jaw sternly like a caricature of Justice itself. "I was with Fulsome the entire night. He can tell you as much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>He leans in close to whisper in your ear.
+
+"I've promised Fulsome I wouldn't tell anyone how he helps with *things*. You'll need to ask him if you want to know more."
+
+He winks, and stands back. "So as you can see, I'm beyond suspicion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Oh dear," he says. "I thought we'd already discussed this. I was with Fulsome himself. He can tell you more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Describe the bloody circle left by the murderer, and ask Imbitu if he recognizes it.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Bank 92</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"My, my," he says, lowering his head and adjusting his robes. "Quite gruesome. I must say your ring sounds faintly familiar, but... no, I can't place it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>For a moment, steel flashes through Imbitu's amiable eyes, and his robe-shrouded hand briefly becomes a fist. 
+
+A less observant person would have missed the fact that kindly Imbitu just told you a lie. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Try again, Imbitu. You know that symbol. How?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"All right. I have some other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Good! Good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Ah," he says. "I see that nothing gets past you." He does not smile this time.
+
+"That circle is the symbol of the Children of the Endless Gate. They began as a branch of the Dendra O'Hur that was more *impatient* in their appetites." His lip twitches, like the memory of a snarl. 
+
+"Years ago, my sisters and brothers and I chased them from the city and erased their names from every record. Or thought we had."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Perhaps..." he says, turning troubled eyes on the other Dendra O'Hur. "No. This is the first time I've spoken of the Endless Gate in years. They cannot possibly be involved."
+
+He takes a deep breath and smiles at you again. It's like watching a wrinkled sun emerging from the clouds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"You lied to me earlier. You knew what that bloody circle on the wall meant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>The smile falls from Imbitu's face. "I hope you are not asking for the reason I think you are," he says. 
+
+"They began as a branch of the Dendra O'Hur that was more *impatient* in their appetites." His lip twitches, like the memory of a snarl. 
+
+"Years ago, my sisters and brothers and I chased them from the city and erased their names from every record. Or thought we had."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Tell me about the Children of the Endless Gate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Perhaps..." he says, turning troubled eyes on his acolytes. "No. This is the first time I've spoken of the Endless Gate in years. They cannot possibly be involved."
+
+He takes a deep breath and smiles at you again. It's like watching a wrinkled sun emerging from the clouds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText> Follow-up PQ. 110</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Do you think any of the other Dendra O'Hur could be capable of murder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Which of your acolytes might be capable of murder again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText> Follow-up T. 113</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Certainly not!" he declares, then pauses. "Well. They do come and go as they please, hunting for bodies left in the gutters like broken leaves." He smiles mistily up at the air, as though reminded of his younger years.  
+
+"The Devourer of Wrongs was standing vigil these last few days, but any of the others could be responsible, I suppose." He runs his eyes across them, humming a fretful little memory. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"All of them except the Devourer of Wrongs," he says, shrugging. "They're a fairly nasty bunch, I'm afraid. Our lifestyle doesn't draw the cream of society like it used to."
+
+He gestures at his acolytes. "Talk to them yourself. You'll see what I mean."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Ah," he says, looking uncomfortable. "Good. Were this decades ago, I would handle the investigation myself. But I am, perhaps, a little past my prime?"
+
+He drops his voice to a whisper. His breath is sour, and a wild light dances in the deep places of his eyes. "Bring your suspicions to Fulsome. He will take the correct actions. He always does."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"I've spoken to all of you, and I think I know who the murderer is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Good news," he says, flinging his scrawny arms wide. "Fulsome's people burst in here not long ago and hauled your suspect away. Justice has been done! I hope."
+
+He squints at you, a sliver of sorrow in his eye. "I do hope you were certain. That you didn't just *guess*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>He stares into the middle distance, gaunt and haunted. 
+
+"It was Kiyatawa," he says. "I should have known. I wish I'd known. She tasted of fear and sorrow, but never rage. Never that *kind* of hunger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"How did the Children of the Endless Gate find her?" he murmurs. You can't tell if he is even talking to you. "We cast them out years before she was born! How did they infect her with their madness? Teach her the markings? The rituals?"
+
+He sighs and offers you a tremulous smile. "It is done now. She has fled. We must all move on and try to forgive ourselves for our failures."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText> Follow-up PQ. 125</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"How do you think Kiyatawa discovered the Endless Gate?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"How do you think Kiyatawa discovered the Endless Gate again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText> Follow-up T. 128</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"We were so proud," he says, his usual cheer deserting him. "We chased the Children of the Endless Gate from Sagus, never considering that they might bear a grudge. That they might return."
+
+He looks at the oily ceiling. "There is a sickness in them. A contagious one. I can only imagine that one of them returned to Sagus Cliffs and died here. Perhaps on purpose. Kiyatawa discovered the corpse, devoured it... and heard the song that spills from the Endless Gate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"We may never know," he sighs. "Perhaps she devoured meat tainted with their sickness. Perhaps she found mention of them in a dusty book."
+
+He stares at a dark wall. "We may never know," he repeats. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>He stares into the middle distance, gaunt and haunted. 
+
+"Kiyatawa," he says. "The most silent of my children. The most troubled. How could she have killed all those people?"
+
+He swallows. "I should have known. I wish I'd known. She tasted of fear and sorrow, but never rage. Never that *kind* of hunger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Bank 132</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"I want to ask something about your life again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Oh, there isn't much to tell. I've spent most of my years in this little chapel," he says, casting a fond look around. "The Dendra O'Hur has rather consumed my life."
+
+{GAVIN: Create alternate entry nodes and add all new faction-specific information after 1E}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Do you?" he says, looking surprised. "I can't imagine why. I'm hardly interesting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Well! That is a good question. A very good question. I congratulate you on asking it!"
+
+He rubs his hands together with a papery sound. "I am afraid, however, that outsiders rarely understand what calls us to the Dendra O'Hur. So, with apologies, I do not think I will answer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Bank 138</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Why did you join the Dendra O'Hur?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"I'd still like to know why you joined the Dendra O'Hur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"And I would love to tell you!" he says, and it is clear that he would. "But it is rather tangled in the mysteries of our order. I simply cannot indulge you. Again, my apologies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"I want to talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"On to more interesting topics than an old man's past," he says, flashing a stained grin. "Lovely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Bank 144</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Why did you join the Dendra O'Hur?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"I want to know more about what drew you to the Dendra O'Hur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Well! That is a good question. A very good question. I congratulate you on asking it!"
+
+He rubs his hands together with a papery sound. "I cannot tell you much. Outsiders rarely understand what calls us to the Dendra O'Hur, but you have kind eyes. And so, I will tell you that it was kindness. Beyond that, however, I cannot answer. My apologies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"And I would love to tell you!" he says, and it is clear that he would. "But the full answer is rather tangled in the mysteries of our order. I simply cannot indulge you. Again, my apologies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Let him touch your forehead. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Pull away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>His fingertip traces a hot line over your tattoo.
+
+"Yesssss," he says. "Now I remember."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>You step out of his reach. He blinks, then smiles.
+
+"I'm very sorry," he says. "I rarely deal with the living. Corpses are not quite so bashful."
+
+He flaps his hands at you. "I remember you now, of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Ah! Our restless corpse!" Imbitu beams at you, clasping his skeletal hands together like a tangle of twigs. "Such a curiosity you are."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Old Cirisa once saw you out of the corner of her eye. A week before his accident, Ulori-mar sold you a small bag of..." he breathes, closing his eyes. "Sugar-dusted almonds. But those aren't the only two. No. You drift through countless lives, altering and ending them. Never leaving a name!"
+
+He draws in his breath. "Oh, I can't stand mysteries. Love them, but can't stand them. Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"I'm not the man you think I am. That was someone else."</DefaultText>
+      <FemaleText>"I'm not the woman you think I am. That was someone else."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>(Lie) "The Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Aligern mutters something inaudible under his breath. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Callistege sighs, but does not speak. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Are you?" Imbitu says, and though he covers his mouth with his hand, you see his sly smile. "I do hope you've told your cult that you've returned. They will simply be *delighted* to see you."
+
+He clears his throat. "So? What brings you to the Chapel of the Dendra O'Hur?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Let me remain a mystery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Hmm," Imbitu says. "The same face. The same tattoo. But yes, different eyes. Perhaps you have a secret twin!"
+
+He coughs gently against the back of his hand. "So? What brings you to the Chapel of the Dendra O'Hur?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"If you must," he says, looking disappointed.
+
+He clears his throat. "So? What brings you to the Chapel of the Dendra O'Hur?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Aligern sighs but does not speak. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"She waits on the other side of death with her billions of squirming children. They devour whatever passes into their realm. And rightfully so! Everyone must eat." His eyes twinkle fondly.
+
+"But whatever she and her children eat is lost forever. And so, the Dendra O'Hur work to preserve the minds - and the mysteries - of mortals before death claims them. We hold their shrill little thoughts in our minds, and let them tumble around as they will."
+
+He shivers. "It feels marvelous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"I shall endeavor to tell you what I have learned, but I fear it may not be as clear as you would hope. It always takes a while to digest," he stifles a giggle, "the information contained in just one life. Your body contained countless wonders. We will be decades absorbing them all."
+
+He sighs. "In other words, my interpretation may sound somewhat unfinished. Unclear. Mystical." He pronounces the last word with distaste. 
+
+"But I would happily share these visions with you. Merely ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Bank 172</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Of course," he says, and closes his eyes. Teetering gently, he draws a long, smooth breath. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Imbitu closes his eyes and begins to speak. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Bank 175</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Imbitu opens his eyes, beaming. 
+
+"Didn't hear a word of it," he says. "But it felt *fascinating*. I hope it was helpful! And do come back if you want to hear more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Imbitu recoils and opens his eyes. 
+
+"That's all for now, I'm afraid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Imbitu's eyes pop open. 
+
+"Was it of any help? It certainly felt dire. I do hope it wasn't bad news."
+
+His eyes flutter for a moment. "I'm afraid that the visions get rather more fragmented from here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Gather the ones he scattered. Gather the seeds and the husks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"You will never see every level of the Labyrinth. And that is good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"I... er..." His eyes open again. "That's it! Everything else is a muddle for now. Can you come back in, say, a year or so?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Ah," he says, looking disappointed. "Do tell me if you change your mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"How grand! I know nothing about the poor child's death, of course, but how very marvelous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Yes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Keeping your own council," he says, nodding sagely. "Very wise. Very, very wise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Maybe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"I don't," he sighs. "I wish I did. Even in the best of times, Fulsome is *such* a surly dinner companion. I can only imagine his mood now. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"I'd like to question your acolytes. Would that be all right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Can't allow it, I'm afraid," he says with a thin smile. "Not without reason. They're young and easily distracted from the path I've laboriously carved before them. Perhaps another time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"I'd like to question your acolytes about the Endless Gate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Oh my," he says. "I suppose you have my permission. Do be gentle with them." He flashes his teeth at you. "If they deserve it, of course." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Oh dear," he says. "They really *are* a suspicious lot, are they? Mallet enjoys hurting people, Kiyatawa tells her little lies, and Gh'zei... well. She's quite *unique*." He seems as pleased at this as though he accomplished her uniqueness himself. 
+
+"All in all, they're a horrifying bunch, aren't they? I really hadn't noticed before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"All of them have their secrets, but they do love spilling them if you help them along." He frowns thoughtfully, ticking his fingers.
+
+"Gh'zei is quite willing to share her hopelessly barbaric (but quite marvelous) philosophies if you press her hard enough. Kiyatawa holds her secrets close, but plays with her hair when she's hiding something. And our dear Mallet cannot seem to abandon the grudges from his old life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText> Follow-up PQ. 197</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>""
+
+{GAVIN: Write this after 1E. Hidden with blank global for now.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"So soon?" he says, folding his hands. "Very well!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"I'm done talking about my investigation for now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Imbitu and his priests lean over you in well-orchestrated unison, cutting painless slits in your flesh. Hoses dangle from their wrists, leading up into their suits. They snake, seemingly of their own accord, into your incisions. 
+
+For a moment, nothing happens. Then, you hear a faint whirring as spinning blades grind your organs, and suck the pulp up through the hoses. 
+
+Someone is screaming, and you have a fairly good idea who. Eventually, mercifully, you die.  
+
+{SOUND: Disgusting hose suction/slurpling and crunching sounds.} 
+{SOUND: PC screams.}
+{SCRIPT: Fade out and in}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>He stares into the middle distance, gaunt and haunted. 
+
+"It was Kiyatawa," he says. "She fled just before Fulsome's enforcers arrived. I should have known. I wish I'd known. She tasted of fear and sorrow, but never rage. Never that *kind* of hunger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Do take your time getting to your feet. I would imagine you're quite dizzy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"At any rate, we scour the streets for bodies, er, left *unclaimed*. We bring them here and lay them upon the biers." His sweeping hand directs your attention to the still, shrouded figures lying about the chamber.
+
+"When a body is *ripe* with unplucked secrets, we gather about it and taste it together. Let a lifetime of thoughts flit around ours like little fish." 
+
+He smacks his lips happily.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Imbitu and his followers lean over you in well-orchestrated unison, cutting slits in your flesh. Hoses dangle from their wrists, leading into their suits. They snake, seemingly of their own accord, into your incisions. 
+
+For a moment, nothing happens. Then, you hear a faint whirring as spinning blades grind your organs, and suck the pulp up through the hoses. 
+
+Someone is screaming, and you have a fairly good idea who. Eventually, mercifully, you die.  
+
+{SOUND: Disgusting hose suction/slurping and crunching sounds.} 
+{SOUND: PC screams.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>After an indefinite amount of time, you open your eyes. Imbitu stands beside you, fiddling with his knuckles. 
+
+"Ah!" he says, raising his hands. "Welcome back! What an *exquisite* experience that was... though I'm certain you don't need to hear about it while you're waking up!"
+
+He beams. "At any rate! I took the liberty of adding a token of our gratitude to your belongings. Do come speak to me whenever you're ready to discuss what we learned from our little feast."
+{LOOT}
+{GAVIN and GEORGE: Add the following information later in the project, given time: The Dendra might also refer to some of the experiences the player has had so far in the game (since they will have acquired some of the player's memories) and could make suggestions about (for example) things the player missed. . Additionally, Imbitu invites the player to learn the mysteries of the cult - if the player is interested, he should speak to Imbitu in private. }</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Take your time getting to your feet. I would imagine you're quite dizzy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Someone is murdering people. One of them was Fulsome's protege. Do you know anything about it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Are you sure you don't know anything about the murder of Fulsome's protege?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>His surface thoughts betray him. He certainly does know the symbol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Interesting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"All of this seems unlikely to me at best."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Oh, no, no," he says, giggling. "The process is quite flawless and works *very* well." He gingerly pats his bony chest. "I'm living proof!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Oh, it is! And dangerous, of course. It does, er, drive us all the slightest bit mad." He purses his lips like he's given away a naughty secret. "But it's worth it, even so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"You're a cannibal. That's all there is to it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>He chortles, apparently unoffended. 
+
+"If that were true, we'd be quite guilty of horrendous inefficiency. There'd be no need for all these hoses and tubes. We'd simply be able to, er, 'tuck in'."
+
+His smile fades slightly. "But no. Our process is quite real. Very powerful. And you'd do well to understand how something works before you declare it doesn't." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Bank 220</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"How long have the Dendra O'Hur existed?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Who founded your cult?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Centuries!" he declares. "Though how many, I couldn't say. We aren't devoted to paper records, as you might imagine. We prefer keeping them in our heads."
+
+He runs his tongue along the edge of his rotting teeth. "Also - and this is slightly embarrassing - none of us managed to eat our founder! He simply disappeared one day. Can you imagine?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"A man named Melmoth Leviarm," he says, and sighs. "I do wish one of us had managed to eat him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Who founded the Dendra O'Hur again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Melmoth Leviarm," he says with a grand gesture. "Lovely name, isn't it. Just *lovely*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"What does your cult's name mean, anyway?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>The old man's eyes dart from side to side, and he leans in. 
+
+"Nobody knows," he whispers, delighted. "It's a mystery. Isn't that *wonderful*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Share another vision with me."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4111_grisseler</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>123</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As you approach, you see two well-dressed merchants in heated conversation with a wiry man who is wearing an assortment of odd-looking leathers and hides.
+ 
+Upon seeing you, the wiry fellow shoos the merchants away and turns in your direction. Instead of feet, you notice that he has two hand-like appendages, fashioned from metal and synth. Indeed, both of his legs have been replaced by these artificial 'arms' that appear remarkably flexible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Can you tell me a little more about the slums?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Grisseler lets out a long puff of air, and you're fairly certain that his breath is the same color as the fetid smoke emitted by the Bloom itself. Certainly it smells near as bad.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Grisseler nods as you approach, smiling lopsidedly. "Yep, I'm still here. Somethin' you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Why is that wagon just standing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"You'd better ask these two fellas here." He nods at the well-dressed merchants. "See, they were supposed to be heading for the Ascension, by way of the old Trade Post. But then the Bloom decided to *eat* the Trade Post, so now they're stuck." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Grisseler squints at you. "You spoke to her, didn't you? To the Bloom, I mean. And she listened."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Then how am I supposed to get to the Ascension?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Name's Grisseler, by the way. Bloom-guide, explorer, and scout. Three times eaten by the Bloom and still intact. Well, mostly." He wiggles the artificial fingers on one of his 'feet.'</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I have some questions about you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"All right. What questions would those be?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I need to know more about Maws and how they work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Grisseler squints at you for a moment, as if trying to decide if he trusts you or not. Then he nods. "A Maw is a door, see? A *living* door. It's a connection between somewhere in the Bloom and another place. That other place might be right around the corner, or it might be in a whole different world. Maybe in a whole different *time*. It don't matter none to the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Lookin' for the Trade Post?" The wiry man flashes a lopsided grin and jabs a thumb at the giant, toothy jaw behind him. "Used to be in there, 'til the Bloom got hungry and ate it. At least I think that's what happened. Never can tell with this big old sack of guts we call home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Were there people in there? Do they need help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"So... the Trade Post was destroyed?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Does this sort of thing happen a lot around here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>One of the merchants spits. "Not anymore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Can't say for sure if they're dead." The wiry man squints hard at the merchant. "A lot of times, the Bloom just *moves* one of her parts someplace else. So there ought to be a Maw that can take you there. Finding it, though, that's the trick." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Can't say for sure if they're dead. A lot of times, the Bloom just *moves* one of its parts someplace else. So there ought to be a Maw that can take you there. Finding it, though, that's the trick." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>One of the merchants glares at the wiry fellow. "That's just what *we* were asking him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Only one way to the Ascension gate, and that's through the Trade Post. Just like I said." The wiry man squints at the merchant, as if daring him to push a little further. Surprisingly, the merchant looks away, the fight going out of him. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Bank 35</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>You think you catch a glimpse of fear in the merchant's eyes, but you can't be sure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The wiry man turns back to you. "Knowin' the Bloom like I do, I'd bet that the Trade Post is still around here somewhere. You might find a Maw that'll take you there, if you look hard enough. The Bloom never closes off a path for long, but *finding* it again... that's a whole different story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Knowin' the Bloom like I do, I'd bet that the Trade Post is still around here somewhere. You might find a Maw that'll take you there, if you look hard enough. The Bloom never closes off a path for long, but *finding* it again... that's a whole different story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Could be, but I'd guess it's still around." He squints toward a nearby wall of flesh, as if expecting the Trade Post to make a sudden reappearance, then shrugs. "No telling where, though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"If I was you, I'd try to find a Maw that would take me there. Ought to be one around here somewhere. The Bloom never closes off a path for long, but *finding* it again... that's a whole different story." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Can't say that it does. Oh, the Bloom eats *people* often enough, but a whole Trade Post? No. I know the Bloom, and she wouldn't go that far unless she had a reason." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Where would I go to look for a Maw?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Grisseler purses his lips. "Used to be I could answer that question easy enough. I'd tell you just where to find 'em, and where they lead, and what to feed 'em. But something's got the Bloom all riled up, and she's opening and closing Maws however she likes." He shakes his head disapprovingly, as if talking about his own disobedient child.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"So if I was you, I'd try the darkest corners of this gut-bag I could find. Dank and nasty places, that's where Maws like to rip themselves into being. The slums are a good place to start. Little Nihliesh, Chiurgeon Slump... foul little holes like that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Well now," he says, rocking back on the 'heels' of his hand-feet. "From where we are right here, you can find your way to three of 'em - Little Nihliesh, where all them funny-lookin' mutants live, Chiurgeon Slump, where folk go to get their bodies hacked or healed, and the Old Slave Block." He makes a sour face. "Folk don't go *there* at all, unless they're murdens, but murdens don't really count as folk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Tell me about Little Nihliesh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"What do you know about Chiurgeon Slump?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"I want to hear about the Old Slave Block."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"I have other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"You ever need advice about the Bloom, come and find me again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Grisseler nods. "First of all, it ain't so little. I'd guess it's bigger than the other slums by half. Used to be called something else before the mutants moved in, but nobody remembers the old name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"See, the mutants got here through a Maw. They used to come and go as they pleased, trading goods from here and there, making all manner of shins. Somebody shoulda warned 'em that Maws are ornery beasts, and they never do the same thing for too long. Sure enough, one day it up and closed, and all the mutants on this side got trapped in the Bloom. Been stuck here ever since."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Funny thing about Little Nihliesh. Folk on the outside of the Bloom like to pitch their rubbish in here - straight into the nearest tube or sphincter. But no matter where they dump their trash, it all finds its way to Little Nihliesh. Don't know how or why. Guess that's just where the Bloom likes to keep it." He smiles fondly, and again you sense that he's talking about a much-beloved child.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Grisseler brightens. "That's where I got fitted with these." He taps the metal-and-synth 'arms' that double as his legs. "Couple of nice fellas helped me out when the Bloom ate my legs. They were a little odd, I'll admit, and lacking in the social graces. Kept calling me by a number, rather than my name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Nowadays the Slump is under the 'protection' of a bunch of soldier-types. Deserters, I hear... from some battle that never ends." Grisseler shakes his head. "Imagine that, fighting in an endless battle. Shoulda thought it through *before* they signed up, that's what I say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Used to be a prison for slaves, back in the days of Chila the Great. They carved it out of the Bloom-flesh with saws that spat solid light and blades that weren't all there. Folk say that's where Chila was chained up, and that's where her *legend* was born."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Wouldn't know it anymore. It's all feathers and filth in there now, ever since the murdens moved in. They're a pack of dirty thieves, and if you get too close to one of 'em, your thoughts get all staticky. Makes it hard to do just about anything. I hear it's because they talk to each other with their minds, but I guess they can't do it quiet and polite." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Why not? Doesn't look like I'm going anywhere for a while."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"All right. I think I've still got some time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText> "Only one rule with Maws. You feed 'em what they want, and they open. Trouble is, every Maw wants something different. Might be an emotion, or a color, or the blood of one particular fella. Or if you're unlucky that day, might be your own two legs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Maws are stubborn, every one of 'em. Until you give 'em what they want, they'll stay shut." He lowers his voice. "Unless you got a way to *cut* 'em open. Takes a special kind of weapon to do that, but the Bloom don't like it one bit. She'll *remember* a fella who cuts open her Maws, and things won't go easy for that fella around here."</DefaultText>
+      <FemaleText>"Maws are stubborn, every one of 'em. Until you give 'em what they want, they'll stay shut." He lowers his voice. "Unless you got a way to *cut* 'em open. Takes a special kind of weapon to do that, but the Bloom don't like it one bit. She'll *remember* a woman who cuts open her Maws, and things won't go easy for that woman around here."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Did you say you were eaten by the Bloom three times?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Why do you refer to the Bloom as 'she?'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"You seem rather... nonchalant about this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"You called yourself a Bloom-guide?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"That's right." Grisseler flashes his crooked grin. "Ain't nobody around here who knows the Bloom as well as ol' Grisseler. I hire myself out to fellas like these," he nods toward the two merchants who are standing nearby, "and get 'em where they need to go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"'Course I'm happy to give advice for free. Can't say I ever get tired of talking about the Bloom. Or about anything, really."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Yep." Grisseler beams, obviously proud of his achievement. "First time the Bloom ate me, she took my senses of smell and taste. That's fine, I told myself. Now I can eat all them foul-tasting vegetables that folks always said were so good for me. Second time, the Bloom took my ability to feel fear. Pff. What'd I ever need that for? Just kept me from doin' things that'd make for good stories later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Third time, the Bloom took my legs. She was kind enough to cauterize the stumps, though, so I wouldn't bleed to death. Then I met a couple of fellas over in the Slump, and they fitted me up with these." Grisseler slaps the synth 'arms' that are now serving as his legs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>He leans forward and lowers his voice. "Truth is, I'm faster and nimbler now than I ever was, but I don't like to tell too many people, or they'd *all* be clamoring to swap their legs for a pair of arms."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Do I?" Grisseler's face reddens. "Must be because I'm always hearing her voice. Like a whispery, chittery sound. Tells me when she's hungry or full, happy or cross. It helps to know that sort of thing when I'm guiding folks through her guts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Well, I've been here a long while. And the Bloom ate my sense of fear, so there's that too. I like to think she's looking out for me. Sure, she takes a little part of me now and then, but life does that to all of us, don't it? Well, maybe not so literally, but... you know what I mean."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Bank 73</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"What's a Bloom-guide again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"We're folk who've been around here longer than most. Usually we hire out to merchants, travelers, explorers, and the like." He shrugs. "We get 'em where they need to go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText> Follow-up PQ. 77</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Can you tell me about the times the Bloom ate you again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Grisseler smiles, apparently never tiring of this particular topic. "First time, the Bloom took my senses of taste and smell. Whole thing was painless. I recall thinking that the Bloom had cut through my *mind* rather than my fleshy parts. Second time was much the same, 'cept the Bloom took my sense of fear." He waves a hand dismissively. "Never had much use for that, anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Third time was when the Bloom ate my legs. It stung a bit - maybe even a lot - but at least it was over quick. And now I've got these fancy arms to replace 'em." He beams proudly at his artificial limbs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"I keep telling 'em to look on the bright side - at least they weren't *inside* the Trade Post when it got eaten. But they won't hear it. Never seen a couple of fellas so determined to be miserable." Grisseler squints suspiciously at the two merchants. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Anyway, until they decide what to do next, we're staying put. And since they're paying my wage, I do what they tell me." He grins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Where did the merchants go?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"On about their business." He gestures vaguely at the newly-opened gateway to the Trade Post. "Them sour fellas pay well, but that's all the good I have to say about 'em. Guess I'll be moving on soon. Got enough shins to hold me over for a while."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Just waiting on word from an old friend who might need a favor. But I hope she doesn't."
+
+{SCRIPT: The conditional script needs to check for the same number of Bloom favor points that would give the player a "free ride" through Crisis 4-1 and trigger the Grisseler encounter in the depths. Please tweak the value accordingly (currently it's a placeholder value).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Grisseler's eyes widen when he spies the scalpel, and he waves it away. "Get *rid* of it," he hisses. "Can't you *hear* how much she hates it?" He holds his hands to his ears, as if in pain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Show him the Transdimensional Scalpel. "Have you ever seen a weapon like this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>You realize that he's right. The faint, whispering voices of the Bloom, which you've been able to hear for some time, do become more agitated whenever you take out the scalpel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"I've *heard* of a weapon like that," Grisseler whispers, eyes still locked on the scalpel. "Stories, mostly. It's been around the Bloom for a long time. That knife can *cut* open her Maws if you fix it up right. She don't like it, and she's no friend to the one who wields it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>You don't actually hear anything, but you assume he must be referring to the voices of the Bloom... or he's completely insane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Maybe the Bloom listens to those who warrant attention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"That troubles you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Is that unusual?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"It wasn't speech, exactly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Grisseler barks a laugh. "Maybe so. I like your confidence, but others around here might not. See, there ain't nobody else who can talk to the Bloom like that... except maybe the Memovira, and she don't enjoy competition, if you catch my meaning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>He shrugs, and the lopsided grin returns. "Now, what can I do for you? I know all about the Bloom and her Maws."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Doesn't trouble *me* so much, but it might trouble *some*. I can find my way just about anywhere in this great big sack of piss and corruption - and I say that out of love - but even I can't *reshape* the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Guess I'd be careful about using that kind of power, if I was you. The folks in charge might mistake you for a threat. Happens a lot around here, and I'd hate to see it happen to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"I'd say so. Nobody but the Memovira can command the Bloom like you did... and some folk say even *she* can't do it anymore.  'Course I ain't one to believe those rumors."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"'Course not. She don't talk the way *we* do, but she has ways to make herself heard. All that whispery, chittery stuff makes a certain kind of sense if you listen long enough. And maybe you've got ways to talk back to her, but I ain't trying to pry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"All I'm saying is this - I'd be careful about using that kind of power, if I was you. The folks in charge might mistake you for a threat. Happens a lot around here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Maws are stubborn, every one of 'em. Until you give 'em what they want, they'll stay shut." He lowers his voice. "Unless you *cut* 'em open with that knife you found... but the Bloom won't like it one bit. She'll *remember* a fella who cuts open her Maws, and things won't go easy for that fella around here."</DefaultText>
+      <FemaleText>"Maws are stubborn, every one of 'em. Until you give 'em what they want, they'll stay shut." He lowers his voice. "Unless you *cut* 'em open with that knife you found... but the Bloom won't like it one bit. She'll *remember* a woman who cuts open her Maws, and things won't go easy for that woman around here."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Bank 107</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Tell me about Little Nihliesh again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Bank 110</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Remind me what you said about Chiurgeon Slump."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Bank 113</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"I want to hear about the Old Slave Block again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"You can only get to three of 'em from here - Chiurgeon Slump, the Old Slave Block, and Little Nihliesh. They ain't pretty, but they're good places to look for Maws, if that's what you have in mind." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Bank 117</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Can you tell me about the slums again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Bank 120</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"How do Maws work again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Only one thing you need to remember. If you feed a Maw what it wants, it'll open. 'Course every Maw wants something different, and they ain't gonna tell you what it is... unless you can understand its voices, maybe. Best thing to do is ask around, or keep an eye on its tongues, and see what makes 'em perk up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Once a Maw is fed, it'll open a doorway to someplace else. No telling where. Only one way to find out." Grisseler flashes his lopsided smile. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Bank 125</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Where are the best places to look for Maws again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Dark corners, mostly. I'd start in the slums." He purses his lips. "I'm pretty sure the Maw in Chiurgeon Slump is still there, but it ain't been opened in a while."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Dark corners, I always say. But you don't need my help." He nods."You know your way around the Bloom well enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Well, you already opened the Maw in Chiurgeon Slump, or so I hear. So I'd try the other slums - the Old Slave Block and Little Nihliesh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"You said the Bloom is acting strangely. Do you know why?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"She's *hungry* for something... or someone. I can hear it in her voices. Just like when a Maw wants to eat somebody... only this time it's the whole Bloom. This sort of thing used to scare me, it did. Probably still should."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Look at Grisseler's clothes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>His garments are rough but reasonably well-made, though the material is strange to you. It seems to be a type of leather, but it's thicker and heavier than any leather you've seen, and the colors are scabrous and ugly.
+
+Grisseler catches you looking, and he nods. "Tanned Bloom-flesh. Tough but strong. Ol' Sundermun made these." He waves a hand toward one of the walkways that leads off into the vast interior.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>This lean and wiry man is wearing an assortment of odd-looking leathers and hides. Instead of feet, you notice that he has two hand-like appendages, fashioned from metal and synth. Indeed, both of his legs have been replaced by these artificial 'arms' that appear remarkably flexible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"A pack of mutants lives there. They got here through a Maw, but it closed behind them, so now they're stuck here. It *also* happens to be the Bloom's favorite trash heap, for some reason."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Home to the kind folks who replaced my legs." He taps his 'heels' together for emphasis. "Now it's under the 'protection' of a pack of deserters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"They say it's the same prison where Chila's legend was born. I couldn't speak to that, but nowadays it's home to a flock of untrustworthy murdens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>This lean and wiry man is wearing an assortment of odd-looking leathers and hides. Instead of feet, you notice that he has two hand-like appendages, fashioned from metal and synth. Indeed, both of his legs have been replaced by these artificial 'arms' that appear remarkably flexible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Name's Grisseler. Bloom-guide, explorer, and scout. Three times eaten by the Bloom, and still intact. Well, mostly." He gives you a lopsided grin. "I saw you walk out of the Trade Post. Can't say I was expecting *that*, and I've been around the Bloom longer than most."
+
+The grin disappears, and he lowers his voice. "You spoke to her, didn't you? To the Bloom, I mean. And she listened."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Do you know how to reach the Heart of the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"What will I find in the Bloom's Heart?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Folk say there's a Maw that'll take you to the Heart. If the stories are true, you can only see it if it *wants* you to." His easy smile fades. "Never been there myself. But when I need something from the Bloom, I go to the place where she's most likely to *hear* me."
+
+He nods his head toward the colossal statue on the other side of the vast interior space. "The shrine of Chila the Great. Maybe somebody there can set you right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"I call myself a Bloom-guide because I *know* this sack of guts... but the deep places are different. More alive, more conscious. Full of voices... packs of 'em that wrap themselves in flesh so they can wander around and *feed*. The Heart is where Memoviras are made... and unmade." 
+
+He pauses uncomfortably.  "If you go down there... you ain't coming back until the Bloom is finished with you, one way or another."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

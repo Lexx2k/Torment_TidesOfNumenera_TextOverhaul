@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1201_intrusion_sprayflesh</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[The world stops.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Qorro breathes heavily, badly hurt already. "You're tough, I'll give you that. But I ain't finished yet." He pulls out a can of sprayflesh and quickly applies it to his wounds.
+
+As he does so, you sense a regenerative energy field from the construct that could enhance the recuperative effect. You feel a surge of power, like when you drove away the Sorrow fragments. You can't stop Qorro from healing, but you could disrupt the field.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Qorro rushes to his wounded ally.
+
+"You're tough," Qorro says. "I'll give you that. But we ain't finished yet." He applies sprayflesh to the wounds.
+
+The construct's regenerative field could strengthen the treatment. Power surges through you, as when you drove off the Sorrow fragments. You can't stop Qorro, but you could disrupt the field.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[The space around Qorro and the machine seem so fragile, so mallieable, maybe you could- ]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Stretch out your mind. Disrupt the energy field so it can't enhance the sprayflesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>A wave of force radiates from your body, and the energy field dissipates.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Influence Qorro to heal himself instead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You send your power more subtly into Qorro's mind, twisting it to shape your will. You can't stop him from healing, but you can shift him to appeal to his selfish nature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Let it happen. It won't help them any. [+[Global: DP_GainIntrusion] XP]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>The regenerative field interacts with the spray, making it more effective than normal.
+
+Qorro smirks. "Didn't I tell you, lads? Happened to me once before. Something in the Reef interacting with the spray, I'll bet. Now take them!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[+2 DP] Ignore the surge of energy and allow Qorro to heal his ally.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[You remain still as Qorro activates the handheld device. As his ally heals, you feel a small surge of power leak into your body. The world returns to its normal rhythm.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Damn! Sprayflesh is usually more effective here!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Sorry, mate. I need this more than you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Now let's see how tough you are."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

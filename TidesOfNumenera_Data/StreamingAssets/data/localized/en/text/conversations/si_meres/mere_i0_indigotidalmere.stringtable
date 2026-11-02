@@ -1,0 +1,1342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\si_meres\mere_i0_indigotidalmere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>190</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Indigo waves rise in the wake of the huge marteling whale bearing down on Sagus Cliffs. Its flank blocks out the sun; its shadow sweeps over your meager dhow and a whole swath of sea.
+
+From high up on the beast's back, a lookout leans down. "Plague!" he cries, in a voice that seems too faint, even considering the distance. His warning is unnecessary: the yellowjack flag flapping from the mast can be seen all the way from the city.
+
+As the lookout stares directly at your dhow, he cocks his head quizzically and rubs his eyes, plainly confused to see no one in the boat. The light-bender on your belt does its work well... while its charge lasts.
+
+After a moment, the man wanders off.
+
+{ART: The Whale.}
+{[A] SOUND: Waves lapping against the dhow.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Silence, like a miasma, hangs over the empty driftwood shacks. Bits of bone, sheets of synth, crude abandoned tools... these are the only signs that people once thrived in this unusual home.
+
+The lookout has left no tracks, and in the moments you spend scanning the narrow, trash-strewn street, no one else emerges. 
+
+Beyond this bleak emptiness, two things rise: nearby, a kind of pavilion or howdah built atop the whale's head, and in the distance, a huge stone sterncastle at the whale's rear. A beam of light streams from the sterncastle to the howdah, encasing the latter in an iridescent bubble; some sort of shield, by the look of it. There is nothing else of note.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Search for any survivors.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Head for the sterncastle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Climb one of the shacks to gain a better vantage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Investigate the howdah.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Go to the crowd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Following the map in your mind, you wend your way down the narrow village lanes. Silence, stench, and squalor are your only companions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>After a sharp turn, you slip into a square that is half-smothered by the stench of what seems a heap of garbage. Without a shudder, you see it is in fact a mound of rotting bodies.
+
+Cornered between the corpse-pile and a rusting sheet-metal shanty, a woman guards a few canned goods against a crowd of lean-faced men and women. Their gestures might seem mere speechless beseeching were it not for the woman's torn flesh and one man's bloody nails. She hoarsely warns them off, vowing to die fighting. And die she surely will, though these half-starved foes would pose no threat to a trained warrior like you.
+
+Though you are nearly close enough to touch them, the light-bender hides you from sight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You hustle down the lanes that wind their way up the whale's head, until you are almost flush upon the forcefield. You cannot quite see what lies beyond it: shifting rainbow hues hint at a humanoid shape, but that means little: clouds in the heavens can seem human, too.
+
+The shield radiates enough heat to warn against touching, and the flashes engulf any detritus that brushes up against it. The only thing that touches it unharmed is a ribbon of power, running from the forcefield all the way to the distant sterncastle. No doubt that is where the shield is generated.
+
+{[B] SOUND: Maybe an energy buzzing sound with occasional small "zapping" sounds, like a bug being fried by one fo those bug lights.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You clamber atop a rickety roof, mindful to spread your weight evenly across the pock-marked synth. Even still, it flexes ominously beneath you.
+
+From on high, most of what you see is the same: a warren of winding, empty streets flanked by filthy hovels, all silent and lifeless. But then a flicker of motion catches your eye: half-hidden behind a mound of garbage, a small crowd seems to have circled a woman. 
+
+You cannot make out exactly what transpires, but you can plot a path through the village to reach the crowd - or to avoid it en route to the sterncastle.
+
+{[B] SOUND: Maybe clambering up a rickety roof.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Toss the concussive crystal into the crowd and make a quick end of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Attack the crowd, though it will end the light-bender's protection.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Kick the food to the crowd, and see that the woman is safe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>You cannot let them distract you from your mission. Slip past them to the sterncastle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>At last you arrive at the sterncastle, a towering edifice of steel and stone. That it is a seat of power would be clear even without the ribbon of energy streaming from its tower toward the distant howdah.
+
+A large mob has gathered on the sterncastle steps, and many of the men and women mutely pound upon the gates. Their silence, and the flatness of their affect, is striking. As you watch their ineffectual siege, more file in behind you, blindly forcing you forward, cutting off any means of retreat.
+
+For now, thanks to the light-bender, they have not seen you. {[A] SOUND: Pounding of fists/clubs on gate.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The blast blinds, deafens, destroys. When your senses return, nothing remains of the mute men and women but flesh and blood spattered on the ground. Their victim, too, is gone, having fled in the confusion. One of the hovels is now rubble.
+
+The explosion opened a way straight to the sterncastle, where a far larger mob has gathered. They are unmoved by the violence you've wrought and silently pound upon the gates with crude tools or just their fists. More file in behind you, forcing you forward, foreclosing retreat.
+
+{[A] SOUND: Crystal exploding.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>You shimmer into view as you fall upon your foes, weaving your blade among them with no wasted strokes. They fall without a sound, and their scant resistance scarcely slows you down.
+
+Two break and run, and you are swift in your pursuit through the winding lanes. But before you can cut them down, you pull up short: they've faded into a far larger mob gathered at the very gates of the sterncastle.
+
+Most of these mute men and women are hammering against the gates with crude tools or just their fists. A few glance your way, and one or two begin to approach. New arrivals file in behind you, cutting off retreat.
+
+You are in no immediate danger, but fighting this many would be no mean feat.
+
+{[C] SOUND: Small cypher powering down, sword being drawn, sword attacks on flesh. Could use power down sound if we get to it.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>You kick the cans with a cloaked foot, and the crowd falls upon them with wordless greed.
+
+For her part, the woman breaks and runs; to keep her safe you are forced to give chase. Before you catch her, she slips around a corner and fades into a far larger mob gathered at the very gates of the sterncastle.
+
+Most of these mute men and women are hammering against the gates with crude tools or just their fists. As you stare, new arrivals file in behind you, blindly cutting off retreat.
+
+{[C] SOUND: Cans being kicked.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>
+ 
+The light-bender's power peters out, and as you shimmer into view, some in the mob glance your way. You're in no immediate danger, but fighting this many would be no mean feat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Call out to the mob and urge them to seek an accord with those in the sterncastle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Clear out the mob and open the gates with the concussive crystal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Climb the sterncastle wall and gain entry through a window.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Try to fend them off with your sword.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You are well up the sterncastle's wall before the light-bender's power peters out, and by then you are far from the mob's reach. Indeed, you seem far from their care, as they are content to continue pounding away at the gates.
+
+The climb is an easier one than your last: even without the claws, you would find easy finger-holds in the weather-worn mortar and rough stone. Above you shimmers the beam of energy fueling the howdah's distant forcefield.
+
+Soon, you have reached an open window, and without hesitation you swing your way inside, landing deftly in a great hall.
+
+{[B] SOUND: Climbing claws on stone.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>As the mob spots you ascending, they fall upon you with senseless desperation. Sharp-nailed hands clutch at your limbs, cudgels batter your body.
+
+But your climbing claws hold, and you're far stronger than these sick folk. Eventually, you work your way out of their reach, safe if not unscathed. Above you shimmers the beam of energy fueling the howdah's distant forcefield; below you faces contort in voiceless rage.
+
+You give both sights but the quickest glance before swinging your way through an open window. You land deftly in a great hall.
+
+{[B] SOUND: Climbing claws on stone.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>With power and precision, you begin your sword work, and no stroke goes wrong. But there are simply too many, and they are far too heedless, for skill to turn the tide.
+
+Soon blows are falling all about you. The key is to keep your feet, to not stop killing, to put the pain in its old, familiar place till there is time to face it. You lop off limbs, hack off heads - perhaps half a dozen are dead, maybe more. But they press on, robbing you of the space you need to work.
+
+Then, from above, a rope falls. You grab it and lay about with almost wild violence. In the small space won by this last flurry, you slip away, up the rope and through an open window. 
+
+You land inside with a thud.
+
+{[A] SOUND: Brawl with sword attacks.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>The blast blinds, deafens, destroys. As your senses adjust, you see the wreckage it has wrought: dozens dead and maimed; the gates hanging off their hinges.
+
+Most of the mutes slip away, but some charge through the breach. Sounds of a struggle emerge from within - battle cries, even: loud voices full of life.
+
+But by the time you enter, the fighting's done. The mutes are dead, as are a few defenders. A healer treats the wounded with glowing cyphers. From a corner, a numenera streams energy out the window.
+
+A woman approaches. "Welcome to Folkhaven, emissary," she says. "I am the Speaker. We must dock in your city - we are in desperate need of healing, as these Unspeakables reveal." {[A] SOUND: Crystal explosion.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>As you shout and gesture, the light-bender's glamour is broken and you swiftly twist into view.
+
+
+{[B] SOUND: Small cypher powering down.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>The sterncastle's defenders are a few dozen men and women armed with little more than spears and marlin-spikes. One of them has a few healing cyphers; another wears a richly dyed robe adorned with glittergar scales. No doubt she is their leader.
+
+The hall holds little else of interest save a large numenera that streams energy out through a window, feeding the forcefield at the whale's head.
+
+The defenders' leader addresses you, her voice oddly accented. "Welcome to Folkhaven, emissary," she says gently. "I speak for the Folk. We must dock in your city - we are in desperate need of healing, as you saw when you faced the Unspeakables. We beg your aid in these dark days."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Forget about healing. We'll destroy this whale if you do not turn around. Your plague will not reach Sagus Cliffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Ask the doctor to treat your wounds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"No law, and no decent person, would permit such a crime against a child."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Very well. The survival of your people is more important than the boy's life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Destroy the numenera with your concussive crystal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>There is another way: kill the would-be child-slayers and disable the shield-generating numenera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I need healing first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>With an almost casual gesture, you fling the concussive crystal against the shield-generating numenera. The sound is deafening; the light blinding; the force of the successive explosions enough to knock you off your feet.
+
+When your senses return, you see the slaughter you have worked. Most of the Folk are dead: the Speaker and the child among them. Others are wounded. Armless, the doctor slithers across the floor to some uncertain end. Most are dying; all are helpless.
+
+The ribbon of energy that once flowed from the machine, through the window, and to the distant howdah is gone. The hall is dark, and the darkness is rich with the smell and sound of death.
+
+{[A] SOUND: Crystal exploding.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Leave the survivors and set out for the howdah and the Whalesinger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"I can't leave you alive to warn the Whalesinger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>As swiftly and softly as you can, you help the wounded take leave of their lives. They put up hardly any struggle.
+
+In truth, they were dead already: doomed by the plague, doomed by the cannons on the cliff, doomed, perhaps, from the day they chose to build their homes on the back of a whale. At worst, you quickened things.
+
+When your work is done, you take leave of the sterncastle and set your sights on the howdah.
+
+{[B] SOUND: A sword being drawn.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>The collar around your neck hums, and a voice warns: "Make haste. The whale has entered the bay." You heed its command.
+
+As you weave through the narrow paths and alleys, faint sounds stir in the silence: the shuffle of footsteps, the huffing of heavy breaths. With a watchful eye and quiet tread, you advance, keeping out of sight as best you can.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Your mission was to cut, and so you cut: the Speaker's throat first, and not a word more does she say. 
+
+The rest of the Folk are at first so stunned that they do nothing. You do not hesitate to cut them down, too. After a short span, they rally themselves into action. 
+
+It is futile. No doubt they could have killed the mute boy, but they cannot kill you. A few glancing blows and shallow nicks come your way, but in the end the blood that soaks the sterncastle floor is not yours.
+
+Through it all, the Gift sits, docile. There is no cause to kill him. He watches as you smash the key parts of the numenera. The hall falls dark as the energy goes, but the boy watches you still.
+
+{[B] SOUND: Sword drawn, sword slice, then a brawl with sword attacks.  See 108 note.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Leave him, and set off for the howdah and the Whalesinger: you can't distract yourself with one child when all of Sagus Cliffs has need of you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Take him with you to visit the Whalesinger: you can't let the Folk perish entirely, or leave this child to die at Unspeakable hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Take the child back to your dhow and flee Folkhaven, letting the cannons kill the whale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>The Speaker pushes herself to her feet and brushes off her knees. "I do not fault those who speak for your city. We have done the same here to safeguard the uninfected within these walls."
+
+"But we cannot change course from here." She points to the window through which the numenera sends its energy. "The Whalesinger guides the whale from upon its head. And he must be shielded against plague - were he to lose his voice, there would be no song to steer us." 
+
+A grim, false smile cuts her face. "But there is a way. You see, a Gift has come to us, a means by which the Healer can concoct an inoculation against the Quiet Death. It comes at a price, one your city will make us pay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>She points to a boy huddled nearby and calls him over. 
+
+"The Gift," she says. "The only one to fall sick and silent, yet fend off madness." She strokes his hair. "From the fluid in his spine, the Healer will decant a guard against the Death." She gestures for him to sit. "Not a cure. And enough for at most twenty inoculations." 
+
+You count more than that in the hall.
+
+"From twenty, the Folk can grow again, as we did after the Sinking." She smiles at the boy. "The Gift will not refuse, or cry out. He will endure his death in silence." 
+
+She takes your hand. "We will lower the shield, and you will bring an inoculation to the Whalesinger. The whale will turn, and we will survive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>With ritual air, the Speaker throws back her shoulders, glittergar scales shimmering. "We are the Folk: whale-farers and truth-tellers, survivors of a land that sank below the sea for our sins."
+
+She continues in a slightly less formal tone. "We have plied the waves for seven generations, kept above by the Whalesingers' skill, never growing beyond the bounds of this Haven - small enough for each to know all, for all to know their places, from Speaker to Gleaner, from Watcher to Teacher."
+
+A wave of her arm covers the defenders huddled in the hall. "Now we are few. Perhaps some sinned in the old, selfish way, and brought the gods' wrath upon us again. But we shall endure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>The chiurgeon looks up from his work only long enough to shake his head. "There are too many wounded in greater need of my care."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>The chiurgeon nods and gestures you toward him. "Sit, please," he says, pointing to a simple wooden chair.
+
+As you rest for a moment, he begins his work with cyphers that are far from simple; relics, perhaps, of some more prosperous time. The care you receive is quick but effective, and at least some of your wounds are gone.
+
+{[B] SOUND: A healing cypher being used. Perhaps there is a generic sound from the game we can use here?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>The Speaker is unfazed by your hard words. "The law is what I speak, the Folk's will given voice. I say what must be said, though none may wish to hear it. The Gift is one, and the Folk are many, and that is the way of it."
+
+Then, perhaps reading something on your face, the Speaker places a hand on the child's shoulder. "I carried this boy in my body and nursed him at my breast. You do not give his life more weight than I do, but you give the Folk much less." She strokes his hair, and he gazes up at her, silently.
+
+"Your cannons have left us no other way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>She spoke the truth. When the boy is broken upon the chiurgeon's bench, when cyphers bore into his back, he makes not a noise. From his life, twenty-three will be saved, each with an amber promise swirling in a stronglass vial.
+
+The Healer hands one to you, along with a cypher that will inject it into the Whalesinger. The Speaker gives you a flag - half yellow, half blue. "Wave it when you reach the shield. We will open a way, and the Singer will know you for a friend."
+
+With that, the Folk speak a word of blessing and lead you to a tunnel - dug through whaleflesh - that will give you a clear start. Your path will not be easy; the village is overrun. But it is the only way.
+
+And so you go.
+
+{[A] SOUND: A thud (the boy laid on a bench), a drilling sound - through flesh! - and then a sucking sound.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Who are these 'Unspeakables'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Three of our Folk hauled in a net that held a foul catch - a thing partwise fish and partwise woman, but long, and bald, and clawed, big with child and clutching in its grip a thing that glowed, some sea-cypher." She shakes her head. "So I have heard it said."
+
+"They flung the foul thing back, but not before it seemed to touch their minds. Those three were the first to fall silent."
+
+Her voice is low but strong as she continues. "The plague spread up Fishers' Lane, then through the Cannery, stealing voices as it went. Bereft of their words, the sick are cut off from the bonds that hold us Folk together. Lost and alone, they go mad and turn Unspeakable, till the Quiet Death takes them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"There must be some other way to stop the disease."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>For a few moments, the Speaker says nothing, and when she answers, her voice is composed. "You will recognize, I trust, that I would not lightly speak of killing a child if there were some better way before us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Dispose of them with the concussive crystal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Fight your way through them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>You are not here to cleanse the Haven. Sneak past them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>You'll never be able to sneak past them with the child, but the mission comes first. Leave him to his fate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText> 
+
+Soon, they are before you, a gang of Unspeakables at least a dozen strong, making their starving, reaving way through the village, and unknowingly barring your advance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>
+ 
+Soon, they are before you, six or seven Unspeakables, men and women both, making their starving, reaving way through the village, and unknowingly barring your advance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>
+ 
+Soon, they are before you, a few Unspeakables, three men and a woman, making their starving, reaving way through the village, and unknowingly barring your advance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>
+ 
+Modest as their weapons may be, it would be folly to try and fight them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Limbs weary, you charge the Unspeakables, hacking and hewing more like a butcher than a chiurgeon. It has been a long day. Still, it is not yet time for the end.
+
+The mutes are not fighters, and desperation can be a weakness as much as a strength. One by one, you lay them low. Their wordless wanting is over, and your path is clear.
+
+Before any more Unspeakables can gather, you hurry on your way.
+
+{[A] SOUND: Brawl, with sword attacks.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>The cypher, so long husbanded, at last has its moment. The crystal's blast is bright, deafening, destructive. The Unspeakables who survive scatter in terror, and the way before you is clear.
+
+{[A] SOUND: Crystal explosion.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Limbs weary, you charge the Unspeakables, hacking and hewing with more desperation than grace. It has been a long day, and it will be the end of a long life.
+
+You stagger beneath a blow, but come up again, before a club across your back brings you to your knees. And that is all it takes.
+
+It is not a painless death, but anything can be endured with an end in sight. And as you turn your eyes across the bay to the cannons bristling on the cliffs, you see the Unspeakables' end, too; an end to the Quiet Death; an end to the Folk and their Haven. 
+
+You are just a bit ahead of them in dying.
+
+{[A] SOUND: Brawl, with sword attacks.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>You hurry to where your dhow lies tied below and, bearing the boy on your back, work your way down to the boat. With a swift slash, you cut the harpoon loose and pull free from the whale.
+
+Immediately, your collar buzzes furiously, and a voice snaps in your skull, "I don't know what you have done on the whale, but you must know that *no one* from it can reach the city."
+
+There is no way to answer; the collar speaks but does not listen. You cannot tell of the blood spilled to save the boy - yours as well as others.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>You reach the top of the whale's head and stand before the shimmering forcefield that shields the howdah. A wave of the blue-and-yellow flag brings it down.
+
+Within the pavilion stands a stocky man, barrel-chested and ruddy. The Whalesinger. He seems pleasantly surprised to see you.
+
+Behind him, wide-mouthed tubes rise up from the whale's hide, and past them is the flat expanse of the whale's brow. Not so far beyond are the cliffs, the cannons, and the city.
+
+The Whalesinger's voice booms when he speaks, his words accented like the Speaker's. "I do not know you, stranger, but you have braved the Unspeakables and come bearing the Speaker's blessing. I await your words."
+
+{ART: Howdah.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>The howdah's forcefield has fallen. Within the pavilion stands a stocky man, barrel-chested and ruddy. The Whalesinger. He seems equal parts weary, bewildered, and battle-ready.
+
+Behind him, wide-mouthed tubes rise up from the whale's hide, and past them is the flat expanse of the whale's brow. Not so far beyond are the cliffs, the cannons, and the city.
+
+The Whalesinger's voice booms when he speaks, his words accented like the Speaker's. "I do not know you, stranger, and I tremble at the way you have come. What do you want?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Glancing at the boy half-hidden behind you, he adds: "It gives me no comfort to see the Speaker's son at your side."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>You race down the whale's head and leap into your dhow. With a swift slash, you cut the harpoon loose. Moments later, the whale is already dwindling into the distance. Whatever fate awaits the Folk and Unspeakables, it will be resolved at sea, far from the city you were sent to protect. As you slip from its shadow, the indigo waves turn azure.
+
+Your collar trembles and the voice returns: "Well done. Cleanly done. Rightly done." Then, silence.
+
+The wind bears you back toward home. You do not bother to watch the vanishing whale with a dying village on its back, for ahead of you grows the great city of Sagus Cliffs, its buildings, then its people coming slowly into view. They are safe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"A hundred thousand people live in Sagus Cliffs. This is how it must be." Throw the boy overboard and come home.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Ignore the voice and head home. Surely you have earned their trust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Take off your collar and set sail with the boy for a new home.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Wordlessly, unresistingly, the boy lets you hurl him over the side of your boat. Surely he can swim, but he makes no effort, and soon sinks into the indigo sea.
+
+You hoist the lanteen sail and it fills with wind. Moments later, the whale is already dwindling into the distance. You do not bother to watch it or the dying village on its back, for ahead of you grows the great city of Sagus Cliffs, its buildings, then its teeming people coming slowly into view.
+
+{[A] SOUND: A splash of a person being thrown into water. No attempt to swim or anything; might as well be a corpse thrown in.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>You hoist the lanteen sail and it fills with a wind that bears you homeward. Moments later, the whale is already dwindling into the distance. You place a hand on the boy's shoulder.
+
+As you slip from the whale's shadow, the indigo sea turns azure. The great city of Sagus Cliffs slowly comes into view: its buildings, then its teeming people.
+
+And then there is a bright light, and nothing more, nothing but the short-lived realization that you were wrong, that the voice spoke truly, and that your own people have destroyed you to ensure the city's safety.
+
+{[A] SOUND: Energy cannons being fired.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>You unhinge your collar and fling it into the indigo sea. It sinks almost instantly.
+
+There are no more words to hear. Not from your master, abiding in the city. Not from the boy, who has no voice. And not from your own lips, rendered speechless by your own deed.
+
+You hoist the lanteen sail and tack away from the city you were sent to save. The world is wide and girdled by the waves. Its shores are rich with other homes. With a nod to the boy, you set out to find them.
+
+{[B] SOUND: The "chunk" sound of a metal collar being opened,followed by a splash.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>The same hovels that make a maze of the Folkhaven provide endless cover for the adept. Slipping through doors, slinking through alleys, and leaping from roof to roof, you evade the Unspeakables and make your way, at last, to the howdah.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>There is nothing to say to the boy, and there would be no answer in any case. You hide him as best you can, to fend for himself however he may. You will not see him again.
+
+Nor will the Unspeakables see you. The same hovels that make a maze of the Folkhaven provide endless cover for the adept. Slipping through doors, slinking through alleys, and leaping from roof to roof, you evade the Unspeakables and make your way, at last, to the howdah.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"How do you steer the whale?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Give him the inoculation.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Kill him to ensure that the whale will not be turned back to Sagus Cliffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Kill the whale: its wanderings might turn back to Sagus Cliffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Return to your dhow.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>The Whalesinger waves a hand at the trumpet-like bronze tubes rising from the creature's hide. "When I sing, the salpinges bear my song into her very brain, stirring the nerves within as if my voice were her own. What I sing, she must do."
+
+He kneels and places a hand on the huge head beneath him. "It is a duty, and an honor, to join the great one's mind. I soothe her loneliness and hold her back when the males roar their lust through the seas. Thus have I, and the many Singers before me, kept Folkhaven from sinking below the waves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>You quickly explain what the Healer has given you, and hand the inoculation to the Whalesinger. He presses the needle through his skin, blending the serum with his blood.
+
+There is no change or wonderment worked by the injection: no esotery lies behind this treatment, merely a child's life. All the same, the Whalesinger nods and thanks you. "You have safeguarded my song, and thus the Haven."
+
+{[B] SOUND: High-tech auto-injector sound sound, maybe more of a hiss sound than anything, like the injectors on Babylon 5.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>As you slip loose your windslice blade, the Whalesinger pulls a sword off his own from a sheath on his back. It is a humble weapon and age-worn, but its wielder is strong and desperate to survive.
+
+He is but a singer, and you are a battle-honed killer; battle-honed, but battle-weary, and beset by the many wounds you've taken today. That your guard might slip is forgivable, but no less fatal for it.
+
+{[B] SOUND: Two swords being drawn and clanging together. If we don't get to this sound, we could use ths sword brawl sound here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>As you slip loose your windslice blade, the Whalesinger pulls a sword off his own from a sheath on his back. It is a humble weapon and age-worn, but its wielder is strong and desperate to survive.
+
+He puts up some fight, but in the end, the man is a singer, while you are a killer. You make it as quick and painless as you can. The whale takes no notice of his death, and merely glides on its new course, at last unbound and free to wander as it will.
+
+{[B] SOUND: Two swords being drawn, and clanging together. See 108 note.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Trick him into turning the whale without giving him the inoculation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Tell him he must turn the whale before it is destroyed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>With a gesture to the cannons bristling on the not-so-distant cliffs, you warn the Singer of what will come if the whale is not turned.
+
+Trusting in the Speaker's flag and the clear truth of your words, he gives a quick nod and turns to the tubes rising from the whaleflesh.
+
+It is an uncanny song he sings, inhuman and at the same time heart-achingly intimate. At once the whale begins to turn, heaving its huge bulk away from the city and back to the open seas. And then the song ends, and the Whalesinger takes a long swig from a flask chained to his belt.
+
+"It is done."
+
+Seconds later, the collar around your neck flickers and a voice whispers - to you alone - "Do not let it turn back."
+
+{[A] SOUND: The Whalesinger's song.  I'm not exactly sure how it should sound.  One idea I had was overtone singing in this style: https://youtu.be/7zZainT9v6Q?t=69
+It's not exactly "heart-achingly intimate" but I do think it hits a lot of the right concepts (otherworldly, plausibly like a whale song, possible for a human to produce, etc.).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>You take hold of one of the bronze tubes rising from the whale's skull and drive it downward with all your strength.
+
+At once, a blast of blood sprays from the tube's mouth, an unending flood that swiftly overflows the howdah's perimeter. The whale gives a mournful groan - sounding more of sorrow than rage - and its entire body shudders. There is but little time to quit this dying place.
+
+Fortunately, the way from the howdah to your dhow is short, and clear of any foes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>The Singer's eyes narrow slightly. For all he may have spent his life bewitching a whale, he is no fool. 
+
+"The Speaker told me to guide our Haven to this city, where we may find a cure to the Quiet Death. I cannot turn from that path and leave the Folk without succor." He glances at your sword and adds, "Whatever the price I may personally pay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"The cannons directly ahead of us will destroy the whale unless you change its course away from Sagus Cliffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>There is no time to reason with him. Cut him down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>The Whalesinger shakes his head, in sadness, not stubbornness.
+
+"The Speaker told me to guide our Haven to this city, where we may find a cure to the Quiet Death. I cannot turn from that path and leave the Folk without succor. My duty is to my people."
+
+He glances at your sword and adds, "Whatever the price I may personally pay. Whatever price the others have paid already."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"You cannot bring your plague to Sagus Cliffs. A hundred thousand people live there. Turn the whale - it is what's best for both our people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"All of Folkhaven will pay the price when the cannons obliterate the whale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"The Speaker wanted to torture and kill this boy simply on the chance it might prevent the spread of the plague. She has forfeited any just authority she had over you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"I'll take you away if you do it! It's only fair that you should survive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>The Whalesinger shakes his large head. "Let it be a hundred million, and still I would not turn the whale. My duty is to the Folk, just as yours is to your city."
+
+He seems to steel himself against an attack he is sure will come. "Now, do what you must."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Don't be a fool!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>The Singer glances at the child at your side and shakes his head in disbelief.
+
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>His voice rumbles as he replies. "I have but one song, and it is only for here. Were I to go, no longer would I be the Whalesinger. So you offer me no escape from oblivion."
+
+The Whalesinger seems to steel himself against an attack he is sure will come. "Now, do what you must."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>The Whalesinger slowly nods. "Your words have the sound of truth. I do not know what you have done, or what the plague will wreak, but an uncertain sea is better than certain shoals."
+
+With that, he turns to the tubes rising from the whaleflesh, and works his craft.
+
+It is an uncanny song he sings, inhuman and at the same time heart-achingly intimate. At once the whale begins to turn, heaving its huge bulk away from the city and back to the open seas. And then the song ends, and the Whalesinger takes a long swig from a flask chained to his belt.
+
+"It is done."
+
+Seconds later, the collar around your neck flickers and a voice whispers - to you alone - "Do not let it turn back."
+
+{[A] SOUND: The Whalesinger's song.  I'm not exactly sure how it should sound.  One idea I had was overtone singing in this style: https://youtu.be/7zZainT9v6Q?t=69
+It's not exactly "heart-achingly intimate" but I do think it hits a lot of the right concepts (otherworldly, plausibly like a whale song, possible for a human to produce, etc.).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>The Whalesinger shrugs his powerful shoulders. "That may be, or it may not. I cannot judge the truth of your words. But I trust in what the Speaker spoken, and I will not turn the whale."
+
+He seems to steel himself against an attack he is sure will come. "Now, do what you must."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Your words - though perhaps well-spoken - do no good. Whether the mutes are past understanding or merely past caring, the only response you elicit is that many move to surround you.
+
+Need is naked on their faces, and violence is clear from their clenched fists and soundless snarls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>
+
+The light-bender's power peters out, and as you shimmer into view, a few members of the mob glance your way. You are in no immediate danger, but fighting this many would be no mean feat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Barely are the words out of your mouth when he is upon you, a dagger in hand backed by a bull's strength.
+
+You whip loose your windslice blade, but before you can cut him down, the Whalesinger bowls you over. Luck, desperation, brute force... whatever the cause, the blade slips in, and your blood flows out. As it pools on the whale's hide, you look one last time at the sea ahead, at the rising cliffs, at the cannons glittering in the sun.
+
+You die knowing that even if you have failed, the whale - and the plague it bears on its back - will never reach Sagus Cliffs.
+
+{[B] SOUND: A dagger being drawn, a sword being drawn, then a stabbing sound.  See note on 108.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Barely are the words out of your mouth when he is upon you, a dagger in hand backed by a bull's strength.
+
+You whip loose your windslice blade, but before you can cut him down, the Whalesinger bowls you over. Luck, desperation, brute force... whatever the cause, the blade slips in, and your blood flows out.
+
+It is a good wound, the best a singer could hope to win on a battle-hardened killer. But it is the only one he lands. You force him off you, spring to your feet, and lop off his head. The man dies with a look of surprise locked on his face.
+
+{[B] SOUND: A dagger being drawn, a sword being drawn, then a stabbing sound. See note on 108.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>While your blood pools upon the whale's hide, you take a last glimpse at the ocean before it: a course that steers clear of the city, and keeps it safe from the Haven's plague.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>While your blood pools on the whale's hide, you take a last glance at the growing cliffs and the massive cannons arrayed upon them. 
+
+You may have failed, but the Haven's plague will never reach the city.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Abruptly, the collar around your neck flickers and a voice warns, "You have taken too long. Far too long."
+
+Barely are the words spoken when the cliffside cannons open fire. There is no pain, only a moment's realization and then oblivion. Neither you nor the whale will leave any trace to trouble the city.
+
+{[A] SOUND: Cannons firing.  We're talking about scifi energy cannons, not age of sail cannons.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>
+Nor can you speak the words you said before, that no law or decent person would kill a child in the name of saving one's people.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>
+
+Suddenly, you are blinded by the light from the cliffs. The cannons have fired. The whale is gone. The city is saved, though not by your hand.
+
+{[A] SOUND: Energy cannons being fired.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>
+ 
+A few moments later, the sky fills with silent light. The cannons have fired, the whale has vanished, and his home is gone, too. He holds your hand, and sheds no tears.
+
+{[A] SOUND: Energy cannon being fired.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"What if the procedure fails? You'll have killed the only one of your people immune to the disease!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>The Speaker shakes her head. "We are not fools, stranger, and long have we pondered our few choices. Even if the Gift survives, the Folk shall die: for he cannot speak the word and keep our ways alive."
+
+She nods to the chiurgeon. "And the Healer knows his craft and his tools. He has said this will not fail, and I speak his words again with confidence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>You race down the whale's head and leap into your dhow. With a swift slash, you cut the harpoon loose. Moments later, the whale is already dwindling into the distance. Whatever fate awaits the Folk and Unspeakables, it will be resolved at sea, far from the city you were sent to protect. As you slip from its shadow, the indigo waves turn azure.
+
+Your collar trembles and the voice returns: "Well done. Cleanly done. Rightly done." Then, silence.
+
+The wind bears you back toward home. You do not bother to watch the vanishing whale with a dying village on its back, for ahead of you grows the great city of Sagus Cliffs, its buildings, then its people coming slowly into view.
+
+They are safe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Fling the concussive crystal at the forcefield.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>As the cypher strikes the forcefield, there is a flash of light and a thunderclap - one that seems all the louder for the oppressive silence that preceded it. 
+
+Your senses return, revealing that you have gotten no good from your effort. The forcefield shimmers on, unperturbed; the umbilicus of energy running from the sterncastle is uncut; and your crystal is now no more than drit blowing in the sea breeze.
+
+{[A] SOUND: Crystal explosion.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Climb the whale's side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Try climbing again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Read the ledger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Judging it too long to read in its entirety, you open to a page at random. In a meticulous hand, there is a date, and below it: "Three, for the greater good." You flip to another page, and it is similarly no more than a date and a short entry: "One, for the greater good. One, of necessity." 
+
+As you skim, only the dates and numbers change.
+
+Any contemplation is cut short by a shudder from your collar and a sharp voice in your mind: "Do not tarry."
+
+{[C] SOUND: Opening a book.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>You try to find a hold on the whale's tough side, but it proves impossible to make any progress.
+
+As you struggle, Sagus Cliffs seems to grow larger, closer. It is surely but an illusion, but one whose warning is no lie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>A quick glance makes clear that there are no obvious handholds that you missed the last time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Snug around your neck, a steel collar trembles, and a voice whispers in your head: "Hurry. Our seaward batteries can turn the whale to mist if they must, but better to save our fire for a darker day."
+
+After a moment, the collar buzzes again, and the voice adds, "Eliminating contagion is doctors' work, and no doctor would use a saw when a scalpel will do. Go, now, cut what you must, and make sure that this sickness does not reach our city." Finally, the voice says, "And don't worry: your body can't fall prey to their disease." {VOICE: I'd add a sneer on "contagion."}
+
+The collar goes still. The whale's leathery side looms above you like a living cliff. Somewhere up there are the men and women carrying death toward your home.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>
+
+Fortunately, you are as of yet unseen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>
+
+Fortunately, you are as of yet unseen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Why don't the Unspeakables just communicate by writing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Many of the Folk recoil in disgust, but the Speaker does not flinch. "Of course, a stranger cannot know our ways or wisdom." She gives a gesture that suggests exactly what she thinks of your ignorance.
+
+"A spoken lie lasts but a breath, and those who hear it can answer with the truth. But a written lie lingers long past the lives of those who know it to be false, enduring until it can lead an entire race astray."
+
+She nods decisively. "So spoke the first of the Folk who survived the Sinking, and we have lived since by their words, free from the perils of pen and ink."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>
+
+You grab the boy's hand and drag him behind you as you hurry onward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>The Whalesinger look at the child, then sighs. "When I was young, corsairs sought to seize Folkhaven. Their trabakuls could not hope to keep pace with the whale in all its speed, so they devised a way to stop us: tiny leather rafts, each with a child-hostage, scattered like mines in the sea before us." 
+
+He runs his hand along the tubes beside him. "The Whalesinger then was a dutiful man, and, unfazed by the ploy, plowed through the corsairs' trap. We left them far behind us."
+
+With a sad smile for the child, he says, "The Speaker, too, is dutiful. And neither she nor I will swerve."
+
+He seems to steel himself against an attack he is sure will come. "So, do what you must."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"I want to help your people, but you must turn away from Sagus Cliffs or the cannons will destroy the whale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Tell me more about the whale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>The Whalesinger shakes his head. "Each Whalesinger teaches his craft to a Songstudent, who will in turn live to become Singer himself." A sadness steals over his face. "Though the Student is gone, you are not of the Folk and cannot take his place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>He merely shakes his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>As the mob spots you ascending, they fall upon you with senseless desperation. Sharp-nailed hands clutch at your limbs, cudgels batter your body.
+
+But your climbing claws hold, and you're stronger than most people, far stronger than these sick folk. Eventually, you work your way out of their reach, safe if not unscathed. Above you shimmers the beam of energy fueling the howdah's distant forcefield; below you faces contort in voiceless rage.
+
+You give both sights but the quickest glance before swinging your way through an open window. You land deftly in a great hall.
+
+{[B] SOUND: Climbing claws on stone.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Your mission was to cut, and so you cut: the Speaker's throat first, and not a word more does she say. 
+
+The rest of the Folk are so stunned that they do nothing. You waste no time or motion in slicing them down. After a span, they rally themselves into action.
+
+It is futile. No doubt they could have killed the mute boy, but - already weakened by battle - they cannot kill you. A few glancing blows and shallow cuts come your way, but the blood that soaks the sterncastle floor is not yours.
+
+Through it all, the Gift sits, docile. There is no cause to kill him. He watches as you smash the key parts of the numenera. The hall falls dark as the energy goes, but the boy watches you still.
+
+{[B] SOUND: Sword drawn, sword slice, then a brawl with sword attacks. See 108 note.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Limbs weary, you charge the Unspeakables, hacking and hewing more like a butcher than a chiurgeon. It has been a long day. Still, it is not yet time for the end.
+
+The mutes are not fighters, and desperation can be a weakness as much as a strength. One by one, you lay them low. Their wordless wanting is over, and your path is clear.
+
+Before any more Unspeakables can gather, you hurry on your way.
+
+{[A] SOUND: Brawl, with sword attacks.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Limbs weary, you charge the Unspeakables, hacking and hewing more like a butcher than a chiurgeon. It has been a long day. Still, it is not yet time for the end.
+
+The mutes are not fighters, and desperation can be a weakness as much as a strength. One by one, you lay them low. Their wordless wanting is over, and your path is clear.
+
+Before any more Unspeakables can gather, you hurry on your way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Limbs weary, you charge the Unspeakables, hacking and hewing more like a butcher than a chiurgeon. It has been a long day. Still, it is not yet time for the end.
+
+The mutes are not fighters, and desperation can be a weakness as much as a strength. One by one, you lay them low. Their wordless wanting is over, and your path is clear.
+
+Before any more Unspeakables can gather, you hurry on your way.
+
+{[A] SOUND: Brawl, with sword attacks.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>The Speaker is, for a moment, speechless. The defenders' eyes are all turned upon her, and a look of horror and nausea blanches her face. Then, with visible effort, she composes herself.
+
+"You have spoken, and I have heard." She lowers herself to her knees. "But I again implore you and your far-famed city to aid us in our hour of need. The lives of the Folk and the fate of the Haven turn upon your word."
+
+The hall falls silent, awaiting your reply.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"There's a hundred thousand people in Sagus Cliffs. They cannot be put in harm's way for the sake of your tiny village."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"If I could let you dock and save your people, I would. But it's not *my* word. The decision has already been made."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"I must think of both my city and your village. I will do what I can to help you short of endangering my own people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>You race down the whale's head and leap into your dhow. With a swift slash, you cut the harpoon loose. Moments later, the whale is already dwindling into the distance. Whatever fate awaits the Folk and Unspeakables, it will be resolved at sea, far from the city you were sent to protect. As you slip from its shadow, the indigo waves turn azure.
+
+Your collar trembles and the voice returns: "You should have cut deeper." Then, silence.
+
+The wind bears you back toward home. You do not bother to watch the vanishing whale with a dying village on its back, for ahead of you grows the great city of Sagus Cliffs, its buildings, then its people coming slowly into view. They are safe, for now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>You sink the climbing claws into the whale's tough hide, and - leaving a bloody trail behind you - quickly climb your way up. As you ascend, the steady lapping of waves fades and the wind grows; but there come no sounds of the living - or dying - village built upon the marteling's back.
+
+Finally, you crest the whale's flank and pull yourself over the top.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Gather any gear in the dhow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Search the dhow for anything else of use.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>The tools of your trade are housed in a locker beneath the thwart: hooked climbing claws, your windslice blade, and a concussive crystal pulsing with explosive power. You quickly secure them: claws on your hands, sword at your side, crystal on your belt. 
+
+Remaining in the locker is a small, waterproof ledger, which is better left there.
+
+There is also a harpoon of azure steel, sunk deep in the whale's flesh and tied to the dhow by a sturdy cable. It would be hard to pull free, and in any case it will keep your boat tied to the beast.
+
+{[C] SOUND: Sheathing a sword.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>There is nothing, and the collar around your neck is buzzing insistently, though wordlessly.
+
+{[C] SOUND: Buzzing.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>At last you arrive at the sterncastle, a towering edifice of steel and stone. That it is a seat of power would be clear even without the ribbon of energy streaming from its tower toward the distant howdah.
+
+A large mob has gathered on the sterncastle steps, and many of the men and women mutely pound upon the gates. Their silence, and the flatness of their affect, is striking. As you watch their ineffectual siege, more file in behind you, blindly forcing you forward, cutting off any means of retreat.
+
+The light-bender's power peters out, and as you shimmer into view, some in the mob glance your way. You're in no immediate danger, but fighting this many would be no mean feat. {[B] SOUND: Pounding of fists/clubs on gate.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>[DEBUG] Test images.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Which illustration would you like to see?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>The Whale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Start the Mere over.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Sterncastle Exterior.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Sterncastle Interior.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>Howdah.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Ending.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Use the climbing claws to scale the whale's side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

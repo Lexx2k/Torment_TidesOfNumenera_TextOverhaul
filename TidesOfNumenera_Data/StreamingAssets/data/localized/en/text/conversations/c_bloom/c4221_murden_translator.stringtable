@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4221_murden_translator</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This slim, fit young woman would be attractive if it weren't for the blank stare in her eyes, the spit drooling from her mouth, and the poorly-implanted devices that protrude from her skull. The area around the implants weeps pus and some strange, clear fluid. It does not appear that she has been mistreated in any other way - no bruises or scars mark her otherwise smooth flesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"What's your name?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Walk away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>She stares blankly. You see the slight pulse of her heartbeat in the veins near one metallic nodule on her forehead, and she breathes... but lacking these signs, only the thin stream of drool gathering mass at her chin tells you that she lives.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I asked you what your name is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The young woman begins to bark and choke a little, bending at the waist as she spits out a guttural string of hard consonants. A moment later, you realize that she is merely imitating the murden chief, who has been watching your interactions with her.
+
+The murden is struggling not to laugh out loud. So are the rest of the murdens. Their mental static barrages your mind, filled with savage glee at seeing the human make a fool of himself.</DefaultText>
+      <FemaleText>The young woman begins to bark and choke a little, bending at the waist as she spits out a guttural string of hard consonants. A moment later, you realize that she is merely imitating the murden chief, who has been watching your interactions with the woman.
+
+The murden is struggling not to laugh out loud. So are the rest of the murdens. Their mental static is filled with savage glee at seeing the human make a fool of herself.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The murden chief's voice comes through the woman's mouth.
+
+"Do you speak to empty bags? To corpses? Do they answer? Empty husks not speak. Those wanting answers want to speak to *me*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>She continues to ignore you, and you feel that she won't be responding to you. Ever.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The woman continues to stare blankly ahead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Her gaze is completely empty. She doesn't respond at all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Kill her out of mercy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You wrap your hands around her throat and squeeze. She does not react as you start to snap her neck, as her eyes bulge and face reddens. Even the rattling of her feet on the floor is entirely involuntary, a reflex driven by the most primitive part of her dead mind. Then, with a sound like rotten twigs underfoot, her bones give way. You release her, and she collapses the floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"No use talking to this one. Those implants've likely fried anything resembling a personality she may once have had. Any reactions she has now are purely involuntary. As a life form, she has less self-awareness than your average insect." He shakes his head. "A pity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Callistege looks at the young woman with disgust and mutters. "Such a poor job. Whoever installed these devices should be flogged and eaten by vorrenworms." She catches you looking at her and she gestures. "If you removed those implants, you'd be left with an empty shell - a rapidly dying one, at that. They sustain her and keep her technically alive, but her higher brain functions have been erased. A *skilled* practitioner... bah. No matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Satsada murmurs, "The poor creature. Not even the faintest shadow of her psyche flickers through the empty halls of her mind. She is gone, her body animated by external impulse. It is not even a kindness to kill her, for she is already dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>She continues to ignore you, and you feel that she won't be responding to you. Ever.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Unsurprisingly, you can read no thoughts of any kind from her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"The poor woman. She's dead but... not."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

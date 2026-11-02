@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_el-jinto</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>136</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>In front of you is a weary traveler whose grim visage is mostly obscured by a pointy hat. Upon closer inspection, the lines on his face indicate he has seen much and has many tales to tell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Welcome back. Here to talk, or just listen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>He cocks his head back as you approach, surveying the dark sky. 
+
+"Night doesn't seem to be moving on," he observes. "Might be we should take advantage of that. Pack up our guest while he's still pliable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Keep moving, friend. My partner and I have no patience for thugs, spiderjacks, and sneaks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Canadu told me a little about your past. Do you have any interesting stories?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I want to hear more stories about your past."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Years of struggle," he says, his expression darkening. "Years without measure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Gladly," he says. "And reluctantly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ah," he says, with a gentle sigh. "My former and future home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Certainly. It does me good to remember my childhood." He grins without humor. "It keeps the memories fresh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Certainly. What portion of our bloodstained past would entertain you the most?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"After Lhauric, we lived from meal to meal, eating only what we could steal. Canadu grew into his strength and I... grew, but less obviously. I began studying, you see. I read ancient texts about my lost home, and the sickness that possesses it to this day. I thought about how I could *cure* it," he says, clenching his fist.
+
+"So we began exploring ruins. We sold the broken relics we found for food and equipment. Kept the interesting ones for future study."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Canadu said you came from a place called Lhauric."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Can you tell me about Lhauric again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Canadu and I were born in the gray outskirts of the city. I'd like to say we were childhood friends, but we weren't. We simply came to know each other through what we lost."
+
+El-Jinto takes a breath. "The priests of the million gods of Lhauric wandered the streets seeking sacrifices, you see, and opposing them was - is - a sin. In our first ten years, they claimed our parents, then our friends. And then, one day, a pockmarked priest came for me."  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"What happened after you escaped from Lhauric?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Tell me what happened after you escaped from Lhauric again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"What's the Clock of Kala?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I want to hear about the Clock of Kala again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"A ring of mountains between here and the Beyond," he says. "A land of glorious and lethal wonders." He sighs happily. "I'm looking forward to going through it again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I don't blame you," he says. "It's a land of countless treasures and deadly beauty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"How did you capture the creature?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"How did you capture the creature again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"He hauled me up the glass-paved streets. I wept and screamed, but the faithful - and the fearful - turned away. I'd almost lost hope when I heard the hammer scraping on the glass."
+
+He smiles. "Up charged Canadu, bearing his father's sledgehammer. With a shout, he dashed the priest's brains from his skull, and we ran." He shuts his eyes, smiling. "And we've been running ever since, but we will return one day, I think. Armed for the occasion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Actually, I'm not really in the mood for stories right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Take care, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I suppose you could blame luck," he says. "Little early to call it 'good' or 'bad', though." His eyes seek the sky as he begins his story. 
+
+"I was working on... well, call it a trap, in a valley through some nameless ruin. Canadu was off hunting for dinner, and I work in a daze. Always do, when I'm concentrating." A smile flits across his face. 
+
+"Near sunset, the trap was still in pieces, and I heard Canadu roaring my name. I turned just in time to see our guest bearing down on me." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"With a highly experimental trap of my own design, some luck, and the unexpected falling of night."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"The creature's volley of molten energy cracked off the personal barrier I'd left active while building the trap, but I knew it couldn't hold. Then, Canadu leapt off the valley edge onto the nychthemeron's back, bashing it with his hammer. It shrieked and then... night fell, and the creature went still."
+
+El-Jinto shrugs. "I worked - a touch frantically, I admit - to finish the trap. It hadn't been designed for our guest, but as you can see..." He gestures at the creature. "It worked."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Bank 41</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I'm looking for someone who can repair a complicated device."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I want to talk to you about that broken device again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Bank 45</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>""
+
+{GAVIN: Conditional: a2101_el-jinto_SeenShard=0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Of course," he says. "Did you bring that piece I asked for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Can't help you fix something I've never seen," he says. "Sorry, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Yes, I have this shard of crystal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"It must be in desperate shape if you're patrolling the Circus, talking to strangers," he says. "Do you have a piece of the device? Might be that I can offer my opinion." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Nothing much else to talk about," he says. "The good news is that your device wants to be whole, but it's going to need help. Ask around town. Maybe you'll find the deft hand you're looking for." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText> Follow-up PQ. 53</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Can you come look at the device?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Are you sure I can't convince you to come look at the device?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText> Follow-up T. 56</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Canadu would never forgive me if I left him alone," he says. "He might end up having to talk to someone. When that happens, he's in a mood for *days*."
+
+He rubs the back of his hand across his mouth. "I take it that means you don't have it on you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Not a chance," he says. "I'm needed here, sure as water falls and dust rises. Don't have it on you, eh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"I have proof that the Aeon Priest Beleazar wants me to steal the nychthemeron. Here, take a look."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>He sighs and pockets the device. "I understand him better than I'd like. We build our lives on the kindling of our ambitions, and hope for a bonfire before something blows it out..." 
+
+El-Jinto shakes his head. "I made a study of the nychthemeron during the journey here. If that little fool had only *asked*, I might have shared my findings with him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"You still can. Let him learn from your experience."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"He has to learn the hard way, just like everyone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Hardly seems fair," he says, considering your words. "But you're right. I'm not a young man, and it'd be good to know I helped someone along the path before I..." he stops himself, then continues. "Before I left town."
+
+He reaches into his bags and hands you a bundle of well-worn notes. Then he glances over your shoulder. "Trouble coming, friend." 
+
+Beleazar is stomping toward you, and he looks *furious*. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"You're right," El-Jinto says, a trifle sadly. "Besides, I promised him I'd lodge a complaint with the Order if I caught him tampering with our work again. Suppose I'd better do that."
+
+Suddenly his eyes flick over your shoulder. "Trouble coming, friend." 
+
+Beleazar is stomping your way, and he looks *furious*. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Good luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"He would say that," he says breezily, but the iron eyes beneath his shaded brim flick to the nychthemeron, and his mouth thins to a pale line. "Word of advice? Don't listen to him. Our guest's as changeable as the time of day - literally! He can't be trusted or bargained with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Bank 68</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"The creature asked me to help it escape."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"The nychthemeron also said that an Aeon Priest named Beleazar is planning to steal it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>El-Jinto's frown reappears, and deepens. 
+
+"I've met the man," he says, all trace of easy humor gone. "But the Priests are a power here, and my partner and I are outsiders. I can't accuse the young man of anything without proof. If you want to help us, tell him you've changed your mind, and bring his plans to us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Hello there, friend," he says. "Here to see the nychthemeron - my friend in the cage over there - or are you just looking to spend a word or two?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Bank 73</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"What is a nychthemeron anyway?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Here's your money."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Bank 76</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"I want to see the creature up close."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"I've changed my mind. I want to see the creature up close."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Your curiosity does you credit, friend. It will only cost you [Global: a2101_NychthemeronPrice] shins."
+
+{MONEY: The amount should be moderately expensive: affordable early in the gam, but a larger chunk of money.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"I thought you might," El-Jinto says, crossing his arms with a wry grin. "That will be [Global: a2101_NychthemeronPrice] shins, as I said."
+
+{MONEY: Same amount as in Node 80.}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Worth every shin, I promise," he says, pocketing your admission fee. "Visit our guest whenever you're ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"That's too much. I'm the only one in line! How about [Global: a2101_NychthemeronPriceDiscount] shins?"
+
+{MONEY: A much more attractive amount than in Node 80.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>El-Jinto surveys you with an unreadable gambler's stare, stroking his chin with a cracked thumb. Finally, he smiles. 
+
+"Always nice to meet a fellow barterer," he says, and takes your money. "Visit our guest whenever you're ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Got to recover our costs, friend," he says, shaking his head with near-genuine regret. "Road supplies, hammer repair, artifact recovery, cage maintenance, and the like. I can't lower the asking price by a single shin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>El-Jinto sighs deeply. 
+
+"Always nice to meet a fellow barterer," he says with a weary grin, and takes your money. "Visit our guest whenever you're ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Well, if you're the only one asking to see our guest, you're willing to pay the highest price," he says, and winks. "Stands to reason."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"We'll be here," he says, and his knowing smile crinkles the skin around his eyes. "If, you know, you change your mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"A biomechanical union of stubborn curiosity and frothing malice," he says. "Who made them, no one can say, but they cannot be trusted or befriended. Cross their paths or thwart their incomprehensible whims, and they'll kill you if they can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"You have the look of a storyteller about you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Do I?" He strokes his chin, clearly flattered. "Well, I will confess to a certain ease around the spoken word, but I have no talent for crafting fiction, friend. For me, it's the truth or silence."
+
+The ghost of a smile rises on his well-worn face. "Fortunately, I've had a more fantastical life than most."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Good evening, friend," he says. "Strange evening, too. Darkness doesn't usually pounce, as a rule."
+
+He rubs a hand over his chin. "Here to see the nychthemeron - my friend in the cage over there - or are you just looking to spend a word or two?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Bank 97</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"I have some questions about your nychthemeron."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"I want to ask you some questions about the nychthemeron again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Bank 100</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"He's far from 'mine', friend," El-Jinto says with a raspy chuckle. "As you'll likely see if I get too close to his cage."
+
+He tips his hat at you. "Go on. Ask your questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Ask, and my answers are yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Interesting? Well, I'll let you be the arbiter of that, friend. What would you like to hear about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Good to see you again, friend. Here to visit our tentacled guest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"You're welcome to," he says. "I'm in no hurry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"I want to ask about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Bank 107</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>The man's face carries the impenetrable nonchalance of a lifelong gambler, but even so, you spot a hint of curiosity - hunger, even - deep in his glittering eyes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>He turns the crystal shard in his cracked hands. You smell woodsmoke; his eyes turn slate-gray.  
+
+"Living crystal," he mutters at last. "Seeking a greater whole. Still warm... maybe alive, maybe thinking."
+
+He returns the shard. "Interesting piece of tech, but not one I know much about. Sorry, friend. Try asking around some more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Bank 110</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"What do you plan on doing with the nychthemeron when you're done showing it off?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"What did you say you were doing after you're done showing the creature?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"We're likely to release it and run as if every kind of demon in the world is after us. We're not trappers, see. We're explorers, and we're only in this to save up some coin for a journey across a long patch of ground."
+
+He rubs the back of his neck. "Not that our motives make much difference to our guest. He'll want to boil our skins once we let him go, and I can't say I blame him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"We'll let it go free. A long way from civilization, of course. Can't have it burning the kindly people of the Sagus Protectorate in their beds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>El-Jinto takes the device Beleazar gave you and examines it grimly. 
+
+"The young idiot. We caught him fiddling with the cage before, and I thought I'd scared him off. Apparently not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"To tell you of all the adventures we had in those days would take almost as many years as I've been alive. If not more. If that doesn't make sense to you, then you have not traveled far into the depths of the Beyond. Some of the ruins there lie outside time, and we saw..."
+
+He swallows, and reclaims the thread of his thoughts. "We searched countless places for the components I needed for my trap - yes, the one our guest is contained in - and we headed east, into the Clock of Kala."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"We easily spent a decade searching the base of the peaks for the final parts of the trap," he said. "At last, we heard a rumor - a horde of ghosts occasionally stampeded through the lands of Augur-Kala, bearing relics, and smearing reality in their wake. This last detail was what interested me," he says, raising a finger.
+
+"I created a device - a bell, of sorts - that would attract the ghosts' attention. And when they came, there stood Canadu, hammer ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"The bell drew them, you see. But it also made them more *real*. Canadu waded into the ghosts, striking them down. The rest fled, but we had found the materials I needed for the trap. The trap I'll use to capture a god."
+
+A wide smile spreads over his face. "Beneath Lhauric lies a mad being who demands the sacrifice of mothers, fathers, and children. Once we free our guest here, we will return home with this trap. We'll use it to kidnap a god or die trying." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"A fine decision," he says, unperturbed. "A story rushed is a story ruined."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>He takes a deep breath. 
+
+"Thank you for taking an interest in an old man's stories," he says. "I'd like to return the favor. Normally, we charge quite a bit for visits to the nychthemeron's cage. You, my friend, can see it for free."
+
+He gives Canadu a complicated whistle. The big man raises his eyebrows, rolls his eyes, and nods. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"I suppose you could blame luck," he says. "Little early to call it 'good' or 'bad', though." His eyes seek the sky.
+
+"I was working on the trap we've spoken so much about, in a valley through some nameless ruin. Canadu was off hunting for dinner, and I work in a daze. Always do, when I'm concentrating." A smile flits across his face. 
+
+"Near sunset, the trap was still in pieces, and I heard Canadu roaring my name. I turned just in time to see our guest bearing down on me." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Can you tell me some tales from your earlier days?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Too many," he says, chuckling. "But I think I've wasted enough words on myself. If you're still hungry for new stories, Canadu deserves a turn. Ask him about his hammer. It deserves several epics of its own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Take care, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Take care, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"I want to ask you about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Go on. Ask, and I'll answer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Wait. You called the creature a 'he'. Is it male?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Could be. Could be female, or genderless, or many-gendered. Who can say? I have our friend imprisoned, and I feel better about that fact if I don't call him 'it'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>He takes a deep breath and adds, "Thank you for taking an interest in an old man's stories. Most people just want to stare at the beast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"How did you get the creature into the city?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"I want to ask something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"A fair question," he says, casting a lazy glance back at the cage. "But a longer answer, and not as interesting as I'd like. So let's just say that the trap is more, ah, collapsible than it appears."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"By all means!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Script Node 139</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"An Aeon Priest named Beleazar asked me to help him steal the nychthemeron."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"An Aeon Priest named Beleazar asked me to steal your nychthemeron. Look, he gave me this device."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

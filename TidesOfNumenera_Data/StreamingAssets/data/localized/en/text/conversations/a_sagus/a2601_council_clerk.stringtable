@@ -1,0 +1,1805 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2601_council_clerk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>322</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Behind a lectern, a four-eyed, hairless mutant processes paper with balletic grace. He's endlessly snapping the elegant fingers of his left hand, and each time the air twists and shimmers, either disgorging a document to be processed or accepting one that he's completed with his ink-stained right hand. 
+
+Each of his eyes regards a distinct object: portals that are opening, preambles and recitals that must be reviewed, his own addenda that must be flawless. One eye twitches in your direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bank 2</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"In order to put a stop to a wrongful punishment, I need the stay of execution issued for Col Cardin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Giving me the stay of execution for Col Cardin will avoid the need for other disruptions to the city's order."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The clerk hesitates for a moment, then shrugs. "It happens that the letter was consigned to destruction by year's end, anyway, given the confirmation of Cardin's demise." 
+
+With a snap of his fingers, a letter appears, and he looks it over. "Yes, yes, here we are. Quite the criminal he was, and no slouch in treason. But who am I to question the clemency of our peerless Council?" He hands it to you with a slight sniff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[He is not convinced.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Super-convinced, he gives you the letter.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[He is *so* not convinced.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Bank 9</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I am a special liaison from the Judicial Oversight Committee, and I need to inspect a stay of execution issued for Col Cardin. There are concerns of corruption."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"If you won't turn over the stay of execution, I will be forced to report you to the Committee."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Deceived, he hands over the letter.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[He is not deceived.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[He is totally deceived, and hands over the letter.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[He is *so* not deceived.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Farewell.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Next!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The clerk notes your approach as an aneen would note the return of a particularly ravenous blood-fly: an annoyance to be addressed and driven off lest matters grow worse.
+
+"What is it this time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Script Node 19</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Trigger Conv Node 20</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Trigger Conv Node 21</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Bank 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"What exactly *is* the Council, and how does it govern Sagus Cliffs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Could you tell me about the Council again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Bank 25</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>The clerk sniffs. "*Paper* governs Sagus Cliffs - paper allows the few to rule over the many, paper allows the many to organize into a single whole. Authority resides in diktats, compacts, agenda... the means by which thoughts are refined, disseminated, and preserved."
+
+In a calmer voice, he adds, "Of course, the Council has a part as well. Each of the great Slave Families sends a representative, and they dicker and bicker until they form the will embodied in paper. And *I* am their clerk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"It is a ruling body formed from representatives of each of the great Slave Families. As you know, I am their clerk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Bank 28</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Can you tell me about the city's history?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I'd like to hear about the city's history again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Bank 31</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Why, exactly, would an overburdened clerk be able or willing to recite this city's sad tale of decline?" Then, a certain twinkle appears in all four of his eyes, and he begins to speak.
+
+"Here is what the documents themselves reveal, not in their words, but in their very selves." He works faster as he tells the story. "Centuries ago, when the Ninth World was fresh, the city began. Its founders kept meticulous records - all lost. Only the columbarium that held them remains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Without looking your way - and with feigned, sneering excitement - the clerk recites: "An age of lords and ladies! A war against the fierce Tabaht hordes! One slave's brave stand for freedom! Expansion and retrenchment!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Bank 34</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Do you have any records about someone named Matkina?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Tell me again about Matkina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Bank 37</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I've seen the name," he mutters, "in far too many requisitions for 'discretionary funds.'"
+
+With confident but deliberate speed, he reviews a series of documents, which seem to confirm his initial impression. "She does not appear as a citizen, nor in any census. Indeed, she is mentioned nowhere but on ledgers and requisitions."
+
+Fully three of his eyes give you a significant look: "Needless to say, these are transactions whose nature is not specified."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"She is a very well-paid phantom who exists outside the bounds of citizenship. I trust you will draw your own inferences."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Bank 40</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Do you know why Jebedee's family records are sealed?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Tell me again why Jebedee's family records are sealed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Bank 43</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Without hesitation, he answers, "I do not because, as it happens, they are sealed even from me. Naturally, I inquired of the Council why such an extraordinary measure would be in place. Unnaturally, they gave me no reply."
+
+He shakes his head, "In governments no less than in men, it is a sign of derangement to try and hide shameful memories from oneself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>The clerk snaps, "I'll tell you again that I don't know! I asked the Council and received no answer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Bank 46</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Do you have any records on a woman named Loss-of-self?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Could you tell me anything else about Loss-of-self?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Loss-of-self?" One eye glances to see if you're joking. "I recall no such name." He snaps his fingers and a sort of living codex appears, each of its pages covered in intricately patterned fur. Caressing its spine, he turns to a page, nods sharply, then returns codex to its portal.
+
+"As I knew, the census holds no such name. Perhaps that is merely an alias." With the eagerness of one who would prove his system cannot be thwarted, he adds, "We will need another way to find her records."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[He repeats what he told you before (after you described her).]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[The PC describes Loss-of-self.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>The clerk listens to your description, then gives a decisive nod, muttering something about checking the "onomasticon." He snaps his fingers and a heavy, lead-bound tome appears from nowhere. He turns to a page, nods again, snaps again, and takes hold of a vellum scroll.
+
+As he unrolls it, an involuntary cry escapes from his lips. "Impossible!" You see that the scroll is badly damaged by patches of gray-green mold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Turn in Jebedee's assassination contract.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>The clerk looks at the contract and shakes his head. "Well, each must ply his own trade, and the work of the mind is not suited to all hands."
+
+He snaps his fingers once, files the contract away, then snaps them again and conjures up a bag of shins. He rattles it once - perhaps in mockery, perhaps to somehow count its contents - and then hands it over.
+
+{MONEY}</DefaultText>
+      <FemaleText>The clerk looks at the contract and shakes his head. "Well, each must ply her own trade, and the work of the mind is not suited to all hands."
+
+He snaps his fingers once, files the contract away, then snaps them again and conjures up a bag of shins. He rattles it once - perhaps in mockery, perhaps to somehow count its contents - and then hands it over.
+
+{MONEY}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Do you have any records about someone named Rhin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Rhin, Rhin, Rhin," the clerk mutters to himself, shuffling papers in and out of portals. "Aha!" he cries at last. "I knew I'd seen that name."
+
+He reads with one eye on the folio he has just snatched from elsewhere, his other eyes ensuring that Council work carries on uninterrupted. His lips move but you cannot quite make out his subvocalization. Finally, he closes the folio, snaps his fingers, and sends it back into the archives.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Do you have any records about someone named Zebb?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"One moment," the clerk mutters, shuffling papers in and out of portals. He skims them with one eye, his other eyes turned to the Council work that does not pause, or even slow.
+
+"Yes," he says. "Rather typical, really - a birth certificate, some reports from the levies, a notation in a creditor's lien. You should be able to find him over at Cliff's Edge with his sister Nym. The mother's dead, the father's a throat-cutter for the Memovira, if the levies have it right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"I am trying to resolve a legal dispute between two men named Erritis and Rennio. Erritis crashed an airship of Rennio's. Can you help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"I need that certificate of indemnity for Erritis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"As I said before," the clerk replies, "that is not in my power to give. Is there someone powerful who could arrange matters for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Clerk writes a note, pops it into a wormhole. A little while later, a return note pops back through the wormhole, approving the request.]
+
+{SCRIPT: Add addendum to quest and give dispensation letter to player.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>The clerk raises four eyebrows. "Does he? Let us test that proposition."
+
+He jots a note on a slip of paper, snaps his fingers, and sends the message off to some distant functionary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Do you think that because I can make a document vanish at the snap of my fingers, I can do the same for a civil suit?" He shakes his head with slow condescension. "It's not so easy."
+
+"The only relief the city could provide would be taking over Erritis's liability for the accident through a certificate of indemnity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Peliai will help me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Lord Vuntgen owes me a favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"I don't know any."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>He shrugs. "Then your request is denied."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Who are you, and what exactly are you doing with all those papers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Could you tell me about yourself again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"I am neither a tourist attraction nor a docent," he sniffs, but the irritation in his voice is only a thin disguise for the obvious pleasure he takes at your interest.
+
+He elaborates, "I am the Council Clerk, and unto me falls the responsibility of directing the fate of every official document in Sagus Cliffs." His tone becomes wholly boastful as he continues. "I am the mind that channels the blind, nervous impulses of this city and turns it into muscular action."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>With rather less pleasure than the last time, he answers, "I am the Council Clerk. I am responsible for all official documents in the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Exaggerated scorn twists his mouth, and though his eye remains fixed on your face, he gives no verbal acknowledgment. The closest he comes is a faint sigh.
+
+At last, after shunting a half dozen more documents to some distant cubby, he condescends to speak. "You must wait, of course, until Council matters conclude." His quarter-gaze leaves you, his face returns to its former equanimity, and he continues his work, which shows no evidence of slacking, let alone concluding.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>At your return, the clerk once more deigns to divide his attention in your direction. "As you can see, important Council work remains to be done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"How long do you expect 'Council business' to take?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Do you know yet when you'll be done?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>The clerk rolls his idle eye skyward, then answers in a voice that feigns having been worn down by endless pestering petitioners - though as far as you can see, you're the only one bold enough to bother him.
+
+"Consider in so vast a city what ordinances must be registered, contracts memorialized, indictments docketed, discoveries catalogued, edicts promulgated, memoranda routed, applications processed, permits issued, titles recorded. From such consideration, you may draw your own conclusions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>The clerk sighs with exasperation and does not even give you a glance. "I will spare you further recitation of the scope of my work, with the understanding that you will spare me importunate questioning about when it will cease."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Is there anything I can do to hurry things along?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>The clerk continues his masterful shuffling of papers from one portal to another, flicking a closed scroll through a gateway with a particularly deft gesture. Then, he turns not one but *two* eyes your way.
+
+"If you are inquiring whether I would let your sweating butcher's fingers touch the Council's paperwork, I fear for the state of your mind." His eyes look away, and he adds, "Of course, it is customary to render a small gratuity in thanks to civil service." One eye quickly glances back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Do you really think I'm going to pay a bribe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>All four of the clerk's eyes momentarily open wide with dismay. "Of course not!" he cries, aghast. "Receiving a bribe is a criminal act, as set forth in Sections 201 and 1951 of the Criminal Code! By contrast, accepting certain customary payments is an understood and lawful emolument associated with this position."
+
+His tone is utterly sincere - fanatical, even - as he pronounces this distinction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"What exactly is the 'customary gratuity'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Hs clears his throat, in a purely ministerial tone, remarks, "I note that the customary gratuity has not yet been paid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>
+
+Without a further word, he returns to processing documents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Without so much a shrug of his shoulders or an inflection that would acknowledge impropriety - let alone shame - the clerk announces, "[Global: a2601_CouncilClerk_Bribe] shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"I'm going to wait until you're done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Wait for him to finish.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Without disrupting the grace of his filing, the clerk shrugs his shoulders. "I am pleased that you recognize your place in the hierarchy of needs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>You stand and watch as paper after paper emerges and disappears into the shimmering portals opened by the clerk's power. If he is aware of your lingering presence, he gives no sign of it - except perhaps by the fact that his idle eye, during its occasional wanderings, seems to scrupulously avoid the spot on which you are standing.
+
+You soon learn that there are few things more tedious than watching the endless, inscrutable turning of bureaucracy's gears.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Keep waiting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Settle in for a long, exhausting wait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>You wait. And wait. Then wait some more. But the clerk's workload remains unchanged.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Undeterred by tedium of the clerk's tasks, by the ache in your joints from standing in place too long, you decide to test your will against the clerk's.
+
+Hours pass...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>At last, though his work has not changed in any perceptible way, the clerk turns a faintly horrified eye in your direction. "Lest I be charged with abetting loitering, I suppose I must entertain your questions. So, what is it? What do you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Pay him the [Global: a2601_CouncilClerk_Bribe] shins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"[Global: a2601_CouncilClerk_Bribe] shins is far too much."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>The clerk glares at you with one eye. "We are not merchants haggling over the price of an aneen, sir," he scoffs. "Custom does not bend to circumstance, nor do civilized people chisel at gifts."</DefaultText>
+      <FemaleText>The clerk glares at you with one eye. "We are not merchants haggling over the price of an aneen, madam," he scoffs. "Custom does not bend to circumstance, nor do civilized people chisel at gifts."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>The clerk glares at you with one eye. "We are not merchants haggling over the price of an aneen, madam," he scoffs. "Custom does not bend to circumstance, nor do civilized people chisel at gifts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"A moment's courtesy will cost you nothing, but any more rudeness will cost you dearly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Ignore me at your peril, clerk!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"I assure you that my matters are important enough to be worth a moment of your time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>The clerk is utterly unaffected by your threat. As he goes about his work, he wearily replies, "With a snap of my fingers, I can redirect your aorta to the abattoir in the Underbelly. So it might behoove you to ponder which of us is imposing on the other, and who might better mind his manners."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>He merely sighs and shakes his head, as one would at a meddlesome child who cannot possibly be taught.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Though the clerk arranges his face in a scowl, you see fear widen all four of his eyes. As if to himself, he mumbles, "And thus we crouch in the shadows of prior civilizations, beset by vandals and brutes."
+
+Turning one of his eyes to you - but continuing on with his work - the clerk says, "Very well. I can see you have no taste for orderly process. What exactly do you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>The clerk conveys his personal regard for the importance of your matters with a long, loud sigh. But he focuses one of his eyes on you and replies, "Very well, very well. Let us weigh the worth of your needs, shall we? What is it that you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>The clerk turns an eye in your direction, though he doesn't slow the endless shuffling of paperwork.
+
+"*I* would not come onto a killing field and, tugging on your sleeve, presume to tell you how to carry out your butchery. So perhaps you might extend me the same measure of courtesy within my avocation as I would give you within yours."
+
+Seeing that you've not vanished, he adds, "Please spare me further explication of which matters you deem worthy of what attention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>For all the clerk's sharp-eyed focus and uncanny speed, you manage to slip past his guard and knock a document astray. Before he can react, it twirls through the wrong portal - perhaps a slave's manumission is now consigned to a vault of subversive texts; perhaps a madam's complaint about a client slipped deeply into arrears has found its way into the public record.
+
+Horrified, he immediately halts. "I see there is no abiding your mischief," he hisses. "So what do you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>As you reach toward the clerk's papers, one of his eyes fixes on your hand, and he gives a quick snap of his fingers. With a strange sense of dislocation, you discover that your hand is at your side, exactly as it started, except now suffering from almost rheumatic pain.
+
+The clerk does not bother to scold you, except by way of a soft cluck of his tongue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Once more you find your hand back at your hip, once more aching and stiff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Scatter his papers to get him to pay attention to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>See whether you can scatter his papers this time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Without a word, the clerk snaps his fingers and whisks your shins into a newly opened portal. Though you've paid the demanded bribe, the clerk's manner grows, if anything, even more high-handed.
+
+"What exactly must you trouble me with?" he sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"I'd just like to talk to you for a short moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>The clerk gives no acknowledgment that he heard, and merely continues with his work.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>The clerk continues filling and filing papers for a rather *long* moment. Just when it seems he will not respond at all, he answers, "I have no time for idle chit-chat, least of all while there is pressing Council business to attend to."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>He preens, adding a certain flair to his routing of the paperwork. "Nature, of course, provides every being with its proper niche, and here my power to bend space, my divisible vision, and my unerring integrity allow me to carry out a task no other in the Ninth World could possibly undertake."
+
+He sighs, but with rapture, not exasperation. "A venal man, a distractible man, an *ordinary* man would break beneath the temptation and strain. But not I."
+
+With that, his bureaucratic scowl returns.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>The clerk turns an eye in your direction, though he doesn't slow the endless shuffling of paperwork.
+
+"If I saw you tinkering with some deadly numenera, sweat dripping from your furrowed brow, I would not tug on your sleeve, suggesting which wire to cut. So perhaps you might extend me the same measure of courtesy within my avocation as I would give you within yours."
+
+Seeing you've not vanished, he adds, "Please spare me further explication of which matters you deem worthy of what attention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>The clerk turns an eye in your direction, though he doesn't slow the endless shuffling of paperwork.
+
+"If I stumbled across you in some ancient ruin, skulking about and tracing strange glyphs, I would not howl a greeting and tell you which tomb to raid. So perhaps you might extend me the same measure of courtesy within my avocation as I would give you within yours."
+
+Seeing that you've not vanished, he adds, "Spare me further explication of which matters you deem worthy of what attention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Suddenly, the world changes.
+
+You're in a laboratory that reeks of spoiled milk. In a vat before you - floating in gray, viscous fluid - is a very young child. His skull is in your hands, and you're kneading and stretching it like dough. Two nubbin eyespots stare from above his natural eyes.
+
+He's howling. As he clenches and unclenches his tiny fists, oddments appear and disappear: a blue rag; a gourd rattle; a lock of black hair.
+
+Someone else's thought comes into your head: "He will do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Nature didn't create you. *I* created you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Your words are enough to stop the clerk in his work - if only for a moment. All four eyes stare at you, probing, searching for a smirk on your lips or a twinkle in your eye. 
+
+Finding nothing, he resumes routing the city's papers, but some of the grace is gone from his long fingers. At last, he sniffs, "Next, no doubt, you'll jest about bedding my mother." His forced tone reveals he took it for no joke; but, for all his gift in filing, he seems unable to fit what you've told him into his mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"I'd like to ask you some general questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"I'd like to talk about paperwork."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>A faint sigh is the only acknowledgment you receive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>A faint sigh is the only acknowledgment you receive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"What exactly are you *doing* with all those papers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Tell me again about how the city's records are kept."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>The clerk shakes his head at your ignorance. "I am taking them from where they were to where they must be by bending the space between. And as they pass across my lectern, I assure that they are properly prepared. To the body politic, I serve as heart, kidney, and nervous system all in one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"By me," he answers, uninterested in explaining again his overwhelming importance to the wellbeing of Sagus Cliffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"A time of aristocrats followed. Each paterfamilias traced his lineage to ancient heroes and inscribed these lies in stone. Today, those tablets pave the midden heaps built in the wake of Chila's rebellion." He clucks his tongue is distaste. "That came later."
+
+"First came the Tabaht, and as they laid siege to Sagus Cliffs, the city's records degraded - like hygiene and decency, proper documentation falters in long years of terror." With a shrug, and no detail, he adds, "But the siege failed and the Tabaht vanished."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Next, an age of decadence, the long-gestating consequence of the aristocracy's ever more outlandish choices. In screeds they laid out their reasons to the people - not to explain, but to mock." He smirks. "Naturally, rebellion followed."
+
+"Chila cast down the old lords and raised up new Slave Families. An empire expanded, contracted. Holidays and boulevards changed names - all else persisted, corruption most of all."
+
+"At last, a new clerk came, bringing order." He bows. "And here we are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>The clerk shakes his head. "Only that she was born in Sagus Cliffs, and that at one time her family filed a report that she was missing."
+
+He frowns. "If the city has lost all record of this woman, then her identity is a secret, indeed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"What about a missing-person report for someone who looks like Loss-of-self? I can describe her to you..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>He snaps his fingers, opening a portal and flicking a scroll through it. "Before I undertook this role, the Council employed layers and layers of logothetes, scriveners, registrars, and couriers - each corruptible, vulnerable, insular. The Memovira's tendrils grew through the cracks in that teetering edifice."
+
+He stares at you with two bright eyes. "But now, there is only myself. Had I not come to this office, I wonder who would rule the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"There is, of course, a wealth of information - taxes paid, licenses obtained, a letter patent - but you do not strike me as a demographer or city planner." A condescending smile curves his lips.
+
+"No doubt you seek her grave, to rob it of the treasures of antiquity. I assure you there will be none. She dispersed her wealth, mostly in endowment of an institution known as the Hospice."
+
+He looks at you with one eye, and decides to give you something more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"It seems she was a toymaker. A formal commendation issued from the Council - 'In acknowledgment of one who has brought joy to the young hearts of Sagus Cliffs, and young hearts to the old.'"
+
+After a moment, the clerk adds. "There's nothing more, really. Little is left of a person after seven centuries."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>He eyes you for a moment, reading something on your face. "I can't fathom what you were expecting. There's nothing more. It's hardly a common name, though to be sure the child has a common enough lot. Come back in a few years, and I'm sure there will be a magistrate's judgment against him, if not a death certificate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Voice quivering with panic, he says, "These records are stored in a sealed chamber, housed in niches carved from solid salt." He shakes his head.
+
+"There's little left. If this is your woman, I can tell you only that she was born in the city, and that her family was searching for her."
+
+You, and your request, are forgotten as he begins systematically checking every other scroll in the vault, one snap at a time. None of the others appear damaged, though there seem endlessly many to examine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>The clerk glances at you out of the corner of one eye. "It seems you have confused a practical commitment to the orderly administration of the city's affairs with a romantic desire for reckless rough justice. I assure you, no such impulses move me."
+
+After a moment, he adds, "To be clear, that is a no."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>The clerk shakes his head. "There are levies to deal with *that* sort of disruption. If you're considering something cruder than tampering with my documents, that is no concern of mine. *My* duty lies in assuring the reliability of the city's records. Nothing more, nothing less."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Smirking, the clerk replies, "Oh, I've no doubt corruption is afoot. Now run along and ply your tricks elsewhere. There is work to be done here."
+
+He returns to his sorting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>(Lie) "I helped a Council member named Crispus Horatius find a missing cypher. I'm sure he'd approve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>The clerk glares at you with one of his eyes. "Did you truly believe I would not know by heart the names of all the city's luminaries?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"How can I find someone who could help me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Could you tell me again how to find someone who might be able to help me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Why can't you just give it to me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Remind me - why can't you just give it to me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"*Finding* the powerful is never difficult: their glory shines like a beacon over the entire city. Look among the Slave Families for one who needs assistance of the sort your kind provides." 
+
+He smirks. "Even the mighty - *especially* the mighty - understand the principle of quid pro quo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"By the Black Three," he snaps, "are you an idiot? Find a powerful person and render a favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>The clerk sighs in exasperation. "A well-ordered city is a powerful, implacable machine. A passer-by cannot change its operation merely by jumping up and down and shouting. Nor does a mere cog have the power, or volition, to act on its own. Rather, one must cry out to those whose hands are on the levers of power."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Because what you seek is extraordinary, and you are altogether ordinary," he answers snidely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Tybir shakes his head sadly. "Some men can hear nothing but the jangle of shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>With a philosophical air, Tybir replies, "Every injustice is another stone thrown into the gears of your great machine. Myself, I would rather not wait until the whole apparatus breaks down again."
+
+The clerk does not deign to respond, but you note that his fingers tremble for a moment as they work.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"But I assure you the Council does not take on such liability willy-nilly, nor does it grant its Clerk discretion to fritter away the city's money."
+
+He stares at you with two eyes. "Only someone much more important than you or I could persuade the Council to do such a thing. Have you such a friend?"
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"What if I offered you a further 'customary gratuity'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>The clerk pauses momentarily in his work and fixes all four eyes upon you. "That would be a *bribe*, not a gratuity. Accordingly, I would report the matter to the Captain of Levies for her to dispose of pursuant to the Criminal Code."
+
+Warning delivered, he returns to sorting paperwork.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"You must have uncovered some fascinating stories about the City in all this paperwork."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Could you tell me another story you've discovered?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Naturally," the clerk replies, but for a moment, notions of privacy and probity keep him quiet. Then one of his eyes flicks your direction, and you see he's avid to indulge the twin pleasures of the voyeur and the gossip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"After Chila tore down the old ruling families, there was a time when the Council stripped the euphemisms from its ledgers, and one sees such-and-such paid for racking a nobleman till he gave up his stash of shins, and such-and-such to settle the claims of mothers bereft of their children by rampaging mobs."
+
+He pauses. "One can debate whether this is shamelessness or transparency, but it has yielded an entry of terse brilliance - a sum allotted for 'the assassin to dispose of said whale.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Red ink," the clerk declares. "For centuries, the Council's amanuensis would record the Council's commentary on proposed legislation with red ink. Then the draft law would be returned to the solicitors in the basement of the Council Tower to frame anew."
+
+He plucks an example from the air, a regulation concerning the stabling of aneen. "You see?" He sends it back whence it came. "And then, abruptly, the annotations are in blue ink."
+
+An eye stares at you. "Why?" he asks, rhetorically.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"There's this, from an ambassador sent to the Steadfast." He snaps his fingers, summons the dispatch, clears his throat, and reads.
+
+"Today, with great ceremony, the Aeon Priests buried a man said to have lived for 277 years. I asked how this graybeard had lasted so long, and was told as follows."
+
+"Three hundred years ago, there was a painting of spectacular beauty hung in the Durkhal, a relic from before the Ninth World. For reasons unknown, the work was incomplete."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>The clerk shakes his head without looking away from his work. "I've indulged your curiosity far enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"The Amber Pope believed that if finished, it would reveal a truth about human nature that had eluded all intellectual inquiry. He proclaimed that whatever painter could complete it would receive a cypher that would enable him to live for 250 more years."
+
+"Great artists flocked to the Durkhal to examine the masterpiece. But when they saw it, none dared lift a brush. At last, a young whitewasher approached, carrying brushes and rollers and buckets of paint. 'I can finish this,' he declared."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"The Amber Pope nodded, and the boy flung an entire bucket of paint across the canvas. The blank region was filled, but the painting was splattered with white, its majesty gone."
+
+"The Pope held to his vow, and bestowed longevity upon the whitewasher. He was, however, borne to the torture pits below the Durkhal, where he remained until that very day, when at last his long life ceased."
+
+The clerk folds the faded dispatch, returns it to its envelope, and sends it away, saying no more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>He smirks. "In a less literal age, 'said whale' might have been the spendthrift scion of a mercantile clan or a contessa of grand scale, but not here. These were funds requisitioned to assassinate a whale, no more, no less."
+
+The eye regarding you twinkles with delight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"One finds in the criminal docket an entry concerning a solicitor executed for 'waste of official resources, to wit, eight thousand, two hundred, and sixteen liters of red ink.' Drowning was the sentence." The clerk shrugs, "I suppose he was not drowned in red ink."
+
+He snaps his fingers and produces a thick sheaf of papers, which he thumbs through like a deck of cards. Each is covered in red revisions. "Draft, after draft, after draft. It seems he could never get it quite right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>The clerk looks at you and smiles. "So, no more red ink."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText> "And, best of all, it seems the mission failed. One wonders... how does an assassin miss a whale?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText> "And, best of all, it seems the poor assassin was so distraught at this remarkable target, he quit the trade entirely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText> "One wonders at the poor treasurer who had to count out the shins on this escapade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>The clerk carries on with his other work, glancing at you from time to time to take the measure of your boredom and frustration - not, it seems, because he has any interest in alleviating them, but merely to grant himself one of the small pleasures of petty power.
+
+"How many hands must touch that note before its words reach Lord Vuntgen's ears?" he muses. 
+
+He checks from time to time to see if a response has arrived, snapping his fingers and finding nothing awaiting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>At last, he pulls a thin, lavender envelope from a gateway. With a deft slash of a letter opener, he unseals it, and withdraws a crisp, watermarked piece of vellum.
+
+"Whereas... assuming... law and equity... ahhh," the clerk mutters. He lays the sheet down, embosses it with the Lesser Seal of Sagus Cliffs, then passes it to you. 
+
+It is a certificate of indemnity, assuring Rennio that he can collect any damages from the city's treasury. "It seems you do indeed have friends in high places."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>The clerk shrugs. "I suppose she has the discretion to authorize such relief, provided she can find a suitable justification."
+
+He scribbles a message down and sends it off through a portal. A reply returns with admirable speed, and you see from inelegant script that it was dashed off by a hurried hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Whereas... assuming... law and equity... ahhh," the clerk mutters. He lays the sheet down, embosses it with the Lesser Seal of Sagus Cliffs, then passes it to you. 
+
+It is a certificate of indemnity, assuring Rennio that he can collect any damages from the city's treasury. "It seems Peliai found adequate justification."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>For a moment, the clerk seems about to give you an old pardon, but in the end, he merely gives a sharp laugh. "A treatise, eh? And this would have nothing to do with this Ris character?" He shakes his head. "Spare us both further falsehood, if you will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>The clerk gives a sharp laugh. "A special liaison, eh? And this would have nothing to do with that Ris character?" He shakes his head. "Spare us both further falsehood, if you will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"A capital case?" the clerk mutters. "Better to try to shake shins out of a Navarene."
+
+After a moment, he sighs, and says, "The only person who could help you with that is a member of the Council. And not just any member, one with enough power to persuade a few colleagues to sign off on such clemency. If you have such a sponsor, I will submit the necessary paperwork."
+
+With a one-eyed glance and a faint smirk, he adds, "Good luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>The clerk shakes his head. "Can you remember nothing? It is quite simple - you will need a powerful member of the Council to intervene on behalf of this Ris. If you have such a sponsor, I will submit the necessary paperwork."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"I'm trying to obtain a letter of pardon for a man named Ris who's been wrongfully sentenced to die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Tell me again how to get a letter of pardon for Ris."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Lord Vuntgen will sponsor the pardon for Ris."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>The clerk shakes his head. "If you are able to call forth *two* such favors from Lord Vuntgen, you will prove quite the conjurer." He writes another note and casts it into a portal.
+
+This time, the wait is not so long, and the envelope that returns is neither lavender nor scented. The clerk is clearly delighted by these developments, and he tears it open with eager fingers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>The clerk raises four eyebrows. "Will he? Let us test that proposition."
+
+He jots a note on a slip of paper, snaps his fingers, and sends the message off to some distant functionary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>The clerk carries on with his other work, glancing at you from time to time to take the measure of your boredom and frustration - not, it seems, because he has any interest in alleviating them, but merely to grant himself one of the small pleasures of petty power.
+
+"How many hands must touch that note before its words reach Lord Vuntgen's ears?" he muses. 
+
+He checks from time to time to see if a response has arrived, snapping his fingers and finding nothing awaiting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>At last, he pulls a thin, lavender envelope from a gateway. With a deft slash of a letter opener, he unseals it, and withdraws a shimmering sheet of embossed metal.
+
+"The said prisoner... felonies and misdemeanors... now and evermore," the clerk mutters, shaking his head in amazement. "Well, everything is in order."
+
+He hands you the letter of pardon with a mix of respect and resentment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>A moment later, he purses his lips and shakes his head with mock consolation. "His lordship is indisposed," he laments, handing you the note. "It seems whatever debt you were owed has been repaid already."
+
+Indeed, the note says little more: "My master reports that he feels matters are now concluded to all parties' adequate benefit, with no further obligations ensuing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>(Lie) "I am a special liaison from the Judicial Oversight Committee, and I need to inspect a stay of execution issued for Col Cardin. There are concerns of corruption."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>Script Node 310</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>The clerk chuckles to himself and does not even bother responding.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"No," he snaps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Can I please have the letter of pardon? I promise you it is important."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"You mentioned the Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>The clerk scowls without looking up. "Some builders raise monuments of marble. Others tear the monuments down, cook the marble to lime, mix the lime into concrete, and use the concrete to make hardened bunkers." He shakes his head. "Organizations can be made the same way. And people. The Memovira has demolished many things, and from the rubble has built an impenetrable organization of hardened souls. You would be wise to keep your distance."
+
+An eye glances your way. "But you don't look wise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"Who is the Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"Where can I find the Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>The clerk chuckles quietly while filling out a form. "The Bloom." A moment later he adds, "Sometimes, it seems, one can indeed judge a book by its cover."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"Earlier, you mentioned the Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>The clerk scowls without looking up. "Some builders raise monuments of marble. Others tear the monuments down, cook the marble to lime, mix the lime into concrete, and use the concrete to make hardened bunkers." He shakes his head. "Organizations can be made the same way. And people. The Memovira has demolished many things, and from the rubble has built an impenetrable organization of hardened souls. You would be wise to keep your distance."
+
+An eye glances your way. "But you don't look wise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"Where can I find the Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"Where did you say I could find the Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>The clerk chuckles quietly while filling out a form. "The Bloom." A moment later he adds, "Sometimes, it seems, one can indeed judge a book by its cover."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"The Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"Now, is there something else you need, or can I return focus to my work?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"There's nothing about Zebb in older records of the city's past?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"You're expecting him to appear in the past, as well?" He snorts. "I'm guessing this has something to do with that *gate* around the corner. Unfortunately, the answer is no. I have no record of the boy in the past, so clearly that is not where he went."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"I have more questions about paperwork."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>He sighs again. "Of course you do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"Let me check it for errors," Tybir snaps, with an angry look at the clerk. "Poor Ris's life hangs by tatters. Another mistake might send him tumbling into the abyss." 
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"Here? We're doing this *here*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"I'm not comfortable with this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"Well," he murmurs, slapping the document on your back. "I could commit fraud in a plush armchair behind a locked door." He leans around your shoulder, flashing a grin. "But where's the fun in that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>You feel him writing something on the document, presumably Ris's name, before slipping it into your pouch and giving a polite little cough to catch the Council Clerk's attention.  
+
+"Everything *appears* to be in order," he says, mouth set in a stern line. "I meant no offense, of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"Really?" Tybir murmurs, slapping the document on your back. "I like it this way. Adds a bit of spice. Keeps me sharp."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"You delightful maniac."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>Tybir chuckles low in his chest. 
+
+"I think we're going to get along well, you and I."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>The clerk turns a single, angry eye Tybir's way. 
+
+"Of course I understand," he says, his voice shaking.
+
+The eye moves to you. "Do we have any other matters to discuss? I am quite busy today."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"Let me check it for errors," Tybir snaps, with an angry look at the clerk.  "Of course, I shouldn't *have* to, but we wouldn't be here today if a mistake hadn't been made by *someone* in a position of authority."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"Why are you provoking him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"Provoking?" mutters Tybir cheerfully. "No, just buying us some privacy in a crowded square.  People like *him* never watch while others check their work."
+
+You glance over. Sure enough, an angry flush colors the clerk's cheeks, and his eyes are resolutely set on the papers before him. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>Irritation twists the clerk's mouth, and he focuses his multiple eyes fully upon his work. Tybir slips a vial from his sleeve and dabs his finger into the silvery liquid inside. This he swipes across the name of the condemned, which dissolves before your eyes.
+
+"Bend over," he hisses, stepping between you and the clerk.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"Thank you for this, lad," Tybir says softly, looking down. "You've done a wonderful thing, I promise."</DefaultText>
+      <FemaleText>"Thank you for this, lass," Tybir says softly, looking down. "You've done a wonderful thing, I promise."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>Script Node 355</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2621_snerf</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>172</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Slouched before you is a figure clad in a dusty, unremarkable robe. Loose folds of rough cloth shift to reveal a vaguely humanoid form with elongated facial features and two elaborate biomechanical arms. You notice the size, the shape, and even the number of its digits changing as it tinkers with a bizarre-looking device on the table.
+
+It glances up at you. Its eyes are the size of your palms. You realize it is a visitant - a being from another world.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The visitant's mechanical fingers race over the device before it, bending at bone-breaking angles to adjust and tweak the parts within. 
+
+"Welcome back, fellow sentient. May I assist you with something?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I didn't quite catch your name. How do you pronounce it again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ah," it says. "You are hearing a brief elision in my name, correct? A majority of the component syllables are untranslatable or beyond human ranges of hearing. I will try to approximate them." It draws in a deep breath. 
+
+"Snelanarga(with a brief poem about the ambient temperature of dust in moonlight here)gonthas(the word that describes a color similar to 'blue')ramalerf."
+
+It shrugs. "I prefer the name your people hear. My name is all too common where I come from." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Greetings, fellow sentient," it says, nodding with studied respect. "I will be with you in a moment."
+
+Its mechanical fingers contract and dance independently over the surface of the device before it, adjusting and tightening. 
+
+"There. I am Sn'erf, guest of the Order of Truth. What brings you to my workspace?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"What's that device you're working on?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"A minor project of mine," it says, with a self-deprecating wave. "Something to widen the boundaries of my research. It scans for unknown reproductive processes and displays them for further study."
+
+The device clicks to itself. "Ah," Sn'erf says. "Watch." 
+
+A transparent image of two goat-headed humanoids appears over the device. At first, it seems they are wrestling each other. After a moment, you realize your mistake.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Bank 8</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Where are you from again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Your curiosity honors me," it says, inclining its head. "I came through the Bloom from another world. To be absolutely honest, I was exiled for inadvertent 'sacrilege and perversion'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Another world," it says. "I do miss it sometimes, but I cannot return, as I said."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I would imagine that you are curious about my people's reproductive processes at this point," it adds placidly. "I would happily describe them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I wasn't, but that sounds like an interesting topic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I... what?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"The more detail the better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ah, well. If the topic makes you uncomfortable, I completely understand," the visitant says, its tone suggesting that it doesn't. "Tell me if you change your mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"No, please don't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ah. I misunderstood. I catalogue the reproductive processes of various known life forms, and I often assume that others find the topic as fascinating as I do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Certainly," it says, beaming. "No detail shall be spared."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"It is!" Sn'erf says brightly. "Though it is far from the most esoteric method I've uncovered in my studies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Bank 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I'm ready to hear about your people's methods of procreation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"How do your people procreate again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Deprived of the layers of sociological complexity, the process is quite simple," the visitant says. "At a certain age, my people ceremonially choose a limb for removal. The limb is grown into a new being. 'Children', in your terminology." 
+
+It sighs. "This is where matters get more complicated. The selected part relegates the child to a caste. Arm-children become laborers. Leg-children become warriors. And head-children, due to the sacrifice implied in their creation, become leaders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"By growing our severed limbs into new beings," it says. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Sn'erf studies its metal hands. "As I've suggested, the limbs we surrender do *not* grow back. In fact, those who replace their limbs insult their children and sin against their people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>The visitant stares into the air. It blinks once, delicately, before continuing. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"You are correct," it says. "Unfortunately."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"This is where your biomechanical arms come in, I'd imagine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Say nothing. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I surrendered my arms to create my children," it says. "They grew to maturity and joined me in my study of various voidborne numenera. For a time, we were happy."
+
+It lowers its eyes. "Then I discovered a melted humanoid figurine. I did no more than glance at its folded arms before it *opened its eyes*. That is the last thing I remember. I awoke with the arms you see now." Sn'erf sighs.
+
+"My children, thinking I had disowned them, disowned me. And my people were even less merciful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I am sorry that happened to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"It wasn't fair of your people to punish you for an accident."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Good. You deserved it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Your sympathy is appreciated, but not warranted," the visitant says, though it is avoiding your eyes. "I have found other ways to take my mind off the loss of my family and my people since."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I'm not sure it was," the visitant says carefully. "My work was difficult at best when I lacked arms. Perhaps the artifact heard my frustration and sought to ease it."
+
+Sn'erf shakes its head. "A moment's weakness can cost us so much. At least I have found other ways to take my mind off the loss of my family and my people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I think I agree," the visitant says. "My work was difficult at best when I lacked arms. Perhaps the artifact heard my frustration, and sought to ease it."
+
+Sn'erf shakes its head. "If that is the case, I did indeed deserve my punishment. Thankfully, I have found other ways to take my mind off the loss of my family and people since."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"It was only when I began visiting other worlds that I learned that most species do not reproduce by severing their limbs," Sn'erf says, shaking its head. "The discovery *fascinated* me. And so, I began cataloguing the various methods of procreation found throughout the void. It was only when I found my way to Sagus Cliffs, by way of the Bloom, that I was offered a place to work - here, in the Order of Truth."
+
+"And there you have it," the visitant says, folding its mechanical arms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Bank 40</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Tell me about one of these reproductive processes you find so fascinating."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Tell me some other reproductive processes you find fascinating."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Callerails. Though they are brutal creatures formed from organic and inorganic substances, they do share certain characteristics with my people. They do not have genders and reproduce by expelling an organic mass deep into moist, fertile soil. The mass eventually grows into an autonomous being." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Flesh pups, or 'skin swimmers', are particularly interesting, if somewhat gruesome. The tiny 'parent' painlessly invades a host organism, who does not notice the parasite until a painful, rigid swelling appears on their torso or neck. Once the host is drained of nutrients, the boil bursts, releasing a glistening flood of newborn pups."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"The Order of Truth will give workspace to anyone these days," Aligern mutters. 
+{ALIGERN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I wasn't old enough to hear about *any* of that," Rhin moans, covering her ears. "And I never want to be."
+{RHIN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Well. I'm not going to get that out of my head. Not even with a shovel."
+{MATKINA}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"We should retreat!" Erritis hisses in your ear. "This visitant is filling my head with unwelcome images!"
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Will we be here much longer, dear? Daylight is waning, after all."
+{CALLISTEGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"You ever make it with a nevajin?" asks Tybir.
+{TYBIR}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"I think you've misunderstood," Sn'erf says severely. "I don't engage in intercourse with the various creatures I study. I-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I did once," Tybir continues airily, as if Sn'erf hadn't replied. "At least, I think I did. Both of us were *very* drunk."
+{TYBIR}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Script Node 53</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Bank 54</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"One of the Foremen is trying to transfer energy into its 'children,' but they keep dying. Do you think you can help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Let's talk about the Foreman who wants to have children again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Absolutely," the visitant says, then pauses. "I must regretfully ask for a small payment of [Global: a2621_PayingSnerfForPST] shins to cover my expenses, however. I am a guest here, and not an Aeon Priest. The city does not fund my research."
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Of course!" Sn'erf says, brightening. "I was hoping you would ask. Are you prepared to pay my fee? [Global: a2621_PayingSnerfForPST] shins is a very reasonable amount."
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Here's the money."
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Actually, never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"What a shame," the visitant says, looking away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Excellent," the visitant says. "Now, let me ask you a few questions about the situation. Do try to be accurate, or the device I craft will be less effective."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"First of all, as you know, this is an unusual case. Machine intelligences are rarely driven to create offspring. Why does the Foreman wish to have children?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"It believes that the children already exist and are waiting to be born."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"It's probably bored."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Doesn't everyone?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I see," Sn'erf says, looking doubtful, but dutifully writing your answer down. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Ah. Predestined existence," it says, recording your answer. "An uncommon philosophy, but not unheard of. It also raises interesting questions about the reasons for the intelligence's, ah, infertility. Why can't it create offspring if it so obviously wants them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Not in my experience," it says. "Certainly not on my world. That is why we've made reproduction mandatory."
+
+It ponders the floor, stroking its elongated chin. "I'll simply write 'unknown reasons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"On to the second question," the visitant says. "Has it had any success in transferring its energy to its children? How long does it take the children to, ah, expire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Intriguing," it says, taking another note. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Almost immediately."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"They never live at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"This is ridiculous. They're machines, not children."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Troubling," the visitant says, taking another note. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"You may think so - and you may be right - but it speaks well of you that you've engaged my assistance despite your philosophical differences with the intelligence," the visitant says. "I'll write 'unknown period of time'." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Final question - how are the Foremen's intelligences stored? Void arrays, shielded ring coils, or some other method?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Shielded ring coils."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"In rings, I think."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Probably some other method. The Foremen are extremely old."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"At any rate. I shall get to work. This should not take long."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>""
+{SCRIPT, LOOT: PC gets Procreative Surge Turbine}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Bank 88</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Can you turn these sticha eggs into a power source?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"I have some sticha eggs I'd like to turn into power sources."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Certainly," it says. "And I will only ask for [Global: a2621_PayingSnerfForEggs] shins per cluster."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Of course," the visitant says. "That will be [Global: a2621_PayingSnerfForEggs] shins per cluster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Please convert one cluster."
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>The visitant gently closes its mechanical hands over the eggs.
+
+"It should not take more than an hour," it says. "Please wait here while I work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Actually, never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Very well," the visitant says. "If you change your mind, I am here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Farewell, fellow sentient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Here you are," Sn'erf says, laying a heavy cylinder on the table with a magnetic *clink*.
+
+"In short, there is nothing wrong with the Foreman's 'body', and it wants to have children. Therefore, something in the intelligence's governing spirit - the sub-intelligence, if you will - must be blocking the energy transfer."
+
+The visitant pats the cylinder. "Attaching this device to the Foreman should disable the sub-intelligence's defenses. Good luck."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Those arms of yours are interesting. How do they function?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"I am not quite sure," it says, raising them for your inspection. Extra digits whirl out of the mechanical palms in a somewhat nauseating wave and disappear just as quickly. "They seem to be as sentient as either of us but obedient so long as I keep them busy." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Copulating margr. Fascinating." The visitant begins taking careful, angular notes in an unfamiliar language on the scroll beside the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"You're going to be rich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"The device... spies on creatures having sex? You should be ashamed of yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"It only 'spies' in the most literal sense," Sn'erf says, frowning. "They can certainly see us right now."
+
+It essays a little wave at the busy margr. "Hello there!" it calls. The margr wheel about, see the two of you, and flee shrieking.
+
+The image fades. "Ah," says Sn'erf calmly. "I think I see what you mean." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"What? No," the visitant says. "The device itself will not be for sale. I am writing a book, however."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>""
+{GAVIN: Gated by blank global for now. Review this entire conversation for CNPC responses to nodes like this. See Colin's notes: "This whole conversation seems like something that Rhin should be horrified by.
+Erritis embarrassed.
+Tybir totally into.
+Aligern and Matkina disgusted.
+Callistege bored. 
+Aligern's and Matkina's disgust should be different flavors, though - Aligern's is along the lines of "why the hell would you even choose this line of work," while Matkina's is more along the lines of general disgust with the entire process."}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Otherwise, they scramble about while I rest. Touching things. Picking locks. Strangling the odd rodent."  The visitant sighs. "I've forced them to take up knitting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"It is rather a complicated topic, however, so let me know when you're ready to speak at length."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"The human method is particularly fascinating and intricate. It involves..." it trails off. "Oh, I beg your pardon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Really?" the visitant says, surprised. "Is this your first time hearing about human sexual reproduction?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Indeed," the visitant says. "As I've said, reproductive techniques are somewhat of a passion of mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Please, do go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Got carried away, did you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Assume it is. Go on. I'm listening."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"No, of course not. I was joking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Ah. Ah-ha," Sn'erf says, though it clearly does not understand the joke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Gladly," the visitant says. "Human sexual reproduction, at the simplest level, requires genetic material from all of the partners, which can range from two to twenty-nine."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"At the beginning of the ritual, the partners often remove their clothes, masks, and expensive shoes to reveal their flesh to the other members and any watching deities ... pardon me, but are you all right?"
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"I'm listening. Go on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Please. Enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Ah, my apologies," the visitant says. "You've become rather flushed. I'll speak no more on the topic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Of course. As I was saying, once the clothing and accessories have been successfully discarded, intercourse can begin. With a mighty cry, the dominant participant exposes their abdomen, and all other members of the coital cluster prepare themselves for supreme pleasure."
+
+The visitant frowns. "I have inadequate information on the next portion, but I am told that penetration occurs. My subjects were somewhat vague on *what* was penetrating *what*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"At any rate, once all the partners are satisfied,  they conclude the 'sex act' with a firm handshake."
+
+Sn'erf leans in. "Between the two of us, I believe that most of that information was fabricated as a joke at my expense. Fortunately, I have been invited to observe a human mating ritual next week. I look forward to adjusting my data."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"I must decline at the moment," it says. "In truth, I find all of them fascinating. We could be here all day!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Xiomarche, also called 'rot blooms', fell their prey with venomous stingers and plant their fertilized eggs directly into the corpse. In little more than a week, their children are born, thrusting up through the decaying, yielding flesh like flowers in bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"I apologize. Is the topic making you uncomfortable?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Don't be ridiculous," Callistege says. "It's simply that I despise lectures without visual aids."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>At last, Sn'erf straightens, holding  a newly-altered, humming stichus egg in its palm. 
+
+"The others were either unfertilized or too fragile," it says. "My apologies."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Here is your power cell," the visitant says. 
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Wait here," Sn'erf said, accepting the eggs. "I will return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Void arrays sound right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Let us hope so," the visitant says, making a final note.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"That would make sense from what I've heard of their behavior," Sn'erf says, making a final note. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Ah, yes. The blessing and curse of the numenera," Sn'erf sighs. "So unique, and therefore so incredibly difficult to study properly... to classify them as they deserve."
+
+It makes a final note. "I shall do my best regardless."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"I don't have enough shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"I don't have enough shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"I understand," the visitant says. "I will be here when you do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Hmm," it says, looking disappointed. "I'll simply write 'unknown reasons'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"I have no idea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"I see," the visitant says. "I'll write 'unknown period of time'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"I'm not sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>The visitant takes the two clusters of eggs from you.
+
+"It should not take more than an hour," it says. "Please wait here while I work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"I want two clusters converted."
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Convert all the clusters I have."
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>The visitant accepts the three clusters of eggs.
+
+"It should not take more than an hour," it says. "Please wait here while I work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Finally, Sn'erf hands you two heavily-modified eggs. 
+
+"The others were either unfertilized or too fragile," it says. "My apologies."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>With a soft sigh, Sn'erf gives you three eggs, tangled in vibrating wires. 
+
+"The others were either unfertilized or too fragile," it says. "My apologies."
+{LOOT: PC gets three Stichus Egg power source and loses three egg clusters.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Simply my first observations of the methods on display," the visitant says. "Positioning. The setting, of course."
+
+One of the creatures utters a bleating shriek. "And results," the visitant adds, making another note. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"What... sort of notes could you possibly be taking?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"What else would you like to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Next week?" Tybir says, perking up. "I'm going to that one too. I'll keep an eye out for you." 
+
+He hesitates, then grins. "Unless I'm blindfolded, of course. You'll have to find some other way to let me know you're there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"I shall endeavor to do so," the visitant says politely, making a note on its pad.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"How do I get an invite for this, uh, ritual?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"You're not talking about a tap on the shoulder, are you." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Tybir, don't you *ever* stop?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>The visitant straightens. "I am delighted to have assisted you in finding mating partners," it says calmly. "Is there anything else you wish to discuss?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"No idea," Tybir says cheerfully. "Couldn't even tell you how I got invited to the first one, and that was months ago. But I'll try to whisper your name in the right ear at the," he winks, "right time." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"A tap anywhere works for me," Tybir says cheerfully.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>The visitant makes an additional, careful note.
+
+"Is there something else you wish to discuss?" it says, looking up. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Stop?" Tybir says, wrinkling his brow. "This is stopping, friend. I'm speaking of a break from all the fighting and racing about. I'm speaking of a few moments spent nearly senseless, cradled in warm arms. The breath of a loving stranger on the side of your neck."
+
+He spreads his hands. "There are a few finer things than all of that, but not as many as you'd think."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>You glance over at Sn'erf. The visitant is taking *furious* notes. 
+
+"Is there anything else you wish to discuss?" it says, glancing up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Oom's eyes spiral closed like someone trying to squeeze a thought out of their mind. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Would you have any interest in studying the reproductive methods of Oom, here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Certainly," the visitant says, bending down. "Though if it engages in sexual reproduction, I would need to create a synthetic 'lover' for it. What are some common attraction markers among its kind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Oom spins towards you, eyes *wide*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Ah," says Sn'erf, straightening. "Perhaps we should discuss this another time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>::sssssssss:: Oom hisses, bristling and sizzling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Try making sounds like a swamp with an upset stomach, and see if Oom comes running."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Simply extract a sample of the device's flesh for testing, dear. It will grow it back, I'm sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"But how would you even test..." Her eyes widen. "Never mind. I see it now, and I wish I didn't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Attraction? Oom doesn't have time for romance!" Erritis hesitates, glancing at Oom. "Do you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"No idea. I'm fond of tiny skirts, myself. Maybe try one of those."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"But Oom doesn't..." she trails off, looking worried. "Does he?"
+
+She turns to Oom. "Do you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

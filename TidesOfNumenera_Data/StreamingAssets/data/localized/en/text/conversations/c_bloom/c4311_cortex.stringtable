@@ -1,0 +1,1090 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4311_cortex</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>198</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The sphere turns slowly, almost thoughtfully. The glow of the control console pulses with it, warming the palms of your hands. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The voice of the cortex speaks to you, filling your mind. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bank 3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Yank the lever down without assembling the shapes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Try yanking the lever down again without assembling the shapes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Start removing the cortex.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Continue the Cortex removal process.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Start node for the cortex after achieving the first stage of removal.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Of course. As I note that you are a first-time user, Stage 1 requires you to assemble a pass-symbol on the screen before you and pull the lever on the side of the console."
+
+A jumble of small, jagged symbols tumble across the screen, as if tossed there by a careless hand. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You grab the lever and pull it down with a brutal crunch. 
+
+After a respectful pause, the voice in your head speaks. It sounds faintly disappointed. "A novel solution. Congratulations, user."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You strain against the lever, but cannot budge it. 
+
+"Disengagement time limit has passed," the voice says at last. "Stage 1 has reset."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Bank 12</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Assemble the pass-symbol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Try to assemble the pass-symbol again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Working swiftly, you compose the small, jagged shapes into a larger, unfamiliar symbol with a series of satisfying *clicks*.
+
+A *clunk* sounds in lever's housing, and you pull it down. 
+
+"An excellent solution," the voice says warmly. "Well done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>You poke at the small, jagged symbols ineffectually, but can't make sense of how to fit them together. 
+
+"Disengagement time limit has passed," the voice says at last. "Stage 1 has reset."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The hum beneath the voice changes subtly. "Stage 1 of the removal process has been completed. Your actions must now be verified from the control pit. Please wait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Step away from the sphere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Stage 2 initialized. Please identify the core locking components from the previous stage. Once you have done so, the casing over the *ERROR - UNABLE TO TRANSLATE TITLE-OF-SWITCH* switch will open. Flip the switch to complete the stage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Bank 20</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Smash the casing covering the switch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Try smashing the casing covering the switch again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>You punch the casing and it snaps under your knuckles, exposing the switch. You flip it. 
+
+"Stage 2 complete," the voice says, with a little sigh that warms your temples. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>You strike the casing several times, but it withstands your blows. 
+
+"The time allotted for completion of this stage has passed," the voice says finally. "Stage 2 has reset."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Bank 25</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Identify the correct symbols from the previous stage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Try identifying the correct symbols from the previous stage again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>A flood of symbols streams across the console's tiny screen. At first, none of them look in any way familiar, but as you watch, you recognize a few. They disappear beneath your tapping fingertips with sweet, piping *pings*. 
+
+A fluttering sound - something like an insect's wings - rises from the console, and the casing pops open. You flick the switch. 
+
+"Stage 2 complete," the voice says with real pleasure. "Well done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>An avalanche of symbols cascades across the console's screen. None of them look even remotely similar to the shapes you saw in the previous stage.
+
+"The time allotted for completion of this stage has passed," the voice says finally. "Stage 2 has reset."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Your actions in Stage 2 have been sent to the Observation Deck to be verified. Please wait."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Stage 3 initialized. Simply arrange the previously selected symbols into a *CRITICAL ERROR - EXISTING SYNTAX IS INADEQUATE*," the voice says, in high, pleading tones. "*INSTRUCTIONS ARE FLAWED. USER MAY BE UNABLE TO COMPLETE CORTEX REMOVAL PROCEDURE. MAINTENANCE IS REQUESTED. REPEAT - MAINTENANCE IS REQUESTED.*"
+
+After a long pause, the voice resumes, utterly calm. "Once this is complete, manually pull the locking cylinder from its housing, rotate it, and insert it back into the console."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Bank 20</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>You grab the ring on the top of the locking mechanism, plant your foot against the rim of the console, and pull with all your strength. 
+
+It judders free, nearly dropping you on your backside. You twist the cylinder and shove it back into the console. 
+
+"Stage 3 complete," the voice says, but tightly, as though it is speaking through nonexistent teeth. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Please wait. Your actions in Stage 3 must be verified."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>You seize the loop on top of the cylinder and pull, muscles burning. It doesn't budge. 
+
+"The time allotted for completion of this stage has passed," the voice says finally. "Stage 3 has reset."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Haul the locking cylinder free. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Try hauling the locking cylinder free again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Bank 25</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Bereft of any useful instructions, you study the sigils rotating on the screen. All of them are moving except the one in the upper left corner - the original shape assembled in Stage 1. 
+
+On a whim, you arrange the remaining sigils into a frame surrounding that shape.
+
+"Excellent work," the voice says. "I've never seen it done faster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>You stare at the symbols spinning across the screen. Understanding does not come. 
+
+"The time allotted for completion of this stage has passed," the voice says finally. "Stage 3 has reset."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Try to figure out what you're supposed to do. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Try again to figure out what you're supposed to do. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Start node for the cortex after achieving the second stage of removal.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Once your actions in Stage 1 have been verified, we will proceed to Stage 2."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Stage 2 has still not been verified. We will proceed to Stage 3 once Stage 2 has been verified."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Stage 3 is awaiting verification. The Cortex will be accessible once Stage 3 has been verified."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"The Cortex removal procedure has been completed. The Cortex can now be removed from its framing mechanism."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Remove the Cortex. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Bank 50</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Request more information on Stage 3.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Request more information on Stage 3 again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Bank 53</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Of course," the voice says, but it does not sound enthusiastic about the process. "This part of the process is based on the teachings of Captain-Philosopher Haranar. Specifically, his musings on *CRITICAL ERROR - CONNECTION TO PHILOSOPHICAL ARCHIVES IS CORRUPT*." 
+
+Thunderous, painful static fills your mind. You grit your teeth until it subsides. 
+
+"As such," the voice continues calmly, "This stage is quite simple. Only 10% of traditional users have had trouble with it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Follow the teachings of Captain-Philosopher Haranar," the voice says softly. "If you are unfamiliar with Haranar, review what you know of Captain-Philosopher Amiken." The voice clears its throat. "Oh. I hope that wasn't a giveaway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Bank 50</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Bank 53</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"This stage requires either a high degree of visual retention or the ability to identify the smaller parts of a greater whole. Namely, you will need to identify six parts of the shape you assembled in Stage 1 from a number of incorrect symbols."
+
+A thread of static whips through the voice in your head. "Selecting four incorrect symbols or allowing the given time to elapse will reset the Stage. Good luck, user."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"You must identify six symbols from the previous stage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Request information on Stage 2.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Request further information on Stage 2. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Bank 50</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Bank 53</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"The first stage randomly generates a 'pass-symbol' comprised of 9 to 17 shapes that must be aligned within a short period of time. The lever on the side of the console can only be pulled when these shapes are aligned."
+
+The voice pauses for a moment. When it speaks again, you detect a hint of eagerness. "I have not seen a new user attempt this stage for some time. Pilot-Major Genjes has become quite proficient at this process. Good luck, new user."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"You must align randomly-generated fragments of a 'pass-symbol'. Once this is done, you must pull the lever."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Ask for more information about Stage 1.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Ask for more information about Stage 1 again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>You nod grimly to yourself, knowing you can't afford to waste any more time on studying this device. It's time to take your best shot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Script Node 69</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>The vast, glowing sphere dims and stills as a smaller orb drifts out of it, arcing lazily toward you like a tiny planet. You raise your hand and snatch it out of the air.
+
+The Cortex is yours. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Script Node 71</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Script Node 72</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>With the Cortex removed, the console is dark and silent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Use the control console.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Leave the Cortex alone. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>You touch the console, and the warmth spreads up your arms and into your mind. 
+
+At the moment of contact, a female voice speaks. "Ah-vsiti t'n-" and with a brief stutter, it continues in the Truth, "-would you like to do?"
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText> Follow-up PQ. 78</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"I am a navigational cortex. I was manufactured 3,059 cycles ago by the Devabil Combine, with 2,153 cycles remaining. I was brought here through a localized dimensional vortex, which has since collapsed. I am powered by a quantum-tunneled intrastitial hovarine matrix - the 'glowing orb' you see before you. I interact with both users and appropriate receptacles to provide observed and recorded historical information, starfield tracking and navigation, observation, and essential starport maintenance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"I maintain information regarding exactly 1,097,544 star systems, with detailed information on routes between them, including known transdimensional passages. For every world in each of these star systems, I hold detailed images of their night skies and projected daytime starfields. Additionally, I maintain detailed personnel information for this station, dating back many centuries."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Ask the Cortex about itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Ask the Cortex about itself again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText> Follow-up PQ. 83</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Thousands of records - perhaps tens of thousands - scroll past your eyes, appended with arcane time-keeping, name changes, dates of birth and death... all the personnel who have ever lived, traveled, or otherwise passed through the Anchorage, no matter how brief their stay. The sheer amount of information is overwhelming.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Sensing your bewilderment, the smooth voice says, "Certain historical trends can be deduced through analysis of this data, but this does not seem to be your focus. Popular interactions include brief historical overviews of the station, important recent events, and location searches on missing crewmembers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>The station's records open for your perusal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText> Follow-up PQ. 87</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"My records extend over 10,000 of your years, inherited from my predecessor in this position. In all this time, the people now calling themselves the lascars have crewed this station, and pre-existing records suggest that they were here in a more formal military/servile capacity before the shipping lanes began to close."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"The original crew of the station has repopulated the station, and their descendants have grown in number. A number of conflicts have arisen over the years - in particular, the Five Cycle Mutiny, the Airlock Debacle, and the Castaway Action. Each of these helped define the current power and familial structure of the existing population."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"The current structure of the population is strongly based on and influenced by the naval hierarchy of their forebears. They await the coming of another ship to close the station properly and bring them home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Ask for a historical overview of the station. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Ask about the history of the station again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText> Follow-up PQ. 93</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Approximately 15 years ago as you measure time, a transdimensional pathway opened to the station. This was the first contact with other sentient life the inhabitants of this station have had in generations. Trade was established. That portal closed recently, but it has been replaced with the pathway through which you entered."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Request information on recent occurrences.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Request further information on recent occurrences. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText> Follow-up PQ. 97</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"No personnel are currently reported as missing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Cascade 99</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"The whereabouts of four personnel are currently unknown."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"The whereabouts of three personnel are currently unknown."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"A single lascar remains unaccounted for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Jemadar Achilli passed through the transdimensional gateway approximately..." The voice pauses, as if calculating, "...15 years of your time ago. She has not returned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Jemadar Arechi left the anchorage on a routine supply mission just before the transdimensional portal closed. Accompanying her were lascars Intanduul and Savanol."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"If you have any information on additional personnel not covered by this census, please report immediately to the captain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Review the records for missing personnel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Review the records for missing personnel again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText> Follow-up PQ. 108</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Jemadar Achilli traveled through the transdimensional portal that opened... 15 years ago. Her mission was to explore and establish potential embassy and trade. She was also to seek other routes whereby the inhabitants of this station might find passage to their homeworld. Her last transmission contained a report of her investigation of a community known as the Bloom, which apparently existed inside a living creature. She was 28 years of age when she departed. She left behind two sisters, a brother, and a father."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Do you wish to initiate a signal to see if she can be located?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Send the signal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>A pause. "I have sent the signal." Another pause. "Incongruity detected. Previous attempts over the past 15 years have failed. This one returns an echo response, but no human interaction. The signal returns from a place not far from the transdimensional passage through which you have entered. Recommendation: Form immediate search party to restore her to her post."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Don't send the signal. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"I await your next command."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Ask for more information about the missing Jemadar Achilli.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Ask for more information about the missing Jemadar Achilli again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText> Follow-up PQ. 117</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Jemadar Arechi. No living relatives. Age... 27 years. Lascar Intanduul. Wife Lascar Doruul. Two children. Age 33 years. Lascar Savanol. Father Jemadar Salunda. Mother Jemadar Norala. Age 23 years."
+
+The voice pauses. "Their mission was resupply in the place called Bloom. The transdimensional portal they left closed soon after."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Do you wish to send a homing signal to locate the missing crew?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Send the signal. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>A pause, and then: "I have sent the signal and received an answer. I have deactivated the signal upon receipt of response. The missing personnel congregate a short distance from the transdimensional portal through which you entered the station. Recommendation: dispatch a rescue party to bring them to their proper stations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Don't send the signal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Request a report on the three missing lascars. {COLIN/GEORGE:  Adding this option because it might feel odd to be able to look into the 15 year old disappearance and not this one.  It might also be fun to have a little reactivity to turning on the signal in the helmets of the living lascars.}
+
+{GEORGE: I agree it could be fun to add a "did you signal us?" node to the lascar leader. Let me know if you want that. - cmm}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Request a report on the three missing lascars again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Review something else.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"I await your command."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Examine the station's personnel history.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Examine the station's personnel history again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText> Follow-up PQ. 129</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>A bluish globe, seen from a great distance, around which many smaller orbs rotate, appears before your eyes, as if it were floating in front of you. "The home of the lascars is called Ishtrinu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Request information on the home planet of the lascars.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Request information on the home planet of the lascars again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Ask for basic information on the helmet you found in the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"This helm belongs to the Jemadar Achilli. She has been missing for... 15 years by the reckoning of your world. It contains a visual record she marked as being of importance. She suggested these images be analyzed. I will do so on your command."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Have the Cortex analyze the data on the helmet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Processing... one moment. Biological matter has entered some of the helmet's contacts. Processing complete. Report: Jemadar Achilli was struck and killed at the date of her last record. Her file has been updated to reflect this information. Analysis continues."
+
+{COLIN:  This node should now briefly mention the extracted cortex connecting to the helmet somehow. -JF}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>All of the images contained inside the helmet strobe rapidly through your vision. The images of the night sky that were so prevalent in the helm appear now, and the cortex begins to layer star charts over the top of those pictures.
+
+"The information about the location of this world has now been added to my memory."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Ask if the images in the broken helmet match any in the Cortex's records.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Based on time regression analysis of star field and relative planetary position, only one possible world matches: Ishtrinu, the world the lascar people call Home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Request the exact location of the Anchorage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>The smooth voice says, "The exact coordinates of this station are: 12.93, 476.947, 18h57z."  These numbers also helpfully appear in the pale blue light of the control console.
+
+You suspect that if you had the proper education and context to understand these numbers, you might have a better picture of your location. As it is, they mean nothing to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Ask how long have the lascars been waiting for the Ship.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Accessing records. Calculating. The lascars have been waiting for the vessel to take them home for approximately 10,091 of your years."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Can you display a star chart based on a verbal description?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Assuming an accurate description, I can provide an array of potential systems that would be suitable candidates."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Rhin, can you describe the constellations of your world?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>[Rhin describes her stuff and names some constellations.]
+
+{ADAM: RHIN STUFF}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Accessing. Comparing. Correlating local folklore." The cortex is silent in your mind for a moment, and then it speaks aloud. "No matches found. Please describe constellations in their position in the night sky, including direction."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>[Rhin describes where the stars go in the sky]
+
+{ADAM: RHIN STUFF}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>The cortex is silent again, and you can feel it pulse in your hands before it speaks aloud again. "Projecting. Please adjust accordingly."
+
+Over the next few minutes, Rhin and the cortex discuss the constellations of her homeworld, her hand adjusting stars to match her memory. At the conclusion, the cortex announces:
+
+"No known worlds match. Preserving starfield in memory. Will project again upon request."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Show me Rhin's constellations again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Projecting." The starfield Rhin and the cortex constructed together beams out from the device, hovering in the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText> Follow-up PQ. 72</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText> Follow-up T. 75</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Wait!" He hurries over and places his own hand on the great orb. His lips move slightly as he interacts with the cortex, and the panel slides closed again.
+
+His tone is friendly, but his eyes are hard. "To be sure, this mistake happens to others. The cortex is important for us. Without its guidance, we know not when Ship comes. Please - if interaction with the cortex is required, leave it in the orb." He laughs, unconvincingly. "Otherwise we might assume you wish to steal the cortex."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>His sharp eye sees the panel slide open again, and this time he does not rush to close it. Instead, he shouts, "Thief! The stranger has come to steal our cortex!"
+
+A klaxon begins to blare.
+
+{SOUND: Alarm klaxon}
+{SCRIPT:  Start crisis!}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Cancel the extraction sequence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>The panel slides closed, whisper-soft, and the pale blue icons returns to your sight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>["Yes. I am a self-contained device called a cortex. I interface with this larger machine and my users through neural and physical connections. Would you like to begin the removal process?"]
+
+{COLIN: Update as needed. -JF}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"As you command."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Can I remove the core of this machine?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Begin the Cortex removal process.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>["Yes."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>["No."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>You feel the turning of the orb by the rising and falling of the console's heat beneath your hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Script Node 168</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>You exhale sharply. Genjes won't stay distracted forever. You have to keep this brief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>[Ask the Cortex another question.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>[Do something else with the Cortex.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>You open your mouth, then close it again. There's no more time for questions. Not if you want to get out of here without a fight. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"What is your command?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>["Can you process the data on the helmet now?"]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Processing... one moment. Biological matter has entered some of the helmet's contacts. I will be unable to analyze this object unless the Cortex removal process has progressed to the third stage. This will allow me to open the Cortex housing and perform a focused-scan analysis of the helmet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Bank 176</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Request more information on the verification process. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Request further information on the verification process. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Bank 179</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Each stage must be verified by a control pit operative in the Observation Deck. Once they signal their approval of your actions during this stage, the process can proceed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"An officer in the Observation Deck's control pit must verify your actions. This new procedure is in compliance with security measures put into effect *CALCULATION ERROR* hours ago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Put the Cortex back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Installing the Cortex is significantly easier, and the process is mostly automated after you insert the device back in the housing. The large sphere starts spinning and glowing again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Ask the Cortex about something else. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"How can I assist you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Command the Cortex to process the data on the helmet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Certainly. Please wait." Dark masses within the giant orb shift, and a pinpoint of light streaks from within, dancing over the helmet in your hands.  
+
+"Processing complete. Report: Jemadar Achilli was struck and killed at the date of her last record. Her file has been updated to reflect this information. Analysis continues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>All of the images contained inside the helmet strobe rapidly through your vision. The images of the night sky that were so prevalent in the helm appear now, and the Cortex begins to layer star charts over the top of those pictures.
+
+"The information about the location of this world has now been added to my memory."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>You glance around, seeking the source of the voice, before you realize that it is speaking only in your head, and to you alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Complain that the process is too complicated.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Removal of the Cortex is a significant action with potentially hazardous consequences for the Anchorage," the voice says pleasantly. "As such, the designers of my mind decided that the removal procedure should be undertaken by a user capable of rational thought under pressure."
+
+The voice pauses. "To put it more simply - you must complete a series of tests in order to gain access to the Cortex. I apologize for any inconvenience this may cause you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Ask about the error the Cortex mentioned. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>You hear a series of clicks in your head. 
+
+"Apologies. A separate intelligence is responsible for error reporting. I am not aware of any errors at this time. Please proceed with the actions required for Stage 2."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Warn the Cortex that its instructions were full of errors and missing information.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>You smell... no, you *think* you smell burning plastic. Molten metal. 
+
+Then the voice speaks. "I am not aware of any errors," it whispers hoarsely. "Complete the stage to the best of your ability. If you are unable to do so, I will not be able to release the Cortex as requested. My apologies. My apologies. M-"
+
+The whispers fall silent.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Alternately, the information on the broken helmet you found can now be analyzed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>
+
+Small symbols of pale blue light appear before you - nearly transparent, but recognizably icons. When your eye crosses one, it flickers and enlarges.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>You follow a series of convoluted instructions provided by the machine, returning to the main room of the Anchorage to press a confirmation button from time to time. After several rounds of this, the machine chirps amiably.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>With the lascars no longer a concern, you finish the remaining steps of the removal process quickly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Script Node 201</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

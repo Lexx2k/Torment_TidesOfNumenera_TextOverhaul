@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_callistege_stage2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>243</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>She raises an eyebrow and waits.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"What is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What knowledge do you seek?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"How can I assist you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ask your questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I wanted to ask you about one of the people we're traveling with."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"We need to part ways."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"That's all I wanted to know. Let's move on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"What's your story?"
+
+{SCRIPT: Available whether Callistege is in the party or not.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"What's your story, again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"How are you holding up?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Tell me again how you're feeling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"As you wish, dear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Yes. Let's."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>She sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Her eyes narrow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Well, then. Farewell. For now. You won't be gone long."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"In the end, you're as fickle as the rest of your kind. I shouldn't say I'm surprised, just rather... disappointed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"You are a fool, and your quest is doomed. I should never have let this drag on for so long."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Should you come to your senses, I'll be at the Order of Truth."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"When you realize that you need me, I'll be at the Order of Truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I should never have left the Order of Truth at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ah, child. I knew you would return. Shall we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Do you need something more from me? Guidance, perhaps?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"May I assume you have grander intentions this time? Or do you still desire that we should blindly scrub about in the dirt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"So. The fallen star and the man who claims love when all he does is destroy. Keep him, if you must, since certainly no one else will claim him. But do not think to come back with him in tow a second time. You know so much better than that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I had considered making you beg, should you return. But such interesting company inspires a more benevolent approach. Do introduce me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Now that we have some time for our thoughts, is there anything you'd like to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"We need to join forces again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"On second thought, never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Excellent!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Very well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"You can't mean to travel with such an entourage, surely. No, it would be far better if you were fewer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Knowledge shall be our plaything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Lose some of the chattel and come back, if you truly wish to make use of my wisdom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I'll wait here awhile, but don't take too many liberties with my time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Take care to return quickly. My patience is not what it once was."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Be welcome, dear. Are you perhaps ready to learn the skills I have to offer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"As you wish."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Never mind. Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"What do you think about Matkina?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Tell me what you think about Matkina again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"What do you think about Tybir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Tell me what you think about Tybir again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"What did you have in mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"She has intimate knowledge in aspects of the world with which I am ill-acquainted. Speaking with her is a delight."
+
+{SCRIPT: Callistege Loves/Likes Matkina.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"She has her ways of solving problems, and I, mine. We don't always agree, but then there are few who do."
+
+{SCRIPT: Callistege is Neutral toward Matkina.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"There's nothing more tiresome than an indecisive assassin. Ruthlessness is a job requirement, not a choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"The man is made of tall tales. I fear we shall never truly know him, though his armor wounds him more than us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"The man is made of tall tales. I fear we shall never truly know him, though his armor wounds him more than us."
+
+{SCRIPT: Callistege is Neutral toward Tybir.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"A sorrowful excuse for a soldier, gone to seed in the worst possible way. Regrets should be a driving force, not a drowning weight."
+
+{SCRIPT: Callistege has Antipathy toward/Hates Tybir.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Does it matter at all? Do be honest."
+
+{SCRIPT: Randomize the nodes within this bank somehow? Or play them in order and then loop back to the top?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"I'd rather avoid *another* argument, so just assume I said whatever you want to hear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Let's just agree not to do this, shall we?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Now you seek my counsel? Would that you had asked about matters far more important than mere gossip."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Don't pretend that you value my opinion. Lies become tiresome so quickly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Can you tell me about Qorro?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"He was..." She pauses, cocking her head to the side. "It's all mixed up, you understand. In this reality, well. I would say he was a friend, though not a close one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"He's a knave and a blaggard and clever when it comes to numenera. Nothing close to myself, of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>She fixes her sharp gaze on you.
+
+"Don't mourn the wound you caused me, child. I do not mourn my compatriots. What's done is done, and we can no more change the past than we can predict the future."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Her smile is small, brief, and bitter.
+
+"Not that it will ever stop us from trying, I suppose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Where we are right now..." She takes a quick look around, as if sizing up your surroundings. "He's tried to kill us, hasn't he?" She shakes her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"In this reality..." She takes a quick look around, as if sizing up your surroundings. "He hurt you, didn't he?" She sighs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"He's a dangerous fool and we're well to be rid of him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"I'm all for scientific inquiry, but even I would never harm someone newly born. Generally, they don't have the fortitude to make experimentation worthwhile." She allows herself a small smile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Can you tell me about the Order of Truth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Why was that man being subjected to such a strange manner of execution?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Can you tell me about the Dendra O'Hur?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"What do you think we should do about the sticha?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"I do hope we will go there soon," she says, waving her hand in the Order's general direction. "I have some papers to collect, and it would do well for you to meet my colleagues. Adventurers and deep thinkers all. Unlike some, though Aligern is of course a dear example of why we continue to strive as ardently as we do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"It's a place of science, of inquiry, of searching for a way to shake the chains this world has bound us with and maybe, someday, even cut them. Every person there has the spirit of an adventurer. And some," she continues in an off-hand manner, "like our erstwhile companion Aligern, simply don't have the wherewithal to voyage to the depths required by intelligent human endeavor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Let us depart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Do not spend my time lightly, child."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"I see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"She lets her life's decisions cloud her judgment. If she truly wished to seize control of her future she would have done it by now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Too maudlin for my tastes. Regrets should be a driving force, not a drowning weight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"When two great minds complement each other, there's nothing that can't be accomplished. So it is with you and I."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"You have your charms, and they're a fair few more than most.  I suppose I could say I enjoy your company, but we're beyond such trivial panderings, of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"I often question your processes, since they are so unlike my own. Try as I might, I see only folly in this meandering path of yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"If you require assurances of my loyalty, you already have your answer. We would do well to part ways, and soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Your mind works in interesting ways, I'll credit you that. But, dear, I do think it would be better if you were less... sentimental."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"It's not normally a mausoleum, for one." She smiles slightly at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Don't be long, dear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"You know what my answer will be. Why do you persist? Come back without him or not at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"I adore you. I can't say it more simply."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"We get along more easily than I do with most, to be certain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"You could be more prudent in many of your decisions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Do not think I will put up with these questions for much longer, child."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"We have our differences, but they will be mended in time. Provided you listen to reason, of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Whatever do you mean, dear?" She gives you a strange look. "Even one so newly born as you must see that the practice of sharing one's story is better for all involved. Secrets carry no currency in the afterlife, if there should happen to be one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"No more than you yourself can tell me." She considers you thoughtfully. "There are many ways to pursue knowledge, dear. Ensure you are following the course that best suits your needs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"They conserve knowledge, which is surely valuable. However, they also keep it to themselves. We cannot yet extract memories for all to benefit, and they don't go so far as to write down what they discover." She raises one shoulder in a languid shrug. "I don't fault people for their tastes, culinary or otherwise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Whatever you like." She glances aside, as if bored. "Burn them out, convince them to leave, or simply turn the city against them. Those who built to last have nothing to fear. In that, you'll find history holds quite a few parallels of its own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"What do you think we should do next?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"We should visit the Order of Truth to discern whether any there may have more experience with the Changing God's various devices. It may be his plans for the chamber you destroyed are still present somewhere in the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"We should find this 'Matkina'. I've heard of her myself, but her talents are, shall we say... limited?" She offers you a small, brief smile. "No offense intended, of course. We are limited by those who make us, after all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Miel Avest is surely our next destination. An airship would be fastest, if not necessarily safest. Simply ask for passage to the Valley of Dead Heroes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Your sire truly excelled at hiding his tracks." 
+
+{SCRIPT: PC has taken Callistege to the Buried Crossroads.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Was there anything in his materials that you can use?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"It's certainly a complicated matter. The calculations alone must have taken him years. Deciphering them..." She looks at you, a frown furrowing her brow.
+
+"Perhaps later, when you have a moment, you could look over the notes for me. You may have a stronger connection to how your sire thinks than I could hope to attain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Why do you think he hid his laboratory?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"We each have secrets we wish to keep. His were more dangerous than most. And yet, if he has a flaw, surely it lies in seeking knowledge for his own benefit, and for his own benefit alone. When knowledge is pursued in solitude, I would posit that one is truly seeking power, and not mere information."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Lucky we found his laboratory first, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Yes. Lucky." She raises both eyebrows, as if asking a question, but says nothing more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"The people who live here can't be too smart if they never found what was right below their feet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>She snorts, turning the sound into a cough. You hear muffled laughter from behind her hand. Eventually, she recovers her composure.
+
+"Well put, dear," she says.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"It doesn't matter. I have other questions for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"What do you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Forget it. Let's continue on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Certainly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"What's your story?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Oh, you know. This and that. Lady raised in high society becomes renowned intellectual, goes on to  humiliate her peers, et cetera." She glances at you, as if gauging your interest. "Of course, I am exceptional, but my story is less so. It would bore you to tears, no doubt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"I have other questions, if you don't mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>She inclines her head. "As you wish."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"That's all I wanted. Let's continue on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"I want to talk about you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"What else do you wish to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Where did you grow up?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Where did you grow up, again"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"What did you study?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"What did you study, again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Why, here." She holds out her hands and completes a graceful pirouette. "The walls of Sagus were my cage until, like a bird, I took flight. Figuratively, you understand. I speak of knowledge, not mere physical movement. I grew beyond the grand library in short order and was soon writing texts for it myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Here, in Sagus. I cut my teeth on the great library here until I moved on to more esoteric texts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Oh, everything." She seems surprised by your question. "Everything I could get my hands on. The skies, the earth, the water, the secrets of life itself." She smiles fondly at a memory she chooses not to share. "Then one day I came across a theory of alternate worlds. Not merely those that came before, but those that exist now, and which continue to exist. I rather think your sire may have had something to do with it. Needless to say, it became my main point of study, and here we are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Everything. But I was drawn to the theory of alternate worlds more than any other - informed in particular by the works of your sire - and it made me the person I am today."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"How did you meet Aligern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>The look in her eyes sharpens, hardens. "That is not a tale worth telling. Or not here, at any rate. The man has friends in this city yet, and we both have our reasons for wanting to conceal the past. I advise you to let it rest." You catch a flash of green from beneath her eyelashes as she lowers her head demurely. "For now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"What do you think about Erritis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Tell me what you think about Erritis again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"What do you think about Rhin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Tell me what you think about Rhin again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Have you noticed that glowing cloud that surrounds him? I am convinced it hides something. I would examine it more closely, if he would let me. But then, I suppose I would have to listen to him blather as I did so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>She rolls her eyes. "Must I? The glow that surrounds him is of interest. Beyond that, he is a dolt. I tolerate him only because you do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"A sweet child. Strong-willed, given to wisdom and introspection. She reminds me of myself at her age. Still. We should examine her more closely to see if we can determine the source of her deluded belief in her gods."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"I feel it inappropriate to conduct your business with a child in tow. Still, if she survives, she'll come out of it stronger than she started."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Salimeri said she wouldn't help until you did her a favor. It's worth considering."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Return to the Order of Truth, for your search there was clearly not exhaustive. Salimeri should know. She *must* know more about the resonance chamber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"We've completed Salimeri's little 'task.' She must have an answer for us now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Salimeri suggested talking to the cultists of the Changing God. As loathe as I am to admit it, perhaps Aligern was right. This time. Seek them out. They may have answers." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"As much as I despise religious fanaticism, it seems that Casmeen and Mimeon are our most likely routes to success. Let us complete the tasks they set. We'll find our answers through them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Who are all these... echoes of you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Can you tell me about your echoes again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"They are me! We are a part of each other, sisters across infinite realities. We share our experiences... and power. What's that old saying? That experience brings wisdom? I must be the wisest person in Sagus Cliffs... the wisest across countless worlds!" Her laughter peals out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"They are my sister-selves, each representing a different Callistege in a different reality. We have no secrets from one another, and thereby learn from each others' lives. And mistakes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"If they're giving you that much discomfort just ignore them, dear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"I'll be working over here, should you come to your senses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"I never should have left here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>She sighs. "Salimeri was oddly unhelpful. I can't understand it, but I suppose we must find someone else who can help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Salimeri isn't going to tell us anything until we've finished her little errand." 
+
+She gives you a doubtful look. "Honestly, dear, I don't think we're ready for this 'Lazaret' of hers. You're new to this world, and the denizens of the Reef are decidedly not. I'd explore the city a bit... hone your skills. The Lazaret isn't going anywhere." She smirks. "And neither is Salimeri."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Salimeri isn't going to tell us anything until we've finished her little errand. We should clear out this 'Lazaret' of hers and then find out what she knows."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"You should ask Salimeri about the resonance chamber. If anyone knows about the Changing God's toys, it will be her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"You should talk to Salimeri. She and the Changing God were... friends once."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Do you know anything about the Children of the Endless Gate?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"What's your story?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"I want to talk about you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Can you tell me anything about the Endless Gate?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Only that it's at the heart of the beliefs of the Children. Whether they were ever able to open such a gate or not..." She maintains a solemn expression, but the echoes behind her laugh and pull faces. She follows your gaze and frowns. "At least *I* retain an open mind toward the myriad possibilities this world may provide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Scant little, I'm afraid. I've only heard that they're a splinter segment of the Dendra who have sworn war on their compatriots, preferring to make corpses rather than preserving the memories of those who die by other means."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>She regards you thoughtfully. "It is a path that I would not recommend, dear. Those whom I have met that revere this particular version of your faith are less than stable, their minds torn to tatters by whatever nightmares their own actions have brought them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"I spoke with one once, but she was less than forthcoming with the revelations provided by her faith. Many would cast them as incurably mad, but that is simply a matter of perspective."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>She smiles self-indulgently. "After all, that's why I work alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"That woman... All those variegated versions of her... You have put an end to them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"What do you really want to ask me, Callistege?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Take your time."
+
+{COLIN/GEORGE: This option feels pretty weird. Callistege wasn't in the middle of speaking or anything, and the preceding line doesn't really hint that she has more to say. -JF}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"I simply did what had to be done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"They were no more than copies. Destroying them was a mercy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"It doesn't matter. I have other questions for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Forget it. Let's continue on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"I see. Very well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"And if you were to discover that any one of *us* was merely a copy? With such sharp instincts, why hesitate?" She studies your face. "What would you do, I wonder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"And if I were someday a copy?" She studies your face. "Merely a voice or a mind in the ether? And say one of my sister-selves came to you, begging this mercy. What then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"So pragmatic. I didn't know you had it in you, dear." She glances at you, then looks away again. "Consider my curiosity sated."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"What indeed?" She takes a deep breath and lets it out slowly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>A flicker of surprise crosses her face, quickly stifled.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"I would put you out of your misery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"I would find a way to speak with the real you, to determine your wishes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"I would leave you to make your own decision."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"I don't have time for your riddles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Would you indeed?" She gives you a sardonic smile. "Consider my curiosity sated."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>She laughs. "The *real* me! Why, dear, you would hardly know where to begin! The real me is *me*. And so my sisters would claim, each in their turn." Despite her words, her smile is genuine. "Consider my curiosity sated."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Then I am sure that, hypothetically, I would appreciate the gesture." She inclines her head toward you, her eyes never leaving yours. "Consider my curiosity sated."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Ah, yes. The mercy of self-determination." She gives you a sardonic smile. "Consider my curiosity sated."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"It could be said that she and I are similar. If I were one day to become as fragmented, a poor facsimile of the person that you had known... What would you do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Give Callistege the book from the Buried Crossroads.
+
+{SCRIPT: Conditional - PC took the book originally.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>She takes it from you with grave appreciation.
+
+"My thanks for changing your mind," she says, slipping it into her own satchel. "I shall look it over later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"... why did you do that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"You wanted the Changing God's notes on the datasphere? Here. Take them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>She turns it over in her hands, examining every inch of the binding. "Your sire always has such marvelous craftsmanship," she murmurs, slowly releasing the drawstring that binds it closed.
+
+As she flips through the pages, slowly at first, then faster, you catch sight of diagrams, notations, and drawings, all of them related to the numenera beside you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Thank you," Callistege breathes without looking up, and moves away to continue her study of the book's contents.
+
+"Yes, yes. Interesting. Hmm."
+
+She catches you looking at her. "His observations on the datasphere are fascinating. Nothing I can share yet - it's purely conjecture."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Script Node 253</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Now that we're here, speak to Min. He leads this chapter of the Order of Truth... though perhaps *leads* is too strong a term."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"We seek the Order of Truth, so we must first reach Government Square. The easiest way is via the staircase by the old clock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Is this... oh, my dear, this place was your creator's. We must search it, and search it *exhaustively.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"What can you tell me about the Cult of the Changing God?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Let's talk about the Cult of the Changing God again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"They are a collection of fools and wild-eyed fanatics. But if Salimeri says they hold the answers, then we must trust her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Let's not. I have already admitted my error."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Fools and hangers-on who worship your sire and his creations. Splinters of their cult exist across the world, trying to justify his works to the lesser minds that litter the earth. They only know that they witness greatness - but they have no idea how to achieve it themselves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Tiresome lackeys and idiots who find greater meaning where it doesn't exist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Grudgingly, I must admit that they seem to have the required answers. I would not have thought that they would be so helpful, frankly." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>She shrugs. "Aligern was right, I was wrong. Who knew cultists might hold real secrets?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"I would respect their individual decisions, and I would grant it to them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>She nods. "You believe in the individual then. Consider my curiosity sated."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

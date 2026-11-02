@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6071_cnpcfathom_village_hoodedstatue_si_backer_obelisk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You look up. The stone figure looks down, holding a circular symbol in its hands.
+
+Hair - or perhaps tendrils - curl from the edges of the hood that covers most of the statue's angular face. Abstract patterns race along the folds and wrinkles of the figure's robes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The figure holds the symbol in its stone hands forth, as if offering it to you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bank 3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Examine the statue as a whole. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Examine the statue as a whole again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Pull the symbol free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Touch the square.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Touch the circle. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Touch the cross.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You lay both hands upon the symbol, pull, and - 
+
+A vision unfolds before your eyes. You tower over the world, crossing it with great, invisible strides. Faces blur beneath you, a sea of them, but all of them have one thing in common - no castoff tattoos. You and your siblings are nowhere to be seen. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You lay your hand upon the square and -
+
+A vision falls upon you, showing you a single figure kneeling at the peak of a jagged pile of bones. You cannot tell if it is a man or woman, but the castoff tattoo is clearly visible. All you hear are the whispered words: "Thank you. Thank you. Thank you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You brush your hand against the circle and - 
+
+A vision enfolds you in its arms, showing you a ghostly woman's face - the same ghostly woman you met in the calm of your mind. Anguish fades from her, then the translucent light. Before long, her face is flesh once more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You trace the cross with your finger and -
+
+A vision cracks open your mind, showing you a billowing, towering creature, screaming with a thousand mouths. She is devouring herself. She is the avenger, targeted for revenge, and she is dying.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Leave the statue alone. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>It's not immediately apparent who the statue portrayed. Perhaps this was a major figure in another castoff's life and found its way here somehow. 
+
+You may never know. 
+
+The symbol itself is a collection of shapes - a cross within a square inside a circle. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>You still have no idea who this statue portrays, or how it came to be here. The symbol is a cross within a square inside a circle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>It seems familiar now that you look at it more closely. It's not simple stone, either. It's... you draw a thoughtful breath...
+
+Memory, tangled in stone.  A system of bounded power, echoing upon itself. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Bank 20</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Try to pull the symbol free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Try to pull the symbol free again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>You tug at the symbol. It might be your imagination or the light, but it *looked* like the statue's fingers tensed around the borders of the icon in its hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>You grip the symbol and pull as hard as you can. It doesn't budge. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>You release the square, and the vision fades. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>You release the circle and the vision fades. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>You release the cross and the vision fades.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>The image fades when you release the symbol firmly held in the statue's grip. Nonetheless, you still feel the rough edges of it on your palms, if only for a second. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

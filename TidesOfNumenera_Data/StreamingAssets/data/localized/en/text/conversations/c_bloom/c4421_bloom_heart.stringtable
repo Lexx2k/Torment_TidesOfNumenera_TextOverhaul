@@ -1,0 +1,3041 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4421_bloom_heart</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>520</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[You encounter the Bloom's Heart. You somehow deduce that the merecaster you're searching for is here, but you'll need to get it away from the Bloom.]
+
+{SCRIPT: This is the old placeholder version of this dialogue. I've marked it as Should not Play. Feel free to delete when you're sure you don't need it anymore.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Engage the Bloom in a battle of wills and beat it into submission. This will not annoy the Memovira, but will most certainly anger the Bloom.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[You wrest control of the Bloom's heart, ordering it to relinquish the merecaster the Memovira hid here long ago.
+
+Your objective completed, you order the Bloom to open a portal to the Courtyard.]
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Form a bond with the Bloom. This will piss the Memovira off, but the Bloom could be a valuable ally...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[The bond is completed. You now have a profound connection to the Bloom, which allows you to command it in a limited fashion, including a handy new ability that lets you summon corpuscular maws in combat!
+
+As you marvel at your newfound link and the sensations it brings with it, a small Bloom-tongue descends from the ceiling and drops the merecaster into your upturned hands. Before you can even begin to search for a way out, the Bloom anticipates your need  and opens a portal leading back to the Courtyard. You could get used to this...]
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Give the Bloom some of your memories. This will hurt you (permanently), but will not annoy the Memovira *or* the Bloom.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[The Bloom wrenches the memories from your head. It hurts. A *lot*. Then it's over and you find the merecaster lying on the ground before you. Snatching it up quickly, you turn your thoughts toward finding a way out.
+
+A few indulgent moments later, the Bloom lazily opens a portal to the Courtyard, as if dismissing you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Before you looms a twisted mass of tubes, arteries, roots and tongues, heaving and pulsing in the murky light. The flesh glimmers with foul shades of purple and black, pocked with pustules and necrosis. 
+
+Bloom-whispers gather, gently tickling the edges of your conscious mind, buzzing and chittering with excitement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Before you looms a twisted mass of tubes, arteries, roots and tongues, heaving and pulsing in the murky light. The flesh glimmers with foul shades of purple and black, pocked with pustules and necrosis.
+
+Bloom-whispers gather, swarming around you like fat, buzzing flies. They sound distracted, confused.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Before you looms a twisted mass of tubes, arteries, roots and tongues, heaving and pulsing in the murky light. The flesh glimmers with foul shades of purple and black, pocked with pustules and necrosis. 
+
+Bloom-whispers gather, swarming over you like flies, buzzing and chittering and hissing... *millions* of them. All the voices that comprise the Bloom's mind are converging in this one place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Tongues jam themselves into your head. Tons of Bloom-voices screeching hate at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You evade them all. They finally pause in their assault.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Let tongues go into your head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Try to evade tongues</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>They slip past you and into your head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Ward off tongues with Transdimensional Scalpel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Ward off tongues with your weapons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>You slice off a few tongues, the Bloom shakes and rumbles.
+
+Bloom hatred increases.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>They slip past you and jam themselves into your head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>You hit the tongues, but they don't seem to respond to your weapons.. You manage to evade getting hit by them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You fail, tongues ram themselves into your head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>As you step closer, Bloom-tongues surround you, drawing you into a wet, nauseating embrace. Though they seem solid and corporeal, they somehow pass through your flesh, thrusting into your head, your limbs, and your guts, igniting prickly, hot-cold sensations all over your body.
+
+A multitude of Bloom-voices hiss and babble with rage. You cannot understand their 'words,' but their meaning is clear - you don't *belong* here. The voices invade your mind, sweeping aside your thoughts, *establishing* themselves within...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Don't resist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Try to pull the tongues out of your body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Resist the Bloom's voices.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Bloom-voices rage through your mind. You can even hear them in the *calm* at the core of your being, chittering to one another, seeking something they can't seem to find. The voices grow sharper, angrier... hungry. 
+
+A sense of desperation strikes you. If the voices can't be sated, they'll start devouring you from within.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>It took some companions if present.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You can sense the tongues gathering energy, preparing to attack again.
+
+PHYSICAL ATTACK QUESTION NODE 1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Offer a Reflection from your Labyrinth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Try to offer a companion's mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Let the Bloom take what it wants from you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The Bloom dives deep into your buried memories, tearing them apart, examining them, taking the measure of your mind. You've never been able to plumb the depths of your sire's memory before, and you realize that he has stored so *much* of his life here, carefully ordered like a vast library. 
+
+As the Bloom sifts through the recollections, it devours what it likes. You witness moments in the Changing God's life as they flare into your consciousness for a few moments, only to be chewed up by the Bloom-voices and consumed, lost forever.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>You see countless laboratories, tangles of wires, and an endless parade of faces - friends, lovers, enemies, nearly all of them riven from you by time's cruel march. You see the faces of bodies in glassy sarcophagi and recognize them as the faces of castoffs. You see gouts of energy rise from the ocean's depths and remember a vociferous argument with a machine intelligence, a fight that led to a frenzied escape as death traps closed all around you. You remember... no. It's already gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>You focus your attention on Matkina, trying to draw the attention of the Bloom-voices to her. Through your shared connection with the Bloom's Heart, you can sense the fear blossoming in her heart, and the knowledge that she has trusted one of her siblings *again*, and has been betrayed *again*. 
+
+She can sense what you're doing, but it's no use. The voices have caught her scent, and they flood out of your mind and into hers, dragging you into her history...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>She crouches behind a wall, clutching a heel of stale bread, holding her breath as angry guards probe the trash around her. You feel the shock of her first death as a flame lance pierces her heart. You're with her in her escape from Sagus Cliffs, hiding in the shadows and sobbing. You see her enter Kholn, sidling along the walls, trying to steal her next meal. You feel the shock as Neng and his family welcome her with open arms. The Bloom devours the gratitude she feels for their charity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The voices shriek at the cringing girl, their cries sharp like blades. They dissect her into scattered bits of consciousness, each one screaming in pain and terror and confusion. Then they sweep across the Calm, gathering up the pieces of her, devouring them bit by bit. As the last vestige of her winks out, her screaming finally ends.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Then they withdraw, finding nothing that would slake their hunger. You'll have to offer them something else... or allow them to feed as they will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Try to feed false memories to the Bloom, to keep it from plundering the real ones.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>You summon the Tidal energies within you, shaping them into imagined scenes of your sire's life, letting them play out in your mind's eye. It's easy enough to incorporate elements of what you know about the Changing God and his past, mixing them together with stories you've heard from others or moments from your own life. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Sated by their feast, the Bloom-voices withdraw from your mind in a vast swarm. You can hear them all around you, but their attention has shifted away... for now.
+
+Suddenly you can move again - slowly and achingly - though the tongues are still melded to your body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Infiltrate the Bloom's mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Try to pull the Bloom-tongues out of your body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Stab the Heart with the Transdimensional Scalpel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>You wrench the tongues out and are free again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>You grasp at the fat, wriggling Bloom-tongues and manage to get a grip on one. Then you *pull* with all your might. White-hot pain blossoms at the point where the tongue has burrowed into your flesh and surges through you, so intense that you nearly pass out. 
+
+It's no use. The tongues are a part of you now... and you are bound to the Bloom's throbbing Heart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>As you explore the limits of your new perceptions, you begin to understand the Heart's composition - the fleshy nodules that serve as sensory organs, the tubes and arteries to feed the intelligence that dwells here, the roots of innumerable, whispering minds that descend to this spot from every corner of the Bloom, tangling together to join their voices into a mad, chaotic union.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Show no aggression. Wait for the Bloom to turn its attention to you again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>You grip the Magmatic Annulet and close your eyes, focusing your whole consciousness on a single thought - *get out*. Your thought is magnified by the Annulet, cutting through the cacophony of Bloom-voices.
+ 
+You think the words again. *Get out.* This time, your inner voice drowns out theirs. They chitter and buzz in confusion, their onslaught broken. Now you command them - *Get out... now*. 
+
+At once, the voices turn to hisses of frustration and shrieks of rage... and they flee from your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>You try to form a stable thought, to anchor yourself against the storm of Bloom-voices that fills your head... but you cannot. Your inner voice is drowned out by theirs. You cannot even scream.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>It works!  Take a little damage but you're free of them, Bloom no longer in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>You grasp at the fat, wriggling Bloom-tongues and manage to get a grip on one. Then you *pull* with all your might. White-hot pain blossoms at the point where the tongue has burrowed into your flesh and surges through you, so intense that you nearly pass out. 
+
+It's no use. The tongues are a part of you now... and you are bound to the Bloom's throbbing Heart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Grab hold of some tongues, tear them out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Rip a hole in tubes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Look for a vulnerable spot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Slash at the Heart with the Transdimensional Scalpel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Argh!  Bloom takes 1 damage. (Asset in avoiding tongues attacking you.)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Argh! Bloom takes 1 damage. (Enables you to tear it open further for extra damage next.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Your movements are constrained by the Bloom-tongues, but you manage to get a grasp on the Scalpel and drive it into the pulsing mass of tubes and arteries. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Step away from Heart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>You see a good spot to strike the Heart and really hurt it. Subtle opening in midst of thick tube.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>You don't see anything.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Tongues come at you again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Slowly, carefully, you extend your thoughts into the tubes and conduits of the Heart, gently testing your ability to contract a muscle here or widen an artery there. You hear the Bloom-voices all around you, but they don't seem alarmed. Either they don't sense you at all, or they don't perceive your intrusion as a threat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>You plunge the Scalpel deep into the mass of tubes and arteries. Fluids wash over your arm, hot and tingling. The Bloom-voices scream, millions of them together, and then swarm into your mind...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>You quiet your thoughts and wait. For some time, the Bloom-voices chitter amongst themselves, beyond the bounds of your consciousness. Then, quite abruptly, the whispers turn to hisses and shrieks, and again they swarm into your mind...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>The Bloom-voices burrow deep into your hidden memories. This time, they seem to understand the pattern, the secret arrangement of your sire's recollections. Moments from the Changing God's past flash across your mind's eye, too quick to comprehend.
+
+Finally, a memory surfaces, and the voices go quiet. *This* is what they've been seeking...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>You step back into the Bloom-tongues' embrace. They are cautious now... fearful, perhaps... and it takes a few moments before they embrace you again. The Bloom-whispers return, but they're distant, wary, as if reluctant to draw your anger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>After fight - player did 2 or more damage, tongues wary and noticeably hurt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>You don't manage to pull out any tongues. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>You can't pull the flesh apart - too tough.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Rip an even bigger hole in tubes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Attack vulnerable spot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>ARGH!  Bloom is super pissed. Ichor everywhere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Can't pull it any further apart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Bloom trembles, enraged, and corpuscular maws spawn. 
+
+{SCRIPT: Trigger combat.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Bam! You splatter the pustule-looking thing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Doh!  You missed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Let tongues go into your head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Try to evade tongues</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Ward off tongues with Transdimensional Scalpel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Ward off tongues with weapons.
+
+{Player hasn't already tried this.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Once again, you foiled the tongues. Back to main question.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>You failed! The tongues jam themselves into your head. (Similar to node 12.)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>You cut off tips of a bunch more tongues and they quickly withdraw, spraying ichor. Back to main question.
+
+Bloom hatred increases.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Fail! Tongues enter your head. (Similar to 12.)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>You hit the tongues, but they don't seem to respond to your weapons.. You manage to evade getting hit by them.
+
+Back to main question</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>You fail, tongues ram themselves into your head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Try to take control of the Maws.
+
+Assets for all these: possession of annulet, favor of Bloom, shutting down all the sensory organs
+Negative assets for all these: Each system you've already taken control of</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Try to take control of the sensory organs around the Heart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Try to take control of the arteries that lead into the Heart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>You try to plunge the Scalpel into the mass of tubes and arteries, but you're not quick enough. The Bloom-tongues jerk your limbs back and loop themselves tighter around them. Hissing in alarm, millions of Bloom-voices swarm into your mind...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Slowly, carefully, you extend your thoughts into the tubes and conduits of the Heart... but perhaps not carefully enough. All around you, the Bloom-voices buzz and hiss in alarm. You try to withdraw, but it's too late. Enraged, the voices swarm into your mind...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>You quietly take mental control of all the Maws in the Bloom. The Heart doesn't seem to notice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Try to take control of the Bloom's external tendrils and protuberances.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Examine the Bloom's memories.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Observe the Heart as a biological system, and watch for patterns.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>For a time, you listen carefully to the booming pulse of the Heart and observe both its physical movements and its internal sensory experiences. Your knowledge of natural science provides a useful framework, though the Bloom is unlike any creature that you - or your sire - have ever examined.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>For a time, you listen carefully to the booming pulse of the Heart and observe its movements, but it teaches you little more than you already know. Fluids are pumped here from elsewhere in the Bloom, and they seem to feed the many-voiced intelligence that resides in the Heart. A deeper understanding of this process is beyond you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Observe the Bloom-voices and try to understand what they are.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>You attend closely to the innumerable voices, chittering and whispering in the darkness of the Bloom's mind. Each of these voices is a tiny intelligence, a semi-autonomous piece of the Bloom's consciousness, and there are millions of them, perhaps tens of millions. The Bloom can spawn them at will, increasing its ability to think and perceive, planting them into Maws and tongues and organs. It can also devour them, cannibalizing its own screaming minds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>You attend closely to the innumerable voices, chittering and whispering in the darkness of the Bloom's mind. Your general impression is of many minds, many intelligences, that are part of a shifting whole... but you cannot be sure of anything beyond that.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Drift out of the Bloom's mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Decoupling your mind from that of the Bloom, you withdraw into your own body. The Bloom-voices fade somewhat, though they still linger at the edge of your consciousness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>You can't quite do it. The Bloom shudders irritably but doesn't seem to notice what you're up to yet. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>This time, the Bloom is ready for your attack. Fleshy nodules quiver and shake, and the strange little intelligences within them resist you. 
+
+The vast intelligence of the Bloom shifts its attention back to you, like a million alien eyes opening in the darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Resist. Try to maintain your presence in the Bloom's mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Allow yourself to be shunted out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>You're cast back into your own body, losing whatever tenuous control you had established over the Heart and its systems. The Bloom's innumerable voices swarm after you...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>The Bloom's innumerable voices swarm over you, but your will is strong, and you stand firm. A terrible groan, like the cry of some undersea leviathan, shakes the whole Heart. 
+
+Then the voices go quiet, and a scene begins to play out in your mind's eye... a memory, stolen by the Bloom from someone else. The perspective is a woman's, and she is speaking to a man. You recognize the Changing God at once, though his body is an old one, from long ago.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>The Bloom's innumerable voices swarm over you, and you can't hold firm against them. You're cast back into your own body, losing whatever tenuous grip you established on the Heart and its systems.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Holy crap - all the connections to all these worlds! It fills your mind with knowledge. 
+
+{Increase Lore: Mystical.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>The pair stand upon a circle of gold, the sky overcast and clouded above them. *Miel Avest.*
+
+"Not even your handiwork is proof against time," murmurs the woman, turning her face from the Changing God to hide it. *I am a monster*, she thinks, *rotting from the outside in.*
+
+"No, Maralel," says the Changing God. "I have no way of... fixing you... but you need not live in shame."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Put it on," he insists. Of course, she realizes, there is something *more* to this gift. She raises it to her face...
+
+The memory stops, cut off by the Bloom. Its voices chitter, insistent. They want *you* to finish it, to recall your sire's memory of this event.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Try to take control of the Maws again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Try to take control of the Heart's sensory organs again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Try to take control of the tubes and arteries again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Try to take control of the Bloom's external protuberances again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Quietly, cautiously, you extend your consciousness into the bloated little sacs that quiver on the surface of the Heart and within its many conduits. If you wished, you could put them into a sort of slumber that would make it harder for the Bloom to sense your presence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>You try to assert control over the fleshy nodules, but they, like everything else in the Bloom, are alive and aware, and they hiss in alarm. The Heart shudders - a deep rumble that feels like a warning.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Holy crap - all these crazy perceptual experiences broaden your mind. 
+
+{Increase: Perception}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Taking great care to avoid detection, you slip your thoughts into the tubes and arteries, assuming control of them. These fluids feed the intelligences that coalesce here. If you chose to do so, you could contract all the arteries at once, depriving them of energy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>You try to exert control over the tubes and arteries, but they, like everything else in the Bloom, are alive and aware, and they begin to thrash about. The Heart shudders - a deep rumble that feels like a warning.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>You quietly take mental control of all the Bloom's external protuberances. They are plodding ever forward, very very slowly. You realize that they have *never* stopped moving.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>You can't quite do it. The Bloom shudders irritably but doesn't seem to notice what you're up to yet. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>You've taken control of all the Bloom's internal systems without it noticing! But now it *does* notice, and it can't do much about it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Floating unnoticed among the Bloom's innumerable voices, you allow yourself to drift deeper into its mind. As the voices whisper amongst themselves, you begin to see brief images, to hear sounds, and feel *hunger* or *satiation*. These are its memories of the past.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>You try to drift unnoticed amongst the Bloom-voices, but your mind is too noisy, too undisciplined, and you catch their attention. The Heart shudders - a deep rumble that feels like a warning.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Close all the Maws in the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Put all the sensory organs around the Heart to sleep.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Close off all the tubes and arteries that feed the Heart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Stop the Bloom from moving.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>All the connections to other worlds are severed at once. The Bloom goes ballistic, takes 1 damage, and tries to shunt you out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>All the connections to other worlds are severed at once. The Bloom goes ballistic, takes 1 damage, and tries to shunt you out... but it can't! It's too weak because conduits and sensory organs are shut down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>All over the Heart, the blubbery nodules slowly deflate, sinking into torpor. To your relief, the Bloom makes no sound of alarm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>You gradually constrict the arteries, halting the flow of fluid to the Heart. Something burbles irritably within the Heart, like indigestion on a grand scale. Bloom-voices chitter listlessly, but they don't seem to notice what has happened... probably because you already deadened the Heart's sensory organs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>You constrict the arteries, halting the flow of fluid to the Heart. Even before they close completely, the Heart shudders violently. You're dimly aware of your body - which feels like it's miles away - tossing from side to side. Arteries quiver and deflate, twisting around one another like dying worms.
+
+{SOUND: Bloom rumble sound effect.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Bloom halts. It has *never* halted and immediately the tendrils go out of your control and start lashing the Bloom itself. Bloom takes 2 damage and tries to shunt you out.
+
+{lose control of movement system}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Offer a Reflection from your Labyrinth instead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Offer a companion's mind instead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Let the Bloom-voices take more memories.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Desperate Tidal Surge to fend it off.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>You try to focus on the frightened presences in the *calm* of your mind as you did before but the Bloom-voices don't shift their attention. They remain fixated on *you*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>It slurps up a Reflection, which gets pulled screaming into the Bloom, gone forever. Mmm, good. (Might be random as to which one it takes.)
+
+Lesser Int damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>You try to distract the Bloom-voices as you did before, but it's no use. They are fixated on *your* mind now, and they won't be denied their feast. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Push its attention toward a companion who's with you.  It feeds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>It doesn't like the Reflections you've got. Sorry.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Companion reacts and loses some Int. You see some of their life history.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>You try to summon the Tidal energies within you, shaping them into imagined scenes of your sire's life, but your mastery of the Tides is imperfect. The Bloom-voices shriek in anger, tearing apart your false memories, overwhelming your conscious thoughts, and renewing their assault...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Hissing and babbling, the voices pour into your head, tearing through your memories. Scenes play out before your eyes... your sire meeting Maralel for the first time since he cast off her body, your sire and Maralel as they recline upon the grasses of Miel Avest, talking and debating into the night... your sire facing Maralel across the field of the Endless Battle, screaming at his soldiers to *catch* her, *kill* her. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>You recognize the man at once - it's Mazzof, the castoff artificer you met in Zerian Daywalker's Mere. Your first thought is that the Bloom has somehow released the wrong man, but no... the Memovira deceived you. 'Ishen' is Mazzof. 
+
+For the moment, Mazzof is recovering from his ordeal, barely aware of his surroundings. He hasn't even seen you yet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Bloom gets seriously pissed. Hardens itself against your Tidal energy - this won't work again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Your Tidal Surge isn't strong enough to affect the Bloom. Sorry.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Your movements are constrained by the Bloom-tongues, but you manage to get a grasp on the Scalpel and slash at the pulsing tubes and arteries.
+
+Unfortunately, the Bloom-tongues *tense* at precisely the wrong moment. Your arm is jerked to the side before it reaches its target.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Try to form an image of Ishen in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>You focus on the goal that brought you here - the abducted scholar, Ishen. An image forms... bald head, beard, strange markings on his body. He seems familiar. Perhaps your sire knew him.
+
+The Bloom's voices go quiet, pausing in their unrelenting assault upon your mind. They know Ishen too, and now they also know why you're here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Search the Bloom's thoughts for the abducted scholar, Ishen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"I'm not here to fight you! I'm looking for a man called Ishen, and I think you have him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>The voices don't seem to understand... or if they do, they ignore your words.
+
+More and more of them pour into your mind, chittering and whispering and shrieking. You feel them overwhelming your conscious mind... even your sense of self.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"You're wasting your time," groans Matkina. Her face is contorted with pain, and she is no better off than you. "The Bloom doesn't *speak*, it only *thinks* and *feels* and *hungers*!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>While your thoughts are joined to the Bloom's, you can *almost* understand its voices. A whisper will spark a fleeting image in your mind's eye, a hiss will elicit a flash of anger or desire or... some alien emotion that you can't even comprehend.
+
+As you listen and watch, you see occasional images of a vague human figure. When you focus on them, try to hold them *still*, you see an isolated pocket of flesh, a cyst filled with thick, black juices in which the man floats, curled up like a fetus. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>You listen carefully to the Bloom-whispers, and a rush of images and emotions race through your mind. For a moment, you see a vague human figure, curled up like a fetus. You try to hold the image still, but you only manage to catch the attention of the Bloom...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>While your thoughts are joined to the Bloom's, you can *almost* understand its voices. A whisper will spark a fleeting image in your mind's eye, a hiss will elicit a flash of anger or desire.
+
+As you listen and watch, you see an image of a vague human figure, curled up like a fetus. You try to focus on it, but the Bloom-whispers hiss and draw away. They seem more confused than wrathful, perhaps because you deadened their sensory organs before you attempted this. But now they know you're here...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Search the Bloom's thoughts for Ishen again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Try to gain control over the fibers and muscles that guard Ishen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Try again to take control of the fibers and roots that guard Ishen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Moving slowly and cautiously, you follow the faint whispers of the tiny, chittering minds that watch over Ishen. They're not far from the Heart, centered around a foul little cyst, just as you suspected. When they sense your approach, they squeal in alarm, but you overwhelm and silence them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>As you stretch out your thoughts toward Ishen, you hear squeals of alarm. They're coming from the tiny, chittering minds that the Bloom created to guard its prisoner. You aren't able to silence them, so you quickly withdraw.
+
+Fortunately, you deadened the sensory organs around the Heart before you attempted this, so your attack went unnoticed, but you may not be so lucky again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Far too clumsily, you stretch out your thoughts toward Ishen. Almost immediately, you hear shrieks of alarm, and the eyes of the Bloom are upon you...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Reopen the transdimensional rift in Ishen's 'prison' and set him free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>You *whisper* softly to the rift, and it begins to take shape again. Bloom-voices shriek in alarm, but with the arteries constricted and the Heart's sensory organs deadened, the Bloom can do nothing to stop you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>You *whisper* softly to the rift, and it begins to take shape. Ishen stirs... and the knotted muscles that surround his cyst tremble with alarm. 
+
+Thousands of chittering voices hiss in rage, alerted to your ploy. They rock the cyst to and fro, causing the rift to unravel again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>You feel Ishen vanish from the foul little cyst. In the same moment, the air in the Heart chamber ripples. A transdimensional rift tears itself into being, and a human figure topples out, dripping black juices, coughing and gagging, vomiting on the floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>At once, Bloom-voices rise all around you, shrieking and chittering, trying to cast you out of its mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>You stand with a woman upon a circle of gold, the sky clear and blue above you. *Miel Avest.* The woman is well known to you - the same woman who helped you choose this spot years before, the same woman who built this enclave with you, together. 
+
+Her face has changed, ravaged by time. The flesh is rotting away, exposing the glistening muscles beneath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>She turns away from you, as if to hide her ugliness. "Not even your handiwork is proof against time."
+
+"No, Maralel," you say. "I have no way of... fixing you... but you need not live in shame."
+
+You present her with a mask, its expression enigmatic, decorated with intricate patterns of gold. 
+
+"A pretty thing," she says, unable to hide the bitterness in her voice. "I can just as well wrap my face in bandages, or cover my head with a sack."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>As she does, the memory ends, cut off abruptly by a chorus of shrieks from the Bloom. They chitter at you, their purpose as enigmatic as Maralel's mask.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>The Bloom-voices chitter and click, sounding close, gathered around you like a pack of beasts. You sense *hunger* from them. They know what brought you here. In return, they want more memories from you, similar to the one they just took.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>Form a mental image of you hurting the Bloom again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>A hush falls over the Bloom-voices, and their chittering grows frantic, almost fearful. The image of you harming the Bloom is mirrored back to you a dozen times, as if the Bloom is reliving the pain you inflicted upon it. Then the voices withdraw from your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Sharp, vicious clicks cut through your thoughts, and the chittering grows sharper, more aggressive... closer. The message seems clear - the Bloom doesn't fear you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Constrict the tubes and arteries running to the Heart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>You command the tubes and arteries to close, and you find with relief that your control over them is still intact. In seconds, the Bloom-voices begin to shriek. Deprived of the bizarre fluids from elsewhere in the Bloom, the Heart is dying, its collective consciousness unraveling.
+
+The voices flee from your mind in frantic disarray. Before you lose contact with the Bloom entirely, you allow the arteries to open again, but the voices keep their distance. The lesson has been learned.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>The unfinished memory of Miel Avest bubbles to the surface, playing out in your mind's eye.
+
+You're facing Maralel, the First Castoff, as she holds the mask you gave her. "Put it on," you hear yourself say, and she places the mask over her face. At once, it melds with her flesh, and her face becomes that of a lovely young woman. 
+
+Her eyes widen, knowing that something has changed, and you hold up a looking glass for her to see. She laughs aloud - a sound you haven't heard from her in years.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Show me the rest of the memory."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"I'm here for Ishen, nothing more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>The Bloom-voices chitter and click, sounding close, gathered around you like a pack of beasts. You sense *hunger* from them. If you want to see the rest of the memory, you'll have to feed them other memories... recollections that bear something in common with the one you just witnessed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Never mind. I'm just here for Ishen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>The voices chitter furiously, their 'answer' the same as before. What will you give in return?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"You can change your face at will," you say to her. "Try it."
+
+Maralel nods, watching the looking glass carefully as her face morphs into that of an old woman... then a homely beggar-lady... then a varjellen... and a dozen more. 
+
+The last face you see is dark-haired, regal in bearing. It is the face of the Memovira.
+
+Accompanied by a distinct sense of *hunger* from the Bloom, the memory fades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>You hear a sharp intake of breath from Matkina. Somehow the Bloom was showing the memory to her too.
+
+"Right under my nose," she whispers. "I had her right in front of me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>The implication is clear - the Memovira is merely a disguise, a mask that conceals the First Castoff. She has been alive, hiding behind a false identity, for years.
+
+Even as you contemplate this revelation, the Bloom-tongues slide painlessly out of your body, setting you free. They show no further interest in you, and the whispering voices are gone from your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Softly at first, Bloom-voices begin to hiss. The sound is unexpectedly close, as if they're gathered all around you.
+
+More voices join them... thousands... then millions. All the voices that comprise the Bloom's mind are converging in this one place.
+
+You realize that you can't sense your body anymore. You can't see or hear or feel *anything* but the voices.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>Help the Bloom find this memory.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Demand that the Bloom release Ishen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>You delve into your hidden memories, seeking the moment the Bloom has just showed you. To your surprise, the Bloom-voices are beside you, helping you focus, pushing aside *similar* memories that distract you. 
+
+At last, the memory surfaces. It isn't exactly as the woman remembered. The details are different, like the color of her robe and sky above - clear and blue in your sire's recollection. But now you recognize her for who she is - Maralel, the First Castoff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>You just can't do it. The Bloom gets super-pissed and pushes into your mind to find the memory itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Ignoring the Bloom's request, you focus on the goal that brought you here - the abducted scholar, Ishen. An image forms... bald head, beard, strange markings on his body. He seems familiar. Perhaps your sire knew him.
+
+The Bloom-voices chitter and click, sounding close, gathered around you like a pack of beasts. You sense *hunger* from them. They know what you desire, and they *want* something in return.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>She holds the mask you gave her. "Put it on," you hear yourself say, and she places the mask over her face. At once, it seems to meld with her flesh, and her face becomes that of a lovely young woman. 
+
+Her eyes widen, knowing that something has changed, and you hold up a looking glass for her to see. She laughs aloud - a sound you haven't heard from her in years.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"You can change your face at will," you say to her. "Try it."
+
+Maralel nods, watching the looking glass carefully as her face morphs into that of an old woman... then a homely beggar-lady... then a varjellen... and a dozen more.
+ 
+The last face you see is dark-haired, regal in bearing. It is the face of the Memovira.
+
+Accompanied by a distinct sense of *hunger* from the Bloom, the memory fades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>The Heart offers no explanation as to why it showed you this memory, but the implication is clear - the Memovira is merely a disguise, a mask that conceals the First Castoff. She has been alive, hiding behind a false identity, for years.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>You try to form the question in a way the Bloom will understand, but you either fail... or it ignores you.
+
+Instead,  the air in the chamber ripples. At once, a transdimensional rift tears itself into being, and a human figure topples out, dripping black juices, coughing and gagging, vomiting on the floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>You feel the Bloom shake, sense a new pocket of flesh get moved over to the Heart. The Bloom has given you the Talisman. 
+
+But it doesn't disconnect. It seeks a new bonding to replace the Memovira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>You stand with a woman upon a circle of gold, the sky clear and blue above you. *Miel Avest.* The woman is well known to you - the same woman who helped you choose this spot years before, the same woman who built this enclave with you, together. 
+
+Her face has changed, ravaged by time. The flesh is rotting away, exposing the glistening muscles beneath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Bond with the Bloom and become the new Memovira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>Push the Bloom-voices away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>Matkina says she'll do it, if you won't. She super wants to screw over the FCO, take everything from her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>The voices draw back... and then return, their chittering more insistent. 
+
+Some of the voices whisper gently, showing you images of yourself holding court in the Memovira's fortress, opening Maws at a touch, summoning masses of tentacled flesh to tear apart your foes. *Memovira*, they whisper, soft and reverent.
+
+All of the Bloom can be yours to command.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Shrieking with exultation, the Bloom-voices flood into your mind, plunging deep into its darkest recesses. There they chitter and click, weaving the sounds into *thought*, giving it life and form. A corpulent mass of flesh takes shape, bloated and scabrous, a fragment of the Bloom's own consciousness. New Bloom-voices are birthed within, squealing like newborn beasts. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>Tongues waver in the air, nothing happens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>Bloom screeches, tongues withdraw, Maws spawn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>Grab one of the tongues and jam it into your head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>Attack the Heart again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>Leave the Heart alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>You sense pain from the Heart. You've hurt it. Fury it had initially is gone, and its consciousness retreats.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Bloom is angry at pain you've caused but not truly hurt. Bloom's voices invade your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>Tear one of the Bloom-tongues in half.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>Grabbing a Bloom-tongue with both hands, you wrench it apart. Fetid juices pour from both ends. The part of the tongue that was melded to your body slides painlessly out and falls to the ground, curling up like a dead arachnid.
+
+The Bloom-voices shriek, millions of them together, and then swarm into your mind...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>As you step closer, Bloom-tongues surround you, drawing you into a wet, nauseating embrace. Though they seem solid and corporeal, they somehow pass through your flesh, thrusting into your head, your limbs, and your guts, igniting prickly, hot-cold sensations all over your body.
+
+The multitude of Bloom-voices chitter and babble, clearly alarmed by your intrusion, but unable to muster an attack upon your mind. For the moment, the feeding of the abykos has made them tired and weak.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>Wait and see what the Bloom does next.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>You quiet your thoughts and wait. For some time, the Bloom-voices whisper amongst themselves, beyond the bounds of your consciousness. The whispers grow in number. You feel them gathering here, drawn from every corner of the Bloom...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>The whispers turn into a cacophony of buzzes and shrieks, and they flood into your mind, scattering your thoughts, burrowing deep into your hidden memories. Moments from the Changing God's past flash across your mind's eye, too quick to comprehend.
+
+Finally, a memory surfaces... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"I'm looking for a man called Ishen. Where is he?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>The Bloom doesn't seem to understand... or if it does, it ignores your words. 
+
+A few random, disconnected images flash through your mind, seemingly spawned by the chittering voices, but none of them contain a human scholar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>Form an image of Ishen in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>You focus on the goal that brought you here - the abducted scholar, Ishen. An image forms... bald head, beard, strange markings on his body. He seems familiar. Perhaps your sire knew him.
+
+The Bloom's voices go quiet. They recognize Ishen too, and now they know why you're here... and who sent you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>The Bloom-tongues surround you, drawing you into a soft, wet embrace. Though they seem solid and corporeal, they somehow pass through your flesh, thrusting into your head, your limbs, and your guts, igniting prickly, hot-cold sensations all over your body.
+
+The multitude of Bloom-voices grow hushed, expectant. For the first time, all the foul, organic noises of the Bloom go quiet, like a gesture of... respect? The Bloom is making you *welcome*, but why?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>The voices in your head scream - millions of them at once. The whole Bloom shakes and groans. Foul brown ichor sprays from the wound, splattering your face. 
+
+All around you, the Bloom-tongues sag, and their grip on you weakens. The voices seem more cautious now... some carry notes of fear.
+
+{SOUND: Bloom voices shriek in pain.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>Rip one of the Bloom-tongues out of the Heart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>You take hold of a Bloom-tongue and pull with all your might, tearing it from its socket. A gout of purple bile splatters your face. The Bloom-voices pause in their psychic onslaught, hissing in anger and pain.
+
+Though you're still held firmly in place by the Bloom-tongues, you feel their grip slacken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>You take hold of a Bloom-tongue and pull... but not hard enough. A few Bloom-voices screech in alarm, and the other tongues wrap themselves tight around your limbs. You can no longer move, and you won't be able to attack the Heart again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>Tear one of the Bloom-tongues in half.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>Grabbing a Bloom-tongue with both hands, you wrench it apart. Fetid juices pour from both ends. The part of the tongue that was melded to your body slides painlessly out and falls to the ground, curling up like a dead arachnid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>Use the Transdimensional Scalpel to attack the Heart again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>You lunge swiftly at the Heart, slashing open a fat, fleshy artery. Stinking yellow bile explodes in all directions, soaking your clothes and hair. The Heart jerks from side to side, and the Bloom-voices unleash a deafening scream, their pain and rage unmistakable. 
+
+In the next moment, the voices are gone from your mind, the Bloom-tongues release your body, and foul, tentacled *things* erupt from the floor...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>You try to slash another fat, fleshy artery, but the Bloom-tongues are ready. They jerk your arms and legs in awkward directions and wrap themselves tight around your limbs. You can no longer move, and you won't be able to attack the Heart again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>Awakening from death, you find that the tongues have once again dragged you into their midst. You feel them moving beneath your skin, jolting you awake. As soon as your thoughts clear, they swarm into your mind again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>Plunge your fist into one of the Heart's wounds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>You drive your hand into a ragged wound that had almost knitted itself back together. Taking hold of a soft, rubbery *something* inside, you pull with all your might. Flesh tears, hot bile erupts from the hole, and a thing that looks like a wriggling, multi-armed intestine lands on the ground, squealing as it dies. Millions of Bloom-voices scream in agony. 
+
+A moment later, they're swarming back into your mind, enraged... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"I'm looking for a man called Ishen. Where is he?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>Your speech elicits a series of weird, disconnected images that project themselves in your mind's eye... an invitation, you sense, for you to respond in the same way. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"The Memovira sent me here. She was too afraid to come herself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Why aren't you trying to devour me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>Form an image of the Memovira in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>Form an image of the First Castoff in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>Try to form an image of Ishen in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>You form a vague image of a human male... a scholar. Then you recall the words that the Memovira spoke to you. "The Bloom has taken Ishen to its Heart."
+
+Strangely, your mental image of Ishen begins to fill itself out... a bald head, a beard, strange markings on the skin... as if you somehow know the man. But before the image is complete, the Bloom responds with an image of its own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>Your speech elicits a vague sense of confusion, and weird, disconnected images project themselves in your mind... an invitation, perhaps, for you to respond in the same way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>Bloom-voices hiss. Images of tearing flesh and bloody teeth flash through your mind, along with a distinct impression of *hunger* and *desire*. They quickly subside, and again the voices grow hushed, expectant. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>Recalling the Memovira clearly from your last meeting, you form an image of her in your mind's eye. In response, the Bloom-voices emit a series of loud, irritating clicks. You find that you can't maintain your mental image of the Memovira. It keeps shifting, its edges fading like a mirage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>You try to recall the images you have seen of the First Castoff - glimpses of her in memories and Meres, pictures and statues in her tomb. Bloom-voices respond at once, hissing with excitement. They slip into your mind, chittering to one another, pushing deep into the hidden memories of your sire, looking for something...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>Let the Bloom search your memories.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>Resist the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>Instantly, the Bloom-voices retreat. They chitter softly, like beasts struck by their master. 
+
+A scene begins to play out in your mind's eye... a memory, stolen by the Bloom from someone else. The perspective is a woman's, and she is speaking to a man. You recognize the Changing God at once, though his body is an old one, from long ago.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>The pair stand upon a circle of gold, the sky overcast and clouded above them. *Miel Avest.*
+
+"Not even your handiwork is proof against time," murmurs the woman, turning her face from the Changing God to hide it. *I am a monster*, she thinks, *rotting from the outside in.*
+
+"No, Maralel," says the Changing God. "I have no way of... fixing you... but you need not live in shame."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>He reaches into a pouch, and the woman knows that he means to give her something. His gifts are always wondrous, but if you accept them, you are never the same again.
+
+The Changing God hands her a mask. The expression is enigmatic, she notes... just as their relationship has become.
+ 
+"A pretty thing," she says, feeling bitter, disappointed. "I can just as well wrap my face in bandages, or cover my head with a sack."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>The Heart offers no explanation as to why it showed you this memory, but the implication is clear - the Memovira is merely a disguise, a mask that conceals the First Castoff. She has been alive, hiding behind a false identity, for years.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>Probe the Bloom's memories, see if you can learn why the First Castoff lied to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>Ask the Bloom to show you where Ishen is.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>Reaching tentatively into the Bloom's consciousness, you listen to its whispers and observe the visions and sounds that they trigger in your mind. They seem to sense what you want, and they show you countless memories of the First Castoff in her Memovira-guise. In all of them, she is hurling someone into a Maw, striking down a rival from behind, manipulating others into performing dangerous, near-suicidal tasks for her.
+
+You are, perhaps, no different.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>As these Bloom-memories play out, you notice that they elicit a vague sense of *desire* from the Bloom. It cherishes these recollections, draws nourishment from them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>Ask the Bloom to release Ishen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>You focus on the goal that brought you here - the abducted scholar, Ishen. An image forms... bald head, beard, strange markings on his skin. He seems familiar. 
+
+In response, the Bloom shows you an image of an isolated pocket of flesh, a cyst filled with thick, black juices, in which a vague human figure floats. The cyst is wrapped carefully in fleshy tendrils and knotted muscles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>You hear a sudden burst of whispers all around you, and the air in the chamber ripples. At once, a transdimensional rift tears itself into being, and a human figure topples out, dripping black juices, coughing and gagging, vomiting on the floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>Disengage from the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>Convey a sense of gratitude to Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>You command the Bloom-tongues to let you go, but they remain melded to your body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>Perhaps the concept of gratitude is entirely alien to the Bloom, for it makes no reply. Indeed, its voices have gone curiously quiet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>Your respite is all too brief. A few blessed seconds of silence, and then the wild cacophony returns, and the assault upon your mind continues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>As you step closer, Bloom-tongues surround you, drawing you into a wet, nauseating embrace. Though they seem solid and corporeal, they somehow pass through your flesh, thrusting into your head, your limbs, and your guts, igniting prickly, hot-cold sensations all over your body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>A multitude of Bloom-voices hiss and babble with rage. You cannot understand their 'words,' but their meaning is clear - you don't *belong* here. The voices invade your mind, sweeping aside your thoughts, *establishing* themselves within...
+
+Your companion groans beside you, trapped in the same embrace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>A multitude of Bloom-voices hiss and babble with rage. You cannot understand their 'words,' but their meaning is clear - you don't *belong* here. The voices invade your mind, sweeping aside your thoughts, *establishing* themselves within...
+
+Your companions groan beside you, trapped in the same embrace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>Reflexively, you let go of everything, focusing on a single mote of knowledge that the voices cannot take away. "I am *here*. This thought is *mine*." The Bloom-voices fade into a meaningless babble as you repeat the words to yourself, and you realize that the voices are powerless to stop you. They can devour your memories or cause you pain, but they can't snuff out your conscious mind. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>With this realization comes strength, and you repeat the words again. They cut through the cacophony of Bloom-voices. 
+
+"These thoughts are mine. *Get out.*" Now your inner voice drowns out theirs. The Bloom-whispers turn to hisses of frustration, and they flee, shrieking in rage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>The voices become more distant. They whisper and buzz to each other, barely audible, like a vast conclave that is locked away behind a heavy door. 
+
+You find that you can move again, albeit slowly and awkwardly, constrained by the wriggling tongues that have merged with your flesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>A hush falls over the Bloom-whispers in your mind. You sense *fear* from them... fear of the scalpel, terror that the dreaded weapon has somehow found its way into the Heart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>The Heart jerks from side to side, and Bloom-voices scream in rage. A moment later, they're gone from your mind, the remaining tongues withdraw from your body, and foul, tentacled *things* erupt from the floor...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>You grab another Bloom-tongue and try to wrench it apart, but the flesh is too thick and strong.
+
+A few Bloom-voices screech in alarm, and the remaining tongues wrap themselves tight around your limbs. You can no longer move, and you won't be able to attack the Heart again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>Ask the voices what they want.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>You form the question with your inner voice - *what do you want?* The voices buzz and hiss, and you see brief flashes of a memory... a skinless woman holding a mask... the woman's face shifting like windblown sand. But you've never seen this memory before, and it's impossible to recall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>You focus on the strange presences that exist in the *calm* of your mind. You feel the attention of the Bloom-voices shifting, hissing and chittering in the *calm*, probing its contents...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>Finally they fixate upon Seria, the adopted daughter of Orseolo. Perhaps they are drawn to the torment that she suffered in death, or to the torment of her foster-father... for she is truly the last vestige of his mind. 
+
+You can see her as the Bloom-voices do - cowering in the darkness as they chitter and hiss all around her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>Finally they fixate upon the catena intelligence that you granted sanctuary in your mind so that it might preserve the memory of its passengers. You can see the catena intelligence as the Bloom-voices do - a small circle of terrified-looking people, clustered together as the voices shriek and hiss from the darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>Let the Bloom-voices take Seria.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>Offer a companion's mind instead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>Offer your own mind instead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Let the Bloom-voices take the catena intelligence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>The voices shriek at the frightened catena passengers, their cries sharp like blades. They slice the reflections apart, dissecting them into tiny fragments of the catena intelligence, each one screaming in terror and sadness and, most of all, betrayal. 
+
+Sweeping across the *calm*, the Bloom-voices devour the intelligence, carrying away the last vestiges of its passengers and snuffing them out forever.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>You focus your attention on Aligern, trying to draw the attention of the Bloom-voices to him. Through your shared connection with the Bloom's Heart, you can sense his rage - at both you and himself. He *knew* this betrayal was coming, he *knew* he should never trust a castoff, but he followed you anyway. The voices flood out of your mind and into his...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>You focus your attention on Tybir, trying to draw the attention of the Bloom-voices to him. Through your shared connection with the Bloom's Heart, you can sense the fear blossoming in his heart... and the rage at your betrayal - he's not the one who's offered up for convenience! How dare you use him as an offering?
+
+He can sense what you're doing, but it's no use. The voices have caught his scent, and they flood out of your mind and into his...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>You focus your attention on Callistege, trying to draw the attention of the Bloom-voices to her. Through your shared connection with the Bloom's Heart, you taste the fear blossoming in her heart... but it is tempered with a fierce curiosity. She can sense what you're doing. She does not fight the experience. The voices have caught her scent, they flood out of your mind and into hers, and you ride the wave of her memories...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>You focus your attention on Erritis, trying to draw the attention of the Bloom-voices to him. Through your shared connection with the Bloom's Heart, you can sense his surprise. He realizes what you're doing, but he can't quite believe it - this isn't the kind of thing that happens to heroes! Or maybe he can find a heroic way to escape! Or maybe - 
+
+- the voices have caught his scent, and they flood out of your mind and into his. A welter of memories overwhelms you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>He holds his newborn daughter in his hands, and he feels a lifetime of her potential, a hallway with open doors. He takes his wife exploring for numenera in ancient ruins, hoping to find the key to making his aldeia self-sufficient forever. He wakes weeping, the heaviness of the loss of his family an ache that never disappears. He meets Callistege, and her warm empathy melts a way into his heart... and the memory segues into the first time she hurt him, using her words like a whip.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>He's a frail child, and his bullies are relentless. They beat him and beat him, and he trains himself in secret to stand up to them. He wins his first fight with his fists, and this seals his determination to join the military to test his skill. He vows never to be a victim again. 
+
+You taste his horror, the first time he took a life, and hear his subsequent, silent vow to use his mind instead of his blade whenever possible. Endless hours of training, banter... and love.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>Childhood in a house filled with light and music. Callistege's mother laughing and spinning under the glowglobes and smiling for the guests, and dropping the facade when they've left. A childhood of driven misery, forced into a mold of perfection, in which she did not so much mature as extrude into her mother's desire.
+
+And then she met the Aeon Priest, and everything changed. You see her first experiment, and the doors of knowledge thrown open.
+
+The Bloom devours that memory, lost forever.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>The faces you see are different from the face of the man you know. The clothes are different, the weapon has changed... but the glow remains constant, and the adventures are terrifyingly dangerous.
+
+A not-Erritis swings across a jagged chasm on a flimsy rope as energy bolts whistle through the air around him. Another rolls beneath a crackling void, its insistent fingers of gravity trying to snatch him into its embrace. Another, a woman, duels five lumbering automatons at once...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>At last, the Bloom-voices withdraw from your mind. You feel tired, slower, your perceptions dulled, your intellect *diminished*. 
+
+All around you, the voices continue to chitter and hiss. They may be sated for now, but the tongues are still melded to your limbs, and you sense that the voices will soon invade your thoughts again. Whatever they were seeking, they haven't found it yet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>Fortunately, your mastery of the Tides is near absolute, and the Bloom-voices can't resist the illusory feast you place before them. They devour the 'memories' as quickly as you can conceive them, gorging themselves on falsehoods and lies. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>At last the Bloom-voices withdraw from your mind. You hear them all around you, hissing with frustration. Though they are sated for now, they didn't find what they wanted in your mind, and they will undoubtedly return.
+
+You find that you can move again - slowly and achingly. The tongues are still melded to your body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>You grab a Bloom-tongue with both hands and try to wrench it apart, but it's no good - the flesh is too thick and strong. Hissing in alarm, millions of Bloom-voices swarm into your mind...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>You try to drive your hand into a ragged wound that you inflicted earlier, but you're not quick enough. The Bloom-tongues jerk your limbs back and loop themselves tighter around them. Hissing in alarm, millions of Bloom-voices swarm back into your mind...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>Ravenous, the voices devour every memory of Maralel that is hidden in your mind. You groan as the memories are shredded and consumed, knowing that this *excision* will diminish your ability to think and reason and remember.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>Disengage from the Bloom-tongues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>Try to reassure Mazzof.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>You tug at the Bloom-tongues that are melded to your body, but they remain firmly attached. As the Bloom digests your sire's memories of Maralel, fragments of them drift back to you...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>You focus your attention on Matkina, trying to draw the attention of the Bloom-voices to her. Through your shared connection with the Bloom's Heart, you feel the fear blossoming in her heart. She senses what you're doing, but it's no use. She resigns herself to your betrayal with rage and sadness - she should have known better than to trust you.
+
+The voices have caught her scent, and they flood out of your mind and into hers. Her memories wash over you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>Another memory of the First, with Matkina pleading to be the one sent to Kholn. "I know them," she says, "and I can work with them."
+
+The First agrees. Matkina thinks she has won a reprieve for her adoptive family.
+
+... and the Bloom devours their histories, stealing the memories of their faces just as Matkina took Neng's vision.
+
+The Bloom-tongues begin to quest deeper into her memory, and then...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>You try to shift the Bloom's attention to your companions, but it's no use - their minds contain nothing that the Bloom wants. The Bloom-voices are fixated on *your* mind now, and they won't be denied their feast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>[We see fragments of Aligern's life history as they are pulled out of his mind and devoured. Should also provide some hint that he will be permanently affected by this (loss of Int pool).]
+
+{COLIN: This node should be identical to node 339. If you added another node there, please add it here too.}
+{SCRIPT: Aligern permanently loses 2 points of Int pool.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>You focus your attention on Tybir, trying to draw the attention of the Bloom-voices to him. Through your shared connection with the Bloom's Heart, you can sense the fear blossoming in his heart... and the rage at your betrayal. He can sense what you're doing, but it's no use. The voices have caught his scent, and they flood out of your mind and into his...
+
+{COLIN: Feel free to tweak this for Tybir if you want.}
+{SCRIPT: Tybir accompanied player into tongues.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>[We see fragments of Tybir's life history as they are pulled out of his mind and devoured. Should also provide some hint that he will be permanently affected by this (loss of Int pool).]
+
+{COLIN: This node should be identical to node 340. If you added another node there, please add it here too.}
+{SCRIPT: Tybir permanently loses 2 points of Int pool.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>You focus your attention on Callistege, trying to draw the attention of the Bloom-voices to her. Through your shared connection with the Bloom's Heart, you can sense the fear blossoming in her heart. She can sense what you're doing, but it's no use. The voices have caught her scent, and they flood out of your mind and into hers...
+
+{COLIN: Feel free to tweak this for Callistege if you want.}
+{SCRIPT: Callistege accompanied player into tongues.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>[We see fragments of Callistege's life history as they are pulled out of her mind and devoured. Should also provide some hint that she will be permanently affected by this (loss of Int pool).]
+
+{COLIN: This node should be identical to node 341. If you added another node there, please add it here too.}
+{SCRIPT: Callistege permanently loses 2 points of Int pool.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>You focus your attention on Erritis, trying to draw the attention of the Bloom-voices to him. Through your shared connection with the Bloom's Heart, you can sense his surprise. He realizes what you're doing, but he can't quite believe it. The voices have caught his scent, and they flood out of your mind and into his...
+
+{COLIN: Feel free to tweak this for Erritis if you want.}
+{SCRIPT: Erritis accompanied player into tongues.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>[We see fragments of Erritis's life history as they are pulled out of his mind and devoured. Should also provide some hint that he will be permanently affected by this (loss of Int pool).]
+
+{COLIN: This node should be identical to node 342. If you added another node there, please add it here too.}
+{SCRIPT: Erritis permanently loses 2 points of Int pool.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>You try to focus on the remaining presence in the *calm* of your mind as you did before but the Bloom-voices don't shift their attention. They remain fixated on *you*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>You focus on the strange presences that exist in the *calm* of your mind - the reflections and remnants of other beings that shelter there. You feel the attention of the Bloom-voices shifting, hissing and chittering in the *calm*, probing its contents...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>Finally they fixate upon Seria, the adopted daughter of Orseolo. Perhaps they are drawn to the torment that she suffered in death, or to the torment of her foster-father... for she is truly the last vestige of his mind. 
+
+You can see her as the Bloom-voices do - cowering in the darkness as they chitter and hiss all around her.
+
+{SCRIPT: Seria reflection is present in Labyrinth.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>Finally they fixate upon the catena intelligence that you granted sanctuary in your mind so that it might preserve the memory of its passengers. You can see the catena intelligence as the Bloom-voices do - a small circle of terrified-looking people, clustered together as the voices shriek and hiss from the darkness. 
+
+{SCRIPT: Catena intelligence is present in Labyrinth.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>Then they withdraw, finding nothing that would slake their hunger. You'll have to offer them something else... or allow them to feed as they will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>Let the Bloom-voices take Seria.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>The voices shriek at the cringing girl, their cries sharp like blades. They dissect her into scattered bits of consciousness, each one screaming in pain and terror and confusion. Then they sweep across the Calm, gathering up the pieces of her, devouring them bit by bit. As the last vestige of her winks out, her screaming finally ends.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>Let the Bloom-voices take the catena intelligence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>The voices shriek at the frightened catena passengers, their cries sharp like blades. They slice the reflections apart, dissecting them into tiny fragments of the catena intelligence, each one screaming in terror and sadness and, most of all, betrayal. 
+
+Sweeping across the *calm*, the Bloom-voices devour the intelligence, carrying away the last vestiges of its passengers and snuffing them out forever.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>You hear a sudden burst of whispers all around you, and the air in the chamber ripples. At once, a transdimensional rift tears itself into being, and a human figure topples out, dripping black juices, coughing and gagging, vomiting on the floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>Feed the voices something else instead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>You shift your mind's eye away from Seria, and the Bloom-voices follow, drawing away from her. Somewhere in the *calm*, the reflection of Seria scurries into a dark place, hidden from the voices, hidden even from you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>Feed the voices something else instead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>You shift your mind's eye away from catena intelligence, and  the Bloom-voices follow, drawing away from it. Somewhere in the *calm*, the frightened passengers scurry into a dark place, hidden from the voices, hidden even from you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>Try to feed false memories to the Bloom, to keep it from plundering the real ones.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>You summon the Tidal energies within you, shaping them into imagined scenes of your sire's life, letting them play out in your mind's eye. It's easy enough to incorporate elements of what you know about the Changing God and his past, mixing them together with stories you've heard from others or moments from your own life. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>You summon the Tidal energies as you did before, shaping them into imagined scenes of your sire's life and feeding them into the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>The Bloom-voices tear apart the false memories you offer, examining them, finding nothing they want, and casting them aside. Their chittering grows louder, angrier. Mere illusions won't satisfy their hunger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>The cyst is wrapped carefully in fleshy tendrils and knotted muscles, watched closely by tiny, chittering minds that were spawned for exactly this purpose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>She turns away from you, as if to hide her ugliness. "Not even your handiwork is proof against time."
+
+"No, Maralel," you say. "I have no way of... fixing you... but you need not live in shame."
+
+You present her with a mask, its expression enigmatic, decorated with intricate patterns of gold. 
+
+"A pretty thing," she says, unable to hide the bitterness in her voice. "I can just as well wrap my face in bandages, or cover my head with a sack."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>He reaches into a pouch, and the woman knows that he means to give her something. His gifts are always wondrous, but if you accept them, you are never the same again.
+
+The Changing God hands her a mask. The expression is enigmatic, she notes... just as their relationship has become.
+ 
+"A pretty thing," she says, feeling bitter, disappointed. "I can just as well wrap my face in bandages, or cover my head with a sack."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>You hear a sharp intake of breath from Matkina. Somehow the Bloom was showing the memory to her too.
+
+"Right under my nose," she whispers. "I had her right in front of me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>Try to ask the Bloom why it showed you the memory.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>Demand that the Bloom release Ishen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>You hear a sudden burst of whispers all around you, and the air in the chamber ripples. At once, a transdimensional rift tears itself into being, and a human figure topples out, dripping black juices, coughing and gagging, vomiting on the floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>You recognize the man at once - it's Mazzof, the castoff artificer you met in Zerian Daywalker's Mere. Your first thought is that the Bloom has somehow tricked you, released the wrong man, but no... the Bloom's voices are insistent. 'Ishen' is Mazzof. The First Castoff concealed the truth from you to avoid arousing your suspicion.
+
+For the moment, Mazzof is recovering from his ordeal, barely aware of his surroundings. He hasn't even seen you yet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>The Bloom-tongues slide painlessly out of your body, setting you free. They show no further interest in you, and the whispering voices are gone from your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>This time, the Bloom is ready for your attack. Arteries quiver and shake as the twisted intelligences within them resist you. 
+
+The vast intelligence of the Bloom shifts its attention back to you, like a million alien eyes opening in the darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>Screams echo in your ears as men and women are pulled into Maws, their thoughts and personalities devoured... or simply altered, scrambled, changed into monstrous forms. You see limbs torn from bodies by eager Bloom-tongues, eyes plucked out so that tendrils can slide gently into their sockets to reach the brains. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>For a moment, you see Grisseler, the Bloom-guide, trapped in the embrace of a Maw, and you can *taste* the raw flesh of his legs as the Maw tears them off and devours them. You know, in that moment, that the Bloom will eat of him again and again, reveling in the taste of his undying faith that it will *provide* for him... a faith that is so ill-founded.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>And everywhere, you see and hear the Memovira... flashes of her early days, gathering followers to overthrow the old Memovira while publicly pledging her loyalty to him... her rebellion against him, as she slaughtered his people and dragged him down to the Heart, binding him so that the tongues could feed upon him, slowly... and all the years of her ruthless rule.
+
+In all that time, she has never changed. Her face is the same now as it was when the Bloom first 'saw' her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>Drift even deeper into the Bloom's memories.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>Refocus on the Heart instead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>You slip away from the gibbering voices of the Bloom, rising up from the depths of its consciousness, returning your attention to the Heart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>All around you, whispers and chitters yield to more alien sounds - clicks and gurgles and dissonant tones. The memories change with them. 
+
+Monsters stalk the corridors of the Bloom - gelatinous hulks with flickering letters and numbers writhing beneath their skin... multi-limbed machines with legs that skitter through a hundred dimensions at once... godlings formed from city-killing detonations, with voices of fire and smoke and screams.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>Flashing before your eyes are all the worlds the Bloom has seen, in their hundreds of thousands. You can sense the city-creature crawling across time and dimensions since the universe was young... perhaps longer... its voices changing, its flesh adapting, its senses changing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>Your mind begins to *hurt*, barely able to comprehend the sensory impressions that are contained within the most distant memories. Fighting the urge to scream, you disengage at last, allowing yourself to drift slowly back to the 'surface' of the Bloom's mind. 
+
+And yet... even with that brief exposure, your senses have broadened, and you are better able to comprehend the impossible. Not even your sire dared to gaze so deep into an alien mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>You try to drift unnoticed amongst the Bloom-voices, but your mind is too noisy, too undisciplined, and you catch their attention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>Unlike the heart of a normal creature, which pumps blood through the body, the Bloom's heart *draws* fluid to itself. These fluids are thoughts and memories - no doubt stolen from victims of the Bloom - rendered into physical form. They feed the innumerable intelligences that coalesce here, knitting them closer together, strengthening the greater intellect of the Bloom. Deprived of these fluids, you suspect that the Heart would be weakened considerably.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>Contemplating the Bloom's intelligence as a whole, you have an impression of a mind that is always shifting, never constant, giving birth to countless fragments of itself even as it devours others. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>Floating unnoticed among the Bloom's innumerable voices, you allow yourself to drift deeper into its mind. It is fortunate that you observed the voices and contemplated their patterns before you attempted this - now that you know what they are, it's easier to understand them.
+
+As the voices whisper amongst themselves, you begin to see brief images, to hear sounds, and feel *hunger* or *satiation*. These are the Bloom's memories of its past.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>Taking great care to avoid detection, you slip your thoughts into the tubes and arteries, assuming control of them. You already know that these fluids feed the intelligences that coalesce here, and if you chose to contract all the arteries at once, you would deprive the whole Heart of energy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>"You're wasting your time," murmurs Matkina. "The Bloom doesn't *speak*, it only *thinks* and *feels* and *hungers*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>The Bloom-voices tear apart the false memories you offer, examining them, finding nothing they want, and casting them aside. Their chittering grows louder, angrier. This time, illusions won't satisfy their hunger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>"Why did you want *that* memory?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>The voices softly hiss and groan, all of them together. Briefly, an image of Maralel, the First Castoff, appears in your mind's eye, raising the mask to her face. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>The Bloom-voices scatter your thoughts, burrowing deep into your hidden memories. Moments from the Changing God's past flash across your mind's eye, too quick to comprehend.
+
+Finally, a memory surfaces...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>You hear the Bloom-voices in the *calm* at the core of your being, chittering to one another, seeking something they can't seem to find. The voices grow sharper, angrier... hungry.
+
+A sense of desperation strikes you. If the voices can't be sated, they'll start devouring you from within.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>You quiet your thoughts and wait. For some time, the Bloom-voices chitter amongst themselves, beyond the bounds of your consciousness. Then, ever so slowly, they begin to drift into your mind, probing, looking for something...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>Try to feed false memories of Maralel to the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>You summon the Tidal energies within you, shaping them into imagined interactions between your sire and Maralel, letting them play out in your mind's eye. It's easy enough to incorporate elements of what you know about the Changing God and the First Castoff, mixing them together with stories you've heard from others. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>You summon the Tidal energies as you did before. This time, you shape them into imagined interactions between your sire and Maralel, the First Castoff.
+
+The Bloom-voices tear apart the false memories you offer, finding nothing they want, casting them aside. They recognize your illusions for what they are.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>Fortunately, your mastery of the Tides is near absolute, and the Bloom-voices can't resist the illusory feast you place before them. They devour the 'memories' as quickly as you can conceive them, gorging themselves on falsehoods and lies. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>You summon the Tidal energies within you, shaping them into imagined interactions between your sire and Maralel, letting them play out in your mind's eye. At first, the Bloom seems to accept them, gorging itself on falsehoods and lies...
+
+Then the Bloom-voices shriek in anger. Your mastery of the Tides is imperfect, and it has recognized your illusions for what they are.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>The voices pour into your head, enraged, tearing through your *real* memories. Scenes play out before your eyes... your sire meeting Maralel for the first time since he cast off her body, your sire and Maralel as they recline upon the grasses of Miel Avest, talking and debating into the night... your sire facing Maralel across the field of the Endless Battle, screaming at his soldiers to *catch* her, *kill* her. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>You summon the Tidal energies within you, shaping them into imagined scenes from your sire's life. At first, the Bloom seems to accept them, gorging itself on falsehoods and lies...
+
+Then the Bloom-voices shriek in anger. Your mastery of the Tides is imperfect, and it has recognized your illusions for what they are.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>The voices dive deep into your *real* memories, tearing them apart, examining them, taking the measure of your mind. You've never been able to plumb the depths of your sire's memory before, and you realize that he has stored so *much* of his life here, carefully ordered like a vast library. 
+
+As the Bloom sifts through the recollections, it devours what it likes. You witness moments in the Changing God's life as they flare into your consciousness for a few moments, only to be chewed up by the Bloom-voices and consumed, lost forever.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>The Heart shows no further interest in you. Its tongues wave lazily in the air, heedless of your presence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>The tongues embrace you, eager as lovers. Bloom-whispers chitter expectantly, awaiting your command.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>The Bloom's voices hiss at you with hatred, but its tongues avoid you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>The Bloom-tongues reach for Matkina, eager as lovers. She smirks but takes a step back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>You see an isolated pocket of flesh, a cyst filled with thick, black juices, in which a vague human figure floats. The cyst is wrapped carefully in fleshy tendrils and knotted muscles, watched closely by tiny, chittering minds that were spawned for exactly this purpose.
+
+Then the image evaporates, and Bloom-voices are slipping into your head, pushing deep into the buried memories of your sire, looking for something.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>The Bloom-voices hiss, all at once, and the Memovira is swept aside, replaced by an image of... you. Standing in the Memovira's fortress, you wear fine clothes, and the people of the Bloom gather around, treating you with deference, hanging on your every word.
+
+After a few moments, the Bloom-voices fall silent, and the image of you is gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>"Do you know where I can find the First Castoff?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>Your speech elicits a series of weird, disconnected images that project themselves in your mind's eye... an invitation, you sense, for you to respond in the same way. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>The memory fades, and the Bloom-voices hiss expectantly. You realize that you *know* this moment... or at least your sire did. You could remember it clearly if you chose...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>Observe the memory from the Changing God's perspective.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>Force the Bloom to show the rest of the memory from Maralel's perspective.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>Cautiously, Maralel places the mask over her face. Once, she trusted her sire completely. Now, she is not so sure.
+
+The mask sinks into her flesh. Terror flashes through her mind. *What has he done to me?*
+
+The Changing God smiles, holding up a looking glass. Maralel gasps. Her face has become that of a lovely young woman. Relief bubbles out of her, unbidden, as a laugh. Even as it does, she can see that her sire mistakes it for genuine joy. He doesn't even know how he frightens her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>"You can change your face at will," he says. "Try it."
+
+Maralel nods, watching the looking glass carefully as her face morphs into that of an old woman... then a homely beggar-lady... then a varjellen... and a dozen more.
+ 
+The last face you see is dark-haired, regal in bearing. It is the face of the Memovira.
+
+Accompanied by a distinct sense of *hunger* from the Bloom, the memory fades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>You hear a sharp intake of breath from Matkina. Somehow the Bloom was showing the memory to her too.
+
+"Right under my nose," she whispers. "I had her right in front of me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>Moments from the Changing God's past flash across your mind's eye, too quick to comprehend. Then a memory surfaces...
+
+You stand with a woman upon a circle of gold, the sky clear and blue above you. *Miel Avest.* The woman is well known to you - the same woman who helped you choose this spot years before, the same woman who built this enclave with you, together. 
+
+Her face has changed, ravaged by time. The flesh is rotting away, exposing the glistening muscles beneath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>She turns away from you, as if to hide her ugliness. "Not even your handiwork is proof against time."
+
+"No, Maralel," you say. "I have no way of... fixing you... but you need not live in shame."
+
+You present her with a mask, its expression enigmatic, decorated with intricate patterns of gold. 
+
+"A pretty thing," she says, unable to hide the bitterness in her voice. "I can just as well wrap my face in bandages, or cover my head with a sack."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>"Put it on." Your voice is insistent. There is something *more* to the mask. She hears it in your voice, and she raises your gift to her face. 
+
+In that moment, Maralel's identity is unmistakable - she is the woman you know as the First Castoff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>"Why are you showing me this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>Let the memory continue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>Maralel places the mask over her face. At once, it seems to meld with her flesh, and her face becomes that of a lovely young woman. 
+
+Her eyes widen, knowing that something has changed, and you hold up a looking glass for her to see. She laughs aloud - a sound you haven't heard from her in years.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>"You can change your face at will," you say to her. "Try it."
+
+Maralel nods, watching the looking glass carefully as her face morphs into that of an old woman... then a homely beggar-lady... then a varjellen... and a dozen more. 
+
+The last face you see is dark-haired, regal in bearing. It is the face of the Memovira.
+
+Accompanied by a distinct sense of *hunger* from the Bloom, the memory fades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>Bloom-voices chitter softly but insistently. You sense *hunger* from them, but also a sense of... warning, perhaps. Images of the Changing God, the First Castoff, and the Memovira flash before your eyes. Somehow, they're all tied together.
+
+The memory continues...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>You delve into your hidden memories, seeking the moment the Bloom has just showed you. To your surprise, the Bloom-voices are beside you, helping you focus, pushing aside *similar* memories that distract you. 
+
+At last, the memory surfaces. It isn't exactly as Maralel remembered. The details are different, like the color of her robe and sky above - clear and blue in your sire's recollection.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>Maralel holds the mask you gave her. "Put it on," you hear yourself say, and she places the mask over her face. At once, it seems to meld with her flesh, and her face becomes that of a lovely young woman. 
+
+Her eyes widen, knowing that something has changed, and you hold up a looking glass for her to see. She laughs aloud - a sound you haven't heard from her in years.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>"You can change your face at will," you say to her. "Try it."
+
+Maralel nods, watching the looking glass carefully as her face morphs into that of an old woman... then a homely beggar-lady... then a varjellen... and a dozen more.
+ 
+The last face you see is dark-haired, regal in bearing. It is the face of the Memovira.
+
+Accompanied by a distinct sense of *hunger* from the Bloom, the memory fades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>Raising a hand to one of the tongues, you pull gently. It doesn't move.
+
+You command the Bloom-tongues to release you, but still they hold you fast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>*Memovira*, the voices seem to say. It's less of a word than a state of being, a oneness with the Bloom. 
+
+Maralel, the old Memovira, has been cast aside, and soon the Bloom will feast on her. It seeks a new bonding to replace the old. Its voices will become a part of you, and your voice will join the great multitude in the Bloom's mind... each of you a sort of virus in the brain of the other. 
+
+*Memovira*. The voices whisper softly, soothingly. They press even closer, eager and expectant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>The fat, tentacled mass heaves itself into the darkness and is gone, but you can hear it gibbering softly at the edge of your thoughts... as you *always* will.
+
+All the remaining Bloom-voices surge out of the depths and gather around you again, chittering reverently, waiting to be dismissed. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>"Wait. I want to see all your memories of the First Castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>"I expect your help against the First Castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>"So the Bloom is mine to command now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>"Go away. Leave me in peace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>A scene takes shape in your mind's eye.
+
+Two figures huddle in the corner of dark, fleshy chamber, having tumbled through a Maw. One is the First, her mask off, her disfigurement revealed. The other is Mazzof, his eyes wide and spooked. 
+
+"The Sorrow can't touch us here," she speaks to him softly, as one would to a frightened beast. "We stay for as long as we must."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>The First Castoff dons her mask, and her face becomes a beautiful woman, then a crone, then the dark-haired, regal woman you recognize as the Memovira. 
+
+She puts a hand on Mazzof's shoulder. "No one knows us here. We start again, together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>Now you see flashes of her early days in the Bloom, gathering followers to overthrow the old Memovira while publicly pledging her loyalty to him... her rebellion against him, as she slaughtered his people and dragged him down to the Heart, binding him so that the tongues could feed upon him, slowly. You see her stand before the Heart, just as you did, and accept it into her mind to become the new Memovira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>As ruler of the Bloom, you see the First gathering other castoffs to her in secret, shepherding them through Maws, granting them positions within her new militia. It is Miel Avest all over again, another sanctuary that is safe from the Sorrow, but without the Changing God. Maralel never ceases her plots against him... until the Bloom stops heeding her commands and grows *hungry* for her flesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>Your words echo back to you, again and again, shifting slightly each time, achieving a *will* of their own. They join the swarm of Bloom-voices. 
+
+The whole multitude of them chitter and hiss. They are *eager* for the battle to come. The Bloom *hungers* for its former Memovira.
+
+After a few moments, the voices retreat back into the Bloom... but now, you can distinctly hear your own voice amongst them, whispering in the darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>Your words echo back to you, again and again, shifting slightly each time, achieving a *will* of their own. They join the swarm of Bloom-voices. 
+
+The whole multitude of them chitter reassuringly. *Memovira*. Now the word is a promise of favor as well. After a few moments, they retreat back into the Bloom... but now, you can distinctly hear your own voice amongst the others, whispering in the darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>Your words echo back to you, again and again, shifting slightly each time, achieving a *will* of their own. They join the swarm of Bloom-voices. Obediently, the whole multitude of them retreat back into the Bloom... only now, you can distinctly hear your own voice amongst the others, whispering in the darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>The Bloom-tongues slide painlessly out of your body, setting you free. 
+
+In the depths of your mind, you hear a wet *sigh* from the heaving mass of flesh. Now that the Bloom is a part of your mind, you can summon its Maws to fight your enemies, open its portals at a touch... but you will never be free of its voices again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>Try to pull the tongues out of your body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>You grab one of the fat, wriggling Bloom-tongues and *pull* with all your might. White-hot pain blossoms at the point where the tongue has burrowed into you, so intense that you nearly pass out. 
+
+The tongues are melded to your flesh - you'll have to find another way to escape them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>Tear one of the Bloom-tongues in half.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>Grabbing a Bloom-tongue with both hands, you wrench it apart. Fetid juices pour from both ends. The part of the tongue that was melded to your body slides painlessly out and falls to the ground, curling up like a dead arachnid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>You grab a Bloom-tongue and try to wrench it apart, but the flesh is too thick and strong.
+
+A few Bloom-voices cry out in alarm, and the remaining tongues wrap themselves tight around your limbs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>The Heart jerks from side to side, and Bloom-voices scream in hatred and rage and betrayal. A moment later, they're gone from your mind. The remaining tongues withdraw from your body, and you're free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>468</ID>
+      <DefaultText>The Heart jerks from side to side, and Bloom-voices scream in hatred and rage.
+
+"No!" shouts Matkina. "If *he* won't accept this gift, then *I* do, and gladly!"</DefaultText>
+      <FemaleText>The Heart jerks from side to side, and Bloom-voices scream in hatred and rage.
+
+"No!" shouts Matkina. "If *she* won't accept this gift, then *I* do, and gladly!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>Shrieking with rage, the Bloom-voices flood into your mind, plunging deep into its darkest recesses. There they chitter and click, weaving the sounds into *thought*, giving it life and form. A corpulent mass of flesh takes shape, bloated and scabrous, a fragment of the Bloom's own consciousness. New Bloom-voices are birthed within, squealing like newborn beasts. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>Slash the Bloom-tongues with the Transdimensional Scalpel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>The Scalpel cuts one of the tongues in half. Fetid brown juices spray from both ends. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>You try to slash at one of the Bloom-tongues, but  it twitches out of the way. 
+
+A few Bloom-voices cry out in alarm, and the remaining tongues wrap themselves tight around your limbs. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>Resist the Bloom-voices and keep them out of your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>You close your eyes, focusing on creating a *wall* that the Bloom cannot breach. The voices sense what you're doing, and they try to push through your defenses, hissing in frustration, but you drive them back, again and again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>You try to create a *wall* around your mind that the Bloom cannot breach, but the voices cut through your defenses, attacking in a hundred places at once.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>You grip the Magmatic Annulet and close your eyes, focusing on creating a *wall* that the Bloom cannot breach. The voices sense what you're doing, and they try to push through your defenses, hissing in frustration, but you drive them back, again and again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText>At last they withdraw, shrieking at you in hatred and rage and betrayal. A moment later, they're gone from your mind. The remaining tongues withdraw from your body, and you're free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText>At last they withdraw, shrieking at you in hatred and rage and betrayal. 
+
+"No!" shouts Matkina. "If *he* won't accept this gift, then *I* do, and gladly!"</DefaultText>
+      <FemaleText>At last they withdraw, shrieking at you in hatred and rage and betrayal. 
+
+"No!" shouts Matkina. "If *she* won't accept this gift, then *I* do, and gladly!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>"Matkina, stop! It only wants to use you!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>Let her do as she likes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>She grits her teeth, eyes flashing. "I don't care. I'm going to *take* what was hers - what she took from me and mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>Bloom-voices retreat from you in a horde, sweeping into Matkina's mind. Her body convulses, and she vomits explosively, splattering the throbbing arteries of the Heart. 
+
+Long moments pass. Then a smile spreads across her face.
+ 
+"It's done," she whispers. "It's *mine.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>Matkina raises a hand, and the Bloom-tongues obediently withdraw from your bodies. 
+
+"We're safe now. The Bloom won't trouble you anymore." Her voice is firmer, more confident than she's ever sounded before. "Let's collect Mazzof and go. I want to feed his mistress to the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>Step away from the Heart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>"I want to see all your memories of the First Castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>"I want to see your memories of the First Castoff again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>A scene takes shape in your mind's eye.
+
+Two figures huddle in the corner of dark, fleshy chamber, having tumbled through a Maw. One is the First, her mask off, her disfigurement revealed. The other is Mazzof, his eyes wide and spooked. 
+
+"The Sorrow can't touch us here," she speaks to him softly, as one would to a frightened beast. "We stay for as long as we must."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>The First Castoff dons her mask, and her face becomes a beautiful woman, then a crone, then the dark-haired, regal woman you recognize as the Memovira. 
+
+She puts a hand on Mazzof's shoulder. "No one knows us here. We start again, together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText>Now you see flashes of her early days in the Bloom, gathering followers to overthrow the old Memovira while publicly pledging her loyalty to him... her rebellion against him, as she slaughtered his people and dragged him down to the Heart, binding him so that the tongues could feed upon him, slowly. You see her stand before the Heart, just as you did, and accept it into her mind to become the new Memovira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText>As ruler of the Bloom, you see the First gathering other castoffs to her in secret, shepherding them through Maws, granting them positions within her new militia. It is Miel Avest all over again, another sanctuary that is safe from the Sorrow, but without the Changing God. Maralel never ceases her plots against him... until the Bloom stops heeding her commands and grows *hungry* for her flesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>"You *scorned* that thing, and I don't think it's done with us yet," mutters Matkina. "I know a promise of *revenge* when I hear it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText>The Bloom-voices find no thoughts or memories that they desire. You'll have to find some other way to satisfy their hunger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText>The Bloom-voices find no thoughts or memories that they desire. You'll have to find some other way to satisfy their hunger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+      <DefaultText>Offer a companion's mind instead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText>The Bloom-voices find no thoughts or memories that they desire. You'll have to find some other way to satisfy their hunger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText>You focus your attention on Rhin, trying to draw the attention of the Bloom-voices to her. Through your shared connection with the Bloom's Heart, you can sense her sudden terror... she *trusted* you to protect her, and you're *feeding* her to this monster. 
+
+The voices have caught her scent, and they flood out of your mind and into hers...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText>Her screams cut through your mind, as do images of her home. A village called Baranth, surrounded by trees greener than anything you've ever seen.
+
+You see a younger Rhin playing a game of some kind with a trio of girls. Rhin is by far the fastest and gangliest of the group. She outruns them, snatches the ball, only to be knocked down by an older girl.
+
+The older girl cheers, then helps Rhin to her feet, both smiling and laughing.
+
+The vision burns away like ash.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText>You try to call out to Mazzof, but you can't find the words. Fragments of memories drift in and out of your consciousness as the Bloom digests them...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText>Then she retreats to her Fortress, out of the Bloom's sight, and its memories of her end. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>505</ID>
+      <DefaultText>"Put it on," he insists. Of course, she realizes, there is something *more* to this gift. She raises it to her face...
+
+In that moment, Maralel's identity is unmistakable - she is the woman you know as the First Castoff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>506</ID>
+      <DefaultText>Then she retreats to her Fortress, out of the Bloom's sight, and its memories of her end. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>508</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>Rhin wails, holding her head in her hands as another vision appears.
+
+She sits in front of a warm hearth, a kindly woman with a face like hers sews a piece of leather, showing her how to work the heavy needle. A stern but smiling man watches them, then laughs at something you can't hear.
+
+But Rhin can hear it. Tears fall from her face at his words. Then she shrieks as the Bloom burns that memory too.
+
+She breathes heavily, her eyes slightly glazed. "Their names... what were their names?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>511</ID>
+      <DefaultText>"Put it on." Your voice is insistent. There is something *more* to the mask. She hears it in your voice, and she raises your gift to her face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>She wavers, and the agony of indecision is writ plain on her face. At last she shrieks, a primal, animal sound, the cords standing out on her neck.
+
+"I believe in you," she hisses. "I *trust* you. This is my chance - my one shot - and I'm giving it up. For *you*. You'd better be worth it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText>The Heart jerks from side to side, and Bloom-voices scream in hatred and rage. The whispers shift toward Matkina, a susurrus rising like a question. She listens intently.
+
+"I could take the Bloom from her," Matkina whispers. "It *wants* me to... Gods! What could I *do* with this power?" She puts her knuckle in her mouth and bites down hard enough to draw blood.
+
+"I won't. I *won't*. We have a better way. You and me, we're in this *together*." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>514</ID>
+      <DefaultText>The Bloom-voices fall silent. The remaining tongues withdraw from your body, and you're free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText>You see his idealism dying, dead. He goes through the motions of life, clinging to the last bitter branch in the river of disappointment that his life has become...
+
+The memories come like a torrent, a flickering welter of hopes and dreams, fears and nightmares, drawing out his experiences and deadening his mind. Vital connections disappear, lost forever in the Bloom's insatiable hunger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText>His first kiss is honey and ale. He loves freely and quickly, and his heart breaks endlessly until he hardens it. He almost understands that he's part of the cycle of pain and heartbreak - almost. And one day he meets Auvigne.
+
+His memories flutter past your mind's eye, a summary of Tybir's personality and dreams. Key experiences vanish and vital connections disappear, lost forever in the Bloom's insatiable hunger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText>... and you pierce the glow, and your Erritis is here, plainer of face and duller of mind, and he pushes you away and points, and you're back in the glow...
+
+... and you see the not-Erritises falling, pierced by javelins, impaled on a great thorn tree, devoured by beasts, vented into space, torn apart by a coruscation of energies...
+
+... and the glow finds another host, another, and another...
+
+Vital connections disappear in Erritis's mind, lost forever in the Bloom's insatiable hunger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText>More memories flicker past - her first kill, the rush of blood and adrenaline... her first lover, a clumsy boy who finished before she had even started... the countless sneers and japes at her white skin... so many reminders of her *otherness* when all she wanted was to *belong*...
+
+The Bloom draws out her experiences and grows stronger for them. Vital experiences disappear, lost forever in the Bloom's insatiable hunger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>520</ID>
+      <DefaultText>You skim through her adult years like images on a holographic projector. Her first dissection, her first vivisection, the endless striving against the expectations of her family, the proof that she could break free from their desires. You see her turn into herself, against herself, trying to *be* herself...
+
+The flood of history slows. Callistege's mind has been subtly but irreparably diminished, her vital experiences sapped of immediacy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>522</ID>
+      <DefaultText>She smiles and bobs her head slightly. The First speaks to her, praising her scouting abilities. Hungry Bloom-tongues lap up this happiness, erasing it from Matkina's mind.
+
+The First offers Matkina a new task - a specialist, working with another castoff named Tash. Matkina and Tash work well together, their talents complementing and enhancing the other's. But Matkina doesn't quite trust him...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>523</ID>
+      <DefaultText>[DEBUG] Bond with the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>524</ID>
+      <DefaultText>[DEBUG] Have Matkina bond with the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>525</ID>
+      <DefaultText>You recognize the man at once - it's Mazzof, the castoff artificer you met in Zerian Daywalker's Mere. Your first thought is that the Bloom has somehow tricked you, released the wrong man, but no... the Bloom's voices are insistent. 'Ishen' is Mazzof. The First Castoff concealed the truth from you to avoid arousing your suspicion.
+
+For the moment, Mazzof is recovering from his ordeal, barely aware of his surroundings. He hasn't even seen you yet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>526</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>527</ID>
+      <DefaultText>Disengage from the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>528</ID>
+      <DefaultText>Try to disengage from the Bloom again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>529</ID>
+      <DefaultText>You sense the remains of a transdimensional rift in the cyst - probably the same rift that the Bloom used to capture Ishen in the first place. It should be possible to reopen the rift and set him free, but the Bloom will *know* when you do.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText>You *whisper* softly to the rift, and it begins to take shape. Ishen stirs... and the knotted muscles that surround his cyst tremble with alarm. 
+
+The Heart is slow to respond, thanks to your limited control of its functions. But as the rift is about to open, thousands of chittering voices hiss in rage. They rock the cyst to and fro, causing the rift to unravel again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>531</ID>
+      <DefaultText>The Heart offers no explanation as to why it showed you this memory, but the implication is clear - the Memovira is merely a disguise, a mask that conceals the First Castoff. She has been alive, hiding behind a false identity, for years.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText>You recognize the man at once - it's Mazzof, the castoff artificer you met in Zerian Daywalker's Mere. Your first thought is that the Bloom has somehow released the wrong man, but no... the Memovira deceived you. 'Ishen' is Mazzof. 
+
+For the moment, Mazzof is recovering from his ordeal, barely aware of his surroundings. He hasn't even seen you yet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText>Try to reassure Mazzof.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>534</ID>
+      <DefaultText>Stay focused on the Heart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>535</ID>
+      <DefaultText>You open your mouth, but no words come out. The Bloom-voices make a final, violent foray into the depths of your mind, and a memory surfaces...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText>The Bloom-tongues are still stubbornly attached to your body. The Bloom-voices make a final, violent foray into the depths of your mind, and a memory surfaces...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>[DEBUG] Exit this conversation with the tongues still hugging the party.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>538</ID>
+      <DefaultText>Ignoring the Bloom's request, you again form an image of the abducted scholar in your mind's eye.
+
+The Bloom-voices chitter and click, sounding close, gathered around you like a pack of beasts. You sense *hunger* from them. They know what you desire, and they *want* something in return.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>539</ID>
+      <DefaultText>You recognize the man at once - it's Mazzof, the castoff artificer you met in Zerian Daywalker's Mere. Your first thought is that the Bloom has somehow released the wrong man, but no... the Memovira deceived you. 'Ishen' is Mazzof. 
+
+For the moment, Mazzof is recovering from his ordeal, barely aware of his surroundings. He hasn't even seen you yet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>540</ID>
+      <DefaultText>Suddenly it's over. You hear a sudden burst of whispers all around you, and the air in the chamber ripples. At once, a transdimensional rift tears itself into being, and a human figure topples out, dripping black juices, coughing and gagging, vomiting on the floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>541</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>542</ID>
+      <DefaultText>Disengage from the Bloom-tongues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>543</ID>
+      <DefaultText>You tug at the Bloom-tongues that are melded to your body, but they remain firmly attached. The Bloom-voices make a final, violent foray into the depths of your mind, and a memory surfaces...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>544</ID>
+      <DefaultText>Script Node 544</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>545</ID>
+      <DefaultText>Script Node 545</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>547</ID>
+      <DefaultText>[DEBUG] Skip to Mazzof appearing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>548</ID>
+      <DefaultText>You focus your mind on Oom, drawing the Bloom-voices to it. You feel nothing through your mental link to the creature but a sad resignation. 
+
+And when the voices flood into Oom's mind, you understand why. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>549</ID>
+      <DefaultText>The Bloom's insatiable hunger careens through Oom's mind, but Oom's mind is in *yours*. 
+
+The Bloom-voices return to your mind, impatient and ravenous. Devouring your sire's memories before you even have a chance to remember them for the first time. 
+
+Finally, they recede, leaving you exhausted and *diminished.* </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>550</ID>
+      <DefaultText>Betrayal. That is what Oom has come to expect from its countless masters over the long years of its life. You see it trembling in the rubble of a collapsing city. Trapped in the leaking hold of a ship in a watery trench. 
+
+But Oom always survived, even if its masters did not. Worse, Oom mourns them still, because it was made to love. To serve. To *burn* in loyalty's flame.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_waits_for_prey</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>187</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A metal construct stands before you, silent and still. Its armor is pitted and ancient, spiked with metal thorns. Instead of arms, the construct has long killing blades, sharpened to a gleaming edge. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"What are you doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Waiting." The word is hollow and cold. "For those who are strong and feared... for the predators who walk the Bloom. They come here, at times, to challenge me." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"If I prove myself to be a predator above all others, I believe that the Bloom-tongues will catch my scent." The clicks and hisses from inside the construct's armor suddenly go quiet. "I wish to be *devoured* by the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"I haven't met anyone who's been eaten by the Bloom and lived."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Have you not seen those who have passed through the gullet of the Bloom? Every trace of who they were has been stripped from them. They are freed from the trappings of memory and self. Reborn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Killing powerful predators makes you more *appetizing* to the Bloom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"So I believe." The construct is silent for a moment, as if considering. "I have observed the patterns of its hunger over many feeding cycles. Always it is those who prey on others who draw the attention of the Bloom-tongues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"But those wars are finished now, and I have left my names behind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Do you know where I can find any Maws?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Not here." The construct head moves left and right, taking in the courtyard. "Not in this particular cavern of flesh. If a Maw was lurking nearby, I would have sensed its birth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I want to challenge you to combat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The construct's blade-arms suddenly clench, whirring into a new configuration with such speed that your eyes cannot follow. A moment ago they seemed sleek and clinical, like a chiurgeon's well-honed knife - now they are jagged and cruel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Why do you crave rebirth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"How many years have you lived? Only a few, judging by the firmness of your flesh. In that time, what horrors have you witnessed... or perpetrated? Do they slip into your mind in unguarded moments? Perhaps they do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I saw another construct that looks like you. It's in the house of Ioxu, not far from here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"The last of my sibling-comrades, yes. I am aware of its presence in the tinkerer's house." Multicolored lights flash from the construct's head in quick and agitated succession.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"You said you want to be eaten by the Bloom. Well, I found a Maw in the Shrine of Great Chila that will only feed on a consummate predator... and that sounds a lot like you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Can it be?" 
+
+The construct falls silent, its eyeless "face" staring into yours for such a long time that you begin to wonder if it's fallen into slumber. But no... you realize that the creature is watching you carefully, perhaps trying to determine if you are telling the truth. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>The construct is silent for a long moment, as if considering your words. "Even if that was so, and the Bloom hungered for me, why would it not open a Maw and devour me here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Try to deactivate the construct, using your knowledge of its "sibling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>You allow your eyes to rove across the construct's metal armor, on the right side of its chest. Just as you'd hoped, you spy the same opening that you discovered in its brain-dead counterpart. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>As quickly as you can, you lunge for the opening in the construct's armor... but one of the construct's blade-arms darts out with sudden, surgical precision. It slashes open your forearm, and you cry out, jerking your arm away.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>You allow your eyes to rove across the construct's metal armor, on the right side of its chest. Just as you'd hoped, you spy the same opening that you discovered in its brain-dead counterpart. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>As quickly as you can, you lunge for the opening in the construct's armor... but one of the construct's blade-arms darts out with sudden, surgical precision. It slashes open your forearm, and you cry out, jerking your arm away. 
+
+{SCRIPT: Damage the player.}
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>At first, you aren't sure if the thing is still 'alive,' but as you step closer, you can hear faint hisses and whirs from inside its armor. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Fainter still are the tiny metallic clicks from inside the holes in its torso. You suspect that these are slugspitters - or something even worse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>The construct stands in exactly the same place as before. It does not appear to have moved at all. Faint metallic noises from inside its armor suggest that it is still 'alive.'</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Surely you remember some of your names."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Some? I remember *all* my names." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Exanarch Series Fourteen. Gensherro Mark Ten. When I was bodyguard to Vostuleh Lo, he called me his Barber of Flesh and made of me a bogeyman, feared and hated in every nation he conquered."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>The construct says nothing after that, but the hisses and whirs inside its armor make a great deal of noise for what seems a long time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText> Follow-up PQ. 50</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Who are you again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"A soldier... one who has borne many names. But none of them define me now, so I have left them all behind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>The construct stirs, and a voice emanates from somewhere in its depths. It has a hollow, empty sound, as if it speaks from a vast cavern underground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Walk the innards of this city-monster for long enough, and you will meet them." A series of lights flash in quick succession on one side of the construct's face-plate. "Even now, I can taste the transdimensional footfalls of one such man."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"The greater the predator... the more powerful their victims... the more the Bloom desires them." The construct's voice becomes less hollow, higher-pitched and more grating. "And I have killed many, so *many*..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"I have torn men and beasts asunder, left their bones and entrails to putrefy as an offering to the Bloom- tongues, and still... it will not devour me. Why does it *wait*? I cannot know." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Whatever horrors you have seen, multiply them by a thousand... a hundred thousand... across a vast, grinding millennium of wars. Now imagine that you *cannot* forget... cannot even distract yourself with other memories."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Do you know what *I* remember? Only those things that would make me a better killer. Every severed limb, every gout of heart's blood, every cruel execution before a cheering crowd. All else is lost, for that is how my creators fashioned my brain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"That is why I crave rebirth... and forgetfulness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"I have some other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ask them. I will answer if I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>A series of lights flash beneath the construct's face plate, but it makes no audible reply.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"You may find him in the vast interior space beyond the arterial opening, there." The construct gestures with one bladed arm to its right. "Once he possessed a name that was well-known in this place, before it was stolen by another. Now he walks alone, forgotten... and without fear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I met a man called Walks-without-fear. He was eaten by the Bloom, and he forgot... everything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I met a creature that called itself Jont. The Bloom ate its skin and its memories... but it didn't seem happy." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>The construct inclines its head, and its arm-blades retract in an almost reverent manner, as they might have done for some long-lost king or commander. 
+
+"I have seen him too." The hollow voice is quiet. "I would follow in his path, if the Bloom would let me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Jont? That is not a name I have ever heard. No doubt this creature was no predator, only a hapless animal that was chewed by a Maw and vomited out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>The construct moves its head from side to side. Tiny lights of a dozen different colors, some of which you can barely perceive, flash from inside its helmet. Simultaneously, you hear a variety of clicks and tones, and for an instant you feel a prickling sensation that runs up and down your body.
+
+You sense that you are being viewed - or *examined*, perhaps - in a multitude of ways.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>At last, the construct speaks. "I killed you. How is it that you live again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I'm a castoff of the Changing God. I never stay dead for long."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"I don't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"That's none of your concern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"The Changing God," the hollow voice intones, as if recalling the name from some deep void. 
+
+"Your sire walked this place before you. The bonds he forged with the Bloom are not the sort that are easily broken. You carry his scent upon you, castoff, and the Bloom *will* remember."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Or choose not to tell." A series of clicks bursts from inside the helmet, like the rattle of bone dice. You aren't sure if they indicate irritation, amusement, or something else entirely. "No matter. I do not count curiosity among my stronger impulses. It is enough to know that you are not so easily slain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"No," the construct inclines its head. "It is not. But *every* creature can be slain, and you are no exception. To judge by the hunted look in your eyes, I believe that Death stalks you even now, though perhaps you know it by a different name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Yes," it says at last. "I believe you. Allow me a moment to prepare."
+
+You hear a grinding noise from inside the construct's armor, so loud and grating that passers-by turn to look in fear and then hurry along on their business. Suddenly there is a loud crack, like the snapping of a spinal cord.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>In the next moment, you realize that's exactly what it was. The construct's head is teetering at the top of its body, wobbling freely, and its limbs have gone limp. 
+
+Its voice, far less resonant than before, issues from inside the head. "I have no further use for this body. If I am to leave the soldier's path behind me, the Bloom will provide another, better suited to my new life. I am ready now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>You reach up and grasp the head. On close inspection, it appears to be made of metal and ivory, fused or grown together by some unknown means, yet it is surprisingly light.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"You tempt me with a prize that I desire above all else, but when the Bloom is ready to take me to its Heart, it will come for me. I will not be served on a platter by *human* hands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>You force yourself to recall the strange, wet and throaty syllables that you heard when examining the other construct, playing them over and over again to be sure you've got them right. You edge a little closer to construct, trying not to arouse its suspicion...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Then, as quickly as you can, you lunge for the opening in the construct's armor...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>...and slip your hand into the little access port, impaling it upon the sharp spine within while frantically repeating the alien syllables in your mind. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"HOW DARE-" the droning voice exclaims, but it instantly cuts off. The blade-arms fall limply to the construct's sides, and the humming and whirring sounds from inside its armor go silent. You hear a hissing sound and a snap, and the construct topples to the ground, its head disengaging from its body. 
+
+{SOUND: I put the effect already made for removing Waits-for-prey's head here, but since this happens a little differently than the other nodes, should it have different audio? -JF}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>You reach down and pick up the head. On close inspection, it appears to be made of metal and ivory, fused or grown together by some unknown means, yet it is surprisingly light. A few lights flicker from within, suggesting that the construct's consciousness is still alive inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Had I chosen to sever your limb, you could not have stopped me," the construct hisses. "Do not attempt that again. I will be watching."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Then, as quickly as you can, you lunge for the opening in the construct's armor...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>...and slip your hand into the little access port, impaling it upon the sharp spine within while frantically repeating the alien syllables in your mind. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>You force yourself to recall the strange, wet and throaty syllables that you heard when examining the other construct, playing them over and over again to be sure you've got them right. You edge a little closer to construct, trying not to arouse its suspicion...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>The construct doesn't even have time to cry out. The blade-arms fall limply to its sides, and the humming and whirring sounds from inside its armor go silent. You hear a hissing sound and then a series of snaps as the construct topples to the ground. Its head and limbs disengage from the torso, and a battered device is ejected from one of the holes in its chest. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>You reach down and pick up the head. On close inspection, it appears to be made of metal and ivory, fused or grown together by some unknown means, yet it is surprisingly light. A few lights flicker from within, suggesting that the construct's consciousness is still alive inside.
+
+You also pick up the device that fell from its chest, which appears to be a very ancient slugspitter. 
+
+{SCRIPT: Kill Waits-for-prey when this node exits and give player its head. Also give player a damaged or reparable slugspitted.}
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"You knew precisely where to strike. How can that be? Unless..." The construct pauses. "Unless you were *tampering* with the dead shell of my sibling." 
+
+{COLIN:  This might need to be re-written since WfP's sibling is no longer just a "dead shell".}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Its blade-arms spin into a new configuration, jagged and cruel, and you hear a series of ominous clicks from the holes in its torso. "This is an insult I will *not* let pass."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"We came to this place together, two brothers-in-arms seeking *respite* from the unrelenting memories that tormented us both. But he chose a different path from mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"A different path?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"The tinkerer put his hands in my sibling-comrade's brain, pulled the memories out, and with them the mind and the thoughts and the *means* to think. Now my brother-in-arms is a gutted shell, a scare-crow, standing in the tinkerer's house to frighten off the raven-men. Thus has he found *peace*." The last word is barely a hiss, filled with contempt. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Is that so different from what you seek?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"It *is*." The resonant voice is strong and certain. "I seek to forget my past and start again. In that possibility, no matter how remote, there is hope... to leave behind this warrior's life that my makers chose for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"For my brother-in-arms... there is no hope at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Why would you ask this?" Its voice is suddenly different, higher-pitched and grating, like the scrape of a hacksaw across a rough metal surface. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"After so many others have failed, I want to be known as the one who finally defeated you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Because you're a killer. And as long as you're here, you're going to keep killing for your own selfish ends."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"To test myself. Isn't that enough?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"I don't need to tell you why."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Arrogant..." A hiss of air escapes from the construct's head, as if in frustration. 
+
+"It is the way of your kind to throw away your lives in pursuit of renown, when renown is merely a bid for immortality that you will never actually enjoy. You excel at self-deception, if nothing else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"I only kill those who prey upon others of their kind. If you were so concerned with saving lives, you would not hinder me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Ahh." The construct inclines its head. "Such motives are known to me, as they were to all my sibling-comrades. Our minds were made to crave a challenge... to test ourselves, as you say. Warfare is ever fluid, ever shifting, and a soldier must likewise flow and shift to follow its course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Then you'll fight me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"No. I will not fight you." Faster than your eyes can follow, the blade-arms swing back to their sleek, original shape, and the voice becomes hollow once more. "In the eyes of the Bloom, you are no great predator. No purpose would be served by your death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Leave me to my watch, and do not challenge me again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>The construct's body shifts forward, a high-pitched scraping noise, like talons dragged across smooth rock, emitting from somewhere inside its armored torso. Though the sound is incredibly irritating, you sense that it is the equivalent of an animal drinking in your scent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[Attack] "I don't think you understand. You'll fight me, or you'll die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"As you wish. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText> "A *pointless* gesture," the construct hisses. "And now your dying scream will haunt my memory with all the rest." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Ahh. You are more a predator than I thought." The voice is even higher in pitch now, and it speaks faster, with a *yearning* that ill befits the sterile metal body. "Yes. I will *give* you what you want."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>At once, a bubble of shimmering force surrounds you and the construct, and you feel yourself torn from the material world into a very different place...
+
+{AUDIO: Harsh teleport sound as the construct shifts you into an extra-dimensional space.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"I challenge you to combat. Again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"And I admire your persistence, human, but as I already said, I will not fight you. You are no predator in the eyes of the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"You wish to die again, deathless one? Very well. I will indulge you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"What do you know about Dracogen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"He is a predator of sorts, but subtler than most. I have observed him, as one hunter watches another from afar, but I cannot fathom what he truly wants. What he seems is not *all* that he is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Do you mean that Dracogen isn't all that he seems?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"No." The hollow voice is sharper and somehow more dangerous. "The words I spoke were exactly what I meant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Why don't you challenge Dracogen to combat?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>The construct's head turns in Dracogen's direction. Even though the gray-skinned man is not actually visible from here - obscured as he is by the crashed catena - you sense that the construct's 'eyes' can see him plainly.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>For a long moment, you hear a series of whirring and humming sounds from inside the construct's head, as if the creature is considering your words. Then, at long last, it turns its head back to you. "No. Even I would not dare." The words are firm, with a note of finality.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"He is an elusive species of predator, one whose prey remains unknown to me. What he seems is not *all* that he is." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Remind me what you know about Dracogen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Bank 134</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Who created you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"What are all these bones and armor on the ground?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Detritus of beasts and men. It is all that remains of those who sought to best me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"I do not know, nor have I ever known. They culled all record of themselves from our minds. I only remember those for whom I fought... and there have been many such masters over many long millennia of service."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"For a time, I believe, my siblings and I slept. I do not know for how long. Then we were awakened by new masters, the Tabaht. We fought for them until they were no more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Did you say that Dracogen isn't all that he seems?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"No. I said that what he seems is not all that he is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText> Follow-up PQ. 146</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"What are you doing here again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>The construct stirs, and a voice emanates from somewhere in its depths. It has a hollow, empty sound, as if it speaks from a vast cavern underground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>The construct stirs, and a voice emanates from somewhere in its depths. It has a hollow, empty sound, as if it speaks from a vast cavern underground.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>The construct falls silent again, the echoes of its voice fading gradually away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Waiting for those who are powerful and feared, so that I might challenge and kill them. If I prove myself to be a predator above all others, I believe that the Bloom will devour me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Yes!" Erritis says, hopping from foot to foot. "We do! You are *challenged*!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Umm... is it serious?" Erritis looks back and forth between you and the construct. "All those spikes and blades and... blood-making, flesh-cutting things... and it doesn't *want* to fight?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"What are you doing?" Matkina whispers. "I wouldn't talk to this monster - I've seen it *kill* some powerful people. And some powerful... not-people too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText> Follow-up PQ. 156</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Will you tell me some of your names again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Exanarch Series Fourteen. Gensherro Mark Ten. When I was bodyguard to Vostuleh Lo, he called me his Barber of Flesh and made of me a bogeyman, feared and hated in every nation he conquered."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"You claim to be troubled by the violent things you've seen and done. But you're a killing machine... why should those things bother you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>A long moment passes before the construct speaks. "I have pondered that question for all the years since I awoke in your world... and also during the long aeons of my sleep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"For centuries I felt no such revulsion at the memories of my past. But over time, the horror grew in my mind, and in the minds of all my brethren." The construct pauses again, as if considering its next words. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"I have come to believe that our creators *intended* this. Perhaps they understood the terrors we could visit upon the world, and this was their way of ensuring that we would not endure forever. If our foes did not destroy us... then we would be driven to destroy ourselves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Bank 164</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Tell me again why you want to be reborn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Bank 167</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Who created you again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"You fought for the Tabaht? What do you remember about them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Much. They ruled this land as warlords before the building of Sagus Cliffs. They were slaves to an edifice known as the Underspine, yet they were its masters as well. I do not know where they came from, or who they were before they rose to power, for those things happened before they awakened me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"I remember this, too - they held single combat as the highest virtue, revealing the quality of one's soul. They believed that *we* had powerful souls, my siblings and I, for none of them could defeat us alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"They fought on two-legged beasts, brandishing weapons of another age, unearthed from great hoards beneath the ground. That is also where they found me... and my siblings. They awakened us, spoke the proper words, so we killed on their command."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"What happened to the Tabaht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>The construct's blade-arms twitch convulsively. "A vast explosion buried the Underspine... and their city... and most of my siblings as well. The remaining Tabaht were hunted and slain by those they had ruled and enslaved. And I was left alone, save for a few of my kind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"You knew the Changing God?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"I only spoke to your sire once... or rather, that was the only time he deigned to speak to me. Do not bother asking these other humans about him - this was long ago, beyond the living memory of anyone who dwells here now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"He had a predator's scent about him... stronger than any I have encountered in a human, but different in kind, as if he took no joy in the horrors he wrought. I sought to challenge him, but he eluded me. I do not know why."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"That is *all* I remember of him, though I believe he descended into the depths of the Bloom and... communed with it somehow... for purposes of his own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Bank 184</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Remind me why you won't challenge Dracogen to combat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Killing him would not end the threat that he represents. At least, I do not believe so. But it might spark a vendetta with something greater, and I fear I may lose such a contest." The construct's face plate is impassive, but you feel that it gazes intently at you. "It is *rebirth* that I crave, not death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"I am a soldier. A predator. My names are as numerous as the wars in which I have fought."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Bank 189</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Once again, a bubble of shimmering force surrounds you and the construct, and you feel yourself torn from the material world into a very different place...
+
+{AUDIO: Harsh teleport sound as the construct shifts you into an extra-dimensional space.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Script Node 192</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>::bzzzt::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>::clik clik::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>::whirr::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>[DEBUG] Start a fight with him immediately.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>It answers immediately. "Yes, I believe you. Allow me a moment to prepare."
+
+You hear a grinding noise from inside the construct's armor, so loud and grating that passers-by turn to look in fear and then hurry along on their business. Suddenly there is a loud crack, like the snapping of a spinal cord.
+
+In the next moment, you realize that's exactly what it was. The construct's head is teetering at the top of its body, wobbling freely, and its limbs have gone limp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"No." The construct does not seem to even consider your words. "If the Bloom hungered for me, would it not open a Maw and devour me here? I cannot believe this is true."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Try to deactivate the construct again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>You lunge for the opening in the armor again, but again one of the blade-arms darts out and strikes you. "I *warned* you I would be watching."
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"I do not know. They culled all record of themselves from our minds. I only remember those for whom I fought."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>[Waits-for-prey tells you to prepare to die.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Its voice, far less resonant than before, issues from inside the head. "I have no further use for this body. If I am to leave the soldier's path behind me, the Bloom will provide another, better suited to my new life."
+
+A pair of lights blink pensively on its head. "Though perhaps you have use for it. Here, if you reach beneath my head, you will find a device that will perhaps be useful to you. Consider it my gift."
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>You reach up and grasp the head. On close inspection, it appears to be made of metal and ivory, fused or grown together by some unknown means, yet it is surprisingly light. As you pull it toward you, the body topples over, lifeless.
+
+Reaching inside its body, you also find the device it had told you about and put it in your pack.
+
+{SCRIPT: Give player a power source.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>It looks very similar to the automaton in Ioxu's home, but unlike that construct you can sense a *mind* inside this machine. Though it is a mind so alien that, although you hear it, you cannot understand its thoughts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>You sense a *mind* inside the machine. It is a mind so alien that, although you hear it, you cannot understand its thoughts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"I met a man named Grisseler who was eaten three times. He seemed content, but he hasn't forgotten his past."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"I know this man, and he was not devoured. Not truly. The Bloom only took parts of him... it toys with him for amusement, nothing more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"To escape the horrors that I have witnessed and wrought. To become something more than my creators made me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"I want you to kill me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"This is not the first time I have heard such words from a mortal. Perhaps I represent an easy death, a quick release, for those who desire it. But I must disappoint you, as I did the others. I will *fight* those who I deem a challenge, but I will not *kill* without purpose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Did you say that Dracogen isn't  all that he seems?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"No. I said that what he seems is not all that he is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Script Node 219</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>A few seconds after you remove the head, the body topples over, lifeless.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>[DEBUG] Test Waits-for-prey giving you his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Oom's eyes rove across the ground, then flick up again. 
+
+::frrrt:: it says. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6101_cave_painting</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>44</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Glowing, moving images paint the cliffside. Recognizable forms dance in blocky, stilted motions. Unknown animals mill around human figures, wandering in and out of caves carved into cliffs reminiscent of those in the area.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Figures around the rock wall continue to move. As before, four pictograms dominate the tableau: two warring groups of pentagon-headed forms inside a burning ring, two similar figures arguing inside a circle, a placid but primitive village, and that same village razed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Drag your hand between the image of the arguing people and the burning ring.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Drag your hand between the image of the serene village and the two arguing people inside a circle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Drag your hand between the image of the serene village and the destroyed village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Drag your hand between the image of the burning ring and the serene village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Drag your hand between the image of the burning ring and the destroyed village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Drag your hand between the image of the arguing people and the destroyed village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Bank 14</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Study the glyphs to understand the numenera powering them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Try to learn more about the numenera powering the glyphs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Bank 17</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Perception, anamnesis task to reveal 1st clue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Step away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>The lines between the hamlet and the arguing figures flash and then freeze in place. The first petroglyph freezes while the movement of the second slows greatly. The first set in the sequence seems locked in.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>As your hand touches the second image, the arguing forms on the first glyph lock in place. The warring group slows its jilted movement. You've isolated the second set in the sequence. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>With a final swipe of your hand, the warring bands in the flame freeze, as does the image of the ruined homestead. The third set in the sequence is connected and now the story is told: A quiet village, an argument that brought war, the death of those unworthy of notice by the combatants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>The lines illuminate as you swipe your hand between the images, but fade immediately. This is either an unused combination or not next in the sequence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>The lines illuminate as you swipe your hand between the images, but fade immediately.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>The lines illuminate as you swipe your hand between the images, but fade immediately.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Try again?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Carefully examining each portion of the wall, you are able to discern that some artifact under the surface is making the stone itself become luminscent by passing energy through it. That energy flow is at its highest amplitude in the center, aligning with the link between the pair in the flaming ring and the battling groups. You slide your hand between those two pictograms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Failure]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>The memory of a pastoral, if craggy, village floods your mind. A wondrous artifact was discovered here by your sire and someone close to him, someone like you. But instead of opening new discoveries it created a vicious rift between them.
+
+You drag your hand between the village and the two figures in a circle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The lines illuminate as you swipe your hand between the images, but fade immediately.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Further down the rocky path, the immense stone doors blocking the cave grind open.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The lines illuminate as you swipe your hand between the images, but fade immediately.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>With the door open, the irridescent pictograms have faded.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>The first shows two warring groups of people with pentagonal heads inside a ring of fire. The second shows a man and a woman of the same design arguing inside a circle. The next shows a village: a cave, a hearth, and a small group of round-headed people. The last shows those same people dead and bleeding, the cave crumbled, the hearth extinguished.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Script Node 37</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Figures around the rock wall continue to move, except for the two you've locked in place. Yellow glowing lines connect the image of the serene village and the two pentagonal figures arguing inside the ring.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Figures around the rock wall continue to move, except for the three you've locked in place. Yellow glowing lines connect the image of the serene village to the two pentagonal figures arguing inside the ring and then the image of the warring group in the burning ring. Only one image remains unconnected.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Four images in particular stand out among the rest. They're larger and animate more smoothly; filament thin yellow lines streak between them. Moving your hand near the petroglyphs, those connections between them illuminate. These can be used to link the images, but the proper sequence is a mystery.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Flashes of a pastoral village speck through your mind, but before you see the next step the memory fades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Your eyes light on each corner of the cliff face looking for any clue on how this mechanism works. After a few seconds with no reward, you turn your attention away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Try to remember how this story begins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Bank 48</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Search for the most worn lines to determine which connection is the first in the sequence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Try again to find evidence of which connection is most frequently used.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>You can just make out millimeter-deep tracks eroded in line with the links between the quaint village and the burning ring. Centuries of fingers have left behind oils that slowly wore away at the stone.
+
+You drag your hand between the two images.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>You can't make out any difference in weathering, dust, or other clues to indicate which link is first.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>The remaining petroglyphs simmer with golden energy.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

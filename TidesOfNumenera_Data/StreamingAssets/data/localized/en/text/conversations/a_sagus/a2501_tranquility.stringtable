@@ -1,0 +1,1483 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_tranquility</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>280</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A woman as tall and graceful as a willow steps forward to greet you. She bows, then looks down at you with warm, gold-flecked eyes. 
+
+"Welcome," she says, "to Tranquility's Rest. I am the proprietress, Tranquility. Are you looking for a place to take your ease?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Tranquility bows as you enter. "Welcome back, friend. You have been missed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Ask her about herself.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>She laughs melodiously. "No need for apologies. Given my height, it is a natural question. I am indeed human - a human mutant, and fortunate to live in Sagus Cliffs where that is not a crime. There are very few places in this world where someone like me would even be allowed to clean a hostel, let alone own one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Comment that you feel extremely relaxed around her.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Tranquility says she just has that effect on people. Most people tend to find her voice very soothing.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Your perfume seems to contain some kind of pheromones. Are you manipulating me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>She smiles faintly. "If calming can be said to be manipulating, I suppose I am, but it is nothing more than that. I cannot control minds or influence thoughts. My scent seems to relax people. That - and another trick I learned - convinced me that opening a hostel might lead to success."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"You're using your tone of voice to calm me. Is that something you learned?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>She raises her eyebrows. "Very few people notice that. Well done. I am indeed manipulating my voice. When I opened this place, I wanted to make it the most relaxing hostel in the Ninth World, and I worked to make every aspect of it soothing, even my voice." She smiles mysteriously. "Another talent of mine has been helpful as well." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Could you use your calming abilities to put me into a trance?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>She looks bemused. "No one has ever asked me something like this before, and normally I would refuse for fear of some... complication, and perhaps retaliation for that. But I sense a certain affinity between us, a kindness we share. I don't think any harm will come of it. If you feel it will help you, I will do it."
+
+She reaches out to you. "Now take my hands and close your eyes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>She looks bemused. "No one has ever asked me something like this before, I..." She shakes her head. "As interesting a proposition as it is, I must refuse, for fear of some complication - or retaliation for the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Please. I promise to hold you blameless if anything goes wrong. Aren't you curious to see what will happen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>She hesitates, then nods. "Very well, as long as you are willing to absolve me from blame, I will do it." She reaches out to you. "Now take my hands and close your eyes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>She shakes her head. "I'm afraid it's not possible. This is a place of safety and peace, and I can guarantee neither of those things if we try this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>She laughs. "Very well. Your curiosity has spurred my own. In the name of new experience, we will do this together."
+
+She reaches out to you. "Now take my hands and close your eyes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>A momentary flash of anger breaks through her calm but vanishes again instantly, and she looks at you gravely. "I have spent too long building the reputation of safety and peace this hostel enjoys. I will not risk it for a stranger's whim. Let's change the subject."
+
+{SCRIPT: Player can't try the DT on node 234 again.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Tranquility smiles. "Certainly. Now that we know it is safe and beneficial."
+
+Once again she takes your hands and begins to sing. Almost immediately your head grows heavy and your eyes close...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Pleasant journeys."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I'm looking for a woman named Perseia. She is said to be beautiful and has purple hair. Have you seen her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>She smiles sadly at you. "Perhaps? Many people stay here, and this woman might have been among them, but I don't remember her. I'm sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I found this hair comb in one of your rooms. Do you know who it belonged to?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I'm afraid not. We have many visitors here. It could have been any of them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I found a comb in one of your rooms, and I showed it to Omahdon. He's sure it belonged to Perseia. She's been here, hasn't she?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Omahdon may believe her to be his one true love, but it is obsession, not love, and it has made a monster of him." 
+
+She sighs. "From what Perseia told me, he found her corpse in a sepulchre in the Valley of Dead Heroes, perfectly preserved by ancient science, and fell in love with her beauty. His foolishness might have ended there, except that Omahdon had ancient science of his own, and he used it to wake her from death."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Perseia owes Omahdon her life. Whatever else he's done, that should count for something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Yes. Love can't be won through obligation. It must be given freely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"You truly believe that?" She looks at you again, eyebrow raised. "After hearing how Omahdon has hounded her? You worry me."
+
+She looks you up and down. "What do you intend to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I believe that his love for her is true. He would never hurt Perseia. He wants the best for her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Unasked or not, he still gave her life. Surely he deserves another chance to prove himself in return for that miracle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Tell her it doesn't matter if she agrees with you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>She looks at the floor, weighing your words. "Very well. I believe that you sincerely want to help, so if you vouch for Omahdon, I will take him at his word. I hope I do not come to regret telling you where she is." 
+
+She raises her eyes to yours. "She went back to the Valley of Dead Heroes. He will find her there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>She frowns, then shakes her head. "Perhaps he has the science to help her, but I don't believe he has the will. He's only using this as another excuse to talk to her. I will not tell you where she's gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>She nods. "It is his wrong to fix. And if she finds she loves him for offering to help her, so be it. Very well, Perseia went back to the Valley of Lost Heroes. He will find her there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>She shakes her head. "It's a trick. He makes this offer solely to get close enough to abduct her. I will not allow it. You will never get Perseia's location from me."
+
+{SCRIPT: Cannot try this argument again.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>She thinks about it for a long moment, then sighs. "I have deeply mixed feelings about this, but life is undeniably a gift. I suppose she owes him another chance to prove his love. Very well, Perseia went back to the Valley of Dead Heroes. He will find her there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"And suppose she didn't want a new life? This is not her world nor her time. Why should she be happy here?"
+
+She shakes her head. "No. He deserves nothing. I will not tell you where she is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>She weighs the idea, then shrugs. "As long as it's only that and not another attempt at abduction, I suppose it can't do her any harm to let him prove his love. Very well, Perseia went back to the Valley of Lost Heroes. He will find her there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"And suppose she didn't want a new life? All he has done is given her the nightmarish choice of living in a world and time not her own or ending her life by her own hand."
+
+She shakes her head. "No. He deserves to be punished for this, not rewarded. I will not tell you where she is. Ever."
+
+{SCRIPT: Cannot try this argument again.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>She breathes a sigh of relief. "I'm glad to hear you say that. What do you intend to do now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I need your help to resolve the situation between Omahdon and Perseia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I'd like a room."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Tranquility smiles. "I'm so pleased, and I'm sure you will be most comfortable. The price is [Global: a2501_TranquilityHostelPrice] shins per person."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Give her the money.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"On second thought, I'll rest later. Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Thank you, my friend. Rest well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>She frowns. "What did you wish to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Bank 51</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>The slightest tremor in her normally honey-smooth voice suggests to you that she's lying.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"You said you didn't know Perseia, but I have proof she stayed here."
+
+{SCRIPT: Player found the comb?}
+{SCRIPT: Requires a global value that's set when asking her about the lost love with Deception of Trained or better.}
+{JESSE: Presumably this plays if player has seen node 52 but not node 99.} </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Tranquility nods, embarrassed. "I lied to you, and for that I'm sorry. But perhaps you'll understand if you know all of Perseia's story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>She looks down, embarrassed. "Yes. I lied to both you and Omahdon, and I'm sorry for it. But perhaps you'll understand when I tell you Perseia's story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Omahdon can't be allowed to find Perseia. I want to throw him off her trail."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"An excellent idea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Ask her if she can bamboozle Omahdon with her powers if you send him her way.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Tranquility automatically agrees, and tells you she'll be ready if you can get Omahdon to approach her. Until then, she asks if there was anything else you needed.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Tranquility says she's not really comfortable using her abilities in that manner.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Can you put Omahdon into a trance? It would give Perseia more time to escape."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Tell her that's okay, and that there are other possiblities to explore.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Change the topic of the conversation to something other than helping the woman.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Tranquility tells you to ask what you will.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>She hesitates. "It seems a dishonorable thing to do, but he is a dishonorable man, so perhaps he should be paid in kind. Very well. Send him to me and I will do it. I can make him a 'guest' of my inn for as long as need be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>She shakes her head. "I do not want to face his wrath when he awakens and learns of our trick. You will have to find another way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>She smiles, pleased. "A fitting comeuppance for someone who abused another against her will. Send him to me and I will do it. I can make him a 'guest' of the inn for as long as need be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>She gives you a cold look. "You're suggesting we put him to sleep without his consent? Just as he woke Perseia without her consent? No. I will not stoop to his level. You will have to find another way."
+
+{SCRIPT: Cannot try this argument again.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Ask Tranquility to teach you how to manipulate your voice the way she does.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Tranquility says she'd be glad to give you a quick lesson for [GLOBAL: whatever] shins.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Pay her.]
+
+{SCRIPT: Requires the party have [GLOBAL: whatever] shins on hand.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Try to get her to lower her price.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[She agrees to lower her price.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[She refuses to lower her price.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[She agrees to teach you for free.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Somewhat Insulted, she refuses to teach you the technique at all. She doesn't seem to take it personally, but her mind concerning this matter appears to be made up. All cool professionalism, she asks if there was anything else you wanted.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[Say you want to talk about something else.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[Tranquility says she'd be glad to give you a lesson for [GLOBAL: lower_whatever] shins, as previously agreed.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Pay her.]
+
+{SCRIPT: Requires that the party have [GLOBAL: lower_whatever] shins on hand.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Tranquility teaches you how to modulate your voice the way she does. This provides a TBD bonus.]
+
+{SCRIPT: Apply bonus to PC.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Script Node 81</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Tranquility reiterates that she's decided to not teach you the technique.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[Ask Tranquility about the hair comb you found in her hostel.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Tranquility nonchalantly says the comb must have been left behind by a previous guest. She doesn't recognize it as belonging to any of her regular customers, so she says it's probably safe for you to just keep it.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Ask Tranquility what her impression of Omahdon was.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[Tranquility says she found him to be odious, overly fond of himself and condescending to others, though she admits that her impression is likely colored by the fact that her one encounter with the man involved him accusing her of standing in his way.
+
+She then turns the question around and asks what you thought of him, curiosity gleaming in her eyes.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Tell her you have more questions about Omahdon's lost love.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Tranquility says she doesn't know what more she can tell you, but offers to answer what she can.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[Tell her you don't particularly trust Omahdon yourself. (Truth)]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[Tell her he seemed to care about his love, and that counts for something.]
+
+{GEORGE/NATHAN: More options could be added here representing other tides and thoughts.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Tell her you reserve judgment, as you don't know the man well enough to form an opinion.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>The calm you feel around Tranquility seems almost unnatural. Her soothing scent must be more than perfume - perhaps a pheromone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Tranquility's low, rich voice seems subtly modulated. You wonder if this explains the peace you feel around her. Its calming effect is profound, making you a little sleepy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[As Tranquility speaks you also notice that she's doing something odd with her voice. She's modulating it ever so slightly, but the effect is quite profound, calming and soothing your mind as you listen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>She purses her lips. "Yes. I lied to Omahdon, and I do not regret it, though I know you will judge me for it. Perhaps you'll understand when I tell you Perseia's story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Why have you been lying to me?"
+
+{SCRIPT: Requires that the PC has detected her lying to him/her in at least one of several places.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>She blinks, affronted. "What are you saying? Tell me when I have lied to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Bank 98</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Her denial is too quick and sharp, especially when her voice is normally so calm. You suspect this is the mark of a lie. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"You said you didn't know who the comb's owner was, but I have proof you helped her leave Sagus Cliffs."
+
+{SCRIPT: Player saw Tranquility in the Omniscope?}
+
+{JESSE: Presumably this plays if player has seen node 99 (regardless of 52).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Actually, never mind. Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[Tell her you have other questions for her about the woman.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[Tranquility says she'll answer what she can.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Tranquility blinks. "If... if you liike."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText> Addend. 105</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[You can tell she believes what she's saying, but there's something else hiding behind her words, something she's not telling you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>[Tell her you don't particularly trust Omahdon yourself. (Lie)]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[Tranquility says she's not sure what you witnessed in Omahdon was genuine emotion, but she agrees with your sentiment in principle.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>[Tranquility nods, saying perhaps that is the wisest course of action. She adds that she only briefly interacted with him, so her opinion may have been hastily formed.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Bank 110</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[Convince Tranquility to tell you everything she knows.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[Try once more to convince Tranquility to tell you everything she knows.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>[Tranquility is initially hesitant, but after a moment of internal debate opens up to you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[Tranquility insists she doesn't know anything more than she's already told you.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[Tranquility hesitates only for a moment before spilling the beans.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>[Tranquility angrily denies knowing anything more than she's already said. She curtly asks if you have any other business with her.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Tranquility nods. "As you wish. It will cost [Global: a2501_TranquilityPissedHostelPrice] shins per person."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Give her the money.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Why does the room cost more than it did before?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Tranquility gives you a tart look. "It is my inn, so I am free to set the prices as I wish. And for those who have deceived me, I set them slightly higher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>[Ask what she thinks you should do regarding Omahdon and the woman.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>[Tranquility says that she doesn't think they belong together, and advocates that you attempt to throw him off the woman's trail.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"I want to try to bring Omahdon and Perseia together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"You do? But you said you were against this. Why have you changed your mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Omahdon is handling it poorly, I admit, but what if he truly loves her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>She looks down at you. "So if I accept that Perseia is mad, how can I be sure that Omahdon truly wants what's best for her? How do I know he won't just help *himself* instead of helping her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"If it weren't for Omahdon, Perseia would still be a corpse. She owes him *something* for that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>She laughs. "She owes him something for a favor she didn't request? You'll have to do better than that before I tell you where she is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Perseia never gave Omahdon a chance to prove his love. He should be given a chance to convince her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>She gives you a flat look. "He's had many chances. Chasing after her, and telling other people she's insane for leaving him, is hardly convincing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"He may not understand love, but that doesn't mean it's false. Would you deny a man a second chance just because he's a fool?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>She sighs. "If you believe that he truly loves her, then I will give him the benefit of the doubt. He shall have his chance. Perseia went back to the Valley of Dead Heroes. He will find her there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>She looks skeptical. "I have known many men who have made similar excuses, and most were liars. I see no reason to believe this one is any different. I'm sorry, I won't tell you where she's gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Many men are fools in love who appear strong in public." She sighs. "Very well. He shall have his chance. Perseia went back to the Valley of Lost Heroes. He will find her there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>She gives you a hard look. "If you believe these lies of Omahdon's, then you are the fool. If you know they are lies, then you are a villain. Either way, I will not tell you where Perseia went. Ever."
+
+{SCRIPT: Cannot try this argument again.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"I still don't think this is wise. What is your reasoning?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Please. Omahdon's love is real. He just needs to learn how to express it in a way she can feel as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"She wouldn't be able to hear or speak or breathe without him. Doesn't that at least buy him another hearing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Perhaps he presumed too much. But if his love is true, can't that be forgiven?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>[Say you wanted to ask about something else.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText> Follow-up PQ. 142</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Forgive me for asking, but are you human?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Tell me about yourself again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText> Follow-up T. 145</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"I am a mutant... and thankful to live in a city that tolerates my kind. My business has flourished here. Elsewhere I might have been stoned or killed for sport."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"You lied to me. I found a device that reveals what happened in the past, and I saw you talking to Perseia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Tranquility flushes, embarrassed, then collects herself and nods. "Yes, I did help Perseia. I apologize for lying to you before, but perhaps you'll understand my reasons when you hear the whole story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"What do you intend to do?"
+
+{SCRIPT: This node is bugged when reached directly from node 30. It causes the last option in the list to be unselectable and whatever option you do select actually causes the NEXT option in the list to fire.  Not sure why.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"I need to think on it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Do that. The longer you think, the more time Perseia has to escape."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Bank 156</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"I still think putting Omahdon into a trance is the best way to deal with him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Script Node 159</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Never mind. I have a different idea for how to resolve this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Bank 161</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Bank 162</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Bank 163</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"I need your help. I've changed my mind about Omahdon and Perseia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Script Node 165</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Script Node 166</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"In that case, you should probably get your story straight. You don't want to tell Omahdon she went to two different places if he decides to grill you both."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Good point." She thinks for a moment. "Well, Perseia is most definitely not going to Haref, and it is very far away, so it will be safe to tell Omahdon she has gone there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Bank 169</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Your powers have made you a great judge of character. Are those powers not telling you that you can trust me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"A woman with such a depth of insight must surely see that I can be trusted with a secret."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>She gives you a searching look, then sighs. "I do trust you. I just hope I don't live to regret it. Perseia has returned to the Valley of Dead Heroes, the place where Omahdon raised her from the dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>She purses her lips. "I understand your concern, but I believe the less people who know Perseia's destination the better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>She nods gravely. "It's true, I have sensed your honesty from the beginning. Very well, I'll tell you. Perseia has returned to the Valley of Dead Heroes, the place where Omahdon raised her from the dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Her eyes grow cold. "I don't trust you even slightly. Please don't ask again."
+
+{SCRIPT: Cannot try this argument again.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>She sniffs the air. "Hmmm. There's more to this woman's charms than long legs and sweet words. She's giving off some kind of calming pheromone. Interesting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>She smiles faintly. "If calming can be said to be manipulating, I suppose I am, but it is nothing more than that. I cannot control minds or influence thoughts. Like my voice, my scent seems to relax people. It's one of the reasons I believed opening a hostel might lead to success."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>She raises her eyebrows. "Very few people notice that. Well done. I am indeed manipulating my voice. When I opened this place, I wanted to make it the most relaxing hostel in the Ninth World, and I worked to make every aspect of it soothing, even my voice. It turned out I had a talent for it."
+
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"All right. Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Happily."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Ah," says Tranquility. "You. Yes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Tranquility's earlier warmth is gone. She looks at you with cool disdain. "You told Omahdon where Perseia went. And how do you think that will end?"
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>She smiles. "It is the most peaceful inn in Sagus Cliffs, with the most beautiful views. All rooms face outward, so that the bustle of the Caravanserai is invisible and inaudible. All you see is sky and sea and the roofs of the city far below you, and all you hear is the breeze. I am the sole owner, and I have been offering solitude, security, and discretion to travelers for twenty years. You will never have as sound a night's sleep as you will when you stay here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Bank 186</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Tell me about Tranquility's Rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Tell me again about your hostel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Tranquility's Rest is an oasis in the sky - a place to leave the cares of travel behind and rest as if in your mother's arms. I provide peace, protection, and privacy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>She tilts her head. "Have you? I'm surprised. What do you want to do differently?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"You said you hadn't seen Perseia, but I found this comb in one of your rooms. The hair in it is purple, just like hers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>As she speaks, a sense of delicious calm comes over you, and you find yourself wanting to agree with her. There is nothing you'd like better right now than the peace and solitude of a quiet room. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>The calm you feel around Tranquility seems almost unnatural. Her soothing scent must be more than perfume - perhaps a pheromone.
+
+Her low, rich voice also seems subtly modulated. Its calming effect is profound, making you a little sleepy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>As you take her hands, a scent like baking bread and honey overwhelms you, and she begins to sing in a soft but resonant contralto. The melody fills your head, making it heavy with slumber, so that your chin drops to your chest. You feel like you're being lowered gently into a warm bath. 
+
+The water closes over your head, but there is no fear of drowning. You have returned to the womb, where all is comforting darkness and the steady pulse of a beating heart...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Tranquility hangs her head, hiding some emotion. "I did help Perseia find a ship, but I do not wish to tell you where it was bound. Perhaps if I tell you her story, you will understand why."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"I found a device that reveals what happened in the past, and saw you talking to a woman called Perseia. Where did she go?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Tranquility nods, embarrassed. "It's true. I did know, and I kept it from you deliberately. Perhaps you'll understand why if you know all of Perseia's story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"He seemed to think this un-asked-for resurrection would make him a hero in her eyes, and that she would fall instantly in love with him, but she was unnerved by his fervor. She explained that she did not share his feelings. He wouldn't listen. He saw her disgust as a passing madness. Perseia has fled from him ever since, but he is relentless." 
+
+She looks up. "Do you see now why I helped her? Why I lied to him and to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>He grunts and speaks in your ear. "A fool with the power of a god. You wouldn't know anything about that sort of thing, would you, castoff?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"He's hounding the poor girl," he mutters in your ear. "She wants nothing to do with him. Shameful behavior, and that's *me* saying it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"I want to convince Omahdon to stop following Perseia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"A noble course of action, though not an easy one, I fear. I wish you good luck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Two airships recently left for Haref and Sada Imidu. Perseia was not on either of them, and both of those cities are very far away. Omahdon will lose weeks of travel time, and he may never find her trail again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>She looks skeptical. "I've known many who have claimed villainy was foolishness. Most were liars. I see no reason to believe that Omahdon is any different. I'm sorry, I won't tell you where she's gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"A man who starts by presuming instead of asking rarely learns better. I still will not tell you where she went."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>She frowns, then shakes her head. "So I must rely upon your trust in him? No. I don't know why you are helping Omahdon, but I don't believe that he truly cares for her well-being. I won't tell you where she is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"And are you so sure he *can* learn? No, I don't trust him. I still won't tell you where she's gone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"I don't want to face his wrath when he awakens and learns of our trick. You will have to find another way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"It's too dangerous. He may attack me when he learns what I've done. I'd rather not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"And suppose she didn't want a new life? This is neither her world nor her time. Why would she be happy here? No. He deserves nothing. I will not tell you where she is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Did he do it for her? No. He did it for his own selfish reasons. Therefore it counts for very little. I still won't tell you where she is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>She gives you a searching look, then shakes her head. "I do trust you, but why burden yourself with something you don't need to know? I won't tell you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>She smiles. "I know you can, but when there is no reason for you to know, why trouble yourself? I won't tell you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Where is Perseia actually going?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Are you sure you won't tell me where Perseia is going?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"I'm sorry. The less people who know that, the better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Forgive me, but I'd still rather keep that to myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Anything you like."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Fine. Let me ask you something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Can you put me into a trance again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"As your guest, I ask you again - will you use your abilities to put me into a trance?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>For a moment, Tranquility seems to consider it, but then she shakes her head. "No. As I said, I can't be sure of your safety."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"I'm sure you'll be helping me, not harming me. If I'm wrong, I'll take full responsibility."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Never mind. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>She shakes her head. "I'm afraid it's not possible. This is a place of safety and peace, and I can guarantee neither of those things if we try this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"No. I have made up my mind. That is not a thing that will happen here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"I was afraid you were going to say that. What possible reason could you have?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"She did not appear mad to me. In fact she seemed saner than most. Whereas Omahdon..." She shudders. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"How often does anyone find true love in this world? Can we deny them the *chance* at it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"How could she not be mad? Being woken from the dead after a thousand years would be enough to snap the strongest mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"She deserves someone who loves and respects her, yes. What if Omahdon could be shown how his obsession is hurting her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"I suppose you could be right. True love is such a rare thing. But is that what Omahdon has for her? His actions are those of a crazed stalker, not a lover."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"A good point, though it also makes Omahdon the cause of her madness, for he is the one who woke her up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"I suppose... Do you really think he loves her? His actions have been those of a crazed stalker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Perhaps you're right. Let me rethink this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Very well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Omahdon should be given a chance to prove his love."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"He wants her to be his, but that is not the same thing as love."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Perseia owes Omahdon for giving her another chance at life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"I told you before, Perseia never *asked* for that gift. She owes him no favor in return...  and she certainly doesn't owe him her love."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"I think Omahdon might genuinely love her, even if he is showing it poorly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>She narrows her eyes. "Are you certain he loves her though? Love is wanting what makes the other person happy. So far all he's done is try to make *himself* happy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>Tranquility smiles. "I'm so pleased, and I'm sure you will be most comfortable. The price is [Global: a2501_TranquilityHostelPrice] shins per person."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>Tranquility smiles. "Of course! As before, the price is [Global: a2501_TranquilityHostelPrice] shins per person."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Does it matter if he loves her? He's obsessed and insane. She deserves better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"We've been through this. Omahdon has no regard for *her* feelings on the subject. She deserves someone better than him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"I'd like a place to sleep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"I'd like a room for the night."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>Tybir steps forward suddenly. "Have you forgotten that Ris will die tomorrow if we do nothing today? Sleep now and he'll be dead before you wake. You promised me you'd save him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"I have more important concerns than an executed criminal. We're resting now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"All right. We'll press on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"I appreciate that, friend. I really do. This is important."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"If you change your mind, the hostel awaits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"You have returned. Good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Unasked or not, he still gave her life. Surely he deserves another chance to prove himself in return for that miracle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"She wouldn't be able to hear or speak or breathe without him. Doesn't that at least buy him another hearing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"He may not understand love, but that doesn't mean it's false. Would you deny a man a second chance just because he's a fool?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Perhaps he presumed too much. But if his love is true, can't that be forgiven?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Now, what else would you like to discuss?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>She takes the comb gingerly, looking embarrassed. "Yes. I lied to both you and Omahdon, and I'm sorry for it. But perhaps you'll understand when I tell you Perseia's story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>She takes the comb and examines it, frowning. "Yes. I lied to Omahdon, and I do not regret it, though I know you will judge me for it. Perhaps you'll understand when I tell you Perseia's story."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Omahdon saw through our plan. He's going to the Valley of Dead Heroes as we speak."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"I convinced Omahdon to give up looking for Perseia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"I sent Omahdon in the wrong direction, like you wanted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"That is wonderful news," she says, her eyes shining. "You have done her a great kindness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"That is wonderful news," she says, her eyes shining. "You have done Perseia a great kindness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>She sighs heavily, and bows her head. 
+
+"Don't take it too badly. You tried your best, and I'm sure Perseia expected to be followed. Omahdon will hardly be able to take her by surprise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"An excellent idea. I'm glad you've seen reason."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

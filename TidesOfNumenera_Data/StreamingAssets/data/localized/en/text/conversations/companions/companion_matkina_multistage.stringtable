@@ -1,0 +1,1323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_matkina_multistage</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>256</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>She gives you a slow, evaluating look. "You were a part of my story. What else did you need to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>{Pause}"He lost control of his form. Or perhaps I threatened him somehow. Either way, he showed his other form, and I... defended myself. With the Tides." Her gaze is flat and level. "He never recovered."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"We had a disagreement, and I lost control. I was overwhelmed, and I blinded him with my mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"He got himself crosswise with the wrong people, and he had an accident."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"He had an accident. An avoidable accident."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"None of your business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"How did Neng lose his eyes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Can you tell me how Neng lost his eyes again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"And then when Paj was gone and I'd calmed down, one of the others asked me what the problem was. He said the villagers would all have been dead in a few decades anyway. I vowed I'd never think like that... but here I am, a couple centuries later, and people seem to die too fast and too young, and I can't let myself care." She scuffs the dirt. "Immortality is a curse. Especially when your companions in eternity are castoffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Once. In Miel Avest. Paj didn't even remember Kholn Village. She didn't remember the people she sacrificed for her pointless, endless war. And she couldn't even understand why I'd care. {Pause, almost snarling}I'd have had her throat if Aadiriis hadn't held me back. Upheld her precious peace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"No. She cursed me with a perspective I didn't want, and I hate her for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Did you ever see Paj Rekken again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Can you tell me about the time you saw Paj Rekken again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I wanted to talk about what happened to you after I left Tash's body in the Mere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I don't know when you left. Tash wiped my memories, and... wait. No. Tash died, but not forever. Then he rejoined the First's Militia. Then I killed him. That's right?" She taps her forehead with the heel of her palm, as if to drive the memory home. "Yes. That's it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"After that, I traveled the world. I went back to Kholn to remind myself what humanity does to the strange and different. I realized I had no purpose. I went to Miel Avest to see what our brethren were doing. They hadn't changed at all. They told me to gather power."
+
+She barks a laugh. "Our creator made us many things, but most of all he made us mad for strength in all its forms. I scorned their advice, but the more I thought about it, the more I realized the truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"When you're powerful, people can't hurt you." Her voice drops. "Or the ones you love."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"It might be that power paints a target on those you love."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I thought about that. But at least when you have that strength, you can fight back. You won't be... helpless." 
+
+She sighs, and then lets the familiar hardness creep back into her voice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Let her continue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"So I came to Sagus Cliffs. I started working. One of our brothers hired me... and then he betrayed me. I'd thought he'd help me, but just like Paj, just like the First, just like Tash, he turned on me. That's when I learned that I can't trust anyone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I don't know when you left. Tash wiped my memories, and... wait. No. Tash died. He died, torn apart by an energy blast. Killed forever. That's right?" She taps her forehead with the heel of her palm, as if to drive the memory home. "Yes. That's it. Gods. You rode him, and you killed him." 
+
+Her eyes are wide. "Such power. You can change the world."
+
+She shakes herself to cut off that train of thought.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I don't know when you left. Tash wiped my memories, and... wait. No. Tash fled. He deserted the First's Militia and went into hiding. He knew he could never return after such a high-profile disaster. That's right?"
+
+"Yes. He was living in a cave in the wastes. He blamed me for his situation. Said I'd made him act a way he never would have on his own. Then he tried to attack me."
+
+Her knife dances through her fingers again. "So I killed him. For good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"I don't know when you left. Tash wiped my memories, and... wait. No. Tash saved me, and flew away with the First. I went and found him a decade later, and we... fought. I won. Obviously."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"I don't know when you left. Tash wiped my memories, and... wait. No. No, he went off with the First's Militia. I came back to find him, and we had words. I left his burned corpse in a shallow grave and then..." She shrugs eloquently. "I assume the scavengers took it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I have other questions, if you don't mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"If I don't mind? You're going to ask anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"That's all I wanted. Let's continue on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Don't pry too much, brother. My patience isn't limitless."</DefaultText>
+      <FemaleText>"Don't pry too much, sister. My patience isn't limitless."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Surprisingly optimistic. But don't tell anyone. It'd spoil the mystique."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"I'll stick with you. You're a different breed from the rest of us. You're making progress."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>She shrugs. "Do you actually care?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Does the way I feel matter? Let's just do when needs to be done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Do you really have to ask? The only reason I'm still with you is because you might be useful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Oh, gossip." She raises an eyebrow. "How... exciting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"I'll bet you have some opinions about Aligern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Dour, self-righteous, carrying the world's grief on his back. {Pause} He'd have made a good castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"You know he hates castoffs, right? Almost as much as he hates our creator."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"He's hundreds of years younger than I am, but insists on treating me like a child."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Any thoughts about Callistege?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"I don't like the way she and her echoes look at me. At you. At anyone. And they're always looking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"If I remember correctly, she's got a reputation. She doesn't let anything - or anyone - get in her way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Her echoes are... annoying. I'd give a discount if someone hired me to kill them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"What do you think about Erritis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Does he ever stop?"
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"I've killed people for lesser offenses than he offers moment to moment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"He's a fool, and a dangerous fool at that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"She hides her secrets. She's welcome to them, as long as she's not spilling mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"What do you think of Oom?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Just keep it away from me, will you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"So... tell me about Tybir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"If he points somewhere, cover your pouch before looking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"I'm not saying I don't trust him, but... actually, I am saying that I don't trust him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Steer clear of him and his plans, brother. He means no good to any but himself."</DefaultText>
+      <FemaleText>"Steer clear of him and his plans, sister. He means no good to any but himself."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Let's talk about Rhin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Let's. Why would you bring a child with us when you know we're facing utter extinction?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Are you touched in the head, or do you just not care about what your failure would do to her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I mean, our 'father' inspired a cult. I assume you've met Casmeen and Mimeon? Ugh. What's missing from their lives that they have to pin their hopes on *us*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Maybe they recognize our potential and hope to replicate it in themselves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"We make *such* fine examples," she scoffs... but she looks thoughtful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Pathetic, aren't they?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"My thoughts exactly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Casmeen sees power, and wants it to reflect on her. Mimeon sees knowledge, and hopes it will shine in him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"You're quite the optimist, aren't you? Do you think they're going to get what they want by following the likes of us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Probably not. They've idealized us and stripped away our human emotions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Exactly. We're not real to them. We're supernatural beings, so everything we do is fraught with purpose. I blow my nose near them, they'll run to study the meaning in the snot instead of offering me a handkerchief. It doesn't mean anything, but they insist on treating every sniffle as an omen. Idiots. Anyway. What did you want to talk about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Maybe. Maybe not. It depends on whether they're looking at us as people or as avatars of our sire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Let me put that to rest right now - they see us as avatars. To them, we don't have feelings or ambitions, except for those our creator placed in us. I've had this conversation with them, and they treated every word like a revelation. I wasn't saying anything particular, but in their minds it was all epiphanies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"What I'm saying is, I guess... don't trust the people who elevate you. You can't do anything wrong to them - until you do, at which point they turn on you. Steer clear of the true believers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"We're immortals to them. If we show them a model, why can't they learn from it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"What, live up to their ideal of us?" She taps her chin. "No, I see what you're saying. We make a plan for ourselves and live to it - become better people in order to make them think we're better people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Exactly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Ha! You're almost as cynical as I am about the whole thing. Anyway. You had questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"No, I mean become a better person in order to be a better person... and they learn from it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"That's shockingly idealistic for one of our kind... but you're still young, I suppose. Plenty of time to see the world as it is. Anyway. You had questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"He's a greedy, manipulative, domineering fool. I've heard he's also quite charming, witty, and an absolute genius. I suppose he'd have to be, given how long he's managed to keep ahead of the Sorrow. But I've never met him, as far as I know, so the only judgment I have on the man is what I've heard from others."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Must we?" She sighs. "Look, I know it's important to you to know where you came from. But you'll get better answers from the recreants at Miel Avest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Let's talk about the Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Let's talk about the Changing God again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Here it comes." She acts as if she's readying herself for a storm. "I'm ready for the litany. All you newborns have it. All right. Go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Again? Very well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"I'll say this once. You were in the Mere. You saw what happened. I wanted to make a difference, and they pissed on my hopes." 
+
+She frowns. "The conflict between the First and the Changing God swallows all our siblings, one way or another. I didn't want that. I wanted to make my own way. They didn't like that idea, and... here I am. No worse for the lack of their company."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"We all use each other for our own ends, and someone always gets broken at the end of it."
+
+She gives you a dark look. "Even us. Get that straight. You and me, we're both using each other right now. It'll profit us both, but someone's bound to get hurt." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"You'd think people with all the gifts we have would be happier, but we're miserable misfits. Hundreds of us through time, and all bad people. But you should meet them. That's why we're going to Miel Avest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"You know where a good place to talk to other castoffs is? Miel Avest. We should go there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"I wanted to talk about our siblings, the other castoffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"I wanted to talk about other castoffs again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"After our sister and our father had their falling-out and started the Endless Battle, the rest of them chose sides. For most people, it seems like this is some great existential struggle. But it's just a family squabble that got out of hand. Anyway, things got bad, the Sorrow started making more appearances, and people needed a place to hide, so Miel Avest became neutral ground."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Castoffs needed a place to hide from the Sorrow and work on a way to defeat it. The Bloom eats people, so they couldn't hide there. The First and our worthless sire built Miel Avest so they could research in peace. Place became a beacon for our kind, and people started to put up homes inside the shields."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"The shields keep the place hidden from the Sorrow, and it's neutral ground for the bickering that surrounds the Endless Battle. And it's a great place for our family to hide from the world and pretend they're doing good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"What can you tell me about Miel Avest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"I'd like to hear about Miel Avest again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"I know little more than you. They might know more in Miel Avest. What I can tell you for sure is that it hates us castoffs. You're never sure when it'll come." 
+
+She shivers slightly. "It comes for each of us. Like we're calling to it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"All I know is rumor and conjecture. Get to Miel Avest. They'll know more there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"How have you avoided the Sorrow? What can you tell me about it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"I want to ask about the Sorrow again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Actually, let me ask about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"All right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"No, forget it. Let's continue on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Great."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"I thought we were accomplishing our goals. I don't mind saying this comes a bit of a surprise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"I shouldn't have joined you in the first place, if this is how it was going to wind up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"If you need me, I'll be at my home in the Cave of Last Words. I've got some unfinished business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"I was just about to say the same thing. I don't figure we'll cross paths again. If we do, plan to bleed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"I'm going back to the Cave of Last Words. You keep doing... whatever it is you're doing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"I don't think that's a good idea. We work well together. But fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"If that's what you want. I have things to do here anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>She takes in her surroundings. "But I'm not sticking around here. You had a hard time finding me the first time, you know. You might not be able to do it again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Her eyes are haunted. "I know as much as you. And what I know is that we have to stop it. Stop it for good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"You know more than the rest of us. All I know is that he's not to be trusted... not in *any* of his guises."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"I don't know anything. Find an expert here. Ask one of them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Did Melmoth have something to do with how you became an assassin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Tell me again how you became an assassin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"What's the history between you and Melmoth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"A series of regrettable mistakes. Maybe I'll tell you about them someday. But not now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>She looks down and sighs. "Yes. And no. I wanted to make something of myself. Look at all our siblings, what they've done. And here I was, a simple thief, hiding in the country, making no name for myself. Making no *difference* in the world. I didn't want to be a ruler. Didn't want to be a king. I just wanted to... to be something."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Melmoth proposed a working venture. I accepted. By the time I considered my second thoughts, I was already committed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Why are</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"I'll say this once. You saw the look on his face at his monument. Maybe he has a reason for his pain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"We're all too damn prickly. Melmoth and I have had this damn feud for over a century. It could have been resolved by either one of us just... opening up and saying something. But look. Here's how it happened."
+
+"I came back here after the First died. Since I couldn't kill her myself, I looked for something else to do with my life. Everyone here told me, 'accrue power', like I knew how to do that. Melmoth told me he'd show me, help me build an enterprise if I'd help him. I agreed."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"He taught me how to kill people. He helped me become the White Death. He made me famous. Then *someone* reported me to the levies. Maybe it was Yollen, maybe not. But Melmoth could have said something to me when it all went sour. Instead we went to war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"So who do you blame now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>She shrugs helplessly. "I don't know. Him? Me? Our whole carked family?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"He's not to blame, Matkina. You are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Probably. Now I need to wonder how many other friendships I've ruined because I assumed falsehoods were true. Too late, I suppose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"He should have spoken to you. It was his business. He should have known what was happening."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Should have. Yes. Not to mention that he knew Yollen, knew what his inferior was capable of. Still. Next time I'll ask before I pull the knives out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"You've spoken now. At least you've worked out a truce."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Years blaming him. Years just thrown down the sewers. Don't suppose you'd be willing to fix that, too?" She smirks a little. "I hope he was serious about letting it slide away. I liked him, beneath all of that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"It's because of people like *him*. I came back here after the First died. Since I couldn't kill her myself, I looked for something else to do with my life. Everyone here told me, 'accrue power', like I knew how to do that. Melmoth... he told me he'd show me. He'd help me build an enterprise if I'd help him with some troubles. I agreed."
+
+She swallows. "He taught me how to kill people. He helped me become the White Death. He made me famous... and then he turned the levies on me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"I made him pay for it, of course. He got cut out of the Dendra for decades, but he'd already taught me my lesson. Don't trust the castoffs. That's why I work alone. Don't ever forget that."
+
+She straightens her cloak. "So. Let's get moving."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"You want to know what happened with Melmoth? You want to know why I find it so hard to trust castoffs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"As for how I avoid the Sorrow... well. You ever get the feeling that someone's looking at you? The Sorrow's attention is like that, except that it feels like you've made an enemy. The creeping paranoia that it's coming for you. Slow urgency mounts, and you start to feel like you need to lash out. But what I do... I run. I leave, and I don't come back. Try to throw off whatever scent it's picked up. And after a while, the pressure eases, and I can come back again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"I don't try to go somewhere 'safe', like Miel Avest. It'll find me eventually. It always finds us. The best we can do is postpone the inevitable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Stop a minute. I need a word with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"How did you become an assassin, anyway?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>She murmurs laughter. "You talked to Melmoth. Pragmatist, not much for half-measures. He said that if I wanted to make a name for myself, use my natural talents, and make a difference, he knew a way for me to help." She shakes her head. "I'd fought and killed before, but it was in the heat of the moment... usually. I'd never taken money for it. My first kill for coin... it was... hmmm."
+
+She taps her lip. "It was *liberating*. I was *good* at it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"It was like it was something I'd been born to do. And who knows, maybe it was. Before long they started calling me the White Death. People *feared* me. And I was... not happy. Maybe content."
+
+Her face darkens. "And then Yollen, Melmoth's second, told me Melmoth was plotting against me. So I struck back at him." She stares you down, defiant. "That's what happened. Whether I was right or wrong, that's history."
+
+"Enough of that. You want anything else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"I also hate being talked about like I'm not here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"'I hate I hate I hate.' That's what you sound like."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"I don't need your pity, castoff.:"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Good, because I'm entirely out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"I'd kill myself first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"See? Tattoos, a tendency towards recreational suicide... all you're missing is the secret handshake."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Secret handshake?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"... Oops. I shouldn't have said anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Maybe you should try not acting like one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"I'll pass."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"I wasn't aware that we were looking at you in *any* particular way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Well, you are. And you're doing it *again*. So *stop* it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"People say the same thing about you, dear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Really?" Matkina looks pleased. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"What a shame, then, that no one will. Everyone else finds us *delightful.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"I don't think you know what the word means."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"I could hardly be *less* interested in your tawdry little mysteries."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"You? Maybe not, but I've seen the way some of your *sisters* stare at me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"I can't," he says cheerfully. "Your sparkling eyes bring out the poetry in me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Don't mind them, dear. Some of us have the most *malevolent* eyes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Offer any more poetry, and I'll bring out your intestines."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"I never meant to offend you, Mattie. The next time I insult you, tell me, and I'll never bother you again!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"I'm insulted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Oh. Er, maybe the next time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"You make me a fool, Mattie. And, uh, dangerous. You make me both of those things."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"If only I could unmake you somehow." She thumbs the hilts of her knives.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>::brmmm::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"That wasn't a compli... fine. You know what? You're welcome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"No one wants to kill *me*. I mean, specifically."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"See? She's doomed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Or maybe I *want* to be here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Wonderful. *Both* of you are insane."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"You wound me, madam. I'm a professional!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"So, what. You stab them in the side, and snatch... wait. Where. Is. My. Pouch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Wise advice. I haven't trusted myself in years."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"I'm surprised you even know what wisdom looks like. *Or* trust."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Unfair and untrue. I leave satisfied smiles everywhere I go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"I somehow doubt that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"In professional hands, I assure you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"So I came to Sagus Cliffs. I started working. I sought out Melmoth for his aid, and he helped me. Then his man Yollen betrayed me, turned us against each other. I thought Melmoth had orchestrated it. I mean, I had the examples of Paj, Tash, and the First. I thought another castoff would betray me as easily as breathing. It was a mistake in judgment, I admit, but I didn't know any better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"So I came to Sagus Cliffs. I started working. I sought out Melmoth for his aid, and he helped me... for a time. Then he betrayed me. He planted rumors, tried to sell me to the levies, gave me poisoned contracts..." She frowns. "And always at arm's length, so I could never pin it directly on him. But I knew. With the examples of Tash, Paj, and the First, *I knew*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Those were good years. I felt like I belonged. There was friction, to be sure... but we were a team. And then my favorite mortal got betrayed too." 
+
+She crosses her arms. "You want to know why I was hiding before you found me? It's because I learned that I'm best on my own. If you don't have people, you can't be betrayed. There. You've got your story. Let's not talk about that anymore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"So I struck back at him. Hard. It was then that I decided to make my own organization. That lasted for about a decade. The endless politics inside the group, the recriminations, fighting against other gangs, the inevitable betrayals. Ugh. I gave up on that and went solo. Eventually I went back to the Bloom and worked for the Memovira. The old one, I mean."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Never mind. Stay with me. Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"It doesn't matter. I'm sure about this. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"I've got a way to contact you if I need you. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"I've got things to figure out anyway. See you around. Maybe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>Script Node 255</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>Script Node 256</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>Script Node 257</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"It's too damn eager to please." She snorts. "Reminds me of some castoffs I know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"It's so damn obsequious, it's practically a castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

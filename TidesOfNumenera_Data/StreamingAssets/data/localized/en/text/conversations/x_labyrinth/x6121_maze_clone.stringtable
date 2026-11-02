@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6121_maze_clone</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The figure before you looks almost exactly like you, but a woman instead of a man. She doesn't bear your scars, but otherwise her face is like a mirror.
+
+"Hello," she says pleasantly. "You must be me."</DefaultText>
+      <FemaleText>The figure before you looks almost exactly like you, but a man instead of a woman. He doesn't bear your scars, but otherwise his face is like a mirror.
+
+"Hello," he says pleasantly. "You must be me."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Hello again, brother. Can I help you with something?"</DefaultText>
+      <FemaleText>"Hello again, sister. Can I help you with something?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Well, I'm a short-lived version of you." She looks you up and down. "Basically. Our creator used these cloning stations to rapidly prototype different body types and features before deciding on a final shell for his consciousness." She looks at the control panel. "These look different from the controls I remember. It looks like I'm stuck on the most recent settings."
+
+She flashes you a smile. "Not that that's a bad thing, of course. I'm sure *you* won't mind."</DefaultText>
+      <FemaleText>"Well, I'm a short-lived version of you." He looks you up and down. "Basically. Our creator used these cloning stations to rapidly prototype different body types and features before deciding on a final shell for his consciousness." He looks at the control panel. "These look different from the controls I remember. It looks like I'm stuck on the most recent settings."
+
+He flashes you a smile. "Not that that's a bad thing, of course. I'm sure *you* won't mind."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Tell me who you are again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I'm a mock-up of you, before our creator transferred into your body. He would create clones like me as rapid, short-lived prototypes before deciding on the look and feel for his next self."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"How long do you last?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"If you only live a short time, how do you know all of this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Only a few minutes, give or take." Catching your look, she adds, "It's not so bad. It doesn't hurt - at least I don't *remember* it hurting..."</DefaultText>
+      <FemaleText>"Only a few minutes, give or take." Catching your look, he adds, "It's not so bad. It doesn't hurt - at least I don't *remember* it hurting..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Oh! That's the most interesting part. Our creator always liked to process things externally, to have someone to talk to. He constructed assistants all the time. *I* was enabled to maintain my memories from version to version. That way I could provide more useful feedback on how one body moved or felt compared to another. Our progenitor would even have me perform tasks from time to time - sometimes mundane, sometimes dangerous. The fact that I could learn from my mistakes was a great help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>She laughs. "Our progenitor was funny like that. Gender for the next self was always a last minute decision. Our creator was never content with one - or even two! - genders. It was a fungible thing. He would constantly explore and experiment, even trying varjellen, ghibra, and diruk bodies at different points."
+
+She stops, looking more thoughtful. "You know, even after centuries with our creator, I can't explain the fastidiousness about gender. It's just the way he is."</DefaultText>
+      <FemaleText>He laughs. "Our progenitor was funny like that. Gender for the next self was always a last minute decision. Our creator was never content with one - or even two! - genders. It was a fungible thing. He would constantly explore and experiment, even trying varjellen, ghibra, and diruk bodies at different points."
+
+He stops, looking more thoughtful. "You know, even after centuries with our creator, I can't explain the fastidiousness about gender. It's just the way he is."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Our creator always waited until the last minute to choose the gender of the next self, and he always had trouble with the decision. Most likely, he set me to female as the prototype, then switched again at the last minute when making you."</DefaultText>
+      <FemaleText>"Our creator always waited until the last minute to choose the gender of the next self, and he always had trouble with the decision. Most likely, he set me to male as the prototype, then switched again at the last minute when making you."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"If you're me, then why are you a woman?"</DefaultText>
+      <FemaleText>"If you're me, then why are you a man?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Tell me again why our genders are swapped."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>She looks around. "I *thought* it was the cloning laboratory where prototype bodies were tested, but this doesn't look right at all. Where's the floor? The walls? All the equipment is here, but..."
+
+She looks back at you. "It's like a nightmare version of the laboratory I know - as if somebody described the lab to a visitant that didn't quite understand it all, and then that visitant tried to recreate it. I don't know."</DefaultText>
+      <FemaleText>He looks around. "I *thought* it was the cloning laboratory where prototype bodies were tested, but this doesn't look right at all. Where's the floor? The walls? All the equipment is here, but..."
+
+He looks back at you. "It's like a nightmare version of the laboratory I know - as if somebody described the lab to a visitant that didn't quite understand it all, and then that visitant tried to recreate it. I don't know."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"It's *like* the cloning laboratory where prototype bodies for the next self were created. The equipment is all here, but everything else is... *wrong*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Do you know what this place is?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Tell me what you think this place is again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Take care of that body."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Could you perform a task for me? Like walk to that other station and toggle the floors?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>She gives you a funny look, but says, "Sure. I can do that."</DefaultText>
+      <FemaleText>He gives you a funny look, but says, "Sure. I can do that."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I need you to toggle the floors at the other station again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>She shrugs. "Sure. Why not?"</DefaultText>
+      <FemaleText>He shrugs. "Sure. Why not?"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

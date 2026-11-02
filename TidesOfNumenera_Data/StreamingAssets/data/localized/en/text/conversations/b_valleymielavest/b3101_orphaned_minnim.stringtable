@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3101_orphaned_minnim</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A patch of darkness hangs before you, like a black spot on your retina, except it doesn't move when you move your eyes. Looking into it is like looking into an abandoned cave. No breeze or sound or shadows stir within it, and its edges are slowly disintegrating.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Step into the darkness. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Try to determine the nature of the darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Step away from the darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Though you have never seen one before, you are pretty sure this is a living thing - the name 'minnim' comes to your mind. Minnims are usually paired with another of their kind, and it is possible to travel from one to the other through the void that connects them. This one, however, seems to be dying, and the void within it has no other exit, as if it had lost its mate. 
+
+You also notice that the disintegrating edges of the darkness are blowing away, like ash or pollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>This looks a lot like the other floating rifts you've seen, but the life you felt in the others is weak in this one. As soon as you get close to it you feel its anguished mind responding to your presence, seeking connection. There is a desperation to the contact that is palpable.
+
+Perhaps this feeling has something to do with the fact that the void within it doesn't connect to anything.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The darkness surrounds you. You are whipped by it as if by a wind. It is a swirling vortex with no way ahead, and no way back. The opening you passed through has vanished into utter blackness. 
+
+A hail of tiny objects batters you in the dark, thrown by the wind. Rocks or bones or drit, you cannot tell. Then something large and sharp slams into you, and you wrestle with it for a moment before realizing it's a skeleton - though not human.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You enter the dark whirlwind again, and again you are battered by debris before being spit back out the same opening you came in. If this is a portal to somewhere, it seems to be blocked. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You step into the warm, red darkness and it swallows you, turning you into smoke and sparks. You drift and swirl through a black void, floating toward another patch of flickering red. Then suddenly you are... somewhere else.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You turn from the darkness and move on. 
+
+{SCRIPT: End conversation.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Try to determine the nature of the darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>It looks a lot like the other floating rifts you've seen, but this one seems half dead - the void within it has no other exit. You have no idea what to do with it, though.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>This looks a lot like the other floating rifts you've seen, but the life force you felt in the others is weak in this one, and it hasn't noticed your presence. You can sense that the void within it has no other exit, as if it had lost its mate. 
+
+You also notice that the disintegrating edges of the darkness are blowing away like ash or pollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You can't recall ever seeing anything like this before, and you're not sure what it is or what it does. As far as you can tell it's just a floating patch of darkness. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>As soon as you get close to it you feel an anguished mind responding to your presence. Whatever the darkness is, it's alive, if only barely, and seeking... something. There is a desperation to the contact that is palpable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>A tear in space hangs before you, like a black spot on your retina. Something's different about this tear from the others in the valley. Looking into this one is like looking into an abandoned cave. No breeze or sound or lights stir within it, and its edges are slowly disintegrating.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The dark patch remains as it was, empty and crumbling away at the edges. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The floating darkness has awakened. Where before it was as dull and empty as an abandoned cave, now within its darkness you see a flickering red, like the reflection of a fire. A comforting warmth comes from with, carrying with it the echoes of sounds you are not hearing around you.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>You can actually catch the flecks of darkness in your hand, but they dissolve away like black snow almost immediately. When you move closer, however, you accidentally breathe in several of the flecks.
+
+You stay very still for a few moments, listening to your body. But nothing seems to have changed in you - neither good or bad. Probably the flecks dissipated in your lungs just as quickly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Examine the disintegrating edges of the darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>ADD LOOT DROP!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Try to catch flecks of darkness in the jar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>You open the jar near the disintegrating edge of the darkness and pass it through the floating flecks. Some swirl into the jar and you close the lid, then hold it up. The flecks circle lazily inside, but don't disapate. It looks like you've succeeded in catching them.
+{LOOT: Dark Pollen/Shadow Flecks}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>As you try to shrug it off, you feel an object in its hand. You pry it free and the skeleton falls past you. Then the wind lofts you toward a bright spot in the darkness and you tumble back out of the opening you entered, clutching the stolen object in your hand. 
+
+{LOOT: Make sure this loot drop is a single object. Thanks.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>The ruddy tear in space beckons you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>You step into the patch of darkness and find yourself somewhere else.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Step into the darkness. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Step into the darkness again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Try to determine the nature of the darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Try to determine the nature of the darkness again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Try to determine the nature of the darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Bond with the darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>A lance of darkness stretches toward you tentatively, questioningly. It wants a bond.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>You reach out to touch the lance of darkness. It stabs forward suddenly - *through* your hand and into your chest. There is a flash of pain, and you feel its desperation, it's *need* to be connected.
+
+Then the lance recedes, but something remains lodged in your chest, pulsing alongside your heart. You also feel more sharp and alert. It has given you a piece of itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

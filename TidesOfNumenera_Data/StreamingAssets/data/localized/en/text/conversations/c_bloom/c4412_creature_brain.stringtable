@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4412_creature_brain</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>57</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The head of this creature was truly massive, though the flesh has been eaten away, probably by the same corpuscular maws that attacked you. Parts of the skull are missing, revealing a huge, glistening brain.
+
+An organic sheath still encases the brain, and it looks as if the brain's cranial juices have protected it from serious decomposition. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The massive brain is glistening and wet. A thin, organic sheath has protected it from serious decay.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Use the Magmatic Annulet on the brain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Step away from the brain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Examine the brain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Your suspicions are correct. The brain's sheath hasn't decayed, though a strange and pungent smell emanates from it. This must be why the nascent maws have left it alone - some sort of pheromone seems to push them away. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The creature is thoroughly dead - there's no doubt about that - but the preservation of the brain means that some of its memories could still be intact. A powerful infusion of Tidal energy might bring the brain back to life, at least for a while.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Restore activity to the brain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You concentrate on the flux and pull of the Tides within you, and you send them surging out into the creature's dead mind. Its neck jerks a bit as a simulacrum of life floods into its brainstem. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You close your eyes and touch the Annulet. At once, the creature's final memories drift into your mind...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The slate-and-fuchsia sky above you threatens another spate of the oily slurry it has regurgitated for the past thousand years. Hunger tears your belly, the first signs of impending starvation. You have ruled these vast lands for the centuries of your life, torn your supremacy from the throats of all those who would challenge you. 
+
+And yet... something has changed. The very air has torn asunder, creating a floating rift that leads to another place... a place that smells of raw flesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The entire world *shakes*. More little creatures spill from the walls, but these have lashing tendrils and shining maws. They fall upon you, chewing and annihilating, and you bellow in pain. The world shakes again, and the whole chamber collapses upon you, trapping you, holding you fast as the little monsters devour you, bite by bite. 
+
+Your death is long and agonizing. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Devour a piece of the brain to gain its memories.
+
+{GEORGE/ADAM: we need the Dendra O'Hur ability to precondition this node}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>You slice a small portion of the sheath away from the exposed brain and dig out a handful of raw brain. The sheath closes quickly, healing the gap, though the gouge in the brain itself remains. You raise the handful to your mouth and chew quickly, concentrating on the teachings of the Dendra O'Hur.
+
+The taste is slightly nutty, with an aftertaste of raw sewage.
+
+Images begin to flicker, and your consciousness starts to fade...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Bank 16</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Examine the brain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Examine the brain again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Bank 19</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The brain's sheath hasn't decayed, though a strange and pungent smell emanates from it. Perhaps that's why the corpuscular maws left the brain alone. Its tissues don't seem to be badly damaged.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>A membrane that surrounds the brain has kept it preserved, even though the body is dead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Try to discern how this creature came to the Bloom.
+
+{GEORGE/JOBY : can you think of any other conditionals we might use to make the PC aware of the Bloom's desire?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The lingering aftertaste of the Bloom's juices still befouls your mouth, and the taste grows stronger as you consider the fallen monster.
+
+You can feel impotent rage, hatred, and claustrophobia... and you realize that you're not feeling the creature's mind, but something trapped within. There's a nascent Maw trapped within the creature's stomach, struggling to be free, and with a sudden insight, you know why the corpuscular maws were swarming the corpse. They were trying to free the other Maw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Satsada, can you access this monster's memories?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Riastrad smiles as she says, "I can do better than that. I can link your mind to it."
+
+He reaches out to you, placing his hand on your shoulder, and his other hand rests on the great brain.
+
+Your mind goes away, your consciousness subsumed by the beast's last memories.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>You dive into the rift, suddenly finding yourself in a very different place... a paradise where *everything* is made of meat. Ravenous, you heave yourself toward the nearest wall of flesh, scattering a horde of tiny, two-legged creatures that aren't worth a moment's attention. You tear chunks from the wall, chewing and swallowing. The meat is tough and foul-tasting, but it's *food*, and you're starving. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>The vision fades, and you are alone with the beast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You feel impotent rage, hatred, claustrophobia... but it's not from the creature's mind. There's something trapped *within* that is struggling to be free.
+
+From the way the corpuscular maws were swarming the corpse, whatever's trapped inside is something the Bloom wants set free - perhaps a part of the Bloom itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>You see arcs of movement, small ripples in its surface. The monster is still thoroughly dead, but its brain reacts to the power you've spilled into it.
+
+Several clusters of nerves at the base of the brain begin twitching spasmodically. They may still be connected to other parts of the creature's body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>You eat and eat, carving your way through the wall, and fall through into another chamber. You see a protuberance of flesh nearby, surrounded by wriggling tendrils. It looks delicious, so you tear it from the wall and swallow it whole.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The dead creature's thoughts are disjointed and confused. Its final memories flash into your mind...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Try to scan the brain's thoughts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Your knowledge of healing helps you trace and understand the function of these nerves. It seems that a good many of them are still functional and are associated with bodily functions. One cluster attaches to the shoulder, and another attaches to the back. A third cluster runs down to the intestines. 
+
+Something in the brain is sending and receiving impulses along the tattered nerves. You might be able to manipulate the entire corpse from here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Three separate bundles stand out, and they look as if they're connected to specific parts of the creature's body. It's hard to determine which is which, though, so you'll have to spend some time figuring out which cluster leads where.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>You poke and prod at each cluster, watching how the creature's muscles react and tracing the path of the tangled nerves. Your diligence pays off. You see that one cluster attaches to the shoulder, and another attaches to the back. A third cluster runs down to the intestines.
+
+Something in the brain is sending and receiving impulses along the tattered nerves. You might be able to manipulate the entire corpse from here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>You poke at the nerve clusters, and you see tremors running along the creature's decaying muscles. Unfortunately, it's delicate work, and the nerves are tangled and intertwined. After focusing on the task for a while, you still aren't sure which nerves are connected to which parts of the creature's body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Try to determine what parts of the creature's body are controlled by each nerve cluster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Try again to determine what parts of the corpse can be controlled by each nerve cluster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Examine the nerve clusters at the base of the brain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Again you peer at the nerve clusters, stimulating one and then another, trying to follow their tangled paths, but it's no use. You're still not sure how they connect to the rest of the creature's body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Manipulate the shoulder nerves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>One shoulder and massive arm of the creature shifts slightly. The decomposed limb appears to tighten its grip on the Bloom-flesh, but it quickly relaxes again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Manipulate the back nerves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>The whole back of the corpse contracts and heaves. Chunks of rotting flesh tumble to the ground, and you hear a wet *snap* as nerve fibers separate somewhere in the spine.
+
+You won't be able to try that again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Manipulate the intestinal nerves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>A great peristalsis flows through the creature's viscera. The more you probe the nerves, the greater the force of the expulsion. A trickle of waste - including some fragments of Bloom-flesh - emerges from the backside of the creature with an especially forceful contraction. 
+
+Something rumbles and thrashes in the creature's guts. Whatever it is, it sounds like it's alive... and trapped.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Shake the intestinal nerves to release what is trapped in the creature's guts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>You press hard on the nerve cluster, again and again. The stomach clenches and contracts with terrible force. An unbelievably horrendous mixture spews from the corpse's nether regions, with a miasmic stench that could cause a genocide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Bloom-tongues rip through decaying intestines, spraying stomach juices in every direction. Then a great mouth appears, bursting through the dead flesh. Its tendrils sink into the viscera, anchoring itself in place. 
+
+The *thing* that was trapped in the stomach is a Maw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>The Maw grumbles fitfully, but nothing else happens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>You realize that the Maw must have been feeding on something in the creature's stomach, because it's already sated. Its orifice opens wide, and a portal appears!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>The massive brain is glistening and wet. A thin, organic sheath has protected it from serious decay.
+
+Several nerve clusters at the base of the brain connect to other parts of the creature's body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>The massive brain is glistening and wet. You won't be able to investigate any further while you're fighting the maws.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[DEBUG] Reveal the Maw.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

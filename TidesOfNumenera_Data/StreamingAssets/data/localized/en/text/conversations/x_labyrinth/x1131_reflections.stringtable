@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1131_reflections</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>144</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Slow as glaciers, a vibration builds in the pylons beneath your feet as you consider which doppelganger to choose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Daggers, masks, paintbrushes, and amulets entwine around the mirror's frame. Stranger still is its reflection. 
+
+A crowd of your doubles shove, argue, and fight. Most are drab, but a few vivid selves draw your attention. Each bears an intricate pentagonal tattoo on their head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Point at the doppelganger moving cautiously through the crowd. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Falling into a wary, well-balanced crouch, the doppelganger creeps towards you, scanning its surroundings with suspicious eyes. Each movement it makes is slow, subtle, and deliberate. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Unfolding from the crouch, the doppelganger waits for your decision. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"I want to consider the other choices."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>The doppelganger returns to the crowd. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Yes. That is who I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Your double steps *into* you, filling you, making you whole.
+
+Your decision awakens and unlocks vast mechanisms behind the walls. A grotesque noise rings through both worlds, like a bell if bells could rot. Something is coming...
+
+{ANIM: Reflections steps into PC and vanishes.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Point at the doppelganger with the charming smile. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Your double swaggers forward and tells an outrageous story in a warm, sincere voice, full of confidential asides and unexpected twists.
+
+You're almost certain most of it is lies, but cannot separate them from the truth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>The doppelganger finishes its story with a flourish, and waits for your decision. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Yes. That is who I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Point at the doppelganger with the clever eyes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Your double approaches, but a thug charges from the crowd and brandishes a knife in its face.
+
+Speaking in your voice, your double calms him with disarming wit and outright lies.
+
+The thug scowls, lowers his knife, and apologizes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>The doppelganger turns to you, waiting for your decision.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Yes. That is who I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Point at the doppelganger slipping gracefully through the mob.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Your double darts forward, leans out of the mirror, and gently *pokes* your nose. When you try to return the gesture, it dodges, laughing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>It chuckles, waiting for your decision. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Yes. That is who I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Point at the intelligent doppelganger with the furrowed brow. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>The doppelganger holds itself erect among the pressing crowd. It meets your eyes with a confident gaze, triggering familiar memories in the back of your mind...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>When you return from your contemplation, the doppelganger is waiting for your decision with a knowing smile. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Yes. That is who I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Point at the learned doppelganger reclining on a throne of books.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Your double tucks a few books under its arm and approaches.
+
+It lectures on prior-world technologies: sentient city defenses, shields used by a Steadfast battalion, and bacteria that were perhaps once beneficial, now mutated into a grotesque, weaponized disease.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>The doppelganger falls silent, waiting for your decision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Yes. That is who I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Point at the doppelganger tinkering with a mechanical device. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Your double presents a nineteen-sided device bristling with at least a hundred buttons and levers. With a few muttered words and precise movements, it activates it.
+
+A bulging sphere of air shoots upward and bursts into serrated flower petals. The crowd cheers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Bowing, the doppelganger pockets the device, and waits for your decision. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Yes. That is who I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Point at the doppelganger with the mystical symbol on its brow. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Your double shoulders through the crowd and pulls on an eight-fingered glove. It digs into the glass, tearing a hole shaped like a pointed ear.
+
+Carefully, it speaks an unfamiliar word into the ear. The ground seems to *turn*, as if you stand inside a door it has opened.
+
+The hole vanishes. Nothing has changed. Or has it?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>The doppelganger plucks the eight-fingered glove from its hand, and waits for your decision. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Yes. That is who I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Point at the doppelganger observing all the others. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Your double slips around the crowd and signals you to be silent. Together, you scan the room for hazards, hearing every drip in the depths below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Quietly, the doppelganger waits for your decision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Yes. That is who I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Point at the rugged doppelganger striding on the shoulders of the others. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Your double leaps down, boasting of adventures in unmapped wildernesses: dives into bottomless seas and races across burning, poisonous deserts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>The doppelganger waits for your decision, flexing its limber joints. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Yes. That is who I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Point at the slick doppelganger that's smooth-talking the others.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Grinning roguishly, your double drops stolen coins and approaches, drawing a dagger from a hidden wrist sheath.
+
+It tosses the dagger, catches it by the blade, and whips it at your head. You almost duck before realizing the weapon is still in its hand.
+
+Its smooth apology makes you forget your anger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>The doppelganger spins the dagger back into its sheath and waits for your decision.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Yes. That is who I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Point at the doppelganger moving stealthily through the crowd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>You blink, and your double seems gone.
+
+Then you hear a low chuckle behind you...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>You blink again. It is back behind the glass, waiting for your decision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Yes. That is who I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Point at the strong doppelganger shoving its way through the group. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Your double thunders toward you like a mountain on legs, scattering the others. Its eyes promise violence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>A rumble comes from somewhere deep in its chest as it waits for your decision. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Yes. That is who I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Point at the strong-willed doppelganger. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>It reaches the other side of the mirror, and touches its side of the glass. The surface blurs, and a vision unfolds before you...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Your double stands shackled in a jeering arena beneath a hulking executioner. Unbowed, it warns of what will follow its death. One by one, the crowd falls silent.
+
+It meets the executioner's eyes. Trembling, he swings his axe and severs its chains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>The arena fades into the squabbling crowd. Your strong-willed double lowers its hand and awaits your decision, chin held high.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Yes. That is who I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Point at the doppelganger running swift circles around the group. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Your lean double sprints across the mirror-room and skids to a halt inches from plunging through the glass.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>It stretches, waiting for your decision. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Yes. That is who I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Point at the tough-looking doppelganger. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Your double braces itself, points at you, and taps its bare chin. It seems to want a punch.
+
+It nods as the thought crosses your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Punch the doppelganger as hard as you can.
+
+{ANIM: PC punches Reflection} </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>You strike your double's jaw through the glass with all your strength. Its head rocks aside, but it glances back at you and grins. 
+
+{SOUND: Fist hitting face.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Thumbing a spot of luminescent blood from its lips, the doppelganger waits for your decision. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Yes. That is who I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Kick the reflection into the pit.
+
+{ANIM: PC kicks Reflection, Reflection falls into pit.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>You lash out with your foot, and strike the reflection square in the chest. With a startled yelp, it topples backward into the pit. Eventually, you hear a nasty *thud*, and cursing. 
+
+After a few seconds, the reflection rematerializes at the edge of the pit, eyeing you sourly. Its only souvenirs from the long fall are a few glowing bruises and one nasty scrape. {SCRIPT: Reflection rematerializes}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"I don't want to hit you."
+
+{ANIM: Reflection reacts to invisible hit.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Your double nods sympathetically, then punches *itself* across the chin as hard as it can. It spits out a tooth and grins. 
+
+{SOUND: Fist hitting face.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Point at the hulking doppelganger with wrath in its eyes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Your double whirls a club, clearing a path through the crowd.
+
+It stomps up, glowers at you, then strikes the ground and roars in your face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>The doppelganger growls, waiting for your decision. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Yes. That is who I am."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Step away from the mirror.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Countless doppelgangers of you crowd the reflected version of this room. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Point at the wrathful doppelganger again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Point at the tough-looking doppelganger again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Bank 207</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Point at the swift doppelganger again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Point at the strong doppelganger again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Point at the stealthy doppelganger again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>Point at the strong-willed doppelganger again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>Point at the slick doppelganger again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Point at the rugged doppelganger again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>Point at the observant doppelganger again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Point at the doppelganger with the mystical symbol on its brow again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Summon the doppelganger with the mechanical device back. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Point at the learned doppelganger again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Point at the intelligent doppelganger again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Point at the graceful doppelganger again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Point at the doppelganger with the clever eyes again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>Point at the doppelganger with the charming smile again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Point at the cautious doppelganger again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Bank 227</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Let me choose my own path."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"No... I think I'll choose my own path after all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>Bank 230</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>The countless doppelgangers freeze, watching you out of the corners of their eyes. You realize they're waiting to see if you're certain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Once again, the doppelgangers go still, waiting for you to confirm your choice. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Yes, I'm sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Actually, let me see my choices again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>The doppelgangers resume their chaotic festival as nothing happened. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Their eyes and actions reflect the memories you found in the orbs and the choices you made. Your hand twitches. Some bright doubles ignore you; a few turn, waiting for you to choose what you might become.
+
+A rumble shakes the room. Vibration rises from the darkness below toward the ceiling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>Your doppelganger gives you a respectful nod. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>The doubles freeze, watching you. Then they scatter, whooping, and vanish behind the mirror's ornate edges. Only your true double remains, yours to shape.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>[DEBUG] Show me the results of my choices.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>Descriptor: Anything 2 or greater should appear in the list of responses. If all of them are less than 2, then Tough should be the only option available (this should be very rare).
+
+If anything of them are -1, then something is broken. 
+
+Cautious: [Global: x1131_Descriptor_Cautious]
+Charming: [Global: x1131_Descriptor_Charming]
+Clever: [Global: x1131_Descriptor_Clever]
+Graceful: [Global: x1131_Descriptor_Graceful]
+Intelligent: [Global: x1131_Descriptor_Intelligent]
+Learned: [Global: x1131_Descriptor_Learned]
+Mechanical: [Global: x1131_Descriptor_Mechanical]
+Mystical: [Global: x1131_Descriptor_Mystical]
+Observant: [Global: x1131_Descriptor_Observant]
+Rugged: [Global: x1131_Descriptor_Rugged]
+Slick: [Global: x1131_Descriptor_Slick]
+Stealthy: [Global: x1131_Descriptor_Stealthy]
+Strong: [Global: x1131_Descriptor_Strong]
+Strong-Willed: [Global: x1131_Descriptor_StrongWilled]
+Swift: [Global: x1131_Descriptor_Swift]
+Tough: [Global: x1131_Descriptor_Tough]
+Wrathful: [Global: x1131_Descriptor_Wrathful]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"These aren't me. I want to choose my own path."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>[In the real game, at this point you'd have the opportunity to review and change your Stat Pool allocations and Descriptor.
+
+Thus concludes this Alpha Systems Test. Thank you for playing. Please send us your thoughts through the in-game feedback button.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>The mirror fades, leaving a dark, open doorway. You take a deep breath and step through.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>[TEMP TEXT] Now it lets you choose your class. What do you choose?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>[Glaive]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>[Nano]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>[Jack]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>Greater than 1 means Glaive. Less than -1 means Nano. All else means Jack.
+
+Class Leaning: [Global: x1131_ClassLeaning]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>The remaining doppelgangers scatter for the edges of the mirror and vanish. Your chosen identity steps forward. Its appearance changes as it steps out of the rippling glass.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Its body grows stronger and more supple. Shadows of weapons flicker in its hand; different kinds of armor shimmer over it. You feel that it - you - would be comfortable with them all.
+
+The word 'glaive' sounds in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Its face is intelligent and confident. Shadows of devices from many past ages shimmer around it. You feel that it - you - would be comfortable with all of them.
+
+The word 'nano' sounds in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>Its face is confident and clever. Shadows of weapons flicker in its hand; a few devices shimmer at its belt. You feel that it - you - would be comfortable in a variety of situations.
+
+The word 'jack' sounds in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

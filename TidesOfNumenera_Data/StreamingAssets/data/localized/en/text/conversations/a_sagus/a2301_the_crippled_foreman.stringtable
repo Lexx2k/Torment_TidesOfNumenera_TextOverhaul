@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_the_crippled_foreman</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>128</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Segments of this bisected construct's legs lie scattered around it. Someone has painstakingly altered these pieces, giving them small limbs and tiny metallic heads.
+
+Nonetheless, they aren't moving. The larger construct's turquoise eyes flicker out of sync with each other as they turn towards you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The Foreman's pupils fix on you. One of them is guttering like a candle flame. 
+
+"You have returned. What do you wish to discuss?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I do not understand." it says. The voice emerging from the grill around its eyes is soft, as though you are hearing it from far away. "Don't they want to live? The viaducts are open. The commands are received. And yet..."
+
+Its eye-lights flutter. "Every time I give my children life, they die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Let me examine them. I might be able to help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"I wish I could help you in some way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"You know *wanting* isn't enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"It may be that you can," it says. "I have performed some new calculations, and a new direction has presented itself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"You are correct," it says. "Nonetheless, the desire persists. Fortunately, a new direction has presented itself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>It does not protest, so you examine the motionless constructs on the ground in front of the Foreman.  
+
+From what you can understand of the technology here, the Foreman is correct. These little constructs should be working, but they aren't. It may be possible that the flaw is not in *them*.
+
+You share this information with the Foreman. "I agree," it says. "And I believe a new direction has presented itself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"My children need more energy to live, but my construction prevents me from transfers above a certain threshold, and for good reason."
+
+Its pupils rotate, contracting. "Energy transfers above a certain percentage would lead to a chain of ruptures in my intelligence rings. I would die."
+
+Its voice mesh clicks. "Help me force myself to make this transfer, for I cannot do it myself." 
+
+*click* "Help me give my life to my children."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>""
+{GAVIN: Voice pending.}
+{SATSADA}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"What it asks sounds difficult," she murmurs, tapping her chin. "Difficult, but not impossible. The Order of Truth may be able to help us accomplish what it wants."
+{CALLISTEGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Don't know about you," she says, "but messing with ancient constructs isn't *my* area of expertise. Try talking with the Order of Truth about this. They might know how to do what this thing wants."
+{MATKINA}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Use your mind to channel the construct's life directly into the bodies of its children.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Bank 15</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Can I examine you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Can I examine you again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Aligern, can  you help me examine this construct?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Callistege, can  you help me examine this construct?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Sure, kid," he says, giving you an odd look.
+
+""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Your companion says nothing. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Your companion says nothing. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Yes," it says. "Tarnish, open my preservation hatches and viaduct shields, please."
+
+The elderly workman shuffles over and does as he's asked. 
+{SOUND: Unlatching of a hatch.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Certainly," it says. "Tarnish? Open the hatches and shields again, please."
+
+Tarnish unlatches his master's maintenance doors and stands aside. 
+{SOUND: Unlatching of a hatch.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Bank 26</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>From what you see, the Foreman's trouble is *not* due to his physical body. Something must be wrong with the intelligence itself - the Foreman's mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>The vision falls on you like a wave swallowing a swimmer. 
+
+You approach this Foreman - still possessed of its legs - and open the same hatches that Tarnish did. 
+
+"I know it looks complex," the Foreman says. "But the viaducts are the simplest part. The machine spirit - me, that is - is trickier. Even I don't fully understand it." It laughs. "Me."
+
+The vision fades, leaving you standing before the ruins of that once-cheerful construct again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>The tubes themselves have an oddly organic configuration that curve through several mysterious, brushed cases. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Bank 30</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Attempt to bypass the Foreman's mind and pass its life to its children.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Make another attempt to bypass the Foreman's mind to pass its life to its children.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Working blindly, you jam your hands into the Foreman's body, ripping, realigning, and doing untold amounts of damage in your attempt to fulfill the construct's wishes. 
+
+Eventually, you succeed. Cold energy pours through the air like blood from a wound, flooding into the motionless children. One by one, their tiny eyes flicker into life. One by one, the Foreman's eyes go out. Its voice mesh rattles, as if it's going to speak...
+{VFX: If we have vfx for the baby constructs when they come to life, play them here.}
+{SOUND: Mechanical ripping, screeching}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>After several frustrating minutes of digging through the construct's innards, you concede defeat. The Foreman's body simply refuses to transfer as much energy as will be necessary to bring the children to life. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Oh my," Callistege says beside you. "I don't claim to understand everything I'm seeing here, but you'll need an extra set of hands if you're planning to do what the poor creature wants."
+
+She smiles. "I have hands to spare, of course."
+
+{CALLISTEGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Aligern steps up beside you and gives a low whistle. 
+
+"Not sure I understand everything I'm looking at, but I'll tell you this - killing this construct's not a job for one person. If you decide to do what it wants, I'll lend a hand."
+{ALIGERN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Bank 37</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Your assistant Tarnish doesn't want you to die. If you're gone, he'll have no one. Can't you find some other way to have children?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"You have to find another way to have children. Tarnish doesn't deserve to watch you die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>You hear a faint, rhythmic clanking, as though a gear has come loose in a distant, ancient clock. 
+
+"He has served me more than well," the construct says at last, but softly. "And he is not young."
+
+A sigh rattles from the mesh around its eyes. "Perhaps... I will wait. Run more tests. I have nothing but time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"If there were another way, I would have found it. I refuse to birth another generation just to watch them die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Without another word, you open yourself to the Tides, becoming a conduit between the construct and its children. You inhale, and with a single thought, unravel the tangled logic binding the construct's life to its ancient body. The children stir. 
+
+In you, for the briefest moment, the construct and its children meet, but their thoughts and the words that pass between them elude you.  
+
+You stagger back and raise your aching head. The Foreman is smoking and broken. 
+{SOUND: Rushing wind with hints of static. Mechanical whispering of indistinct words.}
+{VFX: If we have vfx for the baby constructs when they come to life, start them here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>
+
+{SCRIPT: Tarnish exits.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Keep them all. Maybe they can be used as cyphers and power sources.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Take the dead one, and let the others go free. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>You carefully pick up the stillborn construct, cradling it. The rest of the Foreman's children chase each other for a few moments longer before following the one heading for the exit.
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>::pop::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>One by one, you scoop up the Foreman's children and tuck them away, ignoring their squawks and wails. 
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Bank 49</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Can you tell me about how you and the other Foremen came to be like this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Why don't you want to talk about your past?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I will not," the Foreman says calmly. "It is not an era I wish to revisit. Speak with the Master Foreman instead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Because the Master Foreman revels in the past and will be happy to share it with you. I do not, and would not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"These tiny things are your children?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"You can't have children. You're a machine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Not anymore," it says. "Now, they are inanimate and lifeless. Their adaptive personalities have been lost. I do not understand why they are dying."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"I have given the subject of procreation a great deal of thought over the last century and there are no errors in my calculations. My assistant Tarnish built my children's bodies to my precise specifications. Their intelligence reservoirs are shielded against permanent loss."
+
+Its eyes look away from yours, as if it is embarrassed. "And I want them to live. That should be enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"I lack the supporting evidence to contradict you effectively," it says, fixing its flat, flickering pupils on you. "But I disagree nonetheless."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"This is ridiculous. Only living things have children. You're a *machine*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Its engines hum in the silence that follows. 
+
+"I will not argue life with you," it says at last, quite calmly. "Know only that I have existed long enough to witness the destruction of moons and the death of stars." 
+
+A firm click comes from its 'mouth'. "In all that time, I have not established an absolute definition of 'life'. I would advise you to reconsider your opinions. If you can, I would appreciate your help. A new direction has presented itself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>::szzzzkt::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"You seem very... dispassionate about your failures to create children."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Bank 67</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Why do you want children?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Why do you want children again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Need," the construct says. "Not want."
+
+Its pupils study the distant ceiling. "When I was born, I began working in seconds. I did this until our creators shut down our bodies. In the millennia since, I have focused on designing the infrastructure beneath the other foremen's work and instructing workers on how to execute on these designs." 
+
+Its pupils fall back to you. "Eventually, I realized I was unhappy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"To meet them, however briefly. They are waiting for me to find them and give them life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"I have been through twenty-seven iterations of birth. With each attempt, more of my non-essential personality and intelligence rings rupture."
+
+The Foreman's eyes dim. "Know that these small bodies are only bodies. Twenty-seven versions of my children have lived and died within them. Know that they lived long enough for me to understand their personalities and name them before they were purged. Lost." 
+
+A soft whirring issues from the mesh around the Foreman's flickering eyes.
+{SOUND: A soft whirring with VERY slightly mournful undertones.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"From time to time, my workers brought their children to the manufactory. Holding their small hands. Explaining the mysteries of this place to them." 
+
+Its pupils flicker off. "It began as a thought - what would I teach my own children? To be curious. To explore. To ask foolish questions. To see the world above that we three have never seen."
+
+The Foreman's pupils reappear. "And when I thought these things, I saw the shape of my children, outlined by daylight. They already existed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>You've never seen technology like this - wires pass through glass tubes threaded with pale light and star-speckled darkness. 
+
+You glance over at Tarnish. He's looking away, arms crossed, as though unwilling to watch a stranger tinker with his master. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>::zzzt::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"He'd want me to thank you," the old man says hoarsely. "But I ain't. You knew him all of ten minutes. Known him my entire life, I have, and you came an' took him from me."
+
+Without a look at his master's children, Tarnish sets off into the dark.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Bank 77</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"A lovely idea," she says. "I look forward to prying them apart."
+{CALLISTEGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"I wondered why you were going through all that trouble. Guess I shouldn't be surprised."
+{ALIGERN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Bank 77</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Ah, how lovely. I do hope no one steps on them."
+{CALLISTEGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>He grunts.
+
+"That was a good thing you did, kid."{ALIGERN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Will you help me?" the Foreman says. The words  are almost buried beneath a crackling surge of static. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"I want to help you. How do I begin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Who should I speak to about transferring your energy?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Speak to Tarnish, my assistant. He may be able to help you understand how I function if he is feeling well enough." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Tarnish, my assistant. He will advise you on how to proceed, if he can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"I don't want to help you kill yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Very well," it says. "I will be here if you change your mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Bank 96</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Use the Procreative Surge Turbine to transfer the Foreman's life to its children.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Try using the Procreative Surge Turbine on the Foreman again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>The Turbine hums into life. The fans within whirl, singing a high, trembling note, and cold energy pours through the air like blood from a wound, flooding into the motionless children. One by one, their tiny eyes flicker into life. One by one, the Foreman's eyes go out. Its voice mesh rattles, as if it's going to speak...
+{VFX: If we have vfx for the baby constructs when they come to life, play them here.}
+{SOUND: See above. Whirling, trembling note.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Wisps of cold energy stutter in the air between the Foreman and its children. The Turbine isn't doing anything. Perhaps you didn't activate the device properly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>But it doesn't. It can't. The children watch the death of their parent with wide, glowing eyes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>The Foreman's flickering eyes focus on you as you approach, and an intermittent buzzing fills the air. You feel the air thicken and segment around you, as though invisible fingers are prodding at your belongings. 
+
+"You have brought a device from the Order of Truth," the Foreman says at last. "What is its purpose?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"I hope you are right," the construct says. "I am ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Very well," the construct says. "I am ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"It should bypass the part of you that is preventing you from creating offspring."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"All you need to know is that it *should* work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Go," the construct croaks. "Explore. L-"
+
+And it falls silent. The children watch the death of their parent with wide, glowing eyes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Some of the little constructs wander in circles, chirping to themselves. One of them is already making for the exit. And one is motionless. Stillborn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>[DEBUG: Have Tarnish leave...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Leave the dead one, and let the others go free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>As before, the Turbine doesn't appear to be doing anything.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>You try again but are still unable to make any progress.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"There is no other way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>You examine it for several minutes but learn nothing you didn't learn before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>As with the other construct, you feel the bubbling sensation in your mind. This construct's thoughts are likewise unreadable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>You feel a bubbling sensation in your  mind. It must be the construct's surface thoughts, but they are too quick and alien for you to make any sense of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>You feel a bubbling sensation in your  mind. It must be the construct's surface thoughts, but they are too quick and alien for you to make any sense of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"I want to help you. How do I begin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Speak to Tarnish, my assistant. He may be able to help you understand how I function if he is feeling well enough." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"I don't want to help you kill yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Very well," it says. "If you change your mind, my assistant Tarnish may have some ideas on how to proceed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"I don't have time for this nonsense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"I am sorry to hear that," it says, in the same bland, broken voice. "But if you change your mind, my assistant Tarnish may have some ideas on how to proceed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>The Foreman's children chase each other around for a few moments longer before following the one heading for the exit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"That was well handled, dear. This construct will serve the world far better with its knowledge than it ever could with its idiot spawn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"What will you do now that you've decided to live on?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Remind me what you're going to do now that you've decided to live on."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Hot air sighs from the Foreman's vents. 
+
+"Study the deaths of my children so that I will not fail in the future," it says, so softly that you barely hear it. "Count the minutes until I can try again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Study my failures," the construct says softly. "Mourn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>::sssssrr: Oom whispers, looking away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>::mmm:: Oom says, watching them go. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

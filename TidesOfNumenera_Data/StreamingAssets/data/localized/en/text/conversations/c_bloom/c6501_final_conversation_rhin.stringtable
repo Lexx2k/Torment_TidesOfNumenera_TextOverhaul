@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c6501_final_conversation_rhin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Rhin says what she's going to do.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Rhin says what she's going to do.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Rhin says what she's going to do.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Rhin says what she's going to do.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Rhin says what she's going to do.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Rhn says what she's going to do.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"{As a loving child to her parent}We've come this far. I'm staying with you." She takes your hand. Hers seems larger than when you first met.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"{As a loving child to her parent}I still need a home, right? I'm staying with you until I find it." She takes your hand. Hers seems larger than when you first met.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"{Sad and uncertain; she used to love the PC but because of his actions she's changed her mind about him}I think... I think it's time I went home. I'm going back to Aen-tozon. I'm sorry. We've been through so much together, but... it's just time. I'm sorry." She turns away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"{Sad and uncertain; she used to love the PC but because of his actions she's changed her mind about him}I don't know. I've learned a lot being with you, but... I think it's time I set out on my own. I need to find my way home, and you're not... Well, you're not any safer than I'd be by myself, I guess."
+
+She smiles, brushing her hair back from her scar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"{Sighs}There's nothing here for me, now. I'm going to that Aen-tozon person. I'm going back home."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"{Sighs}I guess I still need to find my way home. I learned a lot from him. I'm grateful."</DefaultText>
+      <FemaleText>"{Sighs}I guess I still need to find my way home. I learned a lot from her. I'm grateful."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"He was going to help me find a way home." She cocks her head to one side. "But you're not... him. Are you?"</DefaultText>
+      <FemaleText>"She was going to help me find a way home." She cocks her head to one side. "But you're not... her. Are you?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"No. But maybe I can help nonetheless."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"No. I'm not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"No. I'm not beholden to his promises. I have my own life to live now."</DefaultText>
+      <FemaleText>"No. I'm not beholden to her promises. I have my own life to live now."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"{Sweet, happy}I'd like that." She takes Miika's hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"He was my... my family, I guess." She tilts her head. "But you're not him. Are you?"</DefaultText>
+      <FemaleText>"She was my... my family, I guess." She tilts her head. "But you're not her. Are you?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"No. But maybe I could take the place he abandoned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Trigger Conv Node 42</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

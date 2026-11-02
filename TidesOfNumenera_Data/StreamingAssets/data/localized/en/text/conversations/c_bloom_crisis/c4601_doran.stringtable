@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom_crisis\c4601_doran</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>143</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This tall, weathered man bars your path with a slight, confident smile. 
+
+"I am Doran, castoff. Prophet of your father, the Changing God. Whatever you did in that cave has caught the Changing God's attention. He knows you're here now, and he has asked me to destroy your mind."
+
+His smile broadens. "Do not resist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Suddenly, his pupils slide out of view - not up, but sideways, as abruptly as if they've been slapped. 
+
+"Yes," he says in the same, casual tone. "Of course. It won't be long now."
+
+His pupils return - from the opposite side. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"What just happened to your eyes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"It won't be long until what?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I'm not surrendering my mind to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"What? Oh, of course. Apologies. I didn't mean to alarm you."
+
+He seems to mean this.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"I wasn't talking to you," he says, with mild reproach. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"But you will," he says patiently. "Willingly or not, you will. I have been given directions, and they will be carried out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Your father speaks to me," he says, pointing at a tiny device at the base of his skull - too small to have noticed before. "He has told me that he has need of your body, and I have learned over the years to trust what he says."
+
+A hint of sorrow touches his eyes. "It is time to return your father's property, castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"When did the Changing God start speaking to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Years ago," Doran says simply. He taps the base of his skull. "Ever since his device attached itself to me while I was exploring one of his abandoned laboratories."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"A pity," he says, gesturing his followers forward. "Now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Attack] "I won't give in to him or you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"He has asked me to tell you that the erasure of your mind will not hurt. He will simply nudge your mind into oblivion and take its place."
+
+Doran bows his head. "He will be among us at last, thanks to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"How would this erasure proceed?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"The Changing God is using you. That's what he does."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Simply," he says, drawing himself further up. "Just bow your head, and your father's mouthpiece will leave me temporarily to bond with you. You will close your eyes, and it will be done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Of course he is," Doran says. sighing. "And we choose to let him. You and your kind do not have the same freedom. That body does not belong to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"It must be exhausting," he says, compassion in every line of his face. "It must be impossible, knowing that your every breath is borrowed. That your discoveries do not ultimately belong to you, and that your only marks on the world will be the ones he does not wipe away."
+
+He clasps his hands. "Thankfully, we are here to take that burden from you. It is time to sleep, castoff. It is time to surrender."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>(Lie) "Enough of this. *I* am the Changing God, and you have passed my test, Doran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I'm... tempted by your offer. My life has not been an easy one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Attack] "Enough. Your god has sent you here to die. Let's be done with this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Before I make a decision, I want to talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Of course," he says, inclining his head. The clustered eyes of the spiderlike thing on his skull flare at the sight of you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Really?" Aligern says, eyeing Doran with open disdain. "You survived Miel Avest just to surrender to *him*? A former scav who wears his religion on his head?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I'd hate to think that you survived Miel Avest just to surrender to a deluded prophet," Callistege drawls, ignoring Doran entirely. "Commit suicide another time, dear. Have some pride."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"What? No. What?" Erritis says, looking frantically between the two of you. "We can't *surrender*. That's no ending for a story like ours!"
+
+He pauses. "Unless... surrounded? Protecting... protecting orphans? Baby animals? Orphaned baby animals?"
+
+He gasps in delight. "And then, we're all executed!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"This is a trick, right?" Rhin whispers. "You're planning something. Just give me a clue. You're worrying me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"You have been running yourself too hard," Tybir says, laying a fatherly hand on your shoulder. "Maybe some oblivion would suit you. Give you... hold on," he says to Doran, frowning. "Did you say this trade-off was permanent? That our friend here would *die*? I have to admit that I stopped listening after you said hello."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Please," Matkina says, rolling her eyes. "Compared to me, you've been alive for *seconds*, and you're *tired*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I understand," he says, nodding slowly, brow canted in sorrow. "And that is why we are here - to take your pain from you. Just submit, and all of your suffering will be over."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Quiet," Doran says, raising a hand to forestall the angry murmurs of the other cultists.
+
+"You do not understand," he tells Aligern, "but there is no shame in that. You may stay with us to learn after this business is done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Quiet," Doran says, raising a hand to forestall the angry murmurs of the other cultists.
+
+"You do not understand," he tells Callistege, "but there is no shame in that. You may stay with us to learn after this business is done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Doran watches him with polite interest for a few more seconds before turning back to you as if nothing has happened. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Quiet," Doran says, raising a hand to forestall the angry murmurs of the other cultists.
+
+"Be grateful," he tells her. "Be grateful that your father hasn't sent us for *you* today."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Doran glances between the two of you, slightly confused. 
+
+"Yes," he says finally. "The Changing God wants his vessel returned."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I'm ready to die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Attack] "Actually, I think I'll endure my suffering a while longer. Let's see how *you* handle pain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>You bow your head as instructed, but not before you see the device shoot off the back of Doran's head and soar across the space between you. A crimson, mechanical orifice - that must have been *inside* Doran's head - scissors open.
+
+It plunges painfully into your neck and skull. Then a bloody light explodes through your head, ripping your mind apart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Before I make a decision, I want to talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I understand," he says, nodding slowly, brow canted in sorrow. "And that is why we are here - to take your pain from you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"I'll give you one chance to run. Just one. Be smart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>His complacency drains in the face of your threat.  His eyes pop open wide. His hands fly instinctively to his ears as though someone were shouting at him. 
+
+"We... I... I'm sorry! This was a mistake. I'm not strong enough! I don't want to d-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>His complacency drains in the face of your threat, but his mouth hardens. 
+
+"Attack," he spits, gesturing his followers toward you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>There is a high-pitched keening. Doran clutches the device at the back of his skull as though it were hurting him. He groans, swaying. 
+
+With a soggy *crump*, his head bursts. With a single, horrified glance at their fallen prophet, his followers flee.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>::splurp::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>He laughs, but the smile fades from his face as he realizes you're not joking. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>And in that moment of uncertainty, a memory rises through you like chill water. 
+
+You are in a dark room. Screens hang at angles around you. On them, Doran shivers beneath a tattered blanket. The device on his skull grows hot - from the look on his face, painfully so. 
+
+"You doubted me," you say. "You need proof that I am here. Next time you doubt, you'll remember the pain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"I hear you," he moans, clutching his head. "I hear you!"
+
+His pupils return, sliding back into place in fitful bursts. 
+
+"The voice in my head disagrees. It says you are lying."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Why, Doran. Are you *doubting* again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Attack] "It's right. I just wanted to catch you off guard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"I don't fault you for doubting me, but I *am* the Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"You are the least among my followers, Doran. Do not test my patience."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Well, it was worth a try, anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>He recoils, tears coming to his eyes. 
+
+"N-no, Holy One," he stammers, hands flying to his head. "Never. Never again." 
+
+He stumbles backwards, pulling at his followers. Confused, they follow him, glancing back at you with fear and awe. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Never again. Never again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"That's kind of you," he allows, raising an eyebrow. "But I am not convinced, castoff. I have known your father for longer than you've been alive."
+
+He breathes an exasperated sigh. "Surrender, castoff. Surrender *now*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Fear flickers across his face... and vanishes. 
+
+"I don't doubt that you're capable of violence," he says, "But you are not your father, castoff. I know his voice."
+
+He raises his chin. "Surrender, castoff. Surrender *now*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Not now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"We're busy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Bother someone else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"What is that device, anyway?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"One of his mouthpieces," he says, brow furrowing. Apparently, he had assumed this was common knowledge among castoffs.
+
+Smiling, he shakes his head in self-deprecating amusement. "I picked this relic up, examined it, and discarded it. But then it shot up from the ground and chose me. Claimed me. Your father has spoken to me ever since."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Aligern snorts so hard that it's a wonder his nose doesn't fly off.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Is it speaking to me?" she asks you. "Dreadful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"If he had," Matkina says, with brittle calm, "your bodies would already be cooling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Oh," Tybir says, arching an eyebrow. "No, don't do that. Let's kill them all instead and laugh about it afterwards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>The vision fades as they always do, but Doran - this Doran - is groaning. His eyes have gone white once more.
+
+The Changing God is speaking to him. 
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Then his pupils disappear once more as the Changing God speaks to him. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>An odd expression flickers across his face - a mix between a grimace and a smirk. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"No," he says, sighing. "It wasn't. Surrender, castoff. Surrender *now*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>He stumbles back, eyes wide, as you move to attack.
+
+{SCRIPT: PC gets initiative in battle}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Hello again, castoff," Doran says, nodding at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>This tall, weathered man nods to you. He holds himself stiffly, as if something will crack off if he moves too quickly.
+
+He glances at your tattoo and smiles. "Hello, castoff. I am Doran, prophet of the Changing God. It's been a while since we've seen anyone come through here. What's your business in the Ascension?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Doran bars your path with a slight, confident smile. 
+
+"Greetings again, castoff. Whatever you did in that cave has caught the Changing God's attention. He knows you're here now, and he has asked me to destroy your mind."
+
+His smile broadens. "Do not resist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"What does it mean that you're a prophet of the Changing God?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"What are you doing in the Ascension?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"I'm looking for a circlet of dark, hyaline material, known as the Magmatic Annulet. Have you seen anything like that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"A title only," he says, bowing his head in momentary respect. "The cultists of the Changing God believe I have a 'special connection' because I found some well-hidden secrets of your father's once."
+
+He shrugs. "Between you and me, I just got lucky."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Seeking," he says in a studied, casual tone. "We have it on good - though possibly outdated - authority that this place holds more of your father's secrets. We've found nothing yet, however. Until we do, we are enjoying the sights and the silence. The crystals and the lights."
+
+He shrugs. "Our pursuits have taken us to less pleasant places."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>He raises his eyebrows. "Now that *is* interesting business. Sadly, I cannot help you. We've seen nothing but pretty lights. To be honest, I think that's all there *is* to this place." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>You don't hear any thoughts from his mind at all. It's just... quiet. As if something is carefully and silently listening from the dark reaches of his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"And farewell to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Did the 'good authority' that brought you here come from the Changing God?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>He laughs. "As I said, I just got lucky. I hoped to find luck here as well. Whether we will remains to be seen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"What can you tell me about this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Are you sure you can't tell me anything about the Ascension?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"That does not strike me as an honest answer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Let it go.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"It is the only one you're getting," he says, folding his arms. His tone is distant, but not impolite. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>He folds his arms, waiting for you to speak. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Are you sure?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Yes," he says, folding his arms.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Very little," he says, blinking. "There are crystals. There are lights. There is no one to talk to and little of value to find. It's a lovely world, but I fear we may be wasting our time here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"There is little to tell. It's a beautiful place but devoid of life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"I spoke with the crystal shrine over there. It says this place is filled with sentient beings called phobits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>He gives you a flat, disbelieving stare. Suddenly he bursts into laughter. "You're jesting! I see. No, friend. We have explored this entire area. *We* are the only sentients in this place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"The crystalline being I mentioned says that one of you has two patterns of thought in their head."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"How alarming," Doran says with a smirk. "Thank you for bringing that to my attention."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Your 'crystalline friend' was right. One of us does have two 'thought patterns'. Your father speaks to me in my mind."
+
+He turns his head slightly to the side, pointing at a tiny device at the base of his skull - too small to have noticed before. "He has told me that he has need of your body, and I have learned over the years to trust what he says."
+
+A hint of sorrow touches his eyes. "It is time to return your father's property, castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"So, I'm the reason you were here after all. The Changing God sent you to find me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>He nods, a fine line deepening between his eyebrows. 
+
+"I was told to wait for one of his children, one bearing the Magmatic Annulet. At the time, you did not have it, so we let you pass. Imagine if we stopped the wrong castoff!"
+
+He shakes his head with a rueful smile. 
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"My business is none of yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>He raises his eyebrows. "Is that so? I'll leave you to your business, then. Unless there's something else you wanted to discuss?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Are you part of the cult of the Changing God in Sagus? Because *I'm* the Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Are you related to the cult of the Changing God in Sagus Cliffs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>He narrows his eyes. "Possible, I suppose. But highly unlikely. Perhaps your actions will prove you out... but I doubt it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"We *are* cultists of the Changing God, yes... though I'm afraid we have little to do with our colleagues in Sagus Cliffs. There is... not a lot of oversight between our churches."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"You said you weren't really a prophet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>He shrugs. "I lied."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"I'm just exploring."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Dracogen sent me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>He laughs. "I understand. What else would bring anyone to this destitute place? Anything we can help you with, friend?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"What does it mean that you're a prophet of the Changing God?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"What secrets of the Changing God did you find?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>He waves it off modestly. "Nothing that would interest you. An old workshop of his with some trinkets. I didn't understand any of it, but the cultists were *ecstatic*. They drafted me as a prophet and confiscated everything. Well..." He winks. "...everything I didn't sell first. Fair compensation for my efforts, you know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"The Changing God is trapped in my mind, though. How can he be speaking to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>He looks confused for a moment. "In... *your* mind? I don't..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>He raises a hand to his head. "Ah," he says. "It seems he *is* in your mind. But maybe you've forgotten who we're talking about. The Changing God has been alive for centuries - maybe more! He would never let himself be trapped or rendered helpless. He is *never* powerless. I am proof of that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Script Node 149</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Finally, a new face! Where did you come from, stranger?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>[DEBUG] Test the cutscenes of Doran's head exploding and his men running away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>[DEBUG] Test Doran walking away after you use Anamnesis-gained knowledge to convince him you *are* TCG.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>[DEBUG] Test surrendering to Doran (leads to a GAME OVER death!).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>::ssss:: Oom growls, watching you with some concern. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

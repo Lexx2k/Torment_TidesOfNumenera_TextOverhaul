@@ -1,0 +1,2547 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3301_aadiriis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>481</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Correct, and astutely judged."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"How does your understanding of the Endless Battle progress?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Have you helped Raima and Andronus come to a conclusion yet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Her composure is beginning to crack. You see the fear in her eyes, held in check only by her iron will.
+
+"You're awake. Quickly now - while you were inside the Mere... gods! The shields have fallen. The Sorrow is breaking into the sanctuary."
+
+She scans the area. "It's destroying our home. The others are trying to hold it back, but tell me first - did you find what you were looking for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Have you spoken with Melmoth, then? What did he say?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Even among all your siblings in Miel Avest, this woman is remarkably beautiful. Clad in a robe of myriad colors, she carries herself with a distinct grace and ease. Her skin is dark brown, her hair a rippling, midnight black. Her violet eyes blaze momentarily as you approach, and she holds up her hand. Her voice is musical and sweet.
+
+"You are most welcome here, brother. I am Aadiriis. I am the peacekeeper of Miel Avest."</DefaultText>
+      <FemaleText>Even among all your siblings in Miel Avest, this woman is remarkably beautiful. Clad in a robe of myriad colors, she carries herself with a distinct grace and ease. Her skin is dark brown, her hair a rippling, midnight black. Her violet eyes blaze momentarily as you approach, and she holds up her hand. Her voice is musical and sweet.
+
+"You are most welcome here, sister. I am Aadiriis. I am the peacekeeper of Miel Avest."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Her smile is radiant. "Well, my friend, you return. What do you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Worse. The Changing God is alive inside my mind. He's trying to take over my consciousness."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"I found some hope. The First is still alive. She's in hiding. In the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Yes and no. Mazzof says the resonance chamber will destroy us all if the Changing God activates it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"What? He has no right - *no right* - to do that. Fight him! And if you must, destroy him. Your life is at stake."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>She reels. "But... but how.... No. That's not important now. What's important is that you find her. She's the only one who will help us against the Sorrow. Our sire has shut himself away from us, and we can't count on him for help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"You mean the First was right all along? You must find a way to stop him! He must not be allowed to succeed!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Now we must deal with the situation at hand. A few have already escaped, but most are trapped within the rubble and flames - some too terrified to move! You must get to the teleportation platform and flee. Save as many as you can on your way!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Let's talk about you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Who put you in charge of Miel Avest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Why are you running this place again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"What do *you* think of the Endless Battle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Tell me why you don't support either side in the Endless Battle again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Where is Mazzof?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Tell me where Mazzof is again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"To be free to choose is a part of life in Miel Avest. We must own our choices... just as we own our responsibilities for the outcomes of those choices."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Very well. What do you believe the point of the Endless Battle is?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The ability to ask Aadiriis's opinion could be locked somehow so it's trickier to find that Response Option. If the player asks Aadiriis's opinion, she will say that while she disapproves of the methods, the goals of both sides have always been to protect the castoffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>When he has learned at least 3 opinions, Aadiriis asks him "In your opinion, what is the point of the Endless Battle?" The player can gather more opinions first, or he can choose to answer at any time. (If the player has gathered all possible opinions, then he must answer now. This conditional might be tricky, so it's optional.)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Some response options will only be unlocked when the player has spoken to certain people. No matter what the player answers, Aadiriis will rebut based on her own beliefs - she will even rebut the opinion she herself gave to the player. The point of the task is not to find the correct answer, but to teach the player to constantly learn and challenge his beliefs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>She will not respond to his answers right away, merely asking him about each task in turn. When he has answered all three, she will explain her philosophy more fully: that her purpose behind the tasks was to challenge the player. Everyone is so certain of their beliefs, but so few challenge them or seek to understand the beliefs of others.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"You have the power to change the course of a life - of many lives - without their permission or even their knowledge. You will have to weigh their desires against your own, deciding whether the needs of your life are more important than theirs. You will have to *know*, with the utmost certainty and integrity, what does one life matter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>When this trial is over, Aadiriis will entrust the LCO with access to Zerian's Mere, in which he can find Mazzof. She will entreat him again to seek to understand his brethren, not to enforce his will - a will based on his own opinions and beliefs - onto them. If the player gave the "right" answers when asked about the purpose of each task, she will offer the Mere gladly and ask him only to remember what he has learned. If he gave "wrong" answers - showing that he did not understand people - Aadiriis will give him the Mere reluctantly, conceding that whatever the player might do to Zerian in the short term is not as bad as what will happen to all castoffs in the long term if the LCO is unsuccessful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>She might also say something like, "If what you said about Matkina is correct, then the changes you make in history will ripple through reality. Without understanding all the history that has happened between then and now, how can you say what you affect with your changes? Be cautious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Word of your birth and exploits has reached us here already." She smiles. "News travels fast in the castoff world, as I'm sure you've already seen. I know your desire to speak to Mazzof. I've even heard a rumor that you can alter the past, that you... restored Matkina? This is strange to me, for I have two memories on the subject - one in which Matkina is whole, as we all know her now, and another in which her mind is... incomplete." She laughs. "Perhaps *my* mind is the one that's incomplete."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"*I* remember it, Aadiriis. The attack on Kholn Village, where Paj destroyed my friends - you remember that? In another timeline, Tash used his mindwipe on me. He filled my mind with holes so I wouldn't remember, and he ruined my life. I tell you that my memory of that time has changed. I'm whole again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I do have a Merecaster here in which Mazzof is said to appear. But he is a friend to me - as are all our family, eventually - and I do not wish to expose him to danger."
+
+She shakes her head and smiles slightly. "I must apologize. I do not mean to be rude, but if there is any chance it is true... I have some limited psychic ability. If you will permit me, I would examine your mind to get at the truth of these rumors about your powers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>She raises an eyebrow. "But how do I know that our newest member hasn't simply used a different form of mind control to give you false memories? I have a Merecaster here in which Mazzof is said to appear, but I do not wish to expose him to the dangers of an untested psychic."
+
+She faces you fully. "I have some limited psychic ability myself. If our new friend will allow me, I would examine your mind for the truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"And you will. Once you have completed the tasks I have set for you. You *must* prove you are capable of understanding. I have a duty to our siblings, no matter how distasteful they may be. They trust me. And so I must trust you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"If you will not let me examine your mind to verify that you truly changed history, then I see no reason to trust you. And if you *did* change reality, I need to know that I can trust you to use your power responsibly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"If you must. Don't probe too deeply."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"My mind is my own. No one enters it but me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Let me ask a few other questions first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>She nods. "Yes. I believe that you are ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"And you also."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"I keep the peace here in Miel Avest. Our sire brought the Jagged Dream to Sagus Cliffs in *my* body, did you know that?"
+
+She shakes her head. "The conflict they seek to start, the wars... I swore that I would make no deaths in my lifetime, bring no pain. I came here in the wake of the First's death, and her loyalists were at the throats of our sire's. I brought peace to them. They agreed we would make Miel Avest a sanctuary again. That is my achievement. My legacy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>A ghost of a smile plays at her lips. "If we must."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"You came all this way, through the cultists of the Valley and even breaking through our locked portal. What I ask is a simple thing. I'm sure you will see the wisdom of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Of course. You must have many."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"I'd like to ask some questions about... well, castoffs, and all that entails."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"I'd like to talk about castoffs again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Can you tell me about the castoffs here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Can you tell me about the castoffs here again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Let's talk about the Changing God. What do you think of him? Have you seen him? Do you know where he is?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Let's talk about the Changing God again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"What can you tell me about the First Castoff?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Can you tell me anything more about the First Castoff?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"What can you tell me about Miel Avest?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Can you tell me about Miel Avest again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"What can you tell me about the Sorrow?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Why do you think the Sorrow hunts us again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"What can you tell me about castoffs who aren't here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Can you tell me anything more about the castoffs who aren't here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Let me ask about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Certainly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"He said that the Tides are within us all, and that we should use our powers as necessary."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"I haven't spoken with him yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"I had other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"So I have another task for you. Andronus and Raima are arguing. The recent negotiations between the Chalcedon and Paj broke down, and these two have taken it hard. They are like to come to blows if they cannot be reconciled."
+
+She bows her head. "If one strikes the other, the laws of Miel Avest are clear - the attacker will be evicted. I don't know if the Sorrow is truly more active, but they came here choosing safety, and it is my wish that they have it. Please. Speak with them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"That's quite a list. Which would you prefer to address first?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"On what topic?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>She spreads her hands in regret. "Ordinarily we see more activity here, and we would perhaps have prepared a homecoming for you. But rumor has convinced many that the Sorrow has been more active of late. To ease their minds, I offered a vote to close the portals into the sanctuary."
+
+"But I digress. The current guests include the Chalcedon, Lady Anshe, Elkeshai, Andronus, Raima, Melmoth... Ah, I suppose you've just missed my friend Paj."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"The best way to learn of someone is to speak to them, brother. They may snap and growl, but they will not harm you. Not here."</DefaultText>
+      <FemaleText>"The best way to learn of someone is to speak to them, sister. They may snap and growl, but they will not harm you. Not here."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"The Chalcedon commands our creator's forces in the Endless Battle. He's a true believer, a tightly wound man, but brilliant. Lady Anshe brings her trinkets from all over her mercantile empire. Poor Elkeshai has been badly treated by the world - perhaps you could have a word or two with him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Andronus is... well, his best quality is that he's loyal to Paj. Perhaps I should I say to the memory of the First? But he's also volatile and argumentative, and he's devoted his centuries to fighting. You'll likely find him sparring verbally with Raima, whose devotion to the ideals of our sire is the equal of his."
+
+She smiles a bit. "And then my friend Melmoth. The leader of the Dendra O'Hur. He's... well, he's quite a charmer. Speak to him. You'll see."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>A small frown crosses her mouth, a minute wrinkle in her brow. "Our creator chose to live a bountiful life, and he has brought hundreds into the world. He has explored many forms, shapes, and sizes, and he has led some of our kin through time-twisting loops. I do not know all their names, but I hope that I might one day befriend them. Even those who have been twisted into savagery."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Even if I knew them all, I would not divulge their secrets. Just as I would not divulge yours." She smiles gently to take the sting from the rebuke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"I know little. Nothing about where it came from, nor its purpose, nor its true desires, apart from seeing us all dead."
+
+She closes her eyes. "None of us do, though some of us have devoted centuries to trying to understand it. Indeed, the creation of Miel Avest was intended for that purpose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"We know that it hunts us, though we do not know why. I believe that it hunts us because of the Tidal Surges - that they draw it, like flesh draws the bloodfeast tick. Beyond that, I cannot say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"But the First and the Changing God grew complacent, and then they grew possessive, and then... the Endless Battle."
+
+She sighs and opens her eyes. "Sometimes I feel that the Sorrow must hunt us because so many of us are so very disagreeable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"But in truth, I believe the Sorrow hunts us because of something to do with the Tides. Our unique powers, tied to the Tides, must summon it. I have not seen the Sorrow track other living beings, nor heard of it in any context but the castoff situation. It must be the Tides. It must."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"I have studied them - what else can I do when I'm not trying to keep the peace here? The First and our sire used Miel Avest as their sanctuary, after all. Though their remaining notes are cryptic or piecemeal, I have learned enough to believe that it is our use of the Tides that draws the Sorrow to us. Each of us has access to a broader Tidal power - the Tidal Surges - as you have no doubt discovered. But I choose not to use mine, and I have seen no sign of the Sorrow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"I believe that it is our use of the Tidal Surges that draws the Sorrow to us. When you leave Miel Avest, I urge you to restrain your use."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"What do you know about the Tides?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Tell me what you know about the Tides again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"The name comes from a language predating our creator. It means 'Stone of Wonders.' He and the First created our sanctuary jointly, siting it on this plateau because the devices they found here proved uniquely suited to creating a sanctuary and to power the shields that protect us."
+
+"They brought more of us here. Our elders hid from the Sorrow, or retreated here from the cares of the world."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Our home. Our sanctuary. The one place where we have always managed to resist the Sorrow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"She died a few years after I was born. A pity. I wish I could have spoken with her, to understand her drive and passion. She honestly thought she would serve us all, and sometimes I ask myself what she might do in a situation when two of our brothers are fighting."
+
+She shrugs. "And then I remember that so many of them have died fighting in her war, and my respect vanishes. I would have loved to speak with her, help her find another way... alas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"She was driven, ambitious, and strong, and she cared deeply for all of us, but... her hatred obscured the bonds between us, and she drove us into war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Have you seen him recently?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"To be clear - you really haven't seen the Changing God recently?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"What do you think of our creator?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Tell me what you think of our creator again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"What do you know of his history?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Can you tell me about his history again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Let's talk about the other castoffs again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"I have other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"You as well, brother."</DefaultText>
+      <FemaleText>"You as well, sister."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Very well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"I will endeavor to answer them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"And so once again we have a sanctuary for any castoff. Would that we had not closed the doorways, though. Whether the Sorrow is truly more active or not, there are undoubtedly others who would wish to find safety here."
+
+She shakes her head. "I accept the responsibility for the closure. Those who chose to leave have left, and I wish the rest safety."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>She laughs. "Never, to my knowledge. Perhaps I have and he never revealed himself. It would be very like him to gather his intelligence and then be away. We regard every new castoff with the suspicion that he or she might truly be our creator - and frequently, a new castoff will pretend to be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"I do not believe so, no."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"But we find the truth, one way or another, and our sire continues to live in a way that we do not fully understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"A brilliant man. Thoughtful, charismatic, a mind greater than any the Ninth World has seen. Where the Aeon Priests of today cobble together bits and pieces of numenera, our creator was a visionary. Were it not for the Sorrow... I honestly believe that he would lift us into a new age of human achievement."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"A visionary. A genius. A man whose skills remain unsurpassed. Also, a deeply flawed man whose personal foibles have made him unable to connect to others. A tragic figure, truly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>She shrugs. "He has also systematically destroyed every relationship he ever built. He does not seem to understand human frailty or emotion. No, let me rephrase that. He understands those things well enough to exploit them in others, but does not accept their *reality*, if you understand what I mean. More plainly, he is a selfish man who grows ever more disconnected with his 'inferiors' every year."
+
+She purses her lips. "His life is a tragedy. It truly is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Much of it he has deliberately obscured, and much he has rewritten, either to make himself seem a better man, or to keep his enemies from finding him. But I can provide you with the broad strokes, if you wish."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"You wish me to begin the recitation again? Very well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>She closes her eyes, recalling. "He saved the city of Sagus Cliffs from the Tabaht, and it was after their siege that he focused so heavily on mental transference techniques, though we do not know why. He was successful in his attempts - obviously - and this is the first record we have of the Sorrow in modern times."
+
+She taps her fingers on her lips. "He traveled to another world - or dimension - and I have heard that this is where the First was born."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"His studies in the Tides ran deep. He claimed to have spent lifetimes exploring them, and when he had mastered them he destroyed the Tabaht utterly. He brought the Order of Truth to Sagus Cliffs, and sought to keep knowledge alive by creating the Dendra O'Hur. His life has been about the creation or preservation of wisdom."
+
+She shakes her head. "But to what end? There seems to be no pattern or goal. He does not seem to build for humanity... but for his own legacy. Should we emulate this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"What am I supposed to be doing for you again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"I would hear your opinion on the Endless Battle. You may speak to others first, if you wish to learn more before we discuss it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Andronus and Raima are bickering. Again. I fear they may come to blows, and then they would be evicted from Miel Avest. Find a way to resolve their differences."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Go speak to Melmoth about the Tides. He will have insights for you that I can likely not provide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"I'm ready to look at the Merecaster now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"This will take but a moment."
+
+She places gentle fingers on your forehead, and you feel a swirl of color thrill your innermost core. A kaleidoscope of emotion shakes you, a gamut of experiences recognized and echoed, magnified and reflected.
+
+When she removes her hand, her eyes are wet with tears.
+
+"Forgive my doubt, brother. I believe you now. I believe you are capable of changing reality."</DefaultText>
+      <FemaleText>"This will take but a moment."
+
+She places gentle fingers on your forehead, and you feel a swirl of color thrill your innermost core. A kaleidoscope of emotion shakes you, a gamut of experiences recognized and echoed, magnified and reflected.
+
+When she removes her hand, her eyes are wet with tears.
+
+"Forgive my doubt, sister. I believe you now. I believe you are capable of changing reality."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>She holds up a slender finger. "But if anything this makes me *more* leery of handing you a brother's Merecaster. If you wish to speak to Mazzof, you must prove to me that you can be entrusted with the minds of one of our brethren. You cured Matkina, but did you understand Tash? Did you take care of his innermost self as well?"
+
+"Before I can give you this Merecaster, I would have you speak with Melmoth Leviarm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"It is my contention that we draw the Sorrow to us with our abuse of the Tides, which is why I do not use our Tidal powers. I believe our use of these powers is inherently painful to those around us. For instance, was anyone with you when you awoke to consciousness?"
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Will you give me the Merecaster after that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"What if I don't do it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"I'll do it. I want to ask some other questions first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Perhaps... eventually. I must *know* that you will take responsibility when you hold Zerian's life - his history - in your hands. You will not have the Merecaster until I am satisfied."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Naturally."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>From within her robes, she produces a small, clean box. A stylized version of the Changing God's sigil is emblazoned across the top of it.
+
+"This is the Merecaster of a castoff named Zerian. One brother looked into it once and reported seeing Zerian in the fields of Ossiphagan and, later, speaking with Mazzof."
+
+"I highly recommend you take care of any unfinished business before you enter the Mere. You can change the past, after all. *Anything* might happen. Let me know when you are ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>She presses the box into your hands. Tidal energy swirls around it, drawing you in like a maelstrom. You focus on it, opening your innermost eye, and you are torn from your body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"The truth?" She shudders, and her voice is hot with anger. "It is a waste of life. A waste of talent. A waste of numenera that could be used to make the world better. They say conflict is the driver of progress... but the world has achieved all the technological progress it requires. The progress we *need* is in learning, in the humanities, in learning to communicate well and truly with one another."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"It is a folly. A folly and a shame to see our brethren throwing their lives away, especially when they claim to be protecting our lives."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Why, no one did. I saw the need and forged the peace myself. I saw a path to avoid the bloodshed, and I set my feet upon it. With my end goal in mind, those who would oppose me saw that I had set my ideals and would not deviate from them. And since my plan did not involve exalting myself over them, did not put them at a disadvantage, who could say no?"
+
+"Indeed, I am 'in charge' only insofar as they allow it. They are the ones who enforce the peace. I just speak of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"I do not 'run' it. I administer, I request, I guide. But I do not take charge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"They built homes, laboratories, and more. The shields protected them from the Sorrow's gaze. But when the First and the Changing God struggled, all that fell apart. The peace of Miel Avest was shattered, and those who remained chose sides. Blood spilled on the great disc. Factions fought for control of the wisdom gained here."
+
+She shakes her head. "Such a waste. It was not until after the First's death... and my arrival... that we were able to resecure peace." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"And so we once again have a sanctuary for any castoff." She looks sidelong at your companions. "And their occasional guests."
+
+"Would that we had not closed the doorways, though. Whether the Sorrow is truly more active or not, there are undoubtedly others who would wish to find safety here."
+
+She shakes her head. "I accept the responsibility for the closure. Those who chose to leave have left, and I wish the rest safety."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Nothing. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"I spoke with Melmoth. He said you're wrong, the Tides are within us all, and we should use our powers as necessary." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"And what did he say?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"At any rate, I sent you to speak with Melmoth. Do you believe that he has conducted his studies with anything but his own power in mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>She looks puzzled. "We can speak of Melmoth another time, I suppose. Very well. What are your questions?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Ah. Perhaps you have been distracted. It happens. But please... his words may provide an education. Do go seek him out. Did you have any other questions for me in the meantime?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"I can't claim to know what's in his heart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"He seems self-absorbed and lacks empathy, so yes, I think he's focused on power."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"I was under the impression that beneath his exterior, he cares deeply about others."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"A fair response. I have spoken with him extensively, and he can still surprise me. I don't believe in his positions, nor his conclusions, for he may well have inflated the results to justify his actions. But he refuses my mind's touch, and he rebuffs my attempts to inquire more deeply. My own personal views are, of course, irrelevant to the deeper truth that he has his own motives, and they may be purer than mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"As do I. I do not judge him for this, but I use this as my basis for understanding the words he uses and the actions that result. I disagree with his conclusions, but I recognize that his view may be a valid one and mine mistaken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>For a moment she stares at you. "Really? I... I had not ever received that impression, not in the centuries I have known him. I have found him to be caustic and ill-mannered, but I realize that this may be my personal interaction with him speaking. My own view, of course, is irrelevant to the deeper truth that he has his own motives, and they may be purer than mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"I suppose a member of his cult might tend toward a more charitable explanation. Personally, I find him to be caustic and ill-mannered, but I realize that this may be my personal interaction with him speaking. My own view, of course, is irrelevant to the deeper truth that he has his own motives, and they may be purer than mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"All right. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Best of luck, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"I'm not really interested in solving domestic squabbles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"All right. I want to ask some other questions first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"I will speak to what I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"You have already started on the path, friend. If you wish to learn more about Mazzof, you will undertake this task as well. Otherwise, you will learn nothing." She smiles warmly at you. "So... what else do you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"I spoke with Andronus and Raima."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"What was the outcome? Tell me about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"I've spoken with others about the Endless Battle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Talk to more still. Expand your horizons."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>The player's third task is to learn the point of the Endless Battle. She explains (if she hasn't already) what the Endless Battle is, and how it is an important conflict that affects the lives of all castoffs. She tells the player to seek out opinions of the Endless Battle from others in Miel Avest and to return when he has formed his own answer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Not yet. Answer some other questions for me first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"As you wish."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Forget it. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"I made them leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"No, not yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Their argument will lead nowhere without a guiding hand. I would offer to mediate, but..." She smiles. "... but I feel that your unique perspective may offer them a fresh insight. Now. How else may I be of service?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"They decided to take their fight outside."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"I asked them to stop the argument. I don't think they listened."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"I told Raima to leave before she hurt someone and was permanently barred."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"I convinced Andronus to leave. It was the only way to resolve the situation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"I managed to persuade them to their senses. They've agreed to a temporary peace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"In any case, you have done what I asked. However, if you're keen to enter this Mere and take control of the life of your siblings, then I believe you should have practice resolving their conflicts while they're still in control of their own lives. Help them change for the better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Seek out at least one more. Try to understand new points of view."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"I can give you an opinion on the Endless Battle now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"I have other questions first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Then I shall answer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Frankly, it's none of my business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"The point is to protect the Changing God against the attacks of the First."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"I want to go talk to more people before I answer that. Let me ask a few more questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Like any war, each side is trying to achieve its goals through force."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Be my guest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"You *forced* them out? That is an ill choice, brother, an ill choice indeed. Where were their wishes in this regard? Where was their agency? I admit this makes me think poorly of you, if intimidation is your preferred route to success."</DefaultText>
+      <FemaleText>"You *forced* them out? That is an ill choice, sister, an ill choice indeed. Where were their wishes in this regard? Where was their agency? I admit this makes me think poorly of you, if intimidation is your preferred route to success."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Not the only way, dear one. Not the only way. But it was well done of you to preserve his choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Small wonder. Given their relative age and known powers compared to yours, I doubt they'd have given your words much credence. Yet you offered them a *choice*, and that is important." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"So, you have sided with the one most like yourself. Whether this was justice, whether you chose not based on the merits but on personal feelings, you will never know. And, sadly, you forced a decision on Raima. Ill-done, brother."</DefaultText>
+      <FemaleText>"So, you have sided with the one most like yourself. Whether this was justice, whether you chose not based on the merits but on personal feelings, you will never know. And, sadly, you forced a decision on Raima. Ill-done, sister."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"You gave her a command. Yet she could have resisted you. She could have fought. You used only words to convince her, and so you preserved her freedom of choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"So, you have sided with the one most like you. Whether this was justice, whether you chose not based on the merits but on personal feelings, you will never know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>She claps her hands softly. "Well done. Well done indeed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Yet you did not force them out, did you? They left of their own free will? Good. There is a great difference between influencing others and forcing your influence upon them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Before I can allow you to alter the course of a brother's life, I would hear your opinion on something which touches the lives of *all* our kind. You have no doubt heard of the Endless Battle, but what do you *know* about it? *Why* do they fight, and who is right?"
+
+She bows her head slightly. "If, perchance, you have heard only a little about the conflict, you may wish to speak to your brethren before answering."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Why would you feel guilty about our sire bringing the Jagged Dream to Sagus Cliffs? It wasn't you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"True, and yet... the Jagged Dream *knew* me - knew me under a name and a history that wasn't my own. The killers, the haters, the ones who wanted to see blood and death... they would tell me of their schemes. They wanted my *approval*. And any action on my part, they took as such."
+
+She stares down at her hands. "I have never taken a life, but blood stains me. I can't feel that again. Ever."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"What if I refuse?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Must we pretend that you will refuse me? If you wish to speak to Mazzof, you will complete this task. He has waited these many years in the past. His life's course is already set. He can wait as long as he likes." 
+
+She smiles. "As can I."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"I would like to ask *you* some questions first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"I will answer, if I can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"I would like to learn more first. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"May wisdom light your path."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"You and Raima share a predilection for the Silver Tide. Did you feel her mind touching yours as you spoke? She promised you power, yes? She enticed you with the dreams of glory." She shakes her head. "I would like to say I expected better of her, but the truth is that I know her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"You and Andronus share a predilection for the Gold Tide. Did you feel his mind touching yours as you spoke? He appealed to your emotion, to your empathy, and so may have blinded you to a broader justice."
+
+She crosses her arms. "He manipulates those like him. I am not even certain he realizes he does it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Yes, but what *are* those goals? And why are they so important that neither side has conceded defeat in all these years?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Killing each other is a deeply rooted instinct. It's human."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"The point is for each side to prove the rightness of their position."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"The goal is to stop the Changing God from ruining the lives of his castoffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"There *is* no point. It's a waste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"I agree with you - the war is folly, but both sides wish to protect us, the castoffs of the Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"It may have mattered once, but it has devolved into a self-perpetuating quagmire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>Remember Thalana and her men. "The only purpose it serves is to ruin the lives of those it touches."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>Tell her what Bericael said. "The Endless Battle makes us stronger through conflict, more focused."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Does he truly need our protection? He's survived the Sorrow. Surely a few castoffs are no threat. Besides, might I remind you that the First is dead? So whose machinations are we protecting him from? Who perpetuates the fight now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Yet humans have the freedom of choice, and castoffs more than most."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Now. The final task. I would have you... conduct a poll. Talk to our assembled siblings. Ask your companion, if you like. Discover their feelings on the Endless Battle, the war between our father and our departed sister. Find their opinions, form one of your own, and come back to tell me of your thoughts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Now. The final task. I would have you... conduct a poll. Talk to our assembled siblings. Ask your companions, if you like. Discover their feelings on the Endless Battle, the war between our father and our departed sister. Find their opinions, form one of your own, and come back to tell me of your thoughts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Two people. An Aeon Priest named Aligern and a nano named Callistege. They were arguing as I woke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>(Lie) "No, I was alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>(Lie) "I'm not sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Now. The final task. I would have you... conduct a poll. Talk to our assembled siblings. Be sure to ask Matkina - and it might be amusing to have a normal human's opinion as well. Discover their feelings on the Endless Battle, the war between our father and our departed sister. Find their opinions, form one of your own, and come back to tell me of your thoughts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Now. The final task. I would have you... conduct a poll. Talk to our assembled siblings. Don't forget to ask Matkina, of course - I'm sure she has thoughts on the matter. Discover their feelings on the Endless Battle, the war between our father and our departed sister. Find their opinions, form one of your own, and come back to tell me of your thoughts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"I'd wager any simmering tensions snapped into sharp focus. If they were lovers, for example, they might have fallen deep into love's spell. But if they were breaking apart, your blast of Tidal energy would have riven them, destroyed their relationship."
+
+She pauses, and you feel the tickle of her mind on yours. "That's what happened, isn't it? They were not arguing for nothing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"A fair point, I admit, but does it ruin *all* the lives it touches? Do some benefit? Indeed, what of the suppliers, the camp followers, the arms merchants? You would strip away their livelihoods in the name of peace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Does strength prove truth? Does murder provide justice?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Will the war stop him? Isn't the war ruining the lives of his castoffs as well?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"A waste? Really? It could be argued that our kind has grown stronger through continued conflict."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>She laughs. "And what if I said it has harmed us more than it has protected us? So many have died."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Yet the war has raged for hundreds of years. Surely those who fight believe in *something* besides might and coin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>She frowns. "I would then argue that our kind has become *weaker* over time, wasting our energies on a fruitless battle when we could be fighting the Sorrow. What do you say to that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"I need to talk to a few more people first. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Naturally."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Sure. All alone." He jerks a thumb at you. "I was there. So was Callistege."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"It's quite odd, but I have a much different memory of our meeting. Perhaps it was in another reality, dear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"You were fortunate, then. Anyone exposed to the pain of your birth would have instantly seen the stresses in their relationships thrown into sharp relief. Allies would become enemies. Friends, dangerous foes. But that is neither here nor there." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>She nods. "When our friend here awoke, did you notice anything strange happen? A sudden swell of emotions? Anger, pain, loss overwhelming you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Now that you mention it... yes. Callistege had been grating on me, and I'd always had misgivings about her choices. But when this one knitted himself back together and stirred, a blast of power knocked us from our feet. And suddenly I realized I couldn't stand her anymore. I couldn't trust. I knew she'd cut me down, just like she... no. Never mind. You're saying he did that to us?"</DefaultText>
+      <FemaleText>"Now that you mention it... yes. Callistege had been grating on me, and I'd always had misgivings about her choices. But when this one knitted herself back together and stirred, a blast of power knocked us from our feet. And suddenly I realized I couldn't stand her anymore. I couldn't trust. I knew Callistege'd cut me down, just like she... no. Never mind. You're saying she did that to us?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>Her eyes narrow at the recollection. "Indeed. My traveling companion Aligern had been boorish and insufferable, but he was also useful and occasionally useful. Yet as our new friend here stirred, a wave of energy struck Aligern and me and knocked us off our feet. When we stood, I could not believe that I had wasted so much time with him. It all became clear to me." She looks appraisingly at you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"I am not surprised. Our Tides are strong, and the wash of their energy at such a stressful time must have consequences. So go. Speak to Melmoth. Ask him if he believes the Sorrow hunts us because we abuse the Tides. When you've finished that, I'll have other tasks for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Not on purpose, no. But..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Go see Melmoth. Ask him about the Tides. When you've done that, we will speak further."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"The fighting is pointless... but still profitable, and that's why it continues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"So the point is to make a profit? Or, perhaps, might it be that opportunists swarm in where they see an opening? You don't believe the point of the battle is to make a few parasites wealthy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"But enough. I have rebutted everything you said. What do you truly believe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"You wanted to expose me to other viewpoints."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"Because you're uncertain in your beliefs, and wanted me to reinforce them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"I have no idea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"I am actually quite certain in my beliefs." She shakes her head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"And what do you imagine I intended when I asked you to intervene with Raima and Andronus?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"To learn how to make a decision and stick with it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"To resolve a dispute with regard for both parties' feelings and motivations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"To get rid of the troublemakers in Miel Avest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"That is exactly so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"Then we come to the question of the Endless Battle. What purpose did that discussion serve?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>She clasps her hands together. "So. *Why* do you think I have asked you this? No. Let us start from the first task. Why would I tell you to talk to Melmoth, when he ridicules my beliefs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"Honestly, I don't really know why."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"Like the Chalcedon, I think it was a war of self-defense that mushroomed unexpectedly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"I believe what Elkeshai believes - that we're wired to kill, and we look for excuses to do it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"I agree with Raima. Why does anyone fight but to prove their superiority or the rightness of their position?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"I suspect, as Andronus said, that the castoffs are fighting to save themselves from the Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"I find that I agree with Melmoth. There's no point. It's a waste of lives."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"I agree with you that both sides are trying to protect us - but from what, I don't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"I agree with Matkina. It was an important point once, but no longer. Now it's just bloodshed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"I agree with the deserters. I think the point now is devastation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"I believe it's to make us stronger and better, as Bericael suggested."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"I agree with Tybir. The battle continues because it's profitable... for someone."
+
+{ADAM/NATHAN: Need to make sure this is in Tybir's stage 3 dialogue}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>She laughs. "I imagine he called me a fool, and worse. He has done more research into the Tides than anyone else here in Miel Avest. Tell me, did he say anything else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"He said I should ask where your powers come from, if not the Tides?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"He said we all use the Tides, all the time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"Nothing of import."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"I awoke with them. They are not, as far as I am aware, any manifestation of Tidal energies. It's not as though we have a measuring apparatus, of course, but I think I would know if I were using these forces."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>She shakes her head. "If we do, it is purely unconscious, for I have never used them intentionally."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"This surprises me. He has been rather... rantier... of late, though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"A fair point, and close enough to my own true beliefs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"It is not my business why some choose to fight, just as it is none of their business why others choose to abstain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"War is everyone's business, and this war is every castoff's business. Those who see violence and do nothing about it are little better than those who inflict the violence themselves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"If you answer the question, you'll discover the point soon enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"Cynical, but perhaps not entirely inaccurate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"This is a surprisingly optimistic view from one who would see the bloodshed continue indefinitely." She waves her hand. "But you have your beliefs, I suppose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"Not on purpose, I hope." She frowns. "But whether that is the intent, the result is certainly in line with your view."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>She nods. "I wish we had a better answer, then. Perhaps someday it will be made clear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"You and Melmoth and I are not so far apart in our views. I wish we knew the point."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"But from what? I wish we knew."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"Survival or profit, I suppose, but in the end they all boil down to evolutionary fitness. I cannot disagree, as distasteful as the conclusion might be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"A reductionist view of human nature. Have we really learned so little in all our time?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"And now we must all deal with the unexpected consequences? I do not disagree that this might be a possibility."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>"Precisely. When we have incomplete information and are exposed to alternate, opposite viewpoints, how do we judge which is true? We must reach a conclusion at some point, but unless those conclusions are backed with incontrovertible evidence, you must never imagine that you have the sole grasp on the truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"My purpose was to teach you that two learned individuals can hold opposite opinions. How do you judge between them, when you hold incomplete information? Eventually, you must reach your own conclusions... but unless they are backed with incontrovertible evidence, you must never imagine that you have the sole grasp on the truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>"If only it were so easy as forcing people to follow my wishes!" For a moment, you see her face as she must have looked when the Changing God rode her shell - a hard and imperious face, accustomed to command. 
+
+"No. I have sworn that I would act as mediator. The only force I employ is suasion and democracy. I act as a balance, and those who would strive against others here must do so through me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"My intention for you in this task was to have you change the lives of your siblings for the better... while they still control their own bodies. To offer them alternatives, and see if you can provide them a route through their troubles that maintains their core goals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"I demur. None of our kind have any difficulty with forthright action. Indeed, one might say that we are hard-headed, stubborn - even obstinate. Our continued existence against the Sorrow's depredations are evidence of that. Say one thing about our creator - he imbued us with an abundance of willpower."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"So you could assess how I spoke to people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"Challenging my beliefs with alternate viewpoints, perhaps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"Forcing me to interact with other castoffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"Some sort of psychological test, I'd guess."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"A welcome side effect, that is true, but no."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"You have proven to me I can trust you. Only remember what you have learned in these tasks. Be gentle with Zerian. You are violating his mind. Be true to his path - find what you need and return without causing him harm. You have a duty to preserve his life as he intended it, if at all possible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>"You should know your family, it's true. These are the people with whom you will be spending what I hope will be a long life. You will meet them again and again, and you should know how to interact with them effectively. But that was not my purpose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"Only insofar as it forced you to evaluate your own self and your own motivations, my friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"The goal in all of this was to make you question your assumptions, to see things through others' eyes."
+
+She holds your gaze. "It may be that nothing of import happens in Zerian's Mere. You might enter, speak with Mazzof, and leave without altering him a bit. But even if so, there will be other Meres. What if the next one is Melmoth's or Raima's or even mine? Whose assumptions will you take with you into that life? Whose goals will you accomplish and at what cost?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"One life doesn't matter, except insofar as it serves a greater whole."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"Each life is important. Every person carries a world of potential. Each life should benefit others."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"One life doesn't matter. It's an infinitesimal spark against the timeline of cosmos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>"It matters only as much as we let it matter. We make our own meaning, our own truths."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>"Life matters only if you *experience* it. If you let it wither and stagnate, it doesn't matter at all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>"What is life but the memories we leave behind? You're not dead until you're forgotten. What matters is money. Power. *Fame*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>"One life can find new knowledge. Making new discoveries, passing along knowledge, making humanity greater... that's the purpose of life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>"If you're talking about legacy, who cares? What matters is that you build something and use your life constructively."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>"What matters is continuity of life. Having children, creating more life, passing along experience."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"A fair answer. I have tried to live with this idea in mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>"An admirable belief, and one I share."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>She frowns slightly. "A sad answer, if you truly believe it. But I cannot disagree with you when I do not know the truth myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>"This matches my personal experience as well. We have meaning where we find meaning, chaos where we lack it. Yet... you would do well to examine this belief."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>She murmurs laughter. "Is this a criticism? I cannot disagree that life should be lived, rather than observed. One can observe all the way to the grave, and suddenly realize that one's life was wasted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"I suppose it depends on the route one takes to reach that fame, that power. A madman can achieve notoriety as well, and so if you insist on this answer, I can only ask that you tread carefully."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>"There are many ways to improve the world, but I agree that this is one of the best ways to achieve it. A kind way, a gentle way - one with great potential."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>"So many of us are concerned about what the world feels about us, or are involved in a competition with one another to be the best at something. So few of us spend time on simply living. Your view is... refreshing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>The ghost of a sad smile flits across her mouth. "Ironic that we are infertile, then. Does that make our lives pointless? Can we transmit our experience in another way to make our lives mean something? Is our sire's example one we should follow?"
+
+She waves a hand. "Think about your answer. Give it consideration. I cannot tell you if you are right or wrong - I simply don't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>"You are a thoughtful, able student, and I hope that you will remember what you learned in the tasks I set you. Be gentle with Zerian. You are violating his mind. Be true to his path - find what you need and return without causing him harm. You have a duty to preserve his life as he intended it, if at all possible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>"I give this to you with some trepidation. You haven't shown any great understanding of human nature or the needs of others... yet our need is great. So I have little choice but to give this to you. Remember - be gentle with Zerian. You are violating his mind. Be true to his path - find what you need and return without causing him harm. You have a duty to preserve his life as he intended it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>"I give this to you with great reluctance, and only because whatever you might do to him in the short term weighs less heavily than what will happen to all of us if you are unsuccessful. I am not certain you learned anything from the tasks I gave you, so again - you are meddling with a real person, with a real life. Any change you make in his life is a rape of his history. Be cautious with Zerian's life, I beg you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>"Hold a moment. You seem like a fair-minded person. The others here seem to defer to you. So let me ask. If the Changing God was here, right now, what would you say to him? What would you *do* to him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>"You've told people you're the Changing God, so maybe you want to hear how your little trick worked." He stares at you, filled with rage. "I activated the frame, like you suggested. Black things spilled out. I saw teeth and claws, and then something knocked me out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>"And in the meantime, I've been looking for the Changing God, to try to find out what he knows. Why did he have me activate the frame? What happened to my family? And if I don't like the answers..." His smile is grim and deadly, and his tattoos hum and hiss with power.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>"I'd tell him what he has wrought in our persons. I'd ask him why he encourages strife. Or I'd engage him in a discussion about mortality." 
+
+She smiles a little. "But tell me, mortal man, what is it you truly want to say?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>"I want justice, and I don't know how to get it. Your creator, the Changing God... he was responsible for what happened to my village."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>"Wait, what? How was the Changing God responsible?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>"Why haven't you told me this before?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>"This isn't the time, Aligern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>"I doubt you care, but I'll tell you anyway. You saw my memorial in the Valley. We talked about it, in case you've forgotten."
+
+"I mentioned the frame. Well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>"A traveler came through my town. He looked a lot like you, actually, though without the burn scar or the visible tattoo. If you're not the Changing God, then it was your creator in your body who told me to activate the frame, and how. Then he left town. I didn't think anything of it at the time, but..."
+
+He scratches his arm. "Well. I activated the frame. Black monsters spilled out, all tooth and claw. I got knocked out."</DefaultText>
+      <FemaleText>"A traveler came through my town. She looked a lot like you, actually, though without the burn scar or the visible tattoo. If you're not the Changing God, then it was your creator in your body who told me to activate the frame, and how. Then she left town. I didn't think anything of it at the time, but..."
+
+He scratches his arm. "Well. I activated the frame. Black monsters spilled out, all tooth and claw. I got knocked out."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>"When I awoke, everyone was gone. No trace. The only thing that was different... the monsters scarred me. Their attack left these tattoos all up and down my arms, a poison that whispers in my mind, a constant reminder that I failed everyone I ever loved."
+
+"That was the Changing God's gift to me."
+
+"I loaded the frame, took it to Sagus Cliffs. Orth Faung promised to help me. He found out he could fold it down... but that's as far as we ever got. Never even figured out who made it, or why."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>"I did. At the monument. I just didn't tell you it was the Changing God who was responsible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>"I tried to. We were at the monument to my family, if you'd forgotten. But you said we didn't have time for it then." His face is grim. "So I'm telling you now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>"The right time never came up. And I'm telling you *now*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>"You really want to know? You weren't so smart about hearing this at my family's monument."
+
+He looks down at his boots. "Back in Ormen, when I was the Aeon Priest for my aldeia, I found a frame. A black metal piece. I was looking it over in my workshop, trying to figure out what to do with it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>He looks down at his boots. "Back in Ormen, when I was the Aeon Priest for my aldeia, I found a frame. A black metal piece. I was looking it over in my workshop, trying to figure out what to do with it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>"No. It *is* the time." She takes Aligern's hands in hers, and says, "I apologize for our creator's role in your pain. Perhaps if you share your story, we can help you find a solution." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>
+"I hope you'll answer for your actions one day. I really do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>"I'll help you find out what the truth is, Aligern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>"I don't remember any of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>"I'm not the Changing God."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>"Sure you will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>She holds a hand to his face, and he stills. "Aligern, what's past is past. Do you want aid? Do you want answers? Because if you do, your companion here is the one who will guide you to them. If you let your rage blind you and poison you, you will never find the truth. Look to the future, and... well, do not forget the past. Never that. Let the past guide you... but do not let it *poison* you."
+
+She steps back. "Here, a gift of knowledge for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>"Of course you don't. A life spent stepping over others' bodies can't be spent thinking about the consequences."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>"That's just the kind of thing the Changing God would say when he was caught out in his lies. Do you think I haven't done my research?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>"One of the blessings - or the curses, perhaps - is that as castoffs, we can on occasion find flashes of our creator's memories inside our bodies. Should you find the frame that was the cause of your miseries, our friend might be able to shake loose a memory from our sire. I don't guarantee its success, but..."
+
+She studies you for a moment. "If this is the Changing God, the damage from the fall has done significant harm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>"Your best hope is to travel with him. Perhaps you can find the answers you seek. But I pray you find peace in your heart."
+
+As she speaks, you feel the Tides roll gently off of her, softening the walls Aligern has constructed in his mind.</DefaultText>
+      <FemaleText>"Your best hope is to travel with her. Perhaps you can find the answers you seek. But I pray you find peace in your heart."
+
+As she speaks, you feel the Tides roll gently off of her, softening the walls Aligern has constructed in his mind.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>He looks skeptical. "I'll try. No guarantees."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>"That's all anyone can ask. Now, do either of you have any other business with me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>"Aadiriis, of all of us here, you're the only one who doesn't seem to want anything, who isn't openly manipulating the others for her own benefit. So what's the play? You say we're free to choose and to own our choices. So what choices are you making? What do you *really* want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>She smiles at Matkina sadly. "What I want is an end to our stupid internecine warfare. I want us to work together. The squabbles between our sire and those who support the legacy of the First mean nothing in the face of the Sorrow. But get any two of us together and the larger threat vanishes while our death creeps closer still."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>She gestures to the beauty around her. "Miel Avest is a garden, a cage. The Sorrow can't come in, but we can't leave. Have you seen animals locked in a menagerie? They are restless, caged, yearning to be free... but if they leave the cell, they are hunted by their would-be keepers. So it is with us here. But instead of uniting to solve our problem, we lash out at each other. I would see us set aside those differences."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>"You are my older sister, and so I am cautious in saying this to you, but... you have a certain reputation. Even among the rest of us, you are known to be... hard. Unforgiving. You carry grudges through centuries, even beyond death. Matkina, please. You need to let go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>Her voice rasps from her dry throat. "Nearly all the authors of my tragedies have been our kind. Our sire, and his abandonment in my moment of peril. The First, and her order to slaughter my village. Paj, who bloodied her blade herself. Tash, who claimed to be a friend and turned on me. *Melmoth*, who offered me aid and betrayed me to the authorities." She turns her head to glare at Melmoth nearby.
+
+"Need I go on?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>"Now isn't the time, Matkina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>Hear Aadiriis's answer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>"Nonsense." Her voice is gentle, but her tone brooks no disagreement. "Matkina seek wisdom, and I will give what little I have."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>"Do you always act with full knowledge, sister? Are your choices made rationally, with forethought, or do you react without thinking? Think on this, and think on what example you set." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>"You can forgive them, Matkina... but never forget what they've done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>"She's right, Matkina. It's time to start letting go of old hurts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>"Forgiveness is for the weak."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>"Really? That's the message you take from this? Fine, I suppose. It's better than nothing." She pinches the bridge of her nose. "Sometimes, I admit, our kind can be supremely frustrating."
+
+She waves you away. "Go and speak with Raima and Andronus. Perhaps in helping them you can learn from them as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>She smiles radiantly. "You have been given a wise companion, Matkina. I am not asking you to change now... only to consider change."
+
+"As for you, youngest child... go and speak to Raima and Andronus. I'm confident your wisdom can help them as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>She stares at you, mouth agape. Then she closes it and sighs. "You're going to fit right in with the rest of our siblings, aren't you? Or rather, you're not going to fit in, which makes you of a piece. Well. Go and speak to Raima and Andronus... even though I fear what may come of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>"I suppose I'm ready to let you probe my mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>"Not sure, he says." He jerks a thumb at you. "I was there. So was Callistege."</DefaultText>
+      <FemaleText>"Not sure, she says." He jerks a thumb at you. "I was there. So was Callistege."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>"It's not my war. I can't know the goals of all involved."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>She nods. "There is merit in standing by one's opinion. Only be certain that, in doing so, you do not shut your ears to the opinions of others."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>"The Sorrow and the First's followers continue to threaten. The Endless Battle is a war of self-defense that mushroomed unexpectedly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>"We may choose, but we are still the product of genetics. I stand by my answer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>"Sometimes, there is no other way. Yes, that is my answer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>"It's for the greater good. Those fighting the war believe the Changing God *must* be stopped."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>"No. It is a waste of innocent lives."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>"Even so, I believe the point of the conflict is to protect castoffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>"I don't believe they do, not anymore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>"Then they are part of the problem. The Endless Battle only creates devastation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>"It *exposes* weakness. The weak falter and die, while the strong survive to become stronger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>"Those who profit by it are motivated to ensure it continues. Yes, I believe that is the point."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>"There is merit in changing your opinion when presented with rebuttal. Only be certain that, in doing so, you do not abandon the *truth*."
+
+She spreads her hands in conciliation. "But you must forgive me. The point of this exercise is not to frustrate you... rather something else entirely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>"I'd like to ask you a few more questions first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>"A wise decision - one I fully respect. By all means, seek out opinions from anywhere you may find them. Is there something else I can help you with in the meantime?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>"To learn more about the battle and understand the truth behind it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>"It is important for you to understand the greatest conflict our siblings have inflicted on the world. But whether there is any truth behind it is not for me to say, nor was it the purpose of the task."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>Your eyes snap open and at first you fear you've fallen deeper into the Labyrinth, another fathom. Flames rake the ground around you, the bedrock buckling under the heat. The image of Aadiriis resolves as your vision adjusts to the searing light. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>"I'm ready to report about Andronus and Raima."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>"So. How do your studies progress?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>"Have you aided Raima and Andronus?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>"Have you spoken with Melmoth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>Bank 451</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>"Let me examine your mind for proof, and we will talk about the possibility."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>Bank 454</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>"You mean physically? That I do not know. He was captured by the ghibra of M'ra Jolios several years ago, a prisoner for their Menagerie. But no one knows what became of him afterward."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>"The last anyone heard of him, he was in the Menagerie of M'ra Jolios, but that was some time ago. No one knows what became of him since."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>"I recognize that this is not a logical conclusion - the Sorrow might yet hunt me for reasons unknown - but I am content in knowing that at least I harm no others with *my* body."
+
+A smile flickers. "Melmoth knows more, as he is eager to tell us at every opportunity. He has made certain to use every tool at his disposal in an effort to preserve and understand our lives. But I do not believe that he has made an extensive study of the Sorrow's motivations."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>"He seems to care deeply for the preservation of knowledge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>"So he says, and he has certainly gone to great lengths to do so.  I don't believe in his positions, nor his conclusions, for he may well have inflated the results to justify his actions. But he refuses my mind's touch, and he rebuffs my attempts to inquire more deeply. My own personal views are, of course, irrelevant to the deeper truth that he has his own motives, and they may be purer than mine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>"I found what I was looking for and much more. Where do I start?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>"Would that we had time, but time is no longer our friend." She looks nervously at the flames around her. "If it ever was."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>[DEBUG: Skip straight to the Mere]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>[DEBUG] Skip straight to the Mere</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>"Hello again, my brother. I am ready to give you the Merecaster. You need but ask."</DefaultText>
+      <FemaleText>"Hello again, my sister. I am ready to give you the Merecaster. You need but ask."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>468</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>"I'm ready now. Let's do this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>"I will. I have other questions first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>"I'll return when I'm ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>"And I will await your return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>"Of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>"I'm ready to talk to Mazzof. Show me the Merecaster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText>"As you wish. I'll return when I'm done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText>"I look forward to speaking with you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>"What is that creepy, pyramidal structure on the opposite side of the plateau?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>"What do people think the feretory is?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText>She gazes in the direction you're pointing. "Ah," she says, finally. "The feretory."
+
+It's unclear whether she is saying the name with reverence or disgust. "That has been here for as long as anyone can remember - though not, perhaps, when Miel Avest was originally founded. What is known is that the First placed it there. What is not known is *why*. Rumors abound, of course, but as no one knows how to activate or open it, none can be proven."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>"Oh, the predictable legends. An escape pod of some kind. A final defense against the Sorrow, should it break through. A repository of the First's treasures. I heard one person suggest the First herself was still alive, preserved inside, and that she would return when we needed her most." Her smirk shows what she thinks of this last rumor.
+
+"It's clear that it's a protection of some kind, but whether it's to protect us or what's inside it remains to be seen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText>"Tell me about the feretory again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>"The First placed it here long ago, before she died. Nobody knows or remembers why, though everyone has their own ideas. It seems to be protecting *something*, but whether it's meant as a protection for us or something inside it remains to be seen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>"Although the dome no longer encircles our sanctuary, the generators may hold enough power to slow the Sorrow's progress. They can be activated by placing your palm *here* and whistling this tune." Her dry lips rasp a five-note descant that you commit to memory.
+
+She plants a kiss on your cheek. "Good luck, brother. Let's make sure as many survive as possible."
+
+She runs off, her voice raised in command, as if the quiet matron of Miel Avest had never existed.</DefaultText>
+      <FemaleText>"Although the dome no longer encircles our sanctuary, the generators may hold enough power to slow the Sorrow's progress. They can be activated by placing your palm *here* and whistling this tune." Her dry lips rasp a five-note descant that you commit to memory.
+
+She plants a kiss on your cheek. "Good luck, sister. Let's make sure as many survive as possible."
+
+She runs off, her voice raised in command, as if the quiet matron of Miel Avest had never existed.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>"Hold strong, brothers and sisters! Do not cave to fear!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>"You don't need to probe my mind. It's the truth - I can change reality by using Merecasters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText>She gives you a smile that on anyone else would be patronizing, but on her looks genuinely sympathetic. "I hope you will understand that our kind especially enjoys embellishing the truth. I won't be satisfied until I see for myself."
+
+She puts a hand on her hip. "I would never do such a thing without your permission, of course, but examining your mind is the only way I can be certain." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText>"The Merecaster is your best hope of finding him, but I cannot let you access it until I know the true extent of your abilities."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>"He will be very difficult to find outside of the Merecaster, but you will have to convince me you are ready to take over a brother's life first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>"What's the point?" She sneers. "The Endless Battle *used* to mean something. It used to be people with principles. But they lost sight of their true goals, and it became a self-perpetuating war machine. I don't think the First could stop it now even if she were alive. It's worthless and stupid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText>"A not uncommon opinion, Matkina, at least among those of us who abstain from the fighting."
+
+She turns to you. "What about you? Have you an opinion as strong? Or do you wish to gather more information before giving an answer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText>Then she sighs. "But both sides claim to be doing it to protect us. And can I truly argue with them? No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText>"It's *war*. Senseless violence caused by pride."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+      <DefaultText>"Not all wars are senseless. Sometimes war is the only means by which a group may achieve its goals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText>"No, there is always a peaceful solution if both sides are willing to work hard enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>500</ID>
+      <DefaultText>"You're just arguing with every answer I give."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText>She clasps her hands together. "Indeed. And *why* do you think I am doing so? No, we will come to that. Let us start from the first task. Why would I tell you to talk to Melmoth, when he ridicules my beliefs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText>"My companion Erritis has demons in his mind. Do you know of any healers that can help him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText>Her gaze moves to Erritis. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText>"No. The only castoff healers I know are elsewhere, tending to those who can actually be injured. My apologies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>505</ID>
+      <DefaultText>Oddly, he is silent. Silent, sober, and looking at you. 
+
+Aadiriis turns back to you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>507</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>508</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

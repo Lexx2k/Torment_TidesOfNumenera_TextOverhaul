@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4111_si_sinking_wagon</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>It looks as if the Bloom has begun to devour this wagon. Its wheels have been sucked down into the flesh of the platform - even as you watch, it slowly recedes a little further into the ground. The merchants' guards heave and push at it to no avail. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Help the guards pull the wagon free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Walk away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You brace your shoulder against the wagon and heave with the guards. Surprised, they falter, then redouble their efforts. 
+
+The Bloom rumbles its displeasure at a pitch you *feel* rather than hear. Fibers snap; the wagon breaks free, and you stagger after it.
+
+A piece of numenera lies in the fissure, but Bloom-flesh is already closing over it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>You step up to the wagon and and begin to heave in time with the three guards. Red-faced and straining, you shove with all your might to extricate the sinking wagon.
+
+But it's not enough. After nearly two minutes of pushing from all angles, you collapse against the wagon, exhausted.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>One of the guards gasps, in between heaves, "Push... *harder*!"
+
+You do.
+
+You push and you strain, when suddenly, with a mighty heave, you pop the wagon free. In the fissure that was devouring the wagon, you see a small bit of numenera glowing. But the Bloom is already closing over it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Your impromptu aid disrupts their rhythm, and though they quickly return to their work, your help doesn't seem to be effective.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"You have our thanks, stranger," says the eldest of the guards. "If we'd lost the wagon, we'd have lost our pay. You're a damn sight more helpful than most around here. Why don't you go talk to our, ah, employers over there? Maybe they'll have something for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Damn it all!" curses one of the guards. "Damn it!" He kicks one of the wheels and throws his hands into the air.
+
+His boss looks at you and shakes his head. "Don't mind Alcar. He needed the pay from this job, and it don't look like it's going to be coming. Thanks for trying to help, though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>You drop quickly to your knees and plunge your arm into the rut. Your fingers close over the device and you pull it out of the wound before the Bloom-flesh knits itself back together. 
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Reach in and grab the object.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Let the fissure close.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You drop quickly to your knees and plunge your arm into the rut. Your fingers close over the device and you begin to pull it free of the wound... but the Bloom's flesh is knitting itself back together too quickly, and it closes around your hand. You manage to tear your hand free, but the device is lost.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The Bloom appears to resent your efforts too, and even as you push the Bloom-flesh softens under your feet. On your last vigorous push, a hole opens in its fibers, and rather than freeing the wagon, your priorities become entirely about freeing yourself.
+
+At last, you manage to wrestle yourself free of its sucking grasp, and you lie on the ground next to the wagon, utterly winded.
+
+{DAMAGE - May need to balance the damage appropriately.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText> Follow-up PQ. 15</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Try again to pull the wagon free.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Once more, you join the guards and heave with all your might. You sweat and strain, but the wagon is still stuck fast. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>You drop quickly to your knees and plunge your arm into the rut. Your fingers close over the device and you pull it out of the wound before the Bloom-flesh knits itself back together. Attached to it are a few fragmented pieces that would work as shins. You tuck the device and the shins away with the rest of your possessions.
+
+{LOOT}
+{MONEY}
+
+{SCRIPT: Add some sort of cypher to the PC's inventory along with some shins.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>You drop quickly to your knees and plunge your arm into the rut. Your fingers close over the device, but before you can pull it out the Bloom-flesh knits itself together with your hand inside.
+
+You jerk your hand out. Even though the healing wound looked like flesh, it *feels* like your arm is being shredded by hundreds of razor sharp teeth. You manage to get your hand and the device out, but at great cost. You tuck the device away with your possessions.
+
+{LOOT}
+
+{SCRIPT: Add a cypher to the PC's inventory.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Script Node 23</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

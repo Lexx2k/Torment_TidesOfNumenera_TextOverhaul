@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom_crisis\item_c4501_crisis43_shuntdevice</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>With the two power sources connected properly, the device awakens with a hum and a shudder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Blue lights stream out of the shunt's surface, forming a series of interlocking circles in the air in front of you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Touch the circles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Move the circles around randomly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Put it away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Try to figure out how it works.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Try again to figure out how it works.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>You immediately discover that the circles can be moved around when you touch them. It appears to be a kind of interface you could use to configure the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Set the device to its maximum setting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Set the device back to its original setting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>After experimenting with the interface, you have a feel for how it works - or at least how you can make it work for you. By moving the circles in certain patterns, you feel the power of the device increase and decrease.
+
+If it can knock someone out of phase at the lowest setting, maybe it could knock someone completely out of existence at the highest setting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>You move the circles around in different ways, trying to figure out what it does, but it remains a mystery to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>By moving the circles into the right pattern, you channel the maximum amount of power from the components into the device itself. The shunt quivers with potential energy as you do so.
+
+{SOUND: "Power-up" sound, like a massive capacitor charging.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>You move the circles back into a pattern like what they were before. The shunt grows calm, as it was before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>After trying dozens of patterns, suddenly the shunt quivers and hums. You may have stumbled on the right pattern to increase its power.
+
+{SOUND: "Power-up" sound, like a massive capacitor charging.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>You move the circles around in dozens of different patterns, but it has no discernible effect on the device.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,2070 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_chkekt</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>395</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>As you return to normal consciousness, Ch'kekt leans forward. "Ch'kekt smell granite. Knowledge," it rumbles. Its spiracles vent a miniscule trace of gas. The stichus looks at you, and its body posture and slight movements indicate a question - "Does human speak stichus?" 
+
+Your muscles remember, and you twitch the proper response.
+
+Ch'kekt huffs the scent of lightning.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ch'kekt regards you silently and then begins its pantomime. The scent of tunnel grubs and sharp metal fills the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>This massive creature looms over you. A scent like lightning and an underground cavern washes over you, and it reminds you of nothing so much as curiosity. It chitters and rumbles, waving its large claws through an expressive dance.
+
+Something about these smells, sounds, and gestures seems familiar, a niggling itch in the back of your mind.
+
+At least you remember the taxonomy now: this is a stichus, a huge, burrowing insectoid.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You turn the Tides on yourself, burning away the accumulated detritus of the amnesia settled in your mind. Light flares within your vision, mandalas dancing before your eyes, and a host of images flickers through your memory. 
+
+You see yourself interacting with a stichus, exchanging hand signals, a small box between you translating your words and thoughts, forcing your muscles to react.
+
+With a rush, information pours into your mind. The smell of granite fills your nose: *knowledge*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ch'kekt looms as you draw close, and the faint scent of fresh air and flowers tells you that the stichus is *not* happy to see you. "Egg thief. Broodmates move quickly. But digging take time. New home await." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>It points to itself and says, "Ch'kekt." It follows with another stream of high-pitched noise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You remember it now. The language is broken, like a pidgin dialect, but you can understand it well enough to communicate. "I Ch'kekt. Speaker to brown grub - humans. You speak me, I speak sticha people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Human return. What you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>As usual, its chittering makes no sense to you. It manages to choke out a few words of Truth. "What you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Try to remember how to speak the stichus language.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Unearth the buried knowledge of the sticha language in your mind.
+
+{GEORGE/ADAM: Ch'kekt is Oblivious, so this is an exception to the Tidal Surge rule - the PC uses a Tidal Surge on himself to unlock his own knowledge.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I need to travel to a place underneath the city. Can you take me there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Try as you might, you can't make sense of the gestures and the noise]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Your mind blurs, a memory racing up from forgotten depths. 
+
+You see yourself interacting with a stichus, the two of you patiently exchanging hand signals, a small box between the two of you translating your words and thoughts. 
+
+Each time it conveys a thought or concept, the device sends a stimulus into the appropriate parts of your brain, and electricity into your limbs, making you a marionette.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>You focus deep within your mind, blocking out external distraction, and will the memories to rise. There must be a reason this tongue sounds familiar to you. There *must*. 
+
+But try as you might, you can only conjure the image of a small box flickering impatiently in front of you. No other thoughts attach themselves.
+
+At last, you relinquish the attempt. It's fruitless.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[you don't know the language, realize TCG knew it, but you get a penalty for Tidal Surge]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[various start condition in multiple nodes]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Can you tell me who you are again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>It makes a harsh, clicking noise that sounds very much like, "Ch'kekt," and gestures toward itself. It adds another glottal chittering phrase to that.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ch'kekt, speaker to brown grubs." Ch'kekt does not seem to mind repeating itself, though a slow odor of methane suggests some irritability.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>It chitters and gestures, but you can't seem to make sense of its words. Only "Ch'kekt" stands out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I am Ch'kekt, speaker to brown grubs." As far as you can tell, it means "humans." The scent it emits with this phrase suggests that your kind is not entirely welcome here.
+
+"Pleasure in meet human who speak proper tongue. Unusual. Hopes for productive talk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"What can you tell me about this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Can you tell me about this place again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>It looks at you intently, and then its spatulate fingers begin a slow and careful dance. The sounds it makes are slow chitters that rise and fall in pitch, accompanied by the smell of ozone. "Good rock. Full of electricity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"This our home." The word 'home' also means 'tunnel' or 'sanctuary', a layered meaning.
+
+"Brought here as eggs, hatch. Dig here for safety, food. Good rock." It smacks the tunnel wall, and some of the rock crumbles with the force of its massive claw. "Find secret place to store new eggs. Human grubs would steal or smash."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Good tunnel rock. Many hidden paths. Place to store eggs. Strong electricity when we dig - good for eating."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Is good home. Safe." It shuffles back and forth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"I'm looking for a way into a place called the Cave of Last Words."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Take me to the Cave of Last Words."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"I have heard that the Changing God had a sanctuary underneath the city. Can you take me there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"I would like to go to the Changing God's sanctuary."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>The creature listens carefully to you and then slowly rotates its whole body, its hands in front of it. Ch'kekt's odor is that of internal organs, slowly liquefied, a bright and pungent odor. "No," it croaks. "Not humans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>It continues. "Is connected to egg tunnels. Humans not careful. Tread on eggs, harm broodmates."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"No. Have told already. Must stop fish-head person. Not permitted to see eggs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>It shakes its head, and you smell solidifying magma. The aroma reminds you of regret... and the knowledge that you should not push further.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Over the scent of warm gravel, the stichus clicks and whistles. You understand the words "Yes" and "shins".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Maybe take," the stichus mutters, though its scent indicates reluctance and caution. "Must pay. [Global: a2301_StichusTravel] shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>It regards you suspiciously. "Travel cost. Need shins. Cost [Global: a2301_StichusTravel] shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>The stichus indicates that it understands you, and it pulls some shins from a hidden crack in its exoskeleton. It points to the shins, and then points to you. A scent very much like that of baked bread emanates from it, and you understand that you must pay for the privilege.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Humans," it croaks. "Humans come to tunnels, slaughter broodmates. Who? Who kills sticha? No more humans come tunnels. No more!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Can you bring me to the ledge in Cliff's Edge?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Can you bring me back to the ledge in Cliff's Edge?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"What do you think of Peliai?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Can we talk about Peliai again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>The stichus seems discombobulated for a moment. "Who?" Then it thinks a little more. 
+
+Then it sprays out a blast of pheromones, and you smell the sharp tang of acid and weakened stone. It smells like distrust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Peliai. Fish-head grub. Not good person." It leans closer. "Wants eggs. Can smell desire."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Fish-head person. Different grub. Shine strangely in stichus eyes. Smell bad in mind. Much like other humans." Its hand tears a chunk from the wall.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>The stichus huffs out a barely visible cloud of moisture, and its faint odor is that of faulty eggs rotting under buried radiation. It seems that Ch'kekt doesn't trust Peliai at all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Can you tell me about the sticha?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Can you tell me more about the sticha?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>It scrabbles briefly at the wall, and a bit of lightning flares about the crown of antennae on its head. Its shoulders shrug, and you smell dust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"We stichus. Live in rock, dig deep, devour electrical charge. Not-enemy humans, keep to community. Grow old in new home. More? Perhaps. But is detail, long. Human not interest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>It considers the question briefly and then emits a puff of pheromones that smells of soft rock crumbling under determined hands. It reminds you of resigned acceptance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Its chitters and grumbles remain incomprehensible to you. It nods its head at you, and when you fail to respond, it trills, "Talk other question."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"I found a dead stichus near here. Can you tell me anything about that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"I found a stichus in Cliff's Edge. It's hiding in a refuse heap, and the humans want to kill it. Can you help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"You asked that I make sure the outcast stichus was dead. It is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"I'd like to ask other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Knell tunnel. Broodmate weakened. Could not feed self. Could not feed eggs. Digs tunnel to collapse on self. Not want burden sticha family."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>It looks at you for a long moment, almost as if it can't believe what it just heard. "Is weak. Outcast. Not feed self, burden on broodmates. Should be *dead*." 
+
+The odor that rises from the stichus is dry and musty, the scent of an insect's corpse curled on a windowsill. It's disgusting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Weak or not, it doesn't deserve to die at the hands of a mob. It's your *kin*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"If it would be a burden on your people, then I won't interfere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Again, a long moment in which the stichus stares at you. You sense that it is evaluating you with eyes that see beyond the human visible spectrum.
+
+"Human care strange. Why so much for person of sticha?" A stray breeze whirls a zephyr of bafflement past your nose.
+
+"But yes. If human care, Ch'kekt care. Will save."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"No. Some life is drain. Parasite. Contribute nothing. If sticha save outcast, will starve and die anyway."
+
+It pauses. "Human kill outcast? Useful for all. Will reward."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[we will super-save it and maybe put it back to work]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[most very definitely not - the only way we're digging up there is to kill it, and why waste that energy. Actually, maybe you could do us a solid and kill it yourself]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Its antennae twitch toward you, and it leans back, satisfied. "Yes. Death scent carries on you. Reward promised. Here." It presses a strange-looking device into your hand. "Found in rock. Still work."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Agree. Sticha business for sticha." It turns away, having clearly lost interest in this topic.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Its taloned hand flexes and closes. "Ask, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"That's all for now. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"That's all for now. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>::chk-klt::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"How did you come to be under Sagus Cliffs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Can you tell me how you came to be under Sagus Cliffs again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>It shrugs, its massive exoskeletal plates grinding. "No ancient ever to tell. Four generations only in caves. We live instinct. Only guess at legacy. Memories stolen." It growls in frustration.
+
+It pats the wall nearby. "Stichus hatch from egg. Yes? Yes. Traders come from evil Bloom. Other worlds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Do not remember. Eggs of forebears stolen to here. Never saw homeworld. Never saw natural skies. Only know this world. This world not ours." It keens a tiny song, and the scent of failure and loss hangs heavy around it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Why are you digging here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Can you tell me why you dig here again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"This arm..." Ch'kekt raises its great arm, "...dig. Draw energy from rock from friction. Eat electric charge. Store electric charge." It points to the spiky growths on its plating. 
+
+"Here, rock good. Hard. Much electric. Best found. Other places... not good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Is where food is. Hard rock good. More electric charge to eat. More power. Sticha do not starve here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>[Tidal Surge] Unearth the buried knowledge of the sticha language in your mind.
+
+{GEORGE/ADAM: Ch'kekt is Oblivious, so this is an exception to the Tidal Surge rule - the PC uses a Tidal Surge on himself to unlock his own knowledge.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>[PC has asked before, and has been permitted]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Now that this is settled, I'd like to ask more questions about the sticha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"I'd like to ask about something else instead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"That is all. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Speak. Ch'kekt will answer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Why are you digging under populated areas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"You claimed that the people in the city aren't sentient. That's not true."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>The stichus stares blankly at you, its eyes shimmering. It seems to be trying to put its thoughts into a statement you can understand. "Sticha must survive. Must live where food is, yes?"
+
+It doesn't wait for an affirmation. "Human watch every step? Avoid stepping on insects? No impact on other life? Sacrifice of others is natural order."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>The stichus shifts its weight back and forth. "Simple humans. Fight. Eat. Kill. Try steal eggs. Not harmony. Sentient?" It trills out a scoff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"But eggs in safe place. Hidden. Not let thieves take eggs, harm broodmates." 
+
+You smell hardened shells, calcium and silicon baking around the stichus, the scent of determination and safety. "Not let *anyone* harm eggs without fight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>The stichus bows, almost scuttling, and the warm smell of cooking rock rises from its back. "Friend to sticha. Yes. No pay for you. Free."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>[through a rough pantomime, the stichus indicates that it will take you wherever you want to go, free of charge.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>[OK - you have been cool to us. Let's go]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>[Yep. Just don't touch anything]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>[OK - you have been cool to us. Let's go]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>[Yep. Just don't touch anything]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>[Ch'kekt refuses, saying that it is connected to the sticha lair, and no human is permitted there]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>[Stichus declines.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>[OK - you have been cool to us. Let's go]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>[Yep. Just don't touch anything]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>[ok - OK, it'll cost this much.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Followup trip</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>OK, it'll cost this much.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"What do the sticha use shins for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Human sell numenera. Call self Mechela. Trade shins and other numenera to sticha. Sticha trade shins for numenera good for dig. Melt into walls and tunnels, make stronger. That why shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>It points to various items on your belt and person, and you think it's telling you that the sticha buy items from a human.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"I understand your concern, but I won't harm your eggs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"All right. Then can I ask some other questions?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Very well. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>[Fne, but you need to help us resolve the crap with Peliai. Come back when that's done.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>The stichus nods. "Human know language. Is good. But fish-head person want eggs. Not take risk. Solve problem, talk again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Let me ask you some more questions instead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Forget it. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>The stichus waits patiently.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>The creature unleashes a torrent of chitters and scents, all of which suggest a deep and abiding rage. It concludes its rant with a savage jerk of its hand, and it enunciates clearly, "No. Humans. Who kill sticha?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>(Lie) "I have no idea who is responsible, but I'd like to ask some questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"I was the one who invaded your nest. I killed your broodmates, and I ground them under my boot heel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Farewell, Ch'kekt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>The broad-shouldered stichus paces, its enormous hands flexing and releasing. It sees you approaching and lets out a low, chittering growl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Ch'kekt has not moved from its spot. Its many eyes sweep the Underbelly, as if imagining it could pick out its enemies. At last its gaze settles on you. "Humans. Unwelcome here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>With a chitter of rage, Ch'kekt attacks!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Who kill sticha? Go. Away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>The stichus turns away from you. Its answer is clear. "No. Humans must leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Go now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>
+
+[needs conditionals]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Burrower, not borrower." Ch'kekt's scent indicates a mild, ironic humor. "Glad of no bloodshed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"I am here to ask you to stop digging your tunnels under the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Say before, no! Where we go?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Ch'kekt waves its arms around, and the air fills with the scent of a slow-growing fungus. You think it says, "Why?" More incomprehensible chittering follows, and then it speaks slowly and carefully. "Not learn us speech? Not work us. No. Not now. We dig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"I know a better place for you to dig - a spire of black rock, not far from here, full of the energies of prior worlds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"You can move deeper beneath the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"I can promise a regular tribute of power sources for your people from the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"The humans above are suffering."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>The stichus's spiracles twitch, and an aroma of marble and clay pervades the area. "Better rock?" It seems to consider your words. "Could find spire... if we chose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Have been. Rock not good. Soft. Not efficient. Electric not strong." It leans back. "What else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>The stichus leans forward, interested, and the scent of sparks rises. "Why they not offer before? This good. What else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"When humans dig, they care for us? No. Why we care for them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>It bows. "Yes. For sticha friend, yes. Can take to egg tunnel. Then walk to place, yes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"We owe egg friend for help. Please not touch anything. We go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Forget it. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>[You totally saved us, so yes. We will do that. Let's go! Don't touch anything, though]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>[As always, our pleasure.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"I have heard that there is a very old, hidden human sanctuary under the human city above. Can you take me there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"I would like to go to the old human sanctuary under the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"I am looking for a way into a place called the Cave of Last Words. I hear you took one of my kind there already."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"I am ready to go to the Cave of Last Words now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Can you bring me up underneath the fortified house near the cliff's edge?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"I can't actually think of any place to go. Let me ask you some more questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Forget it. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"What do *you* use shins for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>It points to various items on your belt and person, and you think it's telling you that they buy items from someone on the surface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Attack the stichus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Farewell, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>::click-chk::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Enemy of eggs want travel? No. Never."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"I have given all the reasons I need. You must stop digging under Sagus. You *must*."
+
+{SCRIPT: Modifiers are:
+- a2331_StolenEggCounter &lt;=2: 2 steps easier
+- a2331_StolenEggCounter =3: :3 steps easier
+- Node 197: 1 step easier.
+- Node 199: 1 step easier
+- Node 296: 1 step easier}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>It considers your words for a time, and the scents that surround it vary from the frightening to the mundane. At last, the smell of synth and stronglass waft past your nose, and Ch'kekt says, "Human give good reason. Yes. Sticha comply."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>It considers your words for a short time, and then looms tall. "No. This home. Can stop humans if need. Maybe humans move instead. They build on food - they surprised it eaten? We stay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>It places its hands on the wall, drumming a complicated pattern with its fingers. "Will move people to new home in black spire. Sticha not trouble brown grubs. We leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>It scratches the wall and drums a pattern there. "Sticha move deeper, burrow to lesser rock. Starve for human sake. Not fight with humans is better."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Where go?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>The stichus looks at you and emits a low, dangerous rattle deep in its throat. "Egg thief," it rumbles. A stench of rotten ozone surrounds it. Its enormous claw twitches, digs out a clump of stone from the wall, and crushes it to powder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>Ch'kekt grumbles low in its thorax as you approach. "Egg thief. Stealer of future. Eraser of past. Give sticha future to fish-head grub, Peliai? Not welcome here. Never again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Egg friend," Ch'kekt whistles. The smell of dust and closed air surrounds it. The creature is clearly glad to see you.
+
+"Sticha deep dig, like promise. Rock not as good there." The scent of a pocket of trapped gas arises, the equivalent of a shrug. "But Ch'kekt promise. Sticha move."
+
+"Human want travel?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>The stichus's arms dangle loosely by its side, but it exudes an aura of confidence... and the scent of mummified corpses. "Eggs returned. We leave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>Ch'kekt's voice warbles and thrums. "Egg thief. You give back children. Is good." It is impassive, but the scent of ancient, inedible fungus fills the air, reminding you of repressed anger. "We go soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Sticha leave forever."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>::ch-click::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>Ch'kekt looms as you draw close, and the faint scent of fresh air and flowers tells you that the stichus is *not* happy to see you. "We leave," it chitters. "What you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>Though its manner indicates an incandescent rage, Ch'kekt draws itself into a deliberately non-threatening posture. "Ch'kekt smell eggs. Human not hurt eggs. What you want?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Egg friend," Ch'kekt whistles. The smell of dust and closed air surrounds it. The creature is clearly glad to see you. 
+
+"Sticha move to new home. Is good place. Ch'kekt gone soon. Human want travel before Ch'kekt leave? Is free for good human."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>The stichus holds up its massive claws, spread wide, and it moves slowly. The faint mist around it smells of *patience*. "No hurt eggs," Ch'kekt rumbles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Human who speak sticha," Ch'kekt mutters. "Ch'kekt will speak."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"If you don't stop digging, you will suffer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Never mind. Let me ask other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>It waits for your next words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>The stichus bobs its broad head and backs away, venting a fear-scent that reminds you of rotten air, underwater floods, and collapsing tunnels.
+
+"No threat," it chitters. "Suffer us not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"If you don't stop digging under the city, I promise you pain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"I'll give your eggs back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>The stichus stops moving for a moment. "Strong argument. What else?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>
+The stichus gently collects the eggs from you, tucking them away in a deep alcove in the rock nearby. "Now go, human. Leave tunnels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>
+The stichus gently collects the eggs from you, tucking them away in a deep alcove in the rock nearby. "Now go, human. Leave tunnels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"Never speak Ch'kekt to human so. Heard memory from elder, not believe. Human almost sentient? Imagine! Grub think like stichus!"
+
+It claps its hands together. "Speak smart. Better now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"This arm..." Ch'kekt raises its great arm, "...dig. Draw energy from rock from friction. Eat electric charge. Store electric charge." It points to the spiky growths on its plating. 
+
+"Here, rock good. Hard. Much electric. Best found. Other places... not good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"Is where food is. Hard rock good. More electric charge to eat. More power. Sticha do not starve here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"Yes. Glad to transport friend of people. Is free."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>Over the scent of warm gravel, the stichus clicks and whistles. You understand, "Yes" and "pay".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Can take," the stichus mutters, though its scent indicates reluctance and caution. "Must pay. [Global: a2301_StichusTravel] shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Travel cost shins. [Global: a2301_StichusTravel] shins. Yes or no?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"If you don't stop digging under the city, I promise you pain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>The stichus emits a foul scent, waves its enormous hands, and keens through small holes on its head. You can't understand a thing it says.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>::ch-t-k-KLKT::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"Ch'kekt travel where egg-friend want. We go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"Ask," it grumbles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"Why not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>It considers how to word the phrase, and its eyes are a lambent green in the dim light of the cave. "Trust humans. No. Egg thieves. Make fish-head grub go away, maybe talk."
+
+The scent of trapped and stale water reaches your nose. It reminds you of a dangerous situation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>The stichus rumbles deep in its chest, and the stench of decaying meat surrounds it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"Egg thief. Like you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>Pay [a2301_StichusTravel] shins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"Forget it. I had some other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>"Never mind. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"Touch nothing."
+
+{SCRIPT: Take to ledge in Cliffs Edge}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>Pay [Global: a2301_StichusTravel] shins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"We go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"No. Let me ask some other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"Never mind. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>The great head on the creature shakes ponderously. "Barely strong enough to collapse tunnel. Failed in life. Too weak, perhaps."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"She asked me to retrieve your eggs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"I think you can trust her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"I'd like to ask a few more questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"I see. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>A heavy stone crumbles to dust in Ch'kekt's fist. "Yes. Knowledge." A heavy feeling, like lightning about to strike on a hot summer day, settles around you. "Not trust. Fish-head grub destroy sticha for no crime but feeding."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>The stichus turns from you, and the scent of flowers rises up around you - an improbable, laughable odor. Ch'kekt clearly does not believe you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"Ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"Think humans stole eggs. Humans brought eggs to world. Humans hatch eggs. Larval stichus... a mystery to buyer. Released here." 
+
+Ch'kekt exhales from its spiracles. "Must guess at function. Must guess at society. Maybe advanced once. Maybe great civilization. Now? Now only dig. Dig for clues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>It taps you in the chest. "Smart, for human." It points toward the rest of the Underbelly. "Not smart. Why concern? Not..." It gropes for the word. "Not sentient."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"Your digging is causing problems for the people above."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>"Not concern to sticha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>"I have come to ask you to stop digging underneath the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"I have come again to ask you to stop digging underneath the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>"You dig under the city, right? Can you take me someplace?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>"Can you take me someplace under the city?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>"Speak. Ch'kekt will answer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"Human have egg. Find answer for self."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>"I would like to return your eggs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>The stichus is shocked into immobility for a moment. Then it judges your face and your scent. "Egg thief return eggs?"
+
+"Sticha leave. Ch'kekt leave. No more sticha here. Gratitude." The scent around it seems to harden. "Not kill *you*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>The stichus is shocked into immobility for a moment. Then it judges your face and your scent. It grates out, "Gratitude."
+
+It shrugs its massive shoulders, and points its taloned hand at you. "You safe. *You.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>It gathers the stolen eggs from you carefully and reverently. It secretes them in deep boreholes nearby, and you hear rustling down those passages, as if the eggs had been moved yet further away from you.
+
+"Soon not see, human."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>"Will send broodmates to save outcast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>"Ch'kekt say no again." A foul scent washes over you, making you gag. The stichus flexes its massive claw, and its voice rumbles through the tunnel, so low that it vibrates the stone. "Why human ask and ask?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>"Others promise pain." It waves its massive claw. "Sticha still here. *Not* stop digging. Need to *eat*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>"Do you want your people to have a future? Do you want war with the humans above? They will collapse your tunnels. They will destroy you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>"I've given all the reasons I need. If you don't stop digging, your people have no future in this city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>"We'll discuss it later. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>"It was me. I apologize, but I had no choice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>Your muscles twitch in sympathy with these memories, and you realize that the stichus tongue is a jumble of scent, movement, and sounds.
+
+With the memory, information pours into your mind, as if a plug had been removed. The smell of granite fills your nose.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>[DEBUG] Jump straight to the Buried Crossroads.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>[Start Tussle]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>It exudes a sense of sentience as it watches you, but you sense nothing in its mind, as though it were a common animal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>It exudes a sense of sentience as it watches you, but you sense nothing in its mind, as though it were a common animal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>"Can you take me to the place where your eggs hatch?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>"Are you sure you can't take me to where your eggs hatch?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>The scent that wafts from the stichus is disgusting, like organic matter that has been baked, digested, and defecated a second time. 
+
+Its hands clench, hard, and it grates, "No."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>The air grows redolent with foulness. Ch'kekt does not move.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>"Why? Where we go? Give reason to stop."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>Script Node 404</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>"Broodmates! Kill the destroyers!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>"::clk clk skreee chk sllllk::"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>"If you've moved your people deeper underground, can you take me to your old lair?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>"Can you take me back to your old lair?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>"Will take egg-friend. No need to pay."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>"Travel cost [Global: a2301_StichusTravel] shins. Yes or no?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>Pay [Global: a2301_StichusTravel] shins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>"We go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>"Is empty now. No sticha. No eggs." The creature regards you carefully, as if trying to discern your purpose. Then you catch a scent like fresh air sweeping through a tunnel - the equivalent, perhaps, of a dismissive shrug.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>"Is close to surface, at top of city." The creature pauses. "Took another human there once."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>"Travel cost shins. [Global: a2301_StichusTravel] shins. Yes or no?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>Pay [Global: a2301_StichusTravel] shins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>"We go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>You almost have the sense of the language - the structure, the feel, the sound and scent. The itch in your mind intensifies. You feel the memory of the stichus language waiting to reveal itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>You almost have the sense of the language - the structure, the feel, the sound and scent. The itch in your mind intensifies. You feel the memory of the stichus language waiting to reveal itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>You almost have the sense of the language - the structure, the feel, the sound and scent. The itch in your mind intensifies. You feel the memory of the stichus language waiting to reveal itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>You almost have the sense of the language - the structure, the feel, the sound and scent. The itch in your mind intensifies. You feel the memory of the stichus language waiting to reveal itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>The giant stichus huffs unhappily. "Must send other grub away. Peliai, fish-head grub. Tell her we make deal, and make her go away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>::ch-k-k-t::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>Script Node 433</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>The stichus waves its arms and chitters incomprehensibly. You can't understand what it's trying to say... except that it isn't willing to stop digging.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4211_artaglio_rum</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The cask from which Artaglio fills his flagon is made from staves of dark wood. Synthsteel bands hold the barrel's staves tight, and you see the dents in the synthsteel where some sort of ornamentation has fallen off.
+
+Inside, dark, spiced alcohol sloshes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Try to spike the rum with the Bravery cypher from Sheen's store.
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>You uncork the vial and move closer to Artaglio. In one swift motion, you palm the essence and pass your hand over the cask, discreetly lifting the lid and dropping Sheen's concoction into the alcohol. It barely makes a noise as it slips into the rum, and you replace the lid with no one the wiser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Leave the cask alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>You watch and wait to make your move, and you think you have the perfect opportunity. As you fake a yawn and try to tilt the essence into the open cask, he contrives to knock the essence from your hand. The tube rolls near his boot, and without looking at it, he lifts his heel and crushes it beneath his foot.
+
+Then, looking you directly in the eye, he takes another long swig. He refills his flagon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>In one swift motion, you palm the essence and pass your hand over the cask, spilling its contents into the drink. No one realizes you were even close to the drink, and you slip the empty tube discreetly away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You watch and wait to make your move, and you think you have the perfect opportunity. As you try to open the cask unobtrusively, Artaglio laughs at a joke, gestures expansively, and knocks the essence from your hand. The tube rolls near his boot, and without looking at it, he lifts his heel and crushes it beneath his foot.
+
+Then, looking you directly in the eye, he takes another long swig. He refills his flagon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Try to spike the rum with the Bravery essence from Sheen's store.
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Try again to spike the rum with the bravery essence from Sheen's store.
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>You think you have the perfect opportunity to make your move, but as you prepare to open the barrel and tilt the essence into the cask, Artaglio turns in your direction. You just manage to hide the tube before he notices.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>You try again to slip the essence into the cask, but again Artaglio turns before you have the opportunity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Artaglio refills his mug and drinks. His demeanor changes subtly but quickly, his skin becoming flushed and his eyes dilating. His sidelong glances at the Maw turn into stares, and the more he drinks, the longer he looks. Determination begins to settle on his face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"A nice try, castoff. What was that? Poison? Hallucinogen? Nano-something or other? I've had my fill of most every toxin around these parts, but they really ruin the flavor." He peers at you. "But you're messing with my drink. Tell me why I shouldn't have you beaten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You might be able to slip the bravery essence into the cask, but  Artaglio refills his flagon frequently, and he watches his liquor like a jealous lover.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The cask reeks of powerful alcohol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>The cask is made from staves of dark wood. Synthsteel bands hold the barrel's staves tight, and you see dents in the synthsteel where some sort of ornamentation has fallen off.
+
+Inside, dark, spiced alcohol sloshes.
+
+The man who is standing nearby sees you examining his barrel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You might be able to slip the bravery essence into the cask, but  Artaglio refills his flagon frequently, and he watches his liquor like a jealous lover.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Trigger Conv Node 29</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

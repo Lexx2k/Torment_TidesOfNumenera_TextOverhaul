@@ -1,0 +1,1097 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2621_min_of_tan_liang</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>194</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This priest is tall, thin, and dressed only in black. Narrow slashes of oil decorate his unlined skin like letters in an unknown tongue. His eyes are harried, but alive with intelligent humor. 
+
+They land on you with a tiny flicker of recognition.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bank 3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Can you tell me about your work?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"What do you do here again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Heh," he says, shaking his head. "That's a big question, even on the best days. I specialize in mechanical numenera, intelligent or not, but I haven't had much time for research since I started managing our branch of the Order."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"I used to study mechanical numenera. Now, I run the Order of Truth in Sagus Cliffs," he says. His mouth quirks. "And occasionally, I sleep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Bank 9</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"What is the Order of Truth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I have more questions about the Order of Truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Yeah? Good," he says, rubbing his hands together. "We like curiosity around here. Ask away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ask whatever you want," he says.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Bank 14</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"How did a chapter of the Order of Truth end up out here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"What does the Order of Truth do in Sagus again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"It was founded three hundred years ago by a varjellen nano named Diviaticu - that's his statue outside. He governed, or you could say *ruled*, the Order with more force than you see in traditional chapters. He set us up in this spire, hand-picked new members, and chose them for particular projects of his design."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"We're... not quite that organized these days," he says, shrugging. "For better or worse. Leaders are chosen by consent of the other priests and priestesses, and they don't have a say in what everyone works on. They just deal with the politics and the paperwork so that everyone else can focus on their ruinous side projects and hideously dangerous experiments."
+
+He flashes a grin. "Which is to say, I'm the leader because I'm the only one who admits we need to eat."  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"You sound awfully dismissive of your colleagues' work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Leadership is a lonely path."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Really, though, is food so much more important than knowledge?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Envious is the word," he says. "I have a few insane theories I've been waiting to test out for *years*."
+
+He sighs. "But the outside world just *refuses* to go away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"I wish that were true," he says. "I'm rarely lonely. People visit me all the time. Usually furious, and waving their hands."
+
+He sighs. "But someone has to deal with the world outside these walls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Funny thing," he says. "An Aeon Priest can work for twelve hours and forget the pastry on the plate next to them until ants carry it away. But if we can't buy food, everyone gets an appetite at once."
+
+He sighs. "And we don't make money unless the people outside these walls are happy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"The Slave Families, for some reason, aren't interested in funding wild, endless experimentation. They like results. Especially weaponizable ones. So I review their 'requests,' deflect the crazier ones, and convince my colleagues to work for a living occasionally."
+
+He nods at the nearby machine. "We also create the levies that guard the city - though that's seen more as a responsibility than a favor these days."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"We advise the Slave Families on technological matters and maintain the machine that produces levies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I saw Diviaticu inside the clock in Circus Minor. Your founder was the Changing God... or a castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Min squints at you, then the ceiling.
+
+"It's possible," he says at last. "Diviaticu's behavior matches the stories I've heard about the Changing God. But he hasn't exactly shown up here to pick up where he left off. If you're right, maybe he just lost interest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Bank 29</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I'm trying to repair a device known as a resonance chamber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Who should I ask about the resonance chamber again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"You're what?" Min gasps. "I thought that thing was a myth. And you're trying to repair it? Where is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Salimeri," he says. "She's worked on organic machine construction before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"In a dome in the Reef of Fallen Words."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"I'd rather not say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"None of your business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ah," he says, his mouth twisting. "Probably wise. Anyway, do you have any piece of the machine with you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Heh," he says. "You're right there. Still, I had to ask. Do you have any piece of the machine with you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Really," he says, shaking his head. "Amazing. Do you have any piece of the machine with you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Hmm." He handles the shard with care. "Organic *and* crystalline. It was grown into the appropriate shape for the machine. This is definitely what Salimeri was working on all those years ago. With her partner." He looks at you, his eyebrow raised, but does not say more.
+
+Reluctantly, he hands it back to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"In all honesty, I focus more on traditionally-powered machines. Salimeri has some experience with organic machine construction. You might ask her about it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Bank 43</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"What *is* the Order of Truth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Remind me again what the Order of Truth is?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Good question." He chews his lip for a moment, framing his words.
+
+"We live on the surface of a vast labyrinth of layered ruins, packed with relics and artifacts. Windows into the past. Some people are content to find them, use them, and sell them."
+
+He grins. "But not the Order of Truth. Not the Aeon Priests. We want to understand the numenera. Study them. Point at them and argue about them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"An organization dedicated to the discovery, understanding and appreciation of numenera." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Come back any time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Happy to," he says. "What is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Bank 52</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Are there a lot of Aeon Priests in Sagus Cliffs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Can you tell me about the members of the Order of Truth again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Yes, but they're not strictly *here* here," he says. "Some are out on digs or various expeditions. We only have a few Aeon Priests in the city right now."
+
+"There's Salimeri, who I mentioned before. Beleazar studies biomechanical lifeforms. Orth Faung is an expert in inexplicable and malicious architecture and should be back soon." He pauses, ticking his fingers and furrowing his brow. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"You're better off just talking to them yourself," he says, grinning. "Not a one of them is shy about telling you what they know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"And Sn'erf, of course. A visitant who's developed an interest in all forms of reproduction. It isn't one of us - and I don't think it wants to be - but we gave it space to work on its... uh... projects."
+
+He leans in. "Don't go over there unless you've invented a way to scrub your memory clean."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Then his gaze moves from you to Aligern, and hardens.
+
+"Oh, good," he says. "No one's shouted at me for *hours*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Then his gaze moves from you to your companion. 
+
+"Hello, Callistege. Here to work or just visit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"I already said everything I need to," Aligern says, folding his arms. "Anything else would be a waste of breath."
+{ALIGERN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"I'm simply passing through, Min darling," Callistege says. "Don't bother setting an extra place for me at the dinner table."
+{CALLISTEGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>""
+{SCRIPT: Should only play if PC has reached this node through Node 65.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"I recognize you," he says. "It's been... ten years? I don't think we ever spoke. You were the one visiting Salimeri all the time, right? Working on some sort of organic machine technology?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Rubbing his temples with grease-stained fingers, the tall priest nods at you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>""
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Anyway," he says. "What do you need?"
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"What's going on here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Let it go. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"You're looking at Min of Tan Liang, head puppet of the Order of Truth," Aligern says, jerking his head at Min. "More interested in where the next shin is coming from than, say, doing any actual research."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"This may shock you," Min says, "and it shouldn't, because we've had this talk before - but research into the numenera takes time. Orth needs a quiet place to work. He needs food and a bed. And none of this is free."
+
+Min sweeps a hand through his dark hair. "Like it or not - and I *know* you don't - the Slave Families demand cooperation for their shins. If we don't maintain the levy network - if we don't play their games - that funding goes away. And so does the Order of Truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Min's narrow chest swells. His jaw tightens.
+
+Then he breathes, swallowing the retort with well-practiced restraint, and focuses on you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Maybe that'd be for the best, Min."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Aligern, you're not being fair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Min ignores Aligern's snort of approval, and turns to you. 
+
+"Maybe," he says, rubbing his forehead, smearing the grease stains there. "You know, I used to have time for my own work. It wasn't always..." he waves his hands vaguely, "politics and dinners and polite 'requests'. "
+
+He gives Aligern a sharp look. "We'll find the answers you're waiting for. I'm not asking for gratitude. I'm asking for patience." And with that, he turns his full attention to you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Maybe not," he says, crossing his arms. "But I don't remember 'fair' being one of the requirements for the truth. Maybe I'm wrong."
+
+Min sighs, and turns his full attention to you. 
+{ALIGERN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Bank 80</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Tell me about that machine behind you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"What does the levy machine do again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"It makes levies. The guardians of Sagus."
+
+He rubs his chin. "Our records say that Diviaticu found a similar device in the ruins of Archopalasia, far to the north. He convinced the city that a local version - a modified one - would be of use."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"It takes a year of life from people when they're old enough to become Sagus citizens. The machine then shapes that time into levies that patrol and protect the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"That seems fair. It's an elegant way to serve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"In order to become a citizen, everyone in Sagus Cliffs - even the ones born here - gives a year of their lives to the machine. It uses that, uh, borrowed time to create a levy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"No one should be forced to give up their lives."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"What if someone only has one year to live? Would they die the second they entered the machine?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"I agree," he says. "Better than giving an actual year of your life, following orders and marching around in the daylight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"It's just a year," he says. "And it's not as though it hurts, or even that you feel the time leaving you. You walk in, walk out, and get on with your day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"No," he frowns. "They never die in the machine, but it catches up with them a few days later. That doesn't happen very often. Sometimes I think the machine actually saves them... prevents them from meeting whatever fate was in store. But not always."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"At any rate, the levies created by the machine are nearly identical, and they only last a year. After that, they quietly return to the machine and dissolve into..." his hands grip the air, trying to frame the words, "gray... gunk. It's incredibly unpleasant to watch, but they don't seem to mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I met a levy that was losing its mind. It believed it had gotten a bad year from its creator."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"That's disgusting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"They deserve more than a year of servitude."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"That's incredible," he breathes, then catches himself. "And bad. Very bad. I'll take a look at the machine before the next citizen comes in."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Yeah. Like I said, it's not fun to watch, but they don't scream or thrash around. And then, their gunk gets used when the next soon-to-be citizen strolls through the machine."
+
+He slaps his hands together. "Nothing gets wasted. Except, uh, for the bits that wash down the drain. Can't do anything about that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"I don't know that they deserve *anything*," he says. "They're not alive in the general sense. They don't ask for time off or complain about the cold. They just serve their time and melt away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Bank 101</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"I've met a levy that's losing its mind. It wants to take a better year from its creator."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Let's talk about that device for the levy who wants another year for its creator."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"It *what*?" Min says. "That's horrible."
+
+His gaze drifts to the air. "And very, very fascinating. I *could* build something based on our machine that would trade a year of the citizen's life, assuming you were willing to pay [Global: a2621_MinOfTanLiangBuildsLevyItem] for parts." He glances at you sharply. "And the citizen was willing, of course."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Sure," he says. "I can make it for [Global: a2621_MinOfTanLiangBuildsLevyItem] shins, or you can make it yourself at that table over by the machine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"I want you to make the device for me."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"I'll try building the device myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Alternately, if you want to spare the shins and the day it would take me to make it, you could try building it yourself," he says, nodding his head at a table near the machine, loaded with parts. "If you feel like a challenge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"All right," he says, taking your money. "Come back in a day, and I'll have the device for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"That's the spirit," he says. "Not that we couldn't use the money, mind you, but we're not about getting rich here, after all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"There you are," he says, handing you a small device with handles on either side. "Have the citizen and the levy hold either side before turning it on. It should handle the rest."
+
+He stretches. "Felt good to be doing actual work again. Anything else you need?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Surprise washes the gentle mirth from Min's face to reveal the stone expression of the man who protects the priesthood from the plots of Sagus's governors. The head of the Order of Truth. 
+
+He turns to address Lan, but the younger man is already on his way over, stammering and trembling. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Lan Uring has been spying on you for the Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Yeah?" Min says. "Well, good news. You're safe now, because you'll never have access to the Order of Truth again. Pack your things and get out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"You should give him another chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Stay silent. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Isn't it better knowing who the spy is? Knowing what they're trading away?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"He's going to tell everyone you punished him for getting blackmailed. They'll think you're cruel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Not even an Aeon Priest, and you caved to... what, threats on your life? Please, kid. I get threats daily."
+
+He shakes his head. "It never gets easier. They're always trying to get something on you. Trying to make you do what they want. And we don't need another hole in this sinking ship."
+
+Lan points at the door. "Get out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>""
+{SCRIPT: Cutscene: Lan Uring exits and despawns.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>When the initiate is out of range, Min breathes a shuddering sigh and runs his hands through his dark hair. 
+
+"I hated that," he says. "The kid deserved better. But I guarantee at least one of the priests who have gone missing on expeditions isn't missing at all. Probably stripped of robes and relics, and buried in a shallow grave thanks to him."
+
+He massages his eyes. "Any other questions or revelations for me today?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Min opens his mouth. Shuts it. Gives you a thoughtful look, then turns to Lan. 
+
+"Go to your workspace and wait for me. We're going to have a *chat*."
+
+Lan obeys, hanging his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>When the initiate is out of range, Min breathes a shuddering sigh and runs his hands through his dark hair. 
+
+"That was a good idea. I hate it, but it's good. Now, do I trust him to work with me, or feed him false information? Don't answer that," he says, waving his hand. "My problem, not yours."
+
+He massages his eyes. "Any other questions or revelations for me today?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Let them," he says, then turns to Lan. "You think it gets easier to find funding when you're an Aeon Priest? You think they ever stop trying to get a hold on you? Make you do what they want, build what they want? I can't look at you anymore. Get out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>""
+{SCRIPT: Cutscene: Lan Uring exits and despawns.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"He's done enough damage to get him kicked out a hundred times," Min growls. "You don't know how many times our dig sites have been ransacked by the Memovira's thugs because of him. How many artifacts have been lost forever."
+
+He points Lan to the door. "Get. Out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>With a soft, wounded gasp, Lan obeys.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Bank 128</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Where is Orth Faung now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Where is Orth Faung again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Looking into Aligern's problem," Min says, cocking his head at your companion. "I think he mentioned leaving a note for you on his work table in case you stopped by, but he was in a hurry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Still working on Aligern's problem, I'd imagine," he says. "Did you check his work table for a note? He might have left one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Bank 133</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Can I ask you some questions about mechanical numenera?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Do you have more time to talk about mechanical numenera?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"I would be incredibly grateful if you did," he says. "Every other conversation I have revolves around how I'm ruining the Order - or not doing enough to save the Order."
+
+He rubs his forehead with the back of his callused hand. "Please. Ask me about wires and blinking lights."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"The responsible answer is 'no'," he says. "But no one needs me to sign anything right now, so... yes. Yes, I do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"I have sticha eggs I want to convert into power sources."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"One of the Foremen is trying to create offspring, and I was told the Order of Truth could help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Is that right?" he says, raising his eyebrows. "You'll want to talk to Sn'erf then. It knows more about the sticha than any of us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Not the Master Foreman, I hope," he says, with a disbelieving laugh. "One of him - it - is more than enough."
+
+"This sounds like something that would interest Sn'erf quite a bit," he says. "And when you head back to the Underbelly, tell Master Artisan I said hello."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>""
+{GAVIN: This is the gateway to joining the Order of Truth. Add if time. Gated with blank global for now.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"The Master Artisan says you should come visit more often, even if you don't like the smell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"It did *not*," he says, flinging his hands in the air. "It did?"
+
+He covers his face in his hands. "Word of advice," he says, muffled. "Never buy lunch from the Meatmonger before you go for a chat with Master Artisan. Because if you get sick - even a little bit - *someone* won't ever let you forget it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>His smile, you note, is the slightest bit strained.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>With the same slight smile, Min turns his full attention to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Who's Salimeri?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>(Lie) "That's right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"You're mistaken. I've never been here before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Huh. Well, welcome back," Min says, unaware of - or perhaps ignoring - Aligern's muffled grumbling at your side. "What brings you to the Order of Truth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Oh," he says, frowning. "Maybe I was wrong. Salimeri is one of us. An Aeon Priestess."
+
+Still, his eyes linger on you, trying to remember where he's seen you before. "What brings you to the Order of Truth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Huh. Well, welcome back," Min says. "What brings you to the Order of Truth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Oh," he says, frowning. Still, his eyes linger on you, trying to remember where he's seen you before. 
+
+"What brings you to the Order of Truth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Now, in the west, the Order of Truth is much bigger than this little enclave. It's a vast organization, led by the Amber Pope. Out there, our words turn the heads of kings."
+
+He shrugs. "Around here, we occasionally get discounts on equipment from local vendors and a free cup of tea. Not that I'm complaining."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Ah, also, Lan Uring, of course. He's been educated in the Order, but he's still looking for a discovery that will make him an Aeon Priest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"I didn't have a choice, Min!" he says, his eyes red-rimmed, desperate. "They said they would kill me if I kept anything from them!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Anyway, that's the machine. Any other questions?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"I have a shard of it. Take a look."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"I don't have the piece I found anymore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Why do you need a piece of the machine if you've heard of it before?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"You know," he says, a guilty look creeping over his face. "Every bit of information helps when you're trying to solve a problem. And I'd like to get a peek at the thing if I can... but I wouldn't be much help with that particular device."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"What a shame."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"I don't have enough money right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"No problem," he says. "I'll still be here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Can you make sense of the diagram on this puzzle box?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Who should I speak to about the words on the puzzle box diagram?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Min takes the box carefully, studies it, then hands it back with a whistle. 
+
+"That's no diagram. That's a machine language, I recognize a few words. That one," he says, pointing to a symbol, "means 'copy'. That one is 'stability' or 'strength'."
+
+He shakes his head. "I'd love to untangle this for you, but you're better off going right to the source and asking the Foremen themselves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"The Foremen in the Underbelly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Script Node 173</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"No, I don't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"How long have you been in this spire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Well, it's not actually a building, first of all," he says, grinning. "And neither is Council Tower. Take a closer look when you get a chance. They're *ships*. We think they were used to explore the void between the stars, long before Sagus was founded."
+
+He rubs his chin. "They may be millions of years old, in fact."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Now, of course, they're almost completely sealed in rock. The only other parts you can see up close are the engines, down in the Underbelly. The city uses them as forge fires and energy sources."
+
+He raises a finger. "Actually, that's *not* the only part. We use some of the lower decks for storage, but you can't see those." He makes a serious face. "Very secret."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Ha!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Min continues looking at you, apparently oblivious to Aligern's outburst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"You found his note, didn't you? Aligern would know better than I would. Orth didn't tell any of us where he was going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Aligern must know. He saw Orth's note." Min eyes your companion. "Orth didn't tell me where he was going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Salimeri told me there's a Memovira spy in the Order of Truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"We think so," he says, with a irritated glance at Salimeri. "But not because we've seen people in dark cloaks creeping around."
+
+He lowers his voice, but not enough that the anger buried in it is completely hidden. "We've lost dig sites to her thugs. Maybe people too. We can't be sure because we never find any traces of them." He rubs his forehead with a stained hand. 
+
+"We'll catch the spy," he says. "Only a matter of time."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Fascinating."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"It is. And nothing is wasted. We just use the same gunk for the next levy." He frowns. "Good thing, too. I have no idea how to make more gunk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"What are levies?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Good to see that Sagus makes scholars live in the real world."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"They're Sagus's version of a city watch. You may have seen them around." He plasters on a wide, fake grin and points at it.
+
+"They wear armor and look like this. You can't miss them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"I agree with you on some days. Others, I'd rather be chasing a crazy theory." He shrugs. 
+
+ "What else do you want to know about the Order?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"It's a shame the Order has to earn its keep in this city." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Well, it has its ups and downs," he says, shrugging. "Some of our people could use some grounding."
+
+He scratches his head absently. "What else do you want to know about the Order?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"How is Piquo settling in?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Oh, you know him! Good kid. Really good kid. He hasn't let an hour go by without exclaiming over something he's found in a book and insisting everyone take a look."
+
+He casts a fond look in Piquo's direction. "The kid's going to do well here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"I met an Aeon Priest named Beleazar. He's up to something in Circus Minor, but he wouldn't tell me what it was."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Is he still there?" Min seems genuinely surprised. "I was hoping he'd given up, run off, and we'd never see him again. No, I don't really mean that."
+
+He coughs. "Well, maybe a little."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"That boy has been obsessed with biomechanical monsters for as long as I've known him, and now a real one has fallen into his lap. He's trying to get himself a physical sample, I think."
+
+"Tell you what. If you see him again, you can say that I sent you to give him a hand. That'll bring him around. And gods know he needs whatever help he can get. He's brilliant with the books," he shakes his head, "but not much else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>DEBUG: accuse Lan of being a traitor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"You should refuse. Follow your own interests, and the funding will follow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Don't think I haven't considered it," he says with a grin. "It's one of my many temptations."
+
+He scratches his head absently. "What else do you want to know about the Order?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Just a bit of business. Have you ever heard anything about a resonance chamber, Min? We're looking for a way to repair one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Probably just as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

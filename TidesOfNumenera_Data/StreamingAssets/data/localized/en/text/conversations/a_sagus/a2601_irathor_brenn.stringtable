@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2601_irathor_brenn</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>57</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"I'm a merc. Head of the Ianthine Specter Company. What brings you to the Thicket?"
+
+He sees something in your expression. "First timer, huh? Well, whatever we talk about here can't be overheard. Someone tries to read our lips, they get gibberish."
+
+He crosses his arms. "Good place to talk business, in other words. If that's what you're here for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Irathor nods at you, but his mind is definitely on other matters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"I'm a merc. Head of the Ianthine Specter Company. What brings you to the Red Thicket?"
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>This slim man looks to be in good shape, and though his face remains hidden within his hood, he carries himself with confidence. 
+
+His clothing exudes something like smoke that makes him look a bit like a ghost - perhaps a man who can't be found if he doesn't want to be.
+
+"Irathor Brenn," he states. "Pleasure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>""
+{GAVIN: Jagged Dream branch. Add later. Conversation isn't detailed in ZDD, so check ZDD quest and re-read Jernaugh}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Bank 7</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Tell me about the Ianthine Specter Company."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"What does your group specialize in again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"We do infiltration mostly," he says with a smoothness that implies he's given this speech before. "Sabotage, assassinations, assorted hostile recovery. Sometimes the city hires us to handle local threats - problematic tribes, roaming predators, you name it."
+
+He chuckles. "Pretty quiet these days. Not like when we got started. Our first big job was a series of assaults in the Endless Battle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Infiltration, sabotage, assassinations, and theft," he says, as if reading from a menu. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Bank 13</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"What did you do in the Endless Battle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Bank 16</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"What is your company doing in Sagus?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"What is your company doing in Sagus again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Can't say," he says automatically. "Contracts. You understand. All I can tell you is the Chalcedon pays on time, and that's more than I can say for some of the employers I've had over the years."
+
+He sighs. "One of the best jobs we've ever had."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Who's the Chalcedon?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Come on. You can't tell me anything more than that? We're in the Red Thicket, remember?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"You're a professional. I respect that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"One of the commanders on the Changing God's side," he says. "Pays well and on time. And that's the extent of my opinion on the matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"You got a point," he says, flashing a grin. "All right. Our objectives involved suppressing information without being seen. We lost more than we could afford, but the Chalcedon made sure we got paid more than our fair share. And really, that's all I'm going to say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Well. You don't learn to keep your mouth shut, you don't get new jobs. Or you get dead." He shrugs. "Not professional so much as practical."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Now, my turn for questions. It's not just the tattoo that gives you away. I know you, don't I? Where from? We fight together? Fight each other? What is it?"
+
+His hand drops to a pocket near his hip. "Tell the truth, now. I'll know if you're lying."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"I have no idea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I was also in the Endless Battle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"I have no idea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Irathor stares you down. Something tickles the back of your mind.
+
+"All right," he says, wincing. "But it's not like me to forget a face, especially when it belongs to a castoff. You lot are either hiring my people or trying to kill them most of the time."
+
+He shrugs. "It'll come to me at midnight, probably. Right in the middle of a good dream. And I won't forget your face again. That's a promise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Irathor stares you down. Something tickles the back of your mind.
+
+"I told you not to lie," he says. "Waste of both of our time. But suit yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Say no more," he says, raising a hand. "Should have known, with that tattoo and all. My curiosity does get the better of me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Irathor stares you down. Something tickles the back of your mind.
+
+"This is miserable," he says, scratching his head. "I'm going to be running your face through my head all day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Negotiations," he says shortly. "I'm between meetings with a few Council representatives. They may want us for some, uh, ongoing work." He shows his teeth. "Bit of a bidding war going on right now, to be honest. We're in demand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Waiting for the Council representatives to finish fighting over who gets to pay us the most."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>And there is something in that satisfaction behind that smile that catches your notice. He isn't just happy at the prospect of a solid payday. It's the smile of a man who believes that everything is going according to plan. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Farewell, Irathor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Yeah, see you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>His eyes flick to your tattoo for an instant. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Are you threatening me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Threatening?" He snorts. "Yeah, that's what I'm looking for. A brawl in Government Square. No, just curious. If we were enemies before, well, I'd like to know, but I'm not about to take it personally. Business is business. So tell me. How do we know each other?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Try to remember how you know Irathor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>You focus on the man, his features, and open your mind...
+
+"Can we trust them?" you hear yourself say, your voice muted by the years. 
+
+"They're mercenaries," your companion replies. "Of course we can't."
+
+"That's not what I meant," you snap. "Can we trust them to finish the work? If not, kill them now. This is no time for uncertainty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>You stare at the man's features, a memory slipping in and out of focus through your mind. Eventually it fades, leaving you with nothing. 
+
+"Well?" Irathor says. "Are you going to tell me how we know each other or not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"I don't want to answer this question. Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"All right," he says, shrugging. "Thought we might have had something is common, is all. Suit yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"What's the Endless Battle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"I have some other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Really?" he says, cocking an eyebrow. "All right. It's basically like it sounds - a fight that's given people like me a solid payday for more generations than anyone could count."
+
+He shrugs. "As far as I heard, it's a scrap between rival factions of the Changing God's castoffs. What about, I couldn't tell you." He cracks a grin. "Getting interested in the 'why' of a war always ends up being bad for business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"All right. Ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Can you read my thoughts?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>He barks a loud laugh. "The only way you'd know that is if you could read mine, too. Useful skill, isn't it? Now you know why you shouldn't try to lie to me. So where *do* I know you from?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Can you read my thoughts?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>He barks a loud laugh. "The only way you'd know that is if you could read mine, too. Useful skill, isn't it? Most of the time, anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>You return to the present just in time to hear Irathor speak again. 
+
+"Well? Are you going to tell me how we know each other or not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

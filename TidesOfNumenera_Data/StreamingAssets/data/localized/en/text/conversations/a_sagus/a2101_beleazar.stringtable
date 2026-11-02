@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_beleazar</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>167</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This thin, fidgeting Aeon Priest shoots furtive, sidelong glances at the creature in the nearby 'cage' while humming a nonchalant tune. When he sees that you're watching him, he flinches. Over the course of a few, frantic breaths, shock becomes embarrassed anger, and he opens his mouth to shout at you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Engrossed in studying the caged creature out of the corner of his eye, Beleazar doesn't notice you've returned until a few seconds pass. He flinches and glares at you.  
+
+"Yes? What is it now?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Yes, yes. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Then he spots Aligern at your side and sneers. 
+
+"Oh, look. You found someone to chase shadows with, Aligern. How much are you paying him to pretend your blather makes sense?"
+
+He spits at your companion's feet.</DefaultText>
+      <FemaleText>Then he spots Aligern at your side and sneers. 
+
+"Oh, look. You found someone to chase shadows with, Aligern. How much are you paying her to pretend your blather makes sense?"
+
+He spits at your companion's feet. </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Bank 6</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"What do you know about the creature over there?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Can you tell me about the nychthemeron again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Attacks without thinking, huh?" Aligern says, smirking at Beleazar. "You're practically twins." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Yes? What is it? What is so gods-damned fascinating about me that you feel the need to *stare*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Aligern raises his eyebrows at the spatter of wet dirt.
+
+"It's nice to be famous. Not that you'd know, because I sure as hell don't know you." 
+
+He smirks in your direction. "Typical Order of Truth acolyte here, treating tasty gossip as evidence. Doesn't matter if something's true, so long as it's *interesting*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Maybe they should call it the 'Order of Trust'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"So I should trust your insults over his?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Aligern barks a laugh.  
+
+"Maybe. Most of them sure as hell aren't chasing the truth anymore."
+
+You turn back to Beleazar. The young priest is regarding both of you sourly. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Aligern stares flatly at you, then sighs. 
+
+"Fair enough. Go on, kid. Find out what they're like for yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"A living repository of knowledge," Callistege murmurs, watching the creature. "I wonder what places it has seen. What it *knows*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Bank 18</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"What?" Beleazar says, jumping. Then he takes a breath and struggles to sound offhand. "It's a nychthemeron. A biomechanical creature. An information gatherer, in fact."
+
+He seems to calm down as he warms to the topic. "They're dangerous, though. You can only speak to them at night. During daylight, they'll attack without provocation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Certainly," Beleazar says, wetting his lips. "They gather information, and display mindless hostility during the day. You can only reason with them at night. No one knows why." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"You're planning something, aren't you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Frowning at your words, Beleazar turns to regard you. Then he notices your tattoo, and his eyes go wide.
+
+"I've *heard* of people like you. What are you doing... no, never mind, you just asked me... I mean..." He trails off, and seems to reach a decision. 
+
+"I'm working on something dangerous. And it would be an honor if you could lend your assistance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Beleazar weighs the intent of your words with narrowed eyes. 
+
+"Something you'd likely find interesting," he says, with some reluctance. "But I'm not quite willing to discuss my ideas yet. Leave me alone, please."
+
+He returns to his careful observation of the distant nychthemeron. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Beleazar weighs the intent of your words with narrowed eyes. 
+
+"None of your business," he snaps. "Move along. Go... find some flowers to sniff, and leave me in peace!"
+
+He returns to his careful observation of the distant nychthemeron. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Beleazar weighs the intent of your words with narrowed eyes. 
+
+"Something you'd likely approve of," he says, with some reluctance. "But I'm not quite willing to justify... er, discuss my ideas yet. Leave me alone, please."
+
+He returns to his careful observation of the distant nychthemeron. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Beleazar weighs the intent of your words with narrowed eyes. 
+
+"Something you'd likely find distasteful," he says, turning away with a sneer. "Leave me to it. Perhaps a child has dropped a sweet nearby, and needs you to dust it off for them."
+
+He returns to his careful observation of the distant nychthemeron. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Beleazar weighs the intent of your words with narrowed eyes. "Are you with the Order of Truth? Or just *snooping*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Beleazar scans the plaza, then beckons you over. 
+
+"I have a device," he whispers loudly. "If someone can get close enough to affix it to the creature's cage, it will activate and teleport the nychthemeron to the Reef of Fallen Worlds. And then... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"You'll set it free?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"You'll kill it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"This sounds dangerous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Me? No," Beleazar says, beaming. "Not *me*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Oh, it will be. But not for me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"What? Of course not!" His lip curls. "Why would I go through all this trouble to *help* the creature?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Biomechanical organisms fascinate me, and nychthemerons doubly so. I've never gotten to examine one up close. So," he lowers his voice, "I want you to teleport the creature out of its cage, kill it, and bring me the, er... memory organ."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"All right. Give me the device, and I'll see what I can do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Min of Tan-Liang sent me. He said you needed my help." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"You?" Beleazar recoils, his thin face a caricature of suspicious jealousy. "Yes, I *could* use an ally. What I don't need is someone taking all the credit for my work! What do you expect to get out of this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"What?" Beleazar says, going pale. "Who told you this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"I've heard that you're interested in helping the creature escape its prison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"The nychthemeron itself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>(Lie) "Someone you trusted. Let me in on what you're planning, or I'll tell the guards."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Beleazar exhales sharply. 
+
+"I never learn," he says, and you see he is on the verge of frustrated tears. "Why do I..." He presses his lips together, and lifts his eyes to yours.  
+
+"What's done is done. You want to be part of this? Fine. Do what I ask, and I'll pay you well. Betray me, and you get *nothing*, understand?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"You spoke with it?" Beleazar sputters. "It knows what I..." 
+
+His eyes dart between you and the captive creature. "It wants you to help it escape, doesn't it? Well, I am *not* going to help! And you would be a fool to ally yourself with that creature."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Beleazar toys fretfully with his hands, glances at the sky as if it will advise him, then sags. 
+
+"Fine, but know this: whatever the creature has promised you, it's lying. It will forget you at sunrise, and attack. That is its nature."
+
+Beleazar draws himself up, his scrawny frame quivering with dignity. "People don't speak kindly of me. I know that. But I'll, er, 'deal straight' with you. And I pay well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>For a moment, Beleazar seems torn. Then, he chuckles to hide his nervousness. 
+
+"I don't need your help! I'm doing just fine on my own!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Beleazar sags. 
+
+"Fine, but know this: whatever the creature has promised you, it's lying. It will forget you at sunrise, and attack. That is its nature."
+
+Beleazar draws himself up, his scrawny frame quivering with dignity. "People don't speak kindly of me. I know that. But I'll, er, 'deal straight' with you. And I pay well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Beleazar responds with a giggling snort to hide his blindingly obvious uncertainty.  
+
+"I don't need your help! I'm doing just fine on my own!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Bank 56</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Tell me what you're planning, and maybe I'll side with you instead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Don't be stubborn. I can help you, but only if you tell me what you're planning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Do not presume to know our motives, dear," Callistege says calmly, examining her fingertips. "Presumptions are often wrong... and often dangerous."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"I'm not sure you're qualified to spot fools, son."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Beleazar opens his mouth to greet you. Then he spots Aligern at your side and sneers. 
+
+"Oh, look. You found someone to chase shadows with, Aligern. How much are you paying him to pretend your blather makes sense?"
+
+He spits at your companion's feet.</DefaultText>
+      <FemaleText>Beleazar opens his mouth to greet you.Then, he spots Aligern at your side, and sneers. 
+
+"Oh, look. You found someone to chase shadows with, Aligern. How much are you paying her to pretend your blather makes sense?"
+
+He spits at your companion's feet.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Don't drop it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>START QUEST</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>YOU SHOULD NOT SEE THIS. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"What do you need me to do again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Remind me what you need again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"This sounds too easy. I just walk up, plant the device on the creature's cage, and activate it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Tell me how to get past the guards again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"If it were that easy, *I* would do it," Beleazar says. "But the creature's captors protect its cage, and... well, they've already caught me once. But they won't be watching for you."
+
+"Tell them you wish to see the beast, and plant the device when they're not watching. And if you get caught, don't tell them I sent you." He whispers in horror. "They said they'd lodge a complaint with the Order!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ask to see the nychthemeron, and plant the device when they're not looking. Again, if they catch you, I was *not* involved!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"How does the teleportation device work?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Are you sure you don't know how the teleportation device works?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"I'm... I'm not sure," Beleazar admits. "My former colleague found it within the rusted casing of a war machine. I say 'former' because when he activated it, he disappeared. We found his remains, er, spread across the Reef, as if he was hurled at the ground with great force." He looks nauseous. 
+
+"Now, you might be thinking the nychthemeron will perish in the same manner, and it *might*, but I wouldn't count on it. The creature can *float*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Not yet," Beleazar says. "All I know is that when it is activated, it teleports whatever is attached to it to the Reef of Fallen Worlds."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"The nychthemeron has been teleported."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>(Lie) "Something went wrong with your device."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"They caught me before I could plant the device. I didn't tell them you sent me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"The explorers caught me. I had no choice but to tell them who sent me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"I saw!" Beleazar claps his hands together, beaming. "That means it *should* be somewhere in the Reef. Now find it, kill it, and bring me its memory organ."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"I have the nychthemeron's brain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Beleazar gives you your reward. Then, he reverently takes the dripping mass off your hands. 
+
+"I can't wait to get this back to my lab!" he says, his eyes shining with a child's raw exhilaration. "Look at it. Coated in nano-spirit fluid! Bound with *three* data locks! It's like a puzzle that no one gets to solve but me!"
+
+And with that, he scampers away. 
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Eeeee," the skinny priest says, his face going purple. His mouth works soundlessly. 
+
+"It has teleported over two hundred objects to the exact same location," he finally shrieks when he has reclaimed his breath. "You must have done something to it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Blame yourself. Anyone with sense could see that the device was falling apart."
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"I'm sorry you feel that way. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Traitor! Saboteur!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>He opens his mouth to argue. Then, doubt blooms, overwhelming his certainty. His shoulders slump, and tears come to his eyes. 
+
+"I tried so hard," he whispers, staring at the ground. "I'm sorry I shouted at you. I'm sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>For a moment, he hesitates. Then a grin, sour with spite, blooms across his face. 
+
+"Claim whatever you want, but I *know* you tinkered with it! And I never forget a betrayal. Not ever!"
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>You surreptitiously remove a crucial component just before he rips it from your hands. He freezes as it falls in a rain of tinkling pieces. 
+
+"You're right," he whispers, staring at the silver ruin on the ground. "I'm sorry I shouted at you. I'm sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>He snatches the device out of your hands. "Claim whatever you want, but I *know* you tinkered with it! And I never forget a betrayal. Not ever!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"When are you going to learn, Beleazar? Fix your equipment before you use it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"All alone. Better that way. Can't trust anyone!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"It's my fault," Beleazar says, hanging his head. "I tried so *hard* to avoid their suspicion that I suspect I drew it instead. Perhaps I'm better suited to indoor study after all."
+
+He pulls a number of shins from his belt and hands them to you. "For your trouble," he says, and trudges away. 
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"What? They're going to report me to the Order of Truth! I *told* you to stay quiet if you were caught!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>You hold up the notes El-Jinto gave you, and Beleazar snatches them from your hands. His eyes widen as he soaks in the information. 
+
+"This is more than I expected to learn on my own," Beleazar says at last, cheeks flushed. "They gave this to you because you told them I was interested? All that time spent in *subterfuge*, and I could have just asked? Thank you. Thank you for everything."
+
+He hands you your reward, then wanders away, flipping through the pages. 
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Firu-Ma? Spines of the Selexi? I've never even *heard* of these!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Not my fault they were on their guard. Where's my pay?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Good luck to you, and farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Unbelievable. You can't trust anyone, Beleazar. You're on your own. On your own!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Your pay? You didn't even... fine," Beleazar snaps, pulling a strange-looking object from his belt and tossing it to you. "Now, leave me be. I'll get this done on my own."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Tunnel? Too obvious. Earthquake? Dangerous. Explosion? Explosion...."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Make way!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"They were right all along."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"You seem nervous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"I'm not!" Beleazar says, his eyes stealing to the caged creature again. "I just don't like it when people sneak up on me!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"I don't remember asking your opin-" Beleazar begins, and then he seems to recognize your companion. His eyes bulge. 
+
+"C-Callistege. My apologies. I didn't recognize you." His eyes shift back to you, hardening again. "What do you want with the nychthemeron?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"You want me to kill it for its brain? Isn't that murder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Please," Beleazar says, rolling his eyes so hard you're surprised you can't hear them squeaking in their sockets. "It's a machine. It's not alive. If it makes you feel better, tell yourself you're deactivating a faulty device. That, er, will defend itself with lethal force." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Yeah, we'd hate to damage your career."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Bank 122</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Take the teleportation device I gave you," Beleazar says in what he probably hopes are patient tones, but they really aren't. "Speak to those two explorers to get access to the nychthemeron, and plant the device on its cage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Oh, for... *fine*. Take. The teleportation device. To the cage. Speak to the creature's captors to get close to the nychthemeron. Put the device on the cage. Enjoy the results!" 
+
+He massages his temples with shaking hands. "Maybe you should write this down somewhere?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Money."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"The pleasure of helping a colleague."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Is that so?" Beleazar says, eyes darting over your face. "Fine. I pay well for intelligent assistance and absolute discretion. Listen carefully."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Beleazar rolls his eyes with aching scorn before looking - actually looking - at your face. He blinks rapidly, like a startled rodent. 
+
+"Y-you actually mean it? I apologize if I seemed, uh... impolite a moment ago. I've had my work stolen so many times." His eyes flicker fretfully over your expression one more time, and he licks his lips. "All right. This is what I know:"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Knowledge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Your response does not allay the scholar's suspicions, by the look of it. He studies you, biting his lip. Then, he sighs. 
+
+"All right. This is what I know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"What's wrong?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Beleazar blinks. 
+
+"I didn't want to say. I'm not good with people, and I wasn't sure if I would be insulting you..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Spit it out, son," Aligern sighs.
+
+Beleazar shoots him an embarrassed look. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"It's the nychthemeron, isn't it?" Beleazar gives her a thankful look. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"And be careful!" he adds. "I've seen what happened to a caravan that crossed a nychthemeron's path at the wrong time. You *may* be skilled enough to face it, but I'd *strongly* recommend you hire some other explorers to, er, 'back you up'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Bank 137</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"I don't want to help you steal this creature."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"I've changed my mind. I don't want to help you steal this creature after all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Bank 140</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"What? Oh. Fine, fine," he says. "I can handle this myself. Let me know if you change your mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"This is a delicate operation," he says, sighing. "I simply cannot keep *wasting my time* talking to you if you won't make up your mind!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"I've changed my mind. I'd like to help you steal the nychthemeron."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Thank the go... I mean, good. Excellent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"You'll study it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"In a manner of speaking..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Give Beleazar the notes. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Here it is," he says, handing it over and nervously licking his lips. "Be very, very careful. I don't have another one!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>The Aeon Priest smirks, then turns his attention back to you. He seems less hostile than before... but still wary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"I'm a friend of the Order. Maybe I can help you with whatever you're trying to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Just curious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Really?" You see the doubt on his face, but it quickly gives way to relief. "I thought they would have sent someone by now, but you'll have to suffice. I'm working on something dangerous... and important."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>He looks you up and down. "You're no friend to the Order. And I'm not 'planning' anything. I'm enjoying the fresh air."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Callistege smirks. "He's up to *something*," she whispers to you. "It's his nature. We should go to the Order of Truth and ask Min what's going on here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Honesty and openness - hallmarks of the Order," Aligern mutters, keeping his voice low. "If you really want to know what he's up to, you could ask one of the other Priests at the Order. I'm sure they'd be happy to sell out his secrets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"If you want to bother an Aeon Priest, there are plenty at the Order of Truth. It's *that* way." He jabs a finger upward toward the heights of the city, then turns away from you, obviously considering this a dismissal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>(Lie) "Min of Tan-Liang asked me to check on you. He said you might need some help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Really?" You see the doubt on his face, but it quickly gives way to relief. "I *knew* Min would send someone to help. I'm working on something dangerous... and important."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Well, I'm not 'planning' anything. I'm enjoying the fresh air!" he snaps, eyes darting to the nychthemeron.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Leave me alone!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Any idea where I can find someone to help me fight the nychthemeron?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"I need more help finding explorers to fight the nychthemeron."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Of course not! I'm new at this." His mouth twitches irritably. "No... wait. I heard people talking about some kind of warrior in Cliff's Edge. They said he moved faster than their eyes could follow. Might be true... might be skist."
+
+"I'm sure you can find others if you look around. This city is crawling with gullible idiots."
+
+He turns away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"I already told you about the warrior in Cliff's Edge. Can't you handle this yourself? Try Underbelly, maybe. Plenty of desperate people there. Or Caravanserai. Explorers are always coming and going by airship."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Beleazar tips back and forth on his heels, humming casually. He gives you a solemn, clandestine wink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"What happened?" Beleazar hisses, rage blooming across his pale skin like little blotchy flowers. "I have sensors! Expensive ones! Down in the Reef! All of them are telling me that the nychthemeron isn't there!"
+
+His hands twitch violently, as if he is fighting the urge to shake you. Or strangle you. "What have you done?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"I decided to set the nychthemeron free."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Oh," he says, blinking once, delicately, like a clockwork man. Tears bulge at the corners of his eyes like gems. 
+
+"Everyone I meet is a saboteur!" he shrieks. "You've destroyed my work! Ruined my life!" He waggles a finger under your nose. "I won't forget this! Ever!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>::sobbing::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Claim whatever you want, but I *know* you tinkered with it! And I never forget a betrayal. Not ever!"
+
+The Aeon Priest turns and storms away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Beleazar's eyes narrow suspiciously. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"I'm not getting involved in this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Good," he says, smirking at the priest. "No use arguing with Aeon Priests anyway. You're better off throwing your words down a well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>The young acolyte pointedly turns from your companion to face you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>A curious tendril uncurls towards the device. You and Beleazar turn towards Oom in unison. 
+
+::ssrk:: it says, giving the nodule a *poke*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Stop poking it!" Beleazar hisses, white-faced. He runs a nervous arm across his forehead.
+
+"Go!" he says, shooing you with his hands. "Go before they notice us talking!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2211_ziobe</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>107</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This woman's face seems timeless - neither old nor young, unblemished but somehow not *perfect*. Her dark and wavy hair floats like a cloud to her shoulders. When she speaks, her voice is musical, almost artificial. "I'm Ziobe. And you are..." she concentrates, fingers pressed to her temples.
+
+When her tablemates start smiling, she pulls them away. "I'm not actually a mind-reader like these two. Just a joker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"I suppose I'll take a 'close enough'. You're particularly hard to place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>She smiles and looks you directly in the eyes. You feel a slight pressure, and she says, "You have a keen ear... along with your other secrets. But then everyone has a mystery or two. Perhaps we both might be allowed to carry ours in silence?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"I? I am Ziobe. I hail from the western reaches of the Clock of Kala, near Matheunis." She bows her head modestly. "I have had the opportunity to serve with my fellows here in a number of disturbances... though if you wish to hear more about those conflicts, you must speak with Dhama. I am their support, their backup, and if need be, their physical offense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>(Lie) "I'm from a town to the north, actually."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I'm looking for warriors to join the Endless Battle. Clarion would be honored to call you an ally."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Are you a linguist? Your accent suggests you're a local."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>She nods and says nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"It's the Fifth Eye. It's where the psychics and psionics of Sagus Cliffs have been coming for generations to protect ourselves from the noise of the city. Life is easier when you're among friendly people, those of your own kind." She laughs. "Though not everyone here is technically one of us. Some of the people you see here are manifestations of our minds. Some of them were called here by our minds. Some have come from other dimensions, even!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"But if you don't mind, I'd rather not talk about it much further. It's considered impolite among my people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>{COLIN: NOT FOR 1E}
+
+The player can ask about Riastrad. If he's present in the bar, Ziobe will point him out. If he's not, she'll say that his past has come back to cause him trouble, and the player should ask Dhama where he is. If Dhama is already dead or gone (and the player hasn't learned what happened to Riastrad), she'll tell the player that Riastrad was grabbed by the Memovira's thugs and taken to the House Where Secrets Die. It's here in Cliff's Edge, but it's separated from the main ledge by a wide gap that can only be crossed by a numenera bridge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I think I know who it is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Who?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I think it's Dhama."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"I think it's Theboros."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I think it's Leto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"I think it's Feriok."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I think it's you, Ziobe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>She laughs delightedly. "I won't even ask how you figured that out. If you guessed, it was a lucky guess, but your instincts were right."
+
+But then her face falls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>He pokes a finger or two into his arms, and shrugs. "Not me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Ziobe will also tell how Feriok died ("killed" by an Adversary in the psychic war - basically ended up brain dead). We might also imply that Ziobe loved Feriok and it is her mind that is creating him here (details up to the writer) - this might also be the reason that she refuses to leave the bar under any circumstance (see below).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Are you the psychic projection?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>o	If the player was forced to kill Riastrad and Satsada in the House Where Secrets Die (and Riastrad is back in the bar), Ziobe should say that Riastrad's ghostly companion is dead, and he is nothing but an empty shell now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I can't believe Dhama is gone. He was our leader, the one who helped us to stand against the Adversaries. We can only hope to emulate his sacrifice. I... hope we can carry on without him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"I am through with war. Finished. I want nothing more to do with conflict. I have served my time. My colleagues might help you, but I refuse. Don't ask again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Why did you cry when Feriok told me about being blind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>She ducks her head, embarrassed. "My regrets." You feel a wave of psychic pressure roll across you, reaching across the bar - it is a soothing presence, an apology. "I should not have reacted as I did. Feriok's condition... I blame myself for the loss of his... his vision. Had I been better prepared, I might have focused my attack. He might not have suffered so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"What was that eye in your head?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Can you tell me about the mloxan again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"The damage is done, I suppose, and there's no harm in you knowing now, though I'll thank you to keep my secret. I'm a mlox, a machine mind in a human body. The mloxan are quiet and friendly, for the most part - we want to be left alone, like you. And here, among my friends, I can *be* like you. I can be useful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"No. As I said, we're private people, and I do not wish to betray the confidence of my kind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Can you tell me more about yourself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Can you tell me about yourself again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"What's going on with this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"What can you tell me about the Adversaries?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Can you tell me anything else about the Adversaries?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"May the wind carry you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"I am Ziobe. I'm what you might call the blaster for our group of veterans, the one who takes care of the physical business once my colleagues have worn down our foes' mental defenses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Her voice is crisp and clear, unaccented. Given that your ear is trained to hear the accent of Sagus Cliffs, it seems unusual that someone from far Matheunis would speak the local dialect so perfectly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"I had other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"My thanks. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"I know who the psychic projection is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>She laughs and crosses her arms. "Who?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Never mind. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Never mind. Let me ask some other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"I began manifesting him after he was killed. He was our spotter, the man who saw the Adversaries and lured them to our battleground. But the last Adversary we fought... it was ready for us. It caught hold of the lure he offered, and it followed his mind all the way to reality. It burned - " She pauses, chokes back a sob. "It burned him from the inside."
+
+She looks into the distance. "He lured it to us, and with his dying will nailed it into place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>She continues. "The Adversary didn't pay attention to us, even as we poured our heaviest attacks into it. It was too absorbed in destroying Feriok, tearing him apart instead of defending itself. As if its first priority was in blinding us, instead of preserving itself."
+
+Her voice turns hard. "We beat it, though. So as long as I'm breathing, I'll keep his memory alive. He'll serve his drinks and make his bad jokes, and everyone here will feel welcome. It's the least I can do in his name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Listening to stories matters," he mutters. "It's not me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"So sorry! It's Feriok." He waves from the bar. "We all know, but..." She swallows. "I'm sorry. This is hard to talk about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Can you answer my questions seriously?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"So you have no mental powers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"So you're not going to guess who I am?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"I *can*, although you'll need to answer a question for me first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Tell me, are you from the area? A small hamlet, slightly isolated, but still within the broader Sagus Protectorate? Somewhere near Arvrin Wood, perhaps?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Oh, I do. But they extend in other directions." She cocks an eyebrow, and her glass rises from the table to her mouth. She sips daintily, and the glass descends to the table.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"I don't know *who* you are, but I can tell you where you're *from*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Close enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"I actually don't know where I'm from. I was born in a falling star."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Drat!" She shrugs. "Ah well. I can't get them all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Your voice, your inflections, your mannerisms... they speak of someone whose upbringing was based on an older version of the Sagus Cliffs dialect. That suggests an isolated aldeia or enclave of some sort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"A... what? How is it that you know the language here? You must be particularly observant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Further, it's the height of rudeness in this place to let emotion get the better of you. I should have been able to restrain myself. It won't happen again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Are you the psychic projection?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Me? No. No, indeed. In fact, I am projecting him now. It's my power that makes the projection possible. If I were you, I'd focus on... hmmm... physicality. Best of luck!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>She leans back, tapping a finger on her lips. "I have a challenge for you. One of the five of us who own this bar is a projection. Talk to the other veterans of the psychic wars and see if you can figure out which of us is the projection. You can ask each of us only once, so make your questioning count."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"I don't know where they came from, or what they want, or any of that." Her voice is becoming harsher, more distorted with suppressed anger. "I only know that they destroy everything they touch, and that I will destroy them. My friends pull their extrusions into the real world, and then I get to sever them from their source." She downs her drink. "I *love* doing that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Sorry. I'm the heavy hitter. My friends point me at the problem, and I take care of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"It was a sacrifice any of us would have made, Ziobe. No matter who was in that position." He speaks softly, as if trying to convince himself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"The eye in your head looks much like a metallic eye I was given. What can you tell me about it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Will you tell me again about the metallic eye that was given to me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>She takes the eye from you and turns it over in her hands. Its tendrils snake around her arm and one of them slides into a hidden port. The eye opens and looks at you.
+
+"Oh my," she says. "This is very similar to the designs of my forebears." She closes her human eyes. "Very close indeed. Those societies have vanished now, but... yes, it was probably built by a machine civilization interested in contacting other machines." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"It's very close in design to the designs of my predecessors. Not an exact match, necessarily, but close enough. The design suggests that its creators wanted to talk to other machine intelligences."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Let's trade."
+
+{SCRIPT: Remove Flower Eye from PC, give Ziobe Eye}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Not right now. Let me ask a few more questions, though."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Not right now. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"All right. But if you change your mind, let me know. I'll be happy to take that eye... off your hands, if you'll pardon the phrasing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"All right. But if you change your mind, let me know. I'll be happy to take that eye... off your hands, if you'll pardon the phrasing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"You have my gratitude." The iris in her forehead opens again, and her strange eye peers out at your again. She tilts her head forward, and you hear an audible click from inside her head. The eye falls out, trailing a segmented cord, and she catches it deftly. 
+
+She feeds the new eyestalk into the hole. Something catches it, and internal machinery drags it into place. She looks through her new eye for a moment, closing her human eyes, and nods. The iris closes.
+
+"My thanks," she murmurs.
+
+{SCRIPT: This should up Ziobe's power in the Adversary Tussle}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Although she claimed not to be a mind-reader, Ziobe's mind is impenetrable. She might as well be one of the bartender's pumps.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>She looks at you dully. "It was Feriok. I created him." She draws a line in spilled liquid.
+
+"Sorry. The game was fun until... until we lost... You want to know about Feriok?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Her eyes are hard. "We are preparing ourselves for a confrontation with an Adversary. Please do not interrupt me. If you wish to help, speak to Dhama."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"We face annihilation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Script Node 108</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Her glass rises off the table of its own accord. "You have done a great thing. Though none may ever know it, know that I and my friends hold you in high regard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>She shares a meaningful glance with the bartender across the way. "It's a shame not all of my friends chose to stay. Let us hope the Endless Battle does not claim any more of us, hm?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"It's Oom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Arching an eyebrow, she glances at your companion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>::flrt:: Oom says cheerfully. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"I'm not sure *what* that is," she says, crossing her arms, "but if it was a regular at this bar, I think I'd remember."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

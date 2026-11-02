@@ -1,0 +1,1214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\si_meres\mere_r0_redtidalmere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>170</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Red. It's the color of the sky as the sun sets behind the stacked hovels. It's the color of the dust that coats the massive obelisk rising beyond the hovels, holding back the endless waters of the Oasis.
+
+It's the color of her skin. The woman's name is Sucya. Her skin turns red when she's afraid. A mutation.
+
+Red is the color of her blood, running from the gash in her forehead. Red is your rage as you look at the two men who tower over her, laughing raucously, taking turns to vent their spite.
+
+You can smell it, the blood *and* their loathing. It stinks worse than Sucya's fear.
+
+"Please!" Sucya begs you. "Please stop them! Help me!" {SOUND: Two men beating up a woman. Woman crying for help.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"What's going on here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Human rights, mutie," one of them jeers. "There ain't enough water to go around, but this trawl spoor thinks she deserves more than the rest of us."
+
+Sucya starts to protest that it wasn't her, but the human kicks her in the face.
+
+"You all do it!" He spits in her face. "Don't think we ain't seen every one of you taking more than your daily cup. That should be enough for any filthy mutant, but no, now you got the Burgrave thinking about changing the damn laws!" He kicks her again to make his point.
+
+The other one steps forward and looks down at you, blocking the sun. "I bet you deserve as much as a human too, don't ya? Think you're better than the rest of us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Attack the humans.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"You think we'll just stand by while you come in here and beat up one of our own?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"You restore human rights through assault and murder? Doesn't seem like you thought this through."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Stay out of it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>With their backs turned to you, it's easy to kick one in the kidney and knock him down. The other one turns on you with a scowl, and knocks you down with his first punch.
+
+You get up and tackle him in the gut, landing a fist against his chin to quiet him.
+
+The other tackles you from behind, beating your kidneys. Finally, you spin around and knock him off. He lands flat on his back. You jump on top of him, pummeling him until he's cowering instead of fighting back. As he gets up, you give him one last kick in the ribs.
+
+"Damn mutants!" one says. "You don't belong here. We'll be back with the others. *Then* we'll teach you a lesson!" They scurry away.
+
+{SOUND: A brief scuffle}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The humans laugh at your pathetic attempt. They turn on you, overwhelming you from both sides. You can't protect every place at once. They pound your face, your stomach, your kidneys.
+
+You taste blood and smell your own fear. They knock you down, and all you see is the red sky behind their sneering faces.
+
+They stop at last. One of them spits on your face. "Damn mutants," he says. "You don't belong here. We'll be back later with the others. Then we'll teach you a *real* lesson."
+
+They strut back down the road into town.
+
+{SOUND: A brief scuffle. Grunts of pain from the PC (ideally, it should be unclear whether the PC is male or female).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>With their backs turned to you, it's easy to kick one in the kidney and knock him down. The other one turns on you with a scowl, but you dodge his blows easily, landing a fist against his chin and knocking him down.
+
+The first one tackles you from behind. Your face slams into the ground. You kick him off. He lands flat on his back, and you jump on top of him, pummeling him until he's cowering instead of fighting back. As he gets up, you give him one last kick in the ribs.
+
+"Damn mutants!" one says. "You don't belong here. We'll be back with the others. *Then* we'll teach you a lesson!" They scurry away.
+
+{SOUND: A brief scuffle}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>They turn to snap something back at you, but when they see their own hate reflected back in your eyes, they hesitate.
+
+"Forget it, Luds," says one. "They ain't worth the trouble."
+
+As they walk past you, the one called Luds spits in your face. "Damn mutants. You don't belong here! We'll be back with the others. *Then* we'll teach you a lesson."
+
+Then they're gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>They turn to snap something back at you, but when they see their own hate reflected back in your eyes - and the eyes of dozens of mutants surrounding them - they hesitate.
+
+"Forget it, Luds," says one. "They ain't worth the trouble."
+
+As they walk past you, the one called Luds looks like he's about to spit, then thinks better of it. From a safe distance, he says, "Damn mutants. You don't belong here! We'll be back with the others. *Then* we'll teach you a lesson."
+
+Then they're gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>They hit Sucya one more time, then stop, breathing heavy. One of them mutters something to the other and they both back down.
+
+The other looks up at the darkening sky. "Getting dark," he says. He turns and leers. "Grotto's a dangerous place at night. Who knows who could get hurt?"
+
+They turn to leave. As they walk past you, one of them spits in your face. "Watch your back, mutie. Next time it won't be just two of us in broad daylight."
+
+Then they're gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>One of the men grabs the wrist of the other just as he's about to hit Sucya again. "Bastard's right, Luds. We could get in trouble for this."
+
+Breathing heavy, Luds backs down. He looks up at the darkening sky. "Right now we could, maybe." He turns and leers at you. "But the Grotto's a dangerous place. Who knows who could get hurt at night?"
+
+They turn to leave. As they walk past you, Luds spits in your face. "Watch your back, mutie. Next time it won't be just two of us in broad daylight."
+
+Then they're gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>After they leave, a chiurgeon runs forward to attend Sucya's wounds. A small boy covered in blood blisters comes out from his hiding place to watch. An enormous mutant with an elongated neck towers over both of them.
+
+A woman with blue skin runs out from her house. "Ashe!" she shouts at the boy. "You get home this instant."
+
+The boy tears himself away from Sucya and the chiurgeon. Suddenly, he stops and looks up to you. "They said they were coming back? What are we gonna do?"
+
+His mother Lali puts a hand on the boy's shoulder and also looks to you. "What *are* we going to do?"
+
+You feel the heat of several dozen eyes asking the same thing, looking to you for guidance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You stand back and watch while the two of them beat Sucya bloody. Her skin fades from red to yellow to purple - but the purple isn't a part of her mutation. She no longer smells of fear. She smells of death.
+
+After a long time, the two men spit on her and then leave. They leer at the other mutants on their way out, daring them to do something, but none do.
+
+One of them puts a hand on your shoulder. "We'll be back, mutie. Gotta keep cleaning up till all the filth is gone, yeah?"
+
+He shoves you out of the way, and then they're gone.
+
+{SOUND: Initial beating continues. Sucya's cries for help become just cries.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Talk to the mother and her boy, see what they think.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Talk to Sucya to see how she is.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Talk to the chiurgeon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Talk to the large mutant watching the chiurgeon's ministrations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"We should fight!" The boy Ashe grins with sharp, yellow teeth. "There are lots of us. We can take them!"
+
+"Hush, child." His mother taps him lightly on the back of his head. A blood blister pops, covering her hand with a sticky, smelly goo. "Damn. Anyway, don't listen to him. We're not fighters, you know that."
+
+The woman Lali looks over to where the chiurgeon is ministering to Sucya. "You shouldn't ask me what I think. I think we should just keep our heads down, but that won't stop this, will it? I wonder if anything can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"You know what I miss?" She's obviously half-dazed as she speaks. "Your music. You used to write the most moving songs."
+
+Her head lolls to one side. "I miss your songs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>All three of Misha's hands are busy, fussing over Sucya with several different pastes, injectors, and spray canisters.
+
+"Can't take much more of this," she mutters. "I mean all of us. Seems like someone comes in here causing trouble every week now. As if life in the Morphling Grotto weren't hard enough."
+
+She slams three cyphers down at once and glowers at you. "What we *should* do is talk to the Burgrave. He might actually be able to do something."
+
+She returns to Sucya with a groan. "Not that he would. Not that any of us could even get to him without trouble. But it might be the only chance we have."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>This mutant stands two meters tall *without* his long neck. His hands look strong enough to rip bricks in half. It's a wonder he didn't do anything to help Sucya, when he clearly could have.
+
+His voice, when it comes, is strange and sonorous, emerging from the multiple holes pierced through his neck. "Zel will not feast until blood has come to reign," he says, and you realize he's talking about himself, not that he makes any sense.
+
+He looks directly at you. "Zel desires blood to reign."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Leave the Grotto to get help from the Burgrave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Tell them there is nothing they can do but hope the humans don't return.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"We've discussed this already," says Misha. "That's just going to get a lot of people hurt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"They're going to hurt us whether we fight them or not. We need to fight back, make them pay for every wound they inflict."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Sing to inspire them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Fine. Then I'll fight them myself." Leave the Grotto to find them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Their relief is palpable, Ashe the lone exception. He kicks the dust in front of him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Zel's long neck undulates. "Blood," he intones. The muscles on his enormous frame ripple with barely contained rage. "It is the way."
+
+The others look at each other uneasily. Sucya grimaces but nods. "He's right. They've given us no choice."
+
+Misha, the chiurgeon, produces a number of implements that would serve as weapons. Blushing, Lali teaches the others a few things her husband had taught her before he died. Ashe spends the night running around slashing imaginary bad guys.
+
+{SOUND: A crowd preparing to fight}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Zel's long neck undulates. "Blood," he intones. The muscles on his enormous frame ripple with barely contained rage. "It is the way."
+
+The others look at each other uneasily. Ashe tries to run forward, but his mother restrains him. The others all turn away.
+
+Zel places one enormous hand on your shoulder. "They will not. Zel will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>You raise your voice in a rousing ballad, the words coming to you as easily as breath. You sing of a woman whose child was taken from her, and how she hunted, fought, and killed the kidnappers to bring her child home.
+
+By the third chorus, the entire Grotto is singing with fists raised. Others begin painting, fantastic murals that glow and seem to come to life in the dim light.
+
+Misha pulls instruments from her chiurgeon's bag. "These might serve as weapons," she says, "though I hate to see their use so perverted."
+
+Even Lali demonstrates a few fighting moves her husband had taught her before he died, and Ashe spends the night running around slashing imaginary bad guys.
+
+{SOUND: [C] Someone singing a ballad of non-English words (I don't expect this sound to actually make it in)}
+{SOUND: Instead of the sound above, maybe a stinger or musical build here, if we have it}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Zel follows you out of the Grotto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>You follow the road the thugs took. It leads you to a winding alley, shadowed by towering sandstone buildings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>The chiurgeon, Misha, frowns. "*Now* we have a gang of thugs coming to beat us up every few days. What should we do about *that*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"There's nothing we *can* do. If we fight them, they'll kill us. But if we endure, we may grow strong."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Sing a song to bring them comfort and joy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Yeah!" Ashe pumps a fist in the air. The others shuffle their feet, but they are as aware as you are that there's no easy solution.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>You raise your voice in a stirring aria, the words coming to you as easily as breath. You sing of a woman who lost her husband and child to a fire, and how she endured her pain to become a leader among her people.
+
+By the third chorus, the entire Grotto is singing, arms around each other's shoulders. Others begin painting, fantastic murals that glow and seem to come to life in the dim light.
+
+The aria builds to a crescendo of joy, until even young Ashe is dancing around the Grotto, singing at the top of his lungs. The light in his eyes is contagious. His mother laughs, and soon the entire Grotto is laughing or smiling with a joy they have no reason to feel... and every reason to need.
+
+{SOUND: [C] Someone singing an aria of non-English words (I don't expect this sound to actually make it in)}
+{SOUND: Instead of the sound above, maybe a stinger or musical build here, if we have it}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Really, *really* strong?" The light in Ashe's eyes is contagious. His mother laughs at her boy, and soon the entire Grotto is laughing or smiling with a joy they have no reason to feel... and every reason to need.
+
+{SOUND: A crowd laughing with joy}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>At your words, the mutants stand a little straighter.
+
+But young Ashe is unconvinced. "You want us to do *nothing*! How is that supposed to do anything?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"They can't take our strength or joy from us unless we let them. We can be even stronger than they are."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Anything we do will make things worse, Ashe. This is the only way no one will get hurt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"I guess you're right, Ashe. We should consider whether there are better options."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"I guess," he says, mostly convinced. "But once we're stronger than them, *then* can we kick their asses?"
+
+For a moment, Ashe's mother is shocked, but Misha and Sucya burst out laughing. His mother joins in, and soon the entire Grotto is laughing or smiling with a joy they have no reason to feel... and every reason to need.
+
+{SOUND: A crowd laughing with joy}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"That's stupid!"
+
+His mother puts a hand on Ashe's shoulder. "My brave boy," she say. "But they're far too dangerous. What else *can* we do?"
+
+Ashe crosses his arms and pouts. "We can kick their asses."
+
+For a moment, Ashe's mother is shocked, but Misha and Sucya burst out laughing. His mother joins in, and soon the entire Grotto is laughing or smiling with a joy they have no reason to feel... and every reason to need.
+
+{SOUND: A crowd laughing with joy}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Like fighting!" Ashe stabs the air with an imaginary sword.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>They lower their heads, saddened. One by one, they return to their homes and livelihoods, and in a few hours the thugs are forgotten. Daily life in the Grotto continues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Hours later, long after activity in the Grotto winds down, the night calm is broken by the sounds of angry muttering, marching, and the crackling of torches. The thugs have returned, but there are more of them this time. {SOUND: Weapon being drawn or handled.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>You follow the path the thugs took to leave the Grotto. It leads you away from the towering obelisk down a winding road shadowed by tall sandstone buildings on either side.
+
+The closer you get to the main town, the more humans there are. Every one of them stares at you. Some turn away quickly, feigning nonchalance. Others curl their lips in disgust. A few tell you to go back where you came from - the waste, preferably. One warns you you'll die out here, but the way he says it seems like he hopes he's the one who kills you.
+
+In the town square, you are shoved and jostled on all sides. What few kind faces there are steer clear of you entirely.
+
+Finally, you reach the Burgrave's tower. {SOUND: Busy city street. Ideally the occasional jeer from the crowd.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Your injuries tell me even more than your words," he says, looking at where the two thugs wounded you. "I'm surprised you waited so long to tell me. Very well, I will have the matter investigated. I serve the Grotto too, no?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"I have to admit, your tale is somewhat hard to believe. I heard of a scuffle in the Grotto, but nothing came of it. And you don't seem very urgent about it either. I'm sorry, but unless something happens, there's little I can do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>There are very few people on the streets outside the Grotto at this time of night. Suddenly a few figures emerge from the shadows. Two of them are the humans from before. "Well, now," one says, leering, "what are you doing out?"
+
+A gleam in his hand tells you they are carrying more than fists this time. {SOUND: Empty night street.} {SOUND: Weapon being drawn or handled.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Attack them. Take as many down as you can.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Turn around now and I won't have to hurt you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"I've just talked to the Burgrave. If you kill me, he'll know what you're doing and take action."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Make a break for the Grotto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>With a shout, you tackle the one in front of you, slamming him to the ground. He's stunned long enough for you to pry the shiv from his hand and ram it into his belly. The scent of his warm blood spills into the street.
+
+{SOUND: Fighting}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>They bark a cruel laugh. "You think you can use the same trick twice, mutie? The Burgrave's in his tower, and you're alone in a dark alley. Ain't nobody's going to care about *you*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>One of them looks to the other in concern, but the other shakes his head. "No way," he says to his friend. "Burgrave's in his tower. We're all alone in a dark alley. Ain't nobody's going to care about *them*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>You pretend to attack them, then juke the other way and run past. You tear down the alley, their footsteps in hot pursuit.
+
+Misha sees you first. She shouts to the others, and they prepare for a fight. She gives you a makeshift club, and you turn to face your adversaries.
+
+But this is worse than before. It's not just the two thugs beating up Sucya, but an entire *gang* of humans, come to take their anger out on the mutants of the Grotto once and for all.
+
+The fighting begins faster than you expect. The air is filled with shouts of rage and pain. With a tremendous *whack*, you knock down the man in front of you, but looking around you see everyone is in danger.
+
+{SOUND: A mob fighting}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Without warning, you are struck from behind. Red stars swirl across your vision, but you aren't given the pleasure of unconsciousness. More blows rain down. Pain lances through your ribs, across your back, and between your legs.
+
+A knife slices fire across your neck, and then it's over. Their footsteps tap lightly on the street. You take comfort in the fact that, having expended their anger on you, the thugs are walking *away* from the Grotto.
+
+{SOUND: Powerful punch. Someone falling to the ground.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>But the Grotto is ready for them. Misha sounds the call, and soon nearly every mutant stands ready with makeshift clubs and kitchen knives.
+
+This is worse than before. It's not just two thugs beating up Sucya, but an entire *gang* of humans, come to take their anger out on the mutants of the Grotto.
+
+The fighting begins faster than you expect. The air is filled with shouts of rage and pain. With a tremendous *whack*, you knock down the man in front of you, but looking around you see everyone is in danger.
+
+{SOUND: Battle}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Many of the mutants run to hide in their homes, but over a dozen remain in the streets, defiant. Sucya steps forward. "We will not be bullied. We are human, too, and you cannot take that from us."
+
+In reply, one of the thugs knocks her down - the crack is audible all around the Grotto. She falls, and the others falter. As the humans bear down on them, they look to you for guidance.
+
+{SOUND: Someone gets knocked down}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>The mutants of the Grotto panic. They scream in terror, fleeing the streets, but the gang of humans won't let them escape. They hunt them down, smash their doors open, and set their homes on fire.
+
+Soon, the mutants are attacking anyone and everyone wildly, knocking anyone out of their way in an effort to leave the Grotto or find somewhere to hide. Everywhere you look, someone is in danger.
+
+{SOUND: Battle and panic}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Life is experience - some pleasurable, some painful, but all good. Don't fear it. *Feel* it. And grow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Sing again to inspire them. Remind them of the joy they had.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"They are bullies, but they are human, too. They do this because *they* hurt. We should pity them, even as they abuse us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Your emotions, your heart, are your strength. Feel the pain, and let your emotions give you courage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>With grim faces, the mutants stand firm, even as the thugs beat them to the ground. But you don't have time to worry about the others. A human breaks your nose. You fall to the ground, clutching your face in intense pain.
+
+The pain is in your ribs, your side, your neck. "Good" was the wrong word, but it is endurable. After a time, it feels like the pain is happening to someone else.
+
+Quicker than you expected, it's over. You feel saliva on your cheek, and then open your eyes. The thugs are walking away, almost disgusted at themselves. Almost.
+
+"Hey." It's Ashe, his hand on your shoulder. Ugly bruises color his skin, but he's alive. "You were right," he says. "We *are* stronger."
+
+{SOUND: Beating winding down and stopping}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>You sing the same aria as before, even as the thugs beat the others to the ground. They come for you quickly, breaking your nose, but by that time the song has been picked up by the others.
+
+Soon the entire Grotto is singing of the women who endured the loss of her family - even from their doors and windows. They sing for each other. They even sing for the thugs.
+
+And quicker than you expected, it's over. You feel saliva on your cheek, and then the thugs are walking away, disgusted. Will they return? They might, but when they do, the mutants of the Grotto will be strong enough to face them.
+
+{SOUND: [C] the aria from before}
+{SOUND: Beating winding down and stopping}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>With pity on their faces, the mutants stand firm, even as the thugs beat them to the ground. Ashe's mother has more pity than most, crying for her attackers.
+
+Then you don't have time to worry about the others. A human breaks your nose. You fall to the ground, clutching your face in intense pain.
+
+The pain is in your ribs, your side, your neck. Then quicker than you expected, it's over. You feel saliva on your cheek, and then open your eyes. The thugs are walking away, almost disgusted at themselves. Almost.
+
+"Hey." It's Ashe, his hand on your shoulder. Ugly bruises color his skin, but he's alive. "You were right," he says. "We *are* stronger."
+
+{SOUND: Beating winding down and stopping}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>With grim faces, the mutants stand firm, even as the thugs beat them to the ground. Zel actually seems to enjoy it, the but others not so much. Their primary emotion is anger - you can smell it in the air.
+
+Misha snaps. She grabs the arm of the thug above her and punches him in the crotch. The others cheer, and before you can stop them, the Grotto is no longer enduring, but fighting back. Their emotions have given them courage, but not of the quiet kind.
+
+Soon the air is filled with shouts of rage and pain. You don't remember picking up a board, but with a tremendous *whack*, you knock down one of the thugs with it.
+
+Looking around, though, you see everyone is in danger.
+
+{SOUND: Beating building up into a full-on battle}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Try to help Ashe and his mother.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Try to help Sucya.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Try to help the enormous mutant, Zel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Fight to protect yourself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Try to help the chiurgeon, Misha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Zel tears the arm off of one thug, then lifts another and throws him through a wall. He looks like he can take care of himself, until the humans coordinate their attacks and overwhelm him. Four men jump on him at once, pinning him down, while a fifth runs forward with a razor-sharp verred.
+
+You get to Zel just in time, cracking the man with the verred across the jaw. He doesn't get up. You knock down two more before they realize what happened and turn on you, but by then Zel is able to grab them and smash their heads together like eggs.
+
+He stands to his full height and grabs your forearm. "Blood," he intones. "You consume one. Zel consumes another."
+
+Then he leaps back into the fray.
+
+{SOUND: Battle (cont)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>You run to Misha's aid, but the chiurgeon has three hands filled with various relics. The thugs are fleeing from her, lest they be turned to ash, goo, or the backend of an aneen like their friends.
+
+Apparently she doesn't need help, but the others very much do.
+
+{SOUND: Battle (cont)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>You fight viciously, knocking down two, three, seven men without taking a scratch.
+
+The others aren't so lucky. Misha and Zel are taking care of themselves, but Sucya is dead, as are Ashe and his mother. All around the Grotto, mutants lie dead or dying in the fight.
+
+{SOUND: Battle (cont)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Though she's heavily wounded, Sucya fights hard. She knocks down two men twice her size before you lose sight of her behind three more.
+
+You rush to her aid, whacking a shiv out of a man's hand just before he impales Sucya. You take down two others, and Sucya is saved.
+
+Others are not so lucky. Misha is taking care of herself, but Ashe and his mother lie dead in front of their home, as do many other mutants around the Grotto.
+
+{SOUND: Battle (cont)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Ashe attacks the men with vicious ferocity, but his mother even more so. She's like a caged animal, slashing the face and throat of anyone who comes near her son.
+
+But as the thugs realize their danger, they overwhelm the boy and his mother. You rush to their aid, knocking a shiv out of a man's hand just before he stabs young Ashe's face. Ashe jumps forward, smashing the man's face with his club.
+
+His mother is not so lucky. You turn around, and she has already fallen, as have Sucya and many other mutants. Misha and Zel are still fighting, but everyone is in serious trouble.
+
+{SOUND: Battle (cont)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>As many mutants have died, the Grotto has killed more humans. They're pressed back out of the Grotto, and the noise soon draws the attention of more Jerboans. Some of these join the fight against the mutants, but many more stand alongside mutants, defending them.
+
+Something slams into your back then. Before you can turn to face your attacker, another blow smashes your head into the dirt. Life seeps from your skull. Some distance away, you see Zel lying dead on the ground as well, dozens torn apart beside him.
+
+The world fades to blackness. You hear the fighting spread - a full riot. All of Jerboa has joined one side or the other.
+
+Never again will the Grotto be ignored. {SOUND: Someone getting punched down, grunt of pain} {SOUND: citywide riots}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Though she's heavily wounded, Sucya fights hard. She knocks down two men twice her size before you lose sight of her behind three more.
+
+You rush to her aid, whacking a shiv out of a man's hand just before he impales Sucya. You take down two others, and Sucya is saved.
+
+Others are not so lucky. Misha is taking care of herself, and Zel has saved Ashe's life, but he could not save the boy's mother. She lies dead in front of her home, like many other mutants around the Grotto.
+
+{SOUND: Battle (cont)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Ashe attacks the men with vicious ferocity, but his mother even more so. She's like a caged animal, slashing the face and throat of anyone who comes near her son.
+
+But as the thugs realize their danger, they overwhelm the boy and his mother. You rush to their aid, knocking a shiv out of a man's hand just before he stabs young Ashe's face. Ashe jumps forward, smashing the man's face with his club.
+
+His mother is not so lucky. You turn around, and she has already fallen, as have many other mutants.
+
+Zel has rescued Sucya, and Misha is taking care of herself, but the others are in serious trouble.
+
+{SOUND: Battle (cont)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>With a shout, you tackle the one in front of you, slamming him to the ground. He's stunned long enough for you to pry the shiv from his hand and ram it into his belly. The scent of his warm blood spills into the street.
+
+Zel attacks another, breaking his arm and then ripping his head from his body in a matter of seconds.
+
+You fight like one possessed, clawing, stabbing, biting. You are hurt, but you barely feel it. Several of them have fallen, but there are still more.
+
+Zel is suddenly overwhelmed. He falls with a growl and you lose sight of him.
+
+{SOUND: Fighting}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>They glance over your shoulder at Zel. One of them takes a step back, but the other grabs his arm. "You gonna let a couple of muties scare you, Luds?" He brandishes his blade in front of Luds' face. "Uppity freaks don't know their place. Let's show it to 'em."
+
+Zel attacks first, breaking the arm of the one with the knife. But Luds recovers, stabbing him in the back. He howls and falls to the ground. You jump at Luds, slamming his head into the ground.
+
+{SOUND: Fighting}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>You pretend to attack them, then juke the other way and run past. You shout for Zel to follow you.
+
+Misha sees you first. She shouts to the others, then asks what happened to Zel. You turn around, but the enormous mutant is no longer with you.
+
+Like a dream, you walk back down the alley, several of the Grotto mutants with you. The thugs are long gone, but Zel is there, broken in the middle of the street, his blood as red as anyone's. They killed him and then, their anger dissipated, they left the rest of you alone.
+
+"You should never have gone," says Misha. "Maybe then, Zel might have lived."
+
+Your only comfort is that Zel's sacrifice kept the thugs away from the Grotto.
+
+{SOUND: Running}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>With pity on their faces, the mutants stand firm, even as the thugs beat them to the ground.
+
+They leave Ashe alone at first, but when Lali is struck down, Ashe cries out and stabs one in the leg with a shiv he'd produced from somewhere. The thug slaps him hard on the cheek. Suddenly Lali is on her feet again, strangling the man.
+
+Soon the entire Grotto has joined the attack. The air is filled with shouts of rage and pain. You don't remember picking up a board, but with a tremendous *whack*, you knock down one of the thugs with it.
+
+Looking around, though, you see everyone is in danger.
+
+{SOUND: Beating building up into a full-on battle}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"That worked once, mutie. But your friends ain't with you this time, are they now?" They look at each other and laugh.
+
+Suddenly, they attack. You defend yourself, but they have weapons, and you have only your fists. A blade slashes through your arms, sending fire all along your limbs.
+
+{SOUND: Fighting}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Oh, really?" They look at each other and laugh. "We walloped you once before, mutie. We'll do it again."
+
+They attack. You defend yourself, but they have weapons, and you have only your fists. A blade slashes through your arms, sending fire all along your limbs.
+
+{SOUND: Fighting}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>More figures emerge, surrounding you. The scrape of metal sends a shiver up your spine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>A *lot* more, true to their word.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>With a shout, you tackle the one in front of you, slamming him to the ground. He's stunned long enough for you to pry the shiv from his hand and ram it into his belly. The scent of his warm blood spills into the street.
+
+Zel attacks the others, breaking the arm of one and then ripping the head from another in a matter of seconds. It is over.
+
+"Hey, mutie! What the hell?" Several humans run out to investigate the noise. They gape at the dead thugs in horror, and then at you.
+
+{SOUND: Fighting}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Ashe attacks the men with vicious ferocity, but his mother even more so. She's like a caged animal, slashing the face and throat of anyone who comes near her son.
+
+But as the thugs realize their danger, they overwhelm the boy and his mother. You rush to their aid, knocking a shiv out of a man's hand just before he stabs young Ashe's face. Ashe jumps forward, smashing the man's face with his club.
+
+His mother is not so lucky. You turn around, and she has already fallen, as have many other mutants.
+
+Sucya and Misha are taking care of themselves, but the others are in serious trouble.
+
+{SOUND: Battle (cont)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Though she's heavily wounded, Sucya fights hard. She knocks down two men twice her size before you lose sight of her behind three more.
+
+You rush to her aid, whacking a shiv out of a man's hand just before he impales Sucya. You take down two others, and Sucya is saved.
+
+Others are not so lucky. Misha is taking care of herself, and Ashe is still fighting hard, but not his mother. She lies dead in front of her home, like many other mutants around the Grotto.
+
+{SOUND: Battle (cont)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>You fight viciously, knocking down two, three, seven men without taking a scratch.
+
+The others aren't so lucky. Misha and Zel are taking care of themselves, but Sucya is dead, as is Ashe's mother. Ashe must have slipped away somewhere.
+
+All around the Grotto, mutants lie dead or dying in the fight.
+
+{SOUND: Battle (cont)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Prepare the mutants to fight. When the thugs come back, you will defeat them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Try one more time to convince them to fight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>The boy Ashe clenches his fists and grins, but the others look at each other with uncertainty. "Are you sure?" says Ashe's mother. "We're not fighters. We're just... folk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Never mind. Let me think of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Never mind, then. That's the last time I'll bring it up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Encourage them. Help them to focus on what they have, on the joy of the present.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Try one more time to encourage them, to help them focus on what they have *now*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>A few of them nod approvingly, but young Ashe looks confused. "What's that supposed to do? They beat up Aunt Sucya. We have to *do* something!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"You're right. Let me think of something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Never mind, then. That's the last time I'll bring it up."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>It's no use. The Grotto is overrun. Panicked mutants bolt in every direction, knocking each other down without finding an escape.
+
+You only manage a few steps before something slams into your back. Before you can tell whether it was a human or a fellow mutant who struck you, another blow smashes your head into the dirt.
+
+You feel the life seeping from your skull. Other mutants cower on the ground as humans beat them senseless. The ground has become red with their blood, and one or two lie on the ground like you, their dead eyes staring into yours forever.
+
+{SOUND: Battle and panic (cont)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Shout to the other villagers. Encourage them to stay strong and to endure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>It's no use. The Grotto is overrun. Panicked mutants bolt in every direction, knocking each other down without finding an escape.
+
+You shout again, trying desperately to stem their fear, when something slams into your back. Before you can tell whether it was a human or a fellow mutant who struck you, another blow smashes your head into the dirt.
+
+You feel the life seeping from your skull. Other mutants cower on the ground as humans beat them senseless. One or two lie on the ground like you, their dead eyes staring into yours forever.
+
+{SOUND: Battle (cont)}
+{SOUND: Someone getting punched down, grunt of pain}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Kill as many as you can, fearing nothing for yourself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>You fight viciously, knocking down two, three, seven men without taking a scratch.
+
+But the Grotto is in terror. Panicked mutants bolt in every direction, knocking each other down without finding an escape.
+
+You face a new attacker when something slams into your back. Before you can tell whether it was a human or a fellow mutant who struck you, another blow smashes your head into the dirt.
+
+You feel the life seeping from your skull. Other mutants cower on the ground as humans beat them senseless. One or two lie on the ground like you, their dead eyes staring into yours forever.
+
+{SOUND: Battle (cont)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Sucya looks up. Her skin is multi-hued now and reeks of overcooked vegetables - pain. "Thanks for your help," she manages.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>She looks pretty bad. Apparently, the thugs had been working on her long before you drew their attention.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Sucya is unconscious. Her skin is the color of ashes, and she has hardly any scent at all. She could be dying.
+
+The chiurgeon injects something into her neck. Finally, her eyes flutter open and find you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>The tower marks the center of the town square. It is clearly not of the Ninth World. It is made of some older material, tipping so much it's a wonder it hasn't collapsed yet.
+
+The Burgrave is easy to find. He stands in front of the tower, a stout man in a colorful robe - more colorful than most Jerboan citizens. His robe is adorned with various pearlescent beads and discs that mark his station.
+
+He 's speaking with a richly dressed man and woman. The Burgrave does not seem to have noticed you, but the couple he is speaking to are clearly disgusted by your arrival.
+
+{SOUND: Same busy city street as node 82, but softer.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Place your tentacled hand on the Burgrave's shoulder to get his attention.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Apologize to the richly dressed couple for disturbing them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Wait patiently for the Burgrave to finish speaking with the couple.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>The Burgrave gives you his sudden attention. "Oh!" he says. "I was so engrossed in what I was doing..." He looks you up and down, though not in the disgusted way his fellows do. "What brings a mutant out here?"
+
+You state your case, telling him of the attack on Sucya and all that came after, including their warning that they would return. The couple leaves, but he listens, waiting patiently for you to finish the whole tale.
+
+"It must be of great importance to you," he says, "for you to come here and even interrupt three of Jerboa's most important officials. Very well, I will have it investigated. After all, the Grotto is part of the city, too."
+
+You thank him and return home.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>It takes a long time for them to finish their business. The couple seems grateful for the Burgrave's apparent ignorance of your presence.
+
+Finally they leave. The Burgrave turns to you, apparently surprised to find you standing there. "What brings a mutant out here?"
+
+You state your case, telling him of the attack on Sucya and the thugs' warning that they would return. He waits patiently for you to finish the whole tale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>(Lie) "I've just talked to the Burgrave. If you kill me, he'll know what you're doing and take action."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>[DEBUG] Test images.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>This node shows each of the illustrations used in this Mere. Which one do you want to see?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Sucya's Beating.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Convincing the Grotto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Searching Jerboa Town.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>The Gang Returns.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Return to the beginning of the Mere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Citywide Riots.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>
+
+You thank him and return home.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Fine. Zel and I will fight them ourselves." Leave the Grotto to find them.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,1995 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4501_memovira</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>369</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The Memovira is a medium-sized woman, regal in bearing. She scrutinizes you with a look that manages to convey both admiration and disdain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[OLD NODE; SHOULD NOT PLAY; DELETE AFTER REVISIONS ARE FINAL]
+
+The Memovira stands before you, her gaze strong and unflinching, though her face is lined and stress marks her mouth. "You have retrieved the second Merecaster, I assume. I will need to examine it to ensure that this is the same one entrusted to my care."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[OLD NODE; SHOULD NOT PLAY; DELETE AFTER REVISIONS ARE FINAL]
+
+The Memovira's face is red with anger, and you can see the veins throbbing in her forehead. Her voice has lost its cultured edge. "You're five seconds away from feeding the laaks, usurper. Explain your actions or die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Can't we negotiate?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Negotiate? You've stripped the Bloom from me, and you want to negotiate? Negotiate with *this*." She signals, and her thugs attack!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"I didn't get where I am today through *trust*. Let me see it. Pretend it's the key to my vault, because in a very real sense it is."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>She takes it from you. "Then we have a deal. Never let it be said that I renege on my bargains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Your instincts were correct - she *is* afraid of you. She hesitates a moment, and something in the cast of your face convinces her. "Very well." She passes you the shunt and gives you a key to the the Merecaster's vault. "I tell you now, though: I have no idea how to reverse the shunt's effects. Search my mind if you wish, Satsada - I find it a delicious irony, but my malice does not extend that far."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Bank 9</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>It seems she's gotten her hands on a holographic projector. Though if so, the image is much more solid than one would expect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>
+
+No, she *is* there, at least partially. She's using some kind of phased teleporter, allowing her to appear without exposing herself to dangerous elements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Some strange magic allows her to be in two places at once.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Her eyes cut to Riastrad and Matkina. A slight tightening around her eyes suggests that their presence isn't entirely welcome.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>
+
+Her eyes cut to Matkina. A slight tightening around her eyes suggests a wariness toward Matkina.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>
+
+Her eyes cut to Riastrad. A slight tightening around her eyes suggests that Riastrad shares some history with the Memovira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Though her words are cultured, her voice is rough - perhaps an artifact of low upbringing. "Dracogen was... effusive in his praise for your skills. I've been following your movements myself. You moved the Trade Post out of the depths? There are very, very few people who could manage such a feat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Her eyes are piercing as they sweep across you. "I've dealt with castoffs before, of course. I've found your kind to be tenacious, resourceful, and skilled. And I *know* the one you are looking for. I can tell you where she is hiding."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"You mean you thought you could milk the connection for all it was worth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Hush, Matkina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Well said, Matkina. But I want to hear what she has to say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"My apologies, Memovira. I wish to hear what you have to say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The Memovira ignores the interruption and continues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"The First is powerful. If you tell me where she is, I'm sure together we can rescue Ishen more easily."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"I had a few questions, actually..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"I'll be back from the Bloom's heart shortly, then. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"The First *is* alive then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"I am grateful for any help you can provide."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"What do you want in return?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"I do apologize if I gave the impression that this was a discussion." Her voice hardens. "I have made my offer. Rescue my friend from the Bloom's heart and you shall have the location of your precious First. Fail, and you will not. Do I make myself clear?" Her voice returns to its ordinary tones. "Now, if you'll excuse me, I have an organization to maintain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>::fwwwipp::
+
+{SCRIPT: Need to make the Memovira disappear using the teleport/transdimensional VFX here. -JF}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>::fwwwipp::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"I have learned something about the Bloom, and it is crucial to your survival that you hear me out. The Bloom has already turned against you, and it will devour you if you don't flee now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"You're already dead, Memovira."  Attack her!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The way she looks at you and holds herself suggests that she might be wary... or even slightly afraid?... of said accomplishment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Hand it over.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"I had a few questions first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"You can trust me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"As I mentioned earlier, I am extraordinarily busy. If you want questions answered, speak to a guide like Grisseler. Give me the Merecaster so that I can see it for myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>She takes it in her hands and looks it over carefully. Satisfied, she returns it to you. "Follow me."
+
+{SCRIPT: She paths to the Vault door, unlocks it with some sort of biometric device, and continues with her speech when the PC joins her in the Vault. When the party joins her, the Vault door closes}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"I have lost more men than I care to think about while trying to recover him. As a castoff, however, you have certain... advantages my minions do not."
+
+Her tone becomes curt. "With the recent fluctuations in the Bloom's layout, I no longer know the path to reach the Heart. I suggest you talk to someone who knows the Bloom well, if you cannot discover the way yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Satsada's voice emerges from Riastrad's mouth: "I see you have the shunt that you used to separate me from my love. I want you to use it to bring me back to the land of the flesh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"I thought about destroying you, you know. Now that you're here and all three Merecasters are present, that... *thing* that pursues you would probably be mollified and cease its assault if you were all dead. In fact, I still haven't made up my mind. I might be persuaded."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"That wasn't part of our bargain, Satsada. Besides, I'd think you'd be delighted to be so... intimate... with your mate. You were a girl silly in love, and I lost good fighters trying to save you from your mistake. No, I don't think so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Riastrad begins to form a blade from his weapon. "I think I can convince you to change your mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Attack the Memovira!
+
+{SCRIPTER: Start Crisis/Tussle}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Wait a moment, Satsada. I think we can resolve this peacefully."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Wait, Riastrad. We could find a mutually agreable solution."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Wait. Let's think this through."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"You want *us* to pay *you*?" Matkina looks around. "Odd. I don't think you have enough power here to protect you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"What would it take to change your mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"You know who we are. I know that you're scared of me. Do you really want to start a fight?"
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"What would it take to change your mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>The Memovira laughs. "Did you really think I would leave myself unprotected near you, Matkina? I knew you were ignorant, but I didn't think you were stupid." She sighs overemphatically. "Oh well. Another illusion shattered."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Attack the Memovira without another word.
+
+{SCRIPT:  Start the crisis!}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Memovira, you know who we are. You know what we are capable of doing. Do you really want to start a fight?"
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Memovira, you know who we are. I know that you're scared of me. Do you really want to start a fight?"
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Memovira, you know who we are. You know what we are capable of doing. Do you really want to start a fight?"
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Memovira, you know who we are. I know that you're scared of me. Give me the shunt."
+
+{SCRIPT: Matkina not in party}
+
+{SCRIPT:  I'm not sure about the conditions on this node versus the script comment above. -JF}
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Memovira, you know who we are. You know what we are capable of doing. Give me the shunt."
+
+{SCRIPT: Matkina not in party}
+
+{SCRIPT:  I'm not sure how the current conditions on this node reconcile with the script comment above Also, this could potentially be implemented as a single check where you have a +1 Asset for having Matkina in the party rather than these separate checks. -JF}
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Memovira, you know who we are. I know that you're scared of me. Give me the shunt."
+
+{SCRIPTER: Matkina IS in party}
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Memovira, you know who we are. You know what we are capable of doing. Give me the shunt."
+
+{SCRIPTER: Matkina IS in party}
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I think not." She raises her hand in signal, and her thugs attack!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Oh, you wish to negotiate further? I'll accept [Global: c4501_MemoviraExitPrice] shins or powerful numenera - on the order of what you fetched for Dracogen - and you can leave the Bloom, vowing never to return. Accept these terms, and you'll have the shunt as well."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"I won't pay that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"I have the Magmatic Annulet that Dracogen sought."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"That's a pity. Perhaps I can sell your corpses as curiosities." She raises her hand and her thugs attack!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"I can pay that." (Give her the money)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Now take your spoils and go. I have an organization to run."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Oh, you wish to negotiate further? I'll accept [Global: c4501_MemoviraExitPrice] shins or powerful numenera - on the order of what you fetched for Dracogen - and you can leave the Bloom, vowing never to return. Accept these terms, and you'll leave with your life."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"I can pay that." (Give her the money)
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>She takes it from you. "Then we have a deal. Never let it be said that I renege on my bargains."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"I won't pay that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"That's a pity. Perhaps I can sell your corpses as curiosities." She raises her hand and her thugs attack!
+
+[SCRIPT: Begin Crisis}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"I have the Magmatic Annulet that Dracogen sought."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Oh, you wish to negotiate? I'll accept [Global: c4501_MemoviraExitPriceDouble] shins or powerful numenera - on the order of what you fetched for Dracogen - and you can leave the Bloom, vowing never to return."
+
+{MONEY}
+
+{DESIGN: Note, this is more because Memovira hates Matkina}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"I can pay that." (Give her the money)
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>She takes it from you. "Then we have a deal. Never let it be said that I renege on my bargains."
+
+{SCRIPT: Gives the PC the MemoviraMerecasterKey}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"I won't pay that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"That's a pity. Perhaps I can sell your corpses as curiosities." She raises her hand and her thugs attack!
+
+{SCRIPT:  Start the crisis!}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"I have the Magmatic Annulet that Dracogen sought."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Your instincts were correct - she *is* afraid of you. She hesitates a moment, and something in the cast of your face convinces her. "Very well." She passes you the key to the vault containing the final Merecaster. "But leave. Leave now before whatever hunts you finds you here and dooms us all."
+
+{DESIGN: Items are MemoviraMerecasterKey}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"I am not so easily frightened. If it's a fight you want, you'll get it, but I'm sure we can find a better way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"I am not convinced. Lay out your case."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Would you like to know what I found in the Bloom's heart? Let me tell you..."
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[Attack] "Actually, fighting would be easier." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>You speak long and eloquently, telling her of what you have seen in the Bloom and how it reacted to you. She listens. At last, she says: "You... you spoke to the Bloom? How was this information denied me? You..." 
+
+She looks truly flustered for the first time since you have seen her, and then she gathers her composure. "You are certain that the Bloom will devour me?" Her eyes search your face for any hint of deception, and she finds none.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>You speak long and eloquently, telling her of what you have seen in the Bloom and how it reacted to you. She listens. She watches you, her eyes growing ever harder, and at last she holds up her hand. "Are you stalling for time? This may be one of the most foolish things I have ever heard. Guards: kill them all."
+
+{SCRIPT: If c4401_GrisselerOnPlayersSide = 1, then Grisseler should join the battle on the player's side.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"I have uncovered evidence of the Bloom's history... not just yours, but the Memoviras before you."
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"I have uncovered evidence of the Bloom's history... not just yours, but the Memoviras before you."
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"I have uncovered evidence of the Bloom's history... not just yours, but the Memoviras before you."
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"I sincerely hope this means I get to kill you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Matkina, you have tried before and you've failed. This is because you. Are. A failure." The Memovira turns back to you. "Well? Convince me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"M'lady, I hate to interrupt..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>She turns her furious gaze upon him. "Out with it, or you'll share his fate."</DefaultText>
+      <FemaleText>She turns her furious gaze upon him. "Out with it, or you'll share her fate."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"The Bloom let this fella walk straight into the Heart. Didn't even put up a fight. You ever hear of that before?" He shrugs. "Might be too late to turn this around."</DefaultText>
+      <FemaleText>"The Bloom let this lady walk straight into the Heart. Didn't even put up a fight. You ever hear of that before?" He shrugs. "Might be too late to turn this around."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"You know Walks-without-fear? He was the old Memovira. The Bloom devoured his spirit, and it will do the same to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"I spoke with the Observant Speck. She told me of the endless cycle of the Bloom's hunger, and what it does with its old rulers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"His spirit was broken before I ever took power. I said *convince me.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Though her words are cultured, her voice is rough, as if her voice had been trained to shout and growl orders for decades. "Dracogen has told me of your skills, and I have followed your movements with great interest. You seem to move through the Bloom with little trepidation. That's good... very good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>She pretends to hide a contemptuous smirk. "Dracogen told you otherwise, didn't he? He knows far more than he lets on. He also knows better than to give away *my* bargaining chips. Your information is correct - the First is alive. But like Dracogen, I'm not inclined to giving away my secrets for free. I understand she's been hidden from your kind for over a century. I have no qualms about betraying her, but the cost will be steep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"I've lost someone, an important member of my organization. You've no doubt heard of the recent changes in the Bloom - perhaps you have even heard the rumor that it has turned against *me*. To some extent that is true. Ishen is a victim of that betrayal."
+
+She looks at the floor, saddened. "Ishen was my best scholar, a genius with the numenera. Through my own means, I've divined that he still lives, but I cannot reach him. The Bloom has taken Ishen to its Heart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"I'm sure you are." She sneers. "Unfortunately, I am not one to give my secrets away for free, especially not *this* secret. I understand that this First Castoff has been hidden from your kind for over a century. Rest assured, I have no qualms about betraying her, but the cost will be steep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"So untrusting. So wise." She chuckles. "I understand that this First Castoff has been hidden from your kind for over a century - that you thought she was dead! Well, know that I have no qualms about betraying her, but the cost will be steep."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"The Merecaster you received from Dracogen is a part of the key that will activate the third, the one I have stored in my vault. The one you will retrieve from the Bloom's heart is another part of the key. Taking the one I have stored safely away now serves no purpose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>She glares at him, her resistance crumbling slightly, and looks back to you. Her eyes narrow and she says, "What else? Have you anything else to tell me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>She scoffs,"That old crone? She is a half-wit and a fanatic."
+
+... but doubt lurks behind the mask of her face. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>[OLD NODE; SHOULD NOT PLAY; DELETE AFTER REVISIONS ARE FINAL]
+
+"The storied hero returns," the Memovira says. In person, she loses that shimmer effect, and you can see that the years and the stress of her position have not been kind. Her voice is tired, too. "Do you ever weary of the responsibility of power?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"No. Why, do you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"On occasion, but it's my burden to bear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Frequently, but it serves a purpose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"All that killing and stealing is finally getting to you, is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Satsada's voice murmurs, "Tell me what you know of true responsibility, my lady. Let us speak of the screams you bade me induce."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Shut up, Matkina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Quiet, Matkina. Please continue, Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Well said. We're just here for the Merecaster, and then we're gone. We don't intend to be friends."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Her face hardens again, the moment of vulnerability gone. Her voice becomes brusque. "Very well. To business, then. You have retrieved the second Merecaster, I assume. I will need to examine it to ensure that this is the same one that was entrusted to my care."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"This isn't your conversation, Satsada. Butt out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Quiet, Satsada. The Memovira was speaking. Please continue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>She doesn't say another word, but you *see* her psyche withdraw from Riastrad's nervous system. The look of anger and disapproval slowly vanishes from his face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Matkina glowers and withdraws into herself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>She glances at your companion and considers her words carefully. "You know what it is to have others admire you, or to offer you adulation. You know how to manipulate people for power. So I ask you this: when does it become too much? When is it acceptable to walk away... or rather, to retire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Quite right, Satsada. I do take responsibility for asking you to interrogate our enemies. Little did I know you'd be so... enthusiastic." She turns her attention to you. "Has she told you of her past employment with me yet? Ask her some time. It's an amusing tale." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Oh it serves a purpose. Yet there are many who in live the Bloom who care nothing for my happiness. Nor should they. But if I leave, they suffer as the new ruler asserts her power here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"As you well know, Matkina, that's the easy part. It's having other people believe in you that's difficult. But why do I need to explain this to you? You're personally acquainted with this knowledge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Walk away from power? Never. What's the point of gaining power if you don't use it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"It becomes too much only if you can't control it anymore. Until then, you should hold it tightly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"When your power no longer serves a purpose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"The point of power is that you don't have to listen to what other people want. You're talking about duty and responsibility - the power that others have over you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"I *have* used it. But now it grows tiresome. The pleasure has seeped from it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Then retire. Find some other way to make yourself happy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"You're the ruler of the Bloom. What does your *pleasure* matter? You have a duty to your citizens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Find a new pleasure. Novelties must come through the Bloom all the time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Let me speak frankly, then." She considers her words carefully. "You know what it is to have others admire you, or to offer you adulation. You know how to manipulate people for power. So I ask you this: when does it become too much? When is it acceptable to walk away... or rather, to retire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"It's academic. I'm really just here for the Merecaster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"And if you feel your grip slipping?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Then you must make a choice. Let go altogether or fight to keep your position. There is no middle ground."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Then tighten it. Hold to it so it can't escape. Enough with the philosophy. Let's get to business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"What will they say of me? How will I be remembered?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Duty." She almost spits the word. "The duty I have to them is to keep them safe. I do this, and the thanks I get are knives in the dark and poisons in my cup."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Do the opinions of others truly matter that much to you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"As the one who walked away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Do they remember the old Memoviras? Do you? Who reads the old histories?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"As a coward, most likely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Those who wish to learn from them. But you have a point. You may convince me yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Not a proud legacy." She considers. "But it might be a better story than being another one in the long line of Memoviras who have disappeared. You may convince me yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"They do not. You have me half convinced." A small smile appears at the corner of her mouth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"You know Walks-without-fear? He was the old Memovira. The Bloom devoured his spirit, and it will do the same to you if you do not abandon the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"His spirit was broken before I ever took power. I said *convince me.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"I spoke with the Observant Speck. She told me of the endless cycle of the Bloom's hunger, and what it does with its old rulers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>She scoffs,"That old crone? She is a half-wit and a fanatic."
+
+... but doubt lurks behind the mask of her face. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"If you are truly the ruler of the Bloom, then you should also be the mistress of your own life. Control your destiny, and choose... rather than letting others act upon you. This is the truth of power."
+
+{SCRIPT:  Can collase this and the two nodes below into a single one once assets are confirmed working.}
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Novelty in itself has grown old. There must be more to life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>She sighs, and then her brusque demeanor reasserts itself: "You are correct. Very well, then. To business. You have retrieved the second Merecaster? I will need to examine it to ensure that it is the same one that was entrusted to my care."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"And what do you counsel? What would you say to convince me one way or the other? Can I rebuild my power?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"If you are truly the ruler of the Bloom, then you should also be the mistress of your own life. Control your destiny, and choose... rather than letting others act upon you. This is the truth of power."
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"If you are truly the ruler of the Bloom, then you should also be the mistress of your own life. Control your destiny, and choose... rather than letting others act upon you. This is the truth of power."
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"You talk about retiring and then you want to rob me? You'll never change."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"A momentary weakness. You convinced me otherwise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"You talk about retiring and then you want to rob me? You'll never change."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"A momentary weakness. You convinced me otherwise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>She looks troubled. "I do feel my power slipping from me. I can no longer hear the Bloom. Better to leave on my own terms than to be carried away - I am no warrior." She nods decisively. "Very well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Strong words, but..." She shakes her head. "No. I reject this perspective. If I earned my power once, I can regain it. Your words betray immaturity and a lack of comprehension. Let us resume our unfinished business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>She produces the key to her vault and hands it to you. "I leave immediately. Let my name pass into legend. My final act as Memovira, then. Tower: I hereby assign authority to this individual."
+
+{DESIGN: Items are MemoviraMerecasterKey.}
+
+{SCRIPT:  What does the above comment mean? -JF}
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"You have retrieved the second Merecaster, I assume. I will need to examine it to ensure that this is the same one entrusted to my care."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Holding power is difficult. Many are jealous. But the exercise of power is its own pleasure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Then let go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Then it's your own responsibility find it anew. Your choices, your life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Perhaps. You should certainly try."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Then let go. Find new pleasures elsewhere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"I've heard enough complaining. Can we resolve our unfinished work?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"If I take it off your hands, you won't need to worry about it anymore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"You say the Merecaster is a part of a key?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"But then I have no assurance that you will retrieve this one. No, you will have no access until you return with the second Merecaster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"You can trust me to come back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Yes. A part. Combined, they create the key. Now go and fetch it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"I found a Navigatonal Cortex. Would this suffice?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"I found a Navigatonal Cortex. Would this suffice?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"I found a Navigatonal Cortex. Would this suffice?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>She also looks like she's about to swallow something disgusting. "You have my gratitude."
+
+She walks quickly to the exit, her thugs close at her heels.
+
+{SCRIPT: Fire a cutscene wherein the Memovira abandons her fortress with her followers (i.e., they exit and despawn).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Then you have a duty to stay and watch over them, do you not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"So my personal power lies in renouncing my power? This is an interesting perspective, castoff. You almost convince me to abdicate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"I don't suggest that at all. Do what's right for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"This is the thanks I get for telling you to hold your power?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"How else should I start? Best to start early. Now: tell me why I should not destroy you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Quite right, Satsada. I do take responsibility for asking you to interrogate our enemies. Little did I know you'd be so... enthusiastic." She turns her attention to you. "Has she told you of her past employment with me yet? Ask her some time. It's an amusing tale." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"As you well know, Matkina, that's the easy part. It's having other people believe in you that's difficult. But why do I need to explain this to you? You're personally acquainted with this knowledge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>A disembodied voice speaks: "Provisional authority accepted."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Can you tell me how the tower works?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Farewell, Memovira."
+
+{SCRIPTER: Memovira paths to door and disappears} </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>As she walks toward the door, she looks back over her shoulder. "You're a smart man. You can figure it out. *I* did."
+
+{SCRIPTER: Memovira paths to door and disappears} </DefaultText>
+      <FemaleText>As she walks toward the door, she looks back over her shoulder. "You're a smart woman. You can figure it out. *I* did."
+
+{SCRIPTER: Memovira paths to door and disappears} </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"M'lady, I got something to say."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>She turns her furious gaze upon him. "Out with it, or you'll share his fate."</DefaultText>
+      <FemaleText>She turns her furious gaze upon him. "Out with it, or you'll share her fate."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"I never seen the Bloom respond so *strong* to anybody before. Not even to you. If the Bloom's chosen this fella, there ain't nothing we can do." Grisseler locks eyes with the Memovira. "And I won't fight him."</DefaultText>
+      <FemaleText>"I never seen the Bloom respond so *strong* to anybody before. Not even to you. If the Bloom's chosen this lady, there ain't nothing we can do." Grisseler locks eyes with the Memovira. "And I won't fight her."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText> Addend. 222</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"We dealt with you fairly. Now you will pay." Attack her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Your instincts were correct - she *is* afraid of you. She flinches and pulls the key to her vault from her pocket. She's so shaken, in fact, that another device falls out of her pocket at the same time.
+
+"Very well." She waves it off as if she meant to give that as well. "But leave. Leave now before whatever hunts you finds you here and dooms us all."
+
+{DESIGN: Items are MemoviraMerecasterKey}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"You? Frighten *me*? I think not." She raises her hand in signal, and her thugs attack!
+
+{SCRIPT: Start Crisis}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"I am not so easily frightened. If it's a fight you want, you'll get it, but I'm sure we can find a better way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>[Attack] "Satsada is right. You took her life. Now we're taking it back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Your instincts were correct - she *is* afraid of you. She flinches and pulls out the shunt and a key so fast that a number of shins fall out of her pocket as well.
+
+"Very well." She waves them off, as if she'd meant to give them to you as well. "I tell you now, though: I have no idea how to reverse the shunt's effects. Search my mind if you wish, Satsada - I find it a delicious irony, but my malice does not extend that far."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Do you think I'm so easily frightened?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Your fear is not my goal." The blade is fully formed now. Riastrad steps toward the Memovira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Well said. We're just here for the Merecaster, and then we're gone. We don't intend to be friends."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>She looks troubled. "I do feel my power slipping from me. I can no longer hear the Bloom. Better to leave on my own terms than to be carried away - I am no warrior." She nods decisively. "Very well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>She looks crestfallen. "Empty words. Your entire demeanor betrays you." She stands striaghter then. "No. I will not be swayed by a mere child. I earned my power once. I can regain it. Let us resume our unfinished business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>She produces the key to her vault, as well as another device, and hands them to you. "I leave immediately. Let my name pass into legend. My final act as Memovira, then. Tower: I hereby assign authority to this individual."
+
+{DESIGN: Items are MemoviraMerecasterKey and Shunt.}
+
+{SCRIPT:  What does the above comment mean? -JF}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>You speak long and eloquently, telling her of what you have seen in the Bloom and how it reacted to you. She listens. At last, she says: "You... you spoke to the Bloom? How was this information denied me? You..." 
+
+She looks truly flustered for the first time since you have seen her, and then she gathers her composure. "You are certain that the Bloom will devour me?" Her eyes search your face for any hint of deception, and she finds none.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"I have other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Are you worried about the companions I keep? Matkina, perhaps?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>She smirks. "No, but perhaps *you* should be."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Is it where you hid your honor? Your loyalty?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>She seems to stifle a yawn. "So high and mighty for one who has betrayed everyone she's ever worked for."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Leave her alone. You don't know her as well as you think."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Enough of this! Tell me what I need to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"What's she talking about, Matkina?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"I know much more than you presume." She smiles patronizingly at Matkina. "But this isn't about her. This is about how I can help you find the First of your kind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"So touchy. I'm surprised she's let you live this long. Yes, you wanted to find the First of your kind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>Matkina says nothing, only glaring at the Memovira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Watch that one, castoff. Her blades are *always* hungry." She smiles patronizingly at Matkina. "Anyway, you came here for another purpose. You need my help to find the First of your kind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>He rolls his eyes. "Here it comes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Does *everything* in this world require fetching something?" she whispers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Huzzah! The quest thickens!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Her laughter rings throughout the fortress like a death knell. "Oh, she *is* powerful. Of that have no doubt, castoff. And *I* am sure she will not be as helpful to you as you think."
+
+Her smile disappears as quickly as it arrived.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>The Memovira's face is red with anger, and you see the veins throbbing in her forehead. Her voice has lost its cultured edge. "Is it true? You *bonded* with it? I didn't even think you'd succeed, let alone usurp what authority I had left. I should have killed you myself!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>The Memovira's gaze is strong and unflinching, though her face is lined, and stress marks her mouth. "Impressive," she says, though her words are clipped. "Even with everything I'd heard you had done, I did not actually think you would succeed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"I did everything I could to honor our deal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"You lied to me. *You're* the First."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"I learned the talisman's purpose - to activate the resonance chamber and kill all the castoffs. Why do *you* want it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Now tell me the truth about the First Castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Indeed." She narrows her eyes. "Now, for the information I promised you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>She frowns. "Very well. There's really no point in *not* telling you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>Her laughter scratches harshly against your ears. "Obviously."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>She scowls. "The Bloom told you, didn't it? Yes, it's true, for all the good it will do you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>She smirks. "An interesting question, one that deserves an answer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>She raises her chin high. Some kind of energy shimmers across her body. "*I* am the First Castoff. I have kept myself hidden for a century and more, watching, waiting, letting our damned sire execute his twisted plans thinking *he* had the upper hand. But we have plans of our own."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"As you can see, my agents have retrieved the resonance chamber from the Reef.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>Though it was not without trouble. I had to send a second foray after the first had failed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>With Mazzof returned, we can use the chamber to sever the Tidal connection that draws the Sorrow to us like a war moth. Then we will be free forever - from the Sorrow, from having to hide in Miel Avest or this wretched Bloom, from all of our sire's stratagems. We will finally be ourselves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>You didn't notice while the First was speaking, but Matkina's eyes are staring at one of the First's companions. She actually looks *frightened*. If it's at all possible, she looks paler than normal. "Tash."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>She lifts the talisman in her hand, examining its shining surface. "Our freedom is finally at hand, thanks to you." She laughs to herself softly, as though to some inside joke. "I have no doubt you have questions - from what I hear, you *always* have questions. Ask them. Then let's celebrate our freedom together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Our freedom is finally at hand, thanks to you." She laughs to herself softly, as though to some inside joke. "I have no doubt you have questions - from what I hear, you *always* have questions. You may ask them while Mazzof finishes his work."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>Now that she says his name, it's obvious. This is the man whose body you inhabited in Matkina's merecaster so long ago. His only reply is a leering grin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"We need to talk about the chamber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"I want to talk about the chamber again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"How long have you been hiding here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Why didn't you just tell me you were the First from the beginning?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"We should use the chamber to weaken the Sorrow. We might be able to kill it!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"*I* want to activate the chamber, merging all castoff consciousnesses into myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"I have no more questions. Activate the chamber and stop the Sorrow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"It's not worth killing each other over. Here's the talisman. Do what you will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Your plan will kill the castoffs. I won't let that happen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"I've decided. I can't let you kill us all, no matter what."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>She laughs. "Perhaps you should've thought of that *before* you gave me the talisman. I'll kill you before I let you get near that chamber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>Her voice cuts with a sharp edge. "Are you a fool? The Sorrow *cannot* be killed. You, however, can... which you'll discover if you try to get anywhere near that chamber. The only reason you're alive at all is because I'm optimistic - I hope you're smarter than that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>She nods. "It would be foolish to do anything else. Come, brothers and sisters. Our freedom awaits!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>She bristles. "You think just because I no longer control the Bloom that you can defeat us all? Try it. I was always going to have to kill you anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>She shrugs. "Try and stop me. I was always going to have to kill you anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Then you are a fool."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"Wait. Let me think about it first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>[Attack] "Go ahead and try."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"There's nothing to think about, fool! In a matter of moments, Mazzof will have the chamber activated and it will be over. But fine." She waves a hand dismissively. "*Think*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Keep him away from the chamber! Paint the walls with his blood!"</DefaultText>
+      <FemaleText>"Keep her away from the chamber! Paint the walls with her blood!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Why would you have to kill me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>She sets her shoulders strong. "You are *his* key - the catalyst he created to activate the chamber. He would use it to subsume all of us into himself - to *kill* us, do you understand? I have been trying to stop that from happening ever since I learned what our sire's true plans *were*. Then when you spoke to Mazzof in Ossiphagan - using poor Zerian's body - I knew he was close. I knew where you would appear, but not when. I've been watching Miel Avest ever since, waiting for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"That's all I wanted to know. Let's activate the chamber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"This isn't right. Give me the talisman back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"I *won't* let you activate that chamber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"I've decided. I can't let you activate the chamber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>She clutches her belly and laughs, long and hard. The other castoffs surrounding you join her. It's several moments before she calms enough to say, "I can't believe you're serious. Maybe next time you won't be so quick to hand over your only bargaining chip."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>She bristles. "You are no longer amusing. You think just because you bonded with the Bloom that you can defeat us all? Go ahead and try. I was always going to have to kill you anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>She shrugs. "Go ahead and try. I was always going to have to kill you anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"Wait. Let me think about it first."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"There's nothing to think about, fool! I already have he talisman. But fine." She waves a hand dismissively. "*Think*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>[Attack] "Go ahead and try."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"Keep him away from the chamber!"</DefaultText>
+      <FemaleText>"Keep her away from the chamber!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"Of *course* we do." Her tone is patronizing. "Very well. What do you want to know? What can't your curiosity live without?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"What about it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"I thought *my* body was the catalyst to the chamber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"Can my body still activate the chamber then?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"Tell me again, *can* my body still activate the chamber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"It is. The Changing God created your body specifically to activate the chamber, to channel its powers. We discovered you had become a castoff when you spoke to Mazzof through Zerian Daywalker. Your body was designed to control the Tidal connection between us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"Of course it can. Mazzof has repaired the machine, not broken it further." Her voice gains a sharp edge to it. "But rest assured, if you go anywhere *near* that chamber, I will kill you myself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"Yes. But I'll kill you if you try."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"I've learned that in activating the chamber, it can be used to weaken the Sorrow. Is that true?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>She looks to Mazzof. You can't read the man's expression, but the First says, "Perhaps. But what would that accomplish? The Sorrow has been 'weakened' many times, yet it does not die. I will not risk our lives like that. Severing the Tidal connections between us is our only hope of stopping the Sorrow and surviving."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"Your plan will kill the castoffs, not free them. We *need* the connection in order to live."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>She scoffs. "What ridiculous conjecture. Where did you hear that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"A memory of our sire, when I found Mazzof."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>(Lie) "The Changing God told me himself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"It's none of your business where I heard it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>She stares at you for several moments. Then finally she says, "No, it's impossible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"Ha! He lies. Have you not learned this yet? He will say anything to accomplish his goals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>She sniffs. "It's irrelevant since it's utter nonsense."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"The Sorrow tracks us with the Tides. In severing the Tidal connection between us - the Labyrinth, our sire called it - we will no longer be connected to the Tides. We will no longer abuse them, and the Sorrow will stop its hunt. We will be free. It *must* be done."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"Is there any other way to stop the Sorrow?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"Tell me again, is there any other way to stop the Sorrow?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"There is one other way." She chuckles darkly. "Our sire's way - suck every living castoff back into a single body. But what good is that? No. The only way to stop the Sorrow is to remove what it seeks. It hunts us because our bodies abuse the Tides. In severing the connection, that abuse will end."
+
+She scoffs. "Our sire didn't know what he was doing when he made our bodies. The Sorrow is the consequence. But I will undo his mistakes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"There is not. Our bodies must stop abusing the Tides - either by severing our Tidal connection or by absorbing us into a single body and mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"I want to ask you about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>"Of course you do. We are safe here, but don't tarry more than you must. I can *taste* our freedom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"Of course you do. Ask them now, before Mazzof has completed the chamber's activation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>She shrugs. "A decade? More? I rescued Mazzof from the ghibra after our sire abandoned him. The Bloom's hatred of the Sorrow, and its power to keep it at bay, was known to me, so we came here in disguise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>She crosses her arms. "Frankly? I don't trust you. There are certain... *voices* in your head. I can't know what side you're *really* on, so it was safer to use you instead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"*You* destroyed Miel Avest. You slaughtered all those castoffs!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"Did *I* slaughter them, or was it their own cowardice? Holed up beneath those shields like frightened laaks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"Voices in my head? What are you talking about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"I can't tell if you're being coy or stupid." She stares at you a moment. "I've known the Changing God was in your mind since you spoke to Mazzof in Ossiphagan. I was there. *I* am the Chimaera. With the Changing God alive, all my plans, and all of our lives, were in jeopardy. Rest assured, I will do *anything* to stop him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"You'd do *anything* to stop our sire? Even kill me and countless innocents?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"What is your plan for the resonance chamber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>She smirks. "That wasn't part of our deal. But seeing as I was going to tell you anyway, I suppose I shouldn't be stingy. You, after all, have as much of a stake in this as I do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>She narrows her eyes. "You are as helpful as I had heard. You should be careful. Not everyone you meet is *worth* helping. Now, for the information I promised you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>She frowns. "I'd heard you were a careful man. Very well. There's no point in keeping it from you longer."</DefaultText>
+      <FemaleText>She frowns. "I'd heard you were a careful woman. Very well. There's no point in keeping it from you longer."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>Suddenly, several familiar castoffs materialize out of nowhere. You can't place all of their faces, but you immediately recognize Paj Rekken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"You're dead. I... I killed you." Her brow furrows. "Didn't I?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"That's certainly what you *remember*." His unpleasant grin widens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>She tilts her head. "How do you...? You are more clever than my information suggests. Though perhaps not, if you have not yet divined *why* I would have to kill you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>She crosses her arms. "When you escaped the sanctuary, I panicked. Years of planning undone! But then you came here, to me. The trip to the Heart was a fool's errand, you know. Whether you succeeded or not, I would have what I need - either you'd be dead, and our sire's plans with you, or else I'd have Mazzof back to enact my own plans... and our sire's plans would no longer matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>"I had no choice. With the chamber out of my control, you were too dangerous to let live. Do you understand? He doesn't think of us as individuals, as people. He would have snuffed us *all* without a second thought! Even now, I find myself wondering whether I should annihilate you, just to be on the safe side." She takes a deep breath. "A few casualties for the sake of all of us? That is worth the risk to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>Her voice sounds like it's cracking slightly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>She shakes her head. "If they had any courage, any care for the plight of their siblings, they would be out *there* fighting against our sire. I would have found them, taken them into my fold as I took in so many." Her voice trails off.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>Her voice lowers. "But of course our sire doesn't want to *sever* that connection. He wants to *use* it to draw all castoffs back into himself, snuffing us out." She lowers her chin menacingly. "I *won't* let that happen, so Mazzof has reconfigured the chamber to work with any castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"Our sire learned it from a ghibra castoff named Thom. Thom said both our sire's plans and yours would kill us all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>"Thom..." She stares at you for several moments. Then finally she says, "No. Thom is mistaken. What could he know about the details of my plan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>"But you *betrayed* the old Memovira. Why take over if you only came here to hide?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>"He was weak, and I needed his resources. I had to find the resonance chamber before our sire could activate it." She chuckles. "Controlling the power of the Bloom was a nice bonus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>"When the Bloom began turning against the old Memovira, I saw an opportunity. I needed his resources to find the resonance chamber before our sire found a way to activate it." She chuckles. "Now the Bloom has turned against me, but it won't matter soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"How was Mazzof taken from you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>She sighs, frustrated, but not at you. "When I rescued Mazzof from the ghibra, we did what our sire could not, liberating the talisman from their Menagerie. I kept it with me, in the fortress, for many years. It was safe... or so I thought."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>Her voice grows hard. "The Bloom turned on me without warning, or perhaps there were signs I missed. It devoured a large chunk of the fortress... and Mazzof's workshop with it. I have endeavored to keep it out ever since, but it was too late. Mazzof was gone. He's lucky it was *me* the Bloom wanted, else he would have been devoured immediately."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>The trim figure of Bericael is also among them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>
+
+"Our sire thought to use the resonance chamber to subsume us, but I have learned it can stop the Sorrow in another way. It is the door to our freedom, and you have returned to me my key."
+
+Then the Memovira - the *First* - makes a sweeping gesture toward Mazzof behind her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>Script Node 379</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>"This way. Draw any weapons and you'll die in short order."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>Script Node 381</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>"So, the hero returns."</DefaultText>
+      <FemaleText>"So, the heroine returns."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>[The Memovira comments on the castoffs that just teleported into the room, then sweeps her hand to reveal the door opening behind her.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>She addresses her guards. "See that the castoff doesn't get lost on his way out."</DefaultText>
+      <FemaleText>She addresses her guards. "See that the castoff doesn't get lost on her way out."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>Script Node 385</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>Script Node 386</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>She stares at the Memovira... the First. "What's in your mind? It must squirm like maggots. How do you justify yourself?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>"Why did you send me if you thought I wouldn't succeed?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>Her voice cuts with a sharp edge. "Did you think I brought these castoffs out here to boast? We'll kill you before you get near that chamber. The only reason I haven't yet is because I'm optimistic - I hope you're smarter than that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>"Don't think I didn't consider it. Your mere existence is a danger to all our kind." She smirks. "Yes, castoff, *our* kind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>"Our freedom is finally at hand." She turns her face away from you as though you no longer mattered. "As soon as Mazzof finishes his work, your betrayal will be a pointless footnote."
+
+She sighs. "I can feel your childish curiosity from here. Ask your questions then. But don't expect any charity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>"When the Bloom began turning against the old Memovira, I saw an opportunity. I needed his resources to find the resonance chamber before our sire found a way to activate it."
+
+She utters a low growl. "Now with your betrayal, the Bloom has turned on me as well - but it won't matter soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>"What you did down there was... unexpected." She looks you up and down, then mutters, "I can't imagine why it would choose *you*. You must have depths not immediately apparent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>"Your actions in the Bloom's heart have justified my distrust... and shown that I trusted you too much even so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>She turns to you, and you hear a tinge of dark humor in her voice. "Your time will come as well, you know. The Bloom can't be trusted any more than you can."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>The Memovira's face is red with anger, and you see the veins throbbing in her forehead. Her voice has lost its cultured edge. "Is it true? You allowed *her* to bond with it? So you are both traitors! I should have killed her - killed *both* of you - when you gave me the opportunity."
+
+Her lip quivers with rage. "Rest assured, my memory is long and patient. If you survive this day, know that your betrayal survives with you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>"*If* we survive this day? The Bloom is at my back now, usurper, and together we will take revenge for what you did to your predecessor - to my *friends*!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>An odd smirk emerges on her face. "Surely that's not all you want revenge for, 'Kina. You and I have more history that *that*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>You didn't notice while the First was speaking, but Matkina is staring at one of the First's companions. "Tash."
+
+Now that she says his name, it's obvious. This is the man whose body you inhabited in the merecaster so long ago. Matkina's expression becomes quizzical, as though a scar had appeared on her arm and she couldn't remember how it got there. "You're dead. I killed you... didn't I?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>"Interesting." She frowns. "I'll make sure to finish the job then. The Bloom will help me with that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>His leering grin disappears in a flash.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>::sssssrrr:: Oom sighs at your side. Your companion sounds - and *feels* - weary.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

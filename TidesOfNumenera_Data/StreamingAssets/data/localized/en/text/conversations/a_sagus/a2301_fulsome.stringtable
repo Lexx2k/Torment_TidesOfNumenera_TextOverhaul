@@ -1,0 +1,1663 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_fulsome</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>300</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This man towers over you, enormously fat and draped in gaudy robes. His expression is calm - stern, even - as he regards the bloody mess spread across the floor and wall.
+
+The hooded figures on either side of him tense as you approach. He turns to inspect you, eyebrow lifted, and raises his hand. His bodyguards relax, watching you.
+
+In the space of a second, his eyes flick over you. He nods, apparently to himself, as if your presence has confirmed something he expected.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[I'm busy. Leave me alone.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>His gaze shifts to Matkina, and his expression hardens further.
+
+"Matkina. You will tell me if you know anything about the murder of Wheedle," he says, gesturing at the bloody floor with a ringed hand. "And if you are responsible, you will reveal the name of your employer. Now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"There is an assassin named Matkina," he says. "She is known as the White Death. I have helped her find work in the past, but she has become... erratic. If she is not involved, she might know who is. If you wish to help in this matter, ask her what she knows. The creature named Mapper may know where she is."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"You know me better than that," she growls. "Or should."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>He beckons at you, a hard, sharp motion, his jaw set, his teeth partly bared. 
+
+"Someone else was murdered in your absence," he says. "A woman called 'Crooked Qeek' was killed beside the water."
+
+He turns his face from you. "I ask that you share any new information that you have. And if you do not have any, *find some*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>His hands are shaking fists at his side, as if he wants to strike someone but has no target. 
+
+"Another murder has occurred," he says. "Manth Pa was a wandering jack, and of occasional use to me. Now he is dead."
+
+He bares a crescent of gritted teeth at you. "Work harder, godling. My people are dying."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Do you have any leads?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[I'm still investigating.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[The murder seems to be associated with the Children of the Endless Gate.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Ah. You better question those damn meat eaters and see what you can find out.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Imbitu is the murderer!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Mallet is the murderer!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Kiyatawa is the murderer!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Gh'zei is the murderer!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[You idiot. No they aren't. I was with them at the time of the murder. Any other leads?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Really? Well, we'll put an end to their activitives... and to them. Good work, lad.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Really? Well, we'll put an end to their activitives... and to them. Good work, lad.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Really? Well, we'll put an end to their activitives... and to them. Good work, lad.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Better hurry, lad. This killer ain't gonna catch themselves.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I am surprised to see you again," he says, though his face displays no such thing. "You've named our murderer, and justice is done. Do we have other business to discuss?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>You behold a less-than-mysterious crime scene as you approach Fulsome this time - the big man's knuckles are bruised. So are the downcast eyes of the hooded man beside him.
+
+"We killed the wrong cultist," Fulsome growls. "It was Kiyatawa after all. She killed a woman named Mechela and fled the city. If you ever see her again, feel *free* to do the same thing to her that she did to my people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>You behold a less-than-mysterious crime scene as you approach Fulsome this time - the big man's knuckles are bruised. So are the downcast eyes of the hooded man beside him.
+
+"The murderer was Kiyatawa, the youngest of the Dendra O'Hur," Fulsome growls. "She killed a woman named Mechela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>This man towers over you, enormously fat and draped in gaudy robes. Growling under his breath, he stares at the bloody mess spread across the floor and wall. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Unblinking, unmoving, the huge man waits for you to approach. A cocked eyebrow gives you permission to speak. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Can I examine the murder scene?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Can I depend on your assistance?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"What are you doing in the Underbelly, Falling Star?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"My business here is none of yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I already have some information for you. A group known as 'The Endless Gate' may be involved."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"I'm looking for someone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>He turns his back on you, staring down at the vast pool of blood.
+
+"This is all that remains of Wheedle, one of my proteges. I had hopes for him. Now, they will never be realized. The Underbelly is poorer without him." The rage beneath his voice cuts each word shorter and shorter.
+
+"Bring me any information you find. Help me discover the identity of his killer, and you will be rewarded."
+
+He exhales sharply, then turns around. The fury you glimpsed in him is buried once more. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Is that so?" His chest rises with a slow, purposeful breath. "That is... worrying." He does not look worried. He looks placid. Unruffled. But his massive fist is clenched and bloodless.
+
+"Qeek is harmless. She should *have* no enemies." He exhales softly, and meets your eyes. "I would like you to continue this line of investigation. Speak with Imbitu and his acolytes. Discover which one of them threatened little Qeek."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Bank 37</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Do you have any ideas about the killer's motive?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Do you have any new insights on the killer's motives?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Bank 40</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I'm looking for someone. Could you help me find them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I'm looking for someone else. Can you help?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Bank 43</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"I have suspicions," he says, a muscle on his cheek twitching. "And I have enemies. It takes no imagination to conclude that this was meant to hurt me."
+
+He shakes his head. "But the killer did not slit Wheedle's throat and leave him for me to find. No. They spilled an ocean of his blood and scrawled nonsense on the walls. If this is a message for me, I cannot interpret it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"If this murder was intended to hurt me, it has succeeded. If it was meant to send a message, it failed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Bank 46</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"I do not. Wheedle was a cornerstone of my plan for this city," he says, his voice tight. "His death pains me and will hurt this city in the years to come."
+
+He shakes his head slowly, tendons leaping in his neck. "But Qeek's death has only robbed the Underbelly of her smile. I cannot imagine why she was a target."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"No. Wheedle's death hurts me, and damages my plans. Qeek's death...." He swallows. "*Angers* me. But there are better targets than her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Should I? Very well. Lend your expertise to the task at hand, Matkina. Find me the killer. I suggest you try your hardest." He smiles tightly and returns his gaze to you.
+
+"What is the Fallen Star doing in the Underbelly? In the company of the White Death, no less?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"She is the deadliest assassin I have ever known. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"You said that Matkina was behaving erratically. What does that mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>""
+
+Sure. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>""
+
+Noncomittal answer. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"You know me better than that," she growls. "Or should."
+
+She jerks a thumb over her shoulder. "I took a look at one of the other... bodies. You're not looking for an assassin, Fulsome. Someone painted a sigil of the Endless Gate on the wall."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>He waits in silence for a response. When it does not come, he nods, as if this was expected. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText> Follow-up T. 58</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Actually, never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Very well. Do you have any other questions for me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText> Follow-up PQ. 66</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"I have some information for you about the murders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"I have more information for you about the murders."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Interesting," he says. "They were a branch of the Dendra O'Hur. I was told they had been crushed long ago." A faint line mars his otherwise placid forehead.
+
+"I would count it a favor if you continued your investigation. Speak with Imbitu, leader of the Dendra O'Hur. Question his acolytes. Tell me what you discover."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>He turns his back on you, staring down at the vast pool of blood.
+
+"This is all that remains of Wheedle, one of my proteges. I had hopes for him. Now, they will never be realized. The Underbelly is poorer without him." The rage beneath his voice cuts each word shorter and shorter.
+
+"And he is only the first. Someone is killing my people. Help me discover their identity, and you will be rewarded."
+
+He exhales sharply, then turns around. The fury you glimpsed in him is buried once more. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Yes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"I've discovered that the Children of the Endless Gate may be involved in Wheedle's murder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"I spoke to Ghzei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Actually, never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Bank 83</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"I know who the murderer is."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"I'm ready to name the murderer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Bank 86</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Perhaps. Consider the latest targets," he says. "A fisherwoman and a freelance jack. One has done work for me, and one has always been close to my heart. Neither were crucial to my plans."
+
+His sigh is more a growl. "I conclude that the murderer is not specifically targeting my interests. But he or she will suffer nonetheless."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Yes. I no longer believe the murderer is trying to hurt me. They were simply lucky." His smile is grim and predatory. "That luck will not last."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>""
+A bad egg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Good. Tell me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"The mutant called Gh'zei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"The man named Mallet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"The young woman, Kiyatawa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Imbitu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"I will not lie," he says. "That savage creature was at the top of my list of suspects. My people will speak with her and discover her reasoning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Interesting," he says. "A quiet woman. Somewhat fragile. I have sensed instability in her, but not the... aptitude for violence. I will be interested to learn what my people can extract from her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"That hardly surprises me," he says, nodding. "The man worked for me, but it ended badly. Perhaps the murders were his way of punishing me for stunting his ambitions. Perhaps he simply wished to hurt people. No matter. My people will speak with him and discover his reasoning."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Some time later, the bodyguards race back to Fulsome's side. One of them whispers in his ear, and he nods.
+
+"Gh'zei proved resistant to our questions," he tells you. "But we are satisfied that she is responsible for this carnage. She has been hanged."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"You never said anything about a hanging!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Swift justice. I approve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"What were you doing together?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"All right. Maybe we should talk about someone else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Good," he says. "Do that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"I'll consider the evidence again, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Bank 110</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Imbitu is the murderer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"I'm telling you, it's Imbitu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Bank 113</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Impossible," Fulsome says, frowning. "He was with me when the first murder occurred. Imbitu is beyond suspicion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"And I'm telling you that's impossible," he says, his perpetual frown deepening. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"He purchased something of great value," Fulsome says blandly. "And as he is a regular customer, I wanted to be sure of his satisfaction. That is all you need to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Would such a vague explanation convince *you* to ignore a murder suspect?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"No," he says, and though he does not smile, the muscles generally responsible for the action twitch. "Very well. I will put your mind at ease at the cost of your discretion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Would such a vague explanation convince *you* to ignore a murder suspect?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"No. You do not because he is not a suspect. This matter is closed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"I need more information than that!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"No," he says, and though he does not smile, the muscles generally responsible for the action twitch. "Very well. I will put your mind at ease at the cost of your discretion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"No," he says, raising his chin. "But we have different burdens. When my secrets are spilled, people die. You will have to accept that he is innocent of this crime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"No," he says, smiling faintly. "Very well. I will put your mind at ease at the cost of your discretion."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"No, but we have different burdens. When my secrets are spilled, people die," he says, eyeing you pointedly. "You will have to accept that he is innocent of this crime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"An Aeon Priest died that night. Imbitu was concerned that her knowledge would be lost and asked me to procure her body so that he could pay homage to her." Fulsome pauses, meeting your eyes. "In the manner that the Dendra O'Hur do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"As such, he was... occupied during the first murder. He cannot be a suspect."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"I am glad to hear that," he says, inclining his head to you. "Not many understand that justice does not come to the Underbelly of its own accord. The only order here is the kind we provide with coins, fists... and the noose."
+
+He falls silent and beckons to one of his bodyguards. She hastens forward with your reward as Fulsome turns away to survey his realm. 
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"No," he says. "I did not, because it was none of your concern. The Underbelly does not live in the light. It is not subject to the laws of the mighty."
+
+He bends down, bringing his face to yours, muscle standing out against his broad neck. "This is not your home, godling. In hours or even minutes, you will leave, and we will remain. Do not presume to judge us for what we must do to survive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"I *do* judge you. This is not justice! It's savagery!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"There should have at least been a trial!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"I... understand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"And there was," he says, a hint of humor kindling deep in his eyes as he straightens to his full height. "Just not of a kind you would recognize. Or, perhaps, approve of." 
+
+He gestures to one of his bodyguards, and she hastens forward with your reward. Fulsome looks away. 
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"I am relieved," he says, straightening to his full height and gesturing to one of his bodyguards. She hastens forward with your reward. 
+
+Fulsome turns from you, surveying the whole of his underground realm. 
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Farewell, godling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Then I absolve you," he says, eyes narrowing. "And I will not insult your tender morality by offering you a reward for your work." 
+
+He straightens to his full height. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>He pauses, then sighs. "Mallet was long overdue a death. He was bad business - and bad *for* business. But killing him was not worth the price we paid." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>He pauses, then sighs. "No one will miss that creature Gh'zei. My people will feel safer now that she is gone. Still, killing her was not worth the price we paid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Bank 144</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"I'll find Kiyatawa. I promise you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"I told you, I'll find her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Bank 147</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Good," he says. Then, his broad shoulders sag. "But the dead will remain dead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText> Follow-up PQ. 152</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>""
+
+{SCRIPT: This node should only play if the player has accused someone and the murderer hasn't escaped (yet).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText> Follow-up PQ. 155</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Tell me more about Kiyatawa's last victim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Who was Kiyatawa's last victim again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText> Follow-up PQ. 158</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Do you live in the Underbelly?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText> Follow-up T. 161</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText> Follow-up PQ. 164</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText> Follow-up T. 168</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"I do," he says, looking down. "His tribe came here before he was born, fleeing the Endless Battle, and settling into the most undesirable corners of the Underbelly. And yet, they were harassed. Mocked. Preyed upon. Despite my efforts, the years whittled them away, one by one."
+
+He raises his head. "And now that Qeek has been murdered, he is the last of that tribe. He is alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Qeek," he says pointedly, "and young Piquo were from the same tribe. Now that she is dead, he is alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText> Follow-up T. 171</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Yes," he says. "He and little Qeek - the fisherwoman - are from the same tribe. The young man left after I failed to find his father's murderer."
+
+He lowers his head, casting his face in shadow. "If you are speaking with the boy, I am certain Qeek would love to hear if he is well. They were childhood friends."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"They are from the same tribe, and are - were - childhood friends."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Bank 174</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>At first, Fulsome doesn't respond. He merely stares down at you. Through you. 
+
+"I will not have you trample through his blood without cause," he says at last, "So there had better be one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Bank 177</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>""
+
+{GAVIN: Condition: a2301_fulsome_SeeTheCrimeScene=0}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"He's beyond caring about such things. Besides, it may help me find his killer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"I know you are grieving for your protege. All I want is to catch his killer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"The murderer may have left behind evidence. I won't know unless you let me look." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"If you want my help, you'll let me pass."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>He casts a doubtful glance behind him, pauses, then nods. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"I'm just curious, that's all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Bank 187</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"I want to examine the murder scene behind you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"I've changed my mind. I want to examine the murder scene behind you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"The admission fee still applies," he says. "Are you prepared to pay?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Very well," he says. "I will allow this because I cannot abide the thought of letting the murderer escape. I will pursue all avenues, no matter how distasteful. You may see something that my people have missed."
+
+He raises a finger. "But. If you insist on behaving like a *gawking spectator*, then you will pay the admission like one."
+
+He holds out his ringed hand. "Pay me [Global: a2301_BribeFulsome] shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Here are your shins."
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"That's ridiculous. I refuse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Then so do I," he says, with a thin smile. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>You drop the coin into his palm, and it closes with a meaty *snap*. He nods. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Then perhaps I will do without your help," he growls, straightening. The hooded figures beside him straighten as well, their glittering eyes on you. "Is your assistance such a gift? Shall I tell Wheedle's mother that I allowed a stranger to track her son's blood across the Underbelly?" His voice has risen to within a hair of shouting.
+
+"Give me a *reason*, godling. And make it a good one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"I..." he clears his throat. "I understand."
+
+He nods. "My apologies. This is a difficult time." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"I meant no offense. I just want to help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"I'm curious, that's all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Bank 201</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Wheedle was a cornerstone of my plan for this city," he says. "His death pains me and will hurt this city in the years to come."
+
+He shakes his head slowly. "But Qeek's death would have only robbed the Underbelly of her smile. I cannot imagine why she was a target."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Wheedle's death hurts me, and damages my plans. Qeek's death would have saddened me, but that is all. There are better targets than a fisherwoman."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText> Follow-up PQ. 204</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Do you know a mutant boy named Piquo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"How is Piquo related to Crooked Qeek again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText> Follow-up PQ. 207</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Have you heard of a woman named Matkina?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Who knows where Matkina is again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText> Follow-up T. 210</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Not many people deliberately hunt the woman known as the White Death," he says, raising an eyebrow. "I am sure you know your business, however. Speak with Mapper. He may be able to direct you to her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"A man named Mapper. Good luck in your pursuit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Of course. Who are you looking for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Of course. Who?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText> Follow-up T. 218</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Mechela was a merchant possessed of charming curiosity," he says. His face is calm, but his bruised fist trembles. "She would be alive if we had not failed her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"A merchant named Mechela," he says, massaging his bruised fist. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>::nods::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"I see," he says. "We will discuss this in a moment." He smiles tightly and returns his gaze to you.
+
+"What is the Fallen Star doing in the Underbelly? In the company of the White Death, no less?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Certainly," he says, then glances to your side. "But I am surprised your companion hasn't been able to help. He is familiar with a number of people. Including my competitors, it seems." 
+
+He raises an eyebrow. "How have you been, Tybir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Oh well, well," Tybir says, licking his lips. "It's been a long time, Fulsome. About the... uh, deal. I hope you didn't take it personally."
+
+{TYBIR}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Tybir does not answer. Fulsome nods, as if he expected this. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"You would have known if I had," Fulsome says, and turns back to you. "At any rate. Who are you looking for?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Bank 228</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Not quite." He smiles like he's paying for it by the millimeter. "I rarely sleep, so I need no bed of my own. But I have spent most of my life in these tunnels and grottos. It is a good place. Cruel and unforgiving, but good."
+
+His slow gaze sweeps over the Underbelly. "Sagus foolishly sends its undesirables here, as if it is worthless. But the Underbelly is a place of hidden treasures, wise machines, and kind mutants. If I had a home here, I would not regret it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Unblinking, he regards you, his face a stoic mask. An iron wall. Finally, he nods. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"He is," Fulsome says. The ghost of a smile touches his lips. "He was also practical. Considered the benefit before the cost."
+
+He nods. "Conduct your investigation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Let him pass when he is ready," he tells the hooded figures at his side. They incline their heads. </DefaultText>
+      <FemaleText>"Let her pass when she is ready," he tells the hooded figures at his side. They incline their heads. </FemaleText>
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Bank 234</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Return when you are certain of the murderer's identity. Justice will follow swiftly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Actually, never mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Four murders," he says, shaking his head slowly. "Four people killed by a Dendra O'Hur cultist, without reason or benefit." 
+
+He does not appear to be talking to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"How do you know who I am?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"What are your people searching for? Maybe I can help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"You owe Matkina an apology."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"An odd question," he says, frowning. "You fell from the sky like a comet and somehow survived. Now you're traveling with one of the deadliest assassins I've ever known. My people have been watching you since you set foot on the reef."
+
+He cocks his head. "I have answered your question, so answer mine. What are you doing here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"No need," he says, looking at Matkina. "You already brought her to me. Now, answer my question. Why have you come here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"That may be true," Fulsome allows. "Or my people may discover that she is responsible after all and an apology will be unnecessary. Let us discover which is the case before I waste my breath."
+
+A muscle twitches in his neck. "I have done you the courtesy of overlooking your rudeness. Now, tell me why you have come to the Underbelly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>He turns his back on you, staring down at the vast pool of blood. 
+
+"This is all that remains of Wheedle, one of my proteges. I had hopes for him. Now, they will never be realized. The Underbelly is poorer without him." The rage beneath his voice cuts each word shorter and shorter. 
+
+"Bring me any information you find. Help me discover the identiy of my boy's killer, and you will be rewarded."
+
+He exhales sharply, then turns around. The fury you glimpsed in him is buried once more. 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"You can count on me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"I'm not promising anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"I hope so," he says. "Trustworthy allies are in short supply."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"A wise choice," he says, nodding. "Only fools promise results."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>She hisses quietly, like someone watching a disaster from a distance. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"The people of the Underbelly struggle," he says, after a long pause. "They live and die in the dark. Their sorrows do not reach the ears of those who live in the light."
+
+His dark eyes move between you and Matkina. "And so, I am their voice. I speak for them before the mighty, protect them from the predators that see them as easy prey and..." he pauses, pressing his lips together, "I avenge them when I fail."
+
+He folds his arms. "Now, answer my question. Why are you here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Do I need a reason to visit the Underbelly?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"My business here is none of yours."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"I disagree," Fulsome says mildly. "You are in my territory, godling. But never mind. Carry on with your 'business'. If you anger me, you will know."
+
+He surveys the air above your head. "In the meantime: I am seeking a murderer. Your help would be appreciated." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Are you?" he says. "I know everyone in the Underbelly. Perhaps we can help each other."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"The people of the Underbelly struggle," he says, after a long pause. "They live and die in the dark. Their sorrows do not reach the ears of those who live in the light."
+
+The reflection of your face is a pale circle in his dark eyes. "And so, I speak for them before the mighty, protect them from the predators that see them as easy prey and..." he pauses, pressing his lips together. "I avenge them when I fail." 
+
+He folds his arms. "Now, answer my question. Why are you here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"How do you know who I am?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"An odd question," he says, frowning. "You fell from the sky like a comet and somehow survived. My people have been watching you since you set foot on the beach."
+
+He cocks his head. "Now that I have answered your question, answer mine. What are you doing down here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"I disagree," Fulsome says mildly. "You are in my territory, godling. But carry on with your 'business'. If you anger me, you will know."
+
+He surveys the air above your head. "In the meantime, I am seeking a murderer. Your help would be appreciated." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Are you? I know everyone in the Underbelly, and I am seeking someone as well. Perhaps we can help each other."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"You can count on me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"I hope so," he says. "Trustworthy allies are in short supply."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"I'm not promising anything."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"A wise choice," he says, nodding. "Only fools promise results."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"I already have information for you. Crooked Qeek said the murderer was wearing Dendra O'Hur robes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Is. That. All," he says, taking a deep breath. His hooded bodyguards exchange uneasy glances. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Interesting. Imbitu told me the group had been crushed long ago. I would count it a favor if you continued your investigation. Speak with Imbitu and his acolytes. Tell me if you believe one of them is responsible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Do you?" he says, a gleam in his eyes. "Tell me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>He signals to his bodyguards. They slip from his side and flit toward the Dendra O'Hur chapel at a flat run.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>Bank 278</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>Disgust flashes across his stern face, almost too quickly to be seen. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"I am glad to hear it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>Bank 281</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>Some time later, the bodyguards race back to Fulsome's side. One of them whispers in his ear, and he nods.
+
+"Mallet proved resistant to our questions," he tells you. "He declared his innocence with some passion. But we are satisfied that he is responsible for this carnage. He has been hanged."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>Some time later, the bodyguards race back to Fulsome's side. One of them whispers in his ear, and he nods.
+
+"Kiyatawa was already gone," he says. "She must have suspected you were close to proving her guilt. At least she has fled, and I doubt she'll return." He growls deep in his throat. "If you ever see her again, feel *free* to do the same thing to her that she did to my people."
+
+He gestures to one of his bodyguards, and she hastens forward with your reward. Fulsome looks away. 
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>Bank 285</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Who are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Who are you again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>Bank 288</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"The people of the Underbelly struggle," he says, after a long pause. "They live and die in the dark. Their sorrows do not reach the ears of those who live in the light."
+
+His dark eyes move between you and Matkina. "And so, I am their voice. I speak for them before the mighty, protect them from the predators that see them as easy prey and..." he pauses, pressing his lips together. "I avenge them when I fail."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"I am the Underbelly's protector." He exhales. "And sometimes, I fail."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"What happened here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"A woman named Kiyatawa - a Dendra O'Hur cultist - killed four people and fled before I could catch her."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>protégés</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>He beckons at you, a hard, sharp motion, his jaw set, his teeth partly bared. 
+
+"The murderer tried to attack someone else in your absence," he says. "The woman known as 'Crooked Qeek'."
+
+He takes a deep breath. "Speak with her. Any scrap of evidence may be useful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>""
+
+{GAVIN: Needs text for Stage 4. See comments.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"I am surprised to see you again," he says, though his stony face displays no such thing. "Do we have other business to discuss?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>Some time later, the bodyguards race back to Fulsome's side. One of them whispers in his ear, and he nods.
+
+"The murderer has been hanged."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>The fat man's gaze shifts to Matkina, and his expression hardens further.
+
+"Matkina. You will tell me if you know anything about this murder," he says, gesturing at the bloody floor with a ringed hand. "And if you are responsible, you will reveal the name of your employer. Now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"You know me better than that," she growls. "Or should."
+
+She jerks a thumb over her shoulder. "I took a look at one of the other murders. You're not looking for an assassin, Fulsome. Someone painted a sigil of the Endless Gate on the wall."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"You know me better than that," she growls. "Or should."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>He waits in silence for a response. When it does not come, he nods, as if this was expected. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"Should I? Very well. Lend your expertise to the task at hand, Matkina. Find me the killer. I suggest you try your hardest." He smiles tightly and returns his gaze to you, waiting for you to speak.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"I see," he says. "I would recommend that the two of you continue your investigation by speaking with Imbitu, leader of the Dendra O'Hur, if you haven't already. I am curious how a long-extinct splinter group of his cult is suddenly active in my territory once more."
+
+He smiles tightly and returns his gaze to you, waiting for you to speak.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"Yes," the big man says. "The name was a gift - and somewhat of a witticism - from my departed mentor many years ago. Before long, the name was the only one I was known by."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"'Fulsome' seems like a strange name for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"You mentioned that the Children of the Endless Gate may be involved," he says, turning to Matkina. "I would count it a favor if you continued your investigation. Speak with Imbitu, leader of the Dendra O'Hur. I am curious how a long-extinct splinter group of his cult is suddenly active in my territory once more."
+
+A faint line mars his otherwise placid forehead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"No," he says. "But perhaps I can give you one."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"I don't have enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>He snaps his hand back. "Then we have little to talk about."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"A few of my boys stumbled onto the scene while she was drawing another one of those bloody circles. She ran, and they went after her." He glares at the hooded man, whose eyes are firmly fixed on the ground. "The bitch was too quick for them. Some friends of mine saw her fleeing the city. I doubt she'll be back." 
+
+He waves a hand in dismissal. "If you ever see her again, feel *free* to do the same thing to her that she did to my people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Imbitu says he was with you when the first murder occurred. Is this true?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"Yes," Fulsome says. He does not elaborate. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"I've already met Mapper. I'll find out where Matkina is hiding."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"I will observe your investigation with great interest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

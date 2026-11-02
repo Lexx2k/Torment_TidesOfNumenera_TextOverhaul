@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2211_feriok</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>142</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The bartender is a tall, powerfully-built man with nut-brown skin and a bushy beard. He radiates strength and confidence. He moves with speed when necessary and remains almost motionless the rest of the time, like a predator waiting to leap.
+
+Yet even when he prepares a drink, he doesn't touch a thing. His brow furrows slightly, and the bottles and glasses lift by themselves. 
+
+When he sees you, he smiles broadly. "Welcome to the Fifth Eye, friend. I'm Feriok."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"How can I serve you today?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Dhama said you're blind. What does that mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>He laughs. "I used to be the spotter for this gang. Means I could sense the presence of the Adversaries, build an attractive playground for them, and draw them after me. The last one I faced, though..." His face falls, and he draws into himself. "It burned me out. It put out my eyes. It burned me out. It put out my - "
+
+And then he is back to normal, smiling as if nothing had happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The bartender flickers under your gaze, and his voice is Ziobe's. "You know the truth now. But this is not Feriok. Feriok is as we remember him."
+
+The flickering stops, and the hearty laughter of the bearded glaive fills the room.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>She says nothing, but you hear her breath catch, and a few tears run down her face.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"I'd like a drink."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"For you it's free, and it always will be. What's your desire?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"You're in for a treat, friend, a real treat. Assuming you call the possibility of a toxic reaction a treat, of course." He points at the various pipes on the wall. "We've positively identified some of these as safe. Smaller subset here as inebriants or hallucinogens. We've got a few that are... well, chancy. As in, sometimes they kill people."
+
+"Cost for a safe drink is [Global: a2211_FifthEye_SafeDrink] shins. Experimental ones? Those are [Global: a2211_FifthEye_WeirdDrink]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Can you tell me about this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Can you tell me about this place again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"What kinds of drinks do you have here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Can you tell me about the drinks you have here again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Let me have one of the safe ones."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Actually, let me ask about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Safe drinks are [Global: a2211_FifthEye_SafeDrink] shins. [Global: a2211_FifthEye_WeirdDrink] for experimental ones. What can I get you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Whatever you want."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>This is a fruity concoction, not unpleasant, and it makes your voice run up and down multiple octaves when you try to speak.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>It tastes like licking a greasy metal pole that strangers have held all day. The sounds around you become muffled for a few moments.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>If you ever wondered what someone else's sneeze tasted like, you don't anymore. The texture and consistency, the flavor... you decide to stop describing it to yourself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>It smells like boot leather fresh from a busy metal street, but the taste is indescribably sweet. For a moment, your eyes cross involuntarily, and when you cough, a purple bubble floats to the ceiling.
+
+"Yeah. I saw it," he says.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>This dark and foaming beverage has no flavor you can name. If you could name the sound of the night, with insects softly humming their mating songs, nighthawks cruising the low thermals, and laughter from a nearby house in the woods, it would be this taste.
+
+It fills you with nostalgia for no reason you can name.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>For a moment, you are stepping across a frozen river on the taiga, your eight long and spindly legs delicately feeling for purchase. Your mechanical joints shiver and lock in place, and you feel the ice crack.
+
+You open your eyes. You are in the Fifth Eye.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Tightness clutches your chest. You think of the duties you have, your obligations to yourself and others, the fears that add up and drag you down into darkness, and tears spring unbidden to your eyes. 
+
+But no. The drink's secondary effect kicks in, a moment of crystalline truth: You are free. Your life is your own. It is an ordinary epiphany, the knowledge that *you* choose, *you* decide, *you* exist.
+
+The clarity vanishes. The aftertaste is like berries. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"That'll be [Global: a2211_FifthEye_SafeDrinks] shins, then."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>(Pay) "Give me one of the safe ones."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Let me ask about the drinks again instead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ask away!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"We've got this strange black ichor, thick enough that it's almost chewy. There's a pink sludge that's a known entheogen, but its strength varies and sometimes kills people. We have one that smells like eltaban fruit, and we sometimes use that one to get rid of stubborn grease stains. It's acidic, but... well, maybe it's an acquired taste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"We've got the black ichor, the pink sludge, and the fruity grease-cutter. Cost is [Global: a2211_FifthEye_WeirdDrink] shins. What'll it be?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Let's talk about the chancy drinks."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Let's talk about the chancy drinks again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Let's talk about the black ichor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Let's talk about the pink sludge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Let's talk about the grease-cutter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"That's a lot pricier than the other drinks, friend, and I make no guarantees for your safety. It'll cost you [Global: a2211_FifthEye_WeirdDrinks]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Pay.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"What do the safe drinks cost again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Let me ask a question about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Forget it. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"So long."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Ask away."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>He smiles. "My favorite topic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Ziobe challenged me to find the person who's a psychic projection. Are you the one?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Let's talk about Ziobe's psychic projection again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Ziobe challenged me to find the person who's a psychic projection. Are you the one?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"That's all for now. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Come back soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Again? ... well, I suppose."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Dhama hinted that I should touch you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Theboros said I should know about people's stories."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Leto said that you were an empath, not a telekinetic."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Ziobe said I should focus on physicality."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Let me ask a few other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"And what stories do you want to question? I was the group's spotter - an empath - until the Adversary burned out that skill. That's basically all you need to know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>He seems to consider for a moment. "Fine. Touch away." 
+
+His flesh is as hard and unyielding as synthsteel. "Clean living," he mutters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Did she, now." He looks over at her and frowns. She shrugs. "What if I developed telekinesis after the Adversary stole my empathic ability?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"She did? How's this, then?" He concentrates momentarily, and bottles and glasses circulate in a convoluted pattern around his head. They settle back into place after a moment. "How's *that* for physicality?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>He laughs. "Now why would I come right out and tell you? If Ziobe's playing a game, why should I spoil her fun? Come on, puzzle it out. But let me offer a clue - *know* your subjects. I guess that's the kind of thing an empath would say, eh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Ask away!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"The Fifth Eye is a bar for psychics. At least, it is now. In the prior worlds, near as we can tell, it was an old pumping station. All these pipes lead down to some reservoirs deep beneath the city, and they pump whatever is in the reservoirs up here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Oh, you know. Old pumping station that seems to be psychically shielded, strange drinks that we're mixing out of volatile, ancient compounds, occasional safety hazards, and of course a clientele that's more than half-cracked." He grins. "Does that cover it well enough?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>He laughs. "Anyway, some damn fool started drinking from the pipes, and some other fools started in too. Some of 'em died, but some got drunk as hell. After a few whiles - vague enough for you? - they got pretty good at figuring out which were safe and which weren't. And that's when they figured they'd start making money off the place."
+
+"Reason psychics flock here is because the building dampens out the psychic noise of the city." He grins. "The drinks help too."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>The bartender has stopped moving, completely and utterly. He does not respond when you speak to him, waiting for a moment. When at last he lifts his head to you, his face is blank and shocked. "Dhama was a good man," he whispers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Feriok means to say that he is only involved in the delivery of these drinks, rather than their creation. Given his skills, this is only right and proper."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>He throws a hand across his forehead. "I have been maligned by this desert-dwelling interloper!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>(Pay) "I'd like to try the black ichor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>(Pay) "I'll try the black ichor again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>(Pay) "I'd like to try the pink sludge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>(Pay) "I'll have the pink sludge again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>(Pay) "I'd like to try the grease-cutter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>(Pay) "I'll have the grease-cutter again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>He shudders. "I tasted the stuff once. I don't remember much about the time afterward, but I was raving about holes in reality. Well, here's your drink."
+
+A stronglass bowl floats under a pipe. A spigot turns, and the ichor oozes from it. You smell it from here. The bowl floats back to you, all without Feriok touching it.
+
+"Drink fast, is my advice." He winks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Back for more? If you must, friend. Didn't look like you enjoyed it much the last time..."
+
+Nevertheless, a cup floats over to the spigot, and the goo comes trickling out. The cup floats back to you, and you down its contents.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>You put the word to deed. The taste is not unpleasant, though the texture is horrifying - unbidden, you think of soft flesh rotting under a jungle sun.
+
+Nothing happens.
+
+Then, as you begin to doubt the ichor, the earth shifts. The walls shake, their surfaces seeming to melt. The weight of ceiling and sky presses you toward the floor. Only a great effort of will keeps you standing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>The effects you felt from the first time - light-headedness, blurred vision, an inability to speak - press in on you again, but nothing new reveals itself in your surroundings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>He raises an eyebrow, and a heavy glass veers over to the tap. The tap opens, filling the glass with an effervescent pink slop, and the glass drifts over to you. Feriok dusts off his hands theatrically, though they never touched your glass. He grins.
+
+"Drink carefully. Don't overdo - "
+
+... but you have already quaffed it. It is thick and flavorless, but its effects are fast-acting. Your muscles seize. Including your heart. Death snatches you so abruptly that you hardly notice the transition.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"You mean the stuff that killed you last time? I suppose you got back up again, but still, I feel bad about serving it to you. But it's your life, your death."
+
+The tap turns, although he does not touch it, and the cup floats to you. You quaff it, and again you fall twitching to the ground...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>He stutters for a moment, his entire body jerking in and out of reality for a moment. "You're alive? I mean... of course! You're alive! Welcome back. What can I do for you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>He wrinkles his nose. "Really? On your own head, I suppose."
+
+He concentrates, and a bottle floats over to the tap. The fluid spills into the bottle, and you hear it hiss. The bottle floats to you, and you see the liquid inside is thin and oily.
+
+It smells like tulk, the infectious runoff from a pairing between flesh and machine. It smells like a trash-eating laak gorged itself on rotten fruit and lost control of its bowels.
+
+You hold your nose and down it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Not keen on smelling that again, nor is Leto, I'd imagine." She shakes her head, already covering her nose. "But you're the customer..."
+
+The greasy fluid goes down harder than before, but the effect is much less dramatic. This time, you just feel nauseous, and you vomit the slop back up almost immediately.
+
+The floor beneath your puke is noticeably shinier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Rents begin to appear in the flat surfaces of the bar, in the walls. Scabrous tissue rims their edges, and a deathly chorus pipes through in a register almost too high to hear. 
+
+The world tilts on its axis, and you stagger to the right. Your vision blurs, and the invisible world swims into view, becoming more solid than the world you call home.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Say what you will about the smell, the drink packs a powerful wallop. You lose control of your motor functions, and stagger briefly. Colors flash across your eyes, and for a moment, everything becomes unbearably funny... just before a wave of utter sadness wipes all thoughts of laughter from your mind. On its heels come rage, lust, all the emotions of the human condition, condensed into a perfect, jewel-like moment.
+
+Then it shatters. You are lying on the floor in a pool of your vomit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>He nods and closes his eyes. "Coming right up," he murmurs. Glasses and cups float through the air without his touch, moving with precision to the spigots on the walls.
+
+One settles before you. You drink it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"One moment."
+
+The glass settles in front of you, and you pick it up to taste it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Clarion needs your help. She's looking for warriors to fight in the Endless Battle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Ha. No. No way. This bar is my life. and I've done my time. I've got no interest in fighting for people I don't know, for a cause I don't believe in. You go right ahead, but count me out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>He pauses, lost in thought - or communion. "You know what? Maybe you could convince Clarion to take her recruiter act somewhere else. If you want to, I mean. But really, what she's doing - and what she's thinking - is pretty offensive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"I'll come back and try one of those when I have more shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Feriok nods. "They'll be here if you do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Script Node 134</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Feriok's mind is a careful blank. You can't read anything from him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"You said this is a bar for psychics. What does that mean?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Can we talk about psychic powers again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Means this is a place where psychics can unwind. Get away from the city. Get away from the noise. You know what it's like to be psychic? Let me paint a picture. Imagine every time you're going to sleep, someone comes and starts screaming in your ear. Or objects in the room start whispering about how they want to *burn*. Or they might tell you their secret names and how to make them float and dance at your command."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Haven't got much more to say. Talk to the others here - they'll fill your head with stories and pictures."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Or maybe every person you meet is like a house with all its doors and windows thrown open, and you can't help but look in to plunder their secrets. And underneath it all you hear their silent judgments, the truths they hide even from themselves." 
+
+He pauses to concentrate on a floating cloth as it wipes a mug clean, Then the mug places itself on a rack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Folks think that it's a blessing to have these powers. And sometimes it really is. Especially when you can join your friends to make something great. But..." He shrugs.
+
+"It can be hard. Hateful. And you can never tell when you're going over the edge of insanity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Script Node 144</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>The effects you felt the first time return, but familiarity doesn't make the sensation any less bizarre. Your vision swims, or perhaps something swims through it... certainty escapes your grasp. Once again, the world around you is suddenly a more... interesting place. It is certainly more malleable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Never thought we'd see the end of that Clarion. I appreciate it. More to the point... we all do. The noise she was putting off was... it was fouling the psychic space in here. So thanks, friend." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Always thought my friends felt the same. I'd have bet that none of them would go back to war, but you and Clarion have already proved me wrong." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>He is standing motionless. You cannot break his stare, no matter how you try.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Script Node 153</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"I'm glad that Malaise is gone. One less poison in the world. Thanks for your help, by the way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>He sighs, looking wistfully at the door. "I hope the Endless Battle proves an easier fight than the Adversary. I don't know if I can handle losing any more friends, you know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

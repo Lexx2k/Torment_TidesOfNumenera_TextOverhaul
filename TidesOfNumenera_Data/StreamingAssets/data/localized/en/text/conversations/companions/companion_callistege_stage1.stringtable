@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_callistege_stage1</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>47</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Yes, child?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Her lips pucker like she's tasting something foul. "He's useful," she finally says. "At least he was, once. If that pompous laak-nibber - forgive my language, dear - finds *one* more fault with me, I expect my sisters will murder him in several realities."
+
+She tilts her head. "Hm. There goes one now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"What's your story?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"I don't want your help anymore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Let's keep going, all right?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>She laughs. "Now is not the time, dear, nor is the Reef a safe place for lengthy disquisition. Rest assured, when we reach the cliffs there will be plenty of time to swap tales."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Watch your steps, child. This is not a place to walk lightly. There are dangers in the Reef, both old and new."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>[Why is the Reef dangerous?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>[She laughs. "Aligern will tell you *I* do, but he's full of it."]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Of course, dear. But right now you *need* it. When we reach Sagus proper, I'll be happy to leave you to your fate. Well, *tolerant* anyway."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"A caviler of the highest order. I tired of his incessant whinging long ago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"What do you think of Aligern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"What do you think of Aligern again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Why is the resonance chamber here in the Reef?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"An astute question, my dear! The most likely answer is that your sire discovered something he could repurpose for his own designs. If you can seal a dome as well as he did, the Reef is as good a place as any for experimentation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"What kind of dangers are there in the Reef?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"What kind of dangers are in the Reef again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Myriad. We walk among the numenera - detritus of fallen worlds and antediluvian wars. Not everything in the Reef knows that its wars ended long ago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"The numenera are wondrous and deadly in equal measure. Although," her laugh chimes in the air, "Aligern will doubtless tell you *I* am the most deadly of all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Yet the true dangers are contemporary. The Reef holds the promise of treasure for the determined, but not always for the scrupulous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"What's the Reef of Fallen Worlds?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"It's what lies outside this dome, an artificial reef, made from the debris of the past."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Who are all these... echoes of you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Can you tell me about your echoes again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Of course, dear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"They are me! We are a part of each other, sisters across infinite realities. We share our experiences... and power. What's that old saying? That experience brings wisdom? I must be the wisest person in Sagus Cliffs... the wisest across countless worlds!" Her laughter peals out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"They're a part of me, my dear, and I a part of them. We share a mind that crosses infinite realities, learning from each other constantly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"What were you doing in the crystal dome?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"The dome had been sealed for years. Aligern and I happened to be nearby, hunting for a way in, when you fell and opened it so neatly for us. I would call it a lucky coincidence, but perhaps this is merely the world in which that is true. In some other reality, you fell elsewhere.... or did not fall at all." She smiles. "The truth is fungible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Why were you traveling with him in the first place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"I had some other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Thank you. Let's keep going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Ask. I delight in sharing my knowledge... when it is appropriate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>She sighs, the sound echoing like the hissing of a balloon. "He was not always so sour. He was a man of science, an Aeon Priest who reveled in knowledge. But his pain has infected him, and he sees the world through that cast. It would be tragic, but..." Her echoes all seem as exasperated as she, and she continues. "But he is the same in every existence in which I know him. It has become incredibly tiresome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"We should not tarry in this chamber long. No doubt others saw your dramatic entrance as well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"While I was... dead, I met a specter inside my head. *He* told me to use the chamber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Do you know anything about the Sorrow?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"What do you think we should do next?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"If you want to fix that chamber, then we need to get out of the Reef. *That* is our top priority."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"About sorrow or *the* Sorrow, dear?" She emits a small chuckle. "Never mind. I know little of either."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Is that so? I admit I'm intrigued. Very likely you were hallucinating, of course, but what a *fascinating* vision!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"You'll have to give me some time, child. Perhaps we can speak when we reach the city."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

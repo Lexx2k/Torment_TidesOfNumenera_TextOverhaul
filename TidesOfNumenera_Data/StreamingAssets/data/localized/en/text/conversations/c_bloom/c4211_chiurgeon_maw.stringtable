@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4211_chiurgeon_maw</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>113</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This is clearly another Maw... though it appears to be older than others of its kind. The whispering voices of the Bloom chitter in your ears, and all other sounds fade into the distance.
+
+{SOUND: "Voices" of the Bloom should be audible during this dialogue.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Cut open the Maw with the Transdimensional Scalpel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>You drive the Scalpel into the Maw's knotted flesh, and it yields like quivering blubber. Encouraged, you begin slashing through flesh and gristle. The Bloom emits a hissing, seething roar, and a wave of almost palpable hatred passes over you. The ground shakes...  
+
+{SOUND: Play infuriated Bloom voices "screaming" in pain, along with a rumble sound effect.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Offer yourself to the Bloom-tongues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Even before you step into the tongues' embrace, they are reaching toward you like the arms of a lover, eager to receive you. In the next moment, they're all around you, stroking your arms and your head, passing *through* your flesh and igniting a prickly, hot-cold sensation across your skull. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You edge forward, making no effort to slap away the tendrils. One of them drifts toward you, brushing against your arm... and passing *through* your flesh with a prickly, hot-cold sensation. Disinterested, the tendril drifts away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Leave the Maw alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>...and the Maw opens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>In a darkened corner of the Slump, surrounded by waving tendrils, is a knotted mass of Bloom-flesh. The flesh looks thick and old, and you can detect a jagged seam running across its surface, with faint light glinting from within. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The Maw remains tightly shut. As you approach, the 'voices' of the Bloom begin to chitter and hiss in your ears.
+
+{SOUND: "Voices" of the Bloom should be audible during this dialogue.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>As you approach, all the sounds of the Slump seem to fade. The chatter of the locals and the rough laughter of the soldiers recede into the distance, replaced by the hissing, chittering voices of the Bloom.  
+
+{SOUND: "Voices" of the Bloom should be audible during this dialogue.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Anamnesis] You realize suddenly that this is a Maw, and the waving tendrils are its tongues. Somehow, you're certain that you've confronted this Maw before. A moment later, you correct yourself. *You* haven't confronted this Maw before, but the Changing God has... and in a different body. The memory glimmers, half-formed, at the edge of your consciousness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Matkina lays a hand on your shoulder. "A Maw," she whispers, as if she didn't want to draw its attention. Her voice is wary, respectful. "Those waving tendrils - they're its tongues. If it likes the smell of you, it'll take a bite." Her mouth quirks a little. "Probably best for our ilk to steer clear."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Satsada's voice emerges from Riastrad's mouth. "Be wary, and do not stand too close. We stand before a Maw, a living doorway to another place. Those tendrils are its organs of perception - its tongues, if you prefer. It will only open if it feeds, and we don't yet know what it wants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You realize suddenly that this is a Maw. You're not sure *how* you know, but the word leaps into your mind as if you've seen this thing before. The waving tendrils, you know with equal certainty, are its tongues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Try to recover the Changing God's memory of this Maw.
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>You concentrate upon the memory, and it begins to emerge...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The Changing God stands in front of the Chiurgeon Slump Maw... and you realize now that it is uncommonly old. He wears the body of a tall and powerful man - a glaive. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>From a leather case at his side, he draws a crystalline object, clasping it tightly in his hand. Its name leaps into your mind - the Magmatic Annulet! This is the artifact that you seek, and it was once possessed by your sire. 
+
+You take careful note of the artifact so that you can describe and recognize it, if need be.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Suddenly the whispering voices of the Bloom are changed, as if the Annulet is a prism through which they can be understood. It's still impossible to translate the chitterings into words, but *impressions* begin to fill the Changing God's mind - *hunger* and *expectation* and most of all *welcome*. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Your sire reaches forward a hand, and the Maw opens at his touch, compelled by a bond he has forged in the depths of the Bloom. He steps through the portal and is gone. The memory fades... 
+
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>You attempt to focus your mind on the memory, but it eludes you. Closing your eyes, you concentrate, trying to fixate on some small detail that might call the whole memory into being...
+
+...but no. The memory is gone. Still, *something* is there...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>For the briefest of moments, you touch a massive trove of memories hidden deep within your mind. A torrent of images flash before your eyes, too fast to fully perceive or understand... but you're sure that they belong to the Changing God. The Bloom-tongues quiver and twitch, orienting themselves toward you as if they sense the memories too.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>The voices of the Bloom grow a little softer, more accepting of your presence. The sense of recognition that you felt when you first entered the Bloom is stronger now. Somehow, the Bloom must have known the Changing God... and now it senses him more clearly in you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>The fleshy tendrils wave lazily about, tracing random patterns in the air. They don't appear interested in you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Observe the behavior of the Bloom-tongues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>The fleshy tendrils stretch themselves in your direction as if desperate to touch you, but you're standing just outside their reach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Listen carefully to the Bloom's voices.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Don't!" hisses Matkina as she realizes your intent. But it's too late...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>You glance back at Matkina, and she scowls. "You got lucky. It doesn't always turn out like that, not for everyone. The next Maw might be different... not that you're going to listen to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Memories begin to rise into your consciousness, but they're not *your* memories - they belong to Artaglio...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>You see yourself leaping from the top of a gleaming metal cliff into a clear blue sea, while a sound like wailing voices echoes in your ears...
+
+You charge down a tunnel, screaming like a madman and brandishing a broken sword, slashing at slimy heads that emerge from all around you, and in spite of the danger you're *happy* because you've got thirty shouting friends at your back, and you've never felt so *alive*...
+
+You cling to the back of a winged creature behind its laughing female rider, and as she looks back at you, you're not sure if she's about to cut the cord that keeps you from falling off...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Remain amongst the tongues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Try to pull away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>A wild grin spreads across your face. The part of you that is Artaglio is *enjoying* these memories. Like everything else you've faced in your life, the tongues are nothing to fear. Why had you been so afraid?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>The part of you that is Artaglio is *enjoying* the rush of memories, and you cannot pull away... no, you don't *want* to pull away. You'd forgotten so many of these things. How had you *forgotten* these things...?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>You're standing at attention in a dismal place, pounded into a dead gray muck by countless detonations and trooping feet. It stretches as far as your eyes can see. Your comrades are covered in the same gray muck. The *life* has gone out of them, and you know that *you* brought them to this, for nothing more than the promise of shins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>The Bloom-tongues tighten their grip on your skull, becoming more solid, cracking your bones and tearing through the flesh of your scalp. More tendrils burst from the floor and grab hold of your legs. The part of you that is Artaglio begins to scream, and the sound comes out of your own mouth. All around you, the voices of the Bloom grow louder, closer, burning in your ears, drowning out your thoughts...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>...and you fall into darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>As you wake, you realize that the part of you that was Artaglio is gone... torn from your mind and devoured by the Bloom. Apparently, the Bloom also managed to kill you in the process.
+
+But the Maw has fed... and now it is open.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>The Bloom-tongues hardly notice your presence. None of them even brush past you - they seem entirely disinterested.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText> Follow-up PQ. 61</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Offer yourself to the Bloom-tongues again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>You step into reach of the Bloom-tongues... but they hardly seem to notice you at all. Indeed, not one of them makes the slightest twitch in your direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>The hissings and chitterings of the Bloom are no different than usual, as far as you can tell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>You can't detect any patterns or meanings in the sounds - they seem entirely random.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Bank 68</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Your sharp senses provide no particular advantage in hearing the odd sounds. You realize that the Bloom's 'voices' are a psychic phenomenon, not a physical one. They are literally voices in your head. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>The hissings and chitterings of the Bloom seem almost gentle and inviting when you are close to the Maw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>You don't detect any patterns or meanings in the sounds, but you can't escape the feeling that the Bloom somehow *approves* of your presence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>The hissings and chitterings of the Bloom are harsher and discordant as you draw close to the Maw, interspersed with dissonant tones that are almost painful to hear. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>You can't discern any meaning in the sounds... apart from the fact that your very presence seems to enrage the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Bank 74</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Bank 75</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Drinking the 'water' of the Bloom has made your thoughts blurry... but in your unfocused state, the Bloom's hissings and chitterings seem almost comprehensible. They evoke impressions of *hunger* and *craving*, all centered upon the man who stands near the center of the Slump - the mercenary captain, Artaglio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Drinking the 'water' of the Bloom has made your thoughts blurry... but in your unfocused state, the Bloom's hissings and chitterings seem almost comprehensible. They evoke impressions of *hunger* and *craving*, all centered upon the mercenary captain who stands near the center of the Slump.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Your sharp senses provide no particular advantage in hearing the odd sounds. You realize that the Bloom's 'voices' are a psychic phenomenon, not a physical one. They are literally voices in your head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Your sharp senses provide no particular advantage in hearing the odd sounds. You realize that the Bloom's 'voices' are a psychic phenomenon, not a physical one. They are literally voices in your head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Bank 84</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Listen carefully to the Bloom's voices again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>As you brandish the Scalpel, Matkina lays her hand across yours. "Wait. I've never heard of someone who hurt the Bloom casually. Even a castoff has reason to fear. Are you sure about this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Yes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Maybe not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>She opens her mouth to reply, and then removes her hand. She shrugs. "Your show."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>You return the transdimensional blade to its sheath. A tension drains from the air. You realize that the voices of the Bloom had suddenly hushed when you drew the Scalpel, but now they have resumed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"The Bloom encysted that knife for a reason," murmurs Satsada, her voice barely audible through Riastrad's lips. "The Bloom knows its taste, and its rage should it taste that pain again... it will hate you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I'll take the chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"You're right. We'll try something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>A faint hiss of frustration escapes from Riastrad's mouth, but he nods, and Satsada says nothing more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>You slice into the knotted flesh of the Maw, hacking and tearing. It gives way easily, splitting at the touch of your transdimensional blade. The voices of the Bloom screech and hiss, the ground shudders beneath your feet...  
+
+{SOUND: Play infuriated Bloom voices "screaming" in pain, along with a rumble sound effect.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Satsada, can you understand what it wants?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Riastrad speaks, but his voice is Satsada's. "Perhaps. The Memovira could sense a Maw's desire from a distance... but she had bonded with the Bloom. I must draw close to the tongues, close enough to touch them. Are you quite certain this is worth the risk?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Look at the Bloom-tongues. They're not interested in us, so I think that means it's safe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"I don't have to explain my reasons - just do as I ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"I won't force you. If you think it's too dangerous, we'll find another way."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Forget it. Let's try something else instead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Riastrad gives you a quick nod, then turns and takes a step toward the Maw. He reaches out a hand to touch one of the tongues, and he flinches as if burned. You can see him close his eyes and concentrate for what seems like a long while. At last, he opens his eyes and steps back to your side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"It is *hungry*. And for some reason, it only wants a particular man." Riastrad's hand gestures toward the mercenary captain, Artaglio, who stands at the center of the Slump. "I do not know what it will do if it gets him, but... I have seen Maws devour others. He will not enjoy the experience, and we will not revel in its aftermath."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>A flicker of disgust crosses Riastrad's face, but you can't be sure whether the emotion belongs to him or Satsada... or possibly both. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>He takes a step toward the Maw and reaches out a hand. One of the waving tongues moves to touch it, and he flinches as if burned. You can see him close his eyes and concentrate for what seems like a long while. At last, he opens his eyes and steps back to your side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Riastrad appears to consider. "But it is important to you, is it not? It may be worth the risk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Riastrad looks relieved. "I remember what a Maw can do to a person," Satsada says quietly. "No two Maws are ever the same, but all have a commonality: even if they live, the victims are never *whole* again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Bank 116</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Actually Satsada, I *do* want you to find out what the Maw wants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Riastrad turns to you, and Satsada's voice quavers. "Why have you changed your mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Never mind. Forget I asked."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Riastrad nods and again looks relieved.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Bank 122</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Observe the behavior of the Bloom-tongues again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>From a leather case at his side, he draws a crystalline object, clasping it tightly in his hand. Its name leaps into your mind - the Magmatic Annulet! This is the artifact that you seek... and it was once in the hands of your sire, just as Dracogen said.
+
+You take careful note of the artifact so that you can describe and recognize it, if need be.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"I can try," Satsada says. At her word, Riastrad steps toward the Maw, reaching out an unflinching hand to touch the tongues. He remains there for a time, then steps back to your side.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>You get the same impression of *hunger* as before, focused entirely upon Artaglio. There is an underlying intensity to the voices, suggesting that the Maw has been denied its intended prey for some time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>You get the same impression of *hunger* as before, focused entirely upon the mercenary captain near the center of the Slump. There is an underlying intensity to the voices, suggesting that the Maw has been denied its intended prey for some time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Drink Artaglio's Essence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>You uncork the bottle of thin, yellow gruel. The smell that rises is vile beyond description, like rotting meat mixed with acid, rank with fear. But underneath that fear is a bolder, earthier smell, and you focus on that rather than the sharp scent. It makes the draught go down easier, though you still gag as it clings to your throat. The aftertaste is surprisingly not horrible. In fact, it's almost palatable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Actually, the aftertaste is becoming quite pleasant. Bold, spicy, large. Your limbs tremble for a moment as a bout of fear shakes through you, adrenaline shorting your limbic system into a purely instinctive fight-or-flight, but that rush disappears, leaving behind a pleasant glow. Your head clouds, your vision tightens, a pressure building behind your eyes - not a painful pressure, but a feeling like you're about to cry... or laugh harder than you've ever laughed before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>No... it's laughter. You feel laughter welling within you.
+
+You snort as you consider what this means for Artaglio's legacy - deemed by most a coward dressing himself in the face of a brave man, but underneath is a man whose greatest pleasure is in his friends and in doing great deeds for them. You suddenly understand that his fear is not for himself, but the idea that he can't protect his cohort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Artaglio's memories burn themselves into your consciousness, and you're not quite sure where his end and yours begin. You feel his mind and feelings jostling for space in your mind.
+
+The Bloom-tongues, which had been ignoring you until now, suddenly orient themselves in your direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>The Bloom-tongues, which had been ignoring you until now, suddenly orient themselves in your direction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>The whispering voices of the Bloom chitter in your ears, and all other sounds fade into the distance. This is clearly another Maw... though it appears to be older than others of its kind. 
+
+Not only that... this Maw is *familiar*. You've confronted it before...
+
+{SOUND: "Voices" of the Bloom should be audible during this dialogue.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Somehow, you're certain that you've confronted this Maw before. A moment later, you correct yourself. *You* haven't confronted this Maw, but the Changing God has... and in a different body. The memory glimmers, half-formed, at the edge of your consciousness...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>From a leather case at his side, he draws a crystalline object, clasping it tightly in his hand. Its name leaps into your mind - the Magmatic Annulet! This is the artifact that Dracogen had asked you to find. 
+
+You take careful note of the artifact so that you can describe and recognize it, if need be.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>The waving tendrils still don't seem interested in you. Their movements appear random and lethargic.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>The memory arises immediately...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>No matter how much you try to focus, you cannot remember anything about this Maw, and yet...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Your sire reaches forward a hand, and the Maw opens at his touch, compelled by a bond he has forged in the depths of the Bloom. He steps through the portal and is gone. The memory fades... 
+
+{DP}
+
+{SCRIPT: Set a flag for some other TBD knowledge.}
+
+{GEORGE/COLIN: I added this node for Critical Success. I think it'd be cool if the player notices something additional in the Mere that leads to either an extra DP or opens up some other reactivity/secret later on. Like maybe he notices something useful about Riastrad or the maw or even something incidental about some other Chiurgeon character who happens to be visible in the memory.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Bank 143</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Bank 145</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>No, not just a glaive - you know him to be the castoff Riastrad, vanished somewhere in the Bloom.
+
+{GEORGE: We'll need to add a "Has Seen Riastrad" flag, probably in the Where-Secrets-Die Crisis}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>[DEBUG] Test feeding yourself to the Maw after imbibing Artaglio's Essence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>It suddenly occurs to you that you've confronted this Maw before. A moment later, you correct yourself. *You* haven't confronted this Maw, but the Changing God has... and in a different body. The memory glimmers, half-formed, at the edge of your consciousness...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

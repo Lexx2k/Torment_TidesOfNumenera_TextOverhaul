@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4301_gar_koto</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>175</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You stand before a painted, spherical tank, fashioned of metal and synth. The paint is old and cracking. Inside the tank is a murky liquid - or possibly a thickened gas - and every so often you see motion from a fluke, flipper, or strangely deformed arm within.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Speak. This prince of the Fahat would hear your questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Why do you want to open the new Maw?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"We are exiles here, far from our home in Nihliesh. It is - " Sparks fly from the grille. "Pardon. We hope that the Maw will open again in our fair city... but if it doesn't, as seems likely, we stand to profit from a potential new trade route. Either way, we benefit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"What can you tell me about Delny and Vrung?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Young mutants," the prince replies, "though not the best of our kind. Delny possessed a great empathy, a psychic reverberation, while Vrung's powers are more subtle. Delny has changed since her association with Vrung, who has always been dangerous... troublesome, perhaps. As long as they do nothing harmful to our people, I do not act. But I will not hesitate should that situation change."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Where did your people come from?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Our home is the city of Nihliesh in the Steadfast's Beyond. My cousins of the Fahat rule over the three-tier city wisely and well. When a Maw portal opened in Nihliesh, we investigated to see if we might eke out a profit. We saw enough possibility that our explorers sent for me, a minor prince of the Fahat. I was to head this trade embassy." The speaker makes a slightly embarrassed noise. "I did not think that the Maw would close behind us, but ten years ago, it did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Just around the corner, there's a crashed vehicle. How did it get here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ah... the catena. A year ago, the clocks began to act strangely - speeding and slowing, pulsing - and then the air seemed to bulge in places. We thought nothing of it, considering our surroundings, but then space itself tore open and this monstrosity tore through Little Nihliesh. It pulverized the house of Antuggar and Sauyen, erasing their family. Since then, enterprising scavengers have sought wealth in the wreckage, but most avoid the catena - it is haunted by the ghosts of its passengers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Farewell, Gar-koto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Why are you imprisoning Herja?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"She has committed a grievous crime, and she will remain in the prison of her mind until she confesses." The voice is colder than before. "Herja *knows* the nature of her crime. Perhaps she will admit the truth to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"The newborn Maw feeds on guilt. If you want to know if Herja feels any remorse for her crime, let her face the Maw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Yes," the voice murmurs. "This is a perfect trial for our prisoner. She can stand before the Maw, and unless she has completely divorced herself from human feeling, the Bloom will take its due. A fitting punishment. Once she has done this, she is free to go." 
+
+The speaker crackles. "You will find a disk on her forehead. Turn it three times widdershins to release her from her prison. Tell her that if she survives the Maw, she has earned her freedom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"I opened the new Maw, but I found some kind of terminal or port on the other side... not your city of Nihliesh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Gar-koto hisses in disappointment, and its great bulk thrashes in the tank. "Alas, it would appear that we must remain in the Bloom for now. We shall find another route home, eventually."
+
+The murky gases swirl around the prince's corpulent form. "Opening the Maw has served the residents of Little Nihliesh. Name your fee."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"I think [Global: c4301_GarKotoNewbornMawReward] shins should be sufficient."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"A large sum, castoff. But I agree - the work was dangerous and important. A moment, please."
+
+A minute later, one of Gar-koto's mutants steps forward with a haversack filled with shins.
+
+"This should conclude that business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"I would see Herja released from her prison."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Free her? We would sooner see her exiled." The prince's amplified voice betrays its distress. "But very well. We will honor our agreement. The disk on her forehead is her prison. Press it into her flesh, circle it thrice widdershins, and her bars will vanish."
+
+It thrashes in its tank. "We hope for her rehabilitation, castoff. See to it she does not relapse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>A cleverly disguised grille on the front of the tank squawks out the distorted voice of the tank's occupant. It buzzes and moans, drawing out some words and shortening others in a burst of static.
+
+"I am Gar-koto, a prince of the Fahat and their delegate here in Little Nihliesh." The voice spits and pops. "Why did you come to our home, and then side with the intruders against us?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>As you turn, the speaker buzzes once more. "Ah, in case word has not yet reached your ear - I am offering a bounty to the first who can open the newborn Maw... and tell me what lies on the other side."
+
+The voice pauses. "Of course, the first step is to discover what the Maw wishes to eat. Without that knowledge, it cannot be opened."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>A cleverly disguised grille on the front of the tank squawks out the distorted voice of the tank's occupant. It buzzes and moans, drawing out some words and shortening others in a burst of static.
+
+"I am Gar-koto, a prince of the Fahat and their delegate here in Little Nihliesh." The voice spits and pops. "Why did you fail to save the Memovira's soldiers from my people?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"But I have said enough. What would you have from me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"The flux in the Bloom, and thus the Memovira's weakness, is apparent in the instability of the Maws we use for trade and transport. The old Maws are closing, and new ones open to take their place. There is a new Maw here in Little Nihliesh - one I would like to see opened - but the Memovira refuses to aid me. She won't even leave her fortress."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"What crime did Herja commit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"I have heard her speak. I have seen the evidence myself. I have made my judgment. If you would know more, speak to the accused yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Bank 35</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Bank 36</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"What was the proximate cause of the fight between the Memovira's guards and your people?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>The tank's grille spits a shower of sparks. "The Bloom no longer favors the Memovira. The Bloom is the source of the Memovira's power. If she has no power, the obligation to pay for her protection has vanished. We pay for reality, not promises." The distorted voice crackles with an electric sigh. "Perhaps our people have grown tired of the humans' taking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText> Follow-up PQ. 39</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Do you want to take the Memovira's place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText> Follow-up T. 42</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Gar-koto's laughter spills out in a staticky hiss. "I do not desire such responsibility, nor do I seek the attentions of the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Why don't you want to be the Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>The speaker hisses laughter again before the prince says, "The Memovira's rule is short. Preliminary research suggests that the Bloom destroys those who understand it too well. I might suggest that the new Memovira likely has more blood on her hands than I, and I wish no word of my putative ambition to reach her murderous ears."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Bank 47</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Bank 48</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Tell me again about your people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Ask, and I will tell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Why are the Maws changing and closing?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Do you ask for my knowledge or my conjecture? If the first, then I must confess my ignorance. If the second..." Gar-koto pauses, considering, and the grille hisses and sparks when the mutant speaks again. "If the second, I believe the Bloom has a feeding cycle. It is an enormous organism, you know... and I suggest that these events are part of a larger pattern." The mutant's vast bulk shifts in the tank. "Perhaps the Bloom is preparing itself for a new Memovira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"I wanted to see how your people fought. I appreciate a good fight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"The Memovira's enforcers clearly thought they were better than your mutants. I thought it right to see the truth of the matter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>The grille spits and crackles. "No doubt exists of the truth of the relative strength of the Memovira's enforcers and my people. Yet the bloodshed may draw unwanted eyes our way - attention that I would prefer to avoid. Especially in this time of change in the Bloom, when bloodshed could erupt at any time. The Memovira husbands her strength, and will not waste it unless she must."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>A moment passes, and then another. "The residents of Little Nihliesh are not always so violent. Some suggest that the air of the Bloom itself breathes a strange chemistry into our lungs, making us more aggressive as we wait for a new Memovira to arise. I ask that you not judge us based on this encounter... and that you refrain from violence while here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>A cleverly disguised grille on the front of the tank squawks out the distorted voice of the tank's occupant. It buzzes and moans, drawing out some words and shortening others in a burst of static.
+
+"I am Gar-koto, a prince of the Fahat and their delegate here in Little Nihliesh." The voice spits and pops. "Why did you not intervene to stop the bloodshed between my people and the Memovira's soldiers?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"I didn't understand the situation, and I don't like to rush to judgment when I don't have the facts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Others can solve their problems without my input, surely."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>A hissing from the grille resolves itself into a machine-like version of a sigh. "I feel much the same way. Unfortunately, there are certain times when problems stand in our path and our inaction is as much a choice as our action. Now, for instance, the Memovira will cast her eye our way as a means of trying to shore up her crumbling strength."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>The grille on the front of the tank hisses. "A laudable sentiment, to be sure. Yet we all come to a time where action becomes paramount, and where we must choose imperfectly." It sighs. "At a time when the Bloom changes so radically, we must perhaps choose more quickly than we would like."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"The odds were unfair. I sought to even the balance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"I had incomplete information. I was forced to act without thinking."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>The grille emits something that might be a sigh. "Be that as it may, you have contributed to a greater injustice. I have long sought to keep my people's anger in check. You may have damaged my work. At least, though, the Memovira's thugs will think twice before returning here if they know they might be met with rage. The Memovira wastes her strength at her peril."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"At least you are willing to admit your haste." The voice pauses. "But the blood has been spilt. Perhaps the *threat* of violence will be enough to quell further incursions from the Memovira's thugs in future. She smells the changes in the air. The Bloom is dangerous now, and I would shield my people from that danger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Tell me again about the crime Herja committed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Bank 67</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Bank 68</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"I said that I have passed the judgment of the Fahat upon her as their representative in this place. Speak to her if you would know more."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Tell me again why you have imprisoned Herja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"She is a known enemy of mutantkind. She need only confess her guilt and she will again see the clean air of the outside world."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Bank 72</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Bank 73</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"I'd like to hear your theories on why the Maws are shifting again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"I suggested that perhaps the Bloom has entered a new part of its feeding cycle, and that it might be preparing itself for a new Memovira." The speaker spits and hisses again. "But I do not say this as a certainty. I only read and observe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"May you achieve your goals this day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Very well."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Bank 78</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Bank 79</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Tell me about the catena again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"It tore through time, space, and probability, destroying a good mutant family, before penetrating the Bloom's walls. Now its passengers' ghosts dwell inside. Best to steer clear of it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Bank 82</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Bank 83</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Please repeat what you told me about Delny and Vrung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"A pair of young mutants with psychic powers. Vrung leads their band of two, preying on the weak. He has had a powerful influence on Delny. She was once a sweet girl, but she has... changed... since her association with Vrung began."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Bank 86</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Bank 87</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Tell me again why you want me to open the new Maw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"We want to return home, to Nihliesh. Barring that, we wish to profit from a new trade route." The speaker buzzes. "Of course, we'd prefer the former."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"The humans looked like they were in trouble. Besides, it would be helpful to have the Memovira owe me for their lives."
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>It takes a moment, but you identify the strange hissing from the grille as a kind of asthmatic laughter. "The humans were most definitely in trouble. However, their deaths would have transferred that trouble to me, and so you have saved me from an inconvenience... and for this, you have my gratitude. The Bloom is dangerous now, and I would shield my people from that danger. As would the Memovira, I hope."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Tell me - what is the state of the new Maw here in my settlement?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I've opened the Maw, Gar-koto, but I haven't gone through it yet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"I'm still working on it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"I am glad to hear this. I hope to hear more shortly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"When you have journeyed to the other side, and told me what you found there, I will be happy to bestow your reward."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Some strange, strangled sound comes from the grille at the front of the tank. "Before you go - what became of the device that bound Herja to her prison?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"I have it. Let me return it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>(Lie) "I don't have it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>(Truth) "I do not have it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"My thanks, friend. It has served me well for years."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"I have worked hard to open this Maw and to bring Herja to justice. I should be able to keep the disk as partial recompense for my efforts."
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"A pity. It is valuable and has proven useful over the years."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>The prince falls silent for a moment, and its flippers agitate the gases in the tank. Then it sighs. "I expected better from you, castoff." Its guards step forward and remove the disk from your possession. "I placed some small trust in you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>A pause from the speakers, and then: "I agree, but the device is far too valuable. Please accept this reward in its place."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"The disk is far too valuable, castoff, and your efforts were not worth its price." A small movement from within the tank signals the guards nearby, who step forward and remove the disk from your possession. "The guards will give you an amount more compensatory with your actions."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"It was a pleasure working with you, Gar-koto. But I really must be going."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Of course, but first the matter of the device."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Tell me more about Nihliesh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"What can you tell me of the Fahat?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Tell me of the Steadfast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"I have other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"You ask much of me. I can tell you only what I have heard, for our glorious city is in what they call the Beyond. The Steadfast is a collection of kingdoms, principalities, and other lesser denominations of feudalism, held together through the dictates of their religion, the Order of Truth. The Aeon Priests of the Order seem to have begun a crusade against those who advocate a different path for the world... and I hear they have established a foothold here." Gar-koto falls silent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"My brethren are blessed mutants, each diverging into a new pathway for humanity. We rule over the city of Nihliesh, using the powers bestowed by our remarkable births to lead normal humanity to a new age of possibilities. We are close in spirit, yet rivals in politics, for the truth of a mutation lies in its ability to prove its use. The subtleties of our machinations are lost here, alas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>The speaker is silent for a moment. "The great city was once a machine, a great device that creates *churn*. We built atop the machine, creating elaborate structures and impossible architectures, and the city grew into the sky. The great and powerful of Nihliesh live among the fluted spires and the arcing byways, with powered cars lifting us to the skies in a moment. The shops and palaces of our people... alas, to think that I might die away from my home." The speaker seems to choke off a sob.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"You are certain she is guilty?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Does she not deserve the presumption of innocence?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"She claims to be innocent."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"All right. I had other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"I have examined the evidence. I have heard her words. I have declared her sentence. I am a prince of the Fahat, and I rule here. Yes, she is guilty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"She may, but I have met her kind before. She will tell you of her innocence, and she will convince you of her rightness. Yet she is sick, rotten at her core, and she requires correction."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"I have passed my judgment. I did not do so rashly or without consideration for the facts. Speak to her. You will find certainty if you persist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"The device is yours, as a token of my gratitude."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Believe me or not, but you have my gratitude."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Should you find it, remember its worth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Our business is concluded."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"I do not ask a fee. I sought to find a way to Nihliesh for your people, and I failed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"The work itself was reward enough. I hope that I have helped someone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"You do us all an unexpected honor. You have my gratitude, castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"I would have Herja released into the custody of the Decanted in the courtyard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>The prince of the Fahat is silent for a few moments. "You would give her to the Decanted? An elegant solution to our problem. It will keep us from a cruel execution but will prevent her from wreaking further mayhem in our community. Very well - the disk on her forehead is her prison. Press it into her flesh, circle it thrice widdershins, and her bars will vanish."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"You do us an unexpected honor, castoff. But you are one who understands justice as I do. I would see you paid for your services, regardless."
+
+One of Gar-koto's mutants steps forward with a haversack filled with shins.
+
+"You have my gratitude as well, castoff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Tell me more about Nihliesh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Tell me about Nihliesh again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>The speaker is silent for a moment. "The city was once a machine, a colossal device that creates *churn*. We built atop the machine, creating elaborate structures and impossible architectures, and our city grew into the sky. The great and powerful of Nihliesh live among the fluted spires and the arcing byways, with powered cars lifting us to the skies in a moment. The shops and palaces of our people... alas, to think that I might die away from my home." The voice goes very quiet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Our city was once a colossal machine. We built atop the machine, creating elaborate structures and impossible architectures, and Nihliesh grew into the sky. The great and powerful live among the fluted spires and the arcing byways."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"What can you tell me of the Fahat?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Tell me of the Fahat again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"My brethren are blessed mutants, each diverging into a new pathway for humanity. We rule over the city of Nihliesh, using the powers bestowed by our remarkable births to lead normal humanity to a new age of possibilities. We are close in spirit, yet rivals in politics, for the truth of a mutation lies in its ability to prove its use. The subtleties of our machinations are lost here, alas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Blessed mutants, each diverging into a new pathway for humanity. We rule over the city of Nihliesh, using the powers bestowed by our remarkable births to lead normal humanity to a new age of possibilities."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Tell me of the Steadfast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Tell me of the Steadfast again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"You ask much of me. I can tell you only what I have heard, for our glorious city is in what they call the Beyond. The Steadfast is a collection of kingdoms, principalities, and other lesser denominations of feudalism, held together through the dictates of their religion, the Order of Truth. The Aeon Priests of the Order have spread their faith far and wide. I hear they have even established a foothold in the city of Sagus Cliffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Our glorious city is in what they call the Beyond, but the Steadfast is a collection of kingdoms, principalities, and other lesser denominations of feudalism, held together through the dictates of their religion, the Order of Truth. I hear that the Aeon Priests of the Order have established a foothold nearby, in the city of Sagus Cliffs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>A pause from the speakers, and then: "I agree. Your work has been exemplary, and it would be churlish of me to demand its return."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"The disk is far too valuable, castoff, and your efforts were not worth its price." A small movement from within the tank signals the guards nearby, who step forward and remove the disk from your possession. "Do not think me ungrateful. But neither should you think me a fool."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"I have worked hard to open this Maw and to bring Herja to justice. I should be able to keep the disk as partial recompense for my efforts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"It felt like the right thing to do."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"I'll look into it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"No promises. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"I've opened the newborn Maw. It led into some kind of terminal or port. I didn't see any mutants."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"The newborn Maw feeds on guilt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"I thank you for the knowledge, though none of my mutants are particularly troubled by guilt. Finding a suitable candidate to feed the Maw will be an interesting problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"I'm looking for two thieves called Delny and Vrung. I was told I could find them here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"This is their home, yes. At the moment, they are hiding at the end of an alley."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>[Unused, DO NOT TRANSLATE.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"If you want to know if Herja feels any guilt for her crime, we should feed her to the Maw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Herja admitted her crime to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"I see. In truth, it was not a mere confirmation of her crime that I sought. I wanted her to face her *victims* and admit what she did. Only then would I know if she feels anything for them... if she is truly *human* or not." The voice chuckles. "A strange thing for a creature in a tank to be concerned with."
+
+"Still... I thank you for telling me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Your people deserve dignity. The Memovira would trample that with her demands."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>The grille spits and crackles. "No doubt my people have been bereft of respect and justice for some time. Yet the bloodshed may draw unwanted eyes our way - attention that I would prefer to avoid. Especially in this time of change in the Bloom, when violence could erupt at any time. The Memovira may decide to show her strength."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"So Herja lives. Let us hope that she understands the magnitude of her actions. In time, she may learn something of compassion."
+
+The grille sparks and fizzes as Gar-koto whispers, "... but such is not my experience."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Though Herja bore us malice for the accident of our birth, still we forgive her... even as we condemn her actions. But the woman is dead. Let her fate serve as an example to others who let hatred consume them."
+
+"Let us pause to mourn the passing of another life." Gar-koto is silent for a moment. "Now. Speak, and I will answer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"I saw no reason to favor either side."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>The grille on the front of the tank hisses. "No? When violence beckons, you think it best to stand aside and let it resolve itself? But perhaps I should not be so quick to judge." 
+
+It sighs. "At a time when the Bloom changes so radically, we must perhaps choose more quickly than we would like."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>A cleverly disguised grille on the front of the tank squawks out the distorted voice of the tank's occupant. It buzzes and moans, drawing out some words and shortening others in a burst of static.
+
+"I am Gar-koto, a prince of the Fahat and their delegate here in Little Nihliesh." The voice spits and pops. "You have my gratitude for averting the violence with the Memovira's soldiers. But I must know... why did you act?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Because I could. It's in my nature."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Violence wouldn't have helped anyone, and it might have had greater repercussions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Gar-koto is silent for a moment. "An admirable sentiment, human. One that appears to be more and more difficult to maintain given the recent troubles plaguing us. Violence is in the air. Change comes for us all, but the Memovira does not seem to grasp this truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

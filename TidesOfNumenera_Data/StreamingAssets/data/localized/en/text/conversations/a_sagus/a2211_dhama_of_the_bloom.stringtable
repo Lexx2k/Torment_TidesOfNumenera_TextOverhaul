@@ -1,0 +1,1599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2211_dhama_of_the_bloom</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>296</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The wispy mustache on this pudgy, middle-aged man would be almost comical if it weren't for his deep and despairing eyes. They are the eyes of a man who has passed through the gates of alien hells and returned... though not necessarily whole.
+
+His fingers, tightly wrapped around some fine glassware, are strong and slim - a musician's fingers, or a strangler's.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>He hasn't moved from his position at the table, but he's accumulated more glasses and more plates.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"It's not gossip if they can hear me, is it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>They have fought in a variety of conflicts, but they are all veterans of a true psychic war - a conflict that gripped Sagus Cliffs in the recent past, even if most of the cityfolk had no idea it was being waged. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>According to Dhama, a malign group of beings emerged from the Bloom a few years ago, having passed through a Maw from some other world or dimension. They were beings of pure thought, and the psychics knew them only as the Adversaries. As soon as they arrived in Sagus Cliffs, they began to wreak havoc upon the minds of its citizens, inciting conflict, inflicting madness, and ruining lives.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Whether they care is immaterial. If they were dead, who'd be there to care about our actions anyway? We *saved* the city. Isn't it enough for us to know that?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Who do you think the Adversaries would go after once all the citizens were dead, friend? You think they'd head out into the world, leaving your mind glowing bright behind them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>o	Theboros could chime in about fighting in a thankless war for which the veterans will never be recognized. (I'm guessing that Theboros will think this was foolish because no one will remember, while Dhama will think they did the right thing - a legacy discussion. But up to you Colin.) The player can chime in and contribute to the philosophical discussion for Tidal points and DP. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"So... let's talk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>::each of those ribbons is a thought/word/deed and each calls out for attention::
+
+His companions nod.
+
+He continues, speaking, "When we're here, we can dampen that noise. The voices become voluntary. We can still listen, but it's not *insistent*. Whatever else this building is, it's shielded. Safe for our kind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>why it is the way it is, </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>and the fact that some patrons aren't real, while others came here from other times, places, and dimensions, as noted above.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>history</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>{COLIN: NOT FOR 1E}
+
+Dhama should warn the player about the haunted booth on the other side of the bar. People often hear voices and feel a presence there - even he doesn't know what it is. If the player encountered the ghostly woman already, he could optionally mention this to Dhama (up to the writer).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>The blood drains from his face. "... what? Right there? I see nothing? I... I feel nothing." He grasps your mind with his, not gently, and he echoes in your skull. ::anything there is hidden to me. ziobe can you sense anything::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Do you see that man there? Malaise? He's watching you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Let me see." In the center of her forehead, her skin irises open, and a third, metallic eye protrudes from her, glowing brightly. It extends from her head on a mechanical segment, emitting a series of rapid flashes that descend through the visible spectrum.
+
+At last the eye retracts and her forehead closes. She swallows, and you feel the fear radiate from her. "He's right. It's there, on a low pulse, a wavelength far below human thought."</DefaultText>
+      <FemaleText>"Let me see." In the center of her forehead, her skin irises open, and a third, metallic eye protrudes from her, glowing brightly. It extends from her head on a mechanical segment, emitting a series of rapid flashes that descend through the visible spectrum.
+
+At last the eye retracts and her forehead closes. She swallows, and you feel the fear radiate from her. "She's right. It's there, on a low pulse, a wavelength far below human thought."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>A control as hard as synthsteel surrounds him. "The Adversaries have never done this. I knew they adapted, but... by the Black Three, what has it learned? It has been watching us for *how* long?" ::ziobe be ready::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>You feel his presence within your mind, rifling through your recent experiences... and then he's gone.
+
+"You have done something I never would have dreamed possible. Never. You saw something that needed to be done, and... you did it."
+
+He reaches under the table and pulls out a strange-looking device. "Here," he says. "Take this. You've earned it, and more."
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>If Ziobe has challenged to player to determine which of the psychic warriors isn't real, the player should get options to quiz Dhama about this.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Let me handle it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Let's confront it together, right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Alone? I cannot recommend that. I can't recommend that at all. You don't know how powerful they are. You don't know what they can do. The Adversaries play a game with their prey, but... the stakes are unimaginable. It will *destroy* you. Please. Let us help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText> (Even if the player insists again, he can always come back and ask for help later.) </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Yes. We will." He swallows, and whispers, "We're not ready. We'll never be ready."
+
+He closes his eyes, and when he opens them again they glow. "But we can die trying."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>{COLIN: Not for 1E}
+
+If the player was forced to kill Riastrad and Satsada in the House Where Secrets Die and Riastrad is in the bar now, Dhama should say that Riastrad's ghostly companion is dead, and he is nothing but an empty shell now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Are you ready to leave for the Endless Battle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText> Dhama will refuse, saying that he can't leave Sagus Cliffs while an Adversary still lives (as he believes one does). </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>However, if the player has helped Dhama defeat the Adversary and completed the Eyes of the Adversary quest, then Dhama will automatically agree. (He owes the player.) </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>He thinks for a few moments. "All right. All right, I'll go. Clarion knows where to find me when she needs me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Best part is, we've sacrificed our lives, our friends, and our sanity for a city that'll never know. They keep on with their daily lives, and just assume the rash of madness is some effect of the numenera. Gave up the best part of our minds, and they don't even care. Doesn't matter to me what the rabble think, but it'd be nice to at least get some professional recognition..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>The player can ask about the bar itself. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Given any more thought to looking for that Adversary?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"It's a labyrinth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"I don't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"It's none of your business."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Do you mind if I take a quick look? Seems like a strange thing to carry and not know anything about." His voice is polished and clean, friendly but intent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"A *labyrinth*?" He raises an eyebrow and leans back in his seat. "That's a novel construction." He starts ticking items off on his fingers. "I've seen people construct psychic fortresses, cathedrals, graveyards, hellscapes, and vortices from which no life escapes. All dramatic places, all powerful and forbidding... but a labyrinth? Well! That's a whole different construction. That speaks to cunning and guile."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Go ahead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"I'd rather you didn't."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"I do mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>He laughs. "Smart move, keeping strangers out of your mind. When we get to know each other, let me know if you change your mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Me? I'm as real as they come." He slaps his belly. "Could a projection do that?" He pauses. "Come to think of it, Ziobe probably could make one do that, and make it sound right, too. She's good."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"My thanks. Though it's not often the wisest choice to let strangers enter your mind, I'll not do you any harm. Might help, even." He smiles to take the sting out of his words. "Ready?"
+
+He breathes in, and suddenly you feel - you are a mote tucked inside a gigantic prism, with eyes peering in at you from all around - you are held tightly in an enormous fist - you are a flimsy piece of glass held up to the light.
+
+Yet somehow it is not utterly terrifying.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Do you want to examine the structure in my mind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"What did you want to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>He sets the glass down and shakes your hand. "I'm Dhama. Dhama, of the Bloom."
+
+He pinches the bridge of his nose, his eyes tightly shut, and you feel a gentle and powerful presence surround your consciousness. "I have a request for you. It might seem strange, but you have an interesting topography to your mind. You might be able to help us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Tell me about yourself."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Can you tell me about yourself again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"What is this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"I'd like to know more about the Fifth Eye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"The Fifth Eye is home to psychic veterans. We fought an incursion of... nightmares, I suppose... nightmares slithering into the city's shared dreamspace, eating minds and leaving husks behind."
+
+"We called them the Adversaries. We burned them out and cauterized the wounds through which they infected our reality. But... I can't shake the nagging feeling that one of them survived and waits to strike. I trust my intuition, and now it's telling me to ask for your help."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"What can you tell me about the Adversaries?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Can you tell me about the Adversaries again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"I'd be happy to help. What do I need to do?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Not right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>He breathes a sigh of relief. "My thanks. I *feel* the Adversary. I know it's here. I know it's close. It's watching us, but it's hiding its presence, and I fear it will strike when our guard is down. It may well be in the Fifth Eye even now."
+
+He shrugs helplessly. "Sadly, our fifth eye is blind." He jerks a thumb at the bartender. "It might be that our foe has blinded us... but it might not have shielded itself from *you*. Look for it, and tell me if you find something unusual."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Clarion seems to hold you in high regard. She thinks you'd be a valuable ally in the Endless Battle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Clarion still needs your help in the Endless Battle. How can I convince you to join her?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>He sighs and looks around the bar. "You were a true champion for us," he says. "You had no obligation to help us, but you did. I should return the favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Whenever you give the word. Talk to your contact and we'll go when she's ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Can you tell me about the people here?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Let's talk about the people here again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>He sits back, apparently relaxed, and you feel a sudden surge of emotion from him, a tight beam focused on you. You feel the Tides within you respond, an empathic welling of passion, loss, and will. 
+
+He laughs as you respond involuntarily. "A kindred spirit, then."
+
+{COLIN: This Tidal reactivity feels weak to me. It doesn't change or reveal anything, that I can tell.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>His words come to you as if from a distance. "A shared space? Such depths, such twists... It builds itself around your experiences, around those who share it with you. Shared spaces are occasionally dangerous, so I... sharpened a part of your mind."
+
+His voice draws closer, and the pressure eases. "I didn't probe deeply, but this would be an excellent battleground. If you lured a foe to you, you could trap it within your mind. You could destroy it."
+
+"Oh. Introductions. Yes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"My thanks. Though it's not often the wisest choice to let strangers enter your mind, I'll not do you any harm." A faint smile takes the sting from his words. "Ready?"
+
+He breathes in, and suddenly you feel as though:
+- a prismatic cage imprisons you, countless viewers staring in
+- a massive fist of untold strength surrounds you, more frightening because it is so gentle
+- you become glass, held up to the light, transparent and naked.
+
+Yet somehow it is not utterly terrifying.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>His words come to you as if from a distance. "A shared space? Such depths, such twists. It builds itself around your experiences, around those who share it with you."
+
+His voice draws closer, and the pressure on your mind eases. "I didn't probe deeply, but this would be an excellent battleground. If you lured a foe to you, you could trap it within your mind. You could destroy it."
+
+"Oh, I sharpened some edges of your mind for you. Just in case."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"This? This is the Fifth Eye. You might think of it as a retirement home... or a veterans' hospital. But it wasn't always this way. Look around you." He gestures at the pipes and the disused machinery. "There's a reason we're here. Ask your questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"What did you want to know?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"I told you they call me 'of the Bloom.' I was born there, and I knew nothing of the world outside for the longest time. I thought it was normal to play in passages made of gut and tissue, to hide from slavers in diverticula, to watch visitants staggering in from other worlds. I learned how to read people there, and how to *understand* them. And one day I left the Bloom and came to Sagus Cliffs, and I discovered the world was a different place than I'd thought. A *better* place."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>You feel his gentle amusement, tinged with his sadness, as his mind touches yours. ::I am Dhama, the leader of these of these fine warriors.::
+
+"They look to me for inspiration." Laughter ripples from his gathered companions. "Strength, anyway. I help them, lift them, guide them where I can." You feel the steel in his thoughts now. ::I am a locus. I am the edge of the sword.::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"That's when I learned to fight. That's *why* I learned to fight." He gestures at himself. "This isn't a warrior's body, of course. Not in the usual sense." He smiles, and a great pressure swells in your head and vanishes before you can even register alarm.
+
+"But I'm not usual. No one in the Fifth Eye is. We're psychics, psionics, seers. Call us mind-benders or thought-rippers. But we're warriors. We keep the minds of Sagus Cliffs safe from threats they don't even imagine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"The psychically sensitive have been hiding here for generations. The Endless Battle, the Cobalt Breach, the Rising Blood... all the great psionic conflicts have victors and the defeated. But more importantly, they have the wounded. The veterans. The scars of a thousand mental battles slip away here. We can let our guards down."
+
+He drinks. "And so we do. It's a long history. I should write it down sometime, but..." He shrugs. "I'm feeling lazy."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"It's generations old, at least as a bar -" ::much older as a machine of the ancient worlds:: his mind whispers, " - and our kind have sought its sanctuary for years."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Tell me about the history of the Fifth Eye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Can you tell me about the history of the Fifth Eye again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Can you tell me about the nature of the Fifth Eye? What did you mean when you said it was a veterans' hospital?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Tell me about the nature of the Fifth Eye again, please."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Actually, let me ask about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"That's all for now. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>::nod::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"If I can answer, I will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"A good question. Better if I show you." He closes his eyes, and you feel an insistent nudge in your mind. Then your vision goes black, replaced with a nightmare.
+
+You see a void, oblivion, a place where black stars hang and shriek with formless rage. Violet lightning arcs through the sky, and you witness enormous masses of pustulent orbs raging against each other. Streams of conscious thought rocket from them, and they scream of need, desire, hatred.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Totally alien, utterly horrifying, rapacious." His eyes are hard, and you feel the depths of his rage. "And more powerful than you can imagine. Had more of their streamers snaked through, I... I don't know if we would have survived."
+
+He looks at his friends. "As strong as we were, we took losses. That's why I will fight the Adversaries wherever I find them... because we can't let even one remain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>He points his chin around the room. "There's Theboros, Ziobe, and Leto. Oh, and Feriok. We own the place together. We've fought in all manner of wars, battles, and conflicts. We've traveled for some, worn esper helmets for others, or projected ourselves across the world. But the worst was the Adversaries. They were the true test for all of us. They forged our friendship tighter than any other experience could've."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Have you decided to help me yet or not?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>He looks at you, incredulous. "I've told you about the Adversaries, asked for your help, and you turned me down. Now you want me to set aside my loyalties to my friends, allies, and city for some nameless innocents? If I didn't know better, I'd think this was dream logic. I've fought plenty, friend. My struggles are closer to home now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>He simply crosses his arms and stares at you. You feel the strength of his mind behind that gaze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"I've got more pressing matters closer to home. The Adversary, remember? I'm not going anywhere until we've dealt with that nightmare."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"You can't. Not until we've dealt with the problem here. The Adversary is here. I *know* it. I *feel* it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>He shrugs. "All right. Tell me if you change your mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Fine." He runs a hand through his hair, and he is not quite successful at keeping the turbulence of his emotions under check. "Fine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>He raps on the nearby wall. It's a solid sound, no vibration. "We don't know what this place was - though the pipes and the machinery make it seem like a kind of pumping station - but what it is to us is - " and then his mind whispers in yours - ::sanctuary.::
+
+A crawling sensation, like insects under your scalp. ::this is what the outside world is:: You see an image of the city beneath you, writhing with ribbons of light that flare in a million colors. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"It's an old machine, a remnant of some prior world, whose creators used it to deliver mysterious and sometimes potable fluids... and who shielded the interior somehow from psionic noise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>The old man growls. "They'd go crazy if they did. Not that they're exactly paragons of sanity at the best of times."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Other emotions arise with these, wisps of mental energy that curl like steam. They brush your consciousness with a touch beslimed with the unknowable hungers of an alien mind. These luminous wisps quest through invisible cracks in dimensional walls.
+
+::new worlds, unsuspecting minds, brilliant lights enfolded in the Adversaries' decaying orbits, imprisoned stars, winking out forever::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"They came through the Bloom, shining and tenebrous at the same time," he whispers. "They offered games, riches, promises for the future. I felt their passage and was afraid, and I hid my mind from their questing touch. I felt them reach for me, and I cowered in my shell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"How do you fight the Adversaries?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Can you tell me how to fight the Adversaries again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Are you thinking you might use your labyrinth to trap it? Don't. Don't do it. Though. Wait... it might work. It might."
+
+He exchanges a wordless communication with Theboros and Ziobe. "We used a spotter - someone trained to recognize their scent. He'd give them the briefest engagement, enough to whet their appetites, and he'd bring them to a battlefield of our choosing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"How do *we* fight them? As a team. With a trained spotter, a twister of metaphor, a seer, a focus, and whoever else we can throw at it. We don't do it alone."
+
+He looks at the others. "But if you plan to do it yourself... share the idea-space with it. Plant metaphors reminiscent of your labyrinth. Turn the language that way. When you've got the tendril trapped, close your mind and use the terrain to your advantage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>She lays a hand on Dhama's shoulder. "Those who didn't hide saw the lure, and they were drawn into that unwinnable mental game. Attracted by the light of the Adversaries' minds, they followed their own dreams into madness. Psychics and normal people alike, the ruin of the city's minds was..." She shakes her head.
+
+"You were wise enough to see beyond the lure and into the danger. You couldn't stand against them yourself, and so you hid. We all did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Not all," he growls. "Some stood. They played the game and got cracked like glowglobes. I felt 'em die, and their spirits got sucked into a vortex of endless fear. You did the right thing, Dhama, and I've told you that before."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Fine, fine," he replies, waving the words away. "But you've seen what the Adversaries are like now. Inhuman, with no negotiation. Maybe they're communicating with us and we don't understand them... but I tell you, if this is their *hello*, I don't want anything else to do with them."
+
+"So those of us who survived that initial incursion gathered here. We set aside our differences, and we fought back. But not without our own losses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>He cuts the air sharply with the edge of his hand. "Do not approach an Adversary on your own. No matter how strong your defenses, it will find a way inside."
+
+"Look. We used a spotter - someone trained to recognize their scent. He'd give them the briefest engagement, enough to whet their appetites, and he'd bring them to a battlefield of our choosing. *Our* choosing, you understand? A place we knew, one we had constructed. You have a structure in your mind, but it will not be enough."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"With trained friends at your side, with knowledge of your personal mental topography, and more luck than any of us deserve. It's that hard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"So... tell a story, resist the Adversary's metaphors, build in the details of your hardened mental space, draw it in, and then use your familiarity with the place to destroy the bastard."
+
+He swallows the rest of his drink. "If you're going to try - and again, I can't emphasize enough that you should seek our help, but if you do it alone... gods, I can't believe I'm saying this... if you do it alone, be careful."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"The Adversary will tempt you with something. It will tap into the parts of your mind you had forgotten, ignite a desire. It will offer bargains, tastes of power, and try to draw you toward its way of thinking. The key is to keep control of the imagery and the metaphors your minds conjure together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"That's where I come in." He leans forward on the table, his gaunt face seeming even more drawn. "I'd feed words and stories to our spotter, help him build an internal story that seemed to mirror what the Adversary told, and I'd lay a pathway toward our battlefield. He'd walk down that pathway, and the Adversary would be *extruding* itself into our world right alongside him."
+
+His smile is hard and feral. "And then we'd close off the exits and get to work cutting it to pieces."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"What *are* the Adversaries?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Can you tell me what you think the Adversaries *are* again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"I... I don't know. What we see isn't the whole picture. We know that. It's an extrusion into our world, just a piece of the creature's psychic material. Maybe it's a conscious unit on its own. Maybe it's self-directed. But my deepest fear is that every Adversary we've seen is the smallest piece of a singular entity... and that our pushback is drawing its attention ever so slowly toward us."
+
+He shivers. "If you ever meet one, you'll know why that frightens me so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"What I know? Or what I think I know? I *know* that each manifestation of an Adversary is only a small part of a larger being. What I think I know... what I fear... is that only one Adversary exists, and it's becoming *aware* of us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Dhama's comrade leans in. "Tell the best stories you know. The ones that are familiar to you. You want to know your psychic terrain, and you want to turn those images toward the familiar. Get onto ground you're comfortable with, and you might be able to disengage from the monster." He closes his eyes. "Might. They can trick your desire, rewire you, and devour you before you know you've been led astray. Like the man says - don't do it alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"If you'd let me in, I could tell you for sure. As it is... I can't recommend facing one on your own. If you do, just..." He looks to his friends for guidance. He shakes his head. "I don't know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Ziobe challenged me to find out which of you is a projection. So... are you real?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"The Adversary is gone. I drove it from this reality. It will not trouble you again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"That's all for now. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"A pleasure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Let's talk about Theboros."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Let's talk about Ziobe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Let's talk about Feriok."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Let's talk about Leto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"What did you mean when you said some of others here aren't even real?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Can you tell me again what you meant when you said some of your friends aren't real?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>The smile disappears. "Talk to Ziobe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"It's a psychic bar. Someone here is a projection. Talk to Ziobe, and she'll set you straight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"We've been over this, Theboros. We don't do it for ourselves. We do it because it's the right thing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"He's right, though. Why would you save a city of people who don't care?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Why does it matter if they know or not? The important thing is that you took action."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Let them continue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"You know what'd be nice? A parade. A pension. Maybe, you know, something from the city saying, 'Thanks for not letting our brains turn into jelly.' A gods-damned house that isn't infested with insects and ready to slide into the sound!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"So you want to march up to Government Square and tell them that they don't know anything about it, but you've saved the city from a menace they never saw, and you'd like them to fund your retirement?" He raises his glass in mock salute. "I encourage this. I hear the madhouses are lovely at this time of year."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>He turns and holds his hands up. "You see what I have to put up with? Ask for a modicum of respect, and instead I get mockery. I don't know why we pay any attention to this old gallowglass."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Sure. Saving the lives of people who flinch when they see me coming. I love seeing mothers snatch their children from my path. Clearing the insects from my bedroll is the next important step in knowing that I took action, because the ingrates in Sagus Cliffs won't even sell me a damned clean sheet. If they were dead, at least I could steal their sheets."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"I could shield myself, no problem. I did it when they came out, remember? Just like you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Yes. I did. But I found help, and we hunted those bastards down and wiped most of them out. You? If you were alone here, you'd get tired of having to hide your true self around them and start cursing at them just so they'd notice you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"I'm right here, you know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Theboros, despite his terrible complexion, gaunt face, bird-like nose, and questionable taste in haberdashery... actually, I'm trying to think of any redeeming qualities that might offset all of this."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>He ignores his friend. "Ah yes! Despite all these obvious disadvantages, Theboros has become one of the pre-eminent warriors of language in the entire world. You can laugh, but the old saying is undeniably true - the tongue with the word is deadlier than the hand with the sword."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Let me ask about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Say the word."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"That's all for now. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>::nod::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Unless the sword-hand gets to you before you can make someone else get in the way," he mutters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>He laughs. "He can plant words in your mind that will activate and weaponize your body against itself. With a word, he can spin illusions inside your skull. He knows the hidden receptors and compartments of the mind, and he can whisperlock you dead."
+
+"That's a fair enough assessment, eh?"
+
+His friend nods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Let's not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Nonsense. Ziobe is our enforcer, our telekinetic, She summons visions for us to distract our foes, projects deadly energy, and harnesses the power of the physical world to anchor us - or our enemies - while we deliver the killing blow. She also lets us focus our energy through *her*. She is what you might call our heavy weaponry, because she makes the immaterial world much, much more tangible. While we frolic in the playgrounds of the mind, she's concerned with more earthly matters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>He holds his hands up in surrender. "You were practically shouting, Ziobe. How could I help but listen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"How poetic, you old scholarch. Truly, you took the words straight from my... why, you dirty thief!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>The smile slips from her face, but she says nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>He doesn't look toward the bar, but his mood turns somber. "A true empath. Our spotter, back when he could do the work. A brave man, aware of the risks he took. Psychically sensitive, able to catch the lure of the Adversaries, and willing to run with it. If it hadn't been for him, we'd never have had the success we did."
+
+He looks down at the table. "The last one we fought caught him. It took his..." He pauses, lost in thought.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"You already know she's a mlox. She's our enforcer, our telekinetic, She summons visions for us to distract, projects deadly energy, and harnesses the power of the physical world to anchor us - or our enemies - while we deliver the killing blow. She also lets us focus our energy through *her*. She is what you might call our heavy weaponry, because she makes the immaterial world much, much more tangible. While we frolic in the playgrounds of the mind, she's concerned with more earthly matters."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>She steps in. "It took some of the things that make him special. He can't spot for us anymore. His powers aren't what they were. He's a shadow of his old self."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"But the ol' skist-sucker has our thanks anyway." He raises his glass toward the bartender, and drops it on the table as Ziobe punches his arm. "Ow! That's bad luck, y'know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Don't you speak an ill word about him, Theboros. Not after what he did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"You know how I feel about Feriok, Ziobe." He swishes the liquid left in his glass, his head and voice lowered. "Before he lost his powers, he was one of the best of our team. One of the best I've ever known."
+
+They all nod.
+
+He cackles, "But don't tell him I said so!"
+
+Ziobe punches him again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"You know what he is," she whispers softly. "We do this in his name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"She's our seer. Our prescient. She knew where the Adversaries were going to be. She knew *when* they'd be there, so we could set ourselves up in time." His voice is somber. "But they grew wise to her. They threw themselves through probability-space, played the game of Maybe with her, and they were better than she was."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Not so loud," he murmurs. "It wasn't her fault."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"I never said it was." He radiates tension. "The Adversaries got better than *all* of us. We're lucky they only..."
+
+He wipes a tear from his eye. "We're lucky we only took the losses we did."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"But how would *you* test whether a psychic emanation was real?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Touch Dhama.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"No idea."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Forget it. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Hope you're enjoying Ziobe's test!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Here's a hint." He reaches out and claps you on the shoulder, his fingers holding tight. "Projections play on your expectations, but they're pierced easily."
+
+He leans back. "Good luck with it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>He doesn't move, and your finger sinks into his flesh. He grins. "Satisfied?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"I am forever in your debt, friend. Forever." He clasps your hand, and you notice that the haunted look has left his eyes. "For the first time in ages, it feels as though a dark cloud has lifted. You have done wonderful things for us. For the city. They'll never know, but you're a true hero."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Leave it to me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"If you change your mind before you begin... please, let me know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"I've changed my mind.Will you help me in confronting the Adversary?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"I don't know that we can ever express our gratitude. Farewell, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"And well done, indeed."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Theboros said I should pay attention to your stories."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Leto said I must know how reality must behave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Ziobe said I should focus on physicality."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Feriok said I should know my subjects."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Good advice. Am I behaving differently than others suggest I should in reality?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"I hate to say it, but he's right. For once. What do the others say about me? Do I even *have* any interesting stories? Anything about growth, journey, change? I'm not sure I do have any good stories. I'm the same as I've always been."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Sadly. More's the pity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"I don't have any more questions about this. I'd like to ask something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"All right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Ziobe challenged me to find out which of you is a projection. So... are you real?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"I want to ask more questions about Ziobe's projection."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Naturally."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"We used to use Theboros to build words, story, images. Now... now I'm not so sure. But... we'll figure it out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"A moment to remember my fallen friend. My partner. The best damn word warrior a man could know." He bows his head. "I don't hold you responsible. He was headed this way for years. He knew the day would come that he would make the choice, and he always liked to pretend that he had a choice." He raises his glass. "To Theboros, you irascible old bastard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>He points his chin around the room. "There's Ziobe, Leto, and Feriok. We own the place together. We've fought in all manner of wars, battles, and conflicts. We've traveled for some, worn esper helmets for others, or projected ourselves across the world. But the worst was the Adversaries. They were the true test for all of us. They forged our friendship tighter than any other experience could've."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"And if you knew me, then you'd know there's nothing incongruous about how I'm behaving now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>[DEBUG: Pretend I won the tussle.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"You're right. Then we'll confront it together."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>[DEBUG: Pretend I started the tussle, but the Last Castoff died during it.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"That man over there keeps staring at you. Maybe he knows."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>You can't read his thoughts at all. You might as well try to read the thoughts of a wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>Before you open your mouth to speak, he says, "What is that place in your head?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>You suddenly realize you can't read Dhama's thoughts at all. You might as well try to read the thoughts of a wall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>Bank 250</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"I think I may have a lead on the identity of the Adversary."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"I have another possibility for the Adversary. Can you check on it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"I am grateful for your help, friend. Tell me your suspicions, and I'll see if I can confirm or allay them for you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Absolutely. I hope you're wrong, of course." He smiles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Never mind. Let's talk about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Of course."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"There is a strange, ghostly woman over there."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Ah. Yes. While she's unpredictable and possibly dangerous, she's not an Adversary. We've tried to remove her before, yet she always returns. Rather than risk any damage, we just stay out of her way. I'd advise you to do the same."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"The man in the yellow shirt. What about him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"That poor, lost soul is not the Adversary. There's more to him than is first apparent, but you should not fear him unduly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"I talked to a being called O. Definitely not human."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"I have sensed O's presence and reached out to it with my mind. It is not an Adversary - it's... well. I don't know how to describe it. But rest easy, because O probably won't destroy you. Probably."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Almas the Soul-Keeper. What about him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>He shakes his head. "His is a tale of personal tragedy and sorrow, though perhaps the end result is not the worst for the people under his caste's titular care. But he is not the Adversary."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Could it be Clarion?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>He bursts out laughing. "I understand that her devotion to destruction might make her seem a monster, but like the rest of us, she is merely human."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"I've changed my mind. I want to help with the Adversary."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"Is it... truly over? I almost can't believe it." He pauses and concentrates. "No. The cloud has lifted. I can *see*."
+
+His eyes are bright. "The city of Sagus Cliffs - indeed, perhaps the world - owes you a great debt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"That poor, lost soul is not the Adversary. He has been trapped in the form of an abykos but is not an abykos himself. Do not fear him. Pity him."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"The man in the yellow shirt who changed his shape. What about him?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Pity you won't ever be able to collect on it." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"It's a pity Theboros wasn't here to see it," she murmurs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"It is over. At last. I can't believe this day has come." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"It's enough that we know, my friend. Come now. Doesn't the day seem brighter already?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Wouldn't know. I haven't been outside. You know what I'd like? Another drink. All the celebration I need."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>She laughs. "Coming right up." Feriok pours a round of tall, dark drinks, and they float smoothly through the air to you.
+
+She inclines her head gravely to you. "You have our tremendous gratitude, friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>A smile ghosts across his face. "He'd likely have complained about no one caring anyway. Then he'd have demanded a drink."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Indeed. I cannot stress the enormity of this enough. We will tell others of your deeds. Whether or not you want this." He tips his drink. "Cheers."
+
+Then the party begins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"I helped you defeat the Adversary. Will you reconsider Clarion's request and join the Endless Battle?" </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"I am forever in your debt, friend. Forever." He clasps your hand, and you notice that the haunted look has left his eyes. "For the first time in ages, it feels as though a dark cloud has lifted. You have done wonderful things for us. For the city. They'll never know, but you're a true hero."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"I - we - can't believe that we are free at last."
+
+He reaches under the table and pulls out a strange-looking device. "Here," he says. "Take this. You've earned it, and more."
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>He smiles, a little wistful. "Sure. But keep in mind most of them can hear us. Who did you want to gossip about?" The others burst out laughing.
+
+He gestures around the bar. "They've all got their stories. Some of them aren't from this world. Some aren't even real." This summons another peal of laughter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"How did you all come to this place?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Tell me again how you came here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>He frowns. "It... it called to us. It was a beacon. It was warm and welcoming. The first time I set foot inside these doors, the noise from the outside world lessened. It didn't disappear - I can focus and hear it as I wish - but I could let down my guard, relax." He looks around the room. "I'd wager the same is true of all the others."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"I came from the Bloom, as my name suggests. And when I needed a place to rest my mind, I saw this place glowing bright."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Just waiting for Clarion's summons. Until then, I'm bolstering my courage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"This sounds like trouble I don't want to be part of."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"You're under no obligation. You've done enough to reveal its presence. We are going to watch it and contain it. If we can. If you change your mind, let me know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>
+
+His narrowed eyes and the sheen of sweat on his brow give you a hint of the fear that is building within him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Have you come for help with the Adversary? We stand ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"I can take the Adversary alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"I just had a few questions I wanted to ask."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"Not right now. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"I caution you against this course of action. It could destroy you forever."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"Not a good time for questions. We prepare to face an Adversary. This is an existential struggle, my friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"Wish us luck, my friend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"I don't know if I can help you. Maybe later."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"A wise move, but there is not much time for preparation. Already the Adversary begins to exert its influence. If you would help us, then return before the day is over, otherwise my friends and I must face it alone."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"Not today. Sorry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"Then wish us luck, friend. We are in for a struggle. If you change your mind today, come back to us. We cannot hold it forever. We must strike soon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"If you change your mind, let me know."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"Have you come to help us with the Adversary? We would welcome your aid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"That man in blue, with the pipe and all the strange numenera... could he be the Adversary?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Sir Arthour? No, no. He's a wanderer and a collector of knowledge, but his interest appears to be entirely beneficent. He's a strange one, it's true, but... no. He is not the Adversary."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>He raises his glass to you. "The hero of the city returns! What do you wish to talk about?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

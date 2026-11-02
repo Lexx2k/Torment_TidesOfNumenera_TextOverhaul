@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_omniscope</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>146</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The machine hums softly. An orange glow appears beneath its dark, glossy surface. A large alien symbol dominates the space, with words in a smaller script on the side, but you cannot understand the writing. Even so, it feels like you've seen the writing somewhere before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The large alien symbol and strange script appear again as you step close to the machine. The writing feels familiar, even though you don't know what any of it means.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>The omniscope's readout blooms into being again. An inhuman handprint dominates the space. Next to it is a list of locations and a shorter list of approximate dates. One item from each list is already selected.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Try to decipher the text.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Try to decipher the text again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>After studying the text for several minutes, you begin to see - or perhaps simply remember - patterns in the words. In a flash, the purpose of the device comes back to you.
+
+This is an omniscope, a device used to view locations from afar. The large alien symbol is actually an inhuman handprint. The longer list next to it is a set of location names, and the shorter list denotes ranges of time - how far back in time the omniscope should look. You discover that you can actually read them all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The meaning of the script eludes you, but you see an organization to the elements of the readout.
+
+The strange symbol that dominates the readout is a handprint - albeit not a human one. There are two lists next to it: a longer list of text and a shorter list of what you believe to be numbers.
+
+Each list has one item highlighted. You feel fairly certain that merely touching a new item will select it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The alien handprint and the two lists in a strange script appear again as you step close to the machine. You cannot decipher the writing, but you know the longer list is text while the shorter list is composed of numbers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Examine the settings on the readout.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[It doesn't make any sense.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Time is set to present.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Time is set to recent past.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Time is set to distant past.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Omniscope is looking at Caravanserai.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Omniscope is looking at Junkyard.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Omniscope is looking at Circus Minor.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Omniscope is looking at Government Square.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Omniscope is looking at the Bloom.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Omniscope is looking at Bloomside.]
+
+{ADAM: Could this be combined with the Bloom?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Omniscope is looking at the Reef of Fallen Worlds.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Omniscope is looking at Cliff's Edge.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Omniscope is looking at Garravia Sound.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Tap the viewscreen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The screen shows an area north of Sagus Cliffs, below the crag of the city, where the land stretches out to the horizon. Amidst a maze of bluffs and outcroppings is all manner of debris, most of it predating the Ninth World.
+
+Metal and synth monoliths rise above a field of scrap. A functioning machine perches on the edge of an enormous pit. Strange plants and vines struggle to reclaim the land. It's even more cluttered and fantastic than the Reef of Fallen Worlds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>The viewscreen displays the junkyard north of Sagus Cliffs. It is cluttered with thousands - perhaps millions - of years of debris from prior worlds. Strange plants and vines are growing over and between everything, gradually reclaiming the land.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>The image in the viewscreen changes rapidly, showing the junkyard over many years.
+
+Scavengers come and go. The enormous pit grows slowly larger. 
+
+In the more distant past, a wall stretches across the junkyard, bristling with northward-facing batteries to protect the city from attack. But as time passes, the wall is abandoned, the batteries crumble into ruin, and the whole structure is subsumed beneath the surrounding trash.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The image in the viewscreen changes rapidly, showing the junkyard over days and weeks.
+
+Scavengers come and go. A small campfire catches your eye - an oddity in the junkyard. A small girl hunches over it. She looks scared.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Scavengers wander the maze, not all of them human. They pick out whatever numenera or scraps they can find.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>The image in the viewscreen changes rapidly, showing the Bloom over many years.
+
+The further into the past you look, the farther north the Bloom is. It looks like it is moving very slowly south over time - less than a finger's length per year - toward the sea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>The image in the viewscreen changes rapidly, showing the Bloom over days and weeks.
+
+The Bloom sees a lot of diverse traffic - merchants, refugees, and the destitute. A number of shady figures enter and exit, mostly through a stone gatehouse that is partially subsumed within the mass of flesh. Not a single levy or Sagus official ever seems to travel there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Merchants and other scattered figures travel along the Bloom's tendrils. A stone gatehouse, partially subsumed within the mass of flesh, would seem an obvious entrance, but very few are coming or going through its gates. 
+
+A number of scavengers sift through the debris outside the Bloom, tossing most of what they find into one of the Bloom's many orifices.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>The screen shows the dark chasm that flanks Sagus Cliffs on one side. At the bottom of the chasm is a carpet of debris that seems to flow like a river from the junkyard north of the city down to the sea.
+
+In the darkest part of the chasm, beneath a cloud of greasy smoke, is a city-sized mass of living flesh... the Bloom. Its name springs readily to mind, plucked from your sire's memory.
+
+Tubes and tendrils sprout from the Bloom in a hundred directions, many of them attached to the cliffs on either side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>The screen shows a city-sized mass of flesh - the Bloom - that lurks in the dark chasm beside Sagus Cliffs. Tubes and tendrils sprout from the Bloom in a hundred directions, many of them attached to the cliffs on either side.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>The image in the viewscreen changes rapidly, showing the cliffside over many years.
+
+The further back in the past you look, the more buildings there are. They have been falling gradually into the sea over many centuries.
+
+Above and below, there are seaward-facing batteries - defensive weapons that predate the Ninth World - but they too collapse into the sea as the years pass. Shortly before the "distant past" ends, the last of them topples from its perch, leaving the city defenseless.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>The image in the viewscreen changes rapidly, showing the cliffside over weeks and days.
+
+Buildings collapse into the sea quickly, as if something were undermining them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>The people of this area are, for the most part, rough and bitter. They don't live on the edge by choice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>The picture on the screen shows dozens of buildings built into the cliffside itself. Many of them hang precariously over the sea far below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Dozens of buildings are built into the cliffside. Many of them hang precariously over the sea below.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>The image in the viewscreen changes rapidly, showing the square over many years.
+
+Centuries ago, there was some kind of rebellion. It spilled out from the Bloom up to the highest parts of Sagus Cliffs. Leading the charge is a woman wielding a glowing hammer. She is covered entirely in silver scales - she doesn't even have a face that you can see. Her followers are numerous, and the leaders of ancient Sagus are quickly killed or subdued.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>The image in the viewscreen changes rapidly, showing the square over weeks and days.
+
+A pale woman with yellow hair stands in front of a magical gateway. Occasionally, you see children enter or exit the portal, though never the same child twice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>The people here shine as much as the square itself. They are well-dressed and obviously wealthy. Many levies walk the square, as well as Aeon Priests, foreigners, and a few non-humans.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>The viewscreen blinks to life, showing a bright, sunlit square near the top of the city's crag. The square is paved with synth slabs. Several ornate buildings rise around the edges of the square. A few of these are made of gleaming metal and seem to burst forth from the ground itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>The bright sunlit square is home to many elaborate buildings. A few of these are made of metal and seem to burst forth from the ground itself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>The image in the viewscreen changes rapidly, showing the bustling square over many years.
+
+Buildings rise and fall as time passes. One in particular catches your attention. It is built from purple rock and rises perfectly straight, perhaps fifty stories tall. On its side is a magnificent mural of a creature - or perhaps a tree or a storm - but you feel certain it is a creature. Perhaps *the* creature, the Sorrow that is hunting you.
+
+The building stood for centuries before it was torn down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>The image in the viewscreen changes rapidly, showing the bustling square over days and weeks.
+
+You see a vibrant parade. In the center is a man bound in chains. His expression tells you he is walking to his death.
+
+Aligern and Callistege pass, conferring quietly as they make their way toward the steps that lead to the Reef.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>The crowd surrounding the execution ground has dispersed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>The screen shows a bustling city square near the bottom of the cliffs. People of all types mingle about, with artists and performers buzzing among them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>You see the bustling city square near the bottom of the cliffs. People of all types mingle about, show off their wares, or entertain the crowds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>The image in the viewscreen changes rapidly, showing the Reef over many years.
+
+The first thing you notice is the construction of a synth dome... the same dome you crashed into when you fell to earth. A man with a castoff tattoo works alongside various automatons. The castoff is wearing tattered leather robes. An alarming number of wires and tubes protrude from his body.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>The image in the viewscreen changes rapidly, showing the Reef over days and weeks.
+
+The most interesting occurrence in this time frame is when you fell. There is a bright flash. You see Aligern and Callistege watching the skies, then Aligern twists his hands in the air, sending multi-colored energy up into the sky.
+
+Seconds later, a white streak - encased in the same energy - slams into the crystal dome at the edge of the Reef.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>The nychthemeron is there, wandering aimlessly near the black obelisk. The other scavengers are keeping their distance from the dangerous creature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>You see the half-sunken buildings and artifacts of the Reef of Fallen Worlds, where you crashed into the earth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>The image in the viewscreen changes rapidly, showing the sea over many years.
+
+A long time ago, the cliffsides had defensive batteries built into the rock. All of these have collapsed or fallen into ruin.
+
+An enormous marteling whale glides into the bay with a small village built on its back. Before it can reach the cliffs, the batteries thunder into life, destroying the whale and the entire village.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>The image in the viewscreen changes rapidly, showing the sea over days and weeks.
+
+Strange ships come and go, both sea and air, bringing trade goods from places you cannot see beyond the horizon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>The sea is placid. A small number of ships ply the harbor, seeking fish or sunken artifacts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>The viewscreen shows the vast sea to the south. Two peninsulas embrace the waters for many kilometers, then the sea stretches out to the horizon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>The screen shows the vast sea south of Sagus Cliffs. Two peninsulas embrace the waters for many kilometers, then the sea stretches out to the horizon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>The image in the viewscreen changes rapidly, showing Caravanserai over many years.
+
+The docks have been a bustling center of trade for as far back in time as you can see.
+
+In the earliest recorded time, you can see two figures standing atop this very observation platform - a male and a female. Bright flashes and gouts of smoke suggest a great battle taking place along the cliffs below, until the man activates something on the control panel, a faint veil of energy encircles the city, and the tumult suddenly ends.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>The image in the viewscreen changes rapidly, showing Caravanserai over days and weeks.
+
+You catch a glimpse of a woman with purple hair and slow the images down to watch. She stands near the entrance to the hostel, speaking to the proprietress. After a moment, she embraces the woman. Then she hurries off toward  the docks.
+
+The woman's hair seems to move of its own accord. She is almost certainly the woman that Omahdon described.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>It looks exactly the same as the scene before you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>The screen shows the plateau of Caravanserai.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Look at the list of locations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Look at the list of text.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>There are eight locations listed, all of them within or near Sagus Cliffs. Selecting one will presumably shift the omniscope to look in that direction.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>There are eight items in the list. One of them is currently glowing brighter than the others. None of them make any sense to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Select Crefton.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Select the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Select Cliff's Edge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Select Government Square.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Select Circus Minor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Select the Reef of Fallen Worlds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Select Garravia Sound.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Select Caravanserai.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Leave the current selection.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Crefton is currently selected.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>The Bloom is currently selected.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Cliff's Edge is currently selected.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Government Square is currently selected.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Circus Minor is currently selected.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>The Reef of Fallen Worlds is currently selected.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Garravia Sound is currently selected.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Caravanserai is currently selected.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Look at the list of approximate times.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Look at the numbers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>There are three items here. You are fairly sure they represent numbers, but you don't know *which* numbers nor what they mean. One of them is currently glowing brighter than the others.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Select '128' to look at the distant past.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Select '12' to look at the recent past.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Select '1' to look at the present.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Touch one at random.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>There are three numbers here, representing a rough time frame - perhaps days, months, or years. The numbers are strange, but you are fairly certain you understand their meaning. Selecting one will presumably direct the omniscope to look at that time frame.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>The current selection is '128,' which you take to mean the distant past.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>The current selection is '12,' which you take to mean the recent past.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>The current selection is '1,' which you take to mean the present.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Touch one at random.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>You touch the name and it glows brighter than the others. Far above you, the omniscope shifts into a new position.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>The machine continues its soft hum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Leave the current selection.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>You touch the number, and it glows brighter than the others. The machine's humming changes in timbre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>[You do so.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Change the readout selections at random.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>You blindly select two items, one from each of the lists. The machine at the top shifts, and its humming changes timbre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Place your hand on the alien handprint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Access the viewscreen again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>As soon as you place your hand on the surface, the machine reacts. The glowing items on the two lists blink and draw lines to a rectangle - a viewscreen - that wasn't there before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>You study the script for several minutes but are unable to learn anything new.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>You blindly select one of the items, and it glows brighter than the others. Far above you, the machine at the top of the tower shifts into a new position.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>You blindly select one of the items, and it glows brighter than the others. The machine's humming changes in timbre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Little else changes until you reach images from many centuries past. Massive war constructs crawl across the Reef, firing weapons toward the city above. One of them is struck by a blast from a defensive battery, and it collapses into the crystalline water. As it settles, you recognize its back as the place where you met Qorro.
+
+There is nothing before that assault upon the city. When you try to look further into the past, the images loop back to the present and start over.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>The image in the viewscreen changes rapidly, showing the junkyard over days and weeks.
+
+Scavengers come and go. A small campfire catches your eye - an oddity in the junkyard. Rhin's small figure hunches over it. She looks scared.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>A crowd gathers around a man bound in 'ropes' of rotting viscera. He shouts at the air while his bonds grow tighter. The crowd watches with a mixture of emotions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Very few scavengers trawl the Reef... perhaps because they believe there is nothing more to be found... or perhaps out of fear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>The image in the viewscreen changes rapidly, showing the sea over many years.
+
+A long time ago, the cliffsides had defensive batteries built into the rock. All of these have collapsed or fallen into ruin.
+
+An enormous marteling whale glides into the bay with a small village built on its back. Before it can reach the cliffs, a fountain of blood spurts from its head. It howls mournfully, then sinks into the waters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>The image in the viewscreen changes rapidly, showing the sea over many years.
+
+A long time ago, the cliffsides had defensive batteries built into the rock. All of these have collapsed or fallen into ruin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>The image in the viewscreen changes rapidly, showing Caravanserai over days and weeks.
+
+Travelers come and go, though the ships with the fish-like passengers or goods marked for "M'ra Jolios," remain in their docks for a long time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

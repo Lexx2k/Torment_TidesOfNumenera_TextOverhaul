@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_the_genocide</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>130</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>This burly, armor-clad figure stands almost motionless as you approach. He regards you silently through his singular eye. The studs on his arms and the blades on his shoulders are stained and pitted with age. 
+
+When he speaks, his voice is muffled and artificial, a hollow grumble that emanates from the entirety of the helmet.
+
+"I am the Genocide. If you ask, I must answer. Pass on, then, and exchange no words."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"We drove them to the Forge of the Night Sky, to the valley of M'ra Jolios, to the dangers of the Black Riage. But those who built atop these ruins... they thwarted us. Time and again. And so we brought our constructs and our deadliest warriors to the bay outside the city. We laid a mighty siege."
+
+"We entered the human settlement. We fought past barricades and traps. Some of our constructs are still here, silent and dead. But when we thought we had achieved our greatest victory..." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>The nearby panels buzz and crackle with unseen energies. "The shields," you mutter. "We need the shields *now*."
+
+You press several buttons. A generator coughs into life, and the lights flicker for a moment. A faint veil of energy encircles the city, and then there is a strange and terrible stillness, as if the world held its breath.
+
+The rest of the memory is bloodshed. The humans of Sagus Cliffs made the stranded Tabaht pay.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>... and then the memory fades. 
+
+You know now that the nano who saved the city became the Changing God. You know it was he who defeated the Tabaht. You *remember* the hatred.
+
+... but you do not remember the girl who was with you. What was her name?
+
+The Genocide watches you silently.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"This one, beside me, no longer functions. But one of the others is buried in the ground, not far from here, and has not yet failed. It powers the Clock around which those ridiculous fools prance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[B] (Do not implement until the Jagged Dream quest line is developed.) The Genocide is secretly the leader of the Jagged Dream cell in Sagus Cliffs. He will never give out any Jagged Dream quests, but a respected leader of the cell will be mentioned by other members, and the player has a few ways finding out who it is. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Once he does, he can talk to the Genocide about it and may have an option to 1) infect the Genocide (and all the other members) with a mental virus that alters their personalities or removes all memory of the Jagged Dream from their minds, or </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>2) convince the Genocide via dialogue and/or Tidal Surges that his philosophy is flawed. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>He watches you, hardly moving, as if he hopes you will pass by quickly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"What are you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Can you tell me what you are again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Can you tell me about the nano who trapped you here? How did he stop you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Can you tell me about the nano who trapped you here again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"You mentioned the Tabaht. Who or what were they?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"I want to talk about the Tabaht again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"You mentioned the shield generators. Can you tell me about them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Can you tell me about the shield generators again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"You said you were the last of your kind. Why?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"So, wait, can you tell me where the other Tabaht are again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"You said you had to answer if I asked. Why?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Can you tell me why you have to answer every question again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"I have no more questions. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"No. I wish you no good tidings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"I am a blade that cannot cut. A weapon that cannot strike. A living monument to failure."
+
+He shifts his weight. You hear the frown in his voice. "I was Ogesti tel Kotu, the Firm Hand of Tradition. They called me one of the Black Three. Enemies did not understand us. They took my name to mean death in a dozen extinct tongues, called me Orphan-maker, Hopesmasher, Death's Child. My armies blackened the earth and the skies. My dragoliths scoured the land. Domination was my duty." 
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ogesti tel Kotu. A mockery they call the Genocide. A living relict of the Tabaht."
+
+He does not seem inclined to elaborate further.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"I know of no others. Kalaghat Anvor, He Who Shares Truth and Understanding, is dead. Vostuleh Lo, the Blinding Light of Reason, was destroyed. The Underspine has fallen. My people are destroyed utterly, and our servant god speaks to us no longer. The clean lines of order and the glory of battle have forsaken us."
+
+He pauses. "The rest are dust. We rose against a superior foe, and were outmatched. Only I remain to tell the story of the Tabaht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"The rest of the Tabaht have gone to the dust. Only I remain."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>From within the helmet, you hear a grinding noise, the sound of teeth gnashing, amplified. Then, the voice again, bleak: "We sat at the river's edge and we wept for the time that was. We saw nothing more to conquer, and yet our fears still drove us. We had conquered the land, purged its impurities, made it ours. Still we wanted more. When we heard that humans had come to carve a home, we rejoiced to have a new foe, a new test of our truth. We rode against them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Time's toxins course through my veins. I am compelled."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"You mentioned the names of some Tabaht. Can you tell me about them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Can you tell me about the named Tabaht again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Kalaghat Anvor. The strongest mind of the Black Three. None could stand before him when he bent his mind to their unraveling. Intricate, careful, overwhelming. Vostuleh Lo. A methodical planner, collector of curiosities, the toolsmith and construct-waker. It was he who brought the ancient machines to life. And I, the knife, the strategist, the blade in their hands. We three were unstoppable."
+
+He pauses. "Until Sagus Cliffs. Until then. Until the corruption of defeat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>He considers. "No. To speak of them again is to defile their glory."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>The Genocide raises his hands in defeat. "He found old knowledge and made it his own. He created defenses that we could not penetrate. Most telling, most effective - the shield generators. He created three barriers around the heart of the city, and the last unmoored the city in time. When our constructs touched it, they flashed to stasis. We could not reach the city... but the city could reach us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"I am not required to speak of him again to you. The compulsion has been satisfied."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"My people." His voice is forlorn. "Great warriors. We owned this land. We served the Underspine, and it served us. We sought truth in victory. We ascended to epiphany. We were pure, incorruptible, indivisible even in disunity. We found strength in one another, and proved it with bloody blades. But we fell. And the Underspine fell. And so, too late, we learned a new truth. But I carry the old ways as a seed within my heart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>He grates out, "Then talk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"I told you their effect. They unmoored the city in time. They severed our supply lines. They left us vulnerable, and defeated us. The Underspine's strategy failed us. I began to doubt." 
+
+He shifts slightly. "The generators are unused, abandoned, their purpose forgotten. Though the people of this city still swear by our name, and our terrors are fresh in their nightmares despite the passage of centuries, they have forgotten the means of their salvation."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"They unmoored the city. Most have broken. One powers the nearby clock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Why did the Tabaht fight so much?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Can you tell me why you fought so much again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>He lowers his head. "A powerful nano saved them. With his magics, he called upon the strength of the ancients and captured us. I thought my life was at an end. But he imprisoned me in slow time, trapped me in my body, used machines to paralyze my will. I still remember our glories, and I see the faded future in front of me, and I am powerless to act. The memories of our triumphs remain always at the forefront of my mind, and I must answer the mocking questions of these... people... or suffer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>You feel the ticklings of memory as the Genocide speaks of the shields. He continues to talk, oblivious.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Let the memory come.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Push the memory aside and focus on the Genocide's words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Wait. I had other questions."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"That's all I wanted. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>The memory from the orb in the Labyrinth comes upon you again, stronger than before, but now you remember it as it happened, not as you wished it had. You fought against the woman with the invisible blade, and you crept past the guards at the base of the stair, and you descended into the basement of your tower.
+
+You activated generators and ascended to the command platform on the heights.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>It's a patchy memory, coming in still images and moments - the relentless beat of the war machines as they approached the city, the reavers in the sky on their dirigibles... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>You remember fighting them on the parapet. You remember fleeing into the safety of the city. You recall making your way to the shield generators, cutting off the Tabaht supply lines...
+
+...and then the memory fades. The Genocide watches you silently.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"We fought. We pushed past the obvious defenses. We felt the familiar rush of victory. And then the world stopped moving outside. That *nano* had shielded the city from us. Cut off from our supply lines and our communications support, we... we were surrounded. They cut us down and brought me - *me* - in chains before their court. The crowd judged me. They mocked me, tormented me. Their nano cursed me, and now I am weak. Ineffectual." 
+
+He snarls, "I cannot even take my own life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>You feel the Genocide's gaze upon you through the visor, but he is silent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Can you tell me more about the Underspine?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Can you tell me about the Underspine again?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Our slave, our god, our prize. It kept us holy, kept us pure and unchanging, anchored to a fixed point. The world turned around us, but we remained constant. When the world brought inconstancy, we fed it blood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"I spoke of it once, and need speak no more to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Let me ask about something else."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"You seem very calm for someone who has been imprisoned for centuries."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Tell me why you're so calm again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"I have been defeated. I have nothing to fight for. My captor castrated me with a tool they made to dampen my natural urges. I can remember the actions. I can recall the glory. But I feel... shame. Regret. I am weakened, but not by my volition."
+
+The Genocide squeezes his fists. "What does it matter? Those who stood against me are all dead. I am victorious. I no longer fight with a blade. My weapon is time."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"The nano of old stripped the ambition that was my birthright. I have replaced it with eyes that have seen centuries."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"The nano who defeated you was the Changing God. He and his children still live."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>His voice is flat and dead. "Others have claimed this. I do not know if they say this to torment me. But if our enemy was a god, even if he was once but a man, then to stand against him is to spit in the face of the divine. The Tabaht were a holy people. Humans do not believe it, but our rites were as sacred to us as they were profane to your kind. We accepted the will of the ineffable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Any who still live may yet find the mantle of godhood. To be divine is to be beyond the rule of mortal ethics. Those who would be gods must cast aside these concerns, if they are to turn against the old teachings."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"I was to wage war unto the edge of the universe... but the universe keeps going, and so, it seems, must I. Someday, I will be free. Some day. Until then, I am incorruptible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"For honor. For truth. For the One Way. Because it was our *duty.* We were born to the blade. So it was written. So we chose. Free will is a curse unless given to a greater purpose. Our purpose was given to us by the Underspine, given to the Underspine by our ancestors, who found it and crystallized our essence forever."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"It was our duty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"A castoff of the Changing God traveled to Vanders's tomb, and Vanders dominated his mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"I witnessed a traveler enter Anvor's tomb and destroy his mind utterly."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"I witnessed a traveler enter Anvor's tomb. The two of them merged into one mind, cohabiting."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"I witnessed a traveler enter Anvor's tomb. Anvor destroyed his mind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>He pauses. "The Underspine was our soul, our confessor. We knew clean, hard rapture from it. We knew our path. It gave us the words of the ancient Tabaht, and our path was rigid and unbending. Absolute."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"If your path was unbending, it's no wonder you broke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"What *was* the Underspine?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"What's the benefit of an absolute path?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"What happened to the Underspine?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>He considers. "You would not understand. It was a machine. It was a stone. It was a cavern. It was a city. It was the direct voice of our ancestors. It spoke in our heads, and in our ears, and in our hearts. We heard its voice in our creches, in our daily instructions. Our god was true and strong and singular, not the fickle, inconstant things of the modern day."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"We had no questions about our duty, about our goals - only the particulars. We erased doubts in the purity of utter certainty. Questions raised are questions answered, or they are heresy. No need for self-agony. The necessity of introspection was transmuted into optimization of our paths, into fashioning ourselves into the pinnacle of our achievement. Clear definition in life creates truth. Not this pitiful shadow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>You hear the frown in his voice. "Sabotage. Or failure. One of those under my command told me that it had whispered *defeat* into his ears, as if it had sickened, lost sight of the true path. Given the question, the Underspine denied this. My soldier was cast out, and I suffered the barb for his doubt. It was later, years later, that the Underspine broke. After our failure. And I have never been sure if the seeds for our defeat were planted in those days."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"I do not bend now. I have been driven down, but I do not bend. I live, and those stood against me are dead." He turns away from you slightly. "Do you have more questions, or do you release me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Then I am truly the last. He spoke of casting a shadow in death, of creating a structure that would outlive him. I did not understand his explanation. It was not my duty. I had hoped Kalaghat Anvor might rise again. I had resigned myself to his passing. I will survive regardless."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>He inclines his head, and his voice is smug. "Had anyone sought my advice, I would have told them this would be the outcome. Kalaghat Anvor is without peer. Even in death. Imagine the power he wielded in life."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Kalaghat Anvor would never allow himself to be debased so. It would be corruption. Imperfection. I do not believe you."
+
+He looks down, and flexes his hands. Then, quieter: "No. I do believe you. The world is in decline. Nothing approaches the perfection we established. At least He Who Shares has shared his insights with the world again. Perhaps he can resurrect the Underspine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"If they had known, if they had welcomed us, they might have been our thralls. Instead they became dust."
+
+He gestures. "All this. It was to have been mine in stewardship for the future of my people. It was promised. But now." His arm falls back to its side.
+
+"Now I am the Genocide. A relict. The last of my kind."
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>He leans in closer. "I do not die. I cannot be wounded. I am held like a beetle in sap. Why would I not be... serene?"
+
+He settles back. "The Underspine spoke of my destiny."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>He shuffles his feet. "The nano who captured me, who nailed me to time... he used the Mindseer to ferret out the Underspine's location. I do not know if he ever found it in the world. He raped a genocide from me, and mocked me with his sobriquet. I was not to blame. I will stand before the Underspine and swear my innocence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"How did they stop you from trying to escape?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Tell me how they stopped you from escaping again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"The nano who raised the city's shields created a device. He called it the Mindseer. With it he violated my mind, my memories, and everything that was at the core of my being. In a fit of vengeance, he tore truths from me. He made me betray my people. He rewrote my mind. He gave me perfect clarity into the past, and gelded my ability to shape the future."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"They forced themselves into my mind with the Mindseer. They rewrote my desires, and scribbled their own onto me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"The Tabaht never sought revenge against foes who were mightier than we. We devised stratagems to defeat them. We tested ourselves. We did not punish or hate. Punishment was purification. This, though, is torture. The worst of the city's refuse can mock me now. They can ridicule and jape, and I am powerless to strike them for their impudence."
+
+Then, quieter: "And now they do not even do that. I have become a fixture. An irrelevance. A non-entity."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"I am the slave to..." You hear his teeth grinding as he thinks of the perfect insult. "... to *peacemakers.* I must endure their presence, and feel their corruption sink into me daily. Some foreign part of me desires it." He thumps his fist into his hand. "But I remember that I will triumph over them. Eventually, they will die. And I will not."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>His surface thoughts are like a crystal pool - alternately transparent or else perfectly reflecting his words. His mind reveals nothing hidden, except for a low-level hatred of everything around him. This latter is more a *feeling* you get than an actual thought that you hear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Utterly silent, Oom leans back from the creature, rippling like a pool of water in a strong wind. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

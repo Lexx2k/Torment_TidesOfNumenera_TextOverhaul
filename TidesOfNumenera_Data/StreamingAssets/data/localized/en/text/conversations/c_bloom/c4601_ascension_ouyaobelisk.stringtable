@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4601_ascension_ouyaobelisk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Even as it floats weightless in the air, the megalith bespeaks adamantine heft - perhaps because of its contrast with the surrounding crystals.
+
+The stone bleeds need, even hunger, and a telepathic whisper rasps the thought &lt;product&gt; in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The stone floats on, implacable and needy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Offer it the alchemical powder.
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Study the megalith.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Leave the megalith alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>&lt;What do you want?&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>&lt;*What* product? Please, tell me what you want!&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>&lt;Product. I only.&gt; There is a pause, and suddenly you have a firm image of the alchemical powders given to you by the two merchants in the Bloom. 
+
+It seems this... thing is their trading partner.
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>&lt;Product. I only. No other. Give give, I only, return happy bubbles.&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The only response is the thought, &lt;product&gt;, grating in your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Its need satisfied - for the moment - the megalith is silent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>As you hold out the jar, the megalith's need grows all the more insistent. &lt;Give give. I only. I give happy bubbles. Good smells.&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Again, the megalith insists &lt;I only&gt; and offers you &lt;happy bubbles&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>&lt;Happy bubbles? Good smells?&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>&lt;Why 'you only'? Can't I trade with others?&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Give it the powder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Keep the powder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>You sense the megalith's glee. &lt;Yes yes. Good hatchling. Many happy bubbles.&gt; Somehow, its sales pitch does not quite cross the gulf that lies between megaliths and humans.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Something almost like caginess radiates from the stone, and the thoughts that form in your head seem practically smarmy. &lt;Too funny! Help hatchlings. Good smells all. I only.&gt;
+
+After a pause, it adds, &lt;Not always. Only some revolutions. Many happy bubbles for hatchlings, and I much product.&gt;
+
+Whatever the terms of the bargain, it is unclear how this thing could possibly enforce it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>One of the scales slips aside, and the megalith slurps up the powder with a burst of suction. For a moment, its telepathic emanations cease, and then its pleasure radiates through you.
+
+&lt;Good hatchling. Many happy bubbles to share. Enjoy the sauce.&gt;
+
+Another scale slides back and several objects tumble out. You barely manage to catch them before they fall to the ground.
+
+{LOOT: Zero Sum Engine + Collection of Crystals.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>The stone projects pained disappointment into your mind. &lt;Many happy bubbles pop with grief.&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>As you tuck away your loot, you notice that the megalith has gone dormant. Apparently it has no further need of 'product' now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Although from a distance it seems to be a single stone, up close you see that it is covered in many small scales, each inscribed with a different pattern - whorls and loops and arches as distinct as those of fingerprints.
+
+Whether it is a mechanical construct, a living being, or something else entirely is unclear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>The battened-down megalith does not deign to recognize your presence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Pull off a scale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Try again at pulling off a scale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Digging your fingers deep under the scale, you rip and tug with all your strength. At last, the scale snaps off, revealing a tube-like fistula leading into the megalith's interior.
+
+As a small object rolls out of the tube, your mind explodes with the megalith's outrage. &lt;No no. Bad hatchling. No bubbles.&gt; Then, its thoughts fall silent.
+
+{LOOT: An item inferior to the Zero Sum Engine.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>You pull and pry at the scale, but succeed only in slicing your fingers on its sharp edge. The megalith, for its part, does not react at all to your futile scrabbling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>The megalith still appears oblivious to your bloody-handed efforts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The other scales press more tightly against the megalith, and a thin, oily coating seeps over them. No more prying will be possible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Try to read its 'mind' to understand what it wants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>You don't hear any thoughts from the megalith beyond what it projects to you. If there is a mind here to read, it is impenetrable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>&lt;Product. Product. You have.&gt;
+
+The floating megalith's 'voice' in your mind is eager and intent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>&lt;I have the 'product' that you want now?&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

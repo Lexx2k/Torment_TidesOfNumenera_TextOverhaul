@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4211_artaglios_maw</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Artaglio halts in front of the Maw, and you can barely understand his insults through the thick slur of his drunken voice. It seems the bravery essence has had some sort of numbing effect on his tongue.
+
+The Maw does not react to this verbal assault.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Artaglio reaches out and grasps a Bloomtongue as if to pull it from the flesh of the Bloom, and suddenly the Maw is *alive* with writhing, flapping tongues that wrap themselves around Artaglio's arms and begin to pull him in headfirst.
+
+You hear his curses continue even as he is enveloped.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Sated at last, the Maw opens wide. A transdimensional rift appears within.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Artaglio halts in front of the Maw, and you can barely understand his insults through the thick slur of his drunken voice. He calls it some truly vile names, accuses the Bloom of anatomical acts that you are certain are impossible, and insults its supposed lineage. It's an impressive delivery of serial imprecations.
+
+The Maw does not react to this verbal assault.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Resolution etches its way into Artaglio's face, as if he knows he's walking to his death. But there is no falter to his step, and he carries himself erect and strong. Drawing on whatever well of bravery let him ride into the face of enemy fire serves him well now. As he walks, you see his chest expanding as he puffs himself up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Artaglio's face is set and hard, his carriage erect and strong as he strides toward the waiting mass of Bloom-flesh. The amiable drunkard he presented to the world is gone, and you realize that no matter his protestations to the contrary, this mercenary possesses a deep well of bravery. If anything, his steps grow faster as he approaches the Maw.
+
+The Maw's tongues begin to tremble at his approach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Bloom-tongues reach out and stroke his head almost lovingly. They fasten more firmly to his skull.
+
+"Strange," he says. "This doesn't hurt at all. It's like... like the Bloom is just shuffling through my memories. Ha! I remember leaping from the Wailing Cliffs. Ranard, do you recall our battle with those slimy things in - oh, and the skyriders of Five Cliffs!... I'd forgotten so many of these moments. Why was I so afraid of this?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Suddenly, the Maw gapes open, and a tongue lashes out. It wraps itself tightly around Artaglio. He has just enough time for a shouted imprecation before the Bloom-tongue hurls him into the Maw. He is gone, and no sign of him remains.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>{SCRIPT: If it is necessary for scripting that this conversation has no fallthrough node, then delete this and set the "Does Not Follow Dialogue Conventions" property on the root node.}
+
+This is the wrong node!  How did you get here!?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Script Node 11</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

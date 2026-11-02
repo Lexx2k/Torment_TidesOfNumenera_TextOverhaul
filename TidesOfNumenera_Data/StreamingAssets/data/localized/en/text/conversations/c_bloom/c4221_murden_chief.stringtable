@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4221_murden_chief</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>140</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The larger size of this murden and the gray down that covers his head gives him a more stately and menacing look than his compatriots. He hisses at the other murdens and the annoying mental static fades, until only his own harsh static remains. The noise whines and scratches in your head. As the chief 'speaks,' the human woman at his side translates in a dull monotone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"You come to nesting ground. Threaten sentries. Trespass. Why we not kill you?"
+
+Her voice changes, pitching higher as the two murdens who fled to this room hiss, their mental static burning your mind. "*Hate* humans. *Kill* humans. *Eat* humans!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Why you come here, human? Your kind... too afraid. They see their fate." The girl gestures to herself, mimicking the movements of the murden chief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Attack] "You want to kill me? *Try.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"If I had wanted to kill them, they'd be dead. I just want to talk to you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Good answer, human. Good answer. Sentries are scared. Weak. Tell us what you want. Maybe we give it. Maybe we trade it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Have you seen any of the Memovira's patrols lately?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"The guards? They not come here. They *learn*."
+
+The murdens in the room shift on their feet and hiss. In quick succession and in varying pitches, she adds, "Ha. Ha ha. Ha ha ha. Ha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Touch the Annulet, and use it to communicate more clearly with the murdens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You touch the Annulet, and it broadcasts the mental static of the murdens physically into the room, like feedback. The murdens clutch their heads and hiss in irritation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"I found some of the Memovira's guards, dead, down the hall."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"They take our things. We not let them. We *stop* them. Show them protection is easy. Now they food. Memovira not happy? She come and talk herself - not send slaves."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"I see a banner in your nest over there. Where did you get it?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ha. Ha. Pretty cloth. Human soldiers not protect it during raid, so we take. Ours now. He want it? He come for it."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Who is this woman who speaks your words?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The woman stands impassively as the murdens buzz static through several irritating frequencies back and forth. At last the chief's mental buzz cuts through them all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"We not speak human language. We buy slave. We fix slave's brain. Slave become machine. Machine speak human."
+
+She pauses while the chief clacks and hisses.
+
+"Slave not need whole brain anymore. Excess brain was tasty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"You live in fear, cowering in the Bloom. I tell you that what you fear is *me*, and now I am here. I will feed on your terror and your marrow if you don't leave here, and right now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>A squalling blast of static, and then she says. "No. Pretty cloth from drinking-man belong here. Right of theft. If drinking-man want it, he steal it back."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"If you return it, you'll gain much - respect, possibly the friendship of Artaglio, more freedom to roam the Bloom." </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Let me ask about something else instead."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"You want cloth? Replace it. But not with coin. Not with things. Replace it with *experience*." Her monotone breaks slightly here, the emphasis of the murden's thought pushing more strongly on her. "Flight. I want to hunt in the sky. Give me experience of hunting-flight and dive on prey. Then I return cloth to drinking-man."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>The murden chief hisses angrily, and a burst of mental static follows.
+
+"No, human. If drinking-man want cloth, he can put drink down and come. He can take it back. If he steal it, it is his. If he not, it is ours. No trade!"
+
+Another burst of static. "May be I need new speaking human shell. Drinking-man not use brain anyway. Wonder if his brain taste like his poison drink."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"I have a Hontri Essence. It will give you the sensation of hunting prey from the air, just as you asked."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>He presses the standard of Artaglio's Irregulars into your hands. "Take dirty cloth to drink-man. You complete bargain. Peace."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Stop. No more noise. Terrible. Terrible. Stop."
+
+The murdens back away from you, and their demeanor has changed subtly. They're less aggressive and more fearful, but you see how their unease might lead to a sudden display of force. They'll still require careful handling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>She recites the words without feeling or awareness. "This? This is not woman. Shell is empty. Woman is gone. Why you speak of it as human? It is machine. When it expires, will find new machine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ask. What?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The chief blinks at you for a long, slow moment, as if trying to absorb what you have just said. He obviously can't believe that a human would keep his word.
+
+He snatches the proffered essence from your hand, uncorks it, and tilts a healthy swallow into his mouth. His avian eyes widen as the drug hits his system, and his beak opens and closes involuntarily.
+
+The other murdens grasp their weapons, looking at each other, unsure of what to do.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Your brazen answer impresses the chief, and it shakes with hissing laughter. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The chief's mental static buzzes in your head, and again, the female human at his side translates his words.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"You free our slave. We pay for slave. You owe for loss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"*I* owe you? You should be grateful to *me*. He would have been more trouble than he was worth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"You're right. How much did you pay?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"You didn't buy that slave legally, did you? Parsim Flint wouldn't have sold him to a murden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>The chief eyes you, carefully assessing your capabilities. He fingers his weapons, but the longer he looks, the less certain his movements become. At last he removes his hands and holds them well away, showing he means no harm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"We pay [Global: c4221_MurdenChiefShinwisePriceCheap] shins. You pay [Global: c4221_MurdenChiefShinwisePrice]."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>The chief hisses angrily. "No," says the translator. "Little fat slaver would not sell to murdens, so we steal slave from merchant. That is truth."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>The murdens nearby buzz out a blanket of static, bobbing and hopping from foot to foot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>As the murdens hiss and chatter, she adds, "Ha. Yes! Eat Memovira. Show humans we dangerous."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>The chief's down ruffles at your approach, and he draws himself up, blaring his mind at you. He thumbs his weapons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>The larger size of this murden and the gray down that tinges his beak and eyes gives him a more stately and menacing look than his compatriots. His clothes are less tattered, and he projects an aura of command. As you approach, he hisses at the other murdens and the annoying mental static dies down considerably, leaving only his singular field as a sharper source. The noise whines and scratches in your head, and as the chief 'speaks,' the human woman at his side speaks in a dull monotone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Bank 55</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Let me ask again. Return the standard, and you'll reap goodwill among the humans of the Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>The murden chief turns its head back and forth at you, considering. At last, it turns to the nest and pulls the tattered, filthy flag from the befouled tangle. It lets out a long burst of static.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>A furious burst of static. "No. Never respect. Never trust. Humans lie always. Eat them. Hack them. *Kill* them."
+
+The chief murden draws his weapon. The other murdens do the same and move forward on you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Is it theft if I take it from your bloody corpse? Give it to me. Now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>The murden chief shrinks from your words. The murdens around him grow silent and still as they watch their leader fetch the filthy standard from his nest. He passes it to you wordlessly, and hardly a trace of the psychic noise around him leaks out as he does so.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>The murden chief makes an odd choking sound, as if trying to cough up something stuck deep in its craw. After a moment, the other murdens begin making similar sounds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>The murden chief shrinks from your words. The murdens around him grow silent and still as they watch their leader fetch the filthy standard from his nest. He passes it to you wordlessly, and hardly a trace of the psychic noise around him leaks out as he does so.
+
+He looks at your face, shrinks back, and returns to the nest. He rummages around and comes back and dumps a handful of shins in your hands.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>The murden looks at you for a moment, his eyes widening. He pauses, tenses, and then issues a burst of the strongest static you have encountered yet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Your head swims with the blast, but you hear the translator repeat in her dull voice, "Kill. Hate. Kill, eat, destroy."
+
+{SCRIPT: Add Stunned Fettle for 1 turn}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>The woman next to the chief begins to cough and sputter as well, and it is several long moments before you realize she is imitating the chief's attempt at laughter.
+
+"You make us laugh, human. Joke is funny. Not serious."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Tell me about your people."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>The young woman waits for a moment while the chief and his underlings hiss and click back and forth to each other. "What to say? We are murdens. We hunt. We find. We take. Humans hate us. In world outside, we flee from them. Here, we rule." Her shoulders roll, an obscene imitation of an avian shrug. "Here, humans fear us."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Her voice changes pitch again, rising and falling through pitch, though never dropping the monotone delivery. "Is human poison chief? Chief alive? Near dead? Kill human? Kill? *Kill*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>A burst of static from the chief clears the air. The rest of them cease their restless, aggressive movement. The chief looks at you with respect, and bobs his head.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Leave our nest now. Farewell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>As the other murdens hiss and clack, she adds, "Ha. Chief funny. Ha ha. Impossible."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>The gathered murdens hiss in approval. "Yes. Eat drinking-man brain. Ha. Show humans who rule here."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"You tell drink-man I give. You tell him war is done. We free in Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>As you speak, trying to beat down the murden chief with the force of your personality, he puffs up and the mental static surrounding him - so well contained before - begins to leak out.
+
+When you finish, he barks a small burst at his translator, and takes a step closer to you, his hand hovering at his weapon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>The murden chief has been shrinking backward as you speak, withdrawing into himself as you batter him with the force of your personality. When you have finished, he lets out a small, quick burst of static.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"We leave. You not kill." 
+
+The confused psychic buzzing of the other murdens begins to rise before the chief's stronger static overrides them.
+
+"You want to die? Stay here. I believe. I leave."
+
+The murden chief flees quickly, followed by the remaining murdens. They take nothing with them but what is on their backs. They even leave their translator behind. She continues to stare blankly into space.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Emotion almost creeps into her voice, a sure sign that the murden chief's rage is running high. "Fear. *You*? Ha. We devour your genitals. We line our nests with your bones. You. Die. Now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"... all right."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Is all I own. Apologies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"We capture guards fairly. They deserve to suffer. Instead they escape, die too quick. Fun dies with them. We deserve payment."
+
+She pauses as the murden chief points his blade at you.
+
+"You take their place. You our fun now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"If you paid [Global: c4221_MurdenChiefShinwisePriceCheap], I should pay [Global: c4221_MurdenChiefShinwisePriceCheap] back. That's fair."
+
+{CRIT}
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"All right. Here you go."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"No, I won't pay that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>The murden chief thinks a moment, and then bobs his head once, grudgingly, and accepts the pile of shins you hand to him.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>The murden chief shakes its head and hisses angrily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Then you die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>The murden chief, so primed for violence, is completely taken aback by your generosity, and says nothing as he weighs the sack of shins that has just appeared in his downy hands.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>The chief clacks his beak and hisses angrily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"As you say. Slave take up food. Cost us. Maybe not fun to hunt or watch die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Yes. Go."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText> Follow-up PQ. 102</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"I am here for the return of Artaglio's standard. The flag in your nest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"I must have Artaglio's standard."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>The murden chief has been shrinking backward as you speak, withdrawing into himself as you batter him with the force of your personality. When you have finished, he lets out a small, quick burst of static as he empties his pockets. "Here. Take all. But do not follow."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>The chief and other murdens make strange choking noises around you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"No. No, we will not be doing that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>The chief glowers. Short bursts of static pierce your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>The chief shrinks back at your answer. Static hisses in the air.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>A piercing screech of static fills your mind from all sides. The chief grabs his weapon and raises it high.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Strong human. Tell us what you want. Maybe we give. Maybe we trade. Then you leave."
+
+{SCRIPT: Provides an asset for intimidation (and maybe persuasion) tasks with the murdens later.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Humans treacherous. Humans not respect murden. Tell us what you want, human. Maybe we give. Maybe we trade. Maybe we kill."
+
+{SCRIPT: Asset -1 to intimidation and persuasion tasks with the murden.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"No! Humans treacherous. Humans not respect murden. Murden *earn* respect. Murden *kill* humans!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[Attack] "You left that man to die. For that, I'm going to kill you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>[Attack] "You're right. I owe you a blade in the gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Humans always cheat murden. No more cheating."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"If you paid [Global: c4221_MurdenChiefShinwisePriceCheap], I should pay [Global: c4221_MurdenChiefShinwisePriceCheap] back. That's fair."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>The murden chief bobs his head once and readily accepts the sack of shins you hand to him.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>The murden chief shakes its head and hisses angrily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Humans always cheat murden. No more cheating. Cheating end today!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Humans always cheat murden. No more cheating."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Her voice is remarkably flat as the chief raises his blade and hisses.
+
+"Death to humans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"What if I paid you for them?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"The Memovira will send her guards to avenge them... and me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>[Attack] "Fun? I'm ready."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>She pauses for a moment. "Acceptable."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Wait. I'm sure we can strike a bargain that will be good for both of us."
+
+{SCRIPT: Provide minor penalty to PC for not being ready to attack.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Let's talk this out like rational beings."
+
+{SCRIPT: Provide minor penalty to PC for not being ready to attack.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"We capture guards fairly. They deserve to suffer. They bad. They escape, die too quick. Fun dies with them. We deserve payment."
+
+She pauses as the murden chief points his blade at you.
+
+"You take their place. You our fun now."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Your ability to read minds only exacerbates the static, amplifying it to painful levels. It takes a severe effort of will to shut out the noise.
+
+Apparently, reading the minds of murdens is a bad idea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Your ability to read minds suddenly exacerbates the static, amplifying it to painful levels. It takes a severe effort of will to shut out the noise.
+
+Apparently, reading the minds of murdens is a bad idea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Tell me about your people again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"We are *murdens*. We *take* what we want. Humans not tell us what to do, not here in Bloom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"What is that static in the air?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Upon hearing your question, all the murdens in the room begin cackling and shrieking.
+
+"Ha. Ha. Ha," says the translator in a monotone voice, barely audible over the noise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>When the murdens have settled down, the harsh static of the chief fills your head, and then the translator speaks.
+
+"That is our *thoughts*. That is how we *speak*. No need for clumsy words like you, stupid human."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"You so smart? We give better deal. Pay us [Global: c4221_MurdenChiefShinwisePriceCheap] shins or we kill you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"I don't have enough shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"All right. Here you go."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>The murden chief, so primed for violence, is completely taken aback by your acceptance of his deal. He says nothing as he weighs the pile of shins that has just appeared in his downy hands.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"I don't have enough shins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"No, I won't pay that."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Then you die."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Angry static fills your head. The chief puffs up his feathers, looming over you, eyes glittering in the dim light.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"You free our slave. We pay for slave. You owe for loss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"I'm looking for a black metal frame that you recently took from the humans."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>The chief squawks, and the translator speaks. "Ha ha. We have many treasures. Not remember 'frame'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>He mutters to you, "If we have to kill them and root through their junk for it, I'm willing."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"I found the soldiers you imprisoned, and I set them free. You had no right to mistreat them."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>For a long moment, the room goes silent. Then furious static crackles through your mind.
+
+"They were *ours*. Our playthings. Our food! Our first *strike* against the Memovira." The translator pauses, and the chief quivers with rage. "You will *pay* for what you took from us."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
