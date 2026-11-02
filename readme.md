@@ -22,4 +22,4 @@ Back up replaced files before installation if you want to restore them later.
 | He recoils a little, taken aback. "... what did you say?" | He recoils. "... what did you say?" |
 | "You don't recognize me? Really. Then why - " He swallows the rest of his sentence. "I am Aligern. This is Callistege." | "You don't recognize me? Really. Then why -  I am Aligern. This is Callistege." |
 
-<p align="center"><img src="Resources/dialog_1.png" alt="dialog"/></p>
+<p align="center"><img src="Resources/dialog_03.png" alt="dialog"/></p>
