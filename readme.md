@@ -6,7 +6,7 @@ This mod revises narration and descriptive text throughout the game while preser
 
 Only english text and roughly 14% has been touched. Voiced lines are unchanged, as well as regular dialog spoken by characters. 
 
-The mod also includes a wider vertical dialogue interface on the right, scrolling dialogue history, uppercase speaker names, hanging indents, and party portraits at the bottom left during conversations. Portrait tooltips remain available; portrait clicks are disabled during dialogue.
+Additionally, the mod includes a more modern, wider vertical dialogue interface for a more comfortable reading experience.
 
 ## Installation
 
