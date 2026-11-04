@@ -2,7 +2,7 @@
 
 # Torment: Tides of Numenera - Text Overhaul
 
-This mod revises narration and descriptive text throughout the game while preserving character dialogue and voiced narration. The original writing is incredibly dense, wordy, and often overwritten. The aim is to trim unnecessary prose and make reading less of a slog without losing the game's atmosphere. The game itself isn't bad; the writers just didn't know when to stop. Sometimes less is more, and RPG writing is no exception.
+This mod revises narration and descriptive text throughout the game. The original writing is incredibly dense, wordy, and often overwritten. The aim is to trim unnecessary prose and make reading less of a slog without losing the game's atmosphere. The game itself isn't bad, the writers just didn't know when to stop. Sometimes less is more, and RPG writing is no exception.
 
 Only english text and roughly 14% has been touched. Voiced lines are unchanged, as well as regular dialog spoken by characters. 
 
